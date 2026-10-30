@@ -28,3 +28,14 @@ python summarize_results.py
 ```
 
 Una risposta HTTP 200 o testo estratto non dimostrano che titolo, data e link di ogni articolo siano corretti. Il test è diagnostico, non una certificazione di copertura. Non usare risultati senza verificare la data di pubblicazione.
+
+
+## Raccolta per il Site
+
+`collector.py` raccoglie esclusivamente metadati pubblici dalle fonti configurate in `sources.json`, prima da feed ufficiali e HTML con Trafilatura e, quando necessario, da pagine renderizzate con Crawl4AI. Rispetta robots.txt e i limiti di accesso: nessun aggiramento di 401/402/403/429.
+
+Il workflow **Raccoglitore fonti Osservatorio** parte alle 02:45, 06:45, 10:45, 14:45, 18:45 e 22:45 UTC, oltre che manualmente. Conserva in `data/sources/` titolo, link, breve estratto, data di pubblicazione e diagnostica. Il Site privato legge questi JSON; note, selezioni, preferiti, newsletter e credenziali del Site non sono inviati a questo repository.
+
+Sono inclusi solo articoli con data di pubblicazione verificabile entro 14 giorni (tolleranza futura 6 ore). Un feed leggibile senza articoli recenti viene distinto dagli errori di raccolta. Non sono usate date di ultima modifica come date di pubblicazione.
+
+Eseguire `python -m unittest -v test_collector` per i controlli del parser e `python collector.py` per la raccolta. `SOURCE_IDS` consente una lista di ID separati da virgole. Il report distingue fonti riuscite, percorsi non validi, timeout, parsing e accesso limitato.

@@ -1,0 +1,576 @@
+{
+  "schemaVersion": 1,
+  "sources": [
+    {
+      "id": "piu-europa",
+      "name": "+Europa",
+      "url": "https://www.piueuropa.eu/",
+      "configuredFeedUrl": null,
+      "feeds": [],
+      "listing": "https://www.piueuropa.eu/"
+    },
+    {
+      "id": "ap-news",
+      "name": "AP News",
+      "url": "https://apnews.com/world-news",
+      "configuredFeedUrl": null,
+      "feeds": [],
+      "listing": "https://apnews.com/world-news"
+    },
+    {
+      "id": "amnesty",
+      "name": "Amnesty International Italia",
+      "url": "https://www.amnesty.it/",
+      "configuredFeedUrl": null,
+      "feeds": [],
+      "listing": "https://www.amnesty.it/"
+    },
+    {
+      "id": "azione",
+      "name": "Azione",
+      "url": "https://www.azione.it/",
+      "configuredFeedUrl": null,
+      "feeds": [],
+      "listing": "https://www.azione.it/"
+    },
+    {
+      "id": "banca-italia",
+      "name": "Banca d’Italia",
+      "url": "https://www.bancaditalia.it/",
+      "configuredFeedUrl": null,
+      "feeds": [
+        "https://www.bancaditalia.it/util/index.rss.html?lingua=it&sezione=%2Fmedia%2Fnotizia"
+      ],
+      "listing": "https://www.bancaditalia.it/media/notizie/index.html",
+      "documentation": "https://alert.bancaditalia.it/webApp/rss?LANGUAGE=it"
+    },
+    {
+      "id": "breaking-italy",
+      "name": "Breaking Italy",
+      "url": "https://breakingitaly.it/",
+      "configuredFeedUrl": null,
+      "feeds": [],
+      "listing": "https://breakingitaly.it/"
+    },
+    {
+      "id": "cisl",
+      "name": "CISL",
+      "url": "https://www.cisl.it/",
+      "configuredFeedUrl": null,
+      "feeds": [],
+      "listing": "https://www.cisl.it/"
+    },
+    {
+      "id": "camera",
+      "name": "Camera dei deputati",
+      "url": "https://www.camera.it/",
+      "configuredFeedUrl": null,
+      "feeds": [
+        "https://www.camera.it/leg19/feeds/16/521.xml",
+        "https://www.camera.it/leg19/feeds/5/33.xml"
+      ],
+      "listing": "https://www.camera.it/",
+      "documentation": "https://documenti.camera.it/apps/rssFeeds/index.asp"
+    },
+    {
+      "id": "coldiretti",
+      "name": "Coldiretti",
+      "url": "https://www.coldiretti.it/",
+      "configuredFeedUrl": null,
+      "feeds": [],
+      "listing": "https://www.coldiretti.it/"
+    },
+    {
+      "id": "commissione-europea",
+      "name": "Commissione europea",
+      "url": "https://commission.europa.eu/news-and-media_en",
+      "configuredFeedUrl": null,
+      "feeds": [],
+      "listing": "https://commission.europa.eu/news-and-media_en"
+    },
+    {
+      "id": "comune-bollate",
+      "name": "Comune di Bollate",
+      "url": "https://comune.bollate.mi.it/it/news",
+      "configuredFeedUrl": null,
+      "feeds": [],
+      "listing": "https://comune.bollate.mi.it/it/news",
+      "articlePattern": "^/it/news/"
+    },
+    {
+      "id": "confcommercio",
+      "name": "Confcommercio",
+      "url": "https://www.confcommercio.it/",
+      "configuredFeedUrl": null,
+      "feeds": [],
+      "listing": "https://www.confcommercio.it/"
+    },
+    {
+      "id": "confindustria",
+      "name": "Confindustria",
+      "url": "https://www.confindustria.it/",
+      "configuredFeedUrl": null,
+      "feeds": [],
+      "listing": "https://www.confindustria.it/"
+    },
+    {
+      "id": "cnr",
+      "name": "Consiglio Nazionale delle Ricerche",
+      "url": "https://www.cnr.it/",
+      "configuredFeedUrl": null,
+      "feeds": [
+        "https://www.cnr.it/it/news/rss"
+      ],
+      "listing": "https://www.cnr.it/it/news",
+      "documentation": "https://www.cnr.it/it/rss"
+    },
+    {
+      "id": "consiglio-ue",
+      "name": "Consiglio dell’Unione europea",
+      "url": "https://www.consilium.europa.eu/it/press/press-releases/",
+      "configuredFeedUrl": null,
+      "feeds": [],
+      "listing": "https://www.consilium.europa.eu/it/press/press-releases/"
+    },
+    {
+      "id": "copernicus",
+      "name": "Copernicus",
+      "url": "https://www.copernicus.eu/en/news",
+      "configuredFeedUrl": null,
+      "feeds": [],
+      "listing": "https://www.copernicus.eu/en/news/news",
+      "documentation": "https://www.copernicus.eu/"
+    },
+    {
+      "id": "coraggio-italia",
+      "name": "Coraggio Italia",
+      "url": "https://www.coraggioitalia.it/",
+      "configuredFeedUrl": null,
+      "feeds": [],
+      "listing": "https://www.coraggioitalia.it/"
+    },
+    {
+      "id": "corte-conti",
+      "name": "Corte dei conti",
+      "url": "https://www.corteconti.it/",
+      "configuredFeedUrl": null,
+      "feeds": [],
+      "listing": "https://www.corteconti.it/"
+    },
+    {
+      "id": "demos-media",
+      "name": "DEMOS — progetto editoriale",
+      "url": "https://www.demositalia.it/blog",
+      "configuredFeedUrl": null,
+      "feeds": [],
+      "listing": "https://www.demositalia.it/blog"
+    },
+    {
+      "id": "dc-rotondi",
+      "name": "Democrazia Cristiana con Rotondi",
+      "url": "https://dcconrotondi.it/",
+      "configuredFeedUrl": null,
+      "feeds": [],
+      "listing": "https://dcconrotondi.it/"
+    },
+    {
+      "id": "demos-partito",
+      "name": "Democrazia Solidale – Demo.S",
+      "url": "https://www.democraziasolidale.it/",
+      "configuredFeedUrl": null,
+      "feeds": [],
+      "listing": "https://www.democraziasolidale.it/"
+    },
+    {
+      "id": "emergency",
+      "name": "Emergency",
+      "url": "https://www.emergency.it/",
+      "configuredFeedUrl": null,
+      "feeds": [],
+      "listing": "https://www.emergency.it/"
+    },
+    {
+      "id": "eurostat",
+      "name": "Eurostat",
+      "url": "https://ec.europa.eu/eurostat/web/main/news",
+      "configuredFeedUrl": null,
+      "feeds": [
+        "https://ec.europa.eu/eurostat/en/search?_estatsearchportlet_WAR_estatsearchportlet_collection=CAT_EURNEW&p_p_id=estatsearchportlet_WAR_estatsearchportlet&p_p_lifecycle=2&p_p_mode=view&p_p_resource_id=atom&p_p_state=maximized"
+      ],
+      "listing": "https://ec.europa.eu/eurostat/web/main/news",
+      "documentation": "https://ec.europa.eu/eurostat/en/web/rss/"
+    },
+    {
+      "id": "factanza",
+      "name": "Factanza / Weekly Pills",
+      "url": "https://weeklypills.substack.com/",
+      "configuredFeedUrl": "https://weeklypills.substack.com/feed",
+      "feeds": [],
+      "listing": "https://weeklypills.substack.com/"
+    },
+    {
+      "id": "fanpage",
+      "name": "Fanpage",
+      "url": "https://www.fanpage.it/",
+      "configuredFeedUrl": "https://www.fanpage.it/feed/",
+      "feeds": [],
+      "listing": "https://www.fanpage.it/"
+    },
+    {
+      "id": "forza-italia",
+      "name": "Forza Italia",
+      "url": "https://forzaitalia.it/",
+      "configuredFeedUrl": null,
+      "feeds": [],
+      "listing": "https://forzaitalia.it/"
+    },
+    {
+      "id": "futuro-nazionale",
+      "name": "Futuro Nazionale",
+      "url": "https://futuronazionale.it/",
+      "configuredFeedUrl": null,
+      "feeds": [],
+      "listing": "https://futuronazionale.it/"
+    },
+    {
+      "id": "good-morning-italia",
+      "name": "Good Morning Italia / Che settimana!",
+      "url": "https://goodmorningitalia.substack.com/",
+      "configuredFeedUrl": "https://goodmorningitalia.substack.com/feed",
+      "feeds": [],
+      "listing": "https://goodmorningitalia.substack.com/"
+    },
+    {
+      "id": "greenpeace",
+      "name": "Greenpeace Italia",
+      "url": "https://www.greenpeace.org/italy/",
+      "configuredFeedUrl": null,
+      "feeds": [],
+      "listing": "https://www.greenpeace.org/italy/"
+    },
+    {
+      "id": "hrw",
+      "name": "Human Rights Watch",
+      "url": "https://www.hrw.org/",
+      "configuredFeedUrl": null,
+      "feeds": [],
+      "listing": "https://www.hrw.org/"
+    },
+    {
+      "id": "iai",
+      "name": "IAI – Istituto Affari Internazionali",
+      "url": "https://www.iai.it/it",
+      "configuredFeedUrl": null,
+      "feeds": [],
+      "listing": "https://www.iai.it/it/pubblicazioni/lista/iai-commentaries",
+      "articlePattern": "^/it/pubblicazioni/(?!lista/)",
+      "documentation": "https://www.iai.it/it/pubblicazioni/lista/iai-commentaries"
+    },
+    {
+      "id": "ingv",
+      "name": "INGV",
+      "url": "https://www.ingv.it/",
+      "configuredFeedUrl": null,
+      "feeds": [],
+      "listing": "https://www.ingv.it/stampa-urp/ufficio-stampa/comunicati-stampa",
+      "documentation": "https://www.ingv.it/stampa-urp/ufficio-stampa/comunicati-stampa"
+    },
+    {
+      "id": "ispi",
+      "name": "ISPI",
+      "url": "https://www.ispionline.it/it",
+      "configuredFeedUrl": null,
+      "feeds": [],
+      "listing": "https://www.ispionline.it/it"
+    },
+    {
+      "id": "ispra",
+      "name": "ISPRA",
+      "url": "https://www.isprambiente.gov.it/it",
+      "configuredFeedUrl": null,
+      "feeds": [
+        "https://www.isprambiente.gov.it/it/news/notizie/RSS"
+      ],
+      "listing": "https://www.isprambiente.gov.it/it/news/notizie",
+      "documentation": "https://www.isprambiente.gov.it/it/feed-rss"
+    },
+    {
+      "id": "istat",
+      "name": "ISTAT",
+      "url": "https://www.istat.it/",
+      "configuredFeedUrl": "https://www.istat.it/feed/",
+      "feeds": [],
+      "listing": "https://www.istat.it/"
+    },
+    {
+      "id": "il-fatto",
+      "name": "Il Fatto Quotidiano",
+      "url": "https://www.ilfattoquotidiano.it/",
+      "configuredFeedUrl": "https://www.ilfattoquotidiano.it/feed/",
+      "feeds": [],
+      "listing": "https://www.ilfattoquotidiano.it/"
+    },
+    {
+      "id": "il-notiziario",
+      "name": "Il Notiziario",
+      "url": "https://www.ilnotiziario.net/",
+      "configuredFeedUrl": "https://www.ilnotiziario.net/feed/",
+      "feeds": [],
+      "listing": "https://www.ilnotiziario.net/"
+    },
+    {
+      "id": "il-post",
+      "name": "Il Post",
+      "url": "https://www.ilpost.it/",
+      "configuredFeedUrl": null,
+      "feeds": [],
+      "listing": "https://www.ilpost.it/"
+    },
+    {
+      "id": "istituto-bruno-leoni",
+      "name": "Istituto Bruno Leoni",
+      "url": "https://www.brunoleoni.it/",
+      "configuredFeedUrl": null,
+      "feeds": [],
+      "listing": "https://www.brunoleoni.it/"
+    },
+    {
+      "id": "iss",
+      "name": "Istituto Superiore di Sanità",
+      "url": "https://www.iss.it/",
+      "configuredFeedUrl": null,
+      "feeds": [],
+      "listing": "https://www.iss.it/comunicati-stampa",
+      "documentation": "https://www.iss.it/comunicati-stampa"
+    },
+    {
+      "id": "italia-domani-rizzo",
+      "name": "Italia Domani – Marco Rizzo",
+      "url": "https://www.italiadomanirizzo.it/",
+      "configuredFeedUrl": null,
+      "feeds": [],
+      "listing": "https://www.italiadomanirizzo.it/"
+    },
+    {
+      "id": "italia-viva",
+      "name": "Italia Viva / Casa Riformista",
+      "url": "https://www.italiaviva.it/",
+      "configuredFeedUrl": null,
+      "feeds": [],
+      "listing": "https://www.italiaviva.it/"
+    },
+    {
+      "id": "la-stampa",
+      "name": "La Stampa",
+      "url": "https://www.lastampa.it/",
+      "configuredFeedUrl": "https://www.lastampa.it/rss/copertina.xml",
+      "feeds": [],
+      "listing": "https://www.lastampa.it/"
+    },
+    {
+      "id": "legambiente",
+      "name": "Legambiente",
+      "url": "https://www.legambiente.it/",
+      "configuredFeedUrl": null,
+      "feeds": [],
+      "listing": "https://www.legambiente.it/"
+    },
+    {
+      "id": "libera",
+      "name": "Libera",
+      "url": "https://www.libera.it/",
+      "configuredFeedUrl": null,
+      "feeds": [],
+      "listing": "https://www.libera.it/"
+    },
+    {
+      "id": "msf",
+      "name": "Medici Senza Frontiere",
+      "url": "https://www.medicisenzafrontiere.it/",
+      "configuredFeedUrl": null,
+      "feeds": [],
+      "listing": "https://www.medicisenzafrontiere.it/"
+    },
+    {
+      "id": "mef",
+      "name": "Ministero dell’Economia e delle Finanze",
+      "url": "https://www.mef.gov.it/",
+      "configuredFeedUrl": null,
+      "feeds": [],
+      "listing": "https://www.mef.gov.it/",
+      "articlePattern": "/inevidenza/|/ufficio-stampa/comunicati/|/focus/"
+    },
+    {
+      "id": "osservatorio-cpi",
+      "name": "Osservatorio sui Conti Pubblici Italiani",
+      "url": "https://osservatoriocpi.unicatt.it/",
+      "configuredFeedUrl": null,
+      "feeds": [],
+      "listing": "https://osservatoriocpi.unicatt.it/pubblicazioni.html",
+      "documentation": "https://osservatoriocpi.unicatt.it/pubblicazioni.html"
+    },
+    {
+      "id": "oxfam",
+      "name": "Oxfam Italia",
+      "url": "https://www.oxfamitalia.org/",
+      "configuredFeedUrl": null,
+      "feeds": [],
+      "listing": "https://www.oxfamitalia.org/"
+    },
+    {
+      "id": "patt",
+      "name": "PATT",
+      "url": "https://patt.tn.it/",
+      "configuredFeedUrl": null,
+      "feeds": [],
+      "listing": "https://patt.tn.it/"
+    },
+    {
+      "id": "pagella-politica",
+      "name": "Pagella Politica",
+      "url": "https://pagellapolitica.it/",
+      "configuredFeedUrl": null,
+      "feeds": [],
+      "listing": "https://pagellapolitica.it/articoli",
+      "articlePattern": "^/articoli/[^/]+/?$",
+      "documentation": "https://pagellapolitica.it/articoli"
+    },
+    {
+      "id": "palazzo-chigi",
+      "name": "Palazzo Chigi / Governo",
+      "url": "https://www.governo.it/",
+      "configuredFeedUrl": null,
+      "feeds": [],
+      "listing": "https://www.governo.it/",
+      "articlePattern": "/articolo/|/notizie/"
+    },
+    {
+      "id": "parlamento-europeo",
+      "name": "Parlamento europeo",
+      "url": "https://www.europarl.europa.eu/news/it",
+      "configuredFeedUrl": null,
+      "feeds": [],
+      "listing": "https://www.europarl.europa.eu/news/it"
+    },
+    {
+      "id": "partito-liberaldemocratico",
+      "name": "Partito Liberaldemocratico",
+      "url": "https://partitoliberaldemocratico.com/",
+      "configuredFeedUrl": null,
+      "feeds": [],
+      "listing": "https://partitoliberaldemocratico.com/"
+    },
+    {
+      "id": "pri",
+      "name": "Partito Repubblicano Italiano",
+      "url": "https://www.prinazionale.it/",
+      "configuredFeedUrl": null,
+      "feeds": [],
+      "listing": "https://www.prinazionale.it/"
+    },
+    {
+      "id": "patto-nord",
+      "name": "Patto per il Nord",
+      "url": "https://www.pattoperilnord.it/",
+      "configuredFeedUrl": null,
+      "feeds": [],
+      "listing": "https://www.pattoperilnord.it/"
+    },
+    {
+      "id": "pillole-economia",
+      "name": "Pillole di Economia",
+      "url": "https://pilloledieconomia.substack.com/",
+      "configuredFeedUrl": "https://pilloledieconomia.substack.com/feed",
+      "feeds": [],
+      "listing": "https://pilloledieconomia.substack.com/"
+    },
+    {
+      "id": "piu-uno",
+      "name": "Più Uno",
+      "url": "https://piu.uno/",
+      "configuredFeedUrl": null,
+      "feeds": [],
+      "listing": "https://piu.uno/"
+    },
+    {
+      "id": "quirinale",
+      "name": "Quirinale",
+      "url": "https://www.quirinale.it/",
+      "configuredFeedUrl": null,
+      "feeds": [],
+      "listing": "https://www.quirinale.it/"
+    },
+    {
+      "id": "rassegnally",
+      "name": "Rassegnally",
+      "url": "https://rassegnally.substack.com/",
+      "configuredFeedUrl": "https://rassegnally.substack.com/feed",
+      "feeds": [],
+      "listing": "https://rassegnally.substack.com/"
+    },
+    {
+      "id": "regione-lombardia",
+      "name": "Regione Lombardia",
+      "url": "https://www.regione.lombardia.it/",
+      "configuredFeedUrl": null,
+      "feeds": [],
+      "listing": "https://www.lombardianotizie.online/",
+      "allowedOrigins": [
+        "https://www.lombardianotizie.online/"
+      ],
+      "documentation": "https://www.regione.lombardia.it/"
+    },
+    {
+      "id": "reuters",
+      "name": "Reuters",
+      "url": "https://www.reuters.com/world/",
+      "configuredFeedUrl": null,
+      "feeds": [],
+      "listing": "https://www.reuters.com/world/"
+    },
+    {
+      "id": "senato",
+      "name": "Senato della Repubblica",
+      "url": "https://www.senato.it/",
+      "configuredFeedUrl": null,
+      "feeds": [],
+      "listing": "https://www.senato.it/attualita/archivio-notizie",
+      "articlePattern": "^/attualita/archivio-notizie",
+      "documentation": "https://www.senato.it/attualita/archivio-notizie"
+    },
+    {
+      "id": "sud-chiama-nord",
+      "name": "Sud chiama Nord",
+      "url": "https://www.sud-chiamanord.it/",
+      "configuredFeedUrl": null,
+      "feeds": [],
+      "listing": "https://www.sud-chiamanord.it/"
+    },
+    {
+      "id": "svp",
+      "name": "Südtiroler Volkspartei – SVP",
+      "url": "https://www.svp.eu/",
+      "configuredFeedUrl": null,
+      "feeds": [],
+      "listing": "https://www.svp.eu/"
+    },
+    {
+      "id": "tgr-lombardia",
+      "name": "TGR Lombardia",
+      "url": "https://www.rainews.it/tgr/lombardia",
+      "configuredFeedUrl": null,
+      "feeds": [],
+      "listing": "https://www.rainews.it/tgr/lombardia/archivio/newsmedia",
+      "articlePattern": "^/tgr/lombardia/articoli/",
+      "documentation": "https://www.rainews.it/tgr/lombardia/archivio/newsmedia"
+    },
+    {
+      "id": "wwf",
+      "name": "WWF Italia",
+      "url": "https://www.wwf.it/",
+      "configuredFeedUrl": null,
+      "feeds": [],
+      "listing": "https://www.wwf.it/"
+    }
+  ]
+}
