@@ -35,7 +35,7 @@
       "status": 429
     }
   ],
-  "message": "HTTP 429: accesso limitato dalla fonte; prossimo controllo dopo quattro ore.",
+  "message": "HTTP 429: accesso limitato dalla fonte; prossimo controllo dopo quattro ore.; prossimo controllo dopo quattro ore.",
   "candidateSamples": [
     {
       "url": "https://commission.europa.eu/news-and-media/news_en",

@@ -4,12 +4,55 @@
   "sourceId": "coldiretti",
   "originUrl": "https://www.coldiretti.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-30T13:17:50.592315Z",
-  "status": "no_feed",
-  "diagnosticCode": "parsing_error",
-  "method": "crawl4ai",
+  "collectedAt": "2026-10-30T13:30:03.618458Z",
+  "status": "ok",
+  "diagnosticCode": null,
+  "method": "trafilatura",
   "feedUrl": null,
-  "items": [],
+  "items": [
+    {
+      "title": "Lavoro, Legge Caporalato compie 10 anni, ma Ue cancella condizionalità sociale dalla nuova PAC",
+      "url": "https://www.coldiretti.it/economia/lavoro-legge-caporalato-compie-10-anni-ma-ue-cancella-condizionalita-sociale-dalla-nuova-pac",
+      "excerpt": "A dieci anni dalla legge, Coldiretti rilancia la lotta allo sfruttamento e annuncia la mobilitazione a Bruxelles il 3 novembre",
+      "publishedAt": "2026-10-29T09:40:30Z",
+      "dateEvidence": "meta:article:published_time"
+    },
+    {
+      "title": "Pesca, Cetara capitale europea del tonno rosso",
+      "url": "https://www.coldiretti.it/economia/pesca-cetara-capitale-europea-del-tonno-rosso-due-giorni-per-disegnare-il-futuro-della-filiera",
+      "excerpt": "l 30 e 31 ottobre il confronto tra operatori, istituzioni, esperti italiani ed europei su sostenibilità, nuovi mercati, aumento dei costi",
+      "publishedAt": "2026-10-28T10:41:54Z",
+      "dateEvidence": "meta:article:published_time"
+    },
+    {
+      "title": "Gasolio agricolo, bene apertura Ue a giusta richiesta Italia",
+      "url": "https://www.coldiretti.it/economia/gasolio-agricolo-bene-apertura-ue-a-giusta-richiesta-italia",
+      "excerpt": "Sulla Condizionalità sociale il Copa di Giansanti ha vinto una battaglia di inciviltà, ma Coldiretti al lavoro su Parlamento europeo",
+      "publishedAt": "2026-10-27T16:30:21Z",
+      "dateEvidence": "meta:article:published_time"
+    },
+    {
+      "title": "Forum Coldiretti: arriva Farmcraft, con Minecraft l'educazione al cibo sano entra nel mondo dei ragazzi",
+      "url": "https://www.coldiretti.it/economia/forum-coldiretti-arriva-farmcraft-con-minecraft-leducazione-al-cibo-sano-entra-nel-mondo-dei-ragazzi",
+      "excerpt": "Nasce Farmcraft, il progetto per le scuole che porta i ragazzi alla scoperta dell’alimentazione sana, dell’agricoltura e della sostenibilità",
+      "publishedAt": "2026-10-20T14:14:37Z",
+      "dateEvidence": "meta:article:published_time"
+    },
+    {
+      "title": "Salute, al Forum lo scaffale del vero made in Italy e la \"fabbrica dei malati\"",
+      "url": "https://www.coldiretti.it/economia/salute-al-forum-lo-scaffale-del-vero-made-in-italy-e-la-fabbrica-dei-malati",
+      "excerpt": "Al Forum Coldiretti, lo scaffale del vero Made in Italy, l’installazione “La fabbrica dei malati” e il progetto Farmcraft per i giovani",
+      "publishedAt": "2026-10-20T07:43:00Z",
+      "dateEvidence": "meta:article:published_time"
+    },
+    {
+      "title": "Salute, non fermare i cibi ultraformulati è un crimine contro l'umanità",
+      "url": "https://www.coldiretti.it/economia/salute-non-fermare-i-cibi-ultraformulati-e-un-crimine-contro-lumanita",
+      "excerpt": "Dal Forum la notizia che Coldiretti sta verificando condizioni e tempi per una class action, per poi arrivare alla Corte di giustizia Ue a difesa della salute dei cittadini",
+      "publishedAt": "2026-10-20T07:42:55Z",
+      "dateEvidence": "meta:article:published_time"
+    }
+  ],
   "attempts": [
     {
       "url": "https://www.coldiretti.it/robots.txt",
@@ -20,95 +63,34 @@
       "status": 200
     },
     {
-      "url": "https://www.coldiretti.it/la-difesa-del-made-in-italy",
+      "url": "https://www.coldiretti.it/economia/pesca-cetara-capitale-europea-del-tonno-rosso-due-giorni-per-disegnare-il-futuro-della-filiera",
       "status": 200
     },
     {
-      "url": "https://www.coldiretti.it/firmato-dagli-agricoltori-italiani",
+      "url": "https://www.coldiretti.it/economia/forum-coldiretti-arriva-farmcraft-con-minecraft-leducazione-al-cibo-sano-entra-nel-mondo-dei-ragazzi",
       "status": 200
     },
     {
-      "url": "https://www.coldiretti.it/servizio/donne-in-agricoltura",
+      "url": "https://www.coldiretti.it/economia/salute-al-forum-lo-scaffale-del-vero-made-in-italy-e-la-fabbrica-dei-malati",
       "status": 200
     },
     {
-      "url": "https://www.coldiretti.it/servizio/federpensionati-coldiretti",
+      "url": "https://www.coldiretti.it/economia/salute-non-fermare-i-cibi-ultraformulati-e-un-crimine-contro-lumanita",
       "status": 200
     },
     {
-      "url": "https://www.coldiretti.it/servizio/caf-coldiretti",
+      "url": "https://www.coldiretti.it/economia/lavoro-legge-caporalato-compie-10-anni-ma-ue-cancella-condizionalita-sociale-dalla-nuova-pac",
       "status": 200
     },
     {
-      "url": "https://www.coldiretti.it/servizio/la-consulenza-agricola",
-      "status": 200
-    },
-    {
-      "url": "https://www.coldiretti.it/la-difesa-del-made-in-italy",
-      "status": 200
-    },
-    {
-      "url": "https://www.coldiretti.it/firmato-dagli-agricoltori-italiani",
-      "status": 200
-    },
-    {
-      "url": "https://www.coldiretti.it/servizio/donne-in-agricoltura",
-      "status": 200
-    },
-    {
-      "url": "https://www.coldiretti.it/servizio/federpensionati-coldiretti",
-      "status": 200
-    },
-    {
-      "url": "https://www.coldiretti.it/servizio/caf-coldiretti",
-      "status": 200
-    },
-    {
-      "url": "https://www.coldiretti.it/servizio/la-consulenza-agricola",
+      "url": "https://www.coldiretti.it/economia/gasolio-agricolo-bene-apertura-ue-a-giusta-richiesta-italia",
       "status": 200
     }
   ],
-  "message": "Pagina accessibile, ma nessuna notizia con data di pubblicazione verificabile.",
-  "candidateSamples": [
-    {
-      "url": "https://www.coldiretti.it/la-difesa-del-made-in-italy",
-      "title": "La difesa del Made in Italy",
-      "h1": "La difesa del Made in Italy",
-      "dates": []
-    },
-    {
-      "url": "https://www.coldiretti.it/firmato-dagli-agricoltori-italiani",
-      "title": "Firmato dagli agricoltori italiani",
-      "h1": "Firmato dagli agricoltori italiani",
-      "dates": []
-    },
-    {
-      "url": "https://www.coldiretti.it/servizio/donne-in-agricoltura",
-      "title": "Donne in agricoltura",
-      "h1": "Donne in agricoltura",
-      "dates": []
-    },
-    {
-      "url": "https://www.coldiretti.it/servizio/federpensionati-coldiretti",
-      "title": "Federpensionati Coldiretti",
-      "h1": "Federpensionati Coldiretti",
-      "dates": []
-    },
-    {
-      "url": "https://www.coldiretti.it/servizio/caf-coldiretti",
-      "title": "La consulenza fiscale",
-      "h1": "La consulenza fiscale",
-      "dates": []
-    },
-    {
-      "url": "https://www.coldiretti.it/servizio/la-consulenza-agricola",
-      "title": "Centro di Assistenza Agricola Coldiretti",
-      "h1": "La consulenza agricola",
-      "dates": []
-    }
-  ],
+  "message": "6 notizie recenti con data verificata; copertura parziale.",
+  "candidateSamples": [],
   "candidateCount": 12,
-  "datedCount": 0,
+  "datedCount": 6,
   "listingUrl": "https://www.coldiretti.it/",
-  "durationSeconds": 13.19
+  "durationSeconds": 9.66
 }

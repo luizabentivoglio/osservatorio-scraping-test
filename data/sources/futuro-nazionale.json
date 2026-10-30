@@ -4,11 +4,11 @@
   "sourceId": "futuro-nazionale",
   "originUrl": "https://futuronazionale.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-30T13:18:48.970550Z",
-  "status": "error",
-  "diagnosticCode": "response_too_large",
-  "method": "html",
-  "feedUrl": null,
+  "collectedAt": "2026-10-30T13:30:28.743494Z",
+  "status": "ok",
+  "diagnosticCode": null,
+  "method": "rss",
+  "feedUrl": "https://futuronazionale.it/feed/",
   "items": [],
   "attempts": [
     {
@@ -18,10 +18,12 @@
     {
       "url": "https://futuronazionale.it/",
       "status": 200
+    },
+    {
+      "url": "https://futuronazionale.it/feed/",
+      "status": 200
     }
   ],
-  "message": "Risposta oltre 3 MB",
-  "httpStatus": 200,
-  "failedUrl": "https://futuronazionale.it/",
-  "durationSeconds": 1.26
+  "message": "Feed dichiarato dalla fonte; date di pubblicazione verificate.",
+  "durationSeconds": 2.07
 }

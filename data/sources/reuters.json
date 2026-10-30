@@ -15,7 +15,7 @@
       "status": 200
     }
   ],
-  "message": "Percorso escluso da robots.txt; prossimo controllo dopo quattro ore.",
+  "message": "Percorso escluso da robots.txt; prossimo controllo dopo quattro ore.; prossimo controllo dopo quattro ore.",
   "httpStatus": null,
   "failedUrl": "https://www.reuters.com/world/",
   "durationSeconds": 0.18,

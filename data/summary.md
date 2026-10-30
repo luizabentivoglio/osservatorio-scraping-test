@@ -7,14 +7,14 @@
 | azione | blocked | html | 0 | access_restricted |
 | banca-italia | blocked | html | 0 | robots_disallowed |
 | breaking-italy | ok | trafilatura | 1 | — |
-| camera | no_feed | crawl4ai | 0 | parsing_error |
+| camera | ok | trafilatura | 6 | — |
 | cisl | blocked | html | 0 | robots_disallowed |
 | cnr | error | html | 0 | connection_error |
-| coldiretti | no_feed | crawl4ai | 0 | parsing_error |
+| coldiretti | ok | trafilatura | 6 | — |
 | commissione-europea | blocked | html | 0 | rate_limited |
 | comune-bollate | ok | trafilatura | 6 | — |
 | confcommercio | blocked | html | 0 | access_restricted |
-| confindustria | no_feed | crawl4ai | 0 | parsing_error |
+| confindustria | ok | trafilatura | 1 | — |
 | consiglio-ue | blocked | html | 0 | access_restricted |
 | copernicus | no_feed | crawl4ai | 0 | parsing_error |
 | coraggio-italia | no_feed | crawl4ai | 0 | parsing_error |
@@ -27,7 +27,7 @@
 | factanza | blocked | html | 0 | access_restricted |
 | fanpage | blocked | html | 0 | access_restricted |
 | forza-italia | ok | trafilatura | 0 | — |
-| futuro-nazionale | error | html | 0 | response_too_large |
+| futuro-nazionale | ok | rss | 0 | — |
 | good-morning-italia | blocked | html | 0 | access_restricted |
 | greenpeace | ok | trafilatura | 2 | — |
 | hrw | blocked | html | 0 | access_restricted |
@@ -45,14 +45,14 @@
 | italia-viva | blocked | html | 0 | access_restricted |
 | la-stampa | ok | rss | 40 | — |
 | legambiente | ok | trafilatura | 0 | — |
-| libera | no_feed | crawl4ai | 0 | parsing_error |
+| libera | ok | html | 2 | — |
 | mef | ok | trafilatura | 2 | — |
 | msf | ok | trafilatura | 6 | — |
 | osservatorio-cpi | ok | trafilatura | 6 | — |
-| oxfam | no_feed | crawl4ai | 0 | parsing_error |
+| oxfam | ok | trafilatura | 3 | — |
 | pagella-politica | ok | trafilatura | 6 | — |
 | palazzo-chigi | ok | rss | 10 | — |
-| parlamento-europeo | error | html | 0 | render_error |
+| parlamento-europeo | no_feed | crawl4ai | 0 | parsing_error |
 | partito-liberaldemocratico | ok | trafilatura | 4 | — |
 | patt | ok | trafilatura | 0 | — |
 | patto-nord | no_feed | crawl4ai | 0 | parsing_error |
@@ -65,9 +65,9 @@
 | regione-lombardia | blocked | html | 0 | access_restricted |
 | reuters | blocked | html | 0 | robots_disallowed |
 | senato | no_feed | crawl4ai | 0 | parsing_error |
-| sud-chiama-nord | no_feed | crawl4ai | 0 | parsing_error |
+| sud-chiama-nord | blocked | html | 0 | access_restricted |
 | svp | ok | trafilatura | 1 | — |
-| tgr-lombardia | ok | crawl4ai | 0 | — |
+| tgr-lombardia | no_feed | crawl4ai | 0 | parsing_error |
 | wwf | ok | trafilatura | 6 | — |
 
 Le date sono verificate nei feed o nei metadati di pubblicazione dei singoli articoli. Nessun dato personale dell’archivio è letto o pubblicato.

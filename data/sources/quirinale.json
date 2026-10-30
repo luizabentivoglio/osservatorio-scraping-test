@@ -48,7 +48,7 @@
       "status": 200
     }
   ],
-  "message": "Browser HTTP 403",
+  "message": "Browser HTTP 403; prossimo controllo dopo quattro ore.",
   "candidateSamples": [
     {
       "url": "https://www.quirinale.it/it/notizie/cordoglio-presidente-mattarella-per-vittime-incidente-elicottero-militare-italiano-precipitato-bosnia",

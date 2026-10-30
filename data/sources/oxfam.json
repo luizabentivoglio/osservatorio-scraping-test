@@ -4,111 +4,72 @@
   "sourceId": "oxfam",
   "originUrl": "https://www.oxfamitalia.org/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-30T13:19:10.037655Z",
-  "status": "no_feed",
-  "diagnosticCode": "parsing_error",
-  "method": "crawl4ai",
+  "collectedAt": "2026-10-30T13:30:44.893067Z",
+  "status": "ok",
+  "diagnosticCode": null,
+  "method": "trafilatura",
   "feedUrl": null,
-  "items": [],
+  "items": [
+    {
+      "title": "I SUPER-RICCHI SONO ANCORA PIÙ RICCHI GRAZIE ALLA CRISI CLIMATICA",
+      "url": "https://www.oxfamitalia.org/i-super-ricchi-sono-ancora-piu-ricchi-grazie-alla-crisi-climatica/",
+      "excerpt": "Chi inquina meno paga il prezzo più alto, mentre chi inquina di più può proteggersi e persino guadagnare dalla crisi climatica",
+      "publishedAt": "2026-10-27T08:32:12Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "IL 24 OTTOBRE SCENDIAMO IN PIAZZA CONTRO I CENTRI DI PERMANENZA PER IL RIMPATRIO",
+      "url": "https://www.oxfamitalia.org/il-24-ottobre-scendiamo-in-piazza-contro-i-centri-di-permanenza-per-il-rimpatrio/",
+      "excerpt": "Il 24 ottobre Oxfam scende in piazza a Castel Volturno contro i Centri di permanenza per il rimpatrio. Leggi di più",
+      "publishedAt": "2026-10-22T07:48:22Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "CISGIORDANIA, SENZA GIUSTIZIA ECONOMICA NON C’È FUTURO PER 3 MILIONI DI PALESTINESI",
+      "url": "https://www.oxfamitalia.org/cisgiordania-senza-giustizi-economica-non-ce-futuro-per-3-milioni-di-palestinesi/",
+      "excerpt": "Siamo a Roma con l’evento “Dall’economia di occupazione all’economia di liberazione” per favorire la crescita economica palestinese.",
+      "publishedAt": "2026-10-20T08:29:04Z",
+      "dateEvidence": "jsonld:datePublished"
+    }
+  ],
   "attempts": [
     {
       "url": "https://www.oxfamitalia.org/robots.txt",
       "status": 200
     },
     {
-      "url": "https://www.oxfamitalia.org/",
+      "url": "https://www.oxfamitalia.org/news/",
       "status": 200
     },
     {
-      "url": "https://www.oxfamitalia.org/palestina-tuttiidirittiriservati/",
+      "url": "https://www.oxfamitalia.org/i-super-ricchi-sono-ancora-piu-ricchi-grazie-alla-crisi-climatica/",
       "status": 200
     },
     {
-      "url": "https://www.oxfamitalia.org/sostienici/lasciti/",
+      "url": "https://www.oxfamitalia.org/il-24-ottobre-scendiamo-in-piazza-contro-i-centri-di-permanenza-per-il-rimpatrio/",
       "status": 200
     },
     {
-      "url": "https://www.oxfamitalia.org/fondo-emergenze/",
+      "url": "https://www.oxfamitalia.org/cisgiordania-senza-giustizi-economica-non-ce-futuro-per-3-milioni-di-palestinesi/",
       "status": 200
     },
     {
-      "url": "https://www.oxfamitalia.org/cosa-facciamo/campaigning/",
+      "url": "https://www.oxfamitalia.org/stop-al-blocco-firma-la-petizione-per-garantire-lingresso-degli-aiuti-umanitari-a-gaza/",
       "status": 200
     },
     {
-      "url": "https://www.oxfamitalia.org/cosa-facciamo/emergenze/",
+      "url": "https://www.oxfamitalia.org/oxfam-al-festival-di-internazionale-cosa-significa-ricostruire-gaza/",
       "status": 200
     },
     {
-      "url": "https://www.oxfamitalia.org/cosa-facciamo/sviluppo/",
-      "status": 200
-    },
-    {
-      "url": "https://www.oxfamitalia.org/palestina-tuttiidirittiriservati/",
-      "status": 200
-    },
-    {
-      "url": "https://www.oxfamitalia.org/sostienici/lasciti/",
-      "status": 200
-    },
-    {
-      "url": "https://www.oxfamitalia.org/fondo-emergenze/",
-      "status": 200
-    },
-    {
-      "url": "https://www.oxfamitalia.org/cosa-facciamo/campaigning/",
-      "status": 200
-    },
-    {
-      "url": "https://www.oxfamitalia.org/cosa-facciamo/emergenze/",
-      "status": 200
-    },
-    {
-      "url": "https://www.oxfamitalia.org/cosa-facciamo/sviluppo/",
+      "url": "https://www.oxfamitalia.org/copower-al-bando-la-violenza-di-genere/",
       "status": 200
     }
   ],
-  "message": "Pagina accessibile, ma nessuna notizia con data di pubblicazione verificabile.",
-  "candidateSamples": [
-    {
-      "url": "https://www.oxfamitalia.org/palestina-tuttiidirittiriservati/",
-      "title": "Scopri di più",
-      "h1": null,
-      "dates": []
-    },
-    {
-      "url": "https://www.oxfamitalia.org/sostienici/lasciti/",
-      "title": "Scopri di più",
-      "h1": "Incidi sul mondo di domani",
-      "dates": []
-    },
-    {
-      "url": "https://www.oxfamitalia.org/fondo-emergenze/",
-      "title": "Oxfam Fondo emergenze",
-      "h1": "Quando scoppia un’emergenza, noi ci siamo. Scendi con noi in prima linea.",
-      "dates": []
-    },
-    {
-      "url": "https://www.oxfamitalia.org/cosa-facciamo/campaigning/",
-      "title": "Inclusione sociale I diritti di tutti, sono il nostro dovere.",
-      "h1": "Lotta alla disuguaglianza",
-      "dates": []
-    },
-    {
-      "url": "https://www.oxfamitalia.org/cosa-facciamo/emergenze/",
-      "title": "emergenze Ogni essere umano deve vivere in sicurezza.",
-      "h1": "Emergenze",
-      "dates": []
-    },
-    {
-      "url": "https://www.oxfamitalia.org/cosa-facciamo/sviluppo/",
-      "title": "SVILUPPO Per il futuro dei più vulnerabili.",
-      "h1": "Sviluppo",
-      "dates": []
-    }
-  ],
-  "candidateCount": 12,
-  "datedCount": 0,
-  "listingUrl": "https://www.oxfamitalia.org/",
-  "durationSeconds": 4.55
+  "message": "3 notizie recenti con data verificata; copertura parziale.",
+  "candidateSamples": [],
+  "candidateCount": 8,
+  "datedCount": 6,
+  "listingUrl": "https://www.oxfamitalia.org/news/",
+  "durationSeconds": 4.29
 }

@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T13:20:01.775458+00:00",
+  "generatedAt": "2026-10-30T13:31:19.350935+00:00",
   "sourceCount": 67,
-  "ok": 30,
-  "items": 129,
+  "ok": 35,
+  "items": 147,
   "results": [
     {
       "sourceId": "amnesty",
@@ -20,7 +20,7 @@
       "status": "blocked",
       "method": "html",
       "diagnosticCode": "access_restricted",
-      "message": "HTTP 403: accesso limitato dalla fonte; prossimo controllo dopo quattro ore.",
+      "message": "HTTP 403: accesso limitato dalla fonte; prossimo controllo dopo quattro ore.; prossimo controllo dopo quattro ore.",
       "candidateCount": null,
       "datedCount": null,
       "itemCount": 0
@@ -30,7 +30,7 @@
       "status": "blocked",
       "method": "html",
       "diagnosticCode": "access_restricted",
-      "message": "HTTP 403: accesso limitato dalla fonte; prossimo controllo dopo quattro ore.",
+      "message": "HTTP 403: accesso limitato dalla fonte; prossimo controllo dopo quattro ore.; prossimo controllo dopo quattro ore.",
       "candidateCount": null,
       "datedCount": null,
       "itemCount": 0
@@ -40,7 +40,7 @@
       "status": "blocked",
       "method": "html",
       "diagnosticCode": "robots_disallowed",
-      "message": "Percorso escluso da robots.txt; prossimo controllo dopo quattro ore.",
+      "message": "Percorso escluso da robots.txt; prossimo controllo dopo quattro ore.; prossimo controllo dopo quattro ore.",
       "candidateCount": null,
       "datedCount": null,
       "itemCount": 0
@@ -57,20 +57,20 @@
     },
     {
       "sourceId": "camera",
-      "status": "no_feed",
-      "method": "crawl4ai",
-      "diagnosticCode": "parsing_error",
-      "message": "Pagina accessibile, ma nessuna notizia con data di pubblicazione verificabile.",
+      "status": "ok",
+      "method": "trafilatura",
+      "diagnosticCode": null,
+      "message": "6 notizie recenti con data verificata; copertura parziale.",
       "candidateCount": 12,
-      "datedCount": 0,
-      "itemCount": 0
+      "datedCount": 6,
+      "itemCount": 6
     },
     {
       "sourceId": "cisl",
       "status": "blocked",
       "method": "html",
       "diagnosticCode": "robots_disallowed",
-      "message": "Percorso escluso da robots.txt",
+      "message": "Percorso escluso da robots.txt; prossimo controllo dopo quattro ore.",
       "candidateCount": null,
       "datedCount": null,
       "itemCount": 0
@@ -87,20 +87,20 @@
     },
     {
       "sourceId": "coldiretti",
-      "status": "no_feed",
-      "method": "crawl4ai",
-      "diagnosticCode": "parsing_error",
-      "message": "Pagina accessibile, ma nessuna notizia con data di pubblicazione verificabile.",
+      "status": "ok",
+      "method": "trafilatura",
+      "diagnosticCode": null,
+      "message": "6 notizie recenti con data verificata; copertura parziale.",
       "candidateCount": 12,
-      "datedCount": 0,
-      "itemCount": 0
+      "datedCount": 6,
+      "itemCount": 6
     },
     {
       "sourceId": "commissione-europea",
       "status": "blocked",
       "method": "html",
       "diagnosticCode": "rate_limited",
-      "message": "HTTP 429: accesso limitato dalla fonte; prossimo controllo dopo quattro ore.",
+      "message": "HTTP 429: accesso limitato dalla fonte; prossimo controllo dopo quattro ore.; prossimo controllo dopo quattro ore.",
       "candidateCount": null,
       "datedCount": null,
       "itemCount": 0
@@ -120,27 +120,27 @@
       "status": "blocked",
       "method": "html",
       "diagnosticCode": "access_restricted",
-      "message": "HTTP 403: accesso limitato dalla fonte; prossimo controllo dopo quattro ore.",
+      "message": "HTTP 403: accesso limitato dalla fonte; prossimo controllo dopo quattro ore.; prossimo controllo dopo quattro ore.",
       "candidateCount": null,
       "datedCount": null,
       "itemCount": 0
     },
     {
       "sourceId": "confindustria",
-      "status": "no_feed",
-      "method": "crawl4ai",
-      "diagnosticCode": "parsing_error",
-      "message": "Pagina accessibile, ma nessuna notizia con data di pubblicazione verificabile.",
+      "status": "ok",
+      "method": "trafilatura",
+      "diagnosticCode": null,
+      "message": "1 notizie recenti con data verificata; copertura parziale.",
       "candidateCount": 12,
-      "datedCount": 0,
-      "itemCount": 0
+      "datedCount": 6,
+      "itemCount": 1
     },
     {
       "sourceId": "consiglio-ue",
       "status": "blocked",
       "method": "html",
       "diagnosticCode": "access_restricted",
-      "message": "HTTP 403: accesso limitato dalla fonte; prossimo controllo dopo quattro ore.",
+      "message": "HTTP 403: accesso limitato dalla fonte; prossimo controllo dopo quattro ore.; prossimo controllo dopo quattro ore.",
       "candidateCount": null,
       "datedCount": null,
       "itemCount": 0
@@ -220,7 +220,7 @@
       "status": "blocked",
       "method": "html",
       "diagnosticCode": "robots_disallowed",
-      "message": "Percorso escluso da robots.txt",
+      "message": "Percorso escluso da robots.txt; prossimo controllo dopo quattro ore.",
       "candidateCount": null,
       "datedCount": null,
       "itemCount": 0
@@ -230,7 +230,7 @@
       "status": "blocked",
       "method": "html",
       "diagnosticCode": "access_restricted",
-      "message": "HTTP 403: accesso limitato dalla fonte; prossimo controllo dopo quattro ore.",
+      "message": "HTTP 403: accesso limitato dalla fonte; prossimo controllo dopo quattro ore.; prossimo controllo dopo quattro ore.",
       "candidateCount": null,
       "datedCount": null,
       "itemCount": 0
@@ -240,7 +240,7 @@
       "status": "blocked",
       "method": "html",
       "diagnosticCode": "access_restricted",
-      "message": "HTTP 403: accesso limitato dalla fonte; prossimo controllo dopo quattro ore.",
+      "message": "HTTP 403: accesso limitato dalla fonte; prossimo controllo dopo quattro ore.; prossimo controllo dopo quattro ore.",
       "candidateCount": null,
       "datedCount": null,
       "itemCount": 0
@@ -257,10 +257,10 @@
     },
     {
       "sourceId": "futuro-nazionale",
-      "status": "error",
-      "method": "html",
-      "diagnosticCode": "response_too_large",
-      "message": "Risposta oltre 3 MB",
+      "status": "ok",
+      "method": "rss",
+      "diagnosticCode": null,
+      "message": "Feed dichiarato dalla fonte; date di pubblicazione verificate.",
       "candidateCount": null,
       "datedCount": null,
       "itemCount": 0
@@ -270,7 +270,7 @@
       "status": "blocked",
       "method": "html",
       "diagnosticCode": "access_restricted",
-      "message": "HTTP 403: accesso limitato dalla fonte; prossimo controllo dopo quattro ore.",
+      "message": "HTTP 403: accesso limitato dalla fonte; prossimo controllo dopo quattro ore.; prossimo controllo dopo quattro ore.",
       "candidateCount": null,
       "datedCount": null,
       "itemCount": 0
@@ -290,7 +290,7 @@
       "status": "blocked",
       "method": "html",
       "diagnosticCode": "access_restricted",
-      "message": "HTTP 403: accesso limitato dalla fonte; prossimo controllo dopo quattro ore.",
+      "message": "HTTP 403: accesso limitato dalla fonte; prossimo controllo dopo quattro ore.; prossimo controllo dopo quattro ore.",
       "candidateCount": null,
       "datedCount": null,
       "itemCount": 0
@@ -310,7 +310,7 @@
       "status": "blocked",
       "method": "html",
       "diagnosticCode": "robots_disallowed",
-      "message": "Percorso escluso da robots.txt; prossimo controllo dopo quattro ore.",
+      "message": "Percorso escluso da robots.txt; prossimo controllo dopo quattro ore.; prossimo controllo dopo quattro ore.",
       "candidateCount": null,
       "datedCount": null,
       "itemCount": 0
@@ -320,7 +320,7 @@
       "status": "blocked",
       "method": "html",
       "diagnosticCode": "access_restricted",
-      "message": "HTTP 403: accesso limitato dalla fonte; prossimo controllo dopo quattro ore.",
+      "message": "HTTP 403: accesso limitato dalla fonte; prossimo controllo dopo quattro ore.; prossimo controllo dopo quattro ore.",
       "candidateCount": null,
       "datedCount": null,
       "itemCount": 0
@@ -350,7 +350,7 @@
       "status": "blocked",
       "method": "html",
       "diagnosticCode": "robots_disallowed",
-      "message": "Percorso escluso da robots.txt; prossimo controllo dopo quattro ore.",
+      "message": "Percorso escluso da robots.txt; prossimo controllo dopo quattro ore.; prossimo controllo dopo quattro ore.",
       "candidateCount": null,
       "datedCount": null,
       "itemCount": 0
@@ -410,7 +410,7 @@
       "status": "blocked",
       "method": "html",
       "diagnosticCode": "access_restricted",
-      "message": "HTTP 403: accesso limitato dalla fonte; prossimo controllo dopo quattro ore.",
+      "message": "HTTP 403: accesso limitato dalla fonte; prossimo controllo dopo quattro ore.; prossimo controllo dopo quattro ore.",
       "candidateCount": null,
       "datedCount": null,
       "itemCount": 0
@@ -437,13 +437,13 @@
     },
     {
       "sourceId": "libera",
-      "status": "no_feed",
-      "method": "crawl4ai",
-      "diagnosticCode": "parsing_error",
-      "message": "Pagina accessibile, ma nessuna notizia con data di pubblicazione verificabile.",
-      "candidateCount": 12,
-      "datedCount": 0,
-      "itemCount": 0
+      "status": "ok",
+      "method": "html",
+      "diagnosticCode": null,
+      "message": "Titoli, link e date di pubblicazione verificati nelle schede ufficiali delle notizie.",
+      "candidateCount": null,
+      "datedCount": 4,
+      "itemCount": 2
     },
     {
       "sourceId": "mef",
@@ -477,13 +477,13 @@
     },
     {
       "sourceId": "oxfam",
-      "status": "no_feed",
-      "method": "crawl4ai",
-      "diagnosticCode": "parsing_error",
-      "message": "Pagina accessibile, ma nessuna notizia con data di pubblicazione verificabile.",
-      "candidateCount": 12,
-      "datedCount": 0,
-      "itemCount": 0
+      "status": "ok",
+      "method": "trafilatura",
+      "diagnosticCode": null,
+      "message": "3 notizie recenti con data verificata; copertura parziale.",
+      "candidateCount": 8,
+      "datedCount": 6,
+      "itemCount": 3
     },
     {
       "sourceId": "pagella-politica",
@@ -507,10 +507,10 @@
     },
     {
       "sourceId": "parlamento-europeo",
-      "status": "error",
-      "method": "html",
-      "diagnosticCode": "render_error",
-      "message": "Rendering della pagina non riuscito",
+      "status": "no_feed",
+      "method": "crawl4ai",
+      "diagnosticCode": "parsing_error",
+      "message": "Pagina accessibile, ma nessuna notizia con data di pubblicazione verificabile.",
       "candidateCount": 0,
       "datedCount": 0,
       "itemCount": 0
@@ -550,7 +550,7 @@
       "status": "blocked",
       "method": "html",
       "diagnosticCode": "access_restricted",
-      "message": "HTTP 403: accesso limitato dalla fonte; prossimo controllo dopo quattro ore.",
+      "message": "HTTP 403: accesso limitato dalla fonte; prossimo controllo dopo quattro ore.; prossimo controllo dopo quattro ore.",
       "candidateCount": null,
       "datedCount": null,
       "itemCount": 0
@@ -560,7 +560,7 @@
       "status": "blocked",
       "method": "html",
       "diagnosticCode": "access_restricted",
-      "message": "HTTP 403: accesso limitato dalla fonte; prossimo controllo dopo quattro ore.",
+      "message": "HTTP 403: accesso limitato dalla fonte; prossimo controllo dopo quattro ore.; prossimo controllo dopo quattro ore.",
       "candidateCount": null,
       "datedCount": null,
       "itemCount": 0
@@ -590,7 +590,7 @@
       "status": "blocked",
       "method": "html",
       "diagnosticCode": "access_restricted",
-      "message": "Browser HTTP 403",
+      "message": "Browser HTTP 403; prossimo controllo dopo quattro ore.",
       "candidateCount": 12,
       "datedCount": 0,
       "itemCount": 0
@@ -600,7 +600,7 @@
       "status": "blocked",
       "method": "html",
       "diagnosticCode": "access_restricted",
-      "message": "HTTP 403: accesso limitato dalla fonte; prossimo controllo dopo quattro ore.",
+      "message": "HTTP 403: accesso limitato dalla fonte; prossimo controllo dopo quattro ore.; prossimo controllo dopo quattro ore.",
       "candidateCount": null,
       "datedCount": null,
       "itemCount": 0
@@ -610,7 +610,7 @@
       "status": "blocked",
       "method": "html",
       "diagnosticCode": "access_restricted",
-      "message": "HTTP 403: accesso limitato dalla fonte; prossimo controllo dopo quattro ore.",
+      "message": "HTTP 403: accesso limitato dalla fonte; prossimo controllo dopo quattro ore.; prossimo controllo dopo quattro ore.",
       "candidateCount": null,
       "datedCount": null,
       "itemCount": 0
@@ -620,7 +620,7 @@
       "status": "blocked",
       "method": "html",
       "diagnosticCode": "robots_disallowed",
-      "message": "Percorso escluso da robots.txt; prossimo controllo dopo quattro ore.",
+      "message": "Percorso escluso da robots.txt; prossimo controllo dopo quattro ore.; prossimo controllo dopo quattro ore.",
       "candidateCount": null,
       "datedCount": null,
       "itemCount": 0
@@ -637,12 +637,12 @@
     },
     {
       "sourceId": "sud-chiama-nord",
-      "status": "no_feed",
-      "method": "crawl4ai",
-      "diagnosticCode": "parsing_error",
-      "message": "Pagina accessibile, ma nessuna notizia con data di pubblicazione verificabile.",
-      "candidateCount": 12,
-      "datedCount": 0,
+      "status": "blocked",
+      "method": "html",
+      "diagnosticCode": "access_restricted",
+      "message": "HTTP 403: accesso limitato dalla fonte",
+      "candidateCount": null,
+      "datedCount": null,
       "itemCount": 0
     },
     {
@@ -657,12 +657,12 @@
     },
     {
       "sourceId": "tgr-lombardia",
-      "status": "ok",
+      "status": "no_feed",
       "method": "crawl4ai",
-      "diagnosticCode": null,
-      "message": "Pagina resa con Crawl4AI; metadati degli articoli e date verificati.",
-      "candidateCount": 10,
-      "datedCount": 6,
+      "diagnosticCode": "parsing_error",
+      "message": "Pagina accessibile, ma nessuna notizia con data di pubblicazione verificabile.",
+      "candidateCount": 0,
+      "datedCount": 0,
       "itemCount": 0
     },
     {

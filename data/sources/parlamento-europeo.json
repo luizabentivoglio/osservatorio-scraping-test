@@ -4,10 +4,10 @@
   "sourceId": "parlamento-europeo",
   "originUrl": "https://www.europarl.europa.eu/news/it",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-30T13:19:23.330444Z",
-  "status": "error",
-  "diagnosticCode": "render_error",
-  "method": "html",
+  "collectedAt": "2026-10-30T13:30:49.317712Z",
+  "status": "no_feed",
+  "diagnosticCode": "parsing_error",
+  "method": "crawl4ai",
   "feedUrl": null,
   "items": [],
   "attempts": [
@@ -20,10 +20,10 @@
       "status": 202
     }
   ],
-  "message": "Rendering della pagina non riuscito",
+  "message": "Pagina accessibile, ma nessuna notizia con data di pubblicazione verificabile.",
   "candidateSamples": [],
   "candidateCount": 0,
   "datedCount": 0,
   "listingUrl": "https://www.europarl.europa.eu/news/it",
-  "durationSeconds": 0.51
+  "durationSeconds": 0.53
 }

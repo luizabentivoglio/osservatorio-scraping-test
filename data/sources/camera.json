@@ -4,199 +4,93 @@
   "sourceId": "camera",
   "originUrl": "https://www.camera.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-30T13:17:44.997028Z",
-  "status": "no_feed",
-  "diagnosticCode": "parsing_error",
-  "method": "crawl4ai",
+  "collectedAt": "2026-10-30T13:30:03.617048Z",
+  "status": "ok",
+  "diagnosticCode": null,
+  "method": "trafilatura",
   "feedUrl": null,
-  "items": [],
+  "items": [
+    {
+      "title": "Audizioni Copasir – Martedì Valensise – Mercoledì Quacivi",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63742",
+      "excerpt": "Il Comitato parlamentare per la sicurezza della Repubblica (Copasir) svolge le seguenti audizioni, a...",
+      "publishedAt": "2026-10-30T00:00:00Z",
+      "dateEvidence": "html:publication-label"
+    },
+    {
+      "title": "Giornata dell'Unità Nazionale e delle Forze Armate – Mercoledì Montecitorio si illumina con il tricolore nazionale",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63725",
+      "excerpt": "In occasione della Giornata dell'Unità Nazionale e delle Forze Armate, la facciata di Montecitorio ...",
+      "publishedAt": "2026-10-30T00:00:00Z",
+      "dateEvidence": "html:publication-label"
+    },
+    {
+      "title": "Interpellanza urgente",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63726",
+      "excerpt": "Nella seduta odierna ha avuto luogo lo svolgimento di una interpellanza urgente sul seguente argomen...",
+      "publishedAt": "2026-10-30T00:00:00Z",
+      "dateEvidence": "html:publication-label"
+    },
+    {
+      "title": "Italia - Giappone: partenariato strategico speciale sullo spazio",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63704",
+      "excerpt": "Con la firma di una Dichiarazione di intenti tra il presidente dell’Università di Tokyo, Teruo Fu...",
+      "publishedAt": "2026-10-29T00:00:00Z",
+      "dateEvidence": "html:publication-label"
+    },
+    {
+      "title": "Sarfatti - Venerdì alle 17.30 diretta webtv",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63689",
+      "excerpt": "Venerdì 30 ottobre, alle ore 17.30, presso la Sala del Mappamondo di Montecitorio si svolge il conv...",
+      "publishedAt": "2026-10-29T00:00:00Z",
+      "dateEvidence": "html:publication-label"
+    },
+    {
+      "title": "Crisi di Hormuz e le nuove rotte del commercio eurasiatico - Sfide e opportunità per le politiche doganali – Venerdì alle 9.30 diretta webtv - Messaggio di Fontana",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63665",
+      "excerpt": "Venerdì 30 ottobre, alle ore 9.30, presso l'Aula dei Gruppi parlamentari della Camera si svolge il ...",
+      "publishedAt": "2026-10-28T00:00:00Z",
+      "dateEvidence": "html:publication-label"
+    }
+  ],
   "attempts": [
     {
-      "url": "https://www.camera.it/robots.txt",
+      "url": "https://comunicazione.camera.it/robots.txt",
       "status": 200
     },
     {
-      "url": "https://www.camera.it/leg19/feeds/16/521.xml",
-      "status": 500
-    },
-    {
-      "url": "https://www.camera.it/leg19/feeds/5/33.xml",
-      "status": 500
-    },
-    {
-      "url": "https://www.camera.it/",
-      "status": 302
-    },
-    {
-      "url": "https://www.camera.it/leg19/1",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina",
       "status": 200
     },
     {
-      "url": "https://www.camera.it/leg19/1?active_tab_27538=27542",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63742",
       "status": 200
     },
     {
-      "url": "https://www.camera.it/leg19/1?active_tab_27538=27545",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63725",
       "status": 200
     },
     {
-      "url": "https://www.camera.it/leg19/43",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63726",
       "status": 200
     },
     {
-      "url": "https://www.camera.it/leg19/141",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63704",
       "status": 200
     },
     {
-      "url": "https://www.camera.it/leg19/577",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63689",
       "status": 200
     },
     {
-      "url": "https://www.camera.it/leg19/168",
-      "status": 200
-    },
-    {
-      "url": "https://www.camera.it/leg19/1?active_tab_27538=27542",
-      "status": 200
-    },
-    {
-      "url": "https://www.camera.it/leg19/1?active_tab_27538=27545",
-      "status": 200
-    },
-    {
-      "url": "https://www.camera.it/leg19/43",
-      "status": 200
-    },
-    {
-      "url": "https://www.camera.it/leg19/141",
-      "status": 200
-    },
-    {
-      "url": "https://www.camera.it/leg19/577",
-      "status": 200
-    },
-    {
-      "url": "https://www.camera.it/leg19/168",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63665",
       "status": 200
     }
   ],
-  "message": "Pagina accessibile, ma nessuna notizia con data di pubblicazione verificabile.",
-  "candidateSamples": [
-    {
-      "url": "https://www.camera.it/leg19/1?active_tab_27538=27542",
-      "title": "Bicamerali e di inchiesta",
-      "h1": "Camera dei deputati",
-      "dates": [
-        {
-          "tag": "p",
-          "class": [
-            "data"
-          ],
-          "text": "28 Ottobre 2026",
-          "datetime": null
-        },
-        {
-          "tag": "p",
-          "class": [
-            "data"
-          ],
-          "text": "30 Ottobre 2026",
-          "datetime": null
-        },
-        {
-          "tag": "p",
-          "class": [
-            "data"
-          ],
-          "text": "27 Agosto 2026",
-          "datetime": null
-        },
-        {
-          "tag": "p",
-          "class": [
-            "data"
-          ],
-          "text": "27 Ottobre 2026",
-          "datetime": null
-        }
-      ]
-    },
-    {
-      "url": "https://www.camera.it/leg19/1?active_tab_27538=27545",
-      "title": "Giunte Comitati - Delegazioni",
-      "h1": "Camera dei deputati",
-      "dates": [
-        {
-          "tag": "p",
-          "class": [
-            "data"
-          ],
-          "text": "28 Ottobre 2026",
-          "datetime": null
-        },
-        {
-          "tag": "p",
-          "class": [
-            "data"
-          ],
-          "text": "30 Ottobre 2026",
-          "datetime": null
-        },
-        {
-          "tag": "p",
-          "class": [
-            "data"
-          ],
-          "text": "27 Agosto 2026",
-          "datetime": null
-        },
-        {
-          "tag": "p",
-          "class": [
-            "data"
-          ],
-          "text": "27 Ottobre 2026",
-          "datetime": null
-        }
-      ]
-    },
-    {
-      "url": "https://www.camera.it/leg19/43",
-      "title": "Organi Parlamentari",
-      "h1": "Camera dei deputati",
-      "dates": []
-    },
-    {
-      "url": "https://www.camera.it/leg19/141",
-      "title": "Progetti di legge",
-      "h1": "Camera dei deputati",
-      "dates": []
-    },
-    {
-      "url": "https://www.camera.it/leg19/577",
-      "title": "Ultimi Decreti legge esaminati",
-      "h1": "Camera dei deputati",
-      "dates": []
-    },
-    {
-      "url": "https://www.camera.it/leg19/168",
-      "title": "Doc parlamentari",
-      "h1": "Camera dei deputati",
-      "dates": []
-    }
-  ],
+  "message": "6 notizie recenti con data verificata; copertura parziale.",
+  "candidateSamples": [],
   "candidateCount": 12,
-  "datedCount": 0,
-  "listingUrl": "https://www.camera.it/leg19/1",
-  "durationSeconds": 16.06,
-  "attemptErrors": [
-    {
-      "url": "https://www.camera.it/leg19/feeds/16/521.xml",
-      "code": "http_error"
-    },
-    {
-      "url": "https://www.camera.it/leg19/feeds/5/33.xml",
-      "code": "http_error"
-    }
-  ]
+  "datedCount": 6,
+  "listingUrl": "https://comunicazione.camera.it/archivio-prima-pagina",
+  "durationSeconds": 4.27
 }

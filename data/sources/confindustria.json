@@ -4,127 +4,58 @@
   "sourceId": "confindustria",
   "originUrl": "https://www.confindustria.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-30T13:17:56.128264Z",
-  "status": "no_feed",
-  "diagnosticCode": "parsing_error",
-  "method": "crawl4ai",
+  "collectedAt": "2026-10-30T13:30:08.916048Z",
+  "status": "ok",
+  "diagnosticCode": null,
+  "method": "trafilatura",
   "feedUrl": null,
-  "items": [],
+  "items": [
+    {
+      "title": "ARTIGIANATO, ORSINI: “LE ASSOCIAZIONI DI CATEGORIA NON DIFENDANO I PROPRI INTERESSI A SPESE DEI LAVORATORI E DELLE IMPRESE”",
+      "url": "https://www.confindustria.it/comunicati-stampa/artigianato-orsini-le-associazioni-di-categoria-non-difendano-i-propri-interessi-a-spese-dei-lavoratori-e-delle-imprese",
+      "excerpt": "Roma, 29 ottobre 2026 – “La revisione della legge quadro sull’artigianato pone una questione fondamentale che non possiamo ignorare: la tutela dei lavoratori, la concorrenza leale tra imprese e la necessità di favorire la crescita del nostro sistema produttivo. Come Presidente di Confindustria, a nome delle oltre 140mi",
+      "publishedAt": "2026-10-29T00:00:00Z",
+      "dateEvidence": "html:press-release-header"
+    }
+  ],
   "attempts": [
     {
       "url": "https://www.confindustria.it/robots.txt",
       "status": 200
     },
     {
-      "url": "https://www.confindustria.it/",
+      "url": "https://www.confindustria.it/comunicati-stampa",
       "status": 200
     },
     {
-      "url": "https://www.confindustria.it/news/artigianato-orsini-stessi-diritti-e-stesse-regole-per-chi-svolge-la-stessa-attivita",
+      "url": "https://www.confindustria.it/comunicati-stampa/artigianato-orsini-le-associazioni-di-categoria-non-difendano-i-propri-interessi-a-spese-dei-lavoratori-e-delle-imprese",
       "status": 200
     },
     {
-      "url": "https://www.confindustria.it/pubblicazioni/italia-il-2026-sorprende-al-rialzo-ma-la-crescita-rallenta-a-fine-anno",
+      "url": "https://www.confindustria.it/comunicati-stampa/innovazione-retimpresa-confindustria-fare-rete-e-la-leva-per-rafforzare-la-crescita-di-startup-e-pmi",
       "status": 200
     },
     {
-      "url": "https://www.confindustria.it/news",
+      "url": "https://www.confindustria.it/comunicati-stampa/riforma-artigianato-bianchi-piccola-industria-confindustria-e-un-tema-di-competitivita-e-di-risorse-pubbliche-ai-nostri-numeri-si-risponda-con-altri-numeri-non-con-le-battute",
       "status": 200
     },
     {
-      "url": "https://www.confindustria.it/progetti/connext-2-0-filiere/",
-      "status": 308
-    },
-    {
-      "url": "https://www.confindustria.it/progetti/connext-2-0-filiere",
+      "url": "https://www.confindustria.it/comunicati-stampa/artigianato-somma-confindustria-no-a-riforme-che-sprecano-soldi-pubblici-danneggiano-i-giovani-lindustria-e-la-rappresentanza",
       "status": 200
     },
     {
-      "url": "https://www.confindustria.it/centro-studi/",
-      "status": 308
-    },
-    {
-      "url": "https://www.confindustria.it/centro-studi",
+      "url": "https://www.confindustria.it/comunicati-stampa/ddl-nucleare-confindustria-svolta-storica-per-il-futuro-del-paese",
       "status": 200
     },
     {
-      "url": "https://www.confindustria.it/expand",
-      "status": 200
-    },
-    {
-      "url": "https://www.confindustria.it/news/artigianato-orsini-stessi-diritti-e-stesse-regole-per-chi-svolge-la-stessa-attivita",
-      "status": 200
-    },
-    {
-      "url": "https://www.confindustria.it/pubblicazioni/italia-il-2026-sorprende-al-rialzo-ma-la-crescita-rallenta-a-fine-anno",
-      "status": 200
-    },
-    {
-      "url": "https://www.confindustria.it/news",
-      "status": 200
-    },
-    {
-      "url": "https://www.confindustria.it/progetti/connext-2-0-filiere/",
-      "status": 308
-    },
-    {
-      "url": "https://www.confindustria.it/progetti/connext-2-0-filiere",
-      "status": 200
-    },
-    {
-      "url": "https://www.confindustria.it/centro-studi/",
-      "status": 308
-    },
-    {
-      "url": "https://www.confindustria.it/centro-studi",
-      "status": 200
-    },
-    {
-      "url": "https://www.confindustria.it/expand",
+      "url": "https://www.confindustria.it/comunicati-stampa/luiss-guido-carli-e-confindustria-imprese-estere-insieme-per-il-corso-di-international-business",
       "status": 200
     }
   ],
-  "message": "Pagina accessibile, ma nessuna notizia con data di pubblicazione verificabile.",
-  "candidateSamples": [
-    {
-      "url": "https://www.confindustria.it/news/artigianato-orsini-stessi-diritti-e-stesse-regole-per-chi-svolge-la-stessa-attivita",
-      "title": "Artigianato, Orsini: “Stessi diritti e stesse regole per chi svolge la stessa attività”",
-      "h1": "Artigianato, Orsini: “Stessi diritti e stesse regole per chi svolge la stessa attività”",
-      "dates": []
-    },
-    {
-      "url": "https://www.confindustria.it/pubblicazioni/italia-il-2026-sorprende-al-rialzo-ma-la-crescita-rallenta-a-fine-anno",
-      "title": "Vai alla Congiuntura Flash",
-      "h1": "Italia, il 2026 sorprende al rialzo ma la crescita rallenta a fine anno",
-      "dates": []
-    },
-    {
-      "url": "https://www.confindustria.it/news",
-      "title": "Tutte le Stories",
-      "h1": "Confindustria Stories",
-      "dates": []
-    },
-    {
-      "url": "https://www.confindustria.it/progetti/connext-2-0-filiere",
-      "title": "Scopri di più",
-      "h1": "Connext 2.0 – Filiere",
-      "dates": []
-    },
-    {
-      "url": "https://www.confindustria.it/centro-studi",
-      "title": "Centro Studi Confindustria",
-      "h1": "Centro Studi Confindustria",
-      "dates": []
-    },
-    {
-      "url": "https://www.confindustria.it/expand",
-      "title": "Scopri EXPAND",
-      "h1": "EXPAND è uno strumento digitale avanzato progettato per supportare imprese, enti e associazioni nella comprensione e nello sviluppo del potenziale di ",
-      "dates": []
-    }
-  ],
+  "message": "1 notizie recenti con data verificata; copertura parziale.",
+  "candidateSamples": [],
   "candidateCount": 12,
-  "datedCount": 0,
-  "listingUrl": "https://www.confindustria.it/",
-  "durationSeconds": 5.36
+  "datedCount": 6,
+  "listingUrl": "https://www.confindustria.it/comunicati-stampa",
+  "durationSeconds": 4.38
 }

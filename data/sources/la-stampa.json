@@ -4,7 +4,7 @@
   "sourceId": "la-stampa",
   "originUrl": "https://www.lastampa.it/",
   "configuredFeedUrl": "https://www.lastampa.it/rss/copertina.xml",
-  "collectedAt": "2026-10-30T13:19:03.150095Z",
+  "collectedAt": "2026-10-30T13:30:37.012211Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
@@ -302,5 +302,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 0.72
+  "durationSeconds": 0.73
 }

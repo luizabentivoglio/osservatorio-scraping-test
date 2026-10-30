@@ -4,12 +4,27 @@
   "sourceId": "libera",
   "originUrl": "https://www.libera.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-30T13:19:04.640469Z",
-  "status": "no_feed",
-  "diagnosticCode": "parsing_error",
-  "method": "crawl4ai",
+  "collectedAt": "2026-10-30T13:30:40.372336Z",
+  "status": "ok",
+  "diagnosticCode": null,
+  "method": "html",
   "feedUrl": null,
-  "items": [],
+  "items": [
+    {
+      "title": "“Punire quasi mai funziona, educare spesso sì”",
+      "url": "https://www.libera.it/it-schede-2873-punire_quasi_mai_funziona_educare_spesso_si",
+      "excerpt": "Libera risponde alle dichiarazioni del ministro Nordio: contro il disagio giovanile e la criminalità minorile servono educazione, opportunità e sostegno alle famiglie, non solo repressione.",
+      "publishedAt": "2026-10-22T00:00:00Z",
+      "dateEvidence": "html:dated-news-card"
+    },
+    {
+      "title": "Daphne Caruana Galizia, nove anni dopo la richiesta di verità e giustizia non si ferma",
+      "url": "https://www.libera.it/it-schede-2872-daphne_caruana_galizia_nove_anni_dopo_la_richiesta_di_verita_e_giustizia_non_si_ferma",
+      "excerpt": "A Malta le commemorazioni per la giornalista uccisa nel 2017. Presente anche Francesca Rispoli, copresidente di Libera: Noi siamo il rumore che non volevano",
+      "publishedAt": "2026-10-17T00:00:00Z",
+      "dateEvidence": "html:dated-news-card"
+    }
+  ],
   "attempts": [
     {
       "url": "https://www.libera.it/robots.txt",
@@ -18,97 +33,10 @@
     {
       "url": "https://www.libera.it/",
       "status": 200
-    },
-    {
-      "url": "https://www.libera.it/it-schede-609-tesseramento",
-      "status": 200
-    },
-    {
-      "url": "https://www.libera.it/it-schede-2831-tracce_libere",
-      "status": 200
-    },
-    {
-      "url": "https://www.libera.it/it-schede-2870-report_foia_libera_trasparenza_milano_marche_campania",
-      "status": 200
-    },
-    {
-      "url": "https://www.libera.it/it-schede-2868-impronte_di_memoria_cammini_di_giustizia",
-      "status": 200
-    },
-    {
-      "url": "https://www.libera.it/it-schede-2866-open_olympics_2026_il_quarto_report_dopo_i_giochi_restano_aperte_le_questioni_su_costi_tempi_e_tr",
-      "status": 200
-    },
-    {
-      "url": "https://www.libera.it/it-schede-1589-primo_centro_di_documentazione_tematico_sui_temi_della_lotta_alle_mafie_e_alla_corruzione",
-      "status": 200
-    },
-    {
-      "url": "https://www.libera.it/it-schede-609-tesseramento",
-      "status": 200
-    },
-    {
-      "url": "https://www.libera.it/it-schede-2870-report_foia_libera_trasparenza_milano_marche_campania",
-      "status": 200
-    },
-    {
-      "url": "https://www.libera.it/it-schede-2868-impronte_di_memoria_cammini_di_giustizia",
-      "status": 200
-    },
-    {
-      "url": "https://www.libera.it/it-schede-2866-open_olympics_2026_il_quarto_report_dopo_i_giochi_restano_aperte_le_questioni_su_costi_tempi_e_tr",
-      "status": 200
-    },
-    {
-      "url": "https://www.libera.it/it-schede-2831-tracce_libere",
-      "status": 200
-    },
-    {
-      "url": "https://www.libera.it/it-schede-1589-primo_centro_di_documentazione_tematico_sui_temi_della_lotta_alle_mafie_e_alla_corruzione",
-      "status": 200
     }
   ],
-  "message": "Pagina accessibile, ma nessuna notizia con data di pubblicazione verificabile.",
-  "candidateSamples": [
-    {
-      "url": "https://www.libera.it/it-schede-609-tesseramento",
-      "title": "Tesserati con noi!",
-      "h1": "Tenersi insieme è rivoluzionario",
-      "dates": []
-    },
-    {
-      "url": "https://www.libera.it/it-schede-2831-tracce_libere",
-      "title": "Tracce Libere seconda edizione",
-      "h1": "Tracce Libere. Seconda edizione",
-      "dates": []
-    },
-    {
-      "url": "https://www.libera.it/it-schede-2870-report_foia_libera_trasparenza_milano_marche_campania",
-      "title": "Fame di sapere",
-      "h1": "Abbiamo “Fame di sapere”",
-      "dates": []
-    },
-    {
-      "url": "https://www.libera.it/it-schede-2868-impronte_di_memoria_cammini_di_giustizia",
-      "title": "Impronte di memoria e cammini di giustizia",
-      "h1": "Impronte di Memoria, Cammini di Giustizia",
-      "dates": []
-    },
-    {
-      "url": "https://www.libera.it/it-schede-2866-open_olympics_2026_il_quarto_report_dopo_i_giochi_restano_aperte_le_questioni_su_costi_tempi_e_tr",
-      "title": "OPEN OLYMPICS 2026: il quarto report",
-      "h1": "Open Olympics 2026: il quarto report",
-      "dates": []
-    },
-    {
-      "url": "https://www.libera.it/it-schede-1589-primo_centro_di_documentazione_tematico_sui_temi_della_lotta_alle_mafie_e_alla_corruzione",
-      "title": "Un Patrimonio di Memoria e Giustizia",
-      "h1": "Un Patrimonio di Memoria e Giustizia",
-      "dates": []
-    }
-  ],
-  "candidateCount": 12,
-  "datedCount": 0,
+  "message": "Titoli, link e date di pubblicazione verificati nelle schede ufficiali delle notizie.",
+  "datedCount": 4,
   "listingUrl": "https://www.libera.it/",
-  "durationSeconds": 6.02
+  "durationSeconds": 2.81
 }
