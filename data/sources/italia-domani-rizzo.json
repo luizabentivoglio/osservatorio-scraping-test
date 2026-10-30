@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "italia-domani-rizzo",
+  "originUrl": "https://www.italiadomanirizzo.it/",
+  "configuredFeedUrl": null,
+  "collectedAt": "2026-10-30T13:03:19.840173Z",
+  "status": "ok",
+  "diagnosticCode": null,
+  "method": "trafilatura",
+  "feedUrl": null,
+  "items": [
+    {
+      "title": "Carburanti, allarme gestori: il taglio delle accise arricchisce i colossi petroliferi - Italia Domani",
+      "url": "https://www.italiadomanirizzo.it/carburanti-allarme-gestori-il-taglio-delle-accise-arricchisc/",
+      "excerpt": "I benzinai denunciano che il taglio delle accise sul diesel finisce nelle tasche delle compagnie petrolifere anziché aiutare i cittadini, chiedendo l'introduzione di un tetto ai prezzi.",
+      "publishedAt": "2026-10-29T00:00:00Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "Suppletive alla Camera: Marco Rizzo presenta a Lanciano Danilo Ranieri - Italia Domani",
+      "url": "https://www.italiadomanirizzo.it/suppletive-alla-camera-marco-rizzo-presenta-a-lanciano-danil/",
+      "excerpt": "A Lanciano Marco Rizzo ha presentato la candidatura di Danilo Ranieri alla Camera dei Deputati per le elezioni suppletive, portando al centro del dibattito i problemi reali del territorio.",
+      "publishedAt": "2026-10-27T00:00:00Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "Italia Domani cresce in Piemonte: a Torino la prima direzione regionale - Italia Domani",
+      "url": "https://www.italiadomanirizzo.it/italia-domani-cresce-in-piemonte-a-torino-la-prima-direzione/",
+      "excerpt": "A Torino si è svolta la prima direzione regionale piemontese di Italia Domani con Marco Rizzo, all'insegna del radicamento e della concretezza sulla sicurezza.",
+      "publishedAt": "2026-10-25T01:00:00Z",
+      "dateEvidence": "jsonld:datePublished"
+    }
+  ],
+  "attempts": [
+    {
+      "url": "https://www.italiadomanirizzo.it/robots.txt",
+      "status": 200
+    },
+    {
+      "url": "https://www.italiadomanirizzo.it/",
+      "status": 200
+    },
+    {
+      "url": "https://www.italiadomanirizzo.it/carburanti-allarme-gestori-il-taglio-delle-accise-arricchisc/",
+      "status": 200
+    },
+    {
+      "url": "https://www.italiadomanirizzo.it/suppletive-alla-camera-marco-rizzo-presenta-a-lanciano-danil/",
+      "status": 200
+    },
+    {
+      "url": "https://www.italiadomanirizzo.it/italia-domani-cresce-in-piemonte-a-torino-la-prima-direzione/",
+      "status": 200
+    },
+    {
+      "url": "https://www.italiadomanirizzo.it/congresso/",
+      "status": 200
+    },
+    {
+      "url": "https://www.italiadomanirizzo.it/il-partito",
+      "status": 301
+    },
+    {
+      "url": "https://www.italiadomanirizzo.it/il-partito/",
+      "status": 200
+    },
+    {
+      "url": "https://www.italiadomanirizzo.it/diventa-tesserato/",
+      "status": 200
+    }
+  ],
+  "message": "3 notizie recenti con data verificata; copertura parziale.",
+  "candidateCount": 8,
+  "datedCount": 3,
+  "listingUrl": "https://www.italiadomanirizzo.it/",
+  "durationSeconds": 4.86
+}

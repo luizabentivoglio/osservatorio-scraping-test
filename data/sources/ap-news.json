@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "ap-news",
+  "originUrl": "https://apnews.com/world-news",
+  "configuredFeedUrl": null,
+  "collectedAt": "2026-10-30T13:02:30.196678Z",
+  "status": "blocked",
+  "diagnosticCode": "access_restricted",
+  "method": "html",
+  "feedUrl": null,
+  "items": [],
+  "attempts": [
+    {
+      "url": "https://apnews.com/robots.txt",
+      "status": 200
+    },
+    {
+      "url": "https://apnews.com/world-news",
+      "status": 403
+    }
+  ],
+  "message": "HTTP 403: accesso limitato dalla fonte",
+  "httpStatus": 403,
+  "failedUrl": "https://apnews.com/world-news",
+  "durationSeconds": 0.08
+}

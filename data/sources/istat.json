@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "istat",
+  "originUrl": "https://www.istat.it/",
+  "configuredFeedUrl": "https://www.istat.it/feed/",
+  "collectedAt": "2026-10-30T13:03:16.694383Z",
+  "status": "ok",
+  "diagnosticCode": null,
+  "method": "rss",
+  "feedUrl": "https://www.istat.it/feed/",
+  "items": [
+    {
+      "title": "Retribuzioni contrattuali – Luglio-settembre 2026",
+      "url": "https://www.istat.it/comunicato-stampa/retribuzioni-contrattuali-luglio-settembre-2026/",
+      "excerpt": "L’indice delle retribuzioni contrattuali orarie, a settembre 2026, rimane invariato rispetto al mese precedente e aumenta del 2,5% rispetto a settembre 2025",
+      "publishedAt": "2026-10-30T11:00:15Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Prezzi al consumo (dati provvisori) – Ottobre 2026",
+      "url": "https://www.istat.it/comunicato-stampa/prezzi-al-consumo-dati-provvisori-ottobre-2026/",
+      "excerpt": "Secondo le stime preliminari, a ottobre 2026 l’indice nazionale dei prezzi al consumo per l’intera collettività (NIC), al lordo dei tabacchi, registra una variazione del +0,9% su settembre e del +5,4% su base annua",
+      "publishedAt": "2026-10-30T10:06:18Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Stima preliminare del Pil – III trimestre 2026",
+      "url": "https://www.istat.it/comunicato-stampa/stima-preliminare-del-pil-iii-trimestre-2026/",
+      "excerpt": "Nel III Trimestre 2026 il Pil è rimasto invariato sul trimestre precedente ed è cresciuto dello 0,8% sul III trim 2025",
+      "publishedAt": "2026-10-30T09:20:50Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Infografiche storie di dati: I cambiamenti della popolazione",
+      "url": "https://www.istat.it/infografiche/infografiche-storie-di-dati-i-cambiamenti-della-popolazione/",
+      "excerpt": "Online le infografiche su: I cambiamenti della popolazione",
+      "publishedAt": "2026-10-29T18:17:15Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Indagine multiscopo Uso del tempo 2023: file per la ricerca",
+      "url": "https://www.istat.it/microdati/multiscopo-sulle-famiglie-uso-del-tempo/",
+      "excerpt": "Disponibili i file per la ricerca della rilevazione\"Uso del tempo\"",
+      "publishedAt": "2026-10-29T15:24:52Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Statistica ufficiale: strumenti per docenti",
+      "url": "https://www.istat.it/evento/progetto-insegnanti-istat-statistica-ufficiale-strumenti-per-docenti/",
+      "excerpt": "I corsi hanno l’obiettivo di fornire agli insegnanti strumenti e metodi da potere utilizzare in aula per fornire strumenti per utilizzare in modo critico e consapevole i dati di statistica ufficiale.",
+      "publishedAt": "2026-10-29T15:14:50Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "La tratta di esseri umani in Italia – Anni 2021-2025",
+      "url": "https://www.istat.it/comunicato-stampa/la-tratta-di-esseri-umani-in-italia-anni-2021-2025/",
+      "excerpt": "Nel tempo è cresciuta la capacità di intercettare le potenziali vittime di tratta. In Italia nel 2025, il sistema di protezione ha registrato 3.520 persone contro le 2.398 nel 2021 (+46,8%).",
+      "publishedAt": "2026-10-29T12:01:04Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Fiducia dei consumatori e delle imprese – Ottobre 2026",
+      "url": "https://www.istat.it/comunicato-stampa/fiducia-dei-consumatori-e-delle-imprese-ottobre-2026/",
+      "excerpt": "A ottobre 2026 il clima di fiducia dei consumatori flette da 91,2 a 90,3 mentre l’indicatore composito del clima di fiducia delle imprese aumenta da 95,9 a 96,6",
+      "publishedAt": "2026-10-29T11:03:29Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Censimento permanente delle imprese 2025: primi risultati",
+      "url": "https://www.istat.it/comunicato-stampa/censimento-permanente-delle-imprese-2025-primi-risultati/",
+      "excerpt": "L’Istat diffonde, a soli sette mesi dalla chiusura della rilevazione, i primi risultati della terza edizione della rilevazione multiscopo, parte integrante del Censimento permanente delle imprese",
+      "publishedAt": "2026-10-29T10:01:34Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Commercio estero extra UE – Settembre 2026",
+      "url": "https://www.istat.it/comunicato-stampa/commercio-estero-extra-ue-settembre-2026/",
+      "excerpt": "A settembre 2026 si stima una riduzione congiunturale per le esportazioni (-1,3%) e un aumento per le importazioni (+1,4%). Il saldo commerciale con i paesi extra Ue27 è pari a +2.826 milioni di euro",
+      "publishedAt": "2026-10-29T10:00:09Z",
+      "dateEvidence": "feed:published"
+    }
+  ],
+  "attempts": [
+    {
+      "url": "https://www.istat.it/robots.txt",
+      "status": 200
+    },
+    {
+      "url": "https://www.istat.it/feed/",
+      "status": 200
+    }
+  ],
+  "message": "Feed ufficiale letto; date di pubblicazione verificate.",
+  "durationSeconds": 3.14
+}

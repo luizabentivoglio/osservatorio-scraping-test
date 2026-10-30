@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "svp",
+  "originUrl": "https://www.svp.eu/",
+  "configuredFeedUrl": null,
+  "collectedAt": "2026-10-30T13:04:01.232216Z",
+  "status": "ok",
+  "diagnosticCode": null,
+  "method": "trafilatura",
+  "feedUrl": null,
+  "items": [
+    {
+      "title": "Stauder: „Hände weg von unseren Traditionen“",
+      "url": "https://www.svp.eu/de/stauder-haende-weg-von-unseren-traditionen--1-5473.html",
+      "excerpt": "Html.Raw(tbTexte.getText(171,1)) Topnews SVP Stauder: „Hände weg von unseren Traditionen“ 26.10.2026 2026-10-26 Stauder: „Hände weg von unseren Traditionen“ „Wiederum vergreift sich Alessandro Urzì im Ton, wenn es um die Pflege unserer Traditionen und unserer Kultur geht. Davon lassen wir uns sicherlich nicht beeindruc",
+      "publishedAt": "2026-10-26T00:00:00Z",
+      "dateEvidence": "html:publication-time"
+    }
+  ],
+  "attempts": [
+    {
+      "url": "https://www.svp.eu/robots.txt",
+      "status": 200
+    },
+    {
+      "url": "https://www.svp.eu/",
+      "status": 301
+    },
+    {
+      "url": "https://www.svp.eu/de/wilkommen-bei-uns-1.html",
+      "status": 200
+    },
+    {
+      "url": "https://www.svp.eu/de/partei/organisation-943.html",
+      "status": 200
+    },
+    {
+      "url": "https://www.svp.eu/de/partei/wahlergebnisse-939.html",
+      "status": 200
+    },
+    {
+      "url": "https://www.svp.eu/de/mediathek/zis-949.html",
+      "status": 200
+    },
+    {
+      "url": "https://www.svp.eu/de/mitgliedschaft-901.html",
+      "status": 301
+    },
+    {
+      "url": "https://www.svp.eu/de/mitgliedschaft/schritt-eins-903.html",
+      "status": 200
+    },
+    {
+      "url": "https://www.svp.eu/de/kontakt/mitarbeiterinnen-953.html",
+      "status": 200
+    },
+    {
+      "url": "https://www.svp.eu/de/stauder-haende-weg-von-unseren-traditionen--1-5473.html",
+      "status": 200
+    }
+  ],
+  "message": "1 notizie recenti con data verificata; copertura parziale.",
+  "candidateCount": 12,
+  "datedCount": 1,
+  "listingUrl": "https://www.svp.eu/de/wilkommen-bei-uns-1.html",
+  "durationSeconds": 2.63
+}

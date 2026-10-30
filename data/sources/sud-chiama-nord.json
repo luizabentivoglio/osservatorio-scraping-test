@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "sud-chiama-nord",
+  "originUrl": "https://www.sud-chiamanord.it/",
+  "configuredFeedUrl": null,
+  "collectedAt": "2026-10-30T13:03:58.536161Z",
+  "status": "no_feed",
+  "diagnosticCode": "parsing_error",
+  "method": "crawl4ai",
+  "feedUrl": null,
+  "items": [],
+  "attempts": [
+    {
+      "url": "https://www.sud-chiamanord.it/robots.txt",
+      "status": 200
+    },
+    {
+      "url": "https://www.sud-chiamanord.it/",
+      "status": 200
+    },
+    {
+      "url": "https://www.sud-chiamanord.it/blog/riccardo-pellegrino-aderisce-a-sud-chiama-nord-a-catania-cresce-il-progetto-del-governo-di-liberazione",
+      "status": 200
+    },
+    {
+      "url": "https://www.sud-chiamanord.it/blog/la-sicilia-riparte-dal-modello-messina-baricentro-dell-euro-mediterraneo-circa-4-mila-per-la-convention-di-sud-chiama-nord",
+      "status": 200
+    },
+    {
+      "url": "https://www.sud-chiamanord.it/blog/governo-di-liberazione-tappa-ribera",
+      "status": 200
+    },
+    {
+      "url": "https://www.sud-chiamanord.it/blog/governo-di-liberazione-tappa-agrigento-de-luca-basta-giochi-di-palazzo-serve-una-rottura-vera",
+      "status": 200
+    },
+    {
+      "url": "https://www.sud-chiamanord.it/blog/tour-del-governo-di-liberazione-tappa-a-ragusa-de-luca-serve-una-grande-coalizione-per-liberare-la-sicilia-da-immobilismo-vecchie-logiche-e-subordinazione-romano-centric",
+      "status": 200
+    },
+    {
+      "url": "https://www.sud-chiamanord.it/blog/gela-cateno-de-luca-consegna-al-sindaco-terenziano-di-stefano-il-disegno-di-legge-sulle-accise-petrolifere",
+      "status": 200
+    }
+  ],
+  "message": "Pagina accessibile, ma nessuna notizia con data di pubblicazione verificabile.",
+  "candidateCount": 12,
+  "datedCount": 0,
+  "listingUrl": "https://www.sud-chiamanord.it/",
+  "durationSeconds": 0.68
+}

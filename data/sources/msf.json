@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "msf",
+  "originUrl": "https://www.medicisenzafrontiere.it/",
+  "configuredFeedUrl": null,
+  "collectedAt": "2026-10-30T13:03:24.710069Z",
+  "status": "ok",
+  "diagnosticCode": null,
+  "method": "trafilatura",
+  "feedUrl": null,
+  "items": [
+    {
+      "title": "Haiti, scontri in aumento a Port-au-Prince: 30 feriti curati negli ospedali di MSF in poco più di una settimana",
+      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/haiti-scontri-aumento-port-au-prince-30-feriti-curati-ospedali-msf-poco-piu-di-settimana/",
+      "excerpt": "Con l’intensificarsi degli scontri armati nella capitale haitiana, Medici Senza Frontiere ha accolto nei propri ospedali numerosi feriti, tra cui donne e bambini. Tra il 18 e il 26 ottobre, 30 pazienti feriti da colpi d’arma da fuoco o da esplosioni causate da droni sono stati ricoverati e curati negli ospedali di MSF ",
+      "publishedAt": "2026-10-28T18:54:04Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "Sudan, attacco con drone su un mercato a Nyala: 36 morti e oltre 150 feriti all’ospedale supportato da MSF",
+      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/sudan-attacco-con-drone-su-mercato-nyala-36-morti-oltre-150-feriti-allospedale-supportato-da-msf/",
+      "excerpt": "A Nyala, in Sudan, un attacco con drone ha causato almeno 36 morti e oltre 150 feriti: è l’attacco con il maggior numero di vittime che le équipe di MSF ricordano quest'anno. Oltre 150 feriti in poche ore Un attacco con drone da parte delle Forze Armate Sudanesi ha colpito ieri, attorno alle 20:00 locali, un affollato ",
+      "publishedAt": "2026-10-27T19:49:28Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "Ucraina: MSF assiste feriti dopo attacco russo a Pavlohrad su infrastrutture civili",
+      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/ucraina-msf-assiste-feriti-dopo-attacco-russo-pavlohrad-infrastrutture-civili/",
+      "excerpt": "A Pavlohrad, un attacco russo contro un supermercato ha colpito ancora una volta i civili: tra i 7 feriti assistiti dai team di MSF ci sono anche due bambine di 10 anni. Ancora vittime tra i civili Tre giorni dopo l'offensiva che ha colpito Synelnykove, le forze russe hanno nuovamente attaccato infrastrutture civili a ",
+      "publishedAt": "2026-10-27T17:31:00Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "Yemen, attacco a 150 metri dall’ospedale di Mocha. MSF: accesso sicuro alle cure sempre più limitato",
+      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/yemen-attacco-150-metri-ospedale-mocha-msf-accesso-sicuro-cure-sempre-piu-limitato/",
+      "excerpt": "Negli ultimi giorni, le équipe di Medici Senza Frontiere ad Aden e a Mocha sono state esposte a una serie di incidenti che limitano ulteriormente l’accesso umanitario e la fornitura di assistenza medica alle persone in Yemen. I tre attacchi a Mocha e le loro conseguenze Questa mattina, lunedì 26 ottobre, 3 attacchi han",
+      "publishedAt": "2026-10-26T17:10:30Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "Ucraina, MSF assiste feriti dopo un attacco russo a Dnipropetrovsk",
+      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/ucraina-msf-assiste-feriti-dopo-attacco-russo-dnipropetrovsk/",
+      "excerpt": "Un drone russo ha colpito ieri intorno alle 18 infrastrutture civili a Synelnykove, nella regione di Dnipropetrovsk, a circa 80 chilometri dalla linea del fronte. La guerra colpisce ancora i civili L’attacco è avvenuto in una zona con abitazioni, bar e negozi, a meno di un chilometro da un ospedale che supportiamo. Sec",
+      "publishedAt": "2026-10-25T17:27:15Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "Lascito testamentario: che cos’è e come funziona",
+      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/lascito-testamentario-cosa-e-come-funziona/",
+      "excerpt": "Che cos'è un lascito testamentario, come funziona, quali forme di testamento esistono e come destinarlo a Medici Senza Frontiere.",
+      "publishedAt": "2026-10-22T14:37:16Z",
+      "dateEvidence": "jsonld:datePublished"
+    }
+  ],
+  "attempts": [
+    {
+      "url": "https://www.medicisenzafrontiere.it/robots.txt",
+      "status": 200
+    },
+    {
+      "url": "https://www.medicisenzafrontiere.it/",
+      "status": 200
+    },
+    {
+      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/haiti-scontri-aumento-port-au-prince-30-feriti-curati-ospedali-msf-poco-piu-di-settimana/",
+      "status": 200
+    },
+    {
+      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/sudan-attacco-con-drone-su-mercato-nyala-36-morti-oltre-150-feriti-allospedale-supportato-da-msf/",
+      "status": 200
+    },
+    {
+      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/ucraina-msf-assiste-feriti-dopo-attacco-russo-pavlohrad-infrastrutture-civili/",
+      "status": 200
+    },
+    {
+      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/yemen-attacco-150-metri-ospedale-mocha-msf-accesso-sicuro-cure-sempre-piu-limitato/",
+      "status": 200
+    },
+    {
+      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/ucraina-msf-assiste-feriti-dopo-attacco-russo-dnipropetrovsk/",
+      "status": 200
+    },
+    {
+      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/lascito-testamentario-cosa-e-come-funziona/",
+      "status": 200
+    }
+  ],
+  "message": "6 notizie recenti con data verificata; copertura parziale.",
+  "candidateCount": 12,
+  "datedCount": 6,
+  "listingUrl": "https://www.medicisenzafrontiere.it/",
+  "durationSeconds": 1.75
+}

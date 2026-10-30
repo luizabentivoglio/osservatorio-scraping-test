@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "cnr",
+  "originUrl": "https://www.cnr.it/",
+  "configuredFeedUrl": null,
+  "collectedAt": "2026-10-30T13:02:50.727233Z",
+  "status": "ok",
+  "diagnosticCode": null,
+  "method": "rss",
+  "feedUrl": "https://www.cnr.it/it/news/rss",
+  "items": [
+    {
+      "title": "San Francesco e la rivoluzione del volgare: il Cantico delle Creature raccontato dal CNR-DSU",
+      "url": "https://www.cnr.it/it/news/14764/san-francesco-e-la-rivoluzione-del-volgare-il-cantico-delle-creature-raccontato-dal-cnr-dsu",
+      "excerpt": "30/10/2026 . È online una nuova videointervista di \"Conversazioni con la Scienza\", la rubrica mensile del Dipartimento Scienze Umane e Sociali, Patrimonio Culturale (CNR-DSU). In occasione degli ottocento anni dalla morte di San Francesco d’Assisi, Paolo Squillacioti, direttore dell’Istituto Opera del Vocabolario Itali",
+      "publishedAt": "2026-10-30T11:25:24Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Artico e Antartide: il Sistema Paese nello scenario internazionale e le nuove sfide della competizione globale",
+      "url": "https://www.cnr.it/it/news/14763/artico-e-antartide-il-sistema-paese-nello-scenario-internazionale-e-le-nuove-sfide-della-competizione-globale",
+      "excerpt": "30/10/2026 . A poco meno di un mese dalla I Conferenza Nazionale Polare, il Cnr ha partecipato a un nuovo confronto sulle sfide dell’Artico e dell’Antartide, il ruolo dell’Italia e le prospettive di cooperazione internazionale, organizzato a Roma dal Sottosegretariato di Stato per la Difesa",
+      "publishedAt": "2026-10-30T09:43:39Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Diplomazia scientifica internazionale: al via gli incontri del Programma EIG CONCERT-Japan su Robotica e Intelligenza artificiale",
+      "url": "https://www.cnr.it/it/news/14762/diplomazia-scientifica-internazionale-al-via-gli-incontri-del-programma-eig-concert-japan-su-robotica-e-intelligenza-artificiale",
+      "excerpt": "30/10/2026 . Il Consiglio Nazionale delle Ricerche ha ospitato presso la propria sede centrale di Roma, nei giorni 27 e 28 ottobre 2026, gli incontri internazionali del programma di cooperazione scientifica e tecnologica EIG CONCERT-Japan",
+      "publishedAt": "2026-10-30T09:37:02Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Matera: sottoscritto il Piano Città degli immobili pubblici",
+      "url": "https://www.cnr.it/it/news/14759/matera-sottoscritto-il-piano-citta-degli-immobili-pubblici",
+      "excerpt": "29/10/2026 . Il Cnr, assieme ad Agenzia del Demanio, Regione Basilicata, Comune di Matera e Centro Euro-Mediterraneo sui Cambiamenti Climatici, è tra gli enti che hanno sottoscritto l'accordo per rigenerare il patrimonio immobiliare pubblico. Cultura, servizi, sostenibilità e innovazione al centro della strategia per l",
+      "publishedAt": "2026-10-29T13:35:28Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Maker Faire 2026: premiato il progetto \"ORMA2 Alta fORMAzione e ricerca\"",
+      "url": "https://www.cnr.it/it/news/14761/maker-faire-2026-premiato-il-progetto-orma2-alta-formazione-e-ricerca",
+      "excerpt": "29/10/2026 . Il progetto \"ORMA2 Alta fORMAzione e ricerca” presentato dall'Istituto di fisica applicata \"Nello Carrara\" (Cnr-Ifac) di Firenze, è stato premiato, al Maker Faire Rome, con il Maker of Merit per essersi contraddistinto per “l’originalità delle proprie idee, il potenziale dei progetti presentati, la creativ",
+      "publishedAt": "2026-10-29T12:33:10Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Il Cnr nella Top2% scientists 2025",
+      "url": "https://www.cnr.it/it/news/14758/il-cnr-nella-top2-scientists-2025",
+      "excerpt": "29/10/2026 . E' pubblicata sul sito Elsevier la classifica Stanford University-Elsevier - Top2% scientists 2025: https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/8?utm_source=chatgpt.com Tale analisi, basata sul database Elsevier-Scopus, fornisce informazioni standardizzate secondo due classificazioni princi",
+      "publishedAt": "2026-10-29T11:02:54Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "ASV-MADRO,il drone marino di Cnr-Inm che naviga in autonomia",
+      "url": "https://www.cnr.it/it/news/14757/asv-madro-il-drone-marino-di-cnr-inm-che-naviga-in-autonomia",
+      "excerpt": "29/10/2026 . Sviluppato da Cnr-Inm di Roma con Laser Navigation srl, nell’ambito del progetto MADRO, il drone marino autonomo è destinato a missioni di ricerca e monitoraggio in ambienti marini e in acque interne. Sarà presentato alla conferenza Sea Drone Tech Summit di Ostia (Roma), in programma il 5 e il 6 novembre",
+      "publishedAt": "2026-10-29T11:00:23Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Miriam Serena Vitiello eletta Optica Fellow per il 2027",
+      "url": "https://www.cnr.it/it/news/14756/miriam-serena-vitiello-eletta-optica-fellow-per-il-2027",
+      "excerpt": "28/10/2026 . Un nuovo riconoscimento internazionale per la ricercatrice di Cnr Nano eletta Optica Fellow 2027 per i suoi studi pionieristici sulle interazioni tra luce e materia alle frequenze terahertz e per lo sviluppo di dispositivi e sistemi innovativi che contribuiscono al progresso delle tecnologie terahertz",
+      "publishedAt": "2026-10-28T16:17:47Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Algal Sentinel, il sistema di intelligenza artificiale del CNR premiato dal Contest H2O",
+      "url": "https://www.cnr.it/it/news/14751/algal-sentinel-il-sistema-di-intelligenza-artificiale-del-cnr-premiato-dal-contest-h2o",
+      "excerpt": "27/10/2026 . Algal sentinel un applicazione web, sviluppata da Maddalena de Virgilio, che anticipa di 48 ore il rischio legato alle fioriture di microalghe potenzialmente tossiche è stata premiata al Contest H2O presso il Genova blue district",
+      "publishedAt": "2026-10-27T11:31:36Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Nucleare: primo anno del Programma di Ricerca tra nuovi reattori, formazione e applicazioni per la salute",
+      "url": "https://www.cnr.it/it/news/14752/nucleare-primo-anno-del-programma-di-ricerca-tra-nuovi-reattori-formazione-e-applicazioni-per-la-salute",
+      "excerpt": "27/10/2026 . Il CNR ha preso parte, assieme a rappresentanti di altre istituzioni, centri di ricerca e imprese della filiera nazionale, all’incontro organizzato da ENEA per tracciare il bilancio delle quattro linee di attività del Programma di Ricerca Nucleare (PRN)",
+      "publishedAt": "2026-10-27T10:31:35Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "VII Call di Scouting delle tecnologie CNR del Progetto PROMO-TT Instrument",
+      "url": "https://www.cnr.it/it/news/14746/vii-call-di-scouting-delle-tecnologie-cnr-del-progetto-promo-tt-instrument",
+      "excerpt": "27/10/2026 . E' aperta ancora per pochi giorni la VII Call di Scouting delle tecnologie CNR del Progetto PROMO-TT dedicata alla raccolta di nuovi risultati della ricerca. È possibile per il Personale CNR presentare una o più schede di scouting dei propri risultati della ricerca - brevettati, brevettabili e know-how - s",
+      "publishedAt": "2026-10-26T12:38:10Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Quando guardare diventa fare: i neuroni specchio tra apprendimento, riabilitazione e autismo",
+      "url": "https://www.cnr.it/it/news/14748/quando-guardare-diventa-fare-i-neuroni-specchio-tra-apprendimento-riabilitazione-e-autismo",
+      "excerpt": "26/10/2026 . \"Quando guardare diventa fare: i neuroni specchio tra apprendimento, riabilitazione e autismo\" è il titolo della conferenza tenuta da Maddalena Fabbri Destro, ricercatrice dell'Istituto di Neuroscienze del Cnr, all'interno della rassegna \"Neuroscienze in villa\" promossa dalla Matteo Caleo Foundation. L'arg",
+      "publishedAt": "2026-10-26T12:16:39Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Tre ricercatori del CNR inseriti nella classifica 2026 Best Rising Stars of Science stilata da Research.com",
+      "url": "https://www.cnr.it/it/news/14743/tre-ricercatori-del-cnr-inseriti-nella-classifica-2026-best-rising-stars-of-science-stilata-da-research-com",
+      "excerpt": "23/10/2026 . Tre scienziati affiliati al Consiglio Nazionale delle Ricerche (CNR) hanno conquistato un posto nella classifica Best Rising Stars of Science 2026 di Research.com, un riconoscimento che premia i loro contributi alla ricerca nell'osservazione della Terra, nella conservazione della biodiversità e nelle scien",
+      "publishedAt": "2026-10-23T12:59:35Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Three CNR Researchers Listed in Research.com's 2026 Best Rising Stars of Science Ranking",
+      "url": "https://www.cnr.it/it/news/14741/three-cnr-researchers-listed-in-research-com-s-2026-best-rising-stars-of-science-ranking",
+      "excerpt": "23/10/2026 . Three scientists affiliated with the National Research Council of Italy (CNR) have earned places in Research.com's 2026 Best Rising Stars of Science ranking, highlighting research contributions in Earth observation, biodiversity conservation, and plant science. The researchers feature in both the 2026 Best",
+      "publishedAt": "2026-10-23T12:27:15Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "14th International Conference on Structural Health Monitoring of Intelligent Infrastructure SHMII-14: Invito a partecipare",
+      "url": "https://www.cnr.it/it/news/14739/14th-international-conference-on-structural-health-monitoring-of-intelligent-infrastructure-shmii-14-invito-a-partecipare",
+      "excerpt": "26/10/2026 . Fino al 16 novembre è possibile sottoporre un abstract per la 14th International Conference on Structural Health Monitoring of Intelligent Infrastructures SHMII-14, co-organizzata dal Cnr-Itc e in programma a Napoli dal 29 giugno al 2 luglio 2027",
+      "publishedAt": "2026-10-23T10:22:04Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Sette istituti, un'unica comunità scientifica: tutti insieme per \"WeAREa Cosenza. Connessioni in Movimento\"",
+      "url": "https://www.cnr.it/it/news/14736/sette-istituti-un-unica-comunita-scientifica-tutti-insieme-per-wearea-cosenza-connessioni-in-movimento",
+      "excerpt": "22/10/2026 . Circa 170 partecipanti hanno animato la giornata promossa dall’Area Territoriale di Ricerca di Cosenza, tra confronto con la Sede Centrale, presentazione delle attività scientifiche degli Istituti e momenti di incontro dedicati a rafforzare le relazioni all’interno della comunità CNR",
+      "publishedAt": "2026-10-22T17:27:01Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Dall'EPO uno studio sulle sfide del trasferimento tecnologico in Europa: il CNR primo tra gli enti pubblici di ricerca italiani per domande di brevetto europeo",
+      "url": "https://www.cnr.it/it/news/14737/dall-epo-uno-studio-sulle-sfide-del-trasferimento-tecnologico-in-europa-il-cnr-primo-tra-gli-enti-pubblici-di-ricerca-italiani-per-domande-di-brevetto-europeo",
+      "excerpt": "22/10/2026 . Le scoperte scientifiche europee rallentano nel trasferimento tecnologico, mentre gli istituti di ricerca italiani rafforzano la loro presenza in Europa: è quanto emerge dal un nuovo studio dell’Ufficio Europeo dei brevetti (EPO), condotto insieme a ASTP – Associazione europea dei professionisti del trasfe",
+      "publishedAt": "2026-10-22T14:40:48Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Europe's technology transfer landscape Turning research into market success",
+      "url": "https://www.cnr.it/it/news/14738/europe-s-technology-transfer-landscape-turning-research-into-market-success",
+      "excerpt": "22/10/2026 . On 22 October, the European Patent Office (EPO) published a new study, developed in collaboration with ASTP, Europe’s knowledge transfer association, and Fraunhofer ISI, highlighting public research’s strategic importance and Europe’s technology transfer gaps.",
+      "publishedAt": "2026-10-22T14:40:31Z",
+      "dateEvidence": "feed:published"
+    }
+  ],
+  "attempts": [
+    {
+      "url": "https://www.cnr.it/robots.txt",
+      "status": 200
+    },
+    {
+      "url": "https://www.cnr.it/it/news/rss",
+      "status": 200
+    }
+  ],
+  "message": "Feed ufficiale letto; date di pubblicazione verificate.",
+  "durationSeconds": 0.8
+}

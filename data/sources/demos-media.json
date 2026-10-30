@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "demos-media",
+  "originUrl": "https://www.demositalia.it/blog",
+  "configuredFeedUrl": null,
+  "collectedAt": "2026-10-30T13:03:05.024485Z",
+  "status": "ok",
+  "diagnosticCode": null,
+  "method": "trafilatura",
+  "feedUrl": null,
+  "items": [],
+  "attempts": [
+    {
+      "url": "https://www.demositalia.it/robots.txt",
+      "status": 404
+    },
+    {
+      "url": "https://www.demositalia.it/blog",
+      "status": 200
+    },
+    {
+      "url": "https://www.demositalia.it/blog/articolo/sempre-piu-anziana-e-immobile",
+      "status": 200
+    },
+    {
+      "url": "https://www.demositalia.it/blog/articolo/perche-i-giovani-italiani-stanno-lasciando-il-paese",
+      "status": 200
+    },
+    {
+      "url": "https://www.demositalia.it/articoli",
+      "status": 200
+    }
+  ],
+  "message": "0 notizie recenti con data verificata; copertura parziale.",
+  "candidateCount": 3,
+  "datedCount": 1,
+  "listingUrl": "https://www.demositalia.it/blog",
+  "durationSeconds": 1.85
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "fanpage",
+  "originUrl": "https://www.fanpage.it/",
+  "configuredFeedUrl": "https://www.fanpage.it/feed/",
+  "collectedAt": "2026-10-30T13:03:10.605653Z",
+  "status": "blocked",
+  "diagnosticCode": "access_restricted",
+  "method": "html",
+  "feedUrl": null,
+  "items": [],
+  "attempts": [
+    {
+      "url": "https://www.fanpage.it/robots.txt",
+      "status": 403
+    }
+  ],
+  "message": "HTTP 403: accesso limitato dalla fonte",
+  "httpStatus": 403,
+  "failedUrl": "https://www.fanpage.it/robots.txt",
+  "durationSeconds": 0.18
+}

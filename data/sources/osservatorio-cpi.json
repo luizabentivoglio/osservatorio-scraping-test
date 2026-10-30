@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "osservatorio-cpi",
+  "originUrl": "https://osservatoriocpi.unicatt.it/",
+  "configuredFeedUrl": null,
+  "collectedAt": "2026-10-30T13:03:26.504655Z",
+  "status": "no_feed",
+  "diagnosticCode": "parsing_error",
+  "method": "crawl4ai",
+  "feedUrl": null,
+  "items": [],
+  "attempts": [
+    {
+      "url": "https://osservatoriocpi.unicatt.it/robots.txt",
+      "status": 404
+    },
+    {
+      "url": "https://osservatoriocpi.unicatt.it/pubblicazioni.html",
+      "status": 200
+    },
+    {
+      "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/rapporto-pisa-2025-la-scuola-italiana-va-meglio-della-media-ocse-ma-restano-forti-divari-interni.html",
+      "status": 200
+    },
+    {
+      "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/l-evoluzione-dei-disavanzi-sanitari-delle-regioni-a-statuto-ordinario.html",
+      "status": 200
+    },
+    {
+      "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/differenziale-i-g-oggi-soffrono-italia-e-francia-ma-il-quadro-potrebbe-peggiorare.html",
+      "status": 200
+    },
+    {
+      "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/la-crescita-dell-italia-ancora-anemica.html",
+      "status": 200
+    },
+    {
+      "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/pnrr-e-divari-infrastrutturali-dove-vanno-gli-investimenti.html",
+      "status": 200
+    },
+    {
+      "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/meno-alunni-piu-insegnanti-come-cambiera-il-rapporto-studenti-docenti-in-italia.html",
+      "status": 200
+    },
+    {
+      "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/rapporto-pisa-2025-la-scuola-italiana-va-meglio-della-media-ocse-ma-restano-forti-divari-interni.html",
+      "status": 200
+    },
+    {
+      "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/l-evoluzione-dei-disavanzi-sanitari-delle-regioni-a-statuto-ordinario.html",
+      "status": 200
+    },
+    {
+      "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/differenziale-i-g-oggi-soffrono-italia-e-francia-ma-il-quadro-potrebbe-peggiorare.html",
+      "status": 200
+    },
+    {
+      "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/la-crescita-dell-italia-ancora-anemica.html",
+      "status": 200
+    },
+    {
+      "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/pnrr-e-divari-infrastrutturali-dove-vanno-gli-investimenti.html",
+      "status": 200
+    },
+    {
+      "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/meno-alunni-piu-insegnanti-come-cambiera-il-rapporto-studenti-docenti-in-italia.html",
+      "status": 200
+    }
+  ],
+  "message": "Pagina accessibile, ma nessuna notizia con data di pubblicazione verificabile.",
+  "candidateCount": 12,
+  "datedCount": 0,
+  "listingUrl": "https://osservatoriocpi.unicatt.it/pubblicazioni.html",
+  "durationSeconds": 4.54
+}

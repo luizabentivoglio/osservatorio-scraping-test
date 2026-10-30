@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "iai",
+  "originUrl": "https://www.iai.it/it",
+  "configuredFeedUrl": null,
+  "collectedAt": "2026-10-30T13:03:15.349853Z",
+  "status": "ok",
+  "diagnosticCode": null,
+  "method": "trafilatura",
+  "feedUrl": null,
+  "items": [
+    {
+      "title": "Why Economic Security Must Be at the Heart of EU Enlargement",
+      "url": "https://www.iai.it/it/pubblicazioni/c05/why-economic-security-must-be-heart-eu-enlargement",
+      "excerpt": "Economic security raises the stakes of enlargement: deeper market integration must be matched by strategic alignment on the policies needed to protect an increasingly integrated European market.A credible path to full membership provides the leverage for this deeper transformation, while gradual integration should be u",
+      "publishedAt": "2026-10-28T12:00:00Z",
+      "dateEvidence": "html:publication-time"
+    },
+    {
+      "title": "Serbia’s Second Democratic Transition",
+      "url": "https://www.iai.it/it/pubblicazioni/c05/serbias-second-democratic-transition",
+      "excerpt": "A student-led movement born from the Novi Sad tragedy has ended Aleksandar Vučić’s fourteen-year grip on power. The result shows that even seemingly unassailable systems can be defeated.Turning electoral victory into durable democratic institutions will be far harder.",
+      "publishedAt": "2026-10-26T12:00:00Z",
+      "dateEvidence": "html:publication-time"
+    }
+  ],
+  "attempts": [
+    {
+      "url": "https://www.iai.it/robots.txt",
+      "status": 200
+    },
+    {
+      "url": "https://www.iai.it/it/pubblicazioni/lista/iai-commentaries",
+      "status": 200
+    },
+    {
+      "url": "https://www.iai.it/it/pubblicazioni/c05/why-economic-security-must-be-heart-eu-enlargement",
+      "status": 200
+    },
+    {
+      "url": "https://www.iai.it/it/pubblicazioni/c05/serbias-second-democratic-transition",
+      "status": 200
+    },
+    {
+      "url": "https://www.iai.it/it/pubblicazioni/c05/house-giorgia-built-melonis-chameleonic-middle-east-policy",
+      "status": 200
+    },
+    {
+      "url": "https://www.iai.it/it/pubblicazioni/c05/why-europe-may-pay-price-trump-xi-summit",
+      "status": 200
+    },
+    {
+      "url": "https://www.iai.it/it/pubblicazioni/c05/quiet-repatriation-sovereign-gold-us",
+      "status": 200
+    },
+    {
+      "url": "https://www.iai.it/it/pubblicazioni/c05/germanys-leverage-china-responding-beijings-export-dominance",
+      "status": 200
+    }
+  ],
+  "message": "2 notizie recenti con data verificata; copertura parziale.",
+  "candidateCount": 12,
+  "datedCount": 6,
+  "listingUrl": "https://www.iai.it/it/pubblicazioni/lista/iai-commentaries",
+  "durationSeconds": 4.08
+}

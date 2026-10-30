@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "forza-italia",
+  "originUrl": "https://forzaitalia.it/",
+  "configuredFeedUrl": null,
+  "collectedAt": "2026-10-30T13:03:10.784164Z",
+  "status": "ok",
+  "diagnosticCode": null,
+  "method": "trafilatura",
+  "feedUrl": null,
+  "items": [],
+  "attempts": [
+    {
+      "url": "https://forzaitalia.it/robots.txt",
+      "status": 200
+    },
+    {
+      "url": "https://forzaitalia.it/",
+      "status": 200
+    },
+    {
+      "url": "https://forzaitalia.it/il-22-e-23-marzo-votiamo-si-al-referendum-sulla-giustizia-votiamo-si-per-cambiare-litalia/",
+      "status": 200
+    },
+    {
+      "url": "https://forzaitalia.it/dichiarazione-del-vertice-del-ppe/",
+      "status": 200
+    },
+    {
+      "url": "https://forzaitalia.it/io-voto-si/",
+      "status": 200
+    },
+    {
+      "url": "https://forzaitalia.it/eventi/lottimismo-della-volonta/",
+      "status": 200
+    }
+  ],
+  "message": "0 notizie recenti con data verificata; copertura parziale.",
+  "candidateCount": 4,
+  "datedCount": 3,
+  "listingUrl": "https://forzaitalia.it/",
+  "durationSeconds": 2.89
+}

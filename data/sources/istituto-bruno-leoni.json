@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "istituto-bruno-leoni",
+  "originUrl": "https://www.brunoleoni.it/",
+  "configuredFeedUrl": null,
+  "collectedAt": "2026-10-30T13:03:18.970751Z",
+  "status": "ok",
+  "diagnosticCode": null,
+  "method": "trafilatura",
+  "feedUrl": null,
+  "items": [
+    {
+      "title": "L’AI e i rischi di una bolla",
+      "url": "https://www.brunoleoni.it/lai-e-i-rischi-di-una-bolla/",
+      "excerpt": "Non sarebbe la prima volta che un'infrastruttura utile nel lungo periodo provochi un massacro tra gli investitori",
+      "publishedAt": "2026-10-30T11:27:46Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "Un giorno di ordinaria italianità, per capire il populismo di casa nostra",
+      "url": "https://www.brunoleoni.it/un-giorno-di-ordinaria-italianita-per-capire-il-populismo-di-casa-nostra/",
+      "excerpt": "Alle difficoltà che causa il pubblico corrisponde lo spaesamento nel privato",
+      "publishedAt": "2026-10-30T09:33:37Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "Stagnaro promuove Giorgetti",
+      "url": "https://www.brunoleoni.it/stagnaro-promuove-giorgetti/",
+      "excerpt": "Tenere i conti in ordine, soprattutto alla vigilia di un appuntamento elettorale, richiede più coraggio che aprire i cordoni della Borsa",
+      "publishedAt": "2026-10-30T09:33:14Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "Se il governo vuole fare qualcosa di concreto per il caro energia, sblocchi le trivelle",
+      "url": "https://www.brunoleoni.it/se-il-governo-vuole-fare-qualcosa-di-concreto-per-il-caro-energia-sblocchi-le-trivelle/",
+      "excerpt": "E risparmiarci le paternali sugli extraprofitti, le lamentele sul caro energia e la vana promessa di un nuovo futuro energetico",
+      "publishedAt": "2026-10-27T21:00:00Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "Dopo Milano e Torino non serve una stretta penale ma più attenzione",
+      "url": "https://www.brunoleoni.it/dopo-milano-e-torino-non-serve-una-stretta-penale-ma-piu-attenzione/",
+      "excerpt": "Non è aumentando i reati e le pene che si possono scongiurare episodi di violenza e teppismo come quelli appena visti",
+      "publishedAt": "2026-10-20T07:35:59Z",
+      "dateEvidence": "jsonld:datePublished"
+    }
+  ],
+  "attempts": [
+    {
+      "url": "https://www.brunoleoni.it/robots.txt",
+      "status": 200
+    },
+    {
+      "url": "https://www.brunoleoni.it/",
+      "status": 200
+    },
+    {
+      "url": "https://www.brunoleoni.it/articoli/",
+      "status": 200
+    },
+    {
+      "url": "https://www.brunoleoni.it/se-il-governo-vuole-fare-qualcosa-di-concreto-per-il-caro-energia-sblocchi-le-trivelle/",
+      "status": 200
+    },
+    {
+      "url": "https://www.brunoleoni.it/dopo-milano-e-torino-non-serve-una-stretta-penale-ma-piu-attenzione/",
+      "status": 200
+    },
+    {
+      "url": "https://www.brunoleoni.it/lai-e-i-rischi-di-una-bolla/",
+      "status": 200
+    },
+    {
+      "url": "https://www.brunoleoni.it/un-giorno-di-ordinaria-italianita-per-capire-il-populismo-di-casa-nostra/",
+      "status": 200
+    },
+    {
+      "url": "https://www.brunoleoni.it/stagnaro-promuove-giorgetti/",
+      "status": 200
+    }
+  ],
+  "message": "5 notizie recenti con data verificata; copertura parziale.",
+  "candidateCount": 12,
+  "datedCount": 5,
+  "listingUrl": "https://www.brunoleoni.it/",
+  "durationSeconds": 5.41
+}

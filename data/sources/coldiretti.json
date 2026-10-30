@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "coldiretti",
+  "originUrl": "https://www.coldiretti.it/",
+  "configuredFeedUrl": null,
+  "collectedAt": "2026-10-30T13:02:34.526263Z",
+  "status": "no_feed",
+  "diagnosticCode": "parsing_error",
+  "method": "crawl4ai",
+  "feedUrl": null,
+  "items": [],
+  "attempts": [
+    {
+      "url": "https://www.coldiretti.it/robots.txt",
+      "status": 404
+    },
+    {
+      "url": "https://www.coldiretti.it/",
+      "status": 200
+    },
+    {
+      "url": "https://www.coldiretti.it/la-difesa-del-made-in-italy",
+      "status": 200
+    },
+    {
+      "url": "https://www.coldiretti.it/firmato-dagli-agricoltori-italiani",
+      "status": 200
+    },
+    {
+      "url": "https://www.coldiretti.it/servizio/donne-in-agricoltura",
+      "status": 200
+    },
+    {
+      "url": "https://www.coldiretti.it/servizio/federpensionati-coldiretti",
+      "status": 200
+    },
+    {
+      "url": "https://www.coldiretti.it/servizio/caf-coldiretti",
+      "status": 200
+    },
+    {
+      "url": "https://www.coldiretti.it/servizio/la-consulenza-agricola",
+      "status": 200
+    },
+    {
+      "url": "https://www.coldiretti.it/la-difesa-del-made-in-italy",
+      "status": 200
+    },
+    {
+      "url": "https://www.coldiretti.it/firmato-dagli-agricoltori-italiani",
+      "status": 200
+    },
+    {
+      "url": "https://www.coldiretti.it/servizio/donne-in-agricoltura",
+      "status": 200
+    },
+    {
+      "url": "https://www.coldiretti.it/servizio/federpensionati-coldiretti",
+      "status": 200
+    },
+    {
+      "url": "https://www.coldiretti.it/servizio/caf-coldiretti",
+      "status": 200
+    },
+    {
+      "url": "https://www.coldiretti.it/servizio/la-consulenza-agricola",
+      "status": 200
+    }
+  ],
+  "message": "Pagina accessibile, ma nessuna notizia con data di pubblicazione verificabile.",
+  "candidateCount": 12,
+  "datedCount": 0,
+  "listingUrl": "https://www.coldiretti.it/",
+  "durationSeconds": 10.42
+}

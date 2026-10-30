@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "commissione-europea",
+  "originUrl": "https://commission.europa.eu/news-and-media_en",
+  "configuredFeedUrl": null,
+  "collectedAt": "2026-10-30T13:02:36.369944Z",
+  "status": "blocked",
+  "diagnosticCode": "rate_limited",
+  "method": "html",
+  "feedUrl": null,
+  "items": [],
+  "attempts": [
+    {
+      "url": "https://commission.europa.eu/robots.txt",
+      "status": 200
+    },
+    {
+      "url": "https://commission.europa.eu/news-and-media_en",
+      "status": 200
+    },
+    {
+      "url": "https://commission.europa.eu/news-and-media/highlighted-news_en",
+      "status": 200
+    },
+    {
+      "url": "https://commission.europa.eu/news-and-media/news_en",
+      "status": 200
+    },
+    {
+      "url": "https://commission.europa.eu/news-and-media/visual-stories_en",
+      "status": 429
+    }
+  ],
+  "message": "HTTP 429: accesso limitato dalla fonte",
+  "httpStatus": 429,
+  "failedUrl": "https://commission.europa.eu/news-and-media/visual-stories_en",
+  "durationSeconds": 3.31
+}

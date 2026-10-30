@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "demos-partito",
+  "originUrl": "https://www.democraziasolidale.it/",
+  "configuredFeedUrl": null,
+  "collectedAt": "2026-10-30T13:03:06.874493Z",
+  "status": "ok",
+  "diagnosticCode": null,
+  "method": "rss",
+  "feedUrl": "https://www.democraziasolidale.it/feed/",
+  "items": [],
+  "attempts": [
+    {
+      "url": "https://www.democraziasolidale.it/robots.txt",
+      "status": 200
+    },
+    {
+      "url": "https://www.democraziasolidale.it/",
+      "status": 200
+    },
+    {
+      "url": "https://www.democraziasolidale.it/feed/",
+      "status": 200
+    }
+  ],
+  "message": "Feed dichiarato dalla fonte; date di pubblicazione verificate.",
+  "durationSeconds": 3.15
+}

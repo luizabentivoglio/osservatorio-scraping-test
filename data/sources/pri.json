@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "pri",
+  "originUrl": "https://www.prinazionale.it/",
+  "configuredFeedUrl": null,
+  "collectedAt": "2026-10-30T13:03:46.890530Z",
+  "status": "no_feed",
+  "diagnosticCode": "parsing_error",
+  "method": "crawl4ai",
+  "feedUrl": null,
+  "items": [],
+  "attempts": [
+    {
+      "url": "https://www.prinazionale.it/robots.txt",
+      "status": 404
+    },
+    {
+      "url": "https://www.prinazionale.it/",
+      "status": 200
+    },
+    {
+      "url": "https://www.prinazionale.it/new/12 Aprile 2019/ARTICOLO MICHELE SALVATI SUL CORRIERE.htm",
+      "status": 200
+    },
+    {
+      "url": "https://www.prinazionale.it/new/ELEZIONI AMMINISTRATIVE 2024/ELEZIONI TRASPARENTI 2024.HTM",
+      "status": 200
+    },
+    {
+      "url": "https://www.prinazionale.it/new/Elezioni Europee 2019/ELEZIONI EUROPEE 2019.htm",
+      "status": 200
+    },
+    {
+      "url": "https://www.prinazionale.it/new/ElezioniPolitiche2018/ELEZIONIPOLITICHE2018.HTM",
+      "status": 200
+    },
+    {
+      "url": "https://www.prinazionale.it/Congressi Locali/tesseramento.htm",
+      "status": 404
+    },
+    {
+      "url": "https://www.prinazionale.it/Elezioni Moduli/Elezioni.htm",
+      "status": 404
+    }
+  ],
+  "message": "Pagina accessibile, ma nessuna notizia con data di pubblicazione verificabile.",
+  "candidateCount": 12,
+  "datedCount": 0,
+  "listingUrl": "https://www.prinazionale.it/",
+  "durationSeconds": 1.2
+}

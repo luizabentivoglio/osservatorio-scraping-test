@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "comune-bollate",
+  "originUrl": "https://comune.bollate.mi.it/it/news",
+  "configuredFeedUrl": null,
+  "collectedAt": "2026-10-30T13:02:39.681073Z",
+  "status": "no_feed",
+  "diagnosticCode": "parsing_error",
+  "method": "crawl4ai",
+  "feedUrl": null,
+  "items": [],
+  "attempts": [
+    {
+      "url": "https://comune.bollate.mi.it/robots.txt",
+      "status": 200
+    },
+    {
+      "url": "https://comune.bollate.mi.it/it/news",
+      "status": 200
+    },
+    {
+      "url": "https://comune.bollate.mi.it/it/news/carta-dedicata-a-te-2051258",
+      "status": 200
+    },
+    {
+      "url": "https://comune.bollate.mi.it/it/news/iv-novembre-2059690",
+      "status": 200
+    },
+    {
+      "url": "https://comune.bollate.mi.it/it/news/avviso-pubblico-misura-nidi-gratis-plus",
+      "status": 200
+    },
+    {
+      "url": "https://comune.bollate.mi.it/it/news/orari-2059632",
+      "status": 200
+    },
+    {
+      "url": "https://comune.bollate.mi.it/it/news/censimento-2044015-2059439",
+      "status": 200
+    },
+    {
+      "url": "https://comune.bollate.mi.it/it/news/sciopero-2046496-2059402",
+      "status": 200
+    },
+    {
+      "url": "https://comune.bollate.mi.it/it/news/carta-dedicata-a-te-2051258",
+      "status": 200
+    },
+    {
+      "url": "https://comune.bollate.mi.it/it/news/iv-novembre-2059690",
+      "status": 200
+    },
+    {
+      "url": "https://comune.bollate.mi.it/it/news/avviso-pubblico-misura-nidi-gratis-plus",
+      "status": 200
+    },
+    {
+      "url": "https://comune.bollate.mi.it/it/news/orari-2059632",
+      "status": 200
+    },
+    {
+      "url": "https://comune.bollate.mi.it/it/news/censimento-2044015-2059439",
+      "status": 200
+    },
+    {
+      "url": "https://comune.bollate.mi.it/it/news/sciopero-2046496-2059402",
+      "status": 200
+    }
+  ],
+  "message": "Pagina accessibile, ma nessuna notizia con data di pubblicazione verificabile.",
+  "candidateCount": 12,
+  "datedCount": 0,
+  "listingUrl": "https://comune.bollate.mi.it/it/news",
+  "durationSeconds": 6.97
+}

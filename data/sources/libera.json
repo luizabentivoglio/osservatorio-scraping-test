@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "libera",
+  "originUrl": "https://www.libera.it/",
+  "configuredFeedUrl": null,
+  "collectedAt": "2026-10-30T13:03:24.423914Z",
+  "status": "no_feed",
+  "diagnosticCode": "parsing_error",
+  "method": "crawl4ai",
+  "feedUrl": null,
+  "items": [],
+  "attempts": [
+    {
+      "url": "https://www.libera.it/robots.txt",
+      "status": 404
+    },
+    {
+      "url": "https://www.libera.it/",
+      "status": 200
+    },
+    {
+      "url": "https://www.libera.it/it-schede-609-tesseramento",
+      "status": 200
+    },
+    {
+      "url": "https://www.libera.it/it-schede-2831-tracce_libere",
+      "status": 200
+    },
+    {
+      "url": "https://www.libera.it/it-schede-2870-report_foia_libera_trasparenza_milano_marche_campania",
+      "status": 200
+    },
+    {
+      "url": "https://www.libera.it/it-schede-2868-impronte_di_memoria_cammini_di_giustizia",
+      "status": 200
+    },
+    {
+      "url": "https://www.libera.it/it-schede-2866-open_olympics_2026_il_quarto_report_dopo_i_giochi_restano_aperte_le_questioni_su_costi_tempi_e_tr",
+      "status": 200
+    },
+    {
+      "url": "https://www.libera.it/it-schede-1589-primo_centro_di_documentazione_tematico_sui_temi_della_lotta_alle_mafie_e_alla_corruzione",
+      "status": 200
+    },
+    {
+      "url": "https://www.libera.it/it-schede-609-tesseramento",
+      "status": 200
+    },
+    {
+      "url": "https://www.libera.it/it-schede-2870-report_foia_libera_trasparenza_milano_marche_campania",
+      "status": 200
+    },
+    {
+      "url": "https://www.libera.it/it-schede-2868-impronte_di_memoria_cammini_di_giustizia",
+      "status": 200
+    },
+    {
+      "url": "https://www.libera.it/it-schede-2866-open_olympics_2026_il_quarto_report_dopo_i_giochi_restano_aperte_le_questioni_su_costi_tempi_e_tr",
+      "status": 200
+    },
+    {
+      "url": "https://www.libera.it/it-schede-2831-tracce_libere",
+      "status": 200
+    },
+    {
+      "url": "https://www.libera.it/it-schede-1589-primo_centro_di_documentazione_tematico_sui_temi_della_lotta_alle_mafie_e_alla_corruzione",
+      "status": 200
+    }
+  ],
+  "message": "Pagina accessibile, ma nessuna notizia con data di pubblicazione verificabile.",
+  "candidateCount": 12,
+  "datedCount": 0,
+  "listingUrl": "https://www.libera.it/",
+  "durationSeconds": 5.45
+}

@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "copernicus",
+  "originUrl": "https://www.copernicus.eu/en/news",
+  "configuredFeedUrl": null,
+  "collectedAt": "2026-10-30T13:02:52.836734Z",
+  "status": "no_feed",
+  "diagnosticCode": "parsing_error",
+  "method": "crawl4ai",
+  "feedUrl": null,
+  "items": [],
+  "attempts": [
+    {
+      "url": "https://www.copernicus.eu/robots.txt",
+      "status": 200
+    },
+    {
+      "url": "https://www.copernicus.eu/en/news/news",
+      "status": 200
+    },
+    {
+      "url": "https://www.copernicus.eu/en/news/news/observer-2000-images-and-counting-six-years-copernicus-image-day",
+      "status": 308
+    },
+    {
+      "url": "https://www.copernicus.eu/en/news/news/observer-quantum-secure-future-iris2",
+      "status": 308
+    },
+    {
+      "url": "https://www.copernicus.eu/en/news/news/observer-five-copernicus-apps-transforming-climate-and-atmosphere-insights",
+      "status": 308
+    },
+    {
+      "url": "https://www.copernicus.eu/en/news/news/observer-record-breaking-2025-fire-season-eu-insights-copernicus-emergency-management",
+      "status": 308
+    },
+    {
+      "url": "https://www.copernicus.eu/en/news/news/observer-understanding-role-clms-carbon-removal-monitoring",
+      "status": 308
+    },
+    {
+      "url": "https://www.copernicus.eu/en/news/news/observer-understanding-space-weather-events",
+      "status": 308
+    },
+    {
+      "url": "https://www.copernicus.eu/en/news/news/observer-2000-images-and-counting-six-years-copernicus-image-day",
+      "status": 308
+    },
+    {
+      "url": "https://www.copernicus.eu/en/news/news/observer-quantum-secure-future-iris2",
+      "status": 308
+    },
+    {
+      "url": "https://www.copernicus.eu/en/news/news/observer-five-copernicus-apps-transforming-climate-and-atmosphere-insights",
+      "status": 308
+    },
+    {
+      "url": "https://www.copernicus.eu/en/news/news/observer-record-breaking-2025-fire-season-eu-insights-copernicus-emergency-management",
+      "status": 308
+    },
+    {
+      "url": "https://www.copernicus.eu/en/news/news/observer-understanding-role-clms-carbon-removal-monitoring",
+      "status": 308
+    },
+    {
+      "url": "https://www.copernicus.eu/en/news/news/observer-understanding-space-weather-events",
+      "status": 308
+    }
+  ],
+  "message": "Pagina accessibile, ma nessuna notizia con data di pubblicazione verificabile.",
+  "candidateCount": 12,
+  "datedCount": 0,
+  "listingUrl": "https://www.copernicus.eu/en/news/news",
+  "durationSeconds": 1.34,
+  "attemptErrors": [
+    {
+      "url": "https://www.copernicus.eu/en/news/news/observer-2000-images-and-counting-six-years-copernicus-image-day",
+      "code": "invalid_url"
+    },
+    {
+      "url": "https://www.copernicus.eu/en/news/news/observer-quantum-secure-future-iris2",
+      "code": "invalid_url"
+    },
+    {
+      "url": "https://www.copernicus.eu/en/news/news/observer-five-copernicus-apps-transforming-climate-and-atmosphere-insights",
+      "code": "invalid_url"
+    },
+    {
+      "url": "https://www.copernicus.eu/en/news/news/observer-record-breaking-2025-fire-season-eu-insights-copernicus-emergency-management",
+      "code": "invalid_url"
+    },
+    {
+      "url": "https://www.copernicus.eu/en/news/news/observer-understanding-role-clms-carbon-removal-monitoring",
+      "code": "invalid_url"
+    },
+    {
+      "url": "https://www.copernicus.eu/en/news/news/observer-understanding-space-weather-events",
+      "code": "invalid_url"
+    }
+  ]
+}

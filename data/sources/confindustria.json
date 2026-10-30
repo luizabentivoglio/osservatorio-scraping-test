@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "confindustria",
+  "originUrl": "https://www.confindustria.it/",
+  "configuredFeedUrl": null,
+  "collectedAt": "2026-10-30T13:02:40.667430Z",
+  "status": "no_feed",
+  "diagnosticCode": "parsing_error",
+  "method": "crawl4ai",
+  "feedUrl": null,
+  "items": [],
+  "attempts": [
+    {
+      "url": "https://www.confindustria.it/robots.txt",
+      "status": 200
+    },
+    {
+      "url": "https://www.confindustria.it/",
+      "status": 200
+    },
+    {
+      "url": "https://www.confindustria.it/news/artigianato-orsini-stessi-diritti-e-stesse-regole-per-chi-svolge-la-stessa-attivita",
+      "status": 200
+    },
+    {
+      "url": "https://www.confindustria.it/pubblicazioni/italia-il-2026-sorprende-al-rialzo-ma-la-crescita-rallenta-a-fine-anno",
+      "status": 200
+    },
+    {
+      "url": "https://www.confindustria.it/news",
+      "status": 200
+    },
+    {
+      "url": "https://www.confindustria.it/progetti/connext-2-0-filiere/",
+      "status": 308
+    },
+    {
+      "url": "https://www.confindustria.it/progetti/connext-2-0-filiere",
+      "status": 200
+    },
+    {
+      "url": "https://www.confindustria.it/centro-studi/",
+      "status": 308
+    },
+    {
+      "url": "https://www.confindustria.it/centro-studi",
+      "status": 200
+    },
+    {
+      "url": "https://www.confindustria.it/expand",
+      "status": 200
+    },
+    {
+      "url": "https://www.confindustria.it/news/artigianato-orsini-stessi-diritti-e-stesse-regole-per-chi-svolge-la-stessa-attivita",
+      "status": 200
+    },
+    {
+      "url": "https://www.confindustria.it/pubblicazioni/italia-il-2026-sorprende-al-rialzo-ma-la-crescita-rallenta-a-fine-anno",
+      "status": 200
+    },
+    {
+      "url": "https://www.confindustria.it/news",
+      "status": 200
+    },
+    {
+      "url": "https://www.confindustria.it/progetti/connext-2-0-filiere/",
+      "status": 308
+    },
+    {
+      "url": "https://www.confindustria.it/progetti/connext-2-0-filiere",
+      "status": 200
+    },
+    {
+      "url": "https://www.confindustria.it/centro-studi/",
+      "status": 308
+    },
+    {
+      "url": "https://www.confindustria.it/centro-studi",
+      "status": 200
+    },
+    {
+      "url": "https://www.confindustria.it/expand",
+      "status": 200
+    }
+  ],
+  "message": "Pagina accessibile, ma nessuna notizia con data di pubblicazione verificabile.",
+  "candidateCount": 12,
+  "datedCount": 0,
+  "listingUrl": "https://www.confindustria.it/",
+  "durationSeconds": 4.08
+}

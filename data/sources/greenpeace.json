@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "greenpeace",
+  "originUrl": "https://www.greenpeace.org/italy/",
+  "configuredFeedUrl": null,
+  "collectedAt": "2026-10-30T13:03:13.724466Z",
+  "status": "ok",
+  "diagnosticCode": null,
+  "method": "trafilatura",
+  "feedUrl": null,
+  "items": [
+    {
+      "title": "Il DDL Caccia andrà al voto il 27 novembre - Greenpeace Italia",
+      "url": "https://www.greenpeace.org/italy/storia/32098/il-ddl-caccia-andra-al-voto-il-27-novembre-dobbiamo-fermarlo/",
+      "excerpt": "Ancora una volta il Governo sceglie di dedicare tempo e risorse a una legge nata per compiacere le lobby della caccia. Questa riforma sbagliata e pericolosa va fermata!",
+      "publishedAt": "2026-10-29T15:26:21Z",
+      "dateEvidence": "html:publication-time"
+    },
+    {
+      "title": "Ikea si rifornisce da chi distrugge le foreste - Greenpeace Italia",
+      "url": "https://www.greenpeace.org/italy/storia/31989/ikea-si-rifornisce-da-chi-distrugge-le-foreste/",
+      "excerpt": "IIKEA si presenta come un’azienda sostenibile, ma le nostre indagini hanno rilevato che i suoi fornitori ricavano legname da foreste preziose nei Carpazi rumeni.",
+      "publishedAt": "2026-10-26T10:40:12Z",
+      "dateEvidence": "html:publication-time"
+    }
+  ],
+  "attempts": [
+    {
+      "url": "https://www.greenpeace.org/robots.txt",
+      "status": 200
+    },
+    {
+      "url": "https://www.greenpeace.org/italy/",
+      "status": 200
+    },
+    {
+      "url": "https://www.greenpeace.org/italy/storia/32098/il-ddl-caccia-andra-al-voto-il-27-novembre-dobbiamo-fermarlo/",
+      "status": 200
+    },
+    {
+      "url": "https://www.greenpeace.org/italy/storia/32061/gaza-voci-di-resistenza-contro-il-genocidio-l-occupazione-e-la-colonizzazione/",
+      "status": 200
+    },
+    {
+      "url": "https://www.greenpeace.org/italy/storia/31989/ikea-si-rifornisce-da-chi-distrugge-le-foreste/",
+      "status": 200
+    },
+    {
+      "url": "https://www.greenpeace.org/italy/storia/31932/in-azione-in-croazia-per-bloccare-un-allevamento-intensivo-di-polli/",
+      "status": 200
+    },
+    {
+      "url": "https://www.greenpeace.org/italy/cosa-puoi-fare-tu/volontariato-e-attivismo",
+      "status": 301
+    },
+    {
+      "url": "https://www.greenpeace.org/italy/cosa-puoi-fare-tu/volontariato-e-attivismo/",
+      "status": 200
+    },
+    {
+      "url": "https://www.greenpeace.org/italy/cosa-puoi-fare-tu/firma-le-petizioni",
+      "status": 301
+    },
+    {
+      "url": "https://www.greenpeace.org/italy/cosa-puoi-fare-tu/firma-le-petizioni/",
+      "status": 200
+    }
+  ],
+  "message": "2 notizie recenti con data verificata; copertura parziale.",
+  "candidateCount": 12,
+  "datedCount": 5,
+  "listingUrl": "https://www.greenpeace.org/italy/",
+  "durationSeconds": 1.57
+}

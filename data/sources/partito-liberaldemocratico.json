@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "partito-liberaldemocratico",
+  "originUrl": "https://partitoliberaldemocratico.com/",
+  "configuredFeedUrl": null,
+  "collectedAt": "2026-10-30T13:03:44.889394Z",
+  "status": "ok",
+  "diagnosticCode": null,
+  "method": "trafilatura",
+  "feedUrl": null,
+  "items": [
+    {
+      "title": "Prima il deputato Grimaldi dice che i tre ragazzi beccati con le molotov nello z",
+      "url": "https://partitoliberaldemocratico.com/prima-il-deputato-grimaldi-dice-che-i-tre-ragazzi-beccati-con-le-molotov-nello-z/",
+      "excerpt": "Prima il deputato Grimaldi dice che i tre ragazzi beccati con le molotov nello z Partito Liberaldemocratico",
+      "publishedAt": "2026-10-30T09:28:01Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "Il Partito Liberaldemocratico esprime il proprio cordoglio e la propria vicinanz",
+      "url": "https://partitoliberaldemocratico.com/il-partito-liberaldemocratico-esprime-il-proprio-cordoglio-e-la-propria-vicinanz/",
+      "excerpt": "Il Partito Liberaldemocratico esprime il proprio cordoglio e la propria vicinanz Partito Liberaldemocratico",
+      "publishedAt": "2026-10-29T19:28:10Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "Ogni anno la Ragioneria Generale dello Stato pubblica un documento dove c’è scri",
+      "url": "https://partitoliberaldemocratico.com/ogni-anno-la-ragioneria-generale-dello-stato-pubblica-un-documento-dove-ce-scri/",
+      "excerpt": "Ogni anno la Ragioneria Generale dello Stato pubblica un documento dove c’è scri Partito Liberaldemocratico",
+      "publishedAt": "2026-10-28T19:28:24Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "Il ceto medio non può essere sempre quello che paga e mai quello che riceve. Il",
+      "url": "https://partitoliberaldemocratico.com/il-ceto-medio-non-puo-essere-sempre-quello-che-paga-e-mai-quello-che-riceve-il/",
+      "excerpt": "Il ceto medio non può essere sempre quello che paga e mai quello che riceve. Il Partito Liberaldemocratico",
+      "publishedAt": "2026-10-28T07:35:47Z",
+      "dateEvidence": "jsonld:datePublished"
+    }
+  ],
+  "attempts": [
+    {
+      "url": "https://partitoliberaldemocratico.com/robots.txt",
+      "status": 200
+    },
+    {
+      "url": "https://partitoliberaldemocratico.com/",
+      "status": 200
+    },
+    {
+      "url": "https://partitoliberaldemocratico.com/prima-il-deputato-grimaldi-dice-che-i-tre-ragazzi-beccati-con-le-molotov-nello-z/",
+      "status": 200
+    },
+    {
+      "url": "https://partitoliberaldemocratico.com/il-partito-liberaldemocratico-esprime-il-proprio-cordoglio-e-la-propria-vicinanz/",
+      "status": 200
+    },
+    {
+      "url": "https://partitoliberaldemocratico.com/ogni-anno-la-ragioneria-generale-dello-stato-pubblica-un-documento-dove-ce-scri/",
+      "status": 200
+    },
+    {
+      "url": "https://partitoliberaldemocratico.com/il-ceto-medio-non-puo-essere-sempre-quello-che-paga-e-mai-quello-che-riceve-il/",
+      "status": 200
+    },
+    {
+      "url": "https://partitoliberaldemocratico.com/proposte/",
+      "status": 200
+    },
+    {
+      "url": "https://partitoliberaldemocratico.com/tesseramento/",
+      "status": 200
+    }
+  ],
+  "message": "4 notizie recenti con data verificata; copertura parziale.",
+  "candidateCount": 9,
+  "datedCount": 4,
+  "listingUrl": "https://partitoliberaldemocratico.com/",
+  "durationSeconds": 3.26
+}

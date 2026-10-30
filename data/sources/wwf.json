@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "wwf",
+  "originUrl": "https://www.wwf.it/",
+  "configuredFeedUrl": null,
+  "collectedAt": "2026-10-30T13:04:03.860971Z",
+  "status": "ok",
+  "diagnosticCode": null,
+  "method": "trafilatura",
+  "feedUrl": null,
+  "items": [
+    {
+      "title": "Con “I fiori del mulino” oltre 2.000 ettari per gli impollinatori",
+      "url": "https://www.wwf.it/pandanews/societa/con-i-fiori-del-mulino-oltre-2-000-ettari-per-gli-impollinatori/",
+      "excerpt": "Mulino Bianco e WWF Italia celebrano i campi fioriti più belli al MAXXI di Roma nell’ambito dell’incontro dedicato alla Carta del Mulino",
+      "publishedAt": "2026-10-30T10:10:14Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "Non “mostri” ma preziosi alleati per gli ecosistemi",
+      "url": "https://www.wwf.it/pandanews/animali/non-mostri-ma-preziosi-alleati-per-gli-ecosistemi/",
+      "excerpt": "Pipistrelli, falene e ragni sono tra gli animali più associati ad Halloween. Spesso considerati spaventosi, in realtà hanno un ruolo cruciale",
+      "publishedAt": "2026-10-30T07:30:00Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "Caccia, il 27 novembre la Legge Sparatutto arriva in Aula",
+      "url": "https://www.wwf.it/pandanews/ambiente/caccia-27-novembre-legge-sparatutto/",
+      "excerpt": "La maggioranza di governo sceglie di dedicare tempo e risorse parlamentari ad una legge che indebolisce la protezione degli animali selvatici",
+      "publishedAt": "2026-10-29T15:28:33Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "Rapporto Luiss-WWF: lo Stretto di Sicilia al centro del futuro del Mediterraneo",
+      "url": "https://www.wwf.it/pandanews/ambiente/rapporto-luiss-wwf-lo-stretto-di-sicilia-al-centro-del-futuro-del-mediterraneo/",
+      "excerpt": "Ieri a Roma l'evento “Mediterraneo Mare Protetto”, organizzato dal WWF Italia e WWF Mediterraneo nell'ambito di \"Rivoluzione Naturale\"",
+      "publishedAt": "2026-10-29T14:49:47Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "Operazione Cervo Italico, trasferiti 17 esemplari di cervo italico",
+      "url": "https://www.wwf.it/pandanews/animali/operazione-cervo-italico-trasferiti-17-esemplari-cervo-italico/",
+      "excerpt": "Dal 22 al 25 ottobre, 17 individui di cervo italico sono stati trasferiti dall'Emilia-Romagna alla Calabria",
+      "publishedAt": "2026-10-27T11:18:34Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "Le rare immagini del gatto selvatico nell’Oasi di Monte Arcosu",
+      "url": "https://www.wwf.it/pandanews/animali/video-gatto-selvatico-monte-arcosu/",
+      "excerpt": "Un breve video coglie due felini all'interno della Riserva Naturale e Oasi WWF",
+      "publishedAt": "2026-10-26T11:08:48Z",
+      "dateEvidence": "jsonld:datePublished"
+    }
+  ],
+  "attempts": [
+    {
+      "url": "https://www.wwf.it/robots.txt",
+      "status": 200
+    },
+    {
+      "url": "https://www.wwf.it/",
+      "status": 200
+    },
+    {
+      "url": "https://www.wwf.it/pandanews/societa/con-i-fiori-del-mulino-oltre-2-000-ettari-per-gli-impollinatori/",
+      "status": 200
+    },
+    {
+      "url": "https://www.wwf.it/pandanews/animali/non-mostri-ma-preziosi-alleati-per-gli-ecosistemi/",
+      "status": 200
+    },
+    {
+      "url": "https://www.wwf.it/pandanews/ambiente/caccia-27-novembre-legge-sparatutto/",
+      "status": 200
+    },
+    {
+      "url": "https://www.wwf.it/pandanews/ambiente/rapporto-luiss-wwf-lo-stretto-di-sicilia-al-centro-del-futuro-del-mediterraneo/",
+      "status": 200
+    },
+    {
+      "url": "https://www.wwf.it/pandanews/animali/operazione-cervo-italico-trasferiti-17-esemplari-cervo-italico/",
+      "status": 200
+    },
+    {
+      "url": "https://www.wwf.it/pandanews/animali/video-gatto-selvatico-monte-arcosu/",
+      "status": 200
+    }
+  ],
+  "message": "6 notizie recenti con data verificata; copertura parziale.",
+  "candidateCount": 12,
+  "datedCount": 6,
+  "listingUrl": "https://www.wwf.it/",
+  "durationSeconds": 3.09
+}

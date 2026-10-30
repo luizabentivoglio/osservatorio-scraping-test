@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "corte-conti",
+  "originUrl": "https://www.corteconti.it/",
+  "configuredFeedUrl": null,
+  "collectedAt": "2026-10-30T13:03:00.818340Z",
+  "status": "no_feed",
+  "diagnosticCode": "parsing_error",
+  "method": "crawl4ai",
+  "feedUrl": null,
+  "items": [],
+  "attempts": [
+    {
+      "url": "https://www.corteconti.it/robots.txt",
+      "status": 200
+    },
+    {
+      "url": "https://www.corteconti.it/",
+      "status": 200
+    },
+    {
+      "url": "https://www.corteconti.it/HOME/StampaMedia/Notizie/DettaglioNotizia?Id=38ced3e9-9789-4477-ac77-9c16969ca70b",
+      "status": 200
+    },
+    {
+      "url": "https://www.corteconti.it/HOME/StampaMedia/Notizie/DettaglioNotizia?Id=619e65b0-a960-45c0-a2c8-b6efa92c8e99",
+      "status": 200
+    },
+    {
+      "url": "https://www.corteconti.it/HOME/StampaMedia/Notizie/DettaglioNotizia?Id=89692fb9-8dee-4121-b796-288cd3767608",
+      "status": 200
+    },
+    {
+      "url": "https://www.corteconti.it/HOME/StampaMedia/Notizie/DettaglioNotizia?Id=04a4b7cd-d77f-49e7-b9b7-e24fe8edac7f",
+      "status": 200
+    },
+    {
+      "url": "https://www.corteconti.it/HOME/StampaMedia/Notizie/DettaglioNotizia?Id=9ee0167b-16be-4979-9dce-3bdb4a77219d",
+      "status": 200
+    },
+    {
+      "url": "https://www.corteconti.it/HOME/StampaMedia/Notizie/DettaglioNotizia?Id=cc1b9342-d394-4977-b29c-d20db1e07d10",
+      "status": 200
+    },
+    {
+      "url": "https://www.corteconti.it/HOME/StampaMedia/Notizie/DettaglioNotizia?Id=38ced3e9-9789-4477-ac77-9c16969ca70b",
+      "status": 200
+    },
+    {
+      "url": "https://www.corteconti.it/HOME/StampaMedia/Notizie/DettaglioNotizia?Id=619e65b0-a960-45c0-a2c8-b6efa92c8e99",
+      "status": 200
+    },
+    {
+      "url": "https://www.corteconti.it/HOME/StampaMedia/Notizie/DettaglioNotizia?Id=89692fb9-8dee-4121-b796-288cd3767608",
+      "status": 200
+    },
+    {
+      "url": "https://www.corteconti.it/HOME/StampaMedia/Notizie/DettaglioNotizia?Id=04a4b7cd-d77f-49e7-b9b7-e24fe8edac7f",
+      "status": 200
+    },
+    {
+      "url": "https://www.corteconti.it/HOME/StampaMedia/Notizie/DettaglioNotizia?Id=9ee0167b-16be-4979-9dce-3bdb4a77219d",
+      "status": 200
+    },
+    {
+      "url": "https://www.corteconti.it/HOME/StampaMedia/Notizie/DettaglioNotizia?Id=cc1b9342-d394-4977-b29c-d20db1e07d10",
+      "status": 200
+    }
+  ],
+  "message": "Pagina accessibile, ma nessuna notizia con data di pubblicazione verificabile.",
+  "candidateCount": 12,
+  "datedCount": 0,
+  "listingUrl": "https://www.corteconti.it/",
+  "durationSeconds": 3.25
+}

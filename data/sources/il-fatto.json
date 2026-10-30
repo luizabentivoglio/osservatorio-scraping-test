@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "il-fatto",
+  "originUrl": "https://www.ilfattoquotidiano.it/",
+  "configuredFeedUrl": "https://www.ilfattoquotidiano.it/feed/",
+  "collectedAt": "2026-10-30T13:03:17.476079Z",
+  "status": "blocked",
+  "diagnosticCode": "robots_disallowed",
+  "method": "html",
+  "feedUrl": null,
+  "items": [],
+  "attempts": [
+    {
+      "url": "https://www.ilfattoquotidiano.it/robots.txt",
+      "status": 200
+    }
+  ],
+  "message": "Percorso escluso da robots.txt",
+  "httpStatus": null,
+  "failedUrl": "https://www.ilfattoquotidiano.it/feed/",
+  "durationSeconds": 0.28
+}

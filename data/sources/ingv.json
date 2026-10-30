@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "ingv",
+  "originUrl": "https://www.ingv.it/",
+  "configuredFeedUrl": null,
+  "collectedAt": "2026-10-30T13:03:15.508727Z",
+  "status": "ok",
+  "diagnosticCode": null,
+  "method": "rss",
+  "feedUrl": "https://www.ingv.it/stampa-urp/ufficio-stampa/comunicati-stampa?format=feed&type=rss",
+  "items": [
+    {
+      "title": "TERREMOTI | Dieci anni dalla sequenza sismica in Italia centrale: l’INGV racconta il lavoro in emergenza attraverso una serie di Video Podcast",
+      "url": "https://www.ingv.it/stampa-urp/ufficio-stampa/comunicati-stampa/terremoti-dieci-anni-dalla-sequenza-sismica-in-italia-centrale-l-ingv-racconta-il-lavoro-in-emergenza-attraverso-una-serie-di-video-podcast",
+      "excerpt": "",
+      "publishedAt": "2026-10-30T09:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "SPACE WEATHER | L’INGV inaugura la nuova Sala di Monitoraggio a Roma",
+      "url": "https://www.ingv.it/stampa-urp/ufficio-stampa/comunicati-stampa/space-weather-l-ingv-inaugura-la-nuova-sala-di-monitoraggio-a-roma",
+      "excerpt": "",
+      "publishedAt": "2026-10-19T09:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "ANTARTIDE | Dal permafrost emerge carbonio geologico profondo: nella Taylor Valley le emissioni di anidride carbonica sono aumentate di oltre cinque volte",
+      "url": "https://www.ingv.it/stampa-urp/ufficio-stampa/comunicati-stampa/antartide-dal-permafrost-emerge-carbonio-geologico-profondo-nella-taylor-valley-le-emissioni-di-anidride-carbonica-sono-aumentate-di-oltre-cinque-volte",
+      "excerpt": "",
+      "publishedAt": "2026-10-19T07:00:00Z",
+      "dateEvidence": "feed:published"
+    }
+  ],
+  "attempts": [
+    {
+      "url": "https://www.ingv.it/robots.txt",
+      "status": 200
+    },
+    {
+      "url": "https://www.ingv.it/stampa-urp/ufficio-stampa/comunicati-stampa",
+      "status": 200
+    },
+    {
+      "url": "https://www.ingv.it/stampa-urp/ufficio-stampa/comunicati-stampa?format=feed&type=rss",
+      "status": 200
+    }
+  ],
+  "message": "Feed dichiarato dalla fonte; date di pubblicazione verificate.",
+  "durationSeconds": 1.18
+}

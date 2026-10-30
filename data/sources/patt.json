@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "patt",
+  "originUrl": "https://patt.tn.it/",
+  "configuredFeedUrl": null,
+  "collectedAt": "2026-10-30T13:03:37.030806Z",
+  "status": "ok",
+  "diagnosticCode": null,
+  "method": "trafilatura",
+  "feedUrl": null,
+  "items": [],
+  "attempts": [
+    {
+      "url": "https://patt.tn.it/robots.txt",
+      "status": 200
+    },
+    {
+      "url": "https://patt.tn.it/",
+      "status": 200
+    },
+    {
+      "url": "https://patt.tn.it/news/",
+      "status": 200
+    },
+    {
+      "url": "https://patt.tn.it/2025/04/09/manifesto-epp-partito-popolare-europeo-2024/",
+      "status": 200
+    },
+    {
+      "url": "https://patt.tn.it/2024/10/09/scuola-politica-si-puo-fare-si-si-puo-fare/",
+      "status": 200
+    },
+    {
+      "url": "https://patt.tn.it/2023/10/17/patt-svp-ovp-e-csu-uniti-per-cambiare-le-regole-su-lupi-e-orsi-in-europa/",
+      "status": 200
+    },
+    {
+      "url": "https://patt.tn.it/2023/10/12/lunedi-16-ottobre-2023-i-candidati-del-patt-si-presentano-2/",
+      "status": 200
+    },
+    {
+      "url": "https://patt.tn.it/2023/10/12/lunedi-16-ottobre-2023-i-candidati-del-patt-si-presentano/",
+      "status": 200
+    }
+  ],
+  "message": "0 notizie recenti con data verificata; copertura parziale.",
+  "candidateCount": 8,
+  "datedCount": 5,
+  "listingUrl": "https://patt.tn.it/",
+  "durationSeconds": 3.71
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "reuters",
+  "originUrl": "https://www.reuters.com/world/",
+  "configuredFeedUrl": null,
+  "collectedAt": "2026-10-30T13:03:57.399922Z",
+  "status": "blocked",
+  "diagnosticCode": "robots_disallowed",
+  "method": "html",
+  "feedUrl": null,
+  "items": [],
+  "attempts": [
+    {
+      "url": "https://www.reuters.com/robots.txt",
+      "status": 200
+    }
+  ],
+  "message": "Percorso escluso da robots.txt",
+  "httpStatus": null,
+  "failedUrl": "https://www.reuters.com/world/",
+  "durationSeconds": 0.33
+}

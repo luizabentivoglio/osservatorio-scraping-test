@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "emergency",
+  "originUrl": "https://www.emergency.it/",
+  "configuredFeedUrl": null,
+  "collectedAt": "2026-10-30T13:03:08.677345Z",
+  "status": "ok",
+  "diagnosticCode": null,
+  "method": "trafilatura",
+  "feedUrl": null,
+  "items": [],
+  "attempts": [
+    {
+      "url": "https://www.emergency.it/robots.txt",
+      "status": 200
+    },
+    {
+      "url": "https://www.emergency.it/",
+      "status": 200
+    },
+    {
+      "url": "https://www.emergency.it/io-obietto/",
+      "status": 200
+    },
+    {
+      "url": "https://www.emergency.it/tessera/",
+      "status": 200
+    },
+    {
+      "url": "https://www.emergency.it/blog/dai-progetti/ucraina-la-ristrutturazione-della-nostra-clinica-di-husarivka-kharkiv-attraverso-gli-occhi-di-liudmyla-e-dmytro/",
+      "status": 200
+    },
+    {
+      "url": "https://www.emergency.it/blog/dai-progetti/gaza-un-anno-dal-cessate-il-fuoco/",
+      "status": 200
+    },
+    {
+      "url": "https://www.emergency.it/blog/dai-progetti/quando-me-lhanno-detto-non-riuscivo-a-crederci-la-storia-di-tarique/",
+      "status": 200
+    },
+    {
+      "url": "https://www.emergency.it/progetti/gaza-assistenza-sanitaria/",
+      "status": 200
+    }
+  ],
+  "message": "0 notizie recenti con data verificata; copertura parziale.",
+  "candidateCount": 8,
+  "datedCount": 3,
+  "listingUrl": "https://www.emergency.it/",
+  "durationSeconds": 6.67
+}

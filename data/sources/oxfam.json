@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "oxfam",
+  "originUrl": "https://www.oxfamitalia.org/",
+  "configuredFeedUrl": null,
+  "collectedAt": "2026-10-30T13:03:27.918812Z",
+  "status": "no_feed",
+  "diagnosticCode": "parsing_error",
+  "method": "crawl4ai",
+  "feedUrl": null,
+  "items": [],
+  "attempts": [
+    {
+      "url": "https://www.oxfamitalia.org/robots.txt",
+      "status": 200
+    },
+    {
+      "url": "https://www.oxfamitalia.org/",
+      "status": 200
+    },
+    {
+      "url": "https://www.oxfamitalia.org/palestina-tuttiidirittiriservati/",
+      "status": 200
+    },
+    {
+      "url": "https://www.oxfamitalia.org/sostienici/lasciti/",
+      "status": 200
+    },
+    {
+      "url": "https://www.oxfamitalia.org/fondo-emergenze/",
+      "status": 200
+    },
+    {
+      "url": "https://www.oxfamitalia.org/cosa-facciamo/campaigning/",
+      "status": 200
+    },
+    {
+      "url": "https://www.oxfamitalia.org/cosa-facciamo/emergenze/",
+      "status": 200
+    },
+    {
+      "url": "https://www.oxfamitalia.org/cosa-facciamo/sviluppo/",
+      "status": 200
+    },
+    {
+      "url": "https://www.oxfamitalia.org/palestina-tuttiidirittiriservati/",
+      "status": 200
+    },
+    {
+      "url": "https://www.oxfamitalia.org/sostienici/lasciti/",
+      "status": 200
+    },
+    {
+      "url": "https://www.oxfamitalia.org/fondo-emergenze/",
+      "status": 200
+    },
+    {
+      "url": "https://www.oxfamitalia.org/cosa-facciamo/campaigning/",
+      "status": 200
+    },
+    {
+      "url": "https://www.oxfamitalia.org/cosa-facciamo/emergenze/",
+      "status": 200
+    },
+    {
+      "url": "https://www.oxfamitalia.org/cosa-facciamo/sviluppo/",
+      "status": 200
+    }
+  ],
+  "message": "Pagina accessibile, ma nessuna notizia con data di pubblicazione verificabile.",
+  "candidateCount": 12,
+  "datedCount": 0,
+  "listingUrl": "https://www.oxfamitalia.org/",
+  "durationSeconds": 2.34
+}

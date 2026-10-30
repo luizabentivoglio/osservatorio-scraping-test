@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "ispi",
+  "originUrl": "https://www.ispionline.it/it",
+  "configuredFeedUrl": null,
+  "collectedAt": "2026-10-30T13:03:15.722807Z",
+  "status": "blocked",
+  "diagnosticCode": "robots_disallowed",
+  "method": "html",
+  "feedUrl": null,
+  "items": [],
+  "attempts": [
+    {
+      "url": "https://www.ispionline.it/robots.txt",
+      "status": 200
+    }
+  ],
+  "message": "Percorso escluso da robots.txt",
+  "httpStatus": null,
+  "failedUrl": "https://www.ispionline.it/it",
+  "durationSeconds": 0.85
+}

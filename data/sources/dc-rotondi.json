@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "dc-rotondi",
+  "originUrl": "https://dcconrotondi.it/",
+  "configuredFeedUrl": null,
+  "collectedAt": "2026-10-30T13:03:05.878001Z",
+  "status": "ok",
+  "diagnosticCode": null,
+  "method": "rss",
+  "feedUrl": "https://dcconrotondi.it/feed/",
+  "items": [
+    {
+      "title": "Il voto cristiano-liberale esiste, la politica lo riconosca",
+      "url": "https://dcconrotondi.it/3447/news/il-voto-cristiano-liberale-esiste-la-politica-lo-riconosca/",
+      "excerpt": "Dal sito ladiscussione.com – Leggi l’articolo originale di Roberto Salerno Riflessioni su Saint-Vincent 2-4 ottobre 2026 La 2 giorni di Saint-Vincent organizzata dall’On. Gianfranco Rotondi non poteva non destare passione e non indurre tutti i partecipanti ad una doverosa riflessione. Se la Democrazia cristiana oggi è ",
+      "publishedAt": "2026-10-17T14:19:32Z",
+      "dateEvidence": "feed:published"
+    }
+  ],
+  "attempts": [
+    {
+      "url": "https://dcconrotondi.it/robots.txt",
+      "status": 200
+    },
+    {
+      "url": "https://dcconrotondi.it/",
+      "status": 200
+    },
+    {
+      "url": "https://dcconrotondi.it/feed/",
+      "status": 200
+    }
+  ],
+  "message": "Feed dichiarato dalla fonte; date di pubblicazione verificate.",
+  "durationSeconds": 14.43
+}

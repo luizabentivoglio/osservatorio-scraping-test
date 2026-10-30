@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "rassegnally",
+  "originUrl": "https://rassegnally.substack.com/",
+  "configuredFeedUrl": "https://rassegnally.substack.com/feed",
+  "collectedAt": "2026-10-30T13:03:57.125976Z",
+  "status": "blocked",
+  "diagnosticCode": "access_restricted",
+  "method": "html",
+  "feedUrl": null,
+  "items": [],
+  "attempts": [
+    {
+      "url": "https://rassegnally.substack.com/robots.txt",
+      "status": 403
+    }
+  ],
+  "message": "HTTP 403: accesso limitato dalla fonte",
+  "httpStatus": 403,
+  "failedUrl": "https://rassegnally.substack.com/robots.txt",
+  "durationSeconds": 0.05
+}

@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "mef",
+  "originUrl": "https://www.mef.gov.it/",
+  "configuredFeedUrl": null,
+  "collectedAt": "2026-10-30T13:03:25.087684Z",
+  "status": "ok",
+  "diagnosticCode": null,
+  "method": "trafilatura",
+  "feedUrl": null,
+  "items": [
+    {
+      "title": "BTP Valore: oltre 16,5 miliardi raccolti nella prima doppia emissione, tassi cedolari rivisti al rialzo",
+      "url": "https://www.mef.gov.it/inevidenza/BTP-Valore-oltre-165-miliardi-raccolti-nella-prima-doppia-emissione-tassi-cedolari-rivisti-al-rialzo/",
+      "excerpt": "BTP Valore al 3,75% per il 1° e 2° anno, al 4,20% per il 3° e 4° anno e al 4,75% per il 5° anno. BTP Valore Insieme al 22,70% per la cedola unica a scadenza",
+      "publishedAt": "2026-10-23T16:02:00Z",
+      "dateEvidence": "meta:datepublished"
+    },
+    {
+      "title": "2022-2026: quattro anni di governo, le principali misure adottate",
+      "url": "https://www.mef.gov.it/focus/2022-2026-quattro-anni-di-governo-le-principali-misure-adottate/",
+      "excerpt": "Giancarlo Giorgetti, ministro dell’economia e delle finanze, ha attuato in questi 4 anni di governo (22 ottobre 2022 - 22 ottobre 2026) una politica di bilancio volta a consolidare il percorso di risanamento della finanza pubblica",
+      "publishedAt": "2026-10-22T13:29:06Z",
+      "dateEvidence": "meta:datepublished"
+    }
+  ],
+  "attempts": [
+    {
+      "url": "https://www.mef.gov.it/robots.txt",
+      "status": 302
+    },
+    {
+      "url": "https://www.mef.gov.it/export/sites/MEF/robots.txt",
+      "status": 200
+    },
+    {
+      "url": "https://www.mef.gov.it/",
+      "status": 200
+    },
+    {
+      "url": "https://www.mef.gov.it/inevidenza/BTP-Valore-oltre-165-miliardi-raccolti-nella-prima-doppia-emissione-tassi-cedolari-rivisti-al-rialzo/",
+      "status": 200
+    },
+    {
+      "url": "https://www.mef.gov.it/inevidenza/Dpb-inviato-a-Commissione-e-Parlamento/",
+      "status": 200
+    },
+    {
+      "url": "https://www.mef.gov.it/inevidenza/Giorgetti-nuvoloni-allorizzonte-ma-Italia-mantiene-la-rotta/",
+      "status": 200
+    },
+    {
+      "url": "https://www.mef.gov.it/focus/BTP-Valore-doppio-dal-19-al-23-ottobre/",
+      "status": 200
+    },
+    {
+      "url": "https://www.mef.gov.it/focus/2022-2026-quattro-anni-di-governo-le-principali-misure-adottate/",
+      "status": 200
+    },
+    {
+      "url": "https://www.mef.gov.it/focus/Concordato-preventivo-biennale-2026-2027-come-aderire-entro-il-2-novembre-2026/",
+      "status": 200
+    }
+  ],
+  "message": "2 notizie recenti con data verificata; copertura parziale.",
+  "candidateCount": 11,
+  "datedCount": 6,
+  "listingUrl": "https://www.mef.gov.it/",
+  "durationSeconds": 2.8
+}

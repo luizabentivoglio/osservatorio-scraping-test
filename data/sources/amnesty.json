@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "amnesty",
+  "originUrl": "https://www.amnesty.it/",
+  "configuredFeedUrl": null,
+  "collectedAt": "2026-10-30T13:02:30.197200Z",
+  "status": "ok",
+  "diagnosticCode": null,
+  "method": "trafilatura",
+  "feedUrl": null,
+  "items": [
+    {
+      "title": "Italia: preoccupazioni sulla gestione delle manifestazioni",
+      "url": "https://www.amnesty.it/italia-gestione-ordine-pubblico-manifestazioni/",
+      "excerpt": "La gestione delle manifestazioni del 24 ottobre in Italia ha generato preoccupazioni. L'analisi riporta le raccomandazioni per le prossime.",
+      "publishedAt": "2026-10-28T17:07:54Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "29 ottobre, Roma: Conferenza pubblica “Chi protegge chi difende i diritti?”",
+      "url": "https://www.amnesty.it/conferenza-pubblica-forum-europeo-tutela-spazio-civico/",
+      "excerpt": "Conferenza \"Chi protegge chi difende i diritti?\" sulla tutela dello spazio civico, con organizzazioni della società civile.",
+      "publishedAt": "2026-10-27T14:32:32Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "La storia di Enrico Lombardo",
+      "url": "https://www.amnesty.it/la-storia-di-enrico-lombardo/",
+      "excerpt": "Enrico Lombardo è morto durante un fermo di polizia la notte tra il 26 e 27 ottobre 2019. Raccontiamo la sua storia, ancora senza giustizia.",
+      "publishedAt": "2026-10-27T07:00:10Z",
+      "dateEvidence": "jsonld:datePublished"
+    }
+  ],
+  "attempts": [
+    {
+      "url": "https://www.amnesty.it/robots.txt",
+      "status": 200
+    },
+    {
+      "url": "https://www.amnesty.it/",
+      "status": 200
+    },
+    {
+      "url": "https://www.amnesty.it/appelli/gaza-liberta-per-il-dottor-hussam-abu-safiya/",
+      "status": 200
+    },
+    {
+      "url": "https://www.amnesty.it/appelli/iran-28-persone-rischiano-lesecuzione-in-relazione-alle-proteste/",
+      "status": 200
+    },
+    {
+      "url": "https://www.amnesty.it/appelli/il-sesso-senza-consenso-e-stupro/",
+      "status": 200
+    },
+    {
+      "url": "https://www.amnesty.it/italia-gestione-ordine-pubblico-manifestazioni/",
+      "status": 200
+    },
+    {
+      "url": "https://www.amnesty.it/conferenza-pubblica-forum-europeo-tutela-spazio-civico/",
+      "status": 200
+    },
+    {
+      "url": "https://www.amnesty.it/la-storia-di-enrico-lombardo/",
+      "status": 200
+    }
+  ],
+  "message": "3 notizie recenti con data verificata; copertura parziale.",
+  "candidateCount": 12,
+  "datedCount": 3,
+  "listingUrl": "https://www.amnesty.it/",
+  "durationSeconds": 6.17
+}

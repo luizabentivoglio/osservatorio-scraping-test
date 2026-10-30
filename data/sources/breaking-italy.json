@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "breaking-italy",
+  "originUrl": "https://breakingitaly.it/",
+  "configuredFeedUrl": null,
+  "collectedAt": "2026-10-30T13:02:30.415691Z",
+  "status": "no_feed",
+  "diagnosticCode": "parsing_error",
+  "method": "crawl4ai",
+  "feedUrl": null,
+  "items": [],
+  "attempts": [
+    {
+      "url": "https://breakingitaly.it/robots.txt",
+      "status": 404
+    },
+    {
+      "url": "https://breakingitaly.it/",
+      "status": 200
+    },
+    {
+      "url": "https://breakingitaly.it/feed",
+      "status": 200
+    },
+    {
+      "url": "https://breakingitaly.it/newsletter/lo-sciopero-generale-e-le-nuove-manifestazioni-in-italia",
+      "status": 200
+    },
+    {
+      "url": "https://breakingitaly.it/ventiquaranta-stati-uniti",
+      "status": 200
+    },
+    {
+      "url": "https://breakingitaly.it/lavora-con-noi",
+      "status": 200
+    },
+    {
+      "url": "https://breakingitaly.it/diventa-partner",
+      "status": 200
+    },
+    {
+      "url": "https://breakingitaly.it/privacy-policy",
+      "status": 200
+    },
+    {
+      "url": "https://breakingitaly.it/condizioni",
+      "status": 307
+    },
+    {
+      "url": "https://breakingitaly.it/condizioni-new",
+      "status": 200
+    },
+    {
+      "url": "https://breakingitaly.it/newsletter/lo-sciopero-generale-e-le-nuove-manifestazioni-in-italia",
+      "status": 200
+    },
+    {
+      "url": "https://breakingitaly.it/ventiquaranta-stati-uniti",
+      "status": 200
+    },
+    {
+      "url": "https://breakingitaly.it/lavora-con-noi",
+      "status": 200
+    },
+    {
+      "url": "https://breakingitaly.it/diventa-partner",
+      "status": 200
+    },
+    {
+      "url": "https://breakingitaly.it/privacy-policy",
+      "status": 200
+    },
+    {
+      "url": "https://breakingitaly.it/condizioni",
+      "status": 307
+    },
+    {
+      "url": "https://breakingitaly.it/condizioni-new",
+      "status": 200
+    }
+  ],
+  "message": "Pagina accessibile, ma nessuna notizia con data di pubblicazione verificabile.",
+  "candidateCount": 12,
+  "datedCount": 0,
+  "listingUrl": "https://breakingitaly.it/",
+  "durationSeconds": 3.13
+}

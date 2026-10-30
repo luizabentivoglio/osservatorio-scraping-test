@@ -1,0 +1,679 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-30T13:04:09.548190+00:00",
+  "sourceCount": 67,
+  "ok": 28,
+  "items": 174,
+  "results": [
+    {
+      "sourceId": "amnesty",
+      "status": "ok",
+      "method": "trafilatura",
+      "diagnosticCode": null,
+      "message": "3 notizie recenti con data verificata; copertura parziale.",
+      "candidateCount": 12,
+      "datedCount": 3,
+      "itemCount": 3
+    },
+    {
+      "sourceId": "ap-news",
+      "status": "blocked",
+      "method": "html",
+      "diagnosticCode": "access_restricted",
+      "message": "HTTP 403: accesso limitato dalla fonte",
+      "candidateCount": null,
+      "datedCount": null,
+      "itemCount": 0
+    },
+    {
+      "sourceId": "azione",
+      "status": "blocked",
+      "method": "html",
+      "diagnosticCode": "access_restricted",
+      "message": "HTTP 403: accesso limitato dalla fonte",
+      "candidateCount": null,
+      "datedCount": null,
+      "itemCount": 0
+    },
+    {
+      "sourceId": "banca-italia",
+      "status": "blocked",
+      "method": "html",
+      "diagnosticCode": "robots_disallowed",
+      "message": "Percorso escluso da robots.txt",
+      "candidateCount": null,
+      "datedCount": null,
+      "itemCount": 0
+    },
+    {
+      "sourceId": "breaking-italy",
+      "status": "no_feed",
+      "method": "crawl4ai",
+      "diagnosticCode": "parsing_error",
+      "message": "Pagina accessibile, ma nessuna notizia con data di pubblicazione verificabile.",
+      "candidateCount": 12,
+      "datedCount": 0,
+      "itemCount": 0
+    },
+    {
+      "sourceId": "camera",
+      "status": "no_feed",
+      "method": "crawl4ai",
+      "diagnosticCode": "parsing_error",
+      "message": "Pagina accessibile, ma nessuna notizia con data di pubblicazione verificabile.",
+      "candidateCount": 12,
+      "datedCount": 0,
+      "itemCount": 0
+    },
+    {
+      "sourceId": "cisl",
+      "status": "ok",
+      "method": "rss",
+      "diagnosticCode": null,
+      "message": "Feed dichiarato dalla fonte; date di pubblicazione verificate.",
+      "candidateCount": null,
+      "datedCount": null,
+      "itemCount": 40
+    },
+    {
+      "sourceId": "cnr",
+      "status": "ok",
+      "method": "rss",
+      "diagnosticCode": null,
+      "message": "Feed ufficiale letto; date di pubblicazione verificate.",
+      "candidateCount": null,
+      "datedCount": null,
+      "itemCount": 18
+    },
+    {
+      "sourceId": "coldiretti",
+      "status": "no_feed",
+      "method": "crawl4ai",
+      "diagnosticCode": "parsing_error",
+      "message": "Pagina accessibile, ma nessuna notizia con data di pubblicazione verificabile.",
+      "candidateCount": 12,
+      "datedCount": 0,
+      "itemCount": 0
+    },
+    {
+      "sourceId": "commissione-europea",
+      "status": "blocked",
+      "method": "html",
+      "diagnosticCode": "rate_limited",
+      "message": "HTTP 429: accesso limitato dalla fonte",
+      "candidateCount": null,
+      "datedCount": null,
+      "itemCount": 0
+    },
+    {
+      "sourceId": "comune-bollate",
+      "status": "no_feed",
+      "method": "crawl4ai",
+      "diagnosticCode": "parsing_error",
+      "message": "Pagina accessibile, ma nessuna notizia con data di pubblicazione verificabile.",
+      "candidateCount": 12,
+      "datedCount": 0,
+      "itemCount": 0
+    },
+    {
+      "sourceId": "confcommercio",
+      "status": "blocked",
+      "method": "html",
+      "diagnosticCode": "access_restricted",
+      "message": "HTTP 403: accesso limitato dalla fonte",
+      "candidateCount": null,
+      "datedCount": null,
+      "itemCount": 0
+    },
+    {
+      "sourceId": "confindustria",
+      "status": "no_feed",
+      "method": "crawl4ai",
+      "diagnosticCode": "parsing_error",
+      "message": "Pagina accessibile, ma nessuna notizia con data di pubblicazione verificabile.",
+      "candidateCount": 12,
+      "datedCount": 0,
+      "itemCount": 0
+    },
+    {
+      "sourceId": "consiglio-ue",
+      "status": "blocked",
+      "method": "html",
+      "diagnosticCode": "access_restricted",
+      "message": "HTTP 403: accesso limitato dalla fonte",
+      "candidateCount": null,
+      "datedCount": null,
+      "itemCount": 0
+    },
+    {
+      "sourceId": "copernicus",
+      "status": "no_feed",
+      "method": "crawl4ai",
+      "diagnosticCode": "parsing_error",
+      "message": "Pagina accessibile, ma nessuna notizia con data di pubblicazione verificabile.",
+      "candidateCount": 12,
+      "datedCount": 0,
+      "itemCount": 0
+    },
+    {
+      "sourceId": "coraggio-italia",
+      "status": "no_feed",
+      "method": "crawl4ai",
+      "diagnosticCode": "parsing_error",
+      "message": "Pagina accessibile, ma nessuna notizia con data di pubblicazione verificabile.",
+      "candidateCount": 2,
+      "datedCount": 0,
+      "itemCount": 0
+    },
+    {
+      "sourceId": "corte-conti",
+      "status": "no_feed",
+      "method": "crawl4ai",
+      "diagnosticCode": "parsing_error",
+      "message": "Pagina accessibile, ma nessuna notizia con data di pubblicazione verificabile.",
+      "candidateCount": 12,
+      "datedCount": 0,
+      "itemCount": 0
+    },
+    {
+      "sourceId": "dc-rotondi",
+      "status": "ok",
+      "method": "rss",
+      "diagnosticCode": null,
+      "message": "Feed dichiarato dalla fonte; date di pubblicazione verificate.",
+      "candidateCount": null,
+      "datedCount": null,
+      "itemCount": 1
+    },
+    {
+      "sourceId": "demos-media",
+      "status": "ok",
+      "method": "trafilatura",
+      "diagnosticCode": null,
+      "message": "0 notizie recenti con data verificata; copertura parziale.",
+      "candidateCount": 3,
+      "datedCount": 1,
+      "itemCount": 0
+    },
+    {
+      "sourceId": "demos-partito",
+      "status": "ok",
+      "method": "rss",
+      "diagnosticCode": null,
+      "message": "Feed dichiarato dalla fonte; date di pubblicazione verificate.",
+      "candidateCount": null,
+      "datedCount": null,
+      "itemCount": 0
+    },
+    {
+      "sourceId": "emergency",
+      "status": "ok",
+      "method": "trafilatura",
+      "diagnosticCode": null,
+      "message": "0 notizie recenti con data verificata; copertura parziale.",
+      "candidateCount": 8,
+      "datedCount": 3,
+      "itemCount": 0
+    },
+    {
+      "sourceId": "eurostat",
+      "status": "ok",
+      "method": "rss",
+      "diagnosticCode": null,
+      "message": "Feed ufficiale letto; date di pubblicazione verificate.",
+      "candidateCount": null,
+      "datedCount": null,
+      "itemCount": 11
+    },
+    {
+      "sourceId": "factanza",
+      "status": "blocked",
+      "method": "html",
+      "diagnosticCode": "access_restricted",
+      "message": "HTTP 403: accesso limitato dalla fonte",
+      "candidateCount": null,
+      "datedCount": null,
+      "itemCount": 0
+    },
+    {
+      "sourceId": "fanpage",
+      "status": "blocked",
+      "method": "html",
+      "diagnosticCode": "access_restricted",
+      "message": "HTTP 403: accesso limitato dalla fonte",
+      "candidateCount": null,
+      "datedCount": null,
+      "itemCount": 0
+    },
+    {
+      "sourceId": "forza-italia",
+      "status": "ok",
+      "method": "trafilatura",
+      "diagnosticCode": null,
+      "message": "0 notizie recenti con data verificata; copertura parziale.",
+      "candidateCount": 4,
+      "datedCount": 3,
+      "itemCount": 0
+    },
+    {
+      "sourceId": "futuro-nazionale",
+      "status": "blocked",
+      "method": "html",
+      "diagnosticCode": "access_restricted",
+      "message": "Verifica interattiva richiesta",
+      "candidateCount": 0,
+      "datedCount": 0,
+      "itemCount": 0
+    },
+    {
+      "sourceId": "good-morning-italia",
+      "status": "blocked",
+      "method": "html",
+      "diagnosticCode": "access_restricted",
+      "message": "HTTP 403: accesso limitato dalla fonte",
+      "candidateCount": null,
+      "datedCount": null,
+      "itemCount": 0
+    },
+    {
+      "sourceId": "greenpeace",
+      "status": "ok",
+      "method": "trafilatura",
+      "diagnosticCode": null,
+      "message": "2 notizie recenti con data verificata; copertura parziale.",
+      "candidateCount": 12,
+      "datedCount": 5,
+      "itemCount": 2
+    },
+    {
+      "sourceId": "hrw",
+      "status": "blocked",
+      "method": "html",
+      "diagnosticCode": "access_restricted",
+      "message": "HTTP 403: accesso limitato dalla fonte",
+      "candidateCount": null,
+      "datedCount": null,
+      "itemCount": 0
+    },
+    {
+      "sourceId": "iai",
+      "status": "ok",
+      "method": "trafilatura",
+      "diagnosticCode": null,
+      "message": "2 notizie recenti con data verificata; copertura parziale.",
+      "candidateCount": 12,
+      "datedCount": 6,
+      "itemCount": 2
+    },
+    {
+      "sourceId": "il-fatto",
+      "status": "blocked",
+      "method": "html",
+      "diagnosticCode": "robots_disallowed",
+      "message": "Percorso escluso da robots.txt",
+      "candidateCount": null,
+      "datedCount": null,
+      "itemCount": 0
+    },
+    {
+      "sourceId": "il-notiziario",
+      "status": "blocked",
+      "method": "html",
+      "diagnosticCode": "access_restricted",
+      "message": "HTTP 403: accesso limitato dalla fonte",
+      "candidateCount": null,
+      "datedCount": null,
+      "itemCount": 0
+    },
+    {
+      "sourceId": "il-post",
+      "status": "ok",
+      "method": "trafilatura",
+      "diagnosticCode": null,
+      "message": "6 notizie recenti con data verificata; copertura parziale.",
+      "candidateCount": 12,
+      "datedCount": 6,
+      "itemCount": 6
+    },
+    {
+      "sourceId": "ingv",
+      "status": "ok",
+      "method": "rss",
+      "diagnosticCode": null,
+      "message": "Feed dichiarato dalla fonte; date di pubblicazione verificate.",
+      "candidateCount": null,
+      "datedCount": null,
+      "itemCount": 3
+    },
+    {
+      "sourceId": "ispi",
+      "status": "blocked",
+      "method": "html",
+      "diagnosticCode": "robots_disallowed",
+      "message": "Percorso escluso da robots.txt",
+      "candidateCount": null,
+      "datedCount": null,
+      "itemCount": 0
+    },
+    {
+      "sourceId": "ispra",
+      "status": "ok",
+      "method": "rss",
+      "diagnosticCode": null,
+      "message": "Feed ufficiale letto; date di pubblicazione verificate.",
+      "candidateCount": null,
+      "datedCount": null,
+      "itemCount": 0
+    },
+    {
+      "sourceId": "iss",
+      "status": "no_feed",
+      "method": "crawl4ai",
+      "diagnosticCode": "parsing_error",
+      "message": "Pagina accessibile, ma nessuna notizia con data di pubblicazione verificabile.",
+      "candidateCount": 12,
+      "datedCount": 0,
+      "itemCount": 0
+    },
+    {
+      "sourceId": "istat",
+      "status": "ok",
+      "method": "rss",
+      "diagnosticCode": null,
+      "message": "Feed ufficiale letto; date di pubblicazione verificate.",
+      "candidateCount": null,
+      "datedCount": null,
+      "itemCount": 10
+    },
+    {
+      "sourceId": "istituto-bruno-leoni",
+      "status": "ok",
+      "method": "trafilatura",
+      "diagnosticCode": null,
+      "message": "5 notizie recenti con data verificata; copertura parziale.",
+      "candidateCount": 12,
+      "datedCount": 5,
+      "itemCount": 5
+    },
+    {
+      "sourceId": "italia-domani-rizzo",
+      "status": "ok",
+      "method": "trafilatura",
+      "diagnosticCode": null,
+      "message": "3 notizie recenti con data verificata; copertura parziale.",
+      "candidateCount": 8,
+      "datedCount": 3,
+      "itemCount": 3
+    },
+    {
+      "sourceId": "italia-viva",
+      "status": "blocked",
+      "method": "html",
+      "diagnosticCode": "access_restricted",
+      "message": "HTTP 403: accesso limitato dalla fonte",
+      "candidateCount": null,
+      "datedCount": null,
+      "itemCount": 0
+    },
+    {
+      "sourceId": "la-stampa",
+      "status": "ok",
+      "method": "rss",
+      "diagnosticCode": null,
+      "message": "Feed ufficiale letto; date di pubblicazione verificate.",
+      "candidateCount": null,
+      "datedCount": null,
+      "itemCount": 40
+    },
+    {
+      "sourceId": "legambiente",
+      "status": "ok",
+      "method": "trafilatura",
+      "diagnosticCode": null,
+      "message": "0 notizie recenti con data verificata; copertura parziale.",
+      "candidateCount": 12,
+      "datedCount": 3,
+      "itemCount": 0
+    },
+    {
+      "sourceId": "libera",
+      "status": "no_feed",
+      "method": "crawl4ai",
+      "diagnosticCode": "parsing_error",
+      "message": "Pagina accessibile, ma nessuna notizia con data di pubblicazione verificabile.",
+      "candidateCount": 12,
+      "datedCount": 0,
+      "itemCount": 0
+    },
+    {
+      "sourceId": "mef",
+      "status": "ok",
+      "method": "trafilatura",
+      "diagnosticCode": null,
+      "message": "2 notizie recenti con data verificata; copertura parziale.",
+      "candidateCount": 11,
+      "datedCount": 6,
+      "itemCount": 2
+    },
+    {
+      "sourceId": "msf",
+      "status": "ok",
+      "method": "trafilatura",
+      "diagnosticCode": null,
+      "message": "6 notizie recenti con data verificata; copertura parziale.",
+      "candidateCount": 12,
+      "datedCount": 6,
+      "itemCount": 6
+    },
+    {
+      "sourceId": "osservatorio-cpi",
+      "status": "no_feed",
+      "method": "crawl4ai",
+      "diagnosticCode": "parsing_error",
+      "message": "Pagina accessibile, ma nessuna notizia con data di pubblicazione verificabile.",
+      "candidateCount": 12,
+      "datedCount": 0,
+      "itemCount": 0
+    },
+    {
+      "sourceId": "oxfam",
+      "status": "no_feed",
+      "method": "crawl4ai",
+      "diagnosticCode": "parsing_error",
+      "message": "Pagina accessibile, ma nessuna notizia con data di pubblicazione verificabile.",
+      "candidateCount": 12,
+      "datedCount": 0,
+      "itemCount": 0
+    },
+    {
+      "sourceId": "pagella-politica",
+      "status": "no_feed",
+      "method": "crawl4ai",
+      "diagnosticCode": "parsing_error",
+      "message": "Pagina accessibile, ma nessuna notizia con data di pubblicazione verificabile.",
+      "candidateCount": 12,
+      "datedCount": 0,
+      "itemCount": 0
+    },
+    {
+      "sourceId": "palazzo-chigi",
+      "status": "ok",
+      "method": "rss",
+      "diagnosticCode": null,
+      "message": "Feed dichiarato dalla fonte; date di pubblicazione verificate.",
+      "candidateCount": null,
+      "datedCount": null,
+      "itemCount": 10
+    },
+    {
+      "sourceId": "parlamento-europeo",
+      "status": "no_feed",
+      "method": "crawl4ai",
+      "diagnosticCode": "parsing_error",
+      "message": "Pagina accessibile, ma nessuna notizia con data di pubblicazione verificabile.",
+      "candidateCount": 0,
+      "datedCount": 0,
+      "itemCount": 0
+    },
+    {
+      "sourceId": "partito-liberaldemocratico",
+      "status": "ok",
+      "method": "trafilatura",
+      "diagnosticCode": null,
+      "message": "4 notizie recenti con data verificata; copertura parziale.",
+      "candidateCount": 9,
+      "datedCount": 4,
+      "itemCount": 4
+    },
+    {
+      "sourceId": "patt",
+      "status": "ok",
+      "method": "trafilatura",
+      "diagnosticCode": null,
+      "message": "0 notizie recenti con data verificata; copertura parziale.",
+      "candidateCount": 8,
+      "datedCount": 5,
+      "itemCount": 0
+    },
+    {
+      "sourceId": "patto-nord",
+      "status": "no_feed",
+      "method": "crawl4ai",
+      "diagnosticCode": "parsing_error",
+      "message": "Pagina accessibile, ma nessuna notizia con data di pubblicazione verificabile.",
+      "candidateCount": 3,
+      "datedCount": 0,
+      "itemCount": 0
+    },
+    {
+      "sourceId": "pillole-economia",
+      "status": "blocked",
+      "method": "html",
+      "diagnosticCode": "access_restricted",
+      "message": "HTTP 403: accesso limitato dalla fonte",
+      "candidateCount": null,
+      "datedCount": null,
+      "itemCount": 0
+    },
+    {
+      "sourceId": "piu-europa",
+      "status": "blocked",
+      "method": "html",
+      "diagnosticCode": "access_restricted",
+      "message": "HTTP 403: accesso limitato dalla fonte",
+      "candidateCount": null,
+      "datedCount": null,
+      "itemCount": 0
+    },
+    {
+      "sourceId": "piu-uno",
+      "status": "ok",
+      "method": "trafilatura",
+      "diagnosticCode": null,
+      "message": "1 notizie recenti con data verificata; copertura parziale.",
+      "candidateCount": 12,
+      "datedCount": 1,
+      "itemCount": 1
+    },
+    {
+      "sourceId": "pri",
+      "status": "no_feed",
+      "method": "crawl4ai",
+      "diagnosticCode": "parsing_error",
+      "message": "Pagina accessibile, ma nessuna notizia con data di pubblicazione verificabile.",
+      "candidateCount": 12,
+      "datedCount": 0,
+      "itemCount": 0
+    },
+    {
+      "sourceId": "quirinale",
+      "status": "blocked",
+      "method": "html",
+      "diagnosticCode": "access_restricted",
+      "message": "Verifica interattiva richiesta",
+      "candidateCount": 12,
+      "datedCount": 0,
+      "itemCount": 0
+    },
+    {
+      "sourceId": "rassegnally",
+      "status": "blocked",
+      "method": "html",
+      "diagnosticCode": "access_restricted",
+      "message": "HTTP 403: accesso limitato dalla fonte",
+      "candidateCount": null,
+      "datedCount": null,
+      "itemCount": 0
+    },
+    {
+      "sourceId": "regione-lombardia",
+      "status": "blocked",
+      "method": "html",
+      "diagnosticCode": "access_restricted",
+      "message": "HTTP 403: accesso limitato dalla fonte",
+      "candidateCount": null,
+      "datedCount": null,
+      "itemCount": 0
+    },
+    {
+      "sourceId": "reuters",
+      "status": "blocked",
+      "method": "html",
+      "diagnosticCode": "robots_disallowed",
+      "message": "Percorso escluso da robots.txt",
+      "candidateCount": null,
+      "datedCount": null,
+      "itemCount": 0
+    },
+    {
+      "sourceId": "senato",
+      "status": "no_feed",
+      "method": "crawl4ai",
+      "diagnosticCode": "parsing_error",
+      "message": "Pagina accessibile, ma nessuna notizia con data di pubblicazione verificabile.",
+      "candidateCount": 2,
+      "datedCount": 0,
+      "itemCount": 0
+    },
+    {
+      "sourceId": "sud-chiama-nord",
+      "status": "no_feed",
+      "method": "crawl4ai",
+      "diagnosticCode": "parsing_error",
+      "message": "Pagina accessibile, ma nessuna notizia con data di pubblicazione verificabile.",
+      "candidateCount": 12,
+      "datedCount": 0,
+      "itemCount": 0
+    },
+    {
+      "sourceId": "svp",
+      "status": "ok",
+      "method": "trafilatura",
+      "diagnosticCode": null,
+      "message": "1 notizie recenti con data verificata; copertura parziale.",
+      "candidateCount": 12,
+      "datedCount": 1,
+      "itemCount": 1
+    },
+    {
+      "sourceId": "tgr-lombardia",
+      "status": "ok",
+      "method": "crawl4ai",
+      "diagnosticCode": null,
+      "message": "Pagina resa con Crawl4AI; metadati degli articoli e date verificati.",
+      "candidateCount": 10,
+      "datedCount": 6,
+      "itemCount": 0
+    },
+    {
+      "sourceId": "wwf",
+      "status": "ok",
+      "method": "trafilatura",
+      "diagnosticCode": null,
+      "message": "6 notizie recenti con data verificata; copertura parziale.",
+      "candidateCount": 12,
+      "datedCount": 6,
+      "itemCount": 6
+    }
+  ]
+}

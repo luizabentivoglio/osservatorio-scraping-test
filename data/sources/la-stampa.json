@@ -1,0 +1,305 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "la-stampa",
+  "originUrl": "https://www.lastampa.it/",
+  "configuredFeedUrl": "https://www.lastampa.it/rss/copertina.xml",
+  "collectedAt": "2026-10-30T13:03:20.511587Z",
+  "status": "ok",
+  "diagnosticCode": null,
+  "method": "rss",
+  "feedUrl": "https://www.lastampa.it/rss/copertina.xml",
+  "items": [
+    {
+      "title": "Scontri in piazza Castello a Torino: manifestanti e polizia a pochi centimetri, poi carica e idranti",
+      "url": "https://www.lastampa.it/torino/2026/10/30/video/scontri_in_piazza_castello_a_torino_manifestanti_e_polizia_a_pochi_centimetri_poi_carica_e_idranti-15783065/",
+      "excerpt": "Momenti di forte tensione in piazza Castello, a Torino, davanti alla Prefettura, durante le manifestazioni del 30 ottobre. I partecipanti in testa al corteo, dietro lo striscione di apertura, si sono avvicinati fino a pochi centimetri dal cordone delle forze dell'ordine schierato a protezione dell'edificio, mentre dall",
+      "publishedAt": "2026-10-30T12:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Roberta Bruni: “Curano solo gli atleti ricchi”",
+      "url": "https://www.lastampa.it/sport/2026/10/30/news/roberta_bruni_curano_solo_gli_atleti_ricchi-15783045/",
+      "excerpt": "Lo sfogo dell’atleta sui social per il mancato sostegno della Federazione dopo un grave infortunio",
+      "publishedAt": "2026-10-30T11:40:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "La crisi della Juve vista dai tifosi vip, tra critiche e incoraggiamenti",
+      "url": "https://www.lastampa.it/sport/2026/10/30/news/juve_crisi_tifosi_vip_cosa_dicono-15783036/",
+      "excerpt": "Michielin: «Persa serenità», Christillin: «Non riconosco la Juve», De Luna: «È come se il contesto facesse imbrocchire i calciatori»",
+      "publishedAt": "2026-10-30T11:31:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "“Sistema Valle d’Aosta” e l’ombra di un partito che comanda da 40 anni",
+      "url": "https://www.lastampa.it/aosta/2026/10/30/news/valle_aosta_testolin_union_valdotaine_casino-15783023/",
+      "excerpt": "Il presidente Testolin è decaduto e l’Union Valdôtaine indica il suo successore. Intanto i giudici indagano sulle partecipate regionali",
+      "publishedAt": "2026-10-30T11:14:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Perché ad Artissima c'è una Madonna girata di spalle?",
+      "url": "https://www.lastampa.it/torino/2026/10/30/video/perche_ad_artissima_ce_una_madonna_girata_di_spalle-15782983/",
+      "excerpt": "Tra le molte opere di forte impatto visivo presenti ad Artissima ce n'è una particolarmente interessante: si intitola In search of the miraculous dell'artista Marcello Maloberti e rappresenta una Madonna girata di spalle. A raccontarcela è la gallerista Raffaella Cortese. LEGGI ANCHE A Torino un viaggio fra opere di 18",
+      "publishedAt": "2026-10-30T10:46:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Le banche: “Aumento tasse preoccupante”. Giorgetti: “Siamo tutti sulla stessa barca”",
+      "url": "https://www.lastampa.it/economia/2026/10/30/news/le_banche_aumento_tasse_preoccupante_giorgetti_siamo_tutti_sulla_stessa_barca-15782977/",
+      "excerpt": "Nuovo scontro tra esecutivo e big del credito. Il leader dell’Abi Patuelli evoca le crisi bancarie e chiede una riflessione sulla manovra. Il ministro dell’Economia replica: “Oneri assorbibili, ora tocca agli istituti aiutare il governo”.",
+      "publishedAt": "2026-10-30T10:40:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Vent’anni, pochi dollari, tanta determinazione: i volti di Bob Dylan quando non era Bob Dylan",
+      "url": "https://www.lastampa.it/spettacoli/2026/10/30/news/mostra_bob_dylan_vinyl_room_roma-15782970/",
+      "excerpt": "Dal 5 dicembre alla Vinyl Room di Roma la mostra \"Bob Dylan: Forever Young\" porta alla Vinyl Room con gli scatti di John Cohen",
+      "publishedAt": "2026-10-30T10:34:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Dal Portogallo all’Albania, l’autunno caldo dell’Europa: perché i giovani si ribellano",
+      "url": "https://www.lastampa.it/esteri/2026/10/30/news/portogallo_grecia_albania_proteste_giovani_europa-15782956/",
+      "excerpt": "Da settimane gli studenti della Generazione Z scendono in piazza per il diritto allo studio, alla casa, per la giustizia sociale e la dignità del lavoro",
+      "publishedAt": "2026-10-30T10:30:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "\"Sei disgustoso. Mettiti in forma\": Trump insulta un giornalista dopo una domanda sul Kansas",
+      "url": "https://www.lastampa.it/esteri/2026/10/30/video/trump_insulta_giornalista_disgustoso_domanda_kansas-15782929/",
+      "excerpt": "«Sei disgustoso. Hai un aspetto terribile, rimettiti in forma». Donald Trump ha attaccato un giornalista della Reuters dopo una domanda sul mancato viaggio del presidente in Kansas, per partecipare al comizio a sostegno del repubblicano Roger Marshall. «Non sento il bisogno di andare, sta andando tutto bene».",
+      "publishedAt": "2026-10-30T10:14:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "“Vivere a lungo, vivere meglio”, i numeri in Italia e Piemonte: entro il 2050 anziani quadruplicati",
+      "url": "https://www.lastampa.it/torino/2026/10/30/news/vivere_a_lungo_vivere_meglio_anziani_italia_piemonte_date-15782863/",
+      "excerpt": "Stamattina alla Nuvola Lavazza esperti e politica si confrontano all’evento organizzato da La Stampa",
+      "publishedAt": "2026-10-30T09:10:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Tragedia nel paesaggio incantato della Cappadocia: crolla un \"camino delle fate\"",
+      "url": "https://www.lastampa.it/esteri/2026/10/30/video/cappadocia_crolla_camino_delle_fate-15782850/",
+      "excerpt": "Le forti piogge hanno provocato il distacco di rocce da un “camino delle fate” nei pressi del museo all’aperto di Göreme: due persone sono morte e cinque sono rimaste ferite. Queste spettacolari torri naturali, nate dall’erosione di antichi depositi vulcanici, devono il loro nome alle forme irreali e alle cavità scavat",
+      "publishedAt": "2026-10-30T09:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Pompei, armadio sigillato dall'eruzione riaperto dopo 2mila anni: il tesoro di una donna",
+      "url": "https://www.lastampa.it/cronaca/2026/10/30/video/pompei_armadio_sigillato_eruzione_riaperto_2mila_anni-15782845/",
+      "excerpt": "Nella casa di una donna di ceto medio lungo l’antica via dell’Abbondanza, gli archeologi hanno ricostruito un armadio di legno rimasto sigillato dall’eruzione del Vesuvio del 79 d.C. All’interno sono stati trovati un contenitore per profumi o unguenti, monete, pinzette, pentole, pesi da commercio e una collana di amule",
+      "publishedAt": "2026-10-30T08:59:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Torino, tensione al corteo: lo spezzone di Askatasuna fa arretrare i poliziotti in via Po",
+      "url": "https://www.lastampa.it/torino/2026/10/30/video/torino_tensione_al_corteo_lo_spezzone_di_askatasuna_fa_arretrare_i_poliziotti_in_via_po-15782822/",
+      "excerpt": "Momenti di tensione in via Po, nel centro di Torino, durante la manifestazione per lo sciopero generale del 30 ottobre. All'incrocio con via Rossini, un cordone di circa venti poliziotti si è schierato mentre avanzava lo spezzone del corteo guidato da Askatasuna. I manifestanti sono riusciti a far arretrare gli agenti ",
+      "publishedAt": "2026-10-30T08:29:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Arriva la goccia fredda sul Mediterraneo. Temperature in calo e neve a quote medie",
+      "url": "https://www.lastampa.it/cronaca/2026/10/30/news/previsioni_meteo_calo_temperature_neve-15782785/",
+      "excerpt": "Le correnti fredde dalla Scandinavia raggiungono l’Italia",
+      "publishedAt": "2026-10-30T08:03:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Putin ormai epura anche Novaya Gazeta, chiusa a forza la redazione di Anna Politkovskaja",
+      "url": "https://www.lastampa.it/esteri/2026/10/30/news/prigione-russia_putin_ormai_epura_anche_novaya_gazeta_chiusa_la_redazione_di_anna_politkovskaja-15782762/",
+      "excerpt": "I giornalisti: «Il giornale non esisterà più. Le autorità russe e i servizi segreti hanno costretto la redazione a cessare le attività». Sfrattato il glorioso edificio in via Potapovskij, dove lavorarono alcuni miti del giornalismo indipendente",
+      "publishedAt": "2026-10-30T07:36:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Sciopero generale, cortei in tutta Italia. A Milano 20 mila: \"Ci prendiamo la tangenziale\". Fumogeni a Roma",
+      "url": "https://www.lastampa.it/cronaca/2026/10/30/diretta/sciopero_generale_oggi_30_ottobre_2026_cortei_italia_diretta-15782753/",
+      "excerpt": "Usb, studenti e pro-Pal in piazza contro riarmo e carovita. Mobilitazione anche in cento porti",
+      "publishedAt": "2026-10-30T07:27:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Giustizia in Piemonte verso la paralisi: nei tribunali manca il 50% del personale",
+      "url": "https://www.lastampa.it/alessandria/2026/10/30/news/tribunali_piemonte_crisi_personale_cancellerie_processi-15782750/",
+      "excerpt": "Da Cuneo ad Alessandria e Verbania: i presidenti chiedono aiuti urgenti per smaltire i carichi di lavoro insostenibili",
+      "publishedAt": "2026-10-30T07:27:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Scontri a Torino, cariche della polizia e idranti contro i manifestanti",
+      "url": "https://www.lastampa.it/torino/2026/10/30/diretta/manifestazione_oggi_30_ottobre_torino_2026_cortei_diretta-15782740/",
+      "excerpt": "Sciopero generale proclamato dall’Usb, studenti e lavoratori: «Cosa ci facciamo con 1500 euro al mese? Anche mangiare è diventato un lusso»",
+      "publishedAt": "2026-10-30T07:21:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Paura a Savona: fiamme in un alloggio di un condominio, un ferito ed evacuato il palazzo",
+      "url": "https://www.lastampa.it/savona/2026/10/30/news/paura_a_savona_in_fiamme_in_un_alloggio_di_un_condominio_evacuato_il_palazzo-15782729/",
+      "excerpt": "L’allarme alle 8 in via Torino, mobilitati i vigili del fuoco. Sette persone allontanate dall’edificio, un gatto ha avuto bisogno di cure veterinarie",
+      "publishedAt": "2026-10-30T07:10:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Altman, Musk, Zuckerberg e gli altri: a Hollywood i nuovi cattivi sono i leader delle Big Tech",
+      "url": "https://www.lastampa.it/spettacoli/2026/10/30/news/altman_musk_zuckerberg_hollywood_film_big_tech-15782725/",
+      "excerpt": "Dal film di Guadagnino a quello di Sorkin, spopolano i ritratti (spietati) dei magnati della Silicon Valley",
+      "publishedAt": "2026-10-30T07:05:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Hacker dentro Binance: colpo record da 6,3 miliardi",
+      "url": "https://www.lastampa.it/economia/2026/10/30/news/binance_attacco_hacker_furto_6_miliardi-15782720/",
+      "excerpt": "Si tratta di uno dei colpi più grandi della storia. La società di exchange: «Intervenuti subito. Circa tre miliardi sono già al sicuro». Sospetti sui nordcoreani",
+      "publishedAt": "2026-10-30T07:03:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Erdogan, il nemico perfetto di Netanyahu (e candidato fantasma)",
+      "url": "https://www.lastampa.it/esteri/2026/10/30/news/erdogan_il_nemico_perfetto_di_netanyahu-15782707/",
+      "excerpt": "Dai manifesti del Likud alle accuse di ingerenza, il presidente turco resta al centro dello scontro politico israeliano. Ma tra i due Paesi, dietro le minacce reciproche, continuano commerci e contatti diplomatici.",
+      "publishedAt": "2026-10-30T06:51:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Blanco rompe con Stefano Clessi: “I manager sono il male della musica”",
+      "url": "https://www.lastampa.it/spettacoli/2026/10/30/news/blanco_rottura_manager_stefano_clessi_replica-15782710/",
+      "excerpt": "La replica all’artista: «Quando si ottengono successo e fama fin da giovanissimi accettare i \"no\" non è facile, mi rendo conto»",
+      "publishedAt": "2026-10-30T06:51:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Obama, Trump e la \"Cheesecake Factory di Saddam Hussein\" alla Casa Bianca: lo scontro prima delle Midterm",
+      "url": "https://www.lastampa.it/esteri/2026/10/30/video/obama_trump_e_la_cheesecake_factory_di_saddam_hussein_alla_casa_bianca_lo_scontro_prima_delle_midterm-15782684/",
+      "excerpt": "Se pensavate che lo scontro tra Barack Obama e Donald Trump fosse arrivato al limite, vi sbagliavate di grosso. Perché l’ultimo botta e risposta non riguarda la geopolitica o l'economia… ma il design d'interni. E ha tirato in ballo persino Saddam Hussein e la nota catena di ristoranti americani Cheesecake Factory. Dura",
+      "publishedAt": "2026-10-30T06:23:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "La prima sergente della Croce Rossa, il medico, il pilota e lo specialista: chi sono i militari italiani morti in Bosnia",
+      "url": "https://www.lastampa.it/esteri/2026/10/30/news/vittime_incidente_elicottero_bosnia-15782639/",
+      "excerpt": "Il velivolo precipitato subito dopo il decollo durante un’esercitazione: a bordo soldati e personale sanitario. Undici feriti, nessuno grave",
+      "publishedAt": "2026-10-30T05:22:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "“Strappate i verbali, non rompiamo i c… alla gente”. E Scajola è di nuovo indagato",
+      "url": "https://www.lastampa.it/imperia-sanremo/2026/10/30/news/imperia_nuovo_avviso_di_garanzia_per_claudio_scajola_indagato_per_interruzione_di_pubblico_servizio-15781999/",
+      "excerpt": "Il sindaco di Imperia avrebbe stoppato alcune rimozioni della polizia locale. Per lui l’accusa di interruzione di pubblico servizio",
+      "publishedAt": "2026-10-30T03:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Insulti alla partita di volley tra ragazzine, la società mette al bando i genitori ultrà",
+      "url": "https://www.lastampa.it/torino/2026/10/30/news/volley_genitori_ultra_torino_partita_daspo-15782217/",
+      "excerpt": "L’episodio nell’hinterland torinese, le pallavoliste scortate negli spogliatoi. Il presidente: «Preferisco gli spalti vuoti»",
+      "publishedAt": "2026-10-30T03:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Se Halloween sessualizza il corpo delle ragazze",
+      "url": "https://www.lastampa.it/cultura/2026/10/30/news/se_halloween_sessualizza_il_corpo_delle_ragazze-15782033/",
+      "excerpt": "Uno studio delle ricercatrici statunitensi Jacqueline Sullivan, Erin Hipple e Lauri Hyers ha rilevato che in Nord America solo il 12% dei costumi femminili venduti è privo di indicatori di infantilizzazione e sessualizzazione",
+      "publishedAt": "2026-10-30T03:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "L'omicidio di Don Bison, colpevole di essere un prete",
+      "url": "https://www.lastampa.it/cronaca/2026/10/30/news/storia_ludwig_don_armando_bison_prete_ucciso_follia_neonazista-15781847/",
+      "excerpt": "Ucciso nel 1983 da due neonazisti che firmarono col nome “Ludwig” una quindicina di delitti",
+      "publishedAt": "2026-10-30T03:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Tutti vogliono Tresoldi: Chelsea e City scatenano l’asta, Mancini e Klopp si sfidano in nazionale",
+      "url": "https://www.lastampa.it/sport/2026/10/30/news/tutti_vogliono_tresoldi_chelsea_e_city_scatenano_l_asta_mancini_e_klopp_si_sfidano_in_nazionale-15782331/",
+      "excerpt": "Per il bomber del Bruges si parte da 50 milioni, anche Juve e Milan studiano l’affare ma partono dietro le big della Premier. Che intrigo tra federazioni: giocherà l’Europeo Under 21 con la Germania poi deciderà, ma l’Italia parte in svantaggio",
+      "publishedAt": "2026-10-30T03:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Fornero: “Il fondo per le uscite anticipate? Un inganno, Salvini poco competente”",
+      "url": "https://www.lastampa.it/economia/2026/10/30/news/fornero_fondo_uscite_anticipate_pensioni_salvini-15782278/",
+      "excerpt": "L’ex ministra: “La battaglia per superare la mia legge non interessa più nemmeno i leghisti. Non si può chiamare questo anticipo “flessibilità” senza specificare che verrà finanziato con una nuova imposta a carico dei pensionati”",
+      "publishedAt": "2026-10-30T03:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Yannick Alléno: “La cucina italiana ci insegna che il vero talento è la semplicità”",
+      "url": "https://www.lastampa.it/cronaca/2026/10/30/news/fuori_menu_chef_francese_yannick_alleno_cucina_italiana-15781897/",
+      "excerpt": "A Torino per Buonissima, il grande chef francese racconta il suo legame con l’Italia e un’idea di alta cucina “al bancone”, più vicina alle persone. E guarda a Milano per un nuovo progetto",
+      "publishedAt": "2026-10-30T03:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "I leader del campo largo evitano la sfilata. Dubbi anche sulla piazza contro il carovita",
+      "url": "https://www.lastampa.it/politica/2026/10/30/news/i_leader_del_campo_largo_evitano_la_sfilata_dubbi_anche_sulla_piazza_contro_il_carovita-15782178/",
+      "excerpt": "Schlein, Conte e gli alleati impegnati in una “call”, ma ci saranno esponenti di Pd, M5s e Avs",
+      "publishedAt": "2026-10-30T03:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Irpef giù fino a 55 mila euro: in busta paga un guadagno fino a 500 euro all’anno",
+      "url": "https://www.lastampa.it/economia/2026/10/30/news/irpef_riforma_legge_di_bilancio_simulazioni-15782300/",
+      "excerpt": "Le simulazioni della Uil: nessun beneficio fino a 50 mila euro Platea di 603mila contribuenti, ma vantaggi per 3,2 milioni di italiani",
+      "publishedAt": "2026-10-30T03:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Salvini: “I fondi per il Terzo valico ci sono”. I cantieri aperti non si fermano",
+      "url": "https://www.lastampa.it/alessandria/2026/10/30/news/salvini_fondi_soldi_terzo_valico_ci_sono_cantieri_aperti_niente_stop-15782196/",
+      "excerpt": "Il futuro delle zone semplificate tra Piemonte-Liguria- Lombardia al centro degli Stati generali riuniti ieri a Genova",
+      "publishedAt": "2026-10-30T03:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Netanyahu ha comunque perso 13 seggi, Eisenkot riuscirà a fare un governo",
+      "url": "https://www.lastampa.it/esteri/2026/10/30/news/ehud_olmert_il_premier_ha_comunque_perso_13_seggi_eisenkot_riuscira_a_fare_un_governo-15782271/",
+      "excerpt": "L’ex primo ministro e tra i fondatori del Likud: «Non riconosco più il mio partito»",
+      "publishedAt": "2026-10-29T23:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Il Cremlino: “Nessuna data per i colloqui Russia-Usa-Ucraina”. Evacuazione umanitaria a Oleshky",
+      "url": "https://www.lastampa.it/esteri/2026/10/30/diretta/guerra_russia_ucraina_news_oggi-15782350/",
+      "excerpt": "Strage alla stazione di Dnipro: 14 morti. Chiude Novaya Gazeta: «Uccisi dalle autorità e dai servizi».",
+      "publishedAt": "2026-10-29T22:25:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Impegnati nella raccolta delle olive in Cisgiordania, fermati tre attivisti di Imperia",
+      "url": "https://www.lastampa.it/imperia-sanremo/2026/10/29/news/tre_attivisti_imperiesi_arrestati_in_cisgiordania-15782327/",
+      "excerpt": "Sono in tutto cinque gli italiani arrestati. La Farnesina si è attivata per chiedere il rilascio immediato degli attivisti",
+      "publishedAt": "2026-10-29T21:14:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Cina, la pesca estrema nel fango: pesci afferrati con mani e denti",
+      "url": "https://www.lastampa.it/video/socialnews/2026/10/29/video/cina_pesca_estrema_fango_pesci-15781787/",
+      "excerpt": "Oltre 550 concorrenti hanno partecipato a Yichun, nella provincia cinese dello Jiangxi, a una competizione sportiva ispirata al lavoro agricolo. La prova più affollata è stata la pesca nello stagno fangoso: centinaia di persone si sono lanciate in acqua per catturare i pesci a mani nude, mentre qualcuno ha provato ad a",
+      "publishedAt": "2026-10-29T14:58:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Lancia una molotov contro l’hotel dei migranti: le telecamere lo seguono fino a casa",
+      "url": "https://www.lastampa.it/video/socialnews/2026/10/29/video/molotov_hotel_migranti_telecamere_casa-15781745/",
+      "excerpt": "Mark Neville, 65 anni, è stato ripreso mentre accendeva e lanciava una bomba molotov contro l’ingresso di un hotel che ospitava richiedenti asilo a Islington, nel nord di Londra, il 24 settembre 2025. Le guardie di sicurezza hanno spento rapidamente le fiamme e nessuno è rimasto ferito. Analizzando centinaia di ore di ",
+      "publishedAt": "2026-10-29T14:19:00Z",
+      "dateEvidence": "feed:published"
+    }
+  ],
+  "attempts": [
+    {
+      "url": "https://www.lastampa.it/robots.txt",
+      "status": 200
+    },
+    {
+      "url": "https://www.lastampa.it/rss/copertina.xml",
+      "status": 200
+    }
+  ],
+  "message": "Feed ufficiale letto; date di pubblicazione verificate.",
+  "durationSeconds": 0.63
+}

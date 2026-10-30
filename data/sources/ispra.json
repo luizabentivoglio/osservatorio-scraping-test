@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "ispra",
+  "originUrl": "https://www.isprambiente.gov.it/it",
+  "configuredFeedUrl": null,
+  "collectedAt": "2026-10-30T13:03:16.596547Z",
+  "status": "ok",
+  "diagnosticCode": null,
+  "method": "rss",
+  "feedUrl": "https://www.isprambiente.gov.it/it/news/notizie/RSS",
+  "items": [],
+  "attempts": [
+    {
+      "url": "https://www.isprambiente.gov.it/robots.txt",
+      "status": 200
+    },
+    {
+      "url": "https://www.isprambiente.gov.it/it/news/notizie/RSS",
+      "status": 200
+    }
+  ],
+  "message": "Feed ufficiale letto; date di pubblicazione verificate.",
+  "durationSeconds": 0.88
+}

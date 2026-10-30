@@ -1,0 +1,97 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "camera",
+  "originUrl": "https://www.camera.it/",
+  "configuredFeedUrl": null,
+  "collectedAt": "2026-10-30T13:02:30.862736Z",
+  "status": "no_feed",
+  "diagnosticCode": "parsing_error",
+  "method": "crawl4ai",
+  "feedUrl": null,
+  "items": [],
+  "attempts": [
+    {
+      "url": "https://www.camera.it/robots.txt",
+      "status": 200
+    },
+    {
+      "url": "https://www.camera.it/leg19/feeds/16/521.xml",
+      "status": 500
+    },
+    {
+      "url": "https://www.camera.it/leg19/feeds/5/33.xml",
+      "status": 500
+    },
+    {
+      "url": "https://www.camera.it/",
+      "status": 302
+    },
+    {
+      "url": "https://www.camera.it/leg19/1",
+      "status": 200
+    },
+    {
+      "url": "https://www.camera.it/leg19/1?active_tab_27538=27542",
+      "status": 200
+    },
+    {
+      "url": "https://www.camera.it/leg19/1?active_tab_27538=27545",
+      "status": 200
+    },
+    {
+      "url": "https://www.camera.it/leg19/43",
+      "status": 200
+    },
+    {
+      "url": "https://www.camera.it/leg19/141",
+      "status": 200
+    },
+    {
+      "url": "https://www.camera.it/leg19/577",
+      "status": 200
+    },
+    {
+      "url": "https://www.camera.it/leg19/168",
+      "status": 200
+    },
+    {
+      "url": "https://www.camera.it/leg19/1?active_tab_27538=27542",
+      "status": 200
+    },
+    {
+      "url": "https://www.camera.it/leg19/1?active_tab_27538=27545",
+      "status": 200
+    },
+    {
+      "url": "https://www.camera.it/leg19/43",
+      "status": 200
+    },
+    {
+      "url": "https://www.camera.it/leg19/141",
+      "status": 200
+    },
+    {
+      "url": "https://www.camera.it/leg19/577",
+      "status": 200
+    },
+    {
+      "url": "https://www.camera.it/leg19/168",
+      "status": 200
+    }
+  ],
+  "message": "Pagina accessibile, ma nessuna notizia con data di pubblicazione verificabile.",
+  "candidateCount": 12,
+  "datedCount": 0,
+  "listingUrl": "https://www.camera.it/leg19/1",
+  "durationSeconds": 17.49,
+  "attemptErrors": [
+    {
+      "url": "https://www.camera.it/leg19/feeds/16/521.xml",
+      "code": "http_error"
+    },
+    {
+      "url": "https://www.camera.it/leg19/feeds/5/33.xml",
+      "code": "http_error"
+    }
+  ]
+}

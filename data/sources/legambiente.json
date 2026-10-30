@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "legambiente",
+  "originUrl": "https://www.legambiente.it/",
+  "configuredFeedUrl": null,
+  "collectedAt": "2026-10-30T13:03:21.141758Z",
+  "status": "ok",
+  "diagnosticCode": null,
+  "method": "trafilatura",
+  "feedUrl": null,
+  "items": [],
+  "attempts": [
+    {
+      "url": "https://www.legambiente.it/robots.txt",
+      "status": 200
+    },
+    {
+      "url": "https://www.legambiente.it/",
+      "status": 200
+    },
+    {
+      "url": "https://www.legambiente.it/5x1000/",
+      "status": 200
+    },
+    {
+      "url": "https://www.legambiente.it/campagne-in-evidenza/puliamo-il-mondo/",
+      "status": 404
+    },
+    {
+      "url": "https://www.legambiente.it/area-tematica/agroecologia",
+      "status": 200
+    },
+    {
+      "url": "https://www.legambiente.it/area-tematica/crisi-climatica",
+      "status": 200
+    },
+    {
+      "url": "https://www.legambiente.it/area-tematica/economia-circolare",
+      "status": 200
+    },
+    {
+      "url": "https://www.legambiente.it/area-tematica/illegalita-ambientale",
+      "status": 200
+    }
+  ],
+  "message": "0 notizie recenti con data verificata; copertura parziale.",
+  "candidateCount": 12,
+  "datedCount": 3,
+  "listingUrl": "https://www.legambiente.it/",
+  "durationSeconds": 3.94,
+  "attemptErrors": [
+    {
+      "url": "https://www.legambiente.it/campagne-in-evidenza/puliamo-il-mondo/",
+      "code": "invalid_url"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "pagella-politica",
+  "originUrl": "https://pagellapolitica.it/",
+  "configuredFeedUrl": null,
+  "collectedAt": "2026-10-30T13:03:41.381993Z",
+  "status": "no_feed",
+  "diagnosticCode": "parsing_error",
+  "method": "crawl4ai",
+  "feedUrl": null,
+  "items": [],
+  "attempts": [
+    {
+      "url": "https://pagellapolitica.it/robots.txt",
+      "status": 200
+    },
+    {
+      "url": "https://pagellapolitica.it/articoli",
+      "status": 200
+    },
+    {
+      "url": "https://pagellapolitica.it/articoli/meloni-siher",
+      "status": 200
+    },
+    {
+      "url": "https://pagellapolitica.it/articoli/medici-no-vax-disegno-di-legge-camera",
+      "status": 200
+    },
+    {
+      "url": "https://pagellapolitica.it/articoli/manovra-governo-meloni-2027",
+      "status": 200
+    },
+    {
+      "url": "https://pagellapolitica.it/articoli/deputato-avs-foto-falsa-manifestazioni",
+      "status": 200
+    },
+    {
+      "url": "https://pagellapolitica.it/articoli/governo-nuovo-taglio-gasolio-accise",
+      "status": 200
+    },
+    {
+      "url": "https://pagellapolitica.it/articoli/europa-rimpatrio-migranti-frontex",
+      "status": 200
+    },
+    {
+      "url": "https://pagellapolitica.it/articoli/meloni-siher",
+      "status": 200
+    },
+    {
+      "url": "https://pagellapolitica.it/articoli/medici-no-vax-disegno-di-legge-camera",
+      "status": 200
+    },
+    {
+      "url": "https://pagellapolitica.it/articoli/manovra-governo-meloni-2027",
+      "status": 200
+    },
+    {
+      "url": "https://pagellapolitica.it/articoli/deputato-avs-foto-falsa-manifestazioni",
+      "status": 200
+    },
+    {
+      "url": "https://pagellapolitica.it/articoli/governo-nuovo-taglio-gasolio-accise",
+      "status": 200
+    },
+    {
+      "url": "https://pagellapolitica.it/articoli/europa-rimpatrio-migranti-frontex",
+      "status": 200
+    }
+  ],
+  "message": "Pagina accessibile, ma nessuna notizia con data di pubblicazione verificabile.",
+  "candidateCount": 12,
+  "datedCount": 0,
+  "listingUrl": "https://pagellapolitica.it/articoli",
+  "durationSeconds": 6.08
+}

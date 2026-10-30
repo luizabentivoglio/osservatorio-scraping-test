@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "patto-nord",
+  "originUrl": "https://www.pattoperilnord.it/",
+  "configuredFeedUrl": null,
+  "collectedAt": "2026-10-30T13:03:48.161782Z",
+  "status": "no_feed",
+  "diagnosticCode": "parsing_error",
+  "method": "crawl4ai",
+  "feedUrl": null,
+  "items": [],
+  "attempts": [
+    {
+      "url": "https://www.pattoperilnord.it/robots.txt",
+      "status": 200
+    },
+    {
+      "url": "https://www.pattoperilnord.it/",
+      "status": 200
+    },
+    {
+      "url": "https://www.pattoperilnord.it/Elezioni-Trasparenti",
+      "status": 200
+    },
+    {
+      "url": "https://www.pattoperilnord.it/tesserati",
+      "status": 200
+    },
+    {
+      "url": "https://www.pattoperilnord.it/firma-online",
+      "status": 200
+    }
+  ],
+  "message": "Pagina accessibile, ma nessuna notizia con data di pubblicazione verificabile.",
+  "candidateCount": 3,
+  "datedCount": 0,
+  "listingUrl": "https://www.pattoperilnord.it/",
+  "durationSeconds": 0.68
+}

@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "palazzo-chigi",
+  "originUrl": "https://www.governo.it/",
+  "configuredFeedUrl": null,
+  "collectedAt": "2026-10-30T13:03:43.041935Z",
+  "status": "ok",
+  "diagnosticCode": null,
+  "method": "rss",
+  "feedUrl": "https://www.governo.it/feed/rss",
+  "items": [
+    {
+      "title": "Incidente aereo in Bosnia, il Presidente Meloni rende omaggio alle vittime al Villaggio Difesa",
+      "url": "https://www.governo.it/it/articolo/incidente-aereo-bosnia-il-presidente-meloni-rende-omaggio-alle-vittime-al-villaggio-difesa",
+      "excerpt": "Questa mattina, al Villaggio Difesa allestito al Circo Massimo, il Presidente del Consiglio, Giorgia Meloni, insieme al Ministro della Difesa, Guido Crosetto, ha deposto un fascio di rose in omaggio ai militari italiani vittime dell'incidente aereo avvenuto nella giornata di ieri in Bosnia.",
+      "publishedAt": "2026-10-30T11:48:08Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Pronuncia della Cassazione su ex Ilva, nota di Palazzo Chigi",
+      "url": "https://www.governo.it/it/articolo/pronuncia-della-cassazione-su-ex-ilva-nota-di-palazzo-chigi/32986",
+      "excerpt": "Il Governo non può che prendere atto della pronuncia della Cassazione su ex Ilva, che disattende le motivate conclusioni della Procura generale della stessa Cassazione. Lo stesso Governo non si sottrarrà all’esercizio delle proprie responsabilità, come ha fatto finora, come confermato dal decreto-legge entrato in vigor",
+      "publishedAt": "2026-10-29T17:47:27Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Incidente ferroviario in Spagna, la vicinanza del Presidente Meloni alle famiglie delle connazionali disperse",
+      "url": "https://www.governo.it/it/articolo/dichiarazione-del-presidente-del-consiglio-giorgia-meloni/32981",
+      "excerpt": "Desidero esprimere la mia personale vicinanza e quella del Governo italiano alle famiglie delle connazionali che risultano ancora disperse a seguito del tragico incidente ferroviario che ha colpito ieri la Spagna. In questa direzione prosegue l’impegno senza sosta della Farnesina per fornire tutta l’assistenza necessar",
+      "publishedAt": "2026-10-29T13:20:28Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Il Sottosegretario Mantovano partecipa all'evento \"Cyber Generation\"",
+      "url": "https://www.governo.it/it/articolo/il-sottosegretario-mantovano-partecipa-allevento-cyber-generation/32974",
+      "excerpt": "Il Sottosegretario Mantovano questa mattina è intervenuto all'evento \"Cyber Generation\", promosso nell'ambito del mese europeo della cybersicurezza. Al centro della giornata la cerimonia di consegna delle borse di studio ACN per il biennio 2024–2026.",
+      "publishedAt": "2026-10-29T07:40:36Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Comunicato stampa del Consiglio dei Ministri n. 195",
+      "url": "https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-195/32973",
+      "excerpt": "Il Consiglio dei Ministri si è riunito mercoledì 28 ottobre 2026, alle ore 15.15 a Palazzo Chigi, sotto la presidenza del Presidente Giorgia Meloni. Segretario, il Sottosegretario alla Presidenza Alfredo Mantovano. ٠٠٠٠٠",
+      "publishedAt": "2026-10-28T20:40:33Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Nomina del nuovo Presidente della Corte costituzionale, la nota di Palazzo Chigi",
+      "url": "https://www.governo.it/it/articolo/nomina-del-nuovo-presidente-della-corte-costituzionale-la-nota-di-palazzo-chigi/32971",
+      "excerpt": "Il Presidente del Consiglio, Giorgia Meloni, ha sentito telefonicamente il neo Presidente della Corte costituzionale, Francesco Viganò, per rivolgergli le più sentite congratulazioni e i migliori auguri di buon lavoro. Meloni ha inoltre avuto un colloquio con il Presidente uscente, Giovanni Amoroso, per esprimergli il ",
+      "publishedAt": "2026-10-28T19:01:46Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Consiglio dei Ministri n. 195",
+      "url": "https://www.governo.it/it/articolo/consiglio-dei-ministri-n-195/32964",
+      "excerpt": "Si è svolta a Palazzo Chigi la riunione del Consiglio dei Ministri. Al termine, il Presidente Meloni, i Vice Presidenti e Ministri Tajani e Salvini, il Ministro Giorgetti e il Vice Ministro Leo hanno illustrato in conferenza stampa il disegno di legge di bilancio 2027.",
+      "publishedAt": "2026-10-28T14:00:40Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Convocazione del Consiglio dei Ministri n. 195",
+      "url": "https://www.governo.it/it/articolo/convocazione-del-consiglio-dei-ministri-n-195/32963",
+      "excerpt": "Il Consiglio dei Ministri è convocato oggi, mercoledì 28 ottobre 2026, alle ore 15:00 a Palazzo Chigi, per l'esame del seguente ordine del giorno:",
+      "publishedAt": "2026-10-28T13:58:06Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Fondo unico per l’inclusione delle persone con disabilità",
+      "url": "https://www.governo.it/it/articolo/fondo-unico-l-inclusione-delle-persone-con-disabilit/32959",
+      "excerpt": "Criteri e modalità di riparto del Fondo unico per l’inclusione delle persone con disabilità ai fini, per l’anno 2026, di cui all’articolo 1, comma 213, lettera f), della legge 30 dicembre 2023, n. 213: interventi finalizzati al riconoscimento del valore sociale ed economico dell’attività di cura non professionale del c",
+      "publishedAt": "2026-10-28T11:26:46Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Incidente ferroviario in Spagna, dichiarazione del Presidente Meloni",
+      "url": "https://www.governo.it/it/articolo/incidente-ferroviario-spagna-dichiarazione-del-presidente-meloni/32955",
+      "excerpt": "In queste ore così difficili, il Governo italiano è vicino alla Spagna e al popolo spagnolo per il drammatico incidente ferroviario avvenuto nei pressi di Toledo. I miei pensieri e quelli di tutto il nostro Governo vanno ai familiari delle vittime, ai feriti e a quanti stanno lavorando senza sosta nelle operazioni di s",
+      "publishedAt": "2026-10-28T09:55:32Z",
+      "dateEvidence": "feed:published"
+    }
+  ],
+  "attempts": [
+    {
+      "url": "https://www.governo.it/robots.txt",
+      "status": 200
+    },
+    {
+      "url": "https://www.governo.it/",
+      "status": 301
+    },
+    {
+      "url": "https://www.governo.it/it",
+      "status": 200
+    },
+    {
+      "url": "https://www.governo.it/feed/rss",
+      "status": 200
+    }
+  ],
+  "message": "Feed dichiarato dalla fonte; date di pubblicazione verificate.",
+  "durationSeconds": 1.05
+}
