@@ -1,0 +1,41 @@
+name: Test crawling fonti Osservatorio
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '*.py'
+      - requirements.txt
+      - '.github/workflows/test-scraping.yml'
+permissions:
+  contents: read
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+      - name: Install dependencies
+        run: python -m pip install -r requirements.txt
+      - name: Install Chromium
+        run: python -m playwright install --with-deps chromium
+      - name: Record installed versions
+        run: |
+          mkdir -p results
+          python -m pip freeze > results/installed-versions.txt
+      - name: Test the five sources
+        run: python test_sources.py
+      - name: Validate and summarize diagnostic results
+        if: always()
+        run: python summarize_results.py
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: crawling-results
+          path: results/
+          if-no-files-found: error
+          retention-days: 30
