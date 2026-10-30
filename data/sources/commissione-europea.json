@@ -3,7 +3,7 @@
   "sourceId": "commissione-europea",
   "originUrl": "https://commission.europa.eu/news-and-media_en",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-30T13:02:36.369944Z",
+  "collectedAt": "2026-10-30T13:08:57.541820Z",
   "status": "blocked",
   "diagnosticCode": "rate_limited",
   "method": "html",
@@ -28,11 +28,133 @@
     },
     {
       "url": "https://commission.europa.eu/news-and-media/visual-stories_en",
+      "status": 200
+    },
+    {
+      "url": "https://commission.europa.eu/about/contact/press-services_en",
       "status": 429
     }
   ],
   "message": "HTTP 429: accesso limitato dalla fonte",
+  "candidateSamples": [
+    {
+      "url": "https://commission.europa.eu/news-and-media/news_en",
+      "title": "News from Commission Departments",
+      "h1": "News",
+      "dates": [
+        {
+          "tag": "time",
+          "class": [],
+          "text": "20 October 2026",
+          "datetime": "2026-10-20T12:00:00Z"
+        },
+        {
+          "tag": "time",
+          "class": [],
+          "text": "20 October 2026",
+          "datetime": "2026-10-20T12:00:00Z"
+        },
+        {
+          "tag": "time",
+          "class": [],
+          "text": "20 October 2026",
+          "datetime": "2026-10-20T12:00:00Z"
+        },
+        {
+          "tag": "div",
+          "class": [
+            "js-form-item",
+            "form-item",
+            "js-form-type-select",
+            "form-item-oe-news-publication-date-op",
+            "js-form-item-oe-news-publication-date-op",
+            "ecl-form-group",
+            "ecl-form-group--select",
+            "ecl-u-mv-m"
+          ],
+          "text": "Publication date Select After Before In between Toggle dropdown",
+          "datetime": null
+        },
+        {
+          "tag": "div",
+          "class": [
+            "js-form-item",
+            "form-item",
+            "js-form-type-date",
+            "form-item-oe-news-publication-date-first-date-wrapper-oe-news-publication-date-first-date-date",
+            "js-form-item-oe-news-publication-date-first-date-wrapper-oe-news-publication-date-first-date-date",
+            "ecl-form-group",
+            "ecl-u-mv-m"
+          ],
+          "text": "Date",
+          "datetime": null
+        },
+        {
+          "tag": "div",
+          "class": [
+            "ecl-datepicker",
+            "ecl-datepicker--m"
+          ],
+          "text": "",
+          "datetime": null
+        },
+        {
+          "tag": "div",
+          "class": [
+            "js-form-item",
+            "form-item",
+            "js-form-type-date",
+            "form-item-oe-news-publication-date-second-date-wrapper-oe-news-publication-date-second-date-date",
+            "js-form-item-oe-news-publication-date-second-date-wrapper-oe-news-publication-date-second-date-date",
+            "ecl-form-group",
+            "ecl-u-mv-m"
+          ],
+          "text": "End Date",
+          "datetime": null
+        },
+        {
+          "tag": "div",
+          "class": [
+            "ecl-datepicker",
+            "ecl-datepicker--m"
+          ],
+          "text": "",
+          "datetime": null
+        },
+        {
+          "tag": "time",
+          "class": [],
+          "text": "30 October 2026",
+          "datetime": "2026-10-30T12:00:00Z"
+        },
+        {
+          "tag": "time",
+          "class": [],
+          "text": "30 October 2026",
+          "datetime": "2026-10-30T12:00:00Z"
+        },
+        {
+          "tag": "time",
+          "class": [],
+          "text": "30 October 2026",
+          "datetime": "2026-10-30T12:00:00Z"
+        },
+        {
+          "tag": "time",
+          "class": [],
+          "text": "30 October 2026",
+          "datetime": "2026-10-30T12:00:00Z"
+        }
+      ]
+    },
+    {
+      "url": "https://commission.europa.eu/news-and-media/visual-stories_en",
+      "title": "Visual stories",
+      "h1": "Visual stories",
+      "dates": []
+    }
+  ],
   "httpStatus": 429,
-  "failedUrl": "https://commission.europa.eu/news-and-media/visual-stories_en",
-  "durationSeconds": 3.31
+  "failedUrl": "https://commission.europa.eu/about/contact/press-services_en",
+  "durationSeconds": 2.95
 }

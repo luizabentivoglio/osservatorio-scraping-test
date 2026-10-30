@@ -3,7 +3,7 @@
   "sourceId": "rassegnally",
   "originUrl": "https://rassegnally.substack.com/",
   "configuredFeedUrl": "https://rassegnally.substack.com/feed",
-  "collectedAt": "2026-10-30T13:03:57.125976Z",
+  "collectedAt": "2026-10-30T13:10:34.941770Z",
   "status": "blocked",
   "diagnosticCode": "access_restricted",
   "method": "html",
@@ -18,5 +18,5 @@
   "message": "HTTP 403: accesso limitato dalla fonte",
   "httpStatus": 403,
   "failedUrl": "https://rassegnally.substack.com/robots.txt",
-  "durationSeconds": 0.05
+  "durationSeconds": 0.12
 }

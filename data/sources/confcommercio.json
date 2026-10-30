@@ -3,7 +3,7 @@
   "sourceId": "confcommercio",
   "originUrl": "https://www.confcommercio.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-30T13:02:39.902437Z",
+  "collectedAt": "2026-10-30T13:09:02.576881Z",
   "status": "blocked",
   "diagnosticCode": "access_restricted",
   "method": "html",
@@ -18,5 +18,5 @@
   "message": "HTTP 403: accesso limitato dalla fonte",
   "httpStatus": 403,
   "failedUrl": "https://www.confcommercio.it/robots.txt",
-  "durationSeconds": 0.76
+  "durationSeconds": 1.11
 }

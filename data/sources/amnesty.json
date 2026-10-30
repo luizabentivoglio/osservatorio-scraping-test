@@ -3,7 +3,7 @@
   "sourceId": "amnesty",
   "originUrl": "https://www.amnesty.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-30T13:02:30.197200Z",
+  "collectedAt": "2026-10-30T13:08:50.471366Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -66,8 +66,28 @@
     }
   ],
   "message": "3 notizie recenti con data verificata; copertura parziale.",
+  "candidateSamples": [
+    {
+      "url": "https://www.amnesty.it/appelli/gaza-liberta-per-il-dottor-hussam-abu-safiya/",
+      "title": "Gaza: libertà per il dottor Hussam Abu Safiya Firma ora",
+      "h1": "Gaza: libertà per il dottor Hussam Abu Safiya",
+      "dates": []
+    },
+    {
+      "url": "https://www.amnesty.it/appelli/iran-28-persone-rischiano-lesecuzione-in-relazione-alle-proteste/",
+      "title": "Fermiamo le esecuzioni in Iran Firma ora",
+      "h1": "Fermiamo le esecuzioni in Iran",
+      "dates": []
+    },
+    {
+      "url": "https://www.amnesty.it/appelli/il-sesso-senza-consenso-e-stupro/",
+      "title": "Il sesso senza consenso è stupro! Firma ora",
+      "h1": "Il sesso senza consenso è stupro!",
+      "dates": []
+    }
+  ],
   "candidateCount": 12,
   "datedCount": 3,
   "listingUrl": "https://www.amnesty.it/",
-  "durationSeconds": 6.17
+  "durationSeconds": 7.07
 }

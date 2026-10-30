@@ -3,7 +3,7 @@
   "sourceId": "istituto-bruno-leoni",
   "originUrl": "https://www.brunoleoni.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-30T13:03:18.970751Z",
+  "collectedAt": "2026-10-30T13:09:57.000825Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -80,8 +80,16 @@
     }
   ],
   "message": "5 notizie recenti con data verificata; copertura parziale.",
+  "candidateSamples": [
+    {
+      "url": "https://www.brunoleoni.it/articoli/",
+      "title": "Rassegna stampa",
+      "h1": "Articoli",
+      "dates": []
+    }
+  ],
   "candidateCount": 12,
   "datedCount": 5,
   "listingUrl": "https://www.brunoleoni.it/",
-  "durationSeconds": 5.41
+  "durationSeconds": 6.81
 }

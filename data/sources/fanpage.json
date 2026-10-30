@@ -3,7 +3,7 @@
   "sourceId": "fanpage",
   "originUrl": "https://www.fanpage.it/",
   "configuredFeedUrl": "https://www.fanpage.it/feed/",
-  "collectedAt": "2026-10-30T13:03:10.605653Z",
+  "collectedAt": "2026-10-30T13:09:49.471224Z",
   "status": "blocked",
   "diagnosticCode": "access_restricted",
   "method": "html",
@@ -18,5 +18,5 @@
   "message": "HTTP 403: accesso limitato dalla fonte",
   "httpStatus": 403,
   "failedUrl": "https://www.fanpage.it/robots.txt",
-  "durationSeconds": 0.18
+  "durationSeconds": 0.36
 }

@@ -3,7 +3,7 @@
   "sourceId": "comune-bollate",
   "originUrl": "https://comune.bollate.mi.it/it/news",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-30T13:02:39.681073Z",
+  "collectedAt": "2026-10-30T13:09:00.668908Z",
   "status": "no_feed",
   "diagnosticCode": "parsing_error",
   "method": "crawl4ai",
@@ -59,15 +59,49 @@
       "status": 200
     },
     {
-      "url": "https://comune.bollate.mi.it/it/news/censimento-2044015-2059439",
-      "status": 200
-    },
-    {
       "url": "https://comune.bollate.mi.it/it/news/sciopero-2046496-2059402",
       "status": 200
     }
   ],
   "message": "Pagina accessibile, ma nessuna notizia con data di pubblicazione verificabile.",
+  "candidateSamples": [
+    {
+      "url": "https://comune.bollate.mi.it/it/news/carta-dedicata-a-te-2051258",
+      "title": "Carta dedicata a te. Tutte le info",
+      "h1": "Seguici su",
+      "dates": []
+    },
+    {
+      "url": "https://comune.bollate.mi.it/it/news/iv-novembre-2059690",
+      "title": "Giornata dell'Unità nazionale e delle Forze armate",
+      "h1": "Seguici su",
+      "dates": []
+    },
+    {
+      "url": "https://comune.bollate.mi.it/it/news/avviso-pubblico-misura-nidi-gratis-plus",
+      "title": "Avviso pubblico misura Nidi gratis plus",
+      "h1": "Seguici su",
+      "dates": []
+    },
+    {
+      "url": "https://comune.bollate.mi.it/it/news/orari-2059632",
+      "title": "Chiusura Uffici comunali per San Martino",
+      "h1": "Seguici su",
+      "dates": []
+    },
+    {
+      "url": "https://comune.bollate.mi.it/it/news/censimento-2044015-2059439",
+      "title": "Censimento ISTAT. Ritardi nella consegna delle lettere",
+      "h1": "Seguici su",
+      "dates": []
+    },
+    {
+      "url": "https://comune.bollate.mi.it/it/news/sciopero-2046496-2059402",
+      "title": "Sciopero generale proclamato per il 30 ottobre",
+      "h1": "Seguici su",
+      "dates": []
+    }
+  ],
   "candidateCount": 12,
   "datedCount": 0,
   "listingUrl": "https://comune.bollate.mi.it/it/news",

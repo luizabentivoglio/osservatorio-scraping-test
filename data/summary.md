@@ -9,7 +9,7 @@
 | breaking-italy | no_feed | crawl4ai | 0 | parsing_error |
 | camera | no_feed | crawl4ai | 0 | parsing_error |
 | cisl | ok | rss | 40 | — |
-| cnr | ok | rss | 18 | — |
+| cnr | error | html | 0 | connection_error |
 | coldiretti | no_feed | crawl4ai | 0 | parsing_error |
 | commissione-europea | blocked | html | 0 | rate_limited |
 | comune-bollate | no_feed | crawl4ai | 0 | parsing_error |
@@ -27,7 +27,7 @@
 | factanza | blocked | html | 0 | access_restricted |
 | fanpage | blocked | html | 0 | access_restricted |
 | forza-italia | ok | trafilatura | 0 | — |
-| futuro-nazionale | blocked | html | 0 | access_restricted |
+| futuro-nazionale | error | html | 0 | response_too_large |
 | good-morning-italia | blocked | html | 0 | access_restricted |
 | greenpeace | ok | trafilatura | 2 | — |
 | hrw | blocked | html | 0 | access_restricted |
@@ -50,7 +50,7 @@
 | msf | ok | trafilatura | 6 | — |
 | osservatorio-cpi | no_feed | crawl4ai | 0 | parsing_error |
 | oxfam | no_feed | crawl4ai | 0 | parsing_error |
-| pagella-politica | no_feed | crawl4ai | 0 | parsing_error |
+| pagella-politica | ok | trafilatura | 6 | — |
 | palazzo-chigi | ok | rss | 10 | — |
 | parlamento-europeo | no_feed | crawl4ai | 0 | parsing_error |
 | partito-liberaldemocratico | ok | trafilatura | 4 | — |
@@ -58,9 +58,9 @@
 | patto-nord | no_feed | crawl4ai | 0 | parsing_error |
 | pillole-economia | blocked | html | 0 | access_restricted |
 | piu-europa | blocked | html | 0 | access_restricted |
-| piu-uno | ok | trafilatura | 1 | — |
+| piu-uno | ok | trafilatura | 6 | — |
 | pri | no_feed | crawl4ai | 0 | parsing_error |
-| quirinale | blocked | html | 0 | access_restricted |
+| quirinale | no_feed | crawl4ai | 0 | parsing_error |
 | rassegnally | blocked | html | 0 | access_restricted |
 | regione-lombardia | blocked | html | 0 | access_restricted |
 | reuters | blocked | html | 0 | robots_disallowed |

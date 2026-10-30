@@ -3,7 +3,7 @@
   "sourceId": "patt",
   "originUrl": "https://patt.tn.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-30T13:03:37.030806Z",
+  "collectedAt": "2026-10-30T13:10:15.769254Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -44,8 +44,16 @@
     }
   ],
   "message": "0 notizie recenti con data verificata; copertura parziale.",
+  "candidateSamples": [
+    {
+      "url": "https://patt.tn.it/news/",
+      "title": "clicca qui per info",
+      "h1": null,
+      "dates": []
+    }
+  ],
   "candidateCount": 8,
   "datedCount": 5,
   "listingUrl": "https://patt.tn.it/",
-  "durationSeconds": 3.71
+  "durationSeconds": 2.2
 }

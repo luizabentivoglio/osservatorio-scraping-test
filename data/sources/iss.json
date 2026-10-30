@@ -3,7 +3,7 @@
   "sourceId": "iss",
   "originUrl": "https://www.iss.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-30T13:03:19.429678Z",
+  "collectedAt": "2026-10-30T13:09:57.067366Z",
   "status": "no_feed",
   "diagnosticCode": "parsing_error",
   "method": "crawl4ai",
@@ -68,8 +68,106 @@
     }
   ],
   "message": "Pagina accessibile, ma nessuna notizia con data di pubblicazione verificabile.",
+  "candidateSamples": [
+    {
+      "url": "https://www.iss.it/-/comunicato-stampa-n-07/2025-intelligenza-artificiale-ed-etica-il-15-ottobre-lectio-magistralis-di-sua-eminenza-cardinale-pietro-parolin",
+      "title": "Comunicato Stampa N°07/2025 Intelligenza Artificiale ed etica, il 15 ottobre lectio magistralis di Sua Eminenza Cardinale Pietro Parolin",
+      "h1": "Comunicato Stampa N°07/2025 Intelligenza Artificiale ed etica, il 15 ottobre lectio magistralis di Sua Eminenza Cardinale Pietro Parolin",
+      "dates": [
+        {
+          "tag": "span",
+          "class": [
+            "date-info",
+            "iss-date-info"
+          ],
+          "text": "Pubblicato 13/10/2025 - Modificato 13/10/2025",
+          "datetime": null
+        }
+      ]
+    },
+    {
+      "url": "https://www.iss.it/-/comunicato-stampa-n-06/2025-diabete-e-celiachia-funziona-lo-screening-pilota-per-la-diagnosi-precoce-nei-bambini-al-via-la-fase-nazionale",
+      "title": "Comunicato Stampa N°06/2025 - Diabete e celiachia: funziona lo screening pilota per la diagnosi precoce nei bambini, al via la fase nazionale",
+      "h1": "Comunicato Stampa N°06/2025 - Diabete e celiachia: funziona lo screening pilota per la diagnosi precoce nei bambini, al via la fase nazionale",
+      "dates": [
+        {
+          "tag": "span",
+          "class": [
+            "date-info",
+            "iss-date-info"
+          ],
+          "text": "Pubblicato 01/07/2025 - Modificato 01/07/2025",
+          "datetime": null
+        }
+      ]
+    },
+    {
+      "url": "https://www.iss.it/-/comunicato-stampa-n-05/2025-una-bussola-per-le-perizie-medico-legali-e-ctu-un-gruppo-di-lavoro-coordinato-dall-istituto-superiore-di-sanita-produrra-le-prime-linee-guida-e-buone-pratiche-per-i-professionisti-del-settore",
+      "title": "Comunicato Stampa N°05/2025 Una bussola per le perizie medico legali e CTU, un Gruppo di lavoro coordinato dall’Istituto Superiore di Sanità produrrà le prime linee guida e buone pratiche per i professionisti del settore",
+      "h1": "Comunicato Stampa N°05/2025 Una bussola per le perizie medico legali e CTU, un Gruppo di lavoro coordinato dall’Istituto Superiore di Sanità produrrà ",
+      "dates": [
+        {
+          "tag": "span",
+          "class": [
+            "date-info",
+            "iss-date-info"
+          ],
+          "text": "Pubblicato 11/06/2025 - Modificato 16/02/2026",
+          "datetime": null
+        }
+      ]
+    },
+    {
+      "url": "https://www.iss.it/-/comunicato-stampa-n-04/2025-al-via-il-nuovo-comitato-etico-nazionale-per-le-sperimentazioni-degli-enti-di-ricerca-e-degli-enti-pubblici-nazionali",
+      "title": "Comunicato Stampa N°04/2025 Al via il nuovo Comitato Etico Nazionale per le sperimentazioni degli enti di ricerca e degli enti pubblici nazionali",
+      "h1": "Comunicato Stampa N°04/2025 Al via il nuovo Comitato Etico Nazionale per le sperimentazioni degli enti di ricerca e degli enti pubblici nazionali",
+      "dates": [
+        {
+          "tag": "span",
+          "class": [
+            "date-info",
+            "iss-date-info"
+          ],
+          "text": "Pubblicato 06/06/2025 - Modificato 06/06/2025",
+          "datetime": null
+        }
+      ]
+    },
+    {
+      "url": "https://www.iss.it/-/comunicato-stampa-n-02/2025-dichiarazione-del-presidente-dell-istituto-superiore-di-sanita-rocco-bellantone-sulla-conferma-del-presidente-fnomceo",
+      "title": "Comunicato Stampa N°01/2025 Dichiarazione del presidente dell'Istituto Superiore di Sanità Rocco Bellantone sulla conferma del presidente Fnomceo",
+      "h1": "Comunicato Stampa N°01/2025 Dichiarazione del presidente dell'Istituto Superiore di Sanità Rocco Bellantone sulla conferma del presidente Fnomceo",
+      "dates": [
+        {
+          "tag": "span",
+          "class": [
+            "date-info",
+            "iss-date-info"
+          ],
+          "text": "Pubblicato 27/01/2025 - Modificato 27/01/2025",
+          "datetime": null
+        }
+      ]
+    },
+    {
+      "url": "https://www.iss.it/-/comunicato-stampa-n-35/2024-al-via-un-progetto-per-la-fotografia-delle-infezioni-nelle-rsa-e-la-formazione-degli-operatori",
+      "title": "Comunicato Stampa N°35/2024 - Al via un progetto per la ‘fotografia’ delle infezioni nelle Rsa e la formazione degli operatori",
+      "h1": "Comunicato Stampa N°35/2024 - Al via un progetto per la ‘fotografia’ delle infezioni nelle Rsa e la formazione degli operatori",
+      "dates": [
+        {
+          "tag": "span",
+          "class": [
+            "date-info",
+            "iss-date-info"
+          ],
+          "text": "Pubblicato 24/09/2024 - Modificato 24/09/2024",
+          "datetime": null
+        }
+      ]
+    }
+  ],
   "candidateCount": 12,
   "datedCount": 0,
   "listingUrl": "https://www.iss.it/comunicati-stampa",
-  "durationSeconds": 7.58
+  "durationSeconds": 9.86
 }

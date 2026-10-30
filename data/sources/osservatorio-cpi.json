@@ -3,7 +3,7 @@
   "sourceId": "osservatorio-cpi",
   "originUrl": "https://osservatoriocpi.unicatt.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-30T13:03:26.504655Z",
+  "collectedAt": "2026-10-30T13:10:06.676040Z",
   "status": "no_feed",
   "diagnosticCode": "parsing_error",
   "method": "crawl4ai",
@@ -68,8 +68,148 @@
     }
   ],
   "message": "Pagina accessibile, ma nessuna notizia con data di pubblicazione verificabile.",
+  "candidateSamples": [
+    {
+      "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/rapporto-pisa-2025-la-scuola-italiana-va-meglio-della-media-ocse-ma-restano-forti-divari-interni.html",
+      "title": "Rapporto PISA 2025: la scuola italiana va meglio della media OCSE, ma restano forti divari interni",
+      "h1": "Rapporto PISA 2025: la scuola italiana va meglio della media OCSE, ma restano forti divari interni",
+      "dates": [
+        {
+          "tag": "span",
+          "class": [
+            "separator-date"
+          ],
+          "text": "|",
+          "datetime": null
+        },
+        {
+          "tag": "span",
+          "class": [
+            "separator-date"
+          ],
+          "text": "|",
+          "datetime": null
+        }
+      ]
+    },
+    {
+      "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/l-evoluzione-dei-disavanzi-sanitari-delle-regioni-a-statuto-ordinario.html",
+      "title": "L’evoluzione dei disavanzi sanitari delle Regioni a statuto ordinario",
+      "h1": "L’evoluzione dei disavanzi sanitari delle Regioni a statuto ordinario",
+      "dates": [
+        {
+          "tag": "span",
+          "class": [
+            "separator-date"
+          ],
+          "text": "|",
+          "datetime": null
+        },
+        {
+          "tag": "span",
+          "class": [
+            "separator-date"
+          ],
+          "text": "|",
+          "datetime": null
+        }
+      ]
+    },
+    {
+      "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/differenziale-i-g-oggi-soffrono-italia-e-francia-ma-il-quadro-potrebbe-peggiorare.html",
+      "title": "Differenziale (i-g): oggi soffrono Italia e Francia, ma il quadro potrebbe peggiorare",
+      "h1": "Differenziale (i-g): oggi soffrono Italia e Francia, ma il quadro potrebbe peggiorare",
+      "dates": [
+        {
+          "tag": "span",
+          "class": [
+            "separator-date"
+          ],
+          "text": "|",
+          "datetime": null
+        },
+        {
+          "tag": "span",
+          "class": [
+            "separator-date"
+          ],
+          "text": "|",
+          "datetime": null
+        }
+      ]
+    },
+    {
+      "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/la-crescita-dell-italia-ancora-anemica.html",
+      "title": "La crescita dell’Italia, ancora anemica",
+      "h1": "La crescita dell’Italia, ancora anemica",
+      "dates": [
+        {
+          "tag": "span",
+          "class": [
+            "separator-date"
+          ],
+          "text": "|",
+          "datetime": null
+        },
+        {
+          "tag": "span",
+          "class": [
+            "separator-date"
+          ],
+          "text": "|",
+          "datetime": null
+        }
+      ]
+    },
+    {
+      "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/pnrr-e-divari-infrastrutturali-dove-vanno-gli-investimenti.html",
+      "title": "PNRR e divari infrastrutturali: dove vanno gli investimenti?",
+      "h1": "PNRR e divari infrastrutturali: dove vanno gli investimenti?",
+      "dates": [
+        {
+          "tag": "span",
+          "class": [
+            "separator-date"
+          ],
+          "text": "|",
+          "datetime": null
+        },
+        {
+          "tag": "span",
+          "class": [
+            "separator-date"
+          ],
+          "text": "|",
+          "datetime": null
+        }
+      ]
+    },
+    {
+      "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/meno-alunni-piu-insegnanti-come-cambiera-il-rapporto-studenti-docenti-in-italia.html",
+      "title": "Meno alunni, più insegnanti: come cambierà il rapporto studenti/docenti in Italia",
+      "h1": "Meno alunni, più insegnanti: come cambierà il rapporto studenti/docenti in Italia",
+      "dates": [
+        {
+          "tag": "span",
+          "class": [
+            "separator-date"
+          ],
+          "text": "|",
+          "datetime": null
+        },
+        {
+          "tag": "span",
+          "class": [
+            "separator-date"
+          ],
+          "text": "|",
+          "datetime": null
+        }
+      ]
+    }
+  ],
   "candidateCount": 12,
   "datedCount": 0,
   "listingUrl": "https://osservatoriocpi.unicatt.it/pubblicazioni.html",
-  "durationSeconds": 4.54
+  "durationSeconds": 5.79
 }

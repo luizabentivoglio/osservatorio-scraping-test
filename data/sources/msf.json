@@ -3,7 +3,7 @@
   "sourceId": "msf",
   "originUrl": "https://www.medicisenzafrontiere.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-30T13:03:24.710069Z",
+  "collectedAt": "2026-10-30T13:10:03.808907Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -87,8 +87,9 @@
     }
   ],
   "message": "6 notizie recenti con data verificata; copertura parziale.",
+  "candidateSamples": [],
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.medicisenzafrontiere.it/",
-  "durationSeconds": 1.75
+  "durationSeconds": 2.37
 }

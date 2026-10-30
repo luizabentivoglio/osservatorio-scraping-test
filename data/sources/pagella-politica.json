@@ -3,12 +3,55 @@
   "sourceId": "pagella-politica",
   "originUrl": "https://pagellapolitica.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-30T13:03:41.381993Z",
-  "status": "no_feed",
-  "diagnosticCode": "parsing_error",
-  "method": "crawl4ai",
+  "collectedAt": "2026-10-30T13:10:17.973483Z",
+  "status": "ok",
+  "diagnosticCode": null,
+  "method": "trafilatura",
   "feedUrl": null,
-  "items": [],
+  "items": [
+    {
+      "title": "Così l’Europa vuole rimpatriare i migranti prima ancora che arrivino in Europa",
+      "url": "https://pagellapolitica.it/articoli/europa-rimpatrio-migranti-frontex",
+      "excerpt": "Tramite Frontex, la Commissione UE ha proposto di favorire i rimpatri tra Paesi esterni all’Unione. È una strategia...",
+      "publishedAt": "2026-10-30T00:00:00Z",
+      "dateEvidence": "html:post-date"
+    },
+    {
+      "title": "Inneggiare ad Hamas è reato?",
+      "url": "https://pagellapolitica.it/articoli/inneggiare-hamas-reato-acerbo",
+      "excerpt": "Secondo il leader di Rifondazione Comunista Maurizio Acerbo, inneggiare all’organizzazione palestinese o agli...",
+      "publishedAt": "2026-10-28T00:00:00Z",
+      "dateEvidence": "html:post-date"
+    },
+    {
+      "title": "Perché lo spread basso non basta a risolvere i problemi del debito pubblico",
+      "url": "https://pagellapolitica.it/articoli/spread-italia-basso",
+      "excerpt": "Per anni si è parlato di quanto fosse importante ridurlo: e durante il governo Meloni si è dimezzato. Eppure, i...",
+      "publishedAt": "2026-10-28T00:00:00Z",
+      "dateEvidence": "html:post-date"
+    },
+    {
+      "title": "Le difficoltà degli agricoltori vanno ben oltre il caro gasolio",
+      "url": "https://pagellapolitica.it/articoli/agricoltori-proteste-difficolta-caro-gasolio",
+      "excerpt": "Abbiamo parlato con agricoltori e sindacalisti, che ci hanno spiegato come l’aumento dei costi di produzione abbia...",
+      "publishedAt": "2026-10-27T00:00:00Z",
+      "dateEvidence": "html:post-date"
+    },
+    {
+      "title": "Non c’è traccia dell’ultima parte del programma di Futuro Nazionale",
+      "url": "https://pagellapolitica.it/articoli/terza-parte-programma-vannacci-futuro-nazionale",
+      "excerpt": "Il partito ha pubblicato le prime due in pochi giorni ad agosto, mentre da ormai due mesi manca la terza, sebbene...",
+      "publishedAt": "2026-10-27T00:00:00Z",
+      "dateEvidence": "html:post-date"
+    },
+    {
+      "title": "Quello che non torna del discorso di Conte sulla sicurezza",
+      "url": "https://pagellapolitica.it/articoli/conte-sicurezza-fact-checking",
+      "excerpt": "Dalle norme sulle manifestazioni alle regole contro il burqa, abbiamo verificato sei dichiarazioni del presidente...",
+      "publishedAt": "2026-10-26T00:00:00Z",
+      "dateEvidence": "html:post-date"
+    }
+  ],
   "attempts": [
     {
       "url": "https://pagellapolitica.it/robots.txt",
@@ -19,57 +62,34 @@
       "status": 200
     },
     {
-      "url": "https://pagellapolitica.it/articoli/meloni-siher",
-      "status": 200
-    },
-    {
-      "url": "https://pagellapolitica.it/articoli/medici-no-vax-disegno-di-legge-camera",
-      "status": 200
-    },
-    {
-      "url": "https://pagellapolitica.it/articoli/manovra-governo-meloni-2027",
-      "status": 200
-    },
-    {
-      "url": "https://pagellapolitica.it/articoli/deputato-avs-foto-falsa-manifestazioni",
-      "status": 200
-    },
-    {
-      "url": "https://pagellapolitica.it/articoli/governo-nuovo-taglio-gasolio-accise",
-      "status": 200
-    },
-    {
       "url": "https://pagellapolitica.it/articoli/europa-rimpatrio-migranti-frontex",
       "status": 200
     },
     {
-      "url": "https://pagellapolitica.it/articoli/meloni-siher",
+      "url": "https://pagellapolitica.it/articoli/inneggiare-hamas-reato-acerbo",
       "status": 200
     },
     {
-      "url": "https://pagellapolitica.it/articoli/medici-no-vax-disegno-di-legge-camera",
+      "url": "https://pagellapolitica.it/articoli/spread-italia-basso",
       "status": 200
     },
     {
-      "url": "https://pagellapolitica.it/articoli/manovra-governo-meloni-2027",
+      "url": "https://pagellapolitica.it/articoli/agricoltori-proteste-difficolta-caro-gasolio",
       "status": 200
     },
     {
-      "url": "https://pagellapolitica.it/articoli/deputato-avs-foto-falsa-manifestazioni",
+      "url": "https://pagellapolitica.it/articoli/terza-parte-programma-vannacci-futuro-nazionale",
       "status": 200
     },
     {
-      "url": "https://pagellapolitica.it/articoli/governo-nuovo-taglio-gasolio-accise",
-      "status": 200
-    },
-    {
-      "url": "https://pagellapolitica.it/articoli/europa-rimpatrio-migranti-frontex",
+      "url": "https://pagellapolitica.it/articoli/conte-sicurezza-fact-checking",
       "status": 200
     }
   ],
-  "message": "Pagina accessibile, ma nessuna notizia con data di pubblicazione verificabile.",
-  "candidateCount": 12,
-  "datedCount": 0,
+  "message": "6 notizie recenti con data verificata; copertura parziale.",
+  "candidateSamples": [],
+  "candidateCount": 6,
+  "datedCount": 6,
   "listingUrl": "https://pagellapolitica.it/articoli",
-  "durationSeconds": 6.08
+  "durationSeconds": 7.7
 }

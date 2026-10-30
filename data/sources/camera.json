@@ -3,7 +3,7 @@
   "sourceId": "camera",
   "originUrl": "https://www.camera.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-30T13:02:30.862736Z",
+  "collectedAt": "2026-10-30T13:08:51.469920Z",
   "status": "no_feed",
   "diagnosticCode": "parsing_error",
   "method": "crawl4ai",
@@ -80,10 +80,114 @@
     }
   ],
   "message": "Pagina accessibile, ma nessuna notizia con data di pubblicazione verificabile.",
+  "candidateSamples": [
+    {
+      "url": "https://www.camera.it/leg19/1?active_tab_27538=27542",
+      "title": "Bicamerali e di inchiesta",
+      "h1": "Camera dei deputati",
+      "dates": [
+        {
+          "tag": "p",
+          "class": [
+            "data"
+          ],
+          "text": "28 Ottobre 2026",
+          "datetime": null
+        },
+        {
+          "tag": "p",
+          "class": [
+            "data"
+          ],
+          "text": "30 Ottobre 2026",
+          "datetime": null
+        },
+        {
+          "tag": "p",
+          "class": [
+            "data"
+          ],
+          "text": "27 Agosto 2026",
+          "datetime": null
+        },
+        {
+          "tag": "p",
+          "class": [
+            "data"
+          ],
+          "text": "27 Ottobre 2026",
+          "datetime": null
+        }
+      ]
+    },
+    {
+      "url": "https://www.camera.it/leg19/1?active_tab_27538=27545",
+      "title": "Giunte Comitati - Delegazioni",
+      "h1": "Camera dei deputati",
+      "dates": [
+        {
+          "tag": "p",
+          "class": [
+            "data"
+          ],
+          "text": "28 Ottobre 2026",
+          "datetime": null
+        },
+        {
+          "tag": "p",
+          "class": [
+            "data"
+          ],
+          "text": "30 Ottobre 2026",
+          "datetime": null
+        },
+        {
+          "tag": "p",
+          "class": [
+            "data"
+          ],
+          "text": "27 Agosto 2026",
+          "datetime": null
+        },
+        {
+          "tag": "p",
+          "class": [
+            "data"
+          ],
+          "text": "27 Ottobre 2026",
+          "datetime": null
+        }
+      ]
+    },
+    {
+      "url": "https://www.camera.it/leg19/43",
+      "title": "Organi Parlamentari",
+      "h1": "Camera dei deputati",
+      "dates": []
+    },
+    {
+      "url": "https://www.camera.it/leg19/141",
+      "title": "Progetti di legge",
+      "h1": "Camera dei deputati",
+      "dates": []
+    },
+    {
+      "url": "https://www.camera.it/leg19/577",
+      "title": "Ultimi Decreti legge esaminati",
+      "h1": "Camera dei deputati",
+      "dates": []
+    },
+    {
+      "url": "https://www.camera.it/leg19/168",
+      "title": "Doc parlamentari",
+      "h1": "Camera dei deputati",
+      "dates": []
+    }
+  ],
   "candidateCount": 12,
   "datedCount": 0,
   "listingUrl": "https://www.camera.it/leg19/1",
-  "durationSeconds": 17.49,
+  "durationSeconds": 20.26,
   "attemptErrors": [
     {
       "url": "https://www.camera.it/leg19/feeds/16/521.xml",

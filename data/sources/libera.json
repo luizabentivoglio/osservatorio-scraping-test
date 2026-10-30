@@ -3,7 +3,7 @@
   "sourceId": "libera",
   "originUrl": "https://www.libera.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-30T13:03:24.423914Z",
+  "collectedAt": "2026-10-30T13:10:01.341693Z",
   "status": "no_feed",
   "diagnosticCode": "parsing_error",
   "method": "crawl4ai",
@@ -68,8 +68,46 @@
     }
   ],
   "message": "Pagina accessibile, ma nessuna notizia con data di pubblicazione verificabile.",
+  "candidateSamples": [
+    {
+      "url": "https://www.libera.it/it-schede-609-tesseramento",
+      "title": "Tesserati con noi!",
+      "h1": "Tenersi insieme è rivoluzionario",
+      "dates": []
+    },
+    {
+      "url": "https://www.libera.it/it-schede-2831-tracce_libere",
+      "title": "Tracce Libere seconda edizione",
+      "h1": "Tracce Libere. Seconda edizione",
+      "dates": []
+    },
+    {
+      "url": "https://www.libera.it/it-schede-2870-report_foia_libera_trasparenza_milano_marche_campania",
+      "title": "Fame di sapere",
+      "h1": "Abbiamo “Fame di sapere”",
+      "dates": []
+    },
+    {
+      "url": "https://www.libera.it/it-schede-2868-impronte_di_memoria_cammini_di_giustizia",
+      "title": "Impronte di memoria e cammini di giustizia",
+      "h1": "Impronte di Memoria, Cammini di Giustizia",
+      "dates": []
+    },
+    {
+      "url": "https://www.libera.it/it-schede-2866-open_olympics_2026_il_quarto_report_dopo_i_giochi_restano_aperte_le_questioni_su_costi_tempi_e_tr",
+      "title": "OPEN OLYMPICS 2026: il quarto report",
+      "h1": "Open Olympics 2026: il quarto report",
+      "dates": []
+    },
+    {
+      "url": "https://www.libera.it/it-schede-1589-primo_centro_di_documentazione_tematico_sui_temi_della_lotta_alle_mafie_e_alla_corruzione",
+      "title": "Un Patrimonio di Memoria e Giustizia",
+      "h1": "Un Patrimonio di Memoria e Giustizia",
+      "dates": []
+    }
+  ],
   "candidateCount": 12,
   "datedCount": 0,
   "listingUrl": "https://www.libera.it/",
-  "durationSeconds": 5.45
+  "durationSeconds": 5.8
 }

@@ -3,14 +3,14 @@
   "sourceId": "la-stampa",
   "originUrl": "https://www.lastampa.it/",
   "configuredFeedUrl": "https://www.lastampa.it/rss/copertina.xml",
-  "collectedAt": "2026-10-30T13:03:20.511587Z",
+  "collectedAt": "2026-10-30T13:10:00.024814Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.lastampa.it/rss/copertina.xml",
   "items": [
     {
-      "title": "Scontri in piazza Castello a Torino: manifestanti e polizia a pochi centimetri, poi carica e idranti",
+      "title": "Torino, manifestanti e polizia a pochi centimetri, poi carica e idranti",
       "url": "https://www.lastampa.it/torino/2026/10/30/video/scontri_in_piazza_castello_a_torino_manifestanti_e_polizia_a_pochi_centimetri_poi_carica_e_idranti-15783065/",
       "excerpt": "Momenti di forte tensione in piazza Castello, a Torino, davanti alla Prefettura, durante le manifestazioni del 30 ottobre. I partecipanti in testa al corteo, dietro lo striscione di apertura, si sono avvicinati fino a pochi centimetri dal cordone delle forze dell'ordine schierato a protezione dell'edificio, mentre dall",
       "publishedAt": "2026-10-30T12:00:00Z",
@@ -138,7 +138,7 @@
     {
       "title": "Paura a Savona: fiamme in un alloggio di un condominio, un ferito ed evacuato il palazzo",
       "url": "https://www.lastampa.it/savona/2026/10/30/news/paura_a_savona_in_fiamme_in_un_alloggio_di_un_condominio_evacuato_il_palazzo-15782729/",
-      "excerpt": "L’allarme alle 8 in via Torino, mobilitati i vigili del fuoco. Sette persone allontanate dall’edificio, un gatto ha avuto bisogno di cure veterinarie",
+      "excerpt": "L’allarme alle 8 in via Torino, mobilitati i vigili del fuoco. Sette persone allontanate dall’edificio, gravi i danni.",
       "publishedAt": "2026-10-30T07:10:00Z",
       "dateEvidence": "feed:published"
     },
@@ -301,5 +301,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 0.63
+  "durationSeconds": 1.25
 }

@@ -3,7 +3,7 @@
   "sourceId": "il-post",
   "originUrl": "https://www.ilpost.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-30T13:03:17.905996Z",
+  "collectedAt": "2026-10-30T13:09:56.872859Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -87,8 +87,9 @@
     }
   ],
   "message": "6 notizie recenti con data verificata; copertura parziale.",
+  "candidateSamples": [],
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.ilpost.it/",
-  "durationSeconds": 1.06
+  "durationSeconds": 0.61
 }

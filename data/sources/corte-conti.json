@@ -3,7 +3,7 @@
   "sourceId": "corte-conti",
   "originUrl": "https://www.corteconti.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-30T13:03:00.818340Z",
+  "collectedAt": "2026-10-30T13:09:33.336143Z",
   "status": "no_feed",
   "diagnosticCode": "parsing_error",
   "method": "crawl4ai",
@@ -68,8 +68,46 @@
     }
   ],
   "message": "Pagina accessibile, ma nessuna notizia con data di pubblicazione verificabile.",
+  "candidateSamples": [
+    {
+      "url": "https://www.corteconti.it/HOME/StampaMedia/Notizie/DettaglioNotizia?Id=38ced3e9-9789-4477-ac77-9c16969ca70b",
+      "title": "11-13/11 CONVEGNO DI STUDI “GIUSTIZIA AL SERVIZIO DEL PAESE - STATO COSTITUZIONALE E ISTITUZIONI DI GARANZIA” Leggi di più",
+      "h1": "Corte dei conti",
+      "dates": []
+    },
+    {
+      "url": "https://www.corteconti.it/HOME/StampaMedia/Notizie/DettaglioNotizia?Id=619e65b0-a960-45c0-a2c8-b6efa92c8e99",
+      "title": "12/10 AUDIZIONE PARLAMENTARE DELLA CORTE DEI CONTI NELL’AMBITO DELL’ATTIVITÀ CONOSCITIVA PRELIMINARE ALL’ESAME DEL DOCUMENTO PROGRAMMATICO DI FINANZA PUBBLICA 2026 Leggi di più",
+      "h1": "Corte dei conti",
+      "dates": []
+    },
+    {
+      "url": "https://www.corteconti.it/HOME/StampaMedia/Notizie/DettaglioNotizia?Id=89692fb9-8dee-4121-b796-288cd3767608",
+      "title": "24/06 GIUDIZIO DI PARIFICAZIONE DEL RENDICONTO GENERALE DELLO STATO PER L’ESERCIZIO FINANZIARIO 2025 Leggi di più",
+      "h1": "Corte dei conti",
+      "dates": []
+    },
+    {
+      "url": "https://www.corteconti.it/HOME/StampaMedia/Notizie/DettaglioNotizia?Id=04a4b7cd-d77f-49e7-b9b7-e24fe8edac7f",
+      "title": "PNRR, CORTE CONTI: LO STATO DI ATTUAZIONE AL II SEMESTRE 2025 Leggi di più",
+      "h1": "Corte dei conti",
+      "dates": []
+    },
+    {
+      "url": "https://www.corteconti.it/HOME/StampaMedia/Notizie/DettaglioNotizia?Id=9ee0167b-16be-4979-9dce-3bdb4a77219d",
+      "title": "28/04 AUDIZIONE PRELIMINARE DELLA CORTE DEI CONTI NELL’AMBITO DELL’ESAME DEL DOCUMENTO DI FINANZA PUBBLICA 2026 Leggi di più",
+      "h1": "Corte dei conti",
+      "dates": []
+    },
+    {
+      "url": "https://www.corteconti.it/HOME/StampaMedia/Notizie/DettaglioNotizia?Id=cc1b9342-d394-4977-b29c-d20db1e07d10",
+      "title": "21-22/10 A PRISTINA (KOSOVO) LA QUARTA RIUNIONE DEL GRUPPO DI LAVORO EUROSAI SU BENEFICI E METODOLOGIE DEL REAL TIME AUDIT Leggi di più",
+      "h1": "Corte dei conti",
+      "dates": []
+    }
+  ],
   "candidateCount": 12,
   "datedCount": 0,
   "listingUrl": "https://www.corteconti.it/",
-  "durationSeconds": 3.25
+  "durationSeconds": 4.55
 }

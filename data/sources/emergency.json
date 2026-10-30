@@ -3,7 +3,7 @@
   "sourceId": "emergency",
   "originUrl": "https://www.emergency.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-30T13:03:08.677345Z",
+  "collectedAt": "2026-10-30T13:09:47.377574Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -44,8 +44,61 @@
     }
   ],
   "message": "0 notizie recenti con data verificata; copertura parziale.",
+  "candidateSamples": [
+    {
+      "url": "https://www.emergency.it/io-obietto/",
+      "title": "“io obietto”: firma la LIP per il diritto all’obiezione di coscienza alla guerra",
+      "h1": null,
+      "dates": []
+    },
+    {
+      "url": "https://www.emergency.it/tessera/",
+      "title": "Fai la Tessera di EMERGENCY",
+      "h1": "Tessera di EMERGENCY",
+      "dates": []
+    },
+    {
+      "url": "https://www.emergency.it/progetti/gaza-assistenza-sanitaria/",
+      "title": "Scopri il nostro lavoro a Gaza",
+      "h1": "Gaza: assistenza sanitaria di base alla popolazione della Striscia",
+      "dates": [
+        {
+          "tag": "p",
+          "class": [
+            "entry-date"
+          ],
+          "text": "27 Ottobre 2026",
+          "datetime": null
+        },
+        {
+          "tag": "p",
+          "class": [
+            "entry-date"
+          ],
+          "text": "15 Ottobre 2026",
+          "datetime": null
+        },
+        {
+          "tag": "p",
+          "class": [
+            "entry-date"
+          ],
+          "text": "10 Marzo 2026",
+          "datetime": null
+        },
+        {
+          "tag": "p",
+          "class": [
+            "entry-date"
+          ],
+          "text": "22 Gennaio 2026",
+          "datetime": null
+        }
+      ]
+    }
+  ],
   "candidateCount": 8,
   "datedCount": 3,
   "listingUrl": "https://www.emergency.it/",
-  "durationSeconds": 6.67
+  "durationSeconds": 5.19
 }

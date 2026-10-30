@@ -3,7 +3,7 @@
   "sourceId": "cisl",
   "originUrl": "https://www.cisl.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-30T13:02:30.839437Z",
+  "collectedAt": "2026-10-30T13:08:51.307861Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
@@ -305,5 +305,5 @@
     }
   ],
   "message": "Feed dichiarato dalla fonte; date di pubblicazione verificate.",
-  "durationSeconds": 3.4
+  "durationSeconds": 4.58
 }

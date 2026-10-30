@@ -3,7 +3,7 @@
   "sourceId": "partito-liberaldemocratico",
   "originUrl": "https://partitoliberaldemocratico.com/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-30T13:03:44.889394Z",
+  "collectedAt": "2026-10-30T13:10:27.201752Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -73,8 +73,22 @@
     }
   ],
   "message": "4 notizie recenti con data verificata; copertura parziale.",
+  "candidateSamples": [
+    {
+      "url": "https://partitoliberaldemocratico.com/proposte/",
+      "title": "Le Nostre Campagne",
+      "h1": "Proposte concrete",
+      "dates": []
+    },
+    {
+      "url": "https://partitoliberaldemocratico.com/tesseramento/",
+      "title": "Tesseramento",
+      "h1": "T e s s e r a m e n t o",
+      "dates": []
+    }
+  ],
   "candidateCount": 9,
   "datedCount": 4,
   "listingUrl": "https://partitoliberaldemocratico.com/",
-  "durationSeconds": 3.26
+  "durationSeconds": 7.71
 }

@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T13:04:09.548190+00:00",
+  "generatedAt": "2026-10-30T13:10:45.628568+00:00",
   "sourceCount": 67,
   "ok": 28,
-  "items": 174,
+  "items": 167,
   "results": [
     {
       "sourceId": "amnesty",
@@ -77,13 +77,13 @@
     },
     {
       "sourceId": "cnr",
-      "status": "ok",
-      "method": "rss",
-      "diagnosticCode": null,
-      "message": "Feed ufficiale letto; date di pubblicazione verificate.",
+      "status": "error",
+      "method": "html",
+      "diagnosticCode": "connection_error",
+      "message": "SSLError",
       "candidateCount": null,
       "datedCount": null,
-      "itemCount": 18
+      "itemCount": 0
     },
     {
       "sourceId": "coldiretti",
@@ -192,7 +192,7 @@
       "diagnosticCode": null,
       "message": "0 notizie recenti con data verificata; copertura parziale.",
       "candidateCount": 3,
-      "datedCount": 1,
+      "datedCount": 3,
       "itemCount": 0
     },
     {
@@ -257,12 +257,12 @@
     },
     {
       "sourceId": "futuro-nazionale",
-      "status": "blocked",
+      "status": "error",
       "method": "html",
-      "diagnosticCode": "access_restricted",
-      "message": "Verifica interattiva richiesta",
-      "candidateCount": 0,
-      "datedCount": 0,
+      "diagnosticCode": "response_too_large",
+      "message": "Risposta oltre 3 MB",
+      "candidateCount": null,
+      "datedCount": null,
       "itemCount": 0
     },
     {
@@ -487,13 +487,13 @@
     },
     {
       "sourceId": "pagella-politica",
-      "status": "no_feed",
-      "method": "crawl4ai",
-      "diagnosticCode": "parsing_error",
-      "message": "Pagina accessibile, ma nessuna notizia con data di pubblicazione verificabile.",
-      "candidateCount": 12,
-      "datedCount": 0,
-      "itemCount": 0
+      "status": "ok",
+      "method": "trafilatura",
+      "diagnosticCode": null,
+      "message": "6 notizie recenti con data verificata; copertura parziale.",
+      "candidateCount": 6,
+      "datedCount": 6,
+      "itemCount": 6
     },
     {
       "sourceId": "palazzo-chigi",
@@ -570,10 +570,10 @@
       "status": "ok",
       "method": "trafilatura",
       "diagnosticCode": null,
-      "message": "1 notizie recenti con data verificata; copertura parziale.",
+      "message": "6 notizie recenti con data verificata; copertura parziale.",
       "candidateCount": 12,
-      "datedCount": 1,
-      "itemCount": 1
+      "datedCount": 6,
+      "itemCount": 6
     },
     {
       "sourceId": "pri",
@@ -587,10 +587,10 @@
     },
     {
       "sourceId": "quirinale",
-      "status": "blocked",
-      "method": "html",
-      "diagnosticCode": "access_restricted",
-      "message": "Verifica interattiva richiesta",
+      "status": "no_feed",
+      "method": "crawl4ai",
+      "diagnosticCode": "parsing_error",
+      "message": "Pagina accessibile, ma nessuna notizia con data di pubblicazione verificabile.",
       "candidateCount": 12,
       "datedCount": 0,
       "itemCount": 0

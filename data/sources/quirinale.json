@@ -3,10 +3,10 @@
   "sourceId": "quirinale",
   "originUrl": "https://www.quirinale.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-30T13:03:54.266907Z",
-  "status": "blocked",
-  "diagnosticCode": "access_restricted",
-  "method": "html",
+  "collectedAt": "2026-10-30T13:10:31.976310Z",
+  "status": "no_feed",
+  "diagnosticCode": "parsing_error",
+  "method": "crawl4ai",
   "feedUrl": null,
   "items": [],
   "attempts": [
@@ -41,11 +41,215 @@
     {
       "url": "https://www.quirinale.it/it/notizie/nostra-repubblica-compie-ottant-anni-1",
       "status": 200
+    },
+    {
+      "url": "https://www.quirinale.it/it/notizie/cordoglio-presidente-mattarella-per-vittime-incidente-elicottero-militare-italiano-precipitato-bosnia",
+      "status": 200
+    },
+    {
+      "url": "https://www.quirinale.it/it/notizie/mattarella-cerimonia-per-85-anniversario-snam",
+      "status": 200
+    },
+    {
+      "url": "https://www.quirinale.it/it/notizie/messaggio-presidente-repubblica-occasione-102-edizione-giornata-mondiale-risparmio",
+      "status": 200
+    },
+    {
+      "url": "https://www.quirinale.it/it/notizie/mattarella-riceve-presidente-repubblica-costa-rica",
+      "status": 200
+    },
+    {
+      "url": "https://www.quirinale.it/it/notizie/mattarella-consegna-premi-eni-award-2026",
+      "status": 200
+    },
+    {
+      "url": "https://www.quirinale.it/it/notizie/nostra-repubblica-compie-ottant-anni-1",
+      "status": 200
     }
   ],
-  "message": "Verifica interattiva richiesta",
+  "message": "Pagina accessibile, ma nessuna notizia con data di pubblicazione verificabile.",
+  "candidateSamples": [
+    {
+      "url": "https://www.quirinale.it/it/notizie/cordoglio-presidente-mattarella-per-vittime-incidente-elicottero-militare-italiano-precipitato-bosnia",
+      "title": "Cordoglio del Presidente Mattarella per le vittime dell'incidente dell'elicottero militare italiano precipitato in Bosnia «Ho appreso con profonda commozione la notizia del decesso dei militari occorso nel tragico incidente elicotteristico in teatro operativo bosniaco nell’ambito dell’operazione “Al",
+      "h1": "Cordoglio del Presidente Mattarella per le vittime dell'incidente dell'elicottero militare italiano precipitato in Bosnia",
+      "dates": [
+        {
+          "tag": "p",
+          "class": [
+            "date-label"
+          ],
+          "text": "Roma, 29/10/2026 (II mandato)",
+          "datetime": null
+        }
+      ]
+    },
+    {
+      "url": "https://www.quirinale.it/it/notizie/mattarella-cerimonia-per-85-anniversario-snam",
+      "title": "Il Presidente della Repubblica Sergio Mattarella con Alessandro Zehentner, Presidente di SNAM, Agostino Scornajenchi, Amministratore delegato di SNAM, in occasione della cerimonia dell'85° anniversario di costituzione di SNAM",
+      "h1": "Mattarella alla cerimonia per l'85° anniversario di SNAM",
+      "dates": [
+        {
+          "tag": "p",
+          "class": [
+            "date-label"
+          ],
+          "text": "Roma, 30/10/2026 (II mandato)",
+          "datetime": null
+        }
+      ]
+    },
+    {
+      "url": "https://www.quirinale.it/it/notizie/messaggio-presidente-repubblica-occasione-102-edizione-giornata-mondiale-risparmio",
+      "title": "foto d'archivio",
+      "h1": "Messaggio del Presidente della Repubblica in occasione della 102^ edizione della Giornata Mondiale del Risparmio",
+      "dates": [
+        {
+          "tag": "p",
+          "class": [
+            "date-label"
+          ],
+          "text": "Roma, 30/10/2026 (II mandato)",
+          "datetime": null
+        }
+      ]
+    },
+    {
+      "url": "https://www.quirinale.it/it/notizie/mattarella-riceve-presidente-repubblica-costa-rica",
+      "title": "Il Presidente Sergio Mattarella con Fernandez Delgado Presidente della Repubblica di Costa Rica",
+      "h1": "Mattarella riceve la Presidente della Repubblica di Costa Rica",
+      "dates": [
+        {
+          "tag": "p",
+          "class": [
+            "date-label"
+          ],
+          "text": "Roma, 29/10/2026 (II mandato)",
+          "datetime": null
+        }
+      ]
+    },
+    {
+      "url": "https://www.quirinale.it/it/notizie/mattarella-consegna-premi-eni-award-2026",
+      "title": "Il Presidente della Repubblica Sergio Mattarella in occasione della Cerimonia di premiazione dei vincitori Eni Award 2026",
+      "h1": "Mattarella consegna i \"Premi Eni Award 2026\"",
+      "dates": [
+        {
+          "tag": "span",
+          "class": [
+            "data-luogo"
+          ],
+          "text": "Palazzo del Quirinale, 29/10/2026 (II mandato)",
+          "datetime": null
+        },
+        {
+          "tag": "span",
+          "class": [
+            "data-luogo"
+          ],
+          "text": "Palazzo del Quirinale, 29/10/2026 (II mandato)",
+          "datetime": null
+        },
+        {
+          "tag": "span",
+          "class": [
+            "data-luogo"
+          ],
+          "text": "Palazzo del Quirinale, 29/10/2026 (II mandato)",
+          "datetime": null
+        },
+        {
+          "tag": "span",
+          "class": [
+            "data-luogo"
+          ],
+          "text": "Palazzo del Quirinale, 29/10/2026 (II mandato)",
+          "datetime": null
+        },
+        {
+          "tag": "span",
+          "class": [
+            "data-luogo"
+          ],
+          "text": "Palazzo del Quirinale, 29/10/2026 (II mandato)",
+          "datetime": null
+        },
+        {
+          "tag": "span",
+          "class": [
+            "data-luogo"
+          ],
+          "text": "Palazzo del Quirinale, 29/10/2026 (II mandato)",
+          "datetime": null
+        },
+        {
+          "tag": "span",
+          "class": [
+            "data-luogo"
+          ],
+          "text": "Palazzo del Quirinale, 29/10/2026 (II mandato)",
+          "datetime": null
+        },
+        {
+          "tag": "span",
+          "class": [
+            "data-luogo"
+          ],
+          "text": "Palazzo del Quirinale, 29/10/2026 (II mandato)",
+          "datetime": null
+        },
+        {
+          "tag": "span",
+          "class": [
+            "data-luogo"
+          ],
+          "text": "Palazzo del Quirinale, 29/10/2026 (II mandato)",
+          "datetime": null
+        },
+        {
+          "tag": "span",
+          "class": [
+            "data-luogo"
+          ],
+          "text": "Palazzo del Quirinale, 29/10/2026 (II mandato)",
+          "datetime": null
+        },
+        {
+          "tag": "span",
+          "class": [
+            "data-luogo"
+          ],
+          "text": "Palazzo del Quirinale, 29/10/2026 (II mandato)",
+          "datetime": null
+        },
+        {
+          "tag": "span",
+          "class": [
+            "data-luogo"
+          ],
+          "text": "Palazzo del Quirinale, 29/10/2026 (II mandato)",
+          "datetime": null
+        }
+      ]
+    },
+    {
+      "url": "https://www.quirinale.it/it/notizie/nostra-repubblica-compie-ottant-anni-1",
+      "title": "I Volti della Repubblica",
+      "h1": "La nostra Repubblica compie Ottant’anni",
+      "dates": [
+        {
+          "tag": "p",
+          "class": [
+            "date-label"
+          ],
+          "text": "Roma, 24/05/2026 (II mandato)",
+          "datetime": null
+        }
+      ]
+    }
+  ],
   "candidateCount": 12,
   "datedCount": 0,
   "listingUrl": "https://www.quirinale.it/",
-  "durationSeconds": 2.18
+  "durationSeconds": 4.28
 }

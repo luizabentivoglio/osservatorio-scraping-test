@@ -3,7 +3,7 @@
   "sourceId": "wwf",
   "originUrl": "https://www.wwf.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-30T13:04:03.860971Z",
+  "collectedAt": "2026-10-30T13:10:40.182281Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -87,8 +87,9 @@
     }
   ],
   "message": "6 notizie recenti con data verificata; copertura parziale.",
+  "candidateSamples": [],
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.wwf.it/",
-  "durationSeconds": 3.09
+  "durationSeconds": 4.1
 }

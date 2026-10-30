@@ -3,7 +3,7 @@
   "sourceId": "confindustria",
   "originUrl": "https://www.confindustria.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-30T13:02:40.667430Z",
+  "collectedAt": "2026-10-30T13:09:03.720866Z",
   "status": "no_feed",
   "diagnosticCode": "parsing_error",
   "method": "crawl4ai",
@@ -84,8 +84,46 @@
     }
   ],
   "message": "Pagina accessibile, ma nessuna notizia con data di pubblicazione verificabile.",
+  "candidateSamples": [
+    {
+      "url": "https://www.confindustria.it/news/artigianato-orsini-stessi-diritti-e-stesse-regole-per-chi-svolge-la-stessa-attivita",
+      "title": "Artigianato, Orsini: “Stessi diritti e stesse regole per chi svolge la stessa attività”",
+      "h1": "Artigianato, Orsini: “Stessi diritti e stesse regole per chi svolge la stessa attività”",
+      "dates": []
+    },
+    {
+      "url": "https://www.confindustria.it/pubblicazioni/italia-il-2026-sorprende-al-rialzo-ma-la-crescita-rallenta-a-fine-anno",
+      "title": "Vai alla Congiuntura Flash",
+      "h1": "Italia, il 2026 sorprende al rialzo ma la crescita rallenta a fine anno",
+      "dates": []
+    },
+    {
+      "url": "https://www.confindustria.it/news",
+      "title": "Tutte le Stories",
+      "h1": "Confindustria Stories",
+      "dates": []
+    },
+    {
+      "url": "https://www.confindustria.it/progetti/connext-2-0-filiere",
+      "title": "Scopri di più",
+      "h1": "Connext 2.0 – Filiere",
+      "dates": []
+    },
+    {
+      "url": "https://www.confindustria.it/centro-studi",
+      "title": "Centro Studi Confindustria",
+      "h1": "Centro Studi Confindustria",
+      "dates": []
+    },
+    {
+      "url": "https://www.confindustria.it/expand",
+      "title": "Scopri EXPAND",
+      "h1": "EXPAND è uno strumento digitale avanzato progettato per supportare imprese, enti e associazioni nella comprensione e nello sviluppo del potenziale di ",
+      "dates": []
+    }
+  ],
   "candidateCount": 12,
   "datedCount": 0,
   "listingUrl": "https://www.confindustria.it/",
-  "durationSeconds": 4.08
+  "durationSeconds": 6.27
 }

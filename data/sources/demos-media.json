@@ -3,7 +3,7 @@
   "sourceId": "demos-media",
   "originUrl": "https://www.demositalia.it/blog",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-30T13:03:05.024485Z",
+  "collectedAt": "2026-10-30T13:09:39.142596Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -32,8 +32,9 @@
     }
   ],
   "message": "0 notizie recenti con data verificata; copertura parziale.",
+  "candidateSamples": [],
   "candidateCount": 3,
-  "datedCount": 1,
+  "datedCount": 3,
   "listingUrl": "https://www.demositalia.it/blog",
-  "durationSeconds": 1.85
+  "durationSeconds": 2.56
 }

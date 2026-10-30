@@ -3,7 +3,7 @@
   "sourceId": "iai",
   "originUrl": "https://www.iai.it/it",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-30T13:03:15.349853Z",
+  "collectedAt": "2026-10-30T13:09:52.852694Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -59,8 +59,9 @@
     }
   ],
   "message": "2 notizie recenti con data verificata; copertura parziale.",
+  "candidateSamples": [],
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.iai.it/it/pubblicazioni/lista/iai-commentaries",
-  "durationSeconds": 4.08
+  "durationSeconds": 3.5
 }

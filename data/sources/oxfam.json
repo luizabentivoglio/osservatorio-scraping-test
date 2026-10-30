@@ -3,7 +3,7 @@
   "sourceId": "oxfam",
   "originUrl": "https://www.oxfamitalia.org/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-30T13:03:27.918812Z",
+  "collectedAt": "2026-10-30T13:10:11.736869Z",
   "status": "no_feed",
   "diagnosticCode": "parsing_error",
   "method": "crawl4ai",
@@ -68,8 +68,46 @@
     }
   ],
   "message": "Pagina accessibile, ma nessuna notizia con data di pubblicazione verificabile.",
+  "candidateSamples": [
+    {
+      "url": "https://www.oxfamitalia.org/palestina-tuttiidirittiriservati/",
+      "title": "Scopri di più",
+      "h1": null,
+      "dates": []
+    },
+    {
+      "url": "https://www.oxfamitalia.org/sostienici/lasciti/",
+      "title": "Scopri di più",
+      "h1": "Incidi sul mondo di domani",
+      "dates": []
+    },
+    {
+      "url": "https://www.oxfamitalia.org/fondo-emergenze/",
+      "title": "Oxfam Fondo emergenze",
+      "h1": "Quando scoppia un’emergenza, noi ci siamo. Scendi con noi in prima linea.",
+      "dates": []
+    },
+    {
+      "url": "https://www.oxfamitalia.org/cosa-facciamo/campaigning/",
+      "title": "Inclusione sociale I diritti di tutti, sono il nostro dovere.",
+      "h1": "Lotta alla disuguaglianza",
+      "dates": []
+    },
+    {
+      "url": "https://www.oxfamitalia.org/cosa-facciamo/emergenze/",
+      "title": "emergenze Ogni essere umano deve vivere in sicurezza.",
+      "h1": "Emergenze",
+      "dates": []
+    },
+    {
+      "url": "https://www.oxfamitalia.org/cosa-facciamo/sviluppo/",
+      "title": "SVILUPPO Per il futuro dei più vulnerabili.",
+      "h1": "Sviluppo",
+      "dates": []
+    }
+  ],
   "candidateCount": 12,
   "datedCount": 0,
   "listingUrl": "https://www.oxfamitalia.org/",
-  "durationSeconds": 2.34
+  "durationSeconds": 2.85
 }

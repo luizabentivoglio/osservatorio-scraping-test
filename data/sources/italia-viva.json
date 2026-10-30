@@ -3,7 +3,7 @@
   "sourceId": "italia-viva",
   "originUrl": "https://www.italiaviva.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-30T13:03:20.314125Z",
+  "collectedAt": "2026-10-30T13:09:59.406064Z",
   "status": "blocked",
   "diagnosticCode": "access_restricted",
   "method": "html",
@@ -22,5 +22,5 @@
   "message": "HTTP 403: accesso limitato dalla fonte",
   "httpStatus": 403,
   "failedUrl": "https://www.italiaviva.it/",
-  "durationSeconds": 0.2
+  "durationSeconds": 0.62
 }

@@ -3,7 +3,7 @@
   "sourceId": "svp",
   "originUrl": "https://www.svp.eu/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-30T13:04:01.232216Z",
+  "collectedAt": "2026-10-30T13:10:36.567708Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -60,8 +60,40 @@
     }
   ],
   "message": "1 notizie recenti con data verificata; copertura parziale.",
+  "candidateSamples": [
+    {
+      "url": "https://www.svp.eu/de/partei/organisation-943.html",
+      "title": "Organisation",
+      "h1": "Organisation",
+      "dates": []
+    },
+    {
+      "url": "https://www.svp.eu/de/partei/wahlergebnisse-939.html",
+      "title": "Wahlergebnisse",
+      "h1": "Wahlergebnisse",
+      "dates": []
+    },
+    {
+      "url": "https://www.svp.eu/de/mediathek/zis-949.html",
+      "title": "Zukunft in Südtirol",
+      "h1": "Zukunft in Südtirol",
+      "dates": []
+    },
+    {
+      "url": "https://www.svp.eu/de/mitgliedschaft/schritt-eins-903.html",
+      "title": "Mitgliedschaft",
+      "h1": "Schritt 1",
+      "dates": []
+    },
+    {
+      "url": "https://www.svp.eu/de/kontakt/mitarbeiterinnen-953.html",
+      "title": "MitarbeiterInnen",
+      "h1": "MitarbeiterInnen",
+      "dates": []
+    }
+  ],
   "candidateCount": 12,
   "datedCount": 1,
   "listingUrl": "https://www.svp.eu/de/wilkommen-bei-uns-1.html",
-  "durationSeconds": 2.63
+  "durationSeconds": 3.61
 }

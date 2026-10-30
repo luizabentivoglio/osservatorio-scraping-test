@@ -3,7 +3,7 @@
   "sourceId": "italia-domani-rizzo",
   "originUrl": "https://www.italiadomanirizzo.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-30T13:03:19.840173Z",
+  "collectedAt": "2026-10-30T13:09:57.485411Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -70,8 +70,28 @@
     }
   ],
   "message": "3 notizie recenti con data verificata; copertura parziale.",
+  "candidateSamples": [
+    {
+      "url": "https://www.italiadomanirizzo.it/congresso/",
+      "title": "Congresso fondativo 03 Ottobre",
+      "h1": "Congresso fondativo",
+      "dates": []
+    },
+    {
+      "url": "https://www.italiadomanirizzo.it/il-partito/",
+      "title": "Vai alla pagina \"Il partito\"",
+      "h1": "Il partito",
+      "dates": []
+    },
+    {
+      "url": "https://www.italiadomanirizzo.it/diventa-tesserato/",
+      "title": "Diventa un tesserato",
+      "h1": "Diventa tesserato",
+      "dates": []
+    }
+  ],
   "candidateCount": 8,
   "datedCount": 3,
   "listingUrl": "https://www.italiadomanirizzo.it/",
-  "durationSeconds": 4.86
+  "durationSeconds": 3.85
 }

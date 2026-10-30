@@ -3,7 +3,7 @@
   "sourceId": "forza-italia",
   "originUrl": "https://forzaitalia.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-30T13:03:10.784164Z",
+  "collectedAt": "2026-10-30T13:09:49.835936Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -36,8 +36,16 @@
     }
   ],
   "message": "0 notizie recenti con data verificata; copertura parziale.",
+  "candidateSamples": [
+    {
+      "url": "https://forzaitalia.it/eventi/lottimismo-della-volonta/",
+      "title": "GUARDA L'EVENTO",
+      "h1": "L’OTTIMISMO DELLA VOLONTÀ",
+      "dates": []
+    }
+  ],
   "candidateCount": 4,
   "datedCount": 3,
   "listingUrl": "https://forzaitalia.it/",
-  "durationSeconds": 2.89
+  "durationSeconds": 3.87
 }

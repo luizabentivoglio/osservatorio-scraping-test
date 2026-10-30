@@ -3,25 +3,24 @@
   "sourceId": "futuro-nazionale",
   "originUrl": "https://futuronazionale.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-30T13:03:12.920873Z",
-  "status": "blocked",
-  "diagnosticCode": "access_restricted",
+  "collectedAt": "2026-10-30T13:09:50.392830Z",
+  "status": "error",
+  "diagnosticCode": "response_too_large",
   "method": "html",
   "feedUrl": null,
   "items": [],
   "attempts": [
     {
       "url": "https://futuronazionale.it/robots.txt",
-      "status": 202
+      "status": 200
     },
     {
       "url": "https://futuronazionale.it/",
-      "status": 202
+      "status": 200
     }
   ],
-  "message": "Verifica interattiva richiesta",
-  "candidateCount": 0,
-  "datedCount": 0,
-  "listingUrl": "https://futuronazionale.it/",
-  "durationSeconds": 0.65
+  "message": "Risposta oltre 3 MB",
+  "httpStatus": 200,
+  "failedUrl": "https://futuronazionale.it/",
+  "durationSeconds": 1.53
 }

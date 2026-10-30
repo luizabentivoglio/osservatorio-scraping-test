@@ -3,7 +3,7 @@
   "sourceId": "breaking-italy",
   "originUrl": "https://breakingitaly.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-30T13:02:30.415691Z",
+  "collectedAt": "2026-10-30T13:08:50.969294Z",
   "status": "no_feed",
   "diagnosticCode": "parsing_error",
   "method": "crawl4ai",
@@ -19,7 +19,11 @@
       "status": 200
     },
     {
-      "url": "https://breakingitaly.it/feed",
+      "url": "https://breakingitaly.it/breaking-italy",
+      "status": 200
+    },
+    {
+      "url": "https://breakingitaly.it/breaking-italy/youssef-siher-e-stato-liberato-e-il-governo-e-arrabbiatissimo",
       "status": 200
     },
     {
@@ -27,27 +31,15 @@
       "status": 200
     },
     {
-      "url": "https://breakingitaly.it/ventiquaranta-stati-uniti",
+      "url": "https://breakingitaly.it/newsletter/la-scarcerazione-di-youssef-siher-scatena-le-critiche-del-governo",
       "status": 200
     },
     {
-      "url": "https://breakingitaly.it/lavora-con-noi",
+      "url": "https://breakingitaly.it/newsletter/le-elezioni-in-israele-senza-un-vero-vincitore",
       "status": 200
     },
     {
-      "url": "https://breakingitaly.it/diventa-partner",
-      "status": 200
-    },
-    {
-      "url": "https://breakingitaly.it/privacy-policy",
-      "status": 200
-    },
-    {
-      "url": "https://breakingitaly.it/condizioni",
-      "status": 307
-    },
-    {
-      "url": "https://breakingitaly.it/condizioni-new",
+      "url": "https://breakingitaly.it/newsletter/le-elezioni-in-israele-netanyahu-alla-prova-del-voto",
       "status": 200
     },
     {
@@ -80,8 +72,86 @@
     }
   ],
   "message": "Pagina accessibile, ma nessuna notizia con data di pubblicazione verificabile.",
+  "candidateSamples": [
+    {
+      "url": "https://breakingitaly.it/breaking-italy",
+      "title": "Breaking Italy",
+      "h1": null,
+      "dates": []
+    },
+    {
+      "url": "https://breakingitaly.it/breaking-italy/youssef-siher-e-stato-liberato-e-il-governo-e-arrabbiatissimo",
+      "title": "Youssef Siher è stato liberato, e il governo è arrabbiatissimo",
+      "h1": null,
+      "dates": []
+    },
+    {
+      "url": "https://breakingitaly.it/newsletter/lo-sciopero-generale-e-le-nuove-manifestazioni-in-italia",
+      "title": "Lo sciopero generale e le nuove manifestazioni in Italia",
+      "h1": "Lo sciopero generale e le nuove manifestazioni in Italia",
+      "dates": [
+        {
+          "tag": "p",
+          "class": [
+            "nl-post-date",
+            "nl-post-reading"
+          ],
+          "text": "30 ottobre 2026",
+          "datetime": null
+        }
+      ]
+    },
+    {
+      "url": "https://breakingitaly.it/newsletter/la-scarcerazione-di-youssef-siher-scatena-le-critiche-del-governo",
+      "title": "La scarcerazione di Youssef Siher scatena le critiche del governo",
+      "h1": "La scarcerazione di Youssef Siher scatena le critiche del governo",
+      "dates": [
+        {
+          "tag": "p",
+          "class": [
+            "nl-post-date",
+            "nl-post-reading"
+          ],
+          "text": "29 ottobre 2026",
+          "datetime": null
+        }
+      ]
+    },
+    {
+      "url": "https://breakingitaly.it/newsletter/le-elezioni-in-israele-senza-un-vero-vincitore",
+      "title": "Le elezioni in Israele senza un vero vincitore",
+      "h1": "Le elezioni in Israele senza un vero vincitore",
+      "dates": [
+        {
+          "tag": "p",
+          "class": [
+            "nl-post-date",
+            "nl-post-reading"
+          ],
+          "text": "28 ottobre 2026",
+          "datetime": null
+        }
+      ]
+    },
+    {
+      "url": "https://breakingitaly.it/newsletter/le-elezioni-in-israele-netanyahu-alla-prova-del-voto",
+      "title": "Le elezioni in Israele, Netanyahu alla prova del voto",
+      "h1": "Le elezioni in Israele, Netanyahu alla prova del voto",
+      "dates": [
+        {
+          "tag": "p",
+          "class": [
+            "nl-post-date",
+            "nl-post-reading"
+          ],
+          "text": "27 ottobre 2026",
+          "datetime": null
+        }
+      ]
+    }
+  ],
   "candidateCount": 12,
   "datedCount": 0,
   "listingUrl": "https://breakingitaly.it/",
-  "durationSeconds": 3.13
+  "durationSeconds": 3.08
 }

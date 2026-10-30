@@ -3,7 +3,7 @@
   "sourceId": "ap-news",
   "originUrl": "https://apnews.com/world-news",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-30T13:02:30.196678Z",
+  "collectedAt": "2026-10-30T13:08:50.470786Z",
   "status": "blocked",
   "diagnosticCode": "access_restricted",
   "method": "html",
@@ -22,5 +22,5 @@
   "message": "HTTP 403: accesso limitato dalla fonte",
   "httpStatus": 403,
   "failedUrl": "https://apnews.com/world-news",
-  "durationSeconds": 0.08
+  "durationSeconds": 0.11
 }

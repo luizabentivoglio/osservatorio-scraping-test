@@ -3,7 +3,7 @@
   "sourceId": "coldiretti",
   "originUrl": "https://www.coldiretti.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-30T13:02:34.526263Z",
+  "collectedAt": "2026-10-30T13:08:55.885396Z",
   "status": "no_feed",
   "diagnosticCode": "parsing_error",
   "method": "crawl4ai",
@@ -68,8 +68,46 @@
     }
   ],
   "message": "Pagina accessibile, ma nessuna notizia con data di pubblicazione verificabile.",
+  "candidateSamples": [
+    {
+      "url": "https://www.coldiretti.it/la-difesa-del-made-in-italy",
+      "title": "La difesa del Made in Italy",
+      "h1": "La difesa del Made in Italy",
+      "dates": []
+    },
+    {
+      "url": "https://www.coldiretti.it/firmato-dagli-agricoltori-italiani",
+      "title": "Firmato dagli agricoltori italiani",
+      "h1": "Firmato dagli agricoltori italiani",
+      "dates": []
+    },
+    {
+      "url": "https://www.coldiretti.it/servizio/donne-in-agricoltura",
+      "title": "Donne in agricoltura",
+      "h1": "Donne in agricoltura",
+      "dates": []
+    },
+    {
+      "url": "https://www.coldiretti.it/servizio/federpensionati-coldiretti",
+      "title": "Federpensionati Coldiretti",
+      "h1": "Federpensionati Coldiretti",
+      "dates": []
+    },
+    {
+      "url": "https://www.coldiretti.it/servizio/caf-coldiretti",
+      "title": "La consulenza fiscale",
+      "h1": "La consulenza fiscale",
+      "dates": []
+    },
+    {
+      "url": "https://www.coldiretti.it/servizio/la-consulenza-agricola",
+      "title": "Centro di Assistenza Agricola Coldiretti",
+      "h1": "La consulenza agricola",
+      "dates": []
+    }
+  ],
   "candidateCount": 12,
   "datedCount": 0,
   "listingUrl": "https://www.coldiretti.it/",
-  "durationSeconds": 10.42
+  "durationSeconds": 16.69
 }

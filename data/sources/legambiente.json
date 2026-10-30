@@ -3,7 +3,7 @@
   "sourceId": "legambiente",
   "originUrl": "https://www.legambiente.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-30T13:03:21.141758Z",
+  "collectedAt": "2026-10-30T13:10:01.327938Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -44,10 +44,24 @@
     }
   ],
   "message": "0 notizie recenti con data verificata; copertura parziale.",
+  "candidateSamples": [
+    {
+      "url": "https://www.legambiente.it/5x1000/",
+      "title": "Scopri di più",
+      "h1": "5x1000 a Legambiente",
+      "dates": []
+    },
+    {
+      "url": "https://www.legambiente.it/area-tematica/agroecologia",
+      "title": "Agroecologia",
+      "h1": "Agroecologia",
+      "dates": []
+    }
+  ],
   "candidateCount": 12,
   "datedCount": 3,
   "listingUrl": "https://www.legambiente.it/",
-  "durationSeconds": 3.94,
+  "durationSeconds": 5.35,
   "attemptErrors": [
     {
       "url": "https://www.legambiente.it/campagne-in-evidenza/puliamo-il-mondo/",

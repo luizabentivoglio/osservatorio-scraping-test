@@ -3,7 +3,7 @@
   "sourceId": "mef",
   "originUrl": "https://www.mef.gov.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-30T13:03:25.087684Z",
+  "collectedAt": "2026-10-30T13:10:06.180996Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -63,8 +63,9 @@
     }
   ],
   "message": "2 notizie recenti con data verificata; copertura parziale.",
+  "candidateSamples": [],
   "candidateCount": 11,
   "datedCount": 6,
   "listingUrl": "https://www.mef.gov.it/",
-  "durationSeconds": 2.8
+  "durationSeconds": 5.52
 }

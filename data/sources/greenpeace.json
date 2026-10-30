@@ -3,7 +3,7 @@
   "sourceId": "greenpeace",
   "originUrl": "https://www.greenpeace.org/italy/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-30T13:03:13.724466Z",
+  "collectedAt": "2026-10-30T13:09:51.987758Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -67,8 +67,16 @@
     }
   ],
   "message": "2 notizie recenti con data verificata; copertura parziale.",
+  "candidateSamples": [
+    {
+      "url": "https://www.greenpeace.org/italy/cosa-puoi-fare-tu/firma-le-petizioni/",
+      "title": "Firma le petizioni",
+      "h1": "Firma le nostre petizioni",
+      "dates": []
+    }
+  ],
   "candidateCount": 12,
   "datedCount": 5,
   "listingUrl": "https://www.greenpeace.org/italy/",
-  "durationSeconds": 1.57
+  "durationSeconds": 2.08
 }
