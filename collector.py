@@ -22,6 +22,7 @@ NOW = datetime.now(timezone.utc)
 BLOCK_CODES = {401, 402, 403, 429}
 FEED_HOSTS = {'feeds.feedburner.com', 'feeds.simplecast.com', 'anchor.fm', 'www.youtube.com', 'youtube.com'}
 MONTHS = {m:i+1 for i,m in enumerate('gennaio febbraio marzo aprile maggio giugno luglio agosto settembre ottobre novembre dicembre'.split())}
+MONTHS.update({m[:3]:n for m,n in list(MONTHS.items())})
 BAD_PATH = re.compile(r'/(?:tag|tags|category|categoria|categorie|author|autore|autori|privacy|cookie|login|signin|feed|wp-json|shop|search|ricerca)(?:/|$)|\.(?:pdf|jpe?g|png|webp|mp[34]|zip)$',re.I)
 BAD_TITLE = re.compile(r'^(?:leggi(?: tutto| di più)?|scopri|vedi|continua|abbonati|iscriviti|seguici|read more|news|notizie|articoli|home|chi siamo|contatti|pubblicazioni|comunicati stampa)$',re.I)
 
@@ -153,7 +154,8 @@ class Client:
             chunks=[];size=0
             for chunk in r.iter_content(65536):
                 size+=len(chunk)
-                if size>MAX_BYTES: raise Failure('response_too_large','Risposta oltre 3 MB',r.status_code,url)
+                limit=min(32*1024*1024,max(MAX_BYTES,int(self.source.get('maxResponseBytes',MAX_BYTES))))
+                if size>limit: raise Failure('response_too_large',f'Risposta oltre {limit//1048576} MB',r.status_code,url)
                 chunks.append(chunk)
             raw=b''.join(chunks);encoding=r.encoding if r.encoding and r.encoding.lower()!='iso-8859-1' else 'utf-8'
             text=raw.decode(encoding,errors='replace');r.close()
@@ -204,6 +206,17 @@ def metadata(html,url,fallback=''):
         key=m.get('property') or m.get('name') or m.get('itemprop')
         if key: meta[key.lower()]=m['content']
     date=None;evidence=None;title=None;description=None
+    if family(url)=='sud-chiamanord.it' and '/blog/' in url:
+        icon=soup.select_one('h1 + div .lucide-calendar')
+        if icon: date=parse_date(icon.parent.get_text(' ',strip=True));evidence='html:article-header'
+    if family(url)=='confindustria.it' and '/comunicati-stampa/' in url:
+        stamp=soup.select_one('.border-t > p.text-light-grey')
+        heading=soup.select_one('h2.text-white')
+        if stamp and heading:
+            date=parse_date(stamp.get_text(' ',strip=True));evidence='html:press-release-header';title=heading.get_text(' ',strip=True)
+    if family(url)=='comunicazione.camera.it' and '/archivio-prima-pagina/' in url:
+        match=re.search(r'notizia pubblicata il\s+(\d{1,2}\s+[a-zà]+\s+\d{4})',soup.get_text(' ',strip=True),re.I)
+        if match: date=parse_date(match[1]);evidence='html:publication-label'
     if family(url)=='breakingitaly.it' and '/newsletter/' in url:
         stamp=soup.select_one('.nl-post-date')
         if stamp: date=parse_date(stamp.get_text(' ',strip=True));evidence='html:newsletter-publication'
@@ -271,7 +284,7 @@ def candidates(html,base,source):
     soup=BeautifulSoup(html,'html.parser');found={}
     main=soup.select_one('[data-fetch-key="0"]') if source.get('id')=='pagella-politica' else soup.select_one('main')
     main=main or soup
-    for anchor in main.select('a[href]'):
+    for anchor in main.select(source.get('candidateSelector','a[href]')):
         if anchor.find_parent(['nav','footer','header']): continue
         link=canonical(anchor['href'],base);title=clean(anchor.get_text(' ',strip=True) or anchor.get('title') or (anchor.img.get('alt') if anchor.img else ''),300)
         if not link or family(link)!=family(base) or link.rstrip('/')==base.rstrip('/') or len(title)<12 or BAD_TITLE.search(title) or BAD_PATH.search(urlsplit(link).path): continue
@@ -281,6 +294,20 @@ def candidates(html,base,source):
         old=found.get(link)
         if not old or score>old['score']: found[link]={'url':link,'title':title,'score':score}
     return sorted(found.values(),key=lambda x:-x['score'])[:12]
+
+
+def listing_metadata(html,base,source):
+    """Libera publishes the news date on the card, not on the article page."""
+    if source.get('id')!='libera' or family(base)!='libera.it': return []
+    items=[]
+    for card in BeautifulSoup(html,'html.parser').select('.content'):
+        category=card.select_one('.categoria');anchor=card.select_one('h3 a[href]');stamp=card.select_one('p > strong')
+        if not category or category.get_text(strip=True) not in ('News','Comunicati') or not anchor or not stamp: continue
+        url=canonical(anchor['href'],base);date=parse_date(stamp.get_text(' ',strip=True))
+        if not url or family(url)!=family(base) or not re.match(r'^/it-schede-\d+',urlsplit(url).path) or not date: continue
+        excerpt=stamp.parent.get_text(' ',strip=True).removeprefix(stamp.get_text(' ',strip=True)).lstrip(' -')
+        items.append({'title':clean(anchor.get_text(' ',strip=True),300),'url':url,'excerpt':clean(excerpt),'publishedAt':date,'dateEvidence':'html:dated-news-card'})
+    return list({item['url']:item for item in items}.values())
 
 
 def collect_sync(source):
@@ -311,6 +338,10 @@ def collect_sync(source):
             except Failure as exc:
                 if exc.code in ('robots_disallowed','access_restricted','rate_limited'): raise
                 feed_errors.append({'url':url,'code':exc.code})
+        cards=listing_metadata(html,final,source)
+        if cards:
+            result.update(status='ok',method='html',items=recent(cards),datedCount=len(cards),listingUrl=final,message='Titoli, link e date di pubblicazione verificati nelle schede ufficiali delle notizie.')
+            return result,client,None
         links=candidates(html,final,source)
         result['candidateSamples']=[]
         items=[];dated=0
@@ -353,7 +384,7 @@ async def collect(source,browser_semaphore):
                     client.deadline=time.monotonic()+50
                     listing=fallback[1];client.check_robots(listing)
                     await asyncio.sleep(robots_policy(client.robots.get(urlsplit(listing).scheme+'://'+urlsplit(listing).netloc,''),listing)[1])
-                    r=await crawler.arun(url=listing,config=CrawlerRunConfig(cache_mode=CacheMode.BYPASS,page_timeout=25000,check_robots_txt=False))
+                    r=await crawler.arun(url=listing,config=CrawlerRunConfig(cache_mode=CacheMode.BYPASS,page_timeout=25000,check_robots_txt=False,wait_for=source.get('listingWaitFor')))
                     if r.status_code in BLOCK_CODES: raise Failure('access_restricted',f'Browser HTTP {r.status_code}',r.status_code,listing)
                     if not r.success: raise Failure('render_error','Rendering della pagina non riuscito',r.status_code,listing)
                     html=r.html or ''
@@ -367,7 +398,7 @@ async def collect(source,browser_semaphore):
                             if not item:
                                 await asyncio.to_thread(client.check_robots,url)
                                 await asyncio.sleep(robots_policy(client.robots.get(urlsplit(url).scheme+'://'+urlsplit(url).netloc,''),url)[1])
-                                rendered=await crawler.arun(url=url,config=CrawlerRunConfig(cache_mode=CacheMode.BYPASS,page_timeout=18000,check_robots_txt=False))
+                                rendered=await crawler.arun(url=url,config=CrawlerRunConfig(cache_mode=CacheMode.BYPASS,page_timeout=18000,check_robots_txt=False,wait_for=source.get('articleWaitFor')))
                                 if rendered.status_code in BLOCK_CODES: raise Failure('access_restricted',f'Browser HTTP {rendered.status_code}',rendered.status_code,url)
                                 if rendered.success:
                                     item=metadata(rendered.html or '',url,c['title'])

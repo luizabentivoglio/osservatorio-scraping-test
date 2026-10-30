@@ -65,12 +65,10 @@
       "name": "Camera dei deputati",
       "url": "https://www.camera.it/",
       "configuredFeedUrl": null,
-      "feeds": [
-        "https://www.camera.it/leg19/feeds/16/521.xml",
-        "https://www.camera.it/leg19/feeds/5/33.xml"
-      ],
-      "listing": "https://www.camera.it/",
-      "documentation": "https://documenti.camera.it/apps/rssFeeds/index.asp"
+      "feeds": [],
+      "listing": "https://comunicazione.camera.it/archivio-prima-pagina",
+      "documentation": "https://documenti.camera.it/apps/rssFeeds/index.asp",
+      "articlePattern": "^/archivio-prima-pagina/\\d+-\\d+"
     },
     {
       "id": "coldiretti",
@@ -78,7 +76,8 @@
       "url": "https://www.coldiretti.it/",
       "configuredFeedUrl": null,
       "feeds": [],
-      "listing": "https://www.coldiretti.it/"
+      "listing": "https://www.coldiretti.it/",
+      "articlePattern": "^/(economia|ambiente-e-sviluppo-sostenibile|notizie|salute-e-sicurezza-alimentare|to-do|ue-strumenti-e-normative)/[^/]+"
     },
     {
       "id": "commissione-europea",
@@ -111,7 +110,8 @@
       "url": "https://www.confindustria.it/",
       "configuredFeedUrl": null,
       "feeds": [],
-      "listing": "https://www.confindustria.it/"
+      "listing": "https://www.confindustria.it/comunicati-stampa",
+      "articlePattern": "^/comunicati-stampa/[^/]+"
     },
     {
       "id": "cnr",
@@ -230,7 +230,8 @@
       "url": "https://futuronazionale.it/",
       "configuredFeedUrl": null,
       "feeds": [],
-      "listing": "https://futuronazionale.it/"
+      "listing": "https://futuronazionale.it/",
+      "maxResponseBytes": 33554432
     },
     {
       "id": "good-morning-italia",
@@ -415,7 +416,8 @@
       "url": "https://www.oxfamitalia.org/",
       "configuredFeedUrl": null,
       "feeds": [],
-      "listing": "https://www.oxfamitalia.org/"
+      "listing": "https://www.oxfamitalia.org/news/",
+      "candidateSelector": "h3 a[href]"
     },
     {
       "id": "patt",
@@ -544,7 +546,10 @@
       "url": "https://www.sud-chiamanord.it/",
       "configuredFeedUrl": null,
       "feeds": [],
-      "listing": "https://www.sud-chiamanord.it/"
+      "listing": "https://www.sud-chiamanord.it/blog",
+      "articlePattern": "^/blog/[^/]+",
+      "listingWaitFor": "css:a[href*=\"/blog/\"]",
+      "articleWaitFor": "css:h1 + div .lucide-calendar"
     },
     {
       "id": "svp",

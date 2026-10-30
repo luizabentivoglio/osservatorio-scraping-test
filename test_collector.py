@@ -1,9 +1,35 @@
 import unittest
 from datetime import datetime,timezone,timedelta
-from collector import canonical,parse_date,metadata,candidates,feed_items,recent,Failure,Client,robots_policy
+from collector import canonical,parse_date,metadata,candidates,feed_items,recent,Failure,Client,robots_policy,listing_metadata
 
 
 class CollectorTests(unittest.TestCase):
+    def test_rendered_article_date_uses_header_only(self):
+        html='<h1>Notizia regionale verificata</h1><div><span><svg class="lucide-calendar"></svg>30 marzo 2026</span></div><section>Evento 4 novembre 2026</section>'
+        self.assertEqual(metadata(html,'https://www.sud-chiamanord.it/blog/prova')['publishedAt'],'2026-03-30T00:00:00Z')
+
+    def test_official_press_header_and_camera_publication(self):
+        html='<h2 class="text-white">Comunicato nazionale verificato</h2><div class="border-t"><p class="text-light-grey">29 ottobre 2026</p></div>'
+        item=metadata(html,'https://www.confindustria.it/comunicati-stampa/prova')
+        self.assertEqual(item['title'],'Comunicato nazionale verificato')
+        self.assertEqual(item['publishedAt'],'2026-10-29T00:00:00Z')
+        html='<h1>Notizia parlamentare verificata</h1><p>notizia pubblicata il 30 Ottobre 2026</p><p>Evento 4 novembre 2026</p>'
+        self.assertEqual(metadata(html,'https://comunicazione.camera.it/archivio-prima-pagina/19-63725')['publishedAt'],'2026-10-30T00:00:00Z')
+
+    def test_libera_news_card_dates_are_scoped_to_article(self):
+        card='<div class="content"><div class="categoria">News</div><h3><a href="it-schede-2873-notizia">Notizia ufficiale verificata</a></h3><p><strong>22 ott 2026</strong> - Il testo della scheda.</p></div>'
+        event=card.replace('News','Eventi').replace('2873','1111')
+        html=event+card+card+'<footer>30 ott 2026</footer>'
+        items=listing_metadata(html,'https://www.libera.it/',{'id':'libera'})
+        self.assertEqual(len(items),1)
+        self.assertEqual(items[0]['publishedAt'],'2026-10-22T00:00:00Z')
+        self.assertEqual(items[0]['excerpt'],'Il testo della scheda.')
+        self.assertEqual(listing_metadata(html,'https://other.it/',{'id':'libera'}),[])
+
+    def test_source_selector_avoids_promotional_cards(self):
+        html='<h4><a href="/donazioni/">Sostieni il nostro lavoro</a></h4><h3><a href="/vera-notizia/">Una notizia con data verificata</a></h3>'
+        self.assertEqual(candidates(html,'https://example.org/news/',{'candidateSelector':'h3 a[href]'})[0]['url'],'https://example.org/vera-notizia/')
+
     def test_robots_wildcards_allow_and_crawl_delay(self):
         rules='User-agent: *\nDisallow: /*feed*\nAllow: /feed/public$\nCrawl-delay: 10'
         self.assertEqual(robots_policy(rules,'https://example.org/feed/'),(False,10))
