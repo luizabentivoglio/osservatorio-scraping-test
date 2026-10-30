@@ -1,9 +1,22 @@
 import unittest
 from datetime import datetime,timezone,timedelta
-from collector import canonical,parse_date,metadata,candidates,feed_items,recent,Failure,Client
+from collector import canonical,parse_date,metadata,candidates,feed_items,recent,Failure,Client,robots_policy
 
 
 class CollectorTests(unittest.TestCase):
+    def test_robots_wildcards_allow_and_crawl_delay(self):
+        rules='User-agent: *\nDisallow: /*feed*\nAllow: /feed/public$\nCrawl-delay: 10'
+        self.assertEqual(robots_policy(rules,'https://example.org/feed/'),(False,10))
+        self.assertEqual(robots_policy(rules,'https://example.org/feed/public'),(True,10))
+        self.assertFalse(robots_policy('User-agent: *\nDisallow: /città/','https://example.org/citt%C3%A0/x')[0])
+
+    def test_verified_publication_labels(self):
+        b='<main><h1>Notizia comunale</h1><p>Data: 23 ottobre 2026</p><p>Ultimo aggiornamento 30 ottobre 2026</p></main>'
+        self.assertTrue(metadata(b,'https://comune.bollate.mi.it/it/news/prova','Notizia comunale')['publishedAt'].startswith('2026-10-23'))
+        n='<h1>La newsletter del giorno</h1><p class="nl-post-date">29 ottobre 2026</p>'
+        self.assertTrue(metadata(n,'https://breakingitaly.it/newsletter/prova')['publishedAt'].startswith('2026-10-29'))
+        i='<h1>Comunicato istituzionale</h1><span class="iss-date-info">Pubblicato 13/10/2025 - Modificato 13/10/2026</span>'
+        self.assertTrue(metadata(i,'https://www.iss.it/-/comunicato')['publishedAt'].startswith('2025-10-13'))
     def test_canonical_preserves_article_query(self):
         self.assertEqual(canonical('https://www.senato.it/attualita/archivio-notizie?nid=125977&utm_source=x#top'),'https://www.senato.it/attualita/archivio-notizie?nid=125977')
         self.assertIsNone(canonical('http://127.0.0.1/foo'))

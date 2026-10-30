@@ -8,7 +8,7 @@ import threading
 import time
 from datetime import datetime, timezone
 from pathlib import Path
-from urllib.parse import urljoin, urlsplit, urlunsplit, parse_qsl, urlencode
+from urllib.parse import urljoin, urlsplit, urlunsplit, parse_qsl, urlencode, quote, unquote
 from urllib.robotparser import RobotFileParser
 
 import feedparser
@@ -80,6 +80,37 @@ def recent(items):
     return sorted(out.values(),key=lambda x:x['publishedAt'],reverse=True)[:40]
 
 
+def robots_policy(text,url):
+    groups=[];agents=[];rules=[];delay=0;directives=False
+    for raw in text.splitlines()+['User-agent: __end__']:
+        line=raw.split('#',1)[0].strip()
+        if ':' not in line: continue
+        key,value=(v.strip() for v in line.split(':',1));key=key.lower()
+        if key=='user-agent':
+            if directives:
+                groups.append((agents,rules,delay));agents=[];rules=[];delay=0;directives=False
+            agents.append(value.lower())
+        elif agents:
+            directives=True
+            if key in ('allow','disallow') and value: rules.append((value,key=='allow'))
+            if key=='crawl-delay':
+                try: delay=max(delay,float(value))
+                except ValueError: pass
+    token=AGENT.split('/')[0].lower()
+    matches=[(max([-1]+[0 if a=='*' else len(a) if a in token else -1 for a in ag]),rs,d) for ag,rs,d in groups]
+    level=max([-1]+[m[0] for m in matches]);p=urlsplit(url)
+    normalize=lambda s: quote(unquote(s),safe='/:?=&%$*-._~')
+    path=normalize(p.path+('?' + p.query if p.query else ''));best=(-1,True);spacing=.5
+    for score,rs,d in matches:
+        if score!=level or score<0: continue
+        spacing=max(spacing,d)
+        for rule,allow in rs:
+            rule=normalize(rule);end=rule.endswith('$');body=rule[:-1] if end else rule
+            pattern='^'+'.*'.join(re.escape(part) for part in body.split('*'))+('$' if end else '')
+            if re.search(pattern,path): best=max(best,(len(body.replace('*','')),allow))
+    return best[1],spacing
+
+
 class Failure(Exception):
     def __init__(self,code,message,status=None,url=None):
         super().__init__(message);self.code=code;self.status=status;self.url=url
@@ -89,7 +120,7 @@ class Client:
     def __init__(self,source):
         self.source=source;self.session=requests.Session();self.session.headers.update({'User-Agent':AGENT,'Accept':'application/rss+xml, application/atom+xml, text/html;q=0.9, */*;q=0.1'})
         self.roots={family(source['url']),*[family(u) for u in source.get('allowedOrigins',[])]}
-        self.deadline=time.monotonic()+65;self.robots={};self.trace=[]
+        self.deadline=time.monotonic()+100;self.robots={};self.trace=[];self.last_request={}
 
     def allowed(self,url):
         host=urlsplit(url).hostname or ''
@@ -100,6 +131,13 @@ class Client:
         if not url or not self.allowed(url): raise Failure('invalid_url','Indirizzo o dominio non autorizzato',url=url)
         if time.monotonic()>=self.deadline: raise Failure('timeout','Tempo massimo della fonte raggiunto',url=url)
         if not robots: self.check_robots(url)
+        origin=urlsplit(url).scheme+'://'+urlsplit(url).netloc
+        delay=robots_policy(self.robots.get(origin,''),url)[1]
+        pause=self.last_request.get(origin,0)+delay-time.monotonic()
+        if pause>0:
+            if time.monotonic()+pause>=self.deadline: raise Failure('timeout','Intervallo della fonte oltre il budget; raccolta rinviata',url=url)
+            time.sleep(pause)
+        self.last_request[origin]=time.monotonic()
         try:
             r=self.session.get(url,timeout=(6,min(15,max(1,self.deadline-time.monotonic()))),allow_redirects=False,stream=True)
             self.trace.append({'url':url,'status':r.status_code})
@@ -130,9 +168,9 @@ class Client:
         p=urlsplit(url);origin=f'{p.scheme}://{p.netloc}'
         if origin not in self.robots:
             text,_,status=self.fetch(origin+'/robots.txt',robots=True)
-            parser=RobotFileParser();parser.parse(text.splitlines() if status==200 else [])
-            self.robots[origin]=parser
-        if not self.robots[origin].can_fetch(AGENT,url): raise Failure('robots_disallowed','Percorso escluso da robots.txt',url=url)
+            if status==200 and re.search(r'<(?:html|head|body)\b',text,re.I): raise Failure('robots_unavailable','robots.txt non verificabile',url=url)
+            self.robots[origin]=text if status==200 else ''
+        if not robots_policy(self.robots[origin],url)[0]: raise Failure('robots_disallowed','Percorso escluso da robots.txt',url=url)
 
 
 def feed_items(text,url):
@@ -166,12 +204,28 @@ def metadata(html,url,fallback=''):
         key=m.get('property') or m.get('name') or m.get('itemprop')
         if key: meta[key.lower()]=m['content']
     date=None;evidence=None;title=None;description=None
+    if family(url)=='breakingitaly.it' and '/newsletter/' in url:
+        stamp=soup.select_one('.nl-post-date')
+        if stamp: date=parse_date(stamp.get_text(' ',strip=True));evidence='html:newsletter-publication'
+    if family(url)=='osservatoriocpi.unicatt.it' and '/pubblicazioni/' in url:
+        stamp=soup.select_one('.separator-date')
+        if stamp: date=parse_date(stamp.parent.get_text(' ',strip=True));evidence='html:article-header'
+    if family(url)=='iss.it':
+        stamp=soup.select_one('.iss-date-info')
+        match=re.search(r'Pubblicato\s+(\d{2}/\d{2}/\d{4})',stamp.get_text(' ',strip=True)) if stamp else None
+        if match: date=parse_date(match[1]);evidence='html:publication-label'
+    if family(url)=='comune.bollate.mi.it' and '/it/news/' in url:
+        page=soup.select_one('main') or soup
+        body=page.get_text(' ',strip=True)
+        match=re.search(r'\bData\s*:\s*(\d{1,2}\s+[a-zà]+\s+\d{4})',body,re.I)
+        if match: date=parse_date(match[1]);evidence='html:news-date-label';title=fallback
     for script in soup.select('script[type="application/ld+json"]'):
         try:
             for obj in json_objects(json.loads(script.string or script.get_text())):
                 if re.search(r'Article|BlogPosting|Report|SocialMediaPosting',str(obj.get('@type',''))):
-                    date=parse_date(obj.get('datePublished'))
-                    if date:
+                    candidate_date=parse_date(obj.get('datePublished'))
+                    if candidate_date:
+                        date=candidate_date
                         title=obj.get('headline') or obj.get('name');description=obj.get('description');evidence='jsonld:datePublished';break
         except (ValueError,TypeError): pass
         if date: break
@@ -192,14 +246,14 @@ def metadata(html,url,fallback=''):
             date=parse_date(tag.get('datetime') or tag.get('content') or tag.get_text())
             if date: evidence='html:publication-time';break
     if not date:
-        main=soup.select_one('main') or soup.select_one('article')
+        main=soup.select_one('main') or soup.select_one('article') or soup.select_one('.journal-content-article')
         body=main.get_text(' ',strip=True) if main else ''
         found=re.search(r'(?:pubblicato\s*(?:il|:)?|data di pubblicazione\s*:?)\s*(\d{1,2}[/.\-]\d{1,2}[/.\-]\d{4}|\d{1,2}\s+[a-zà]+\s+\d{4})',body,re.I)
         if found: date=parse_date(found[1]);evidence='html:publication-label'
     if not date:
         article=soup.select_one('article') or soup.select_one('main')
         if article:
-            for tag in article.select('.published, .published-date, .publication-date, .post-date, .entry-date, .article-date, .news-date, .data-pubblicazione'):
+            for tag in article.select('.published, .published-date, .publication-date, .post-date, .entry-date, .article-date, .news-date, .data-pubblicazione, .nl-post-date'):
                 if any(re.search(r'related|recommended|sidebar|footer', ' '.join(p.get('class',[])),re.I) for p in tag.parents if hasattr(p,'get')): continue
                 label=tag.get_text(' ',strip=True)
                 if re.search(r'aggiorna|modifi|updated',label,re.I): continue
@@ -231,7 +285,7 @@ def candidates(html,base,source):
 
 def collect_sync(source):
     client=Client(source);start=time.monotonic()
-    result={'schemaVersion':1,'sourceId':source['id'],'originUrl':source['url'],'configuredFeedUrl':source.get('configuredFeedUrl'),'collectedAt':datetime.now(timezone.utc).isoformat().replace('+00:00','Z'),'status':'error','diagnosticCode':None,'method':'html','feedUrl':None,'items':[],'attempts':client.trace,'message':''}
+    result={'schemaVersion':1,'policyVersion':2,'sourceId':source['id'],'originUrl':source['url'],'configuredFeedUrl':source.get('configuredFeedUrl'),'collectedAt':datetime.now(timezone.utc).isoformat().replace('+00:00','Z'),'status':'error','diagnosticCode':None,'method':'html','feedUrl':None,'items':[],'attempts':client.trace,'message':''}
     tried=set();feed_errors=[]
     try:
         feeds=list(dict.fromkeys([u for u in [source.get('configuredFeedUrl'),*source.get('feeds',[])] if u]))
@@ -298,7 +352,8 @@ async def collect(source,browser_semaphore):
                 async with AsyncWebCrawler(config=BrowserConfig(headless=True,verbose=False,user_agent=AGENT)) as crawler:
                     client.deadline=time.monotonic()+50
                     listing=fallback[1];client.check_robots(listing)
-                    r=await crawler.arun(url=listing,config=CrawlerRunConfig(cache_mode=CacheMode.BYPASS,page_timeout=25000,check_robots_txt=True))
+                    await asyncio.sleep(robots_policy(client.robots.get(urlsplit(listing).scheme+'://'+urlsplit(listing).netloc,''),listing)[1])
+                    r=await crawler.arun(url=listing,config=CrawlerRunConfig(cache_mode=CacheMode.BYPASS,page_timeout=25000,check_robots_txt=False))
                     if r.status_code in BLOCK_CODES: raise Failure('access_restricted',f'Browser HTTP {r.status_code}',r.status_code,listing)
                     if not r.success: raise Failure('render_error','Rendering della pagina non riuscito',r.status_code,listing)
                     html=r.html or ''
@@ -309,6 +364,13 @@ async def collect(source,browser_semaphore):
                         try:
                             article,url,_=await asyncio.to_thread(client.fetch,c['url'])
                             item=metadata(article,url,c['title'])
+                            if not item:
+                                await asyncio.to_thread(client.check_robots,url)
+                                await asyncio.sleep(robots_policy(client.robots.get(urlsplit(url).scheme+'://'+urlsplit(url).netloc,''),url)[1])
+                                rendered=await crawler.arun(url=url,config=CrawlerRunConfig(cache_mode=CacheMode.BYPASS,page_timeout=18000,check_robots_txt=False))
+                                if rendered.status_code in BLOCK_CODES: raise Failure('access_restricted',f'Browser HTTP {rendered.status_code}',rendered.status_code,url)
+                                if rendered.success:
+                                    item=metadata(rendered.html or '',url,c['title'])
                             if item: items.append(item)
                         except Failure as exc:
                             if exc.code in ('robots_disallowed','access_restricted','rate_limited'): raise
@@ -329,7 +391,13 @@ async def main():
     results=[]
     async def run(source):
         async with semaphore:
-            result=await collect(source,browsers)
+            previous_path=output/(source['id']+'.json')
+            previous=json.loads(previous_path.read_text()) if previous_path.exists() else None
+            age=(NOW-datetime.fromisoformat(previous['collectedAt'].replace('Z','+00:00'))).total_seconds() if previous else 999999
+            if previous and previous['status']=='blocked' and age<4*3600:
+                result=previous|{'policyVersion':2,'message':previous['message']+'; prossimo controllo dopo quattro ore.'}
+            else:
+                result=await collect(source,browsers)
             (output/(source['id']+'.json')).write_text(json.dumps(result,ensure_ascii=False,indent=2))
             print(json.dumps({'sourceId':source['id'],'status':result['status'],'method':result['method'],'count':len(result['items']),'code':result['diagnosticCode'],'message':result['message']},ensure_ascii=False),flush=True)
             results.append(result)
