@@ -179,9 +179,14 @@ def metadata(html,url,fallback=''):
         for key in ('article:published_time','datepublished','pubdate','date.created','dcterms.created','dc.date.issued','date'):
             date=parse_date(meta.get(key))
             if date: evidence='meta:'+key;break
+    if not date and family(url)=='pagellapolitica.it':
+        heading=soup.select_one('h1.post-title')
+        stamp=heading.parent.select_one('.post-date > span') if heading else None
+        if stamp: date=parse_date(stamp.get_text(' ',strip=True));evidence='html:post-date'
     if not date:
         for tag in soup.select('time[datetime], [itemprop="datePublished"]'):
-            if tag.find_parent(['footer','nav','header']): continue
+            if tag.find_parent(['footer','nav']): continue
+            if any(re.search(r'related|recommended|sidebar', ' '.join(p.get('class',[])),re.I) for p in tag.parents if hasattr(p,'get')): continue
             label=' '.join(tag.get('class',[]))+' '+tag.get_text()
             if re.search(r'modifi|aggiorna|updated',label,re.I): continue
             date=parse_date(tag.get('datetime') or tag.get('content') or tag.get_text())
@@ -191,6 +196,15 @@ def metadata(html,url,fallback=''):
         body=main.get_text(' ',strip=True) if main else ''
         found=re.search(r'(?:pubblicato\s*(?:il|:)?|data di pubblicazione\s*:?)\s*(\d{1,2}[/.\-]\d{1,2}[/.\-]\d{4}|\d{1,2}\s+[a-zà]+\s+\d{4})',body,re.I)
         if found: date=parse_date(found[1]);evidence='html:publication-label'
+    if not date:
+        article=soup.select_one('article') or soup.select_one('main')
+        if article:
+            for tag in article.select('.published, .published-date, .publication-date, .post-date, .entry-date, .article-date, .news-date, .data-pubblicazione'):
+                if any(re.search(r'related|recommended|sidebar|footer', ' '.join(p.get('class',[])),re.I) for p in tag.parents if hasattr(p,'get')): continue
+                label=tag.get_text(' ',strip=True)
+                if re.search(r'aggiorna|modifi|updated',label,re.I): continue
+                date=parse_date(label)
+                if date: evidence='html:publication-class';break
     headline=clean(title or meta.get('og:title') or meta.get('twitter:title') or (soup.h1.get_text(' ',strip=True) if soup.h1 else fallback),300)
     if not date or len(headline)<8: return None
     excerpt=clean(description or meta.get('og:description') or meta.get('description'))
@@ -201,7 +215,8 @@ def metadata(html,url,fallback=''):
 
 def candidates(html,base,source):
     soup=BeautifulSoup(html,'html.parser');found={}
-    main=soup.select_one('main') or soup
+    main=soup.select_one('[data-fetch-key="0"]') if source.get('id')=='pagella-politica' else soup.select_one('main')
+    main=main or soup
     for anchor in main.select('a[href]'):
         if anchor.find_parent(['nav','footer','header']): continue
         link=canonical(anchor['href'],base);title=clean(anchor.get_text(' ',strip=True) or anchor.get('title') or (anchor.img.get('alt') if anchor.img else ''),300)
@@ -243,11 +258,16 @@ def collect_sync(source):
                 if exc.code in ('robots_disallowed','access_restricted','rate_limited'): raise
                 feed_errors.append({'url':url,'code':exc.code})
         links=candidates(html,final,source)
+        result['candidateSamples']=[]
         items=[];dated=0
         for candidate in links[:6]:
             if time.monotonic()>client.deadline-2: break
             try:
                 article,article_url,_=client.fetch(candidate['url']);item=metadata(article,article_url,candidate['title'])
+                if not item:
+                    article_soup=BeautifulSoup(article,'html.parser')
+                    stamps=[{'tag':t.name,'class':t.get('class',[]),'text':clean(t.get_text(' ',strip=True),100),'datetime':t.get('datetime')} for t in article_soup.select('time,[class*="date"],[class*="data"], [itemprop="datePublished"]') if len(t.get_text(' ',strip=True))<160][:12]
+                    result['candidateSamples'].append({'url':article_url,'title':candidate['title'],'h1':clean(article_soup.h1.get_text(' ',strip=True),150) if article_soup.h1 else None,'dates':stamps})
                 if item: dated+=1;items.append(item)
             except Failure as exc:
                 if exc.code in ('robots_disallowed','access_restricted','rate_limited'): raise
