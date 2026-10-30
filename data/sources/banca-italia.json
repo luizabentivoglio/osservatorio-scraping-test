@@ -19,8 +19,9 @@
       "status": 200
     }
   ],
-  "message": "Percorso escluso da robots.txt",
+  "message": "Percorso escluso da robots.txt; prossimo controllo dopo quattro ore.",
   "httpStatus": null,
   "failedUrl": "https://www.bancaditalia.it/util/index.rss.html?lingua=it&sezione=%2Fmedia%2Fnotizia",
-  "durationSeconds": 0.88
+  "durationSeconds": 0.88,
+  "policyVersion": 2
 }

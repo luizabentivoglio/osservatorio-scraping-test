@@ -1,9 +1,10 @@
 {
   "schemaVersion": 1,
+  "policyVersion": 2,
   "sourceId": "futuro-nazionale",
   "originUrl": "https://futuronazionale.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-30T13:09:50.392830Z",
+  "collectedAt": "2026-10-30T13:18:48.970550Z",
   "status": "error",
   "diagnosticCode": "response_too_large",
   "method": "html",
@@ -22,5 +23,5 @@
   "message": "Risposta oltre 3 MB",
   "httpStatus": 200,
   "failedUrl": "https://futuronazionale.it/",
-  "durationSeconds": 1.53
+  "durationSeconds": 1.26
 }

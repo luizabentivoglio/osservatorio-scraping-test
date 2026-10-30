@@ -1,9 +1,10 @@
 {
   "schemaVersion": 1,
+  "policyVersion": 2,
   "sourceId": "patt",
   "originUrl": "https://patt.tn.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-30T13:10:15.769254Z",
+  "collectedAt": "2026-10-30T13:19:14.158487Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -55,5 +56,5 @@
   "candidateCount": 8,
   "datedCount": 5,
   "listingUrl": "https://patt.tn.it/",
-  "durationSeconds": 2.2
+  "durationSeconds": 4.19
 }

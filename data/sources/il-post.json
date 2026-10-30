@@ -1,9 +1,10 @@
 {
   "schemaVersion": 1,
+  "policyVersion": 2,
   "sourceId": "il-post",
   "originUrl": "https://www.ilpost.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-30T13:09:56.872859Z",
+  "collectedAt": "2026-10-30T13:18:57.534058Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -17,9 +18,9 @@
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "A Oleshky stanno arrivando i primi convogli umanitari",
+      "title": "A Oleshky è in corso l’evacuazione della popolazione",
       "url": "https://www.ilpost.it/2026/10/30/arrivo-aiuti-oleshky/?homepagePosition=0",
-      "excerpt": "La tregua permetterà anche l'evacuazione dei civili ucraini che vogliono andarsene dopo oltre quattro anni di occupazione russa",
+      "excerpt": "Dopo oltre quattro anni di occupazione russa, grazie a una tregua umanitaria annunciata la settimana scorsa",
       "publishedAt": "2026-10-30T09:54:58Z",
       "dateEvidence": "jsonld:datePublished"
     },
@@ -91,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.ilpost.it/",
-  "durationSeconds": 0.61
+  "durationSeconds": 3.59
 }

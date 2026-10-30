@@ -1,12 +1,13 @@
 {
   "schemaVersion": 1,
+  "policyVersion": 2,
   "sourceId": "quirinale",
   "originUrl": "https://www.quirinale.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-30T13:10:31.976310Z",
-  "status": "no_feed",
-  "diagnosticCode": "parsing_error",
-  "method": "crawl4ai",
+  "collectedAt": "2026-10-30T13:19:45.083430Z",
+  "status": "blocked",
+  "diagnosticCode": "access_restricted",
+  "method": "html",
   "feedUrl": null,
   "items": [],
   "attempts": [
@@ -45,29 +46,9 @@
     {
       "url": "https://www.quirinale.it/it/notizie/cordoglio-presidente-mattarella-per-vittime-incidente-elicottero-militare-italiano-precipitato-bosnia",
       "status": 200
-    },
-    {
-      "url": "https://www.quirinale.it/it/notizie/mattarella-cerimonia-per-85-anniversario-snam",
-      "status": 200
-    },
-    {
-      "url": "https://www.quirinale.it/it/notizie/messaggio-presidente-repubblica-occasione-102-edizione-giornata-mondiale-risparmio",
-      "status": 200
-    },
-    {
-      "url": "https://www.quirinale.it/it/notizie/mattarella-riceve-presidente-repubblica-costa-rica",
-      "status": 200
-    },
-    {
-      "url": "https://www.quirinale.it/it/notizie/mattarella-consegna-premi-eni-award-2026",
-      "status": 200
-    },
-    {
-      "url": "https://www.quirinale.it/it/notizie/nostra-repubblica-compie-ottant-anni-1",
-      "status": 200
     }
   ],
-  "message": "Pagina accessibile, ma nessuna notizia con data di pubblicazione verificabile.",
+  "message": "Browser HTTP 403",
   "candidateSamples": [
     {
       "url": "https://www.quirinale.it/it/notizie/cordoglio-presidente-mattarella-per-vittime-incidente-elicottero-militare-italiano-precipitato-bosnia",
@@ -251,5 +232,5 @@
   "candidateCount": 12,
   "datedCount": 0,
   "listingUrl": "https://www.quirinale.it/",
-  "durationSeconds": 4.28
+  "durationSeconds": 4.32
 }

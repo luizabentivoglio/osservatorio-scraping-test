@@ -15,8 +15,9 @@
       "status": 200
     }
   ],
-  "message": "Percorso escluso da robots.txt",
+  "message": "Percorso escluso da robots.txt; prossimo controllo dopo quattro ore.",
   "httpStatus": null,
   "failedUrl": "https://www.ispionline.it/it",
-  "durationSeconds": 1.12
+  "durationSeconds": 1.12,
+  "policyVersion": 2
 }

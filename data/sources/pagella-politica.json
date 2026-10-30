@@ -1,19 +1,27 @@
 {
   "schemaVersion": 1,
+  "policyVersion": 2,
   "sourceId": "pagella-politica",
   "originUrl": "https://pagellapolitica.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-30T13:10:17.973483Z",
+  "collectedAt": "2026-10-30T13:19:16.617284Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
-      "title": "Così l’Europa vuole rimpatriare i migranti prima ancora che arrivino in Europa",
-      "url": "https://pagellapolitica.it/articoli/europa-rimpatrio-migranti-frontex",
-      "excerpt": "Tramite Frontex, la Commissione UE ha proposto di favorire i rimpatri tra Paesi esterni all’Unione. È una strategia...",
-      "publishedAt": "2026-10-30T00:00:00Z",
+      "title": "Un deputato di AVS ha diffuso una foto sulle manifestazioni fatta con l’IA",
+      "url": "https://pagellapolitica.it/articoli/deputato-avs-foto-falsa-manifestazioni",
+      "excerpt": "L’immagine, che ritrae dei manifestanti che si tengono a braccetto con dei poliziotti, è stata rilanciata anche da...",
+      "publishedAt": "2026-10-29T00:00:00Z",
+      "dateEvidence": "html:post-date"
+    },
+    {
+      "title": "Il governo ha reintrodotto il taglio sulle accise sul gasolio",
+      "url": "https://pagellapolitica.it/articoli/governo-nuovo-taglio-gasolio-accise",
+      "excerpt": "Lo sconto è di circa 4 centesimi al litro e durerà fino al 7 novembre, e si aggiunge al tetto sul prezzo dei carburanti introdotto da alcune...",
+      "publishedAt": "2026-10-28T00:00:00Z",
       "dateEvidence": "html:post-date"
     },
     {
@@ -43,13 +51,6 @@
       "excerpt": "Il partito ha pubblicato le prime due in pochi giorni ad agosto, mentre da ormai due mesi manca la terza, sebbene...",
       "publishedAt": "2026-10-27T00:00:00Z",
       "dateEvidence": "html:post-date"
-    },
-    {
-      "title": "Quello che non torna del discorso di Conte sulla sicurezza",
-      "url": "https://pagellapolitica.it/articoli/conte-sicurezza-fact-checking",
-      "excerpt": "Dalle norme sulle manifestazioni alle regole contro il burqa, abbiamo verificato sei dichiarazioni del presidente...",
-      "publishedAt": "2026-10-26T00:00:00Z",
-      "dateEvidence": "html:post-date"
     }
   ],
   "attempts": [
@@ -62,7 +63,11 @@
       "status": 200
     },
     {
-      "url": "https://pagellapolitica.it/articoli/europa-rimpatrio-migranti-frontex",
+      "url": "https://pagellapolitica.it/articoli/deputato-avs-foto-falsa-manifestazioni",
+      "status": 200
+    },
+    {
+      "url": "https://pagellapolitica.it/articoli/governo-nuovo-taglio-gasolio-accise",
       "status": 200
     },
     {
@@ -80,10 +85,6 @@
     {
       "url": "https://pagellapolitica.it/articoli/terza-parte-programma-vannacci-futuro-nazionale",
       "status": 200
-    },
-    {
-      "url": "https://pagellapolitica.it/articoli/conte-sicurezza-fact-checking",
-      "status": 200
     }
   ],
   "message": "6 notizie recenti con data verificata; copertura parziale.",
@@ -91,5 +92,5 @@
   "candidateCount": 6,
   "datedCount": 6,
   "listingUrl": "https://pagellapolitica.it/articoli",
-  "durationSeconds": 7.7
+  "durationSeconds": 6.71
 }

@@ -6,13 +6,13 @@
 | ap-news | blocked | html | 0 | access_restricted |
 | azione | blocked | html | 0 | access_restricted |
 | banca-italia | blocked | html | 0 | robots_disallowed |
-| breaking-italy | no_feed | crawl4ai | 0 | parsing_error |
+| breaking-italy | ok | trafilatura | 1 | — |
 | camera | no_feed | crawl4ai | 0 | parsing_error |
-| cisl | ok | rss | 40 | — |
+| cisl | blocked | html | 0 | robots_disallowed |
 | cnr | error | html | 0 | connection_error |
 | coldiretti | no_feed | crawl4ai | 0 | parsing_error |
 | commissione-europea | blocked | html | 0 | rate_limited |
-| comune-bollate | no_feed | crawl4ai | 0 | parsing_error |
+| comune-bollate | ok | trafilatura | 6 | — |
 | confcommercio | blocked | html | 0 | access_restricted |
 | confindustria | no_feed | crawl4ai | 0 | parsing_error |
 | consiglio-ue | blocked | html | 0 | access_restricted |
@@ -23,7 +23,7 @@
 | demos-media | ok | trafilatura | 0 | — |
 | demos-partito | ok | rss | 0 | — |
 | emergency | ok | trafilatura | 0 | — |
-| eurostat | ok | rss | 11 | — |
+| eurostat | blocked | html | 0 | robots_disallowed |
 | factanza | blocked | html | 0 | access_restricted |
 | fanpage | blocked | html | 0 | access_restricted |
 | forza-italia | ok | trafilatura | 0 | — |
@@ -38,7 +38,7 @@
 | ingv | ok | rss | 3 | — |
 | ispi | blocked | html | 0 | robots_disallowed |
 | ispra | ok | rss | 0 | — |
-| iss | no_feed | crawl4ai | 0 | parsing_error |
+| iss | ok | trafilatura | 0 | — |
 | istat | ok | rss | 10 | — |
 | istituto-bruno-leoni | ok | trafilatura | 5 | — |
 | italia-domani-rizzo | ok | trafilatura | 3 | — |
@@ -48,11 +48,11 @@
 | libera | no_feed | crawl4ai | 0 | parsing_error |
 | mef | ok | trafilatura | 2 | — |
 | msf | ok | trafilatura | 6 | — |
-| osservatorio-cpi | no_feed | crawl4ai | 0 | parsing_error |
+| osservatorio-cpi | ok | trafilatura | 6 | — |
 | oxfam | no_feed | crawl4ai | 0 | parsing_error |
 | pagella-politica | ok | trafilatura | 6 | — |
 | palazzo-chigi | ok | rss | 10 | — |
-| parlamento-europeo | no_feed | crawl4ai | 0 | parsing_error |
+| parlamento-europeo | error | html | 0 | render_error |
 | partito-liberaldemocratico | ok | trafilatura | 4 | — |
 | patt | ok | trafilatura | 0 | — |
 | patto-nord | no_feed | crawl4ai | 0 | parsing_error |
@@ -60,7 +60,7 @@
 | piu-europa | blocked | html | 0 | access_restricted |
 | piu-uno | ok | trafilatura | 6 | — |
 | pri | no_feed | crawl4ai | 0 | parsing_error |
-| quirinale | no_feed | crawl4ai | 0 | parsing_error |
+| quirinale | blocked | html | 0 | access_restricted |
 | rassegnally | blocked | html | 0 | access_restricted |
 | regione-lombardia | blocked | html | 0 | access_restricted |
 | reuters | blocked | html | 0 | robots_disallowed |

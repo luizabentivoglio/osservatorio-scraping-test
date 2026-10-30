@@ -1,14 +1,23 @@
 {
   "schemaVersion": 1,
+  "policyVersion": 2,
   "sourceId": "breaking-italy",
   "originUrl": "https://breakingitaly.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-30T13:08:50.969294Z",
-  "status": "no_feed",
-  "diagnosticCode": "parsing_error",
-  "method": "crawl4ai",
+  "collectedAt": "2026-10-30T13:17:44.993772Z",
+  "status": "ok",
+  "diagnosticCode": null,
+  "method": "trafilatura",
   "feedUrl": null,
-  "items": [],
+  "items": [
+    {
+      "title": "Lo sciopero generale e le nuove manifestazioni in Italia",
+      "url": "https://breakingitaly.it/newsletter/lo-sciopero-generale-e-le-nuove-manifestazioni-in-italia",
+      "excerpt": "Lo sciopero generale e le nuove manifestazioni in Italia",
+      "publishedAt": "2026-10-30T00:00:00Z",
+      "dateEvidence": "html:newsletter-publication"
+    }
+  ],
   "attempts": [
     {
       "url": "https://breakingitaly.it/robots.txt",
@@ -19,27 +28,7 @@
       "status": 200
     },
     {
-      "url": "https://breakingitaly.it/breaking-italy",
-      "status": 200
-    },
-    {
-      "url": "https://breakingitaly.it/breaking-italy/youssef-siher-e-stato-liberato-e-il-governo-e-arrabbiatissimo",
-      "status": 200
-    },
-    {
-      "url": "https://breakingitaly.it/newsletter/lo-sciopero-generale-e-le-nuove-manifestazioni-in-italia",
-      "status": 200
-    },
-    {
-      "url": "https://breakingitaly.it/newsletter/la-scarcerazione-di-youssef-siher-scatena-le-critiche-del-governo",
-      "status": 200
-    },
-    {
-      "url": "https://breakingitaly.it/newsletter/le-elezioni-in-israele-senza-un-vero-vincitore",
-      "status": 200
-    },
-    {
-      "url": "https://breakingitaly.it/newsletter/le-elezioni-in-israele-netanyahu-alla-prova-del-voto",
+      "url": "https://breakingitaly.it/feed",
       "status": 200
     },
     {
@@ -71,87 +60,41 @@
       "status": 200
     }
   ],
-  "message": "Pagina accessibile, ma nessuna notizia con data di pubblicazione verificabile.",
+  "message": "1 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [
     {
-      "url": "https://breakingitaly.it/breaking-italy",
-      "title": "Breaking Italy",
+      "url": "https://breakingitaly.it/ventiquaranta-stati-uniti",
+      "title": "VentiQuaranta",
       "h1": null,
       "dates": []
     },
     {
-      "url": "https://breakingitaly.it/breaking-italy/youssef-siher-e-stato-liberato-e-il-governo-e-arrabbiatissimo",
-      "title": "Youssef Siher è stato liberato, e il governo è arrabbiatissimo",
+      "url": "https://breakingitaly.it/lavora-con-noi",
+      "title": "Lavora con noi",
       "h1": null,
       "dates": []
     },
     {
-      "url": "https://breakingitaly.it/newsletter/lo-sciopero-generale-e-le-nuove-manifestazioni-in-italia",
-      "title": "Lo sciopero generale e le nuove manifestazioni in Italia",
-      "h1": "Lo sciopero generale e le nuove manifestazioni in Italia",
-      "dates": [
-        {
-          "tag": "p",
-          "class": [
-            "nl-post-date",
-            "nl-post-reading"
-          ],
-          "text": "30 ottobre 2026",
-          "datetime": null
-        }
-      ]
+      "url": "https://breakingitaly.it/diventa-partner",
+      "title": "Diventa partner",
+      "h1": null,
+      "dates": []
     },
     {
-      "url": "https://breakingitaly.it/newsletter/la-scarcerazione-di-youssef-siher-scatena-le-critiche-del-governo",
-      "title": "La scarcerazione di Youssef Siher scatena le critiche del governo",
-      "h1": "La scarcerazione di Youssef Siher scatena le critiche del governo",
-      "dates": [
-        {
-          "tag": "p",
-          "class": [
-            "nl-post-date",
-            "nl-post-reading"
-          ],
-          "text": "29 ottobre 2026",
-          "datetime": null
-        }
-      ]
+      "url": "https://breakingitaly.it/privacy-policy",
+      "title": "Privacy Policy",
+      "h1": "INFORMATIVA SUL TRATTAMENTO DEI DATI PERSONALI",
+      "dates": []
     },
     {
-      "url": "https://breakingitaly.it/newsletter/le-elezioni-in-israele-senza-un-vero-vincitore",
-      "title": "Le elezioni in Israele senza un vero vincitore",
-      "h1": "Le elezioni in Israele senza un vero vincitore",
-      "dates": [
-        {
-          "tag": "p",
-          "class": [
-            "nl-post-date",
-            "nl-post-reading"
-          ],
-          "text": "28 ottobre 2026",
-          "datetime": null
-        }
-      ]
-    },
-    {
-      "url": "https://breakingitaly.it/newsletter/le-elezioni-in-israele-netanyahu-alla-prova-del-voto",
-      "title": "Le elezioni in Israele, Netanyahu alla prova del voto",
-      "h1": "Le elezioni in Israele, Netanyahu alla prova del voto",
-      "dates": [
-        {
-          "tag": "p",
-          "class": [
-            "nl-post-date",
-            "nl-post-reading"
-          ],
-          "text": "27 ottobre 2026",
-          "datetime": null
-        }
-      ]
+      "url": "https://breakingitaly.it/condizioni-new",
+      "title": "Termini e condizioni",
+      "h1": "TERMINI E CONDIZIONI DEL SERVIZIO",
+      "dates": []
     }
   ],
   "candidateCount": 12,
-  "datedCount": 0,
+  "datedCount": 1,
   "listingUrl": "https://breakingitaly.it/",
-  "durationSeconds": 3.08
+  "durationSeconds": 5.6
 }

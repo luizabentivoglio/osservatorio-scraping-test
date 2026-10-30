@@ -1,102 +1,23 @@
 {
   "schemaVersion": 1,
+  "policyVersion": 2,
   "sourceId": "eurostat",
   "originUrl": "https://ec.europa.eu/eurostat/web/main/news",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-30T13:09:48.394216Z",
-  "status": "ok",
-  "diagnosticCode": null,
-  "method": "rss",
-  "feedUrl": "https://ec.europa.eu/eurostat/en/search?_estatsearchportlet_WAR_estatsearchportlet_collection=CAT_EURNEW&p_p_id=estatsearchportlet_WAR_estatsearchportlet&p_p_lifecycle=2&p_p_mode=view&p_p_resource_id=atom&p_p_state=maximized",
-  "items": [
-    {
-      "title": "EU household gas prices decrease in first half of 2026",
-      "url": "https://ec.europa.eu/eurostat/product?code=ddn-20261030-3",
-      "excerpt": "In the first half of 2026, average gas prices for EU households fell to €0.11 per kilowatt-hour (kWh). Prices decreased by 10.2% compared with the second semester of 2025 and by 3.5% compared with the first semester of 2025. This is the lowest average price of gas in the EU recorded after the fir...",
-      "publishedAt": "2026-10-30T10:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Household electricity prices ease in 1st half of 2026",
-      "url": "https://ec.europa.eu/eurostat/product?code=ddn-20261030-2",
-      "excerpt": "In the first half of 2026, average electricity prices for households in the EU decreased by 2.2% to €0.28, down from €0.29 per kWh in the second half of 2025. Prices remained well above levels from before the 2022 energy crisis. At the same time, taxes and levies also fell slightly as their shar...",
-      "publishedAt": "2026-10-30T10:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Rail passenger transport increased by 2.6% in 2025",
-      "url": "https://ec.europa.eu/eurostat/product?code=ddn-20261030-1",
-      "excerpt": "In 2025, 457 billion passenger-kilometres (pkm) were performed by rail in the EU, up from 445 billion in 2024 (+2.6%). This is the highest number reported by main rail undertakings since the start of the data collection in 2004. Germany registered the highest number of passengers carried at 2 95...",
-      "publishedAt": "2026-10-30T10:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "EU and euro area tax-to-GDP ratio up in 2025",
-      "url": "https://ec.europa.eu/eurostat/product?code=ddn-20261029-3",
-      "excerpt": "The overall tax-to-GDP ratio (the sum of taxes and net social contributions as a percentage of gross domestic product (GDP)) in the EU stood at 40.7% in 2025, up from 40.2% in 2024. In the euro area (EA20), the tax-to-GDP ratio also increased from 40.7% in 2024 to 41.3% in 2025. In absolute terms...",
-      "publishedAt": "2026-10-29T14:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Waste generation in the EU: 1 697 kg per capita in 2024",
-      "url": "https://ec.europa.eu/eurostat/product?code=ddn-20261029-2",
-      "excerpt": "In 2024, the EU generated 765 million tonnes of waste, excluding major mineral waste from mining, quarrying, construction and demolition. This was equivalent to 35% of all waste generated (2 196 million tonnes). On average, each person in the EU generated 1 697 kg of waste in 2024, not including ...",
-      "publishedAt": "2026-10-29T10:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "94.4% of EU children in early childhood education",
-      "url": "https://ec.europa.eu/eurostat/product?code=ddn-20261029-1",
-      "excerpt": "In 2024, 94.4% of children in the EU aged between 3 years and the starting age of compulsory primary education were participating in early childhood education. In half of all EU regions classified at level 2 of the nomenclature of territorial units for statistics (NUTS) with available data (99 o...",
-      "publishedAt": "2026-10-29T10:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "People at risk of poverty report more health-related difficulties",
-      "url": "https://ec.europa.eu/eurostat/product?code=ddn-20261028-1",
-      "excerpt": "In 2025, at EU level, people at risk of poverty reported more health-related difficulties in carrying out basic activities than those not at risk. Moderate or severe difficulties with walking were reported by 24.9% of people at risk of poverty, compared with 16.9% of those not at risk. People at ...",
-      "publishedAt": "2026-10-28T10:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "22 deaths worldwide involving EU ships in 2025",
-      "url": "https://ec.europa.eu/eurostat/product?code=ddn-20261027-2",
-      "excerpt": "In 2025, there were 22 fatalities in maritime accidents worldwide involving EU-registered ships, up by 7 from 2024. There were also 3 fatalities in accidents within the EU territorial seas involving ships registered outside the EU. Between 2021 and 2025, on average, 27 people died worldwide each ...",
-      "publishedAt": "2026-10-27T10:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Record-low fertility, with differences across EU regions",
-      "url": "https://ec.europa.eu/eurostat/product?code=ddn-20261027-1",
-      "excerpt": "In 2024, the EU’s total fertility rate was 1.34 live births per woman, the lowest level recorded since the time series began in 2001. Over the past 20 years, the fertility rate has remained consistently below the natural replacement rate of 2.10, varying between 1.34 and 1.57 live births per wom...",
-      "publishedAt": "2026-10-27T10:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Do young people consider themselves healthy?",
-      "url": "https://ec.europa.eu/eurostat/product?code=ddn-20261026-1",
-      "excerpt": "In 2025, 89.7% of young people aged 16 to 29 in the EU perceived their health as good or very good. This was clearly higher than the share in the total population aged 16 and over, at 67.9%. This share has stayed largely stable over time, with only a small decline since 2021 from 91.1% to 89.7%. ...",
-      "publishedAt": "2026-10-26T10:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "EU income inequality: Gini coefficient at 29.2 in 2025",
-      "url": "https://ec.europa.eu/eurostat/product?code=ddn-20261023-2",
-      "excerpt": "In 2025, the EU’s Gini coefficient was 29.2, down slightly from 29.4 in 2024. The Gini coefficient measures how income is distributed within a country compared with a situation of a perfectly equal distribution. A value of 0 represents perfect equality, where everyone has the same income, while a...",
-      "publishedAt": "2026-10-23T09:00:00Z",
-      "dateEvidence": "feed:published"
-    }
-  ],
+  "collectedAt": "2026-10-30T13:18:47.990005Z",
+  "status": "blocked",
+  "diagnosticCode": "robots_disallowed",
+  "method": "html",
+  "feedUrl": null,
+  "items": [],
   "attempts": [
     {
       "url": "https://ec.europa.eu/robots.txt",
       "status": 200
-    },
-    {
-      "url": "https://ec.europa.eu/eurostat/en/search?_estatsearchportlet_WAR_estatsearchportlet_collection=CAT_EURNEW&p_p_id=estatsearchportlet_WAR_estatsearchportlet&p_p_lifecycle=2&p_p_mode=view&p_p_resource_id=atom&p_p_state=maximized",
-      "status": 200
     }
   ],
-  "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 0.99
+  "message": "Percorso escluso da robots.txt",
+  "httpStatus": null,
+  "failedUrl": "https://ec.europa.eu/eurostat/en/search?_estatsearchportlet_WAR_estatsearchportlet_collection=CAT_EURNEW&p_p_id=estatsearchportlet_WAR_estatsearchportlet&p_p_lifecycle=2&p_p_mode=view&p_p_resource_id=atom&p_p_state=maximized",
+  "durationSeconds": 0.5
 }

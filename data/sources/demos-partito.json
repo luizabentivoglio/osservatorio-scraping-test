@@ -1,9 +1,10 @@
 {
   "schemaVersion": 1,
+  "policyVersion": 2,
   "sourceId": "demos-partito",
   "originUrl": "https://www.democraziasolidale.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-30T13:09:45.933900Z",
+  "collectedAt": "2026-10-30T13:18:41.294450Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
@@ -24,5 +25,5 @@
     }
   ],
   "message": "Feed dichiarato dalla fonte; date di pubblicazione verificate.",
-  "durationSeconds": 2.44
+  "durationSeconds": 2.21
 }

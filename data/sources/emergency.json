@@ -1,9 +1,10 @@
 {
   "schemaVersion": 1,
+  "policyVersion": 2,
   "sourceId": "emergency",
   "originUrl": "https://www.emergency.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-30T13:09:47.377574Z",
+  "collectedAt": "2026-10-30T13:18:43.507176Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -100,5 +101,5 @@
   "candidateCount": 8,
   "datedCount": 3,
   "listingUrl": "https://www.emergency.it/",
-  "durationSeconds": 5.19
+  "durationSeconds": 5.46
 }

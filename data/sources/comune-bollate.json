@@ -1,14 +1,58 @@
 {
   "schemaVersion": 1,
+  "policyVersion": 2,
   "sourceId": "comune-bollate",
   "originUrl": "https://comune.bollate.mi.it/it/news",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-30T13:09:00.668908Z",
-  "status": "no_feed",
-  "diagnosticCode": "parsing_error",
-  "method": "crawl4ai",
+  "collectedAt": "2026-10-30T13:17:51.083930Z",
+  "status": "ok",
+  "diagnosticCode": null,
+  "method": "trafilatura",
   "feedUrl": null,
-  "items": [],
+  "items": [
+    {
+      "title": "Carta dedicata a te. Tutte le info",
+      "url": "https://comune.bollate.mi.it/it/news/carta-dedicata-a-te-2051258",
+      "excerpt": "Sito ufficiale Comune di Bollate",
+      "publishedAt": "2026-10-23T00:00:00Z",
+      "dateEvidence": "html:news-date-label"
+    },
+    {
+      "title": "Giornata dell'Unità nazionale e delle Forze armate",
+      "url": "https://comune.bollate.mi.it/it/news/iv-novembre-2059690",
+      "excerpt": "Sito ufficiale Comune di Bollate",
+      "publishedAt": "2026-10-23T00:00:00Z",
+      "dateEvidence": "html:news-date-label"
+    },
+    {
+      "title": "Avviso pubblico misura Nidi gratis plus",
+      "url": "https://comune.bollate.mi.it/it/news/avviso-pubblico-misura-nidi-gratis-plus",
+      "excerpt": "Sito ufficiale Comune di Bollate",
+      "publishedAt": "2026-10-23T00:00:00Z",
+      "dateEvidence": "html:news-date-label"
+    },
+    {
+      "title": "Chiusura Uffici comunali per San Martino",
+      "url": "https://comune.bollate.mi.it/it/news/orari-2059632",
+      "excerpt": "Sito ufficiale Comune di Bollate",
+      "publishedAt": "2026-10-23T00:00:00Z",
+      "dateEvidence": "html:news-date-label"
+    },
+    {
+      "title": "Censimento ISTAT. Ritardi nella consegna delle lettere",
+      "url": "https://comune.bollate.mi.it/it/news/censimento-2044015-2059439",
+      "excerpt": "Sito ufficiale Comune di Bollate",
+      "publishedAt": "2026-10-23T00:00:00Z",
+      "dateEvidence": "html:news-date-label"
+    },
+    {
+      "title": "Sciopero generale proclamato per il 30 ottobre",
+      "url": "https://comune.bollate.mi.it/it/news/sciopero-2046496-2059402",
+      "excerpt": "Sito ufficiale Comune di Bollate",
+      "publishedAt": "2026-10-23T00:00:00Z",
+      "dateEvidence": "html:news-date-label"
+    }
+  ],
   "attempts": [
     {
       "url": "https://comune.bollate.mi.it/robots.txt",
@@ -41,69 +85,12 @@
     {
       "url": "https://comune.bollate.mi.it/it/news/sciopero-2046496-2059402",
       "status": 200
-    },
-    {
-      "url": "https://comune.bollate.mi.it/it/news/carta-dedicata-a-te-2051258",
-      "status": 200
-    },
-    {
-      "url": "https://comune.bollate.mi.it/it/news/iv-novembre-2059690",
-      "status": 200
-    },
-    {
-      "url": "https://comune.bollate.mi.it/it/news/avviso-pubblico-misura-nidi-gratis-plus",
-      "status": 200
-    },
-    {
-      "url": "https://comune.bollate.mi.it/it/news/orari-2059632",
-      "status": 200
-    },
-    {
-      "url": "https://comune.bollate.mi.it/it/news/sciopero-2046496-2059402",
-      "status": 200
     }
   ],
-  "message": "Pagina accessibile, ma nessuna notizia con data di pubblicazione verificabile.",
-  "candidateSamples": [
-    {
-      "url": "https://comune.bollate.mi.it/it/news/carta-dedicata-a-te-2051258",
-      "title": "Carta dedicata a te. Tutte le info",
-      "h1": "Seguici su",
-      "dates": []
-    },
-    {
-      "url": "https://comune.bollate.mi.it/it/news/iv-novembre-2059690",
-      "title": "Giornata dell'Unità nazionale e delle Forze armate",
-      "h1": "Seguici su",
-      "dates": []
-    },
-    {
-      "url": "https://comune.bollate.mi.it/it/news/avviso-pubblico-misura-nidi-gratis-plus",
-      "title": "Avviso pubblico misura Nidi gratis plus",
-      "h1": "Seguici su",
-      "dates": []
-    },
-    {
-      "url": "https://comune.bollate.mi.it/it/news/orari-2059632",
-      "title": "Chiusura Uffici comunali per San Martino",
-      "h1": "Seguici su",
-      "dates": []
-    },
-    {
-      "url": "https://comune.bollate.mi.it/it/news/censimento-2044015-2059439",
-      "title": "Censimento ISTAT. Ritardi nella consegna delle lettere",
-      "h1": "Seguici su",
-      "dates": []
-    },
-    {
-      "url": "https://comune.bollate.mi.it/it/news/sciopero-2046496-2059402",
-      "title": "Sciopero generale proclamato per il 30 ottobre",
-      "h1": "Seguici su",
-      "dates": []
-    }
-  ],
+  "message": "6 notizie recenti con data verificata; copertura parziale.",
+  "candidateSamples": [],
   "candidateCount": 12,
-  "datedCount": 0,
+  "datedCount": 6,
   "listingUrl": "https://comune.bollate.mi.it/it/news",
-  "durationSeconds": 6.97
+  "durationSeconds": 5.04
 }

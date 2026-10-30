@@ -1,9 +1,10 @@
 {
   "schemaVersion": 1,
+  "policyVersion": 2,
   "sourceId": "camera",
   "originUrl": "https://www.camera.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-30T13:08:51.469920Z",
+  "collectedAt": "2026-10-30T13:17:44.997028Z",
   "status": "no_feed",
   "diagnosticCode": "parsing_error",
   "method": "crawl4ai",
@@ -187,7 +188,7 @@
   "candidateCount": 12,
   "datedCount": 0,
   "listingUrl": "https://www.camera.it/leg19/1",
-  "durationSeconds": 20.26,
+  "durationSeconds": 16.06,
   "attemptErrors": [
     {
       "url": "https://www.camera.it/leg19/feeds/16/521.xml",

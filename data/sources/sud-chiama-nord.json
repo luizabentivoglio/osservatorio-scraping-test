@@ -1,9 +1,10 @@
 {
   "schemaVersion": 1,
+  "policyVersion": 2,
   "sourceId": "sud-chiama-nord",
   "originUrl": "https://www.sud-chiamanord.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-30T13:10:36.509374Z",
+  "collectedAt": "2026-10-30T13:19:47.637664Z",
   "status": "no_feed",
   "diagnosticCode": "parsing_error",
   "method": "crawl4ai",
@@ -48,5 +49,5 @@
   "candidateCount": 12,
   "datedCount": 0,
   "listingUrl": "https://www.sud-chiamanord.it/",
-  "durationSeconds": 1.16
+  "durationSeconds": 0.74
 }

@@ -15,8 +15,9 @@
       "status": 403
     }
   ],
-  "message": "HTTP 403: accesso limitato dalla fonte",
+  "message": "HTTP 403: accesso limitato dalla fonte; prossimo controllo dopo quattro ore.",
   "httpStatus": 403,
   "failedUrl": "https://goodmorningitalia.substack.com/robots.txt",
-  "durationSeconds": 0.06
+  "durationSeconds": 0.06,
+  "policyVersion": 2
 }

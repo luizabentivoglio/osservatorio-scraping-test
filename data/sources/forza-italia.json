@@ -1,9 +1,10 @@
 {
   "schemaVersion": 1,
+  "policyVersion": 2,
   "sourceId": "forza-italia",
   "originUrl": "https://forzaitalia.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-30T13:09:49.835936Z",
+  "collectedAt": "2026-10-30T13:18:48.502180Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -47,5 +48,5 @@
   "candidateCount": 4,
   "datedCount": 3,
   "listingUrl": "https://forzaitalia.it/",
-  "durationSeconds": 3.87
+  "durationSeconds": 3.67
 }

@@ -15,8 +15,9 @@
       "status": 403
     }
   ],
-  "message": "HTTP 403: accesso limitato dalla fonte",
+  "message": "HTTP 403: accesso limitato dalla fonte; prossimo controllo dopo quattro ore.",
   "httpStatus": 403,
   "failedUrl": "https://www.lombardianotizie.online/robots.txt",
-  "durationSeconds": 0.35
+  "durationSeconds": 0.35,
+  "policyVersion": 2
 }

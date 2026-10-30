@@ -1,9 +1,10 @@
 {
   "schemaVersion": 1,
+  "policyVersion": 2,
   "sourceId": "mef",
   "originUrl": "https://www.mef.gov.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-30T13:10:06.180996Z",
+  "collectedAt": "2026-10-30T13:19:09.204877Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -67,5 +68,5 @@
   "candidateCount": 11,
   "datedCount": 6,
   "listingUrl": "https://www.mef.gov.it/",
-  "durationSeconds": 5.52
+  "durationSeconds": 4.91
 }

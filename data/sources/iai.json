@@ -1,9 +1,10 @@
 {
   "schemaVersion": 1,
+  "policyVersion": 2,
   "sourceId": "iai",
   "originUrl": "https://www.iai.it/it",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-30T13:09:52.852694Z",
+  "collectedAt": "2026-10-30T13:18:52.205447Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -63,5 +64,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.iai.it/it/pubblicazioni/lista/iai-commentaries",
-  "durationSeconds": 3.5
+  "durationSeconds": 5.87
 }

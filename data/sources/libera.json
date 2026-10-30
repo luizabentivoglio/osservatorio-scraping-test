@@ -1,9 +1,10 @@
 {
   "schemaVersion": 1,
+  "policyVersion": 2,
   "sourceId": "libera",
   "originUrl": "https://www.libera.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-30T13:10:01.341693Z",
+  "collectedAt": "2026-10-30T13:19:04.640469Z",
   "status": "no_feed",
   "diagnosticCode": "parsing_error",
   "method": "crawl4ai",
@@ -109,5 +110,5 @@
   "candidateCount": 12,
   "datedCount": 0,
   "listingUrl": "https://www.libera.it/",
-  "durationSeconds": 5.8
+  "durationSeconds": 6.02
 }

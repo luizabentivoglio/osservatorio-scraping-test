@@ -1,9 +1,10 @@
 {
   "schemaVersion": 1,
+  "policyVersion": 2,
   "sourceId": "senato",
   "originUrl": "https://www.senato.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-30T13:10:35.605285Z",
+  "collectedAt": "2026-10-30T13:19:45.772749Z",
   "status": "no_feed",
   "diagnosticCode": "parsing_error",
   "method": "crawl4ai",
@@ -17,20 +18,12 @@
     {
       "url": "https://www.senato.it/attualita/archivio-notizie",
       "status": 202
-    },
-    {
-      "url": "https://www.senato.it/attualita/archivio-notizie?nid=83335+",
-      "status": 202
-    },
-    {
-      "url": "https://www.senato.it/attualita/archivio-notizie?nid=114129",
-      "status": 202
     }
   ],
   "message": "Pagina accessibile, ma nessuna notizia con data di pubblicazione verificabile.",
   "candidateSamples": [],
-  "candidateCount": 2,
+  "candidateCount": 0,
   "datedCount": 0,
   "listingUrl": "https://www.senato.it/attualita/archivio-notizie",
-  "durationSeconds": 0.33
+  "durationSeconds": 0.52
 }

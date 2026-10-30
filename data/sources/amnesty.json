@@ -1,9 +1,10 @@
 {
   "schemaVersion": 1,
+  "policyVersion": 2,
   "sourceId": "amnesty",
   "originUrl": "https://www.amnesty.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-30T13:08:50.471366Z",
+  "collectedAt": "2026-10-30T13:17:44.990380Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -89,5 +90,5 @@
   "candidateCount": 12,
   "datedCount": 3,
   "listingUrl": "https://www.amnesty.it/",
-  "durationSeconds": 7.07
+  "durationSeconds": 5.99
 }

@@ -1,9 +1,10 @@
 {
   "schemaVersion": 1,
+  "policyVersion": 2,
   "sourceId": "demos-media",
   "originUrl": "https://www.demositalia.it/blog",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-30T13:09:39.142596Z",
+  "collectedAt": "2026-10-30T13:18:31.877006Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -36,5 +37,5 @@
   "candidateCount": 3,
   "datedCount": 3,
   "listingUrl": "https://www.demositalia.it/blog",
-  "durationSeconds": 2.56
+  "durationSeconds": 2.34
 }

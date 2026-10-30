@@ -1,9 +1,10 @@
 {
   "schemaVersion": 1,
+  "policyVersion": 2,
   "sourceId": "dc-rotondi",
   "originUrl": "https://dcconrotondi.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-30T13:09:41.701881Z",
+  "collectedAt": "2026-10-30T13:18:34.216938Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
@@ -32,5 +33,5 @@
     }
   ],
   "message": "Feed dichiarato dalla fonte; date di pubblicazione verificate.",
-  "durationSeconds": 15.3
+  "durationSeconds": 13.77
 }

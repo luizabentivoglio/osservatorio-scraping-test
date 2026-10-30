@@ -1,9 +1,10 @@
 {
   "schemaVersion": 1,
+  "policyVersion": 2,
   "sourceId": "italia-domani-rizzo",
   "originUrl": "https://www.italiadomanirizzo.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-30T13:09:57.485411Z",
+  "collectedAt": "2026-10-30T13:19:01.123746Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -93,5 +94,5 @@
   "candidateCount": 8,
   "datedCount": 3,
   "listingUrl": "https://www.italiadomanirizzo.it/",
-  "durationSeconds": 3.85
+  "durationSeconds": 5.01
 }
