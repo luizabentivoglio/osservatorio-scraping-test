@@ -11,7 +11,7 @@
 | cisl | blocked | html | 0 | robots_disallowed |
 | cnr | error | html | 0 | connection_error |
 | coldiretti | ok | trafilatura | 6 | — |
-| commissione-europea | blocked | html | 0 | rate_limited |
+| commissione-europea | ok | trafilatura | 1 | — |
 | comune-bollate | ok | trafilatura | 6 | — |
 | confcommercio | blocked | html | 0 | access_restricted |
 | confindustria | ok | trafilatura | 1 | — |
@@ -46,7 +46,7 @@
 | la-stampa | ok | rss | 40 | — |
 | legambiente | ok | trafilatura | 0 | — |
 | libera | ok | html | 2 | — |
-| mef | ok | trafilatura | 2 | — |
+| mef | ok | trafilatura | 3 | — |
 | msf | ok | trafilatura | 6 | — |
 | osservatorio-cpi | ok | trafilatura | 6 | — |
 | oxfam | ok | trafilatura | 3 | — |
@@ -67,7 +67,7 @@
 | senato | no_feed | crawl4ai | 0 | parsing_error |
 | sud-chiama-nord | blocked | html | 0 | access_restricted |
 | svp | ok | trafilatura | 1 | — |
-| tgr-lombardia | no_feed | crawl4ai | 0 | parsing_error |
+| tgr-lombardia | ok | crawl4ai | 0 | — |
 | wwf | ok | trafilatura | 6 | — |
 
 Le date sono verificate nei feed o nei metadati di pubblicazione dei singoli articoli. Nessun dato personale dell’archivio è letto o pubblicato.

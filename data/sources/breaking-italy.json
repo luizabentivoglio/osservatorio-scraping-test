@@ -4,7 +4,7 @@
   "sourceId": "breaking-italy",
   "originUrl": "https://breakingitaly.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-30T13:30:03.615566Z",
+  "collectedAt": "2026-10-30T19:45:03.176086Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -96,5 +96,5 @@
   "candidateCount": 12,
   "datedCount": 1,
   "listingUrl": "https://breakingitaly.it/",
-  "durationSeconds": 5.3
+  "durationSeconds": 5.23
 }

@@ -1,9 +1,10 @@
 {
   "schemaVersion": 1,
+  "policyVersion": 2,
   "sourceId": "consiglio-ue",
   "originUrl": "https://www.consilium.europa.eu/it/press/press-releases/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-30T13:09:17.171319Z",
+  "collectedAt": "2026-10-30T19:45:14.311180Z",
   "status": "blocked",
   "diagnosticCode": "access_restricted",
   "method": "html",
@@ -15,9 +16,8 @@
       "status": 403
     }
   ],
-  "message": "HTTP 403: accesso limitato dalla fonte; prossimo controllo dopo quattro ore.; prossimo controllo dopo quattro ore.",
+  "message": "HTTP 403: accesso limitato dalla fonte",
   "httpStatus": 403,
   "failedUrl": "https://www.consilium.europa.eu/robots.txt",
-  "durationSeconds": 0.4,
-  "policyVersion": 2
+  "durationSeconds": 0.57
 }

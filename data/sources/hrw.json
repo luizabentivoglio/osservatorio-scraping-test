@@ -1,9 +1,10 @@
 {
   "schemaVersion": 1,
+  "policyVersion": 2,
   "sourceId": "hrw",
   "originUrl": "https://www.hrw.org/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-30T13:09:52.565251Z",
+  "collectedAt": "2026-10-30T19:45:34.328939Z",
   "status": "blocked",
   "diagnosticCode": "access_restricted",
   "method": "html",
@@ -15,9 +16,8 @@
       "status": 403
     }
   ],
-  "message": "HTTP 403: accesso limitato dalla fonte; prossimo controllo dopo quattro ore.; prossimo controllo dopo quattro ore.",
+  "message": "HTTP 403: accesso limitato dalla fonte",
   "httpStatus": 403,
   "failedUrl": "https://www.hrw.org/robots.txt",
-  "durationSeconds": 0.29,
-  "policyVersion": 2
+  "durationSeconds": 0.1
 }

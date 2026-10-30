@@ -4,12 +4,19 @@
   "sourceId": "osservatorio-cpi",
   "originUrl": "https://osservatoriocpi.unicatt.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-30T13:30:43.604047Z",
+  "collectedAt": "2026-10-30T19:45:47.071216Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "100 euro all’anno per i nuovi nati: in quali altri Stati è stato fatto?",
+      "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/100-euro-all-anno-per-i-nuovi-nati-in-quali-altri-stati-e-stato-fatto.html",
+      "excerpt": "Il disegno di Legge di Bilancio per il 2027 prevede un “Fondo Valore nuovi nati”, nel quale lo Stato verserà 100 euro all’anno fino al compimento dei 18 anni. Misure simili non sono nuove, ma non sono molto diffuse nel mondo. In Italia il fondo sarà aperto a tutti e arriverà a costare 630 milioni all’anno.",
+      "publishedAt": "2026-10-30T00:00:00Z",
+      "dateEvidence": "html:article-header"
+    },
     {
       "title": "Rapporto PISA 2025: la scuola italiana va meglio della media OCSE, ma restano forti divari interni",
       "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/rapporto-pisa-2025-la-scuola-italiana-va-meglio-della-media-ocse-ma-restano-forti-divari-interni.html",
@@ -44,13 +51,6 @@
       "excerpt": "Il PNRR ha rappresentato un’importante occasione per ridurre i divari infrastrutturali in Italia. Ma come si sono distribuiti gli investimenti rispetto alle dotazioni esistenti? Le disparità non riguardano soltanto il tradizionale divario Nord-Sud, ma emergono anche tra i capoluoghi di regione e i territori circostanti",
       "publishedAt": "2026-10-19T00:00:00Z",
       "dateEvidence": "html:article-header"
-    },
-    {
-      "title": "Meno alunni, più insegnanti: come cambierà il rapporto studenti/docenti in Italia",
-      "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/meno-alunni-piu-insegnanti-come-cambiera-il-rapporto-studenti-docenti-in-italia.html",
-      "excerpt": "Il calo delle nascite, e quindi degli studenti, modifica il fabbisogno di insegnanti: tra il 2015 e il 2024, nelle scuole statali, gli iscritti sono diminuiti del 10%, mentre i docenti sono aumentati del 16%. Il rapporto studenti/insegnanti è già inferiore alla media europea e OCSE e potrebbe scendere ulteriormente.",
-      "publishedAt": "2026-10-19T00:00:00Z",
-      "dateEvidence": "html:article-header"
     }
   ],
   "attempts": [
@@ -60,6 +60,10 @@
     },
     {
       "url": "https://osservatoriocpi.unicatt.it/pubblicazioni.html",
+      "status": 200
+    },
+    {
+      "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/100-euro-all-anno-per-i-nuovi-nati-in-quali-altri-stati-e-stato-fatto.html",
       "status": 200
     },
     {
@@ -81,10 +85,6 @@
     {
       "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/pnrr-e-divari-infrastrutturali-dove-vanno-gli-investimenti.html",
       "status": 200
-    },
-    {
-      "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/meno-alunni-piu-insegnanti-come-cambiera-il-rapporto-studenti-docenti-in-italia.html",
-      "status": 200
     }
   ],
   "message": "6 notizie recenti con data verificata; copertura parziale.",
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://osservatoriocpi.unicatt.it/pubblicazioni.html",
-  "durationSeconds": 5.71
+  "durationSeconds": 5.46
 }

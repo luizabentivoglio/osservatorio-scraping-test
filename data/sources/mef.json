@@ -4,12 +4,19 @@
   "sourceId": "mef",
   "originUrl": "https://www.mef.gov.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-30T13:30:43.187469Z",
+  "collectedAt": "2026-10-30T19:45:46.636557Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "Giorgetti: prudenza prima forma di libertà, risparmiare il modo più concreto di credere nel domani",
+      "url": "https://www.mef.gov.it/inevidenza/Giorgetti-prudenza-prima-forma-di-liberta-risparmiare-il-modo-piu-concreto-di-credere-nel-domani/",
+      "excerpt": "Il ministro alla giornata del risparmio: non useremo il futuro dei giovani per pagare il nostro presente",
+      "publishedAt": "2026-10-30T16:18:44Z",
+      "dateEvidence": "meta:datepublished"
+    },
     {
       "title": "BTP Valore: oltre 16,5 miliardi raccolti nella prima doppia emissione, tassi cedolari rivisti al rialzo",
       "url": "https://www.mef.gov.it/inevidenza/BTP-Valore-oltre-165-miliardi-raccolti-nella-prima-doppia-emissione-tassi-cedolari-rivisti-al-rialzo/",
@@ -39,15 +46,15 @@
       "status": 200
     },
     {
+      "url": "https://www.mef.gov.it/inevidenza/Giorgetti-prudenza-prima-forma-di-liberta-risparmiare-il-modo-piu-concreto-di-credere-nel-domani/",
+      "status": 200
+    },
+    {
       "url": "https://www.mef.gov.it/inevidenza/BTP-Valore-oltre-165-miliardi-raccolti-nella-prima-doppia-emissione-tassi-cedolari-rivisti-al-rialzo/",
       "status": 200
     },
     {
       "url": "https://www.mef.gov.it/inevidenza/Dpb-inviato-a-Commissione-e-Parlamento/",
-      "status": 200
-    },
-    {
-      "url": "https://www.mef.gov.it/inevidenza/Giorgetti-nuvoloni-allorizzonte-ma-Italia-mantiene-la-rotta/",
       "status": 200
     },
     {
@@ -63,10 +70,10 @@
       "status": 200
     }
   ],
-  "message": "2 notizie recenti con data verificata; copertura parziale.",
+  "message": "3 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [],
   "candidateCount": 11,
   "datedCount": 6,
   "listingUrl": "https://www.mef.gov.it/",
-  "durationSeconds": 4.57
+  "durationSeconds": 4.42
 }

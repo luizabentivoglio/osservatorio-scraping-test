@@ -4,7 +4,7 @@
   "sourceId": "cisl",
   "originUrl": "https://www.cisl.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-30T13:17:44.995473Z",
+  "collectedAt": "2026-10-30T19:45:03.217025Z",
   "status": "blocked",
   "diagnosticCode": "robots_disallowed",
   "method": "html",
@@ -20,8 +20,8 @@
       "status": 200
     }
   ],
-  "message": "Percorso escluso da robots.txt; prossimo controllo dopo quattro ore.",
+  "message": "Percorso escluso da robots.txt",
   "httpStatus": null,
   "failedUrl": "https://www.cisl.it/feed/",
-  "durationSeconds": 11.2
+  "durationSeconds": 11.09
 }

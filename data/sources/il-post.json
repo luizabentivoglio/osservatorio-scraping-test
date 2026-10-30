@@ -4,52 +4,52 @@
   "sourceId": "il-post",
   "originUrl": "https://www.ilpost.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-30T13:30:33.449574Z",
+  "collectedAt": "2026-10-30T19:45:38.713358Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
-      "title": "A ottobre in Italia l’inflazione è arrivata al 5,4 per cento, ai massimi da tre anni",
-      "url": "https://www.ilpost.it/2026/10/30/italia-economia-inflazione-prezzi-ottobre-2026-massimi-3-anni/?bitPosition=1",
-      "excerpt": "A ottobre in Italia l’inflazione è arrivata al 5,4 per cento, ai massimi da tre anni - Condividi - X - Regala il Post Secondo la stima pubblicata da ISTAT, in Italia a ottobre l’inflazione è stata del 5,4 per cento, e significa che nel mese appena trascorso i prezzi sono risultati più alti del 5,4 per cento rispetto a ",
-      "publishedAt": "2026-10-30T10:01:59Z",
+      "title": "Tre carabinieri sono indagati per la perquisizione a casa dei fratelli Ramponi, in cui morirono tre loro colleghi",
+      "url": "https://www.ilpost.it/2026/10/30/tre-carabinieri-accusati-di-omicio-colposo-castel-dazzano-verona/?bitPosition=1",
+      "excerpt": "Tre carabinieri sono indagati per la perquisizione a casa dei fratelli Ramponi, in cui morirono tre loro colleghi - Condividi - X - Regala il Post La procura di Verona ha indagato per omicidio colposo plurimo tre ufficiali dei carabinieri che il 14 ottobre 2025 erano responsabili di una perquisizione in una casa a Cast",
+      "publishedAt": "2026-10-30T17:17:53Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "A Oleshky è in corso l’evacuazione della popolazione",
-      "url": "https://www.ilpost.it/2026/10/30/arrivo-aiuti-oleshky/?homepagePosition=0",
-      "excerpt": "Dopo oltre quattro anni di occupazione russa, grazie a una tregua umanitaria annunciata la settimana scorsa",
-      "publishedAt": "2026-10-30T09:54:58Z",
+      "title": "La polizia scozzese ha aperto un’indagine sulle visite di Jeffrey Epstein in una residenza dei reali britannici",
+      "url": "https://www.ilpost.it/2026/10/30/polizia-scozzese-indagini-balmoral-epstein-ex-principe-andrea/?bitPosition=2",
+      "excerpt": "La polizia scozzese ha aperto un’indagine sulle visite di Jeffrey Epstein in una residenza dei reali britannici - Condividi - X - Regala il Post La polizia scozzese ha detto che sta indagando sulle visite che il finanziere statunitense Jeffrey Epstein e la sua compagna Ghislaine Maxwell fecero nella residenza reale del",
+      "publishedAt": "2026-10-30T15:21:18Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "Nel terzo trimestre dell’anno l’economia italiana è cresciuta ancora meno del previsto",
-      "url": "https://www.ilpost.it/2026/10/30/italia-economia-pil-terzo-trimestre/?bitPosition=2",
-      "excerpt": "Nel terzo trimestre dell’anno l’economia italiana è cresciuta ancora meno del previsto - Condividi - X - Regala il Post Secondo la stima preliminare pubblicata dall’Istat, nel terzo trimestre dell’anno il prodotto interno lordo italiano è rimasto invariato rispetto al trimestre precedente. È un risultato inferiore alle",
-      "publishedAt": "2026-10-30T09:53:05Z",
+      "title": "Dall’ultimo Call of Duty saranno rimossi alcuni video di un incidente a Seul che causò 160 morti, dopo le proteste delle famiglie",
+      "url": "https://www.ilpost.it/2026/10/30/call-of-duty-rimozione-video-incidente-seul/?bitPosition=3",
+      "excerpt": "Dall’ultimo Call of Duty saranno rimossi alcuni video di un incidente a Seul che causò 160 morti, dopo le proteste delle famiglie - Condividi - X - Regala il Post Activision, l’azienda che produce la nota serie di videogiochi Call of Duty, ha deciso di rimuovere dall’ultimo titolo uscito, Modern Warfare 4, le immagini ",
+      "publishedAt": "2026-10-30T14:59:15Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "Il valore in borsa di Alphabet, la società che possiede Google, è diminuito di circa 500 miliardi di dollari in un solo giorno",
-      "url": "https://www.ilpost.it/2026/10/30/alphabet-google-crollo-valore-borsa/?bitPosition=3",
-      "excerpt": "Il valore in borsa di Alphabet, la società che possiede Google, è diminuito di circa 500 miliardi di dollari in un solo giorno - Condividi - X - Regala il Post Giovedì le azioni di Alphabet, la società che possiede Google, hanno perso il 13 per cento in borsa, producendo per l’azienda una perdita di valore pari a circa",
-      "publishedAt": "2026-10-30T09:07:34Z",
+      "title": "ArcelorMittal si prese l’Ilva per farla fallire?",
+      "url": "https://www.ilpost.it/2026/10/30/arcelormittal-ilva-commissari-straordinari-fallimento/?homepagePosition=0",
+      "excerpt": "Lo sostengono i commissari che la gestiscono per conto del governo, che al loro arrivo nel 2024 trovarono una situazione disastrosa",
+      "publishedAt": "2026-10-30T14:41:59Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "Le due città dove si decide la guerra in Ucraina",
-      "url": "https://www.ilpost.it/2026/10/20/kramatorsk-sloviansk-ucraina/?homepagePosition=0.1&referrerPost=3718882",
-      "excerpt": "I soldati russi sono a 10 chilometri da Kramatorsk e Sloviansk, due posti normali che sono diventati gli ostacoli più grandi all’invasione: ci siamo andati",
-      "publishedAt": "2026-10-20T10:02:30Z",
+      "title": "L’ex ILVA deve chiudere davvero",
+      "url": "https://www.ilpost.it/2026/10/29/ex-ilva-chiude-area-a-caldo-taranto-cassazione/?homepagePosition=0.1&referrerPost=3718069",
+      "excerpt": "La Corte di Cassazione ha confermato che l'area a caldo dello stabilimento di Taranto non può continuare a funzionare",
+      "publishedAt": "2026-10-29T13:00:21Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "Che situazione c’è a Oleshky",
-      "url": "https://www.ilpost.it/2026/10/17/oleshky-citta-ucraina-russia-papa/?homepagePosition=0.2&referrerPost=3718882",
-      "excerpt": "Nella città ucraina occupata che il papa ha chiesto a Putin di evacuare mancano cibo, acqua ed elettricità, e non si può scappare",
-      "publishedAt": "2026-10-17T07:02:18Z",
+      "title": "Breve storia dell’ex Ilva, dalla Grande depressione a oggi",
+      "url": "https://www.ilpost.it/2026/10/18/ex-ilva-storia/?homepagePosition=0.2&referrerPost=3718069",
+      "excerpt": "Ora che l'acciaieria di Taranto ha avviato la chiusura",
+      "publishedAt": "2026-10-18T15:24:15Z",
       "dateEvidence": "jsonld:datePublished"
     }
   ],
@@ -63,27 +63,27 @@
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/10/30/arrivo-aiuti-oleshky/?homepagePosition=0",
+      "url": "https://www.ilpost.it/2026/10/30/arcelormittal-ilva-commissari-straordinari-fallimento/?homepagePosition=0",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/10/20/kramatorsk-sloviansk-ucraina/?homepagePosition=0.1&referrerPost=3718882",
+      "url": "https://www.ilpost.it/2026/10/29/ex-ilva-chiude-area-a-caldo-taranto-cassazione/?homepagePosition=0.1&referrerPost=3718069",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/10/17/oleshky-citta-ucraina-russia-papa/?homepagePosition=0.2&referrerPost=3718882",
+      "url": "https://www.ilpost.it/2026/10/18/ex-ilva-storia/?homepagePosition=0.2&referrerPost=3718069",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/10/30/italia-economia-inflazione-prezzi-ottobre-2026-massimi-3-anni/?bitPosition=1",
+      "url": "https://www.ilpost.it/2026/10/30/tre-carabinieri-accusati-di-omicio-colposo-castel-dazzano-verona/?bitPosition=1",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/10/30/italia-economia-pil-terzo-trimestre/?bitPosition=2",
+      "url": "https://www.ilpost.it/2026/10/30/polizia-scozzese-indagini-balmoral-epstein-ex-principe-andrea/?bitPosition=2",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/10/30/alphabet-google-crollo-valore-borsa/?bitPosition=3",
+      "url": "https://www.ilpost.it/2026/10/30/call-of-duty-rimozione-video-incidente-seul/?bitPosition=3",
       "status": 200
     }
   ],
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.ilpost.it/",
-  "durationSeconds": 3.56
+  "durationSeconds": 3.53
 }

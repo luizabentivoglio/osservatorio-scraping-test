@@ -4,7 +4,7 @@
   "sourceId": "wwf",
   "originUrl": "https://www.wwf.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-30T13:31:05.715346Z",
+  "collectedAt": "2026-10-30T19:46:15.165463Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.wwf.it/",
-  "durationSeconds": 4.08
+  "durationSeconds": 3.9
 }

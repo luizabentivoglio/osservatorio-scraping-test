@@ -4,7 +4,7 @@
   "sourceId": "quirinale",
   "originUrl": "https://www.quirinale.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-30T13:19:45.083430Z",
+  "collectedAt": "2026-10-30T19:46:05.434133Z",
   "status": "blocked",
   "diagnosticCode": "access_restricted",
   "method": "html",
@@ -46,9 +46,13 @@
     {
       "url": "https://www.quirinale.it/it/notizie/cordoglio-presidente-mattarella-per-vittime-incidente-elicottero-militare-italiano-precipitato-bosnia",
       "status": 200
+    },
+    {
+      "url": "https://www.quirinale.it/it/notizie/mattarella-cerimonia-per-85-anniversario-snam",
+      "status": 200
     }
   ],
-  "message": "Browser HTTP 403; prossimo controllo dopo quattro ore.",
+  "message": "Browser HTTP 403",
   "candidateSamples": [
     {
       "url": "https://www.quirinale.it/it/notizie/cordoglio-presidente-mattarella-per-vittime-incidente-elicottero-militare-italiano-precipitato-bosnia",
@@ -232,5 +236,5 @@
   "candidateCount": 12,
   "datedCount": 0,
   "listingUrl": "https://www.quirinale.it/",
-  "durationSeconds": 4.32
+  "durationSeconds": 4.01
 }

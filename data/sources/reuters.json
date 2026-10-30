@@ -1,9 +1,10 @@
 {
   "schemaVersion": 1,
+  "policyVersion": 2,
   "sourceId": "reuters",
   "originUrl": "https://www.reuters.com/world/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-30T13:10:35.418912Z",
+  "collectedAt": "2026-10-30T19:46:07.291174Z",
   "status": "blocked",
   "diagnosticCode": "robots_disallowed",
   "method": "html",
@@ -15,9 +16,8 @@
       "status": 200
     }
   ],
-  "message": "Percorso escluso da robots.txt; prossimo controllo dopo quattro ore.; prossimo controllo dopo quattro ore.",
+  "message": "Percorso escluso da robots.txt",
   "httpStatus": null,
   "failedUrl": "https://www.reuters.com/world/",
-  "durationSeconds": 0.18,
-  "policyVersion": 2
+  "durationSeconds": 0.21
 }

@@ -4,16 +4,37 @@
   "sourceId": "camera",
   "originUrl": "https://www.camera.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-30T13:30:03.617048Z",
+  "collectedAt": "2026-10-30T19:45:03.932462Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
+      "title": "Elezione del CSM",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63745",
+      "excerpt": "Mercoledì 28 ottobre il Parlamento in seduta comune si è riunito per eleggere dieci componenti i...",
+      "publishedAt": "2026-10-30T00:00:00Z",
+      "dateEvidence": "html:publication-label"
+    },
+    {
+      "title": "Interpellanze e interrogazioni, decreto prezzi petroliferi",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63730",
+      "excerpt": "La Camera è convocata martedì 3 novembre alle ore 10 per lo svolgimento di interpellanze e interro...",
+      "publishedAt": "2026-10-30T00:00:00Z",
+      "dateEvidence": "html:publication-label"
+    },
+    {
       "title": "Audizioni Copasir – Martedì Valensise – Mercoledì Quacivi",
       "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63742",
       "excerpt": "Il Comitato parlamentare per la sicurezza della Repubblica (Copasir) svolge le seguenti audizioni, a...",
+      "publishedAt": "2026-10-30T00:00:00Z",
+      "dateEvidence": "html:publication-label"
+    },
+    {
+      "title": "Stati generali dell'educazione e della prevenzione - Lunedì alle 15 diretta webtv - Saluto di Mulè",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63732",
+      "excerpt": "Lunedì 2 novembre, alle ore 15, presso la Sala della Regina di Montecitorio si svolge il convegno ...",
       "publishedAt": "2026-10-30T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
@@ -25,31 +46,10 @@
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "Interpellanza urgente",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63726",
-      "excerpt": "Nella seduta odierna ha avuto luogo lo svolgimento di una interpellanza urgente sul seguente argomen...",
+      "title": "Celebrare Pier Paolo Pasolini nel giorno della sua scomparsa - Lunedì alle 17.30 diretta webtv",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63740",
+      "excerpt": "Lunedì 2 novembre, alle ore 17.30, presso la Sala del Mappamondo di Montecitorio si svolge il conve...",
       "publishedAt": "2026-10-30T00:00:00Z",
-      "dateEvidence": "html:publication-label"
-    },
-    {
-      "title": "Italia - Giappone: partenariato strategico speciale sullo spazio",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63704",
-      "excerpt": "Con la firma di una Dichiarazione di intenti tra il presidente dell’Università di Tokyo, Teruo Fu...",
-      "publishedAt": "2026-10-29T00:00:00Z",
-      "dateEvidence": "html:publication-label"
-    },
-    {
-      "title": "Sarfatti - Venerdì alle 17.30 diretta webtv",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63689",
-      "excerpt": "Venerdì 30 ottobre, alle ore 17.30, presso la Sala del Mappamondo di Montecitorio si svolge il conv...",
-      "publishedAt": "2026-10-29T00:00:00Z",
-      "dateEvidence": "html:publication-label"
-    },
-    {
-      "title": "Crisi di Hormuz e le nuove rotte del commercio eurasiatico - Sfide e opportunità per le politiche doganali – Venerdì alle 9.30 diretta webtv - Messaggio di Fontana",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63665",
-      "excerpt": "Venerdì 30 ottobre, alle ore 9.30, presso l'Aula dei Gruppi parlamentari della Camera si svolge il ...",
-      "publishedAt": "2026-10-28T00:00:00Z",
       "dateEvidence": "html:publication-label"
     }
   ],
@@ -63,7 +63,19 @@
       "status": 200
     },
     {
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63745",
+      "status": 200
+    },
+    {
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63730",
+      "status": 200
+    },
+    {
       "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63742",
+      "status": 200
+    },
+    {
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63732",
       "status": 200
     },
     {
@@ -71,26 +83,14 @@
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63726",
-      "status": 200
-    },
-    {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63704",
-      "status": 200
-    },
-    {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63689",
-      "status": 200
-    },
-    {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63665",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63740",
       "status": 200
     }
   ],
   "message": "6 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [],
-  "candidateCount": 12,
+  "candidateCount": 11,
   "datedCount": 6,
   "listingUrl": "https://comunicazione.camera.it/archivio-prima-pagina",
-  "durationSeconds": 4.27
+  "durationSeconds": 4.01
 }

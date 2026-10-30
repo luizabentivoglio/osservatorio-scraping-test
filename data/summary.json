@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T13:31:19.350935+00:00",
+  "generatedAt": "2026-10-30T19:46:22.657818+00:00",
   "sourceCount": 67,
-  "ok": 35,
-  "items": 147,
+  "ok": 37,
+  "items": 149,
   "results": [
     {
       "sourceId": "amnesty",
@@ -20,7 +20,7 @@
       "status": "blocked",
       "method": "html",
       "diagnosticCode": "access_restricted",
-      "message": "HTTP 403: accesso limitato dalla fonte; prossimo controllo dopo quattro ore.; prossimo controllo dopo quattro ore.",
+      "message": "HTTP 403: accesso limitato dalla fonte",
       "candidateCount": null,
       "datedCount": null,
       "itemCount": 0
@@ -30,7 +30,7 @@
       "status": "blocked",
       "method": "html",
       "diagnosticCode": "access_restricted",
-      "message": "HTTP 403: accesso limitato dalla fonte; prossimo controllo dopo quattro ore.; prossimo controllo dopo quattro ore.",
+      "message": "HTTP 403: accesso limitato dalla fonte",
       "candidateCount": null,
       "datedCount": null,
       "itemCount": 0
@@ -40,7 +40,7 @@
       "status": "blocked",
       "method": "html",
       "diagnosticCode": "robots_disallowed",
-      "message": "Percorso escluso da robots.txt; prossimo controllo dopo quattro ore.; prossimo controllo dopo quattro ore.",
+      "message": "Percorso escluso da robots.txt",
       "candidateCount": null,
       "datedCount": null,
       "itemCount": 0
@@ -61,7 +61,7 @@
       "method": "trafilatura",
       "diagnosticCode": null,
       "message": "6 notizie recenti con data verificata; copertura parziale.",
-      "candidateCount": 12,
+      "candidateCount": 11,
       "datedCount": 6,
       "itemCount": 6
     },
@@ -70,7 +70,7 @@
       "status": "blocked",
       "method": "html",
       "diagnosticCode": "robots_disallowed",
-      "message": "Percorso escluso da robots.txt; prossimo controllo dopo quattro ore.",
+      "message": "Percorso escluso da robots.txt",
       "candidateCount": null,
       "datedCount": null,
       "itemCount": 0
@@ -97,13 +97,13 @@
     },
     {
       "sourceId": "commissione-europea",
-      "status": "blocked",
-      "method": "html",
-      "diagnosticCode": "rate_limited",
-      "message": "HTTP 429: accesso limitato dalla fonte; prossimo controllo dopo quattro ore.; prossimo controllo dopo quattro ore.",
-      "candidateCount": null,
-      "datedCount": null,
-      "itemCount": 0
+      "status": "ok",
+      "method": "trafilatura",
+      "diagnosticCode": null,
+      "message": "1 notizie recenti con data verificata; copertura parziale.",
+      "candidateCount": 4,
+      "datedCount": 1,
+      "itemCount": 1
     },
     {
       "sourceId": "comune-bollate",
@@ -120,7 +120,7 @@
       "status": "blocked",
       "method": "html",
       "diagnosticCode": "access_restricted",
-      "message": "HTTP 403: accesso limitato dalla fonte; prossimo controllo dopo quattro ore.; prossimo controllo dopo quattro ore.",
+      "message": "HTTP 403: accesso limitato dalla fonte",
       "candidateCount": null,
       "datedCount": null,
       "itemCount": 0
@@ -140,7 +140,7 @@
       "status": "blocked",
       "method": "html",
       "diagnosticCode": "access_restricted",
-      "message": "HTTP 403: accesso limitato dalla fonte; prossimo controllo dopo quattro ore.; prossimo controllo dopo quattro ore.",
+      "message": "HTTP 403: accesso limitato dalla fonte",
       "candidateCount": null,
       "datedCount": null,
       "itemCount": 0
@@ -220,7 +220,7 @@
       "status": "blocked",
       "method": "html",
       "diagnosticCode": "robots_disallowed",
-      "message": "Percorso escluso da robots.txt; prossimo controllo dopo quattro ore.",
+      "message": "Percorso escluso da robots.txt",
       "candidateCount": null,
       "datedCount": null,
       "itemCount": 0
@@ -230,7 +230,7 @@
       "status": "blocked",
       "method": "html",
       "diagnosticCode": "access_restricted",
-      "message": "HTTP 403: accesso limitato dalla fonte; prossimo controllo dopo quattro ore.; prossimo controllo dopo quattro ore.",
+      "message": "HTTP 403: accesso limitato dalla fonte",
       "candidateCount": null,
       "datedCount": null,
       "itemCount": 0
@@ -240,7 +240,7 @@
       "status": "blocked",
       "method": "html",
       "diagnosticCode": "access_restricted",
-      "message": "HTTP 403: accesso limitato dalla fonte; prossimo controllo dopo quattro ore.; prossimo controllo dopo quattro ore.",
+      "message": "HTTP 403: accesso limitato dalla fonte",
       "candidateCount": null,
       "datedCount": null,
       "itemCount": 0
@@ -270,7 +270,7 @@
       "status": "blocked",
       "method": "html",
       "diagnosticCode": "access_restricted",
-      "message": "HTTP 403: accesso limitato dalla fonte; prossimo controllo dopo quattro ore.; prossimo controllo dopo quattro ore.",
+      "message": "HTTP 403: accesso limitato dalla fonte",
       "candidateCount": null,
       "datedCount": null,
       "itemCount": 0
@@ -290,7 +290,7 @@
       "status": "blocked",
       "method": "html",
       "diagnosticCode": "access_restricted",
-      "message": "HTTP 403: accesso limitato dalla fonte; prossimo controllo dopo quattro ore.; prossimo controllo dopo quattro ore.",
+      "message": "HTTP 403: accesso limitato dalla fonte",
       "candidateCount": null,
       "datedCount": null,
       "itemCount": 0
@@ -310,7 +310,7 @@
       "status": "blocked",
       "method": "html",
       "diagnosticCode": "robots_disallowed",
-      "message": "Percorso escluso da robots.txt; prossimo controllo dopo quattro ore.; prossimo controllo dopo quattro ore.",
+      "message": "Percorso escluso da robots.txt",
       "candidateCount": null,
       "datedCount": null,
       "itemCount": 0
@@ -320,7 +320,7 @@
       "status": "blocked",
       "method": "html",
       "diagnosticCode": "access_restricted",
-      "message": "HTTP 403: accesso limitato dalla fonte; prossimo controllo dopo quattro ore.; prossimo controllo dopo quattro ore.",
+      "message": "HTTP 403: accesso limitato dalla fonte",
       "candidateCount": null,
       "datedCount": null,
       "itemCount": 0
@@ -350,7 +350,7 @@
       "status": "blocked",
       "method": "html",
       "diagnosticCode": "robots_disallowed",
-      "message": "Percorso escluso da robots.txt; prossimo controllo dopo quattro ore.; prossimo controllo dopo quattro ore.",
+      "message": "Percorso escluso da robots.txt",
       "candidateCount": null,
       "datedCount": null,
       "itemCount": 0
@@ -410,7 +410,7 @@
       "status": "blocked",
       "method": "html",
       "diagnosticCode": "access_restricted",
-      "message": "HTTP 403: accesso limitato dalla fonte; prossimo controllo dopo quattro ore.; prossimo controllo dopo quattro ore.",
+      "message": "HTTP 403: accesso limitato dalla fonte",
       "candidateCount": null,
       "datedCount": null,
       "itemCount": 0
@@ -450,10 +450,10 @@
       "status": "ok",
       "method": "trafilatura",
       "diagnosticCode": null,
-      "message": "2 notizie recenti con data verificata; copertura parziale.",
+      "message": "3 notizie recenti con data verificata; copertura parziale.",
       "candidateCount": 11,
       "datedCount": 6,
-      "itemCount": 2
+      "itemCount": 3
     },
     {
       "sourceId": "msf",
@@ -550,7 +550,7 @@
       "status": "blocked",
       "method": "html",
       "diagnosticCode": "access_restricted",
-      "message": "HTTP 403: accesso limitato dalla fonte; prossimo controllo dopo quattro ore.; prossimo controllo dopo quattro ore.",
+      "message": "HTTP 403: accesso limitato dalla fonte",
       "candidateCount": null,
       "datedCount": null,
       "itemCount": 0
@@ -560,7 +560,7 @@
       "status": "blocked",
       "method": "html",
       "diagnosticCode": "access_restricted",
-      "message": "HTTP 403: accesso limitato dalla fonte; prossimo controllo dopo quattro ore.; prossimo controllo dopo quattro ore.",
+      "message": "HTTP 403: accesso limitato dalla fonte",
       "candidateCount": null,
       "datedCount": null,
       "itemCount": 0
@@ -590,7 +590,7 @@
       "status": "blocked",
       "method": "html",
       "diagnosticCode": "access_restricted",
-      "message": "Browser HTTP 403; prossimo controllo dopo quattro ore.",
+      "message": "Browser HTTP 403",
       "candidateCount": 12,
       "datedCount": 0,
       "itemCount": 0
@@ -600,7 +600,7 @@
       "status": "blocked",
       "method": "html",
       "diagnosticCode": "access_restricted",
-      "message": "HTTP 403: accesso limitato dalla fonte; prossimo controllo dopo quattro ore.; prossimo controllo dopo quattro ore.",
+      "message": "HTTP 403: accesso limitato dalla fonte",
       "candidateCount": null,
       "datedCount": null,
       "itemCount": 0
@@ -610,7 +610,7 @@
       "status": "blocked",
       "method": "html",
       "diagnosticCode": "access_restricted",
-      "message": "HTTP 403: accesso limitato dalla fonte; prossimo controllo dopo quattro ore.; prossimo controllo dopo quattro ore.",
+      "message": "HTTP 403: accesso limitato dalla fonte",
       "candidateCount": null,
       "datedCount": null,
       "itemCount": 0
@@ -620,7 +620,7 @@
       "status": "blocked",
       "method": "html",
       "diagnosticCode": "robots_disallowed",
-      "message": "Percorso escluso da robots.txt; prossimo controllo dopo quattro ore.; prossimo controllo dopo quattro ore.",
+      "message": "Percorso escluso da robots.txt",
       "candidateCount": null,
       "datedCount": null,
       "itemCount": 0
@@ -657,12 +657,12 @@
     },
     {
       "sourceId": "tgr-lombardia",
-      "status": "no_feed",
+      "status": "ok",
       "method": "crawl4ai",
-      "diagnosticCode": "parsing_error",
-      "message": "Pagina accessibile, ma nessuna notizia con data di pubblicazione verificabile.",
-      "candidateCount": 0,
-      "datedCount": 0,
+      "diagnosticCode": null,
+      "message": "Pagina resa con Crawl4AI; metadati degli articoli e date verificati.",
+      "candidateCount": 10,
+      "datedCount": 6,
       "itemCount": 0
     },
     {

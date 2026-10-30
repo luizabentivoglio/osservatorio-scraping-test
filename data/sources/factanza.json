@@ -1,9 +1,10 @@
 {
   "schemaVersion": 1,
+  "policyVersion": 2,
   "sourceId": "factanza",
   "originUrl": "https://weeklypills.substack.com/",
   "configuredFeedUrl": "https://weeklypills.substack.com/feed",
-  "collectedAt": "2026-10-30T13:09:49.388607Z",
+  "collectedAt": "2026-10-30T19:45:28.125396Z",
   "status": "blocked",
   "diagnosticCode": "access_restricted",
   "method": "html",
@@ -15,9 +16,8 @@
       "status": 403
     }
   ],
-  "message": "HTTP 403: accesso limitato dalla fonte; prossimo controllo dopo quattro ore.; prossimo controllo dopo quattro ore.",
+  "message": "HTTP 403: accesso limitato dalla fonte",
   "httpStatus": 403,
   "failedUrl": "https://weeklypills.substack.com/robots.txt",
-  "durationSeconds": 0.08,
-  "policyVersion": 2
+  "durationSeconds": 0.09
 }

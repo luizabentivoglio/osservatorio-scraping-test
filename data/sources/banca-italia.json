@@ -1,9 +1,10 @@
 {
   "schemaVersion": 1,
+  "policyVersion": 2,
   "sourceId": "banca-italia",
   "originUrl": "https://www.bancaditalia.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-30T13:08:50.585629Z",
+  "collectedAt": "2026-10-30T19:45:03.149812Z",
   "status": "blocked",
   "diagnosticCode": "robots_disallowed",
   "method": "html",
@@ -19,9 +20,8 @@
       "status": 200
     }
   ],
-  "message": "Percorso escluso da robots.txt; prossimo controllo dopo quattro ore.; prossimo controllo dopo quattro ore.",
+  "message": "Percorso escluso da robots.txt",
   "httpStatus": null,
   "failedUrl": "https://www.bancaditalia.it/util/index.rss.html?lingua=it&sezione=%2Fmedia%2Fnotizia",
-  "durationSeconds": 0.88,
-  "policyVersion": 2
+  "durationSeconds": 0.78
 }

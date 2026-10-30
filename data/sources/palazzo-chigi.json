@@ -4,7 +4,7 @@
   "sourceId": "palazzo-chigi",
   "originUrl": "https://www.governo.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-30T13:30:49.189376Z",
+  "collectedAt": "2026-10-30T19:45:52.534142Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
@@ -100,5 +100,5 @@
     }
   ],
   "message": "Feed dichiarato dalla fonte; date di pubblicazione verificate.",
-  "durationSeconds": 30.16
+  "durationSeconds": 30.12
 }

@@ -1,9 +1,10 @@
 {
   "schemaVersion": 1,
+  "policyVersion": 2,
   "sourceId": "ispi",
   "originUrl": "https://www.ispionline.it/it",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-30T13:09:54.067278Z",
+  "collectedAt": "2026-10-30T19:45:35.887797Z",
   "status": "blocked",
   "diagnosticCode": "robots_disallowed",
   "method": "html",
@@ -15,9 +16,8 @@
       "status": 200
     }
   ],
-  "message": "Percorso escluso da robots.txt; prossimo controllo dopo quattro ore.; prossimo controllo dopo quattro ore.",
+  "message": "Percorso escluso da robots.txt",
   "httpStatus": null,
   "failedUrl": "https://www.ispionline.it/it",
-  "durationSeconds": 1.12,
-  "policyVersion": 2
+  "durationSeconds": 0.84
 }
