@@ -4,7 +4,7 @@
   "sourceId": "osservatorio-cpi",
   "originUrl": "https://osservatoriocpi.unicatt.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-30T19:45:47.071216Z",
+  "collectedAt": "2026-10-31T01:52:19.382007Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -32,7 +32,7 @@
       "dateEvidence": "html:article-header"
     },
     {
-      "title": "Differenziale (i-g): oggi soffrono Italia e Francia, ma il quadro potrebbe peggiorare",
+      "title": "Differenziale tra tasso d'interesse sul debito pubblico e tasso di crescita: oggi soffrono Italia e Francia, ma il quadro potrebbe peggiorare",
       "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/differenziale-i-g-oggi-soffrono-italia-e-francia-ma-il-quadro-potrebbe-peggiorare.html",
       "excerpt": "Le recenti pressioni sui titoli di Stato hanno riacceso il dibattito sulla sostenibilità del debito pubblico. Ricostruendo l’evoluzione del differenziale tra tasso d’interesse medio sul debito e crescita del Pil nominale, emerge che oggi quasi tutte le economie beneficiano di un differenziale negativo. Nel 2026 le unic",
       "publishedAt": "2026-10-27T00:00:00Z",
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://osservatoriocpi.unicatt.it/pubblicazioni.html",
-  "durationSeconds": 5.46
+  "durationSeconds": 6.18
 }

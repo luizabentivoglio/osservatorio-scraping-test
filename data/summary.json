@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T19:46:22.657818+00:00",
+  "generatedAt": "2026-10-31T01:52:55.501232+00:00",
   "sourceCount": 67,
-  "ok": 37,
-  "items": 149,
+  "ok": 36,
+  "items": 147,
   "results": [
     {
       "sourceId": "amnesty",
@@ -443,7 +443,7 @@
       "message": "Titoli, link e date di pubblicazione verificati nelle schede ufficiali delle notizie.",
       "candidateCount": null,
       "datedCount": 4,
-      "itemCount": 2
+      "itemCount": 1
     },
     {
       "sourceId": "mef",
@@ -570,10 +570,10 @@
       "status": "ok",
       "method": "trafilatura",
       "diagnosticCode": null,
-      "message": "6 notizie recenti con data verificata; copertura parziale.",
+      "message": "5 notizie recenti con data verificata; copertura parziale.",
       "candidateCount": 12,
       "datedCount": 6,
-      "itemCount": 6
+      "itemCount": 5
     },
     {
       "sourceId": "pri",
@@ -590,7 +590,7 @@
       "status": "blocked",
       "method": "html",
       "diagnosticCode": "access_restricted",
-      "message": "Browser HTTP 403",
+      "message": "Verifica interattiva richiesta",
       "candidateCount": 12,
       "datedCount": 0,
       "itemCount": 0
@@ -657,12 +657,12 @@
     },
     {
       "sourceId": "tgr-lombardia",
-      "status": "ok",
+      "status": "no_feed",
       "method": "crawl4ai",
-      "diagnosticCode": null,
-      "message": "Pagina resa con Crawl4AI; metadati degli articoli e date verificati.",
-      "candidateCount": 10,
-      "datedCount": 6,
+      "diagnosticCode": "parsing_error",
+      "message": "Pagina accessibile, ma nessuna notizia con data di pubblicazione verificabile.",
+      "candidateCount": 0,
+      "datedCount": 0,
       "itemCount": 0
     },
     {

@@ -4,16 +4,30 @@
   "sourceId": "la-stampa",
   "originUrl": "https://www.lastampa.it/",
   "configuredFeedUrl": "https://www.lastampa.it/rss/copertina.xml",
-  "collectedAt": "2026-10-30T19:45:42.771418Z",
+  "collectedAt": "2026-10-31T01:52:14.719413Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.lastampa.it/rss/copertina.xml",
   "items": [
     {
-      "title": "Il Comune mette la tassa di ingresso: per entrare nel centro di Courmayeur si dovrà pagare",
+      "title": "Manovra, taglio Irpef solo per un anno. Stretta sulle pensioni. Le novità su bonus e congedi",
+      "url": "https://www.lastampa.it/economia/2026/10/30/news/manovra_taglio_irpef_solo_per_un_anno_stretta_sulle_pensioni_le_novita_su_bonus_e_congedi-15783578/",
+      "excerpt": "Pubblicata la bozza con 157 articoli",
+      "publishedAt": "2026-10-30T19:52:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Prove libere in Messico: Leclerc fa il miglior tempo davanti ad Antonelli (guarito dall’influenza)",
+      "url": "https://www.lastampa.it/speciale/sport/formula-1/2026/10/30/news/messico_f1_prove_libere_antonelli_leclerc-15783548/",
+      "excerpt": "Ferrari al comando, quarto Hamilton. In pista altri due italiani: Minì 14° con l’Alpine, Fornaroli 17° con la McLaren",
+      "publishedAt": "2026-10-30T19:01:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Courmayeur, l’accesso in centro si paga: esenzioni per residenti e negozianti",
       "url": "https://www.lastampa.it/aosta/2026/10/30/news/courmayeur_tassa_ingresso-15783386/",
-      "excerpt": "Via libera del Consiglio comunale ma resta l’incertezza sui tempi. Esenzioni per residenti e commercianti",
+      "excerpt": "Via libera del Consiglio comunale al regolamento per l’accesso alle aree pedonali ma resta l’incertezza sui tempi.",
       "publishedAt": "2026-10-30T16:48:00Z",
       "dateEvidence": "feed:published"
     },
@@ -22,13 +36,6 @@
       "url": "https://www.lastampa.it/esteri/speciali/elezioni-midterm-2026/2026/10/30/news/papa_leone_voto_elezioni_midterm-15783359/",
       "excerpt": "Il canonista don Di Giacomo: «Il mondo cambia, il papato non è più una struttura assolutistica»",
       "publishedAt": "2026-10-30T16:24:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Antonelli batte anche il virus, scatta l’operazione Mondiale",
-      "url": "https://www.lastampa.it/sport/2026/10/30/news/f1_messico_kimi_antonelli_fp1_rientro_influenza-15783355/",
-      "excerpt": "Kimi accolto come una star nel paddock a Città del Messico dopo l’influenza: alle 19,30 le prime libere. La stima di StageUp: con il titolo il suo valore commerciale aumenterà di oltre 70 milioni, 100 in caso di bis entro il 2028",
-      "publishedAt": "2026-10-30T16:13:00Z",
       "dateEvidence": "feed:published"
     },
     {
@@ -144,13 +151,6 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Le banche: “Aumento tasse preoccupante”. Giorgetti: “Siamo tutti sulla stessa barca”",
-      "url": "https://www.lastampa.it/economia/2026/10/30/news/le_banche_aumento_tasse_preoccupante_giorgetti_siamo_tutti_sulla_stessa_barca-15782977/",
-      "excerpt": "Nuovo scontro tra esecutivo e big del credito. Il leader dell’Abi Patuelli evoca le crisi bancarie e chiede una riflessione sulla manovra. Il ministro dell’Economia replica: “Oneri assorbibili, ora tocca agli istituti aiutare il governo”.",
-      "publishedAt": "2026-10-30T10:40:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
       "title": "Vent’anni, pochi dollari, tanta determinazione: i volti di Bob Dylan quando non era Bob Dylan",
       "url": "https://www.lastampa.it/spettacoli/2026/10/30/news/mostra_bob_dylan_vinyl_room_roma-15782970/",
       "excerpt": "Dal 5 dicembre alla Vinyl Room di Roma la mostra \"Bob Dylan: Forever Young\" porta alla Vinyl Room con gli scatti di John Cohen",
@@ -200,13 +200,6 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Tonfo del Nasdaq affossato dai chip, crollo di Intel: -30%. Milano la peggiore in Europa",
-      "url": "https://www.lastampa.it/economia/2026/10/30/news/borse_europee_oggi_deboli-15782811/",
-      "excerpt": "Nuova fiammata del petrolio, il Brent sfiora i 113 dollari al barile e il Wti i 103,60. Il Nasdaq cede il 2,26%, Milano chiude a -1%",
-      "publishedAt": "2026-10-30T08:18:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
       "title": "Arriva la goccia fredda sul Mediterraneo. Temperature in calo e neve a quote medie",
       "url": "https://www.lastampa.it/cronaca/2026/10/30/news/previsioni_meteo_calo_temperature_neve-15782785/",
       "excerpt": "Le correnti fredde dalla Scandinavia raggiungono l’Italia",
@@ -221,7 +214,7 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Sciopero generale, a Roma corteo tenta di arrivare alla Camera. Cariche su ponte Sisto: 8 fermi",
+      "title": "Sciopero generale, a Roma corteo tenta di arrivare alla Camera: 8 fermi",
       "url": "https://www.lastampa.it/cronaca/2026/10/30/diretta/sciopero_generale_oggi_30_ottobre_2026_cortei_italia_diretta-15782753/",
       "excerpt": "Usb, studenti e pro-Pal in piazza contro riarmo e carovita. Tangenziali bloccate a Milano e Bologna. Fermi anche i porti di Genova, La Spezia e Napoli",
       "publishedAt": "2026-10-30T07:27:00Z",
@@ -232,27 +225,6 @@
       "url": "https://www.lastampa.it/torino/2026/10/30/diretta/manifestazione_oggi_30_ottobre_torino_2026_cortei_diretta-15782740/",
       "excerpt": "Sciopero generale proclamato dall’Usb, studenti e lavoratori: «Cosa ci facciamo con 1500 euro al mese? Anche mangiare è diventato un lusso». Momenti di tensione in piazza Castello. Il corteo si conclude ma Torino per Gaza ha rilanciato con un nuovo appuntamento",
       "publishedAt": "2026-10-30T07:21:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Altman, Musk, Zuckerberg e gli altri: a Hollywood i nuovi cattivi sono i leader delle Big Tech",
-      "url": "https://www.lastampa.it/spettacoli/2026/10/30/news/altman_musk_zuckerberg_hollywood_film_big_tech-15782725/",
-      "excerpt": "Dal film di Guadagnino a quello di Sorkin, spopolano i ritratti (spietati) dei magnati della Silicon Valley",
-      "publishedAt": "2026-10-30T07:05:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Binance, colpo record degli hacker: rubate criptovalute per 6,3 miliardi",
-      "url": "https://www.lastampa.it/economia/2026/10/30/news/binance_attacco_hacker_furto_6_miliardi-15782720/",
-      "excerpt": "Si tratta di uno dei colpi più grandi della storia. La società di exchange: «Intervenuti subito. Circa tre miliardi sono già al sicuro». Sospetti sui nordcoreani",
-      "publishedAt": "2026-10-30T07:03:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Blanco rompe con Stefano Clessi: “I manager sono il male della musica”",
-      "url": "https://www.lastampa.it/spettacoli/2026/10/30/news/blanco_rottura_manager_stefano_clessi_replica-15782710/",
-      "excerpt": "La replica all’artista: «Quando si ottengono successo e fama fin da giovanissimi accettare i \"no\" non è facile, mi rendo conto»",
-      "publishedAt": "2026-10-30T06:51:00Z",
       "dateEvidence": "feed:published"
     },
     {
@@ -289,6 +261,34 @@
       "excerpt": "Ucciso nel 1983 da due neonazisti che firmarono col nome “Ludwig” una quindicina di delitti",
       "publishedAt": "2026-10-30T03:00:00Z",
       "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Tutti vogliono Tresoldi: Chelsea e City scatenano l’asta, Mancini e Klopp si sfidano in nazionale",
+      "url": "https://www.lastampa.it/sport/2026/10/30/news/tutti_vogliono_tresoldi_chelsea_e_city_scatenano_l_asta_mancini_e_klopp_si_sfidano_in_nazionale-15782331/",
+      "excerpt": "Per il bomber del Bruges si parte da 50 milioni, anche Juve e Milan studiano l’affare ma partono dietro le big della Premier. Che intrigo tra federazioni: giocherà l’Europeo Under 21 con la Germania poi deciderà, ma l’Italia parte in svantaggio",
+      "publishedAt": "2026-10-30T03:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Fornero: “Il fondo per le uscite anticipate? Un inganno, Salvini poco competente”",
+      "url": "https://www.lastampa.it/economia/2026/10/30/news/fornero_fondo_uscite_anticipate_pensioni_salvini-15782278/",
+      "excerpt": "L’ex ministra: “La battaglia per superare la mia legge non interessa più nemmeno i leghisti. Non si può chiamare questo anticipo “flessibilità” senza specificare che verrà finanziato con una nuova imposta a carico dei pensionati”",
+      "publishedAt": "2026-10-30T03:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Irpef giù fino a 55 mila euro: in busta paga un guadagno fino a 500 euro all’anno",
+      "url": "https://www.lastampa.it/economia/2026/10/30/news/irpef_riforma_legge_di_bilancio_simulazioni-15782300/",
+      "excerpt": "Le simulazioni della Uil: nessun beneficio fino a 50 mila euro Platea di 603mila contribuenti, ma vantaggi per 3,2 milioni di italiani",
+      "publishedAt": "2026-10-30T03:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Yannick Alléno: “La cucina italiana ci insegna che il vero talento è la semplicità”",
+      "url": "https://www.lastampa.it/cronaca/2026/10/30/news/fuori_menu_chef_francese_yannick_alleno_cucina_italiana-15781897/",
+      "excerpt": "A Torino per Buonissima, il grande chef francese racconta il suo legame con l’Italia e un’idea di alta cucina “al bancone”, più vicina alle persone. E guarda a Milano per un nuovo progetto",
+      "publishedAt": "2026-10-30T03:00:00Z",
+      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -302,5 +302,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 0.92
+  "durationSeconds": 0.83
 }

@@ -4,7 +4,7 @@
   "sourceId": "regione-lombardia",
   "originUrl": "https://www.regione.lombardia.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-30T19:46:06.989796Z",
+  "collectedAt": "2026-10-31T01:52:37.795212Z",
   "status": "blocked",
   "diagnosticCode": "access_restricted",
   "method": "html",
@@ -19,5 +19,5 @@
   "message": "HTTP 403: accesso limitato dalla fonte",
   "httpStatus": 403,
   "failedUrl": "https://www.lombardianotizie.online/robots.txt",
-  "durationSeconds": 0.3
+  "durationSeconds": 0.22
 }

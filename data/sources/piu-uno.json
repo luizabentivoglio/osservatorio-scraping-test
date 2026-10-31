@@ -4,19 +4,12 @@
   "sourceId": "piu-uno",
   "originUrl": "https://piu.uno/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-30T19:46:05.415111Z",
+  "collectedAt": "2026-10-31T01:52:32.620095Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
-    {
-      "title": "Ferentino: presentazione di “Cosa sarà” di Ernesto Maria Ruffini · Eventi · Più Uno",
-      "url": "https://piu.uno/partecipa/eventi/30-ottobre-ferentino-presentazione-di-cosa-sara-di-ernesto-maria-ruffini",
-      "excerpt": "Cosa sarà? La domanda evocata dalla celebre canzone di Lucio Dalla diventa un interrogativo sul futuro del nostro Paese. Quale Italia vogliamo costruire? Quali opportunità offriamo ai giovani? E come possiamo trasformare l’uguaglianza, promessa dalla Costituzione, in una realtà concreta? Sono i temi al centro dell’inco",
-      "publishedAt": "2026-10-30T18:00:00Z",
-      "dateEvidence": "html:publication-time"
-    },
     {
       "title": "I soldi non bastano e le famiglie pagano il conto · Più Uno",
       "url": "https://piu.uno/notizie/i-soldi-non-bastano-e-le-famiglie-pagano-il-conto",
@@ -83,14 +76,14 @@
       "status": 200
     },
     {
-      "url": "https://piu.uno/partecipa/eventi/30-ottobre-ferentino-presentazione-di-cosa-sara-di-ernesto-maria-ruffini",
+      "url": "https://piu.uno/partecipa/eventi/9-novembre-appuntamento-a-chieti-con-franco-gabrielli",
       "status": 200
     }
   ],
-  "message": "6 notizie recenti con data verificata; copertura parziale.",
+  "message": "5 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [],
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://piu.uno/",
-  "durationSeconds": 3.6
+  "durationSeconds": 3.72
 }

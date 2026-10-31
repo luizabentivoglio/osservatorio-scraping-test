@@ -4,7 +4,7 @@
   "sourceId": "banca-italia",
   "originUrl": "https://www.bancaditalia.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-30T19:45:03.149812Z",
+  "collectedAt": "2026-10-31T01:51:34.449370Z",
   "status": "blocked",
   "diagnosticCode": "robots_disallowed",
   "method": "html",

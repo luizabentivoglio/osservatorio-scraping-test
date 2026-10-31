@@ -4,7 +4,7 @@
   "sourceId": "libera",
   "originUrl": "https://www.libera.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-30T19:45:44.162636Z",
+  "collectedAt": "2026-10-31T01:52:16.623746Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "html",
@@ -15,13 +15,6 @@
       "url": "https://www.libera.it/it-schede-2873-punire_quasi_mai_funziona_educare_spesso_si",
       "excerpt": "Libera risponde alle dichiarazioni del ministro Nordio: contro il disagio giovanile e la criminalità minorile servono educazione, opportunità e sostegno alle famiglie, non solo repressione.",
       "publishedAt": "2026-10-22T00:00:00Z",
-      "dateEvidence": "html:dated-news-card"
-    },
-    {
-      "title": "Daphne Caruana Galizia, nove anni dopo la richiesta di verità e giustizia non si ferma",
-      "url": "https://www.libera.it/it-schede-2872-daphne_caruana_galizia_nove_anni_dopo_la_richiesta_di_verita_e_giustizia_non_si_ferma",
-      "excerpt": "A Malta le commemorazioni per la giornalista uccisa nel 2017. Presente anche Francesca Rispoli, copresidente di Libera: Noi siamo il rumore che non volevano",
-      "publishedAt": "2026-10-17T00:00:00Z",
       "dateEvidence": "html:dated-news-card"
     }
   ],
@@ -38,5 +31,5 @@
   "message": "Titoli, link e date di pubblicazione verificati nelle schede ufficiali delle notizie.",
   "datedCount": 4,
   "listingUrl": "https://www.libera.it/",
-  "durationSeconds": 2.44
+  "durationSeconds": 2.59
 }

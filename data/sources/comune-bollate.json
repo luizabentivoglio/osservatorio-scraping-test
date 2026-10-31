@@ -4,7 +4,7 @@
   "sourceId": "comune-bollate",
   "originUrl": "https://comune.bollate.mi.it/it/news",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-30T19:45:08.817738Z",
+  "collectedAt": "2026-10-31T01:51:39.799888Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -46,8 +46,8 @@
       "dateEvidence": "html:news-date-label"
     },
     {
-      "title": "Sciopero generale proclamato per il 30 ottobre",
-      "url": "https://comune.bollate.mi.it/it/news/sciopero-2046496-2059402",
+      "title": "Gioco d’azzardo: un impegno comune contro il gioco patologico",
+      "url": "https://comune.bollate.mi.it/it/news/gioco-azzardo-2059386",
       "excerpt": "Sito ufficiale Comune di Bollate",
       "publishedAt": "2026-10-23T00:00:00Z",
       "dateEvidence": "html:news-date-label"
@@ -83,7 +83,7 @@
       "status": 200
     },
     {
-      "url": "https://comune.bollate.mi.it/it/news/sciopero-2046496-2059402",
+      "url": "https://comune.bollate.mi.it/it/news/gioco-azzardo-2059386",
       "status": 200
     }
   ],
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://comune.bollate.mi.it/it/news",
-  "durationSeconds": 4.77
+  "durationSeconds": 4.07
 }

@@ -4,52 +4,52 @@
   "sourceId": "il-post",
   "originUrl": "https://www.ilpost.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-30T19:45:38.713358Z",
+  "collectedAt": "2026-10-31T01:52:10.667558Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
+      "title": "Gli Stati Uniti hanno detto che approveranno la vendita all’Ucraina di 500 missili Patriot",
+      "url": "https://www.ilpost.it/2026/10/30/stati-uniti-patriot-ucraina/?bitPosition=1",
+      "excerpt": "Gli Stati Uniti hanno detto che approveranno la vendita all’Ucraina di 500 missili Patriot - Condividi - X - Regala il Post Venerdì il governo statunitense ha detto che approverà la vendita all’Ucraina di 500 missili Patriot, per un valore di 2,1 miliardi di dollari (circa 1,88 miliardi di euro). I Patriot sono missili",
+      "publishedAt": "2026-10-30T20:52:49Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "L’azienda di armi ucraina Fire Point dice che non ha bisogno di Starlink per attaccare la Russia",
+      "url": "https://www.ilpost.it/2026/10/30/fire-point-senza-starlink-ucraina/?bitPosition=2",
+      "excerpt": "L’azienda di armi ucraina Fire Point dice che non ha bisogno di Starlink per attaccare la Russia - Condividi - X - Regala il Post Iryna Terekh, l’amministratrice delegata dell’azienda di armi ucraina Fire Point, ha detto in un’intervista a Reuters che l’azienda ha sviluppato sistemi che le consentiranno di fare bombard",
+      "publishedAt": "2026-10-30T18:57:59Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
       "title": "Tre carabinieri sono indagati per la perquisizione a casa dei fratelli Ramponi, in cui morirono tre loro colleghi",
-      "url": "https://www.ilpost.it/2026/10/30/tre-carabinieri-accusati-di-omicio-colposo-castel-dazzano-verona/?bitPosition=1",
+      "url": "https://www.ilpost.it/2026/10/30/tre-carabinieri-accusati-di-omicio-colposo-castel-dazzano-verona/?bitPosition=3",
       "excerpt": "Tre carabinieri sono indagati per la perquisizione a casa dei fratelli Ramponi, in cui morirono tre loro colleghi - Condividi - X - Regala il Post La procura di Verona ha indagato per omicidio colposo plurimo tre ufficiali dei carabinieri che il 14 ottobre 2025 erano responsabili di una perquisizione in una casa a Cast",
       "publishedAt": "2026-10-30T17:17:53Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
       "title": "La polizia scozzese ha aperto un’indagine sulle visite di Jeffrey Epstein in una residenza dei reali britannici",
-      "url": "https://www.ilpost.it/2026/10/30/polizia-scozzese-indagini-balmoral-epstein-ex-principe-andrea/?bitPosition=2",
+      "url": "https://www.ilpost.it/2026/10/30/polizia-scozzese-indagini-balmoral-epstein-ex-principe-andrea/?bitPosition=4",
       "excerpt": "La polizia scozzese ha aperto un’indagine sulle visite di Jeffrey Epstein in una residenza dei reali britannici - Condividi - X - Regala il Post La polizia scozzese ha detto che sta indagando sulle visite che il finanziere statunitense Jeffrey Epstein e la sua compagna Ghislaine Maxwell fecero nella residenza reale del",
       "publishedAt": "2026-10-30T15:21:18Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
       "title": "Dall’ultimo Call of Duty saranno rimossi alcuni video di un incidente a Seul che causò 160 morti, dopo le proteste delle famiglie",
-      "url": "https://www.ilpost.it/2026/10/30/call-of-duty-rimozione-video-incidente-seul/?bitPosition=3",
+      "url": "https://www.ilpost.it/2026/10/30/call-of-duty-rimozione-video-incidente-seul/?bitPosition=5",
       "excerpt": "Dall’ultimo Call of Duty saranno rimossi alcuni video di un incidente a Seul che causò 160 morti, dopo le proteste delle famiglie - Condividi - X - Regala il Post Activision, l’azienda che produce la nota serie di videogiochi Call of Duty, ha deciso di rimuovere dall’ultimo titolo uscito, Modern Warfare 4, le immagini ",
       "publishedAt": "2026-10-30T14:59:15Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "ArcelorMittal si prese l’Ilva per farla fallire?",
-      "url": "https://www.ilpost.it/2026/10/30/arcelormittal-ilva-commissari-straordinari-fallimento/?homepagePosition=0",
-      "excerpt": "Lo sostengono i commissari che la gestiscono per conto del governo, che al loro arrivo nel 2024 trovarono una situazione disastrosa",
-      "publishedAt": "2026-10-30T14:41:59Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "L’ex ILVA deve chiudere davvero",
-      "url": "https://www.ilpost.it/2026/10/29/ex-ilva-chiude-area-a-caldo-taranto-cassazione/?homepagePosition=0.1&referrerPost=3718069",
-      "excerpt": "La Corte di Cassazione ha confermato che l'area a caldo dello stabilimento di Taranto non può continuare a funzionare",
-      "publishedAt": "2026-10-29T13:00:21Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Breve storia dell’ex Ilva, dalla Grande depressione a oggi",
-      "url": "https://www.ilpost.it/2026/10/18/ex-ilva-storia/?homepagePosition=0.2&referrerPost=3718069",
-      "excerpt": "Ora che l'acciaieria di Taranto ha avviato la chiusura",
-      "publishedAt": "2026-10-18T15:24:15Z",
+      "title": "Le foto delle manifestazioni in tutta Italia, molto partecipate",
+      "url": "https://www.ilpost.it/2026/10/30/foto-sciopero-manifestazioni-italia/?homepagePosition=0",
+      "excerpt": "Decine di migliaia di persone hanno sfilato in cortei in gran parte pacifici, con qualche tensione a Roma e a Torino",
+      "publishedAt": "2026-10-30T11:23:30Z",
       "dateEvidence": "jsonld:datePublished"
     }
   ],
@@ -63,27 +63,27 @@
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/10/30/arcelormittal-ilva-commissari-straordinari-fallimento/?homepagePosition=0",
+      "url": "https://www.ilpost.it/2026/10/30/foto-sciopero-manifestazioni-italia/?homepagePosition=0",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/10/29/ex-ilva-chiude-area-a-caldo-taranto-cassazione/?homepagePosition=0.1&referrerPost=3718069",
+      "url": "https://www.ilpost.it/2026/10/30/stati-uniti-patriot-ucraina/?bitPosition=1",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/10/18/ex-ilva-storia/?homepagePosition=0.2&referrerPost=3718069",
+      "url": "https://www.ilpost.it/2026/10/30/fire-point-senza-starlink-ucraina/?bitPosition=2",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/10/30/tre-carabinieri-accusati-di-omicio-colposo-castel-dazzano-verona/?bitPosition=1",
+      "url": "https://www.ilpost.it/2026/10/30/tre-carabinieri-accusati-di-omicio-colposo-castel-dazzano-verona/?bitPosition=3",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/10/30/polizia-scozzese-indagini-balmoral-epstein-ex-principe-andrea/?bitPosition=2",
+      "url": "https://www.ilpost.it/2026/10/30/polizia-scozzese-indagini-balmoral-epstein-ex-principe-andrea/?bitPosition=4",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/10/30/call-of-duty-rimozione-video-incidente-seul/?bitPosition=3",
+      "url": "https://www.ilpost.it/2026/10/30/call-of-duty-rimozione-video-incidente-seul/?bitPosition=5",
       "status": 200
     }
   ],
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.ilpost.it/",
-  "durationSeconds": 3.53
+  "durationSeconds": 3.54
 }
