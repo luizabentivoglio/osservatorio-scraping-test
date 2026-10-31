@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T15:55:44.441687+00:00",
+  "generatedAt": "2026-10-31T21:55:09.728819+00:00",
   "sourceCount": 67,
-  "ok": 36,
-  "items": 141,
+  "ok": 37,
+  "items": 164,
   "results": [
     {
       "sourceId": "amnesty",
@@ -77,13 +77,13 @@
     },
     {
       "sourceId": "cnr",
-      "status": "error",
-      "method": "html",
-      "diagnosticCode": "connection_error",
-      "message": "SSLError",
+      "status": "ok",
+      "method": "rss",
+      "diagnosticCode": null,
+      "message": "Feed ufficiale letto; date di pubblicazione verificate.",
       "candidateCount": null,
       "datedCount": null,
-      "itemCount": 0
+      "itemCount": 18
     },
     {
       "sourceId": "coldiretti",
@@ -110,10 +110,10 @@
       "status": "ok",
       "method": "trafilatura",
       "diagnosticCode": null,
-      "message": "5 notizie recenti con data verificata; copertura parziale.",
+      "message": "6 notizie recenti con data verificata; copertura parziale.",
       "candidateCount": 12,
-      "datedCount": 5,
-      "itemCount": 5
+      "datedCount": 6,
+      "itemCount": 6
     },
     {
       "sourceId": "confcommercio",
@@ -161,7 +161,7 @@
       "method": "crawl4ai",
       "diagnosticCode": "parsing_error",
       "message": "Pagina accessibile, ma nessuna notizia con data di pubblicazione verificabile.",
-      "candidateCount": 2,
+      "candidateCount": 1,
       "datedCount": 0,
       "itemCount": 0
     },
@@ -517,13 +517,13 @@
     },
     {
       "sourceId": "partito-liberaldemocratico",
-      "status": "error",
-      "method": "html",
-      "diagnosticCode": "timeout",
-      "message": "Timeout della fonte",
-      "candidateCount": null,
-      "datedCount": null,
-      "itemCount": 0
+      "status": "ok",
+      "method": "trafilatura",
+      "diagnosticCode": null,
+      "message": "4 notizie recenti con data verificata; copertura parziale.",
+      "candidateCount": 9,
+      "datedCount": 4,
+      "itemCount": 4
     },
     {
       "sourceId": "patt",
@@ -627,10 +627,10 @@
     },
     {
       "sourceId": "senato",
-      "status": "no_feed",
-      "method": "crawl4ai",
-      "diagnosticCode": "parsing_error",
-      "message": "Pagina accessibile, ma nessuna notizia con data di pubblicazione verificabile.",
+      "status": "error",
+      "method": "html",
+      "diagnosticCode": "render_error",
+      "message": "Rendering della pagina non riuscito",
       "candidateCount": 0,
       "datedCount": 0,
       "itemCount": 0
@@ -657,12 +657,12 @@
     },
     {
       "sourceId": "tgr-lombardia",
-      "status": "ok",
+      "status": "no_feed",
       "method": "crawl4ai",
-      "diagnosticCode": null,
-      "message": "Pagina resa con Crawl4AI; metadati degli articoli e date verificati.",
-      "candidateCount": 10,
-      "datedCount": 6,
+      "diagnosticCode": "parsing_error",
+      "message": "Pagina accessibile, ma nessuna notizia con data di pubblicazione verificabile.",
+      "candidateCount": 0,
+      "datedCount": 0,
       "itemCount": 0
     },
     {

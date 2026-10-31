@@ -4,10 +4,10 @@
   "sourceId": "senato",
   "originUrl": "https://www.senato.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-31T15:55:28.069956Z",
-  "status": "no_feed",
-  "diagnosticCode": "parsing_error",
-  "method": "crawl4ai",
+  "collectedAt": "2026-10-31T21:54:56.741548Z",
+  "status": "error",
+  "diagnosticCode": "render_error",
+  "method": "html",
   "feedUrl": null,
   "items": [],
   "attempts": [
@@ -20,7 +20,7 @@
       "status": 202
     }
   ],
-  "message": "Pagina accessibile, ma nessuna notizia con data di pubblicazione verificabile.",
+  "message": "Rendering della pagina non riuscito",
   "candidateSamples": [],
   "candidateCount": 0,
   "datedCount": 0,

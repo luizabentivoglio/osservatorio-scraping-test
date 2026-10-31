@@ -4,52 +4,52 @@
   "sourceId": "il-post",
   "originUrl": "https://www.ilpost.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-31T15:54:58.490752Z",
+  "collectedAt": "2026-10-31T21:54:24.265884Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
-      "title": "I civili evacuati da Oleshky sono arrivati in Ucraina",
-      "url": "https://www.ilpost.it/2026/10/31/oleshky-civili-ucraina-arrivo/?bitPosition=1",
-      "excerpt": "I civili evacuati da Oleshky sono arrivati in Ucraina - Condividi - X - Regala il Post Il presidente ucraino Volodymyr Zelensky ha detto che i civili che venerdì sono stati evacuati dalla città di Oleshky sono arrivati in Ucraina. Oleshky è una cittadina del sud dell’Ucraina, ed è occupata dai russi dal 2022: si trova ",
+      "title": "L’ambasciata statunitense in Russia ha emesso un’allerta per un possibile attacco “con molte vittime” a Mosca",
+      "url": "https://www.ilpost.it/2026/10/31/ambasciata-statunitense-mosca-allerta-attacco-vittime/?bitPosition=1",
+      "excerpt": "L’ambasciata statunitense in Russia ha emesso un’allerta per un possibile attacco “con molte vittime” a Mosca - Condividi - X - Regala il Post Sabato l’ambasciata degli Stati Uniti in Russia ha diramato un’allerta di sicurezza grave, sostenendo che è a conoscenza di un possibile attacco “con molte vittime” a Mosca, che",
+      "publishedAt": "2026-10-31T15:53:02Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "La TV pubblica cinese non ha trasmesso due partite della Liga spagnola, dopo che Mbappé aveva definito Mao «un dittatore»",
+      "url": "https://www.ilpost.it/2026/10/31/tv-cina-boicotta-partita-liga-spagna-mbappe-mao-zedong/?bitPosition=2",
+      "excerpt": "La TV pubblica cinese non ha trasmesso due partite della Liga spagnola, dopo che Mbappé aveva definito Mao «un dittatore» - Condividi - X - Regala il Post La televisione pubblica cinese CCTV non ha trasmesso le prime due partite di questo fine settimana del più importante campionato spagnolo di calcio, la Liga, come fo",
+      "publishedAt": "2026-10-31T15:00:20Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "I civili evacuati da Oleshky sono arrivati nel nord dell’Ucraina",
+      "url": "https://www.ilpost.it/2026/10/31/oleshky-civili-ucraina-arrivo/?bitPosition=3",
+      "excerpt": "I civili evacuati da Oleshky sono arrivati nel nord dell’Ucraina - Condividi - X - Regala il Post Il presidente ucraino Volodymyr Zelensky ha detto che i civili che venerdì sono stati evacuati dalla città di Oleshky sono arrivati nel nord dell’Ucraina. Oleshky è una cittadina del sud dell’Ucraina, ed è occupata dai rus",
       "publishedAt": "2026-10-31T13:23:42Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "Il governo vuole tenere i 500 soldati a Milano fino a marzo",
-      "url": "https://www.ilpost.it/2026/10/31/legge-bilancio-2027-proroga-500-soldati-milano/?homepagePosition=0",
-      "excerpt": "Dovevano restare fino alla fine dell'anno dopo i disordini di metà ottobre, ma la loro presenza è stata prorogata nella legge di bilancio",
-      "publishedAt": "2026-10-31T13:19:48Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
       "title": "È morta a 85 anni Nonna Silvi, molto popolare su Internet per i suoi video di ricette",
-      "url": "https://www.ilpost.it/2026/10/31/nonna-silvi-morta/?bitPosition=2",
+      "url": "https://www.ilpost.it/2026/10/31/nonna-silvi-morta/?bitPosition=4",
       "excerpt": "È morta a 85 anni Nonna Silvi, molto popolare su Internet per i suoi video di ricette - Condividi - X - Regala il Post Silvana Bini, conosciuta come Nonna Silvi e diventata molto famosa su Internet per i video in cui preparava ricette della tradizione toscana, è morta a 85 anni. La sua popolarità era cominciata nell’ot",
       "publishedAt": "2026-10-31T10:33:21Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "Le tenniste Jasmine Paolini e Sara Errani si sono qualificate per il doppio alle WTA Finals",
-      "url": "https://www.ilpost.it/2026/10/31/jasmine-paolini-sara-errani-qualificate-wta-finals/?bitPosition=3",
-      "excerpt": "Le tenniste Jasmine Paolini e Sara Errani si sono qualificate per il doppio alle WTA Finals - Condividi - X - Regala il Post Jasmine Paolini e Sara Errani, le più forti tenniste italiane nel doppio, hanno battuto per 2 set a 0 (6-4, 6-0) la coppia formata dalla britannica Olivia Nicholls e dalla slovacca Tereza Mihalík",
-      "publishedAt": "2026-10-31T10:22:10Z",
+      "title": "Chi è Gadi Eisenkot, l’ex generale che vuole chiudere l’era Netanyahu",
+      "url": "https://www.ilpost.it/2026/10/31/gadi-eisenkot-elezioni-israele/?homepagePosition=0",
+      "excerpt": "Sulle guerre di Israele ha idee simili al primo ministro, ma su altri temi – come le colonie – sta un po’ più al centro",
+      "publishedAt": "2026-10-31T07:44:05Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "Perché Youssef Siher è stato scarcerato",
-      "url": "https://www.ilpost.it/2026/10/29/perche-youssef-siher-e-stato-scarcerato/?homepagePosition=0.2&referrerPost=3720374",
-      "excerpt": "Una spiegazione dettagliata delle ragioni per cui la giudice per le indagini preliminari ha ritenuto infondate le accuse della procura",
-      "publishedAt": "2026-10-29T17:34:27Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Cosa accomuna i ragazzi dei disordini a Milano",
-      "url": "https://www.ilpost.it/2026/10/22/ragazzi-disordini-cosa-accomuna/?homepagePosition=0.1&referrerPost=3720374",
-      "excerpt": "Pochissimi hanno saputo spiegare ai giudici per cosa si stava protestando e nessuno immaginava conseguenze così gravi",
-      "publishedAt": "2026-10-22T16:50:28Z",
+      "title": "I risultati definitivi in Israele, infine",
+      "url": "https://www.ilpost.it/2026/10/30/risultati-elezioni-definitivi-israele/?homepagePosition=0.1&referrerPost=3719183",
+      "excerpt": "Confermano che nessuno schieramento ha la maggioranza: Netanyahu ha accusato i partiti arabi di avere rubato le elezioni",
+      "publishedAt": "2026-10-30T07:36:52Z",
       "dateEvidence": "jsonld:datePublished"
     }
   ],
@@ -63,27 +63,27 @@
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/10/31/legge-bilancio-2027-proroga-500-soldati-milano/?homepagePosition=0",
+      "url": "https://www.ilpost.it/2026/10/31/gadi-eisenkot-elezioni-israele/?homepagePosition=0",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/10/22/ragazzi-disordini-cosa-accomuna/?homepagePosition=0.1&referrerPost=3720374",
+      "url": "https://www.ilpost.it/2026/10/30/risultati-elezioni-definitivi-israele/?homepagePosition=0.1&referrerPost=3719183",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/10/29/perche-youssef-siher-e-stato-scarcerato/?homepagePosition=0.2&referrerPost=3720374",
+      "url": "https://www.ilpost.it/2026/10/31/ambasciata-statunitense-mosca-allerta-attacco-vittime/?bitPosition=1",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/10/31/oleshky-civili-ucraina-arrivo/?bitPosition=1",
+      "url": "https://www.ilpost.it/2026/10/31/tv-cina-boicotta-partita-liga-spagna-mbappe-mao-zedong/?bitPosition=2",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/10/31/nonna-silvi-morta/?bitPosition=2",
+      "url": "https://www.ilpost.it/2026/10/31/oleshky-civili-ucraina-arrivo/?bitPosition=3",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/10/31/jasmine-paolini-sara-errani-qualificate-wta-finals/?bitPosition=3",
+      "url": "https://www.ilpost.it/2026/10/31/nonna-silvi-morta/?bitPosition=4",
       "status": 200
     }
   ],
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.ilpost.it/",
-  "durationSeconds": 4.27
+  "durationSeconds": 5.34
 }

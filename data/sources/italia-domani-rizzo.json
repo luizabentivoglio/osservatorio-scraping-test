@@ -4,16 +4,16 @@
   "sourceId": "italia-domani-rizzo",
   "originUrl": "https://www.italiadomanirizzo.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-31T15:55:01.392713Z",
+  "collectedAt": "2026-10-31T21:54:26.523524Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
-      "title": "Italia Domani al fianco dei caregiver familiari: serve una legge organica subito - Italia Domani",
-      "url": "https://www.italiadomanirizzo.it/italia-domani-al-fianco-dei-caregiver-familiari-serve-una-le/",
-      "excerpt": "Erica Martini ribadisce l'impegno di Italia Domani per il riconoscimento giuridico ed economico dei caregiver familiari, dopo l'ascolto delle loro istanze al Congresso Nazionale del partito.",
+      "title": "Carrara: Andrea Romiti di Italia Domani alla presentazione del libro di Tommaso Cerno - Italia Domani",
+      "url": "https://www.italiadomanirizzo.it/carrara-andrea-romiti-di-italia-domani-alla-presentazione-de/",
+      "excerpt": "Venerdì 6 novembre a Marina di Carrara si terrà la presentazione de \"Le ragioni di Giuda\" di Tommaso Cerno. Tra i relatori Andrea Romiti, dirigente nazionale di Italia Domani con Marco Rizzo.",
       "publishedAt": "2026-10-31T00:00:00Z",
       "dateEvidence": "jsonld:datePublished"
     },
@@ -25,10 +25,10 @@
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "Italia Domani con Marco Rizzo in prima linea a Sapri: stop ai tagli sulla sanità - Italia Domani",
-      "url": "https://www.italiadomanirizzo.it/sapri-stop-al-punto-nascita-italia-domani-si-mobilita-per-di/",
-      "excerpt": "Italia Domani di Marco Rizzo si mobilita a Sapri contro la chiusura del punto nascita. Chiesta l'apertura di un tavolo in Prefettura a Salerno per difendere la sanità pubblica e i cittadini.",
-      "publishedAt": "2026-10-30T00:00:00Z",
+      "title": "Italia Domani al fianco dei caregiver familiari: serve una legge organica subito - Italia Domani",
+      "url": "https://www.italiadomanirizzo.it/italia-domani-al-fianco-dei-caregiver-familiari-serve-una-le/",
+      "excerpt": "Erica Martini ribadisce l'impegno di Italia Domani per il riconoscimento giuridico ed economico dei caregiver familiari, dopo l'ascolto delle loro istanze al Congresso Nazionale del partito.",
+      "publishedAt": "2026-10-31T00:00:00Z",
       "dateEvidence": "jsonld:datePublished"
     }
   ],
@@ -42,7 +42,7 @@
       "status": 200
     },
     {
-      "url": "https://www.italiadomanirizzo.it/italia-domani-al-fianco-dei-caregiver-familiari-serve-una-le/",
+      "url": "https://www.italiadomanirizzo.it/carrara-andrea-romiti-di-italia-domani-alla-presentazione-de/",
       "status": 200
     },
     {
@@ -50,7 +50,7 @@
       "status": 200
     },
     {
-      "url": "https://www.italiadomanirizzo.it/sapri-stop-al-punto-nascita-italia-domani-si-mobilita-per-di/",
+      "url": "https://www.italiadomanirizzo.it/italia-domani-al-fianco-dei-caregiver-familiari-serve-una-le/",
       "status": 200
     },
     {
@@ -94,5 +94,5 @@
   "candidateCount": 8,
   "datedCount": 3,
   "listingUrl": "https://www.italiadomanirizzo.it/",
-  "durationSeconds": 5.64
+  "durationSeconds": 6.2
 }
