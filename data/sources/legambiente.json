@@ -4,7 +4,7 @@
   "sourceId": "legambiente",
   "originUrl": "https://www.legambiente.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-31T01:52:15.612710Z",
+  "collectedAt": "2026-10-31T08:56:01.463427Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -62,7 +62,7 @@
   "candidateCount": 12,
   "datedCount": 3,
   "listingUrl": "https://www.legambiente.it/",
-  "durationSeconds": 5.22,
+  "durationSeconds": 4.72,
   "attemptErrors": [
     {
       "url": "https://www.legambiente.it/campagne-in-evidenza/puliamo-il-mondo/",

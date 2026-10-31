@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T01:52:55.501232+00:00",
+  "generatedAt": "2026-10-31T08:56:40.557605+00:00",
   "sourceCount": 67,
-  "ok": 36,
+  "ok": 37,
   "items": 147,
   "results": [
     {
@@ -657,12 +657,12 @@
     },
     {
       "sourceId": "tgr-lombardia",
-      "status": "no_feed",
+      "status": "ok",
       "method": "crawl4ai",
-      "diagnosticCode": "parsing_error",
-      "message": "Pagina accessibile, ma nessuna notizia con data di pubblicazione verificabile.",
-      "candidateCount": 0,
-      "datedCount": 0,
+      "diagnosticCode": null,
+      "message": "Pagina resa con Crawl4AI; metadati degli articoli e date verificati.",
+      "candidateCount": 10,
+      "datedCount": 6,
       "itemCount": 0
     },
     {

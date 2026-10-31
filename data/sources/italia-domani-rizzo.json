@@ -4,12 +4,19 @@
   "sourceId": "italia-domani-rizzo",
   "originUrl": "https://www.italiadomanirizzo.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-31T01:52:11.749967Z",
+  "collectedAt": "2026-10-31T08:55:58.690238Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "Italia Domani cresce a Torre del Greco: Emidio Palomba nuovo coordinatore cittadino - Italia Domani",
+      "url": "https://www.italiadomanirizzo.it/italia-domani-cresce-a-torre-del-greco-emidio-palomba-nuovo/",
+      "excerpt": "Il coordinatore regionale Criscuolo nomina Emidio Palomba alla guida di Italia Domani a Torre del Greco. Al centro: lavoro, famiglie, porto e tutela ambientale.",
+      "publishedAt": "2026-10-31T00:00:00Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
     {
       "title": "Italia Domani con Marco Rizzo in prima linea a Sapri: stop ai tagli sulla sanità - Italia Domani",
       "url": "https://www.italiadomanirizzo.it/sapri-stop-al-punto-nascita-italia-domani-si-mobilita-per-di/",
@@ -23,13 +30,6 @@
       "excerpt": "I benzinai denunciano che il taglio delle accise sul diesel finisce nelle tasche delle compagnie petrolifere anziché aiutare i cittadini, chiedendo l'introduzione di un tetto ai prezzi.",
       "publishedAt": "2026-10-29T00:00:00Z",
       "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Suppletive alla Camera: Marco Rizzo presenta a Lanciano Danilo Ranieri - Italia Domani",
-      "url": "https://www.italiadomanirizzo.it/suppletive-alla-camera-marco-rizzo-presenta-a-lanciano-danil/",
-      "excerpt": "A Lanciano Marco Rizzo ha presentato la candidatura di Danilo Ranieri alla Camera dei Deputati per le elezioni suppletive, portando al centro del dibattito i problemi reali del territorio.",
-      "publishedAt": "2026-10-27T00:00:00Z",
-      "dateEvidence": "jsonld:datePublished"
     }
   ],
   "attempts": [
@@ -42,15 +42,15 @@
       "status": 200
     },
     {
+      "url": "https://www.italiadomanirizzo.it/italia-domani-cresce-a-torre-del-greco-emidio-palomba-nuovo/",
+      "status": 200
+    },
+    {
       "url": "https://www.italiadomanirizzo.it/sapri-stop-al-punto-nascita-italia-domani-si-mobilita-per-di/",
       "status": 200
     },
     {
       "url": "https://www.italiadomanirizzo.it/carburanti-allarme-gestori-il-taglio-delle-accise-arricchisc/",
-      "status": 200
-    },
-    {
-      "url": "https://www.italiadomanirizzo.it/suppletive-alla-camera-marco-rizzo-presenta-a-lanciano-danil/",
       "status": 200
     },
     {
@@ -94,5 +94,5 @@
   "candidateCount": 8,
   "datedCount": 3,
   "listingUrl": "https://www.italiadomanirizzo.it/",
-  "durationSeconds": 6.27
+  "durationSeconds": 5.7
 }

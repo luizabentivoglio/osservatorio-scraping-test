@@ -4,52 +4,52 @@
   "sourceId": "il-post",
   "originUrl": "https://www.ilpost.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-31T01:52:10.667558Z",
+  "collectedAt": "2026-10-31T08:55:56.725345Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
+      "title": "Chi è Gadi Eisenkot, l’ex generale che vuole chiudere l’era Netanyahu",
+      "url": "https://www.ilpost.it/2026/10/31/gadi-eisenkot-elezioni-israele/?homepagePosition=0",
+      "excerpt": "Sulle guerre di Israele ha idee simili all’ex primo ministro, ma su altri temi – come le colonie – sta un po’ più al centro",
+      "publishedAt": "2026-10-31T07:44:05Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "Flávio Bolsonaro ha detto di essere fuggito dal Brasile per paura di essere arrestato",
+      "url": "https://www.ilpost.it/2026/10/31/flavio-bolsonaro-fuga-persecuzione-politica/?bitPosition=1",
+      "excerpt": "Flávio Bolsonaro ha detto di essere fuggito dal Brasile per paura di essere arrestato - Condividi - X - Regala il Post Flávio Bolsonaro, senatore ed ex candidato della destra alle presidenziali che ha perso contro Lula, ha detto di aver lasciato il Brasile per sfuggire a quella che considera una persecuzione politica. ",
+      "publishedAt": "2026-10-31T07:31:15Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "Gli Stati Uniti vogliono espellere oltre 150 afghani: alcuni rischiano persecuzioni dai talebani",
+      "url": "https://www.ilpost.it/2026/10/31/stati-uniti-vogliono-espellere-oltre-150-afghani/?bitPosition=2",
+      "excerpt": "Gli Stati Uniti vogliono espellere oltre 150 afghani: alcuni rischiano persecuzioni dai talebani - Condividi - X - Regala il Post L’amministrazione di Donald Trump ha trasferito decine di cittadini afghani detenuti negli Stati Uniti in centri per immigrati in Louisiana, da dove prevede di espellerli verso l’Afghanistan",
+      "publishedAt": "2026-10-31T06:18:20Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "Papa Leone XIV ha votato per posta alle elezioni di metà mandato degli Stati Uniti",
+      "url": "https://www.ilpost.it/2026/10/31/papa-leone-xiv-voto-posta-elezioni-meta-mandato-stati-uniti/?bitPosition=3",
+      "excerpt": "Papa Leone XIV ha votato per posta alle elezioni di metà mandato degli Stati Uniti - Condividi - X - Regala il Post Papa Leone XIV, che è nato a Chicago, ha votato per corrispondenza alle elezioni statunitensi di metà mandato del 3 novembre, una possibilità garantita dalla legge federale statunitense per i cittadini ch",
+      "publishedAt": "2026-10-31T05:58:11Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
       "title": "Gli Stati Uniti hanno detto che approveranno la vendita all’Ucraina di 500 missili Patriot",
-      "url": "https://www.ilpost.it/2026/10/30/stati-uniti-patriot-ucraina/?bitPosition=1",
+      "url": "https://www.ilpost.it/2026/10/30/stati-uniti-patriot-ucraina/?bitPosition=4",
       "excerpt": "Gli Stati Uniti hanno detto che approveranno la vendita all’Ucraina di 500 missili Patriot - Condividi - X - Regala il Post Venerdì il governo statunitense ha detto che approverà la vendita all’Ucraina di 500 missili Patriot, per un valore di 2,1 miliardi di dollari (circa 1,88 miliardi di euro). I Patriot sono missili",
       "publishedAt": "2026-10-30T20:52:49Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "L’azienda di armi ucraina Fire Point dice che non ha bisogno di Starlink per attaccare la Russia",
-      "url": "https://www.ilpost.it/2026/10/30/fire-point-senza-starlink-ucraina/?bitPosition=2",
-      "excerpt": "L’azienda di armi ucraina Fire Point dice che non ha bisogno di Starlink per attaccare la Russia - Condividi - X - Regala il Post Iryna Terekh, l’amministratrice delegata dell’azienda di armi ucraina Fire Point, ha detto in un’intervista a Reuters che l’azienda ha sviluppato sistemi che le consentiranno di fare bombard",
-      "publishedAt": "2026-10-30T18:57:59Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Tre carabinieri sono indagati per la perquisizione a casa dei fratelli Ramponi, in cui morirono tre loro colleghi",
-      "url": "https://www.ilpost.it/2026/10/30/tre-carabinieri-accusati-di-omicio-colposo-castel-dazzano-verona/?bitPosition=3",
-      "excerpt": "Tre carabinieri sono indagati per la perquisizione a casa dei fratelli Ramponi, in cui morirono tre loro colleghi - Condividi - X - Regala il Post La procura di Verona ha indagato per omicidio colposo plurimo tre ufficiali dei carabinieri che il 14 ottobre 2025 erano responsabili di una perquisizione in una casa a Cast",
-      "publishedAt": "2026-10-30T17:17:53Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "La polizia scozzese ha aperto un’indagine sulle visite di Jeffrey Epstein in una residenza dei reali britannici",
-      "url": "https://www.ilpost.it/2026/10/30/polizia-scozzese-indagini-balmoral-epstein-ex-principe-andrea/?bitPosition=4",
-      "excerpt": "La polizia scozzese ha aperto un’indagine sulle visite di Jeffrey Epstein in una residenza dei reali britannici - Condividi - X - Regala il Post La polizia scozzese ha detto che sta indagando sulle visite che il finanziere statunitense Jeffrey Epstein e la sua compagna Ghislaine Maxwell fecero nella residenza reale del",
-      "publishedAt": "2026-10-30T15:21:18Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Dall’ultimo Call of Duty saranno rimossi alcuni video di un incidente a Seul che causò 160 morti, dopo le proteste delle famiglie",
-      "url": "https://www.ilpost.it/2026/10/30/call-of-duty-rimozione-video-incidente-seul/?bitPosition=5",
-      "excerpt": "Dall’ultimo Call of Duty saranno rimossi alcuni video di un incidente a Seul che causò 160 morti, dopo le proteste delle famiglie - Condividi - X - Regala il Post Activision, l’azienda che produce la nota serie di videogiochi Call of Duty, ha deciso di rimuovere dall’ultimo titolo uscito, Modern Warfare 4, le immagini ",
-      "publishedAt": "2026-10-30T14:59:15Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Le foto delle manifestazioni in tutta Italia, molto partecipate",
-      "url": "https://www.ilpost.it/2026/10/30/foto-sciopero-manifestazioni-italia/?homepagePosition=0",
-      "excerpt": "Decine di migliaia di persone hanno sfilato in cortei in gran parte pacifici, con qualche tensione a Roma e a Torino",
-      "publishedAt": "2026-10-30T11:23:30Z",
+      "title": "I risultati definitivi in Israele, infine",
+      "url": "https://www.ilpost.it/2026/10/30/risultati-elezioni-definitivi-israele/?homepagePosition=0.1&referrerPost=3719183",
+      "excerpt": "Confermano che nessuno schieramento ha la maggioranza: Netanyahu ha accusato i partiti arabi di avere rubato le elezioni",
+      "publishedAt": "2026-10-30T07:36:52Z",
       "dateEvidence": "jsonld:datePublished"
     }
   ],
@@ -63,27 +63,27 @@
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/10/30/foto-sciopero-manifestazioni-italia/?homepagePosition=0",
+      "url": "https://www.ilpost.it/2026/10/31/gadi-eisenkot-elezioni-israele/?homepagePosition=0",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/10/30/stati-uniti-patriot-ucraina/?bitPosition=1",
+      "url": "https://www.ilpost.it/2026/10/30/risultati-elezioni-definitivi-israele/?homepagePosition=0.1&referrerPost=3719183",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/10/30/fire-point-senza-starlink-ucraina/?bitPosition=2",
+      "url": "https://www.ilpost.it/2026/10/31/flavio-bolsonaro-fuga-persecuzione-politica/?bitPosition=1",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/10/30/tre-carabinieri-accusati-di-omicio-colposo-castel-dazzano-verona/?bitPosition=3",
+      "url": "https://www.ilpost.it/2026/10/31/stati-uniti-vogliono-espellere-oltre-150-afghani/?bitPosition=2",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/10/30/polizia-scozzese-indagini-balmoral-epstein-ex-principe-andrea/?bitPosition=4",
+      "url": "https://www.ilpost.it/2026/10/31/papa-leone-xiv-voto-posta-elezioni-meta-mandato-stati-uniti/?bitPosition=3",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/10/30/call-of-duty-rimozione-video-incidente-seul/?bitPosition=5",
+      "url": "https://www.ilpost.it/2026/10/30/stati-uniti-patriot-ucraina/?bitPosition=4",
       "status": 200
     }
   ],
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.ilpost.it/",
-  "durationSeconds": 3.54
+  "durationSeconds": 3.53
 }
