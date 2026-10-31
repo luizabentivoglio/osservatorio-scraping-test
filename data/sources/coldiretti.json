@@ -4,17 +4,24 @@
   "sourceId": "coldiretti",
   "originUrl": "https://www.coldiretti.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-31T08:55:26.702913Z",
+  "collectedAt": "2026-10-31T15:54:23.458897Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
-      "title": "Lavoro, Legge Caporalato compie 10 anni, ma Ue cancella condizionalità sociale dalla nuova PAC",
-      "url": "https://www.coldiretti.it/economia/lavoro-legge-caporalato-compie-10-anni-ma-ue-cancella-condizionalita-sociale-dalla-nuova-pac",
-      "excerpt": "A dieci anni dalla legge, Coldiretti rilancia la lotta allo sfruttamento e annuncia la mobilitazione a Bruxelles il 3 novembre",
-      "publishedAt": "2026-10-29T09:40:30Z",
+      "title": "Coldiretti Pesca: dalle farm alle reti intelligenti, il tonno made in Italy punta su innovazione e origine",
+      "url": "https://www.coldiretti.it/economia/coldiretti-pesca-dalle-farm-alle-reti-intelligenti-il-tonno-made-in-italy-punta-su-innovazione-e-origine",
+      "excerpt": "Dalle “farm” alle reti intelligenti, fino all'origine, la filiera del tonno rosso Made in Italy punta su innovazione e lotta alle frodi",
+      "publishedAt": "2026-10-31T11:01:58Z",
+      "dateEvidence": "meta:article:published_time"
+    },
+    {
+      "title": "Halloween, zucca economy oltre 30milioni di euro tra cucina, intaglio e campi tematici",
+      "url": "https://www.coldiretti.it/economia/halloween-zucca-economy-oltre-30milioni-di-euro-tra-cucina-intaglio-e-campi-tematici",
+      "excerpt": "Dalla terra coltivata alle feste nei “pumpkin patch”, dei veri campi di zucca, cresce il turismo legato al prodotto",
+      "publishedAt": "2026-10-31T10:57:37Z",
       "dateEvidence": "meta:article:published_time"
     },
     {
@@ -22,13 +29,6 @@
       "url": "https://www.coldiretti.it/economia/pesca-cetara-capitale-europea-del-tonno-rosso-due-giorni-per-disegnare-il-futuro-della-filiera",
       "excerpt": "l 30 e 31 ottobre il confronto tra operatori, istituzioni, esperti italiani ed europei su sostenibilità, nuovi mercati, aumento dei costi",
       "publishedAt": "2026-10-28T10:41:54Z",
-      "dateEvidence": "meta:article:published_time"
-    },
-    {
-      "title": "Gasolio agricolo, bene apertura Ue a giusta richiesta Italia",
-      "url": "https://www.coldiretti.it/economia/gasolio-agricolo-bene-apertura-ue-a-giusta-richiesta-italia",
-      "excerpt": "Sulla Condizionalità sociale il Copa di Giansanti ha vinto una battaglia di inciviltà, ma Coldiretti al lavoro su Parlamento europeo",
-      "publishedAt": "2026-10-27T16:30:21Z",
       "dateEvidence": "meta:article:published_time"
     },
     {
@@ -79,11 +79,11 @@
       "status": 200
     },
     {
-      "url": "https://www.coldiretti.it/economia/lavoro-legge-caporalato-compie-10-anni-ma-ue-cancella-condizionalita-sociale-dalla-nuova-pac",
+      "url": "https://www.coldiretti.it/economia/coldiretti-pesca-dalle-farm-alle-reti-intelligenti-il-tonno-made-in-italy-punta-su-innovazione-e-origine",
       "status": 200
     },
     {
-      "url": "https://www.coldiretti.it/economia/gasolio-agricolo-bene-apertura-ue-a-giusta-richiesta-italia",
+      "url": "https://www.coldiretti.it/economia/halloween-zucca-economy-oltre-30milioni-di-euro-tra-cucina-intaglio-e-campi-tematici",
       "status": 200
     }
   ],
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.coldiretti.it/",
-  "durationSeconds": 9.88
+  "durationSeconds": 9.62
 }

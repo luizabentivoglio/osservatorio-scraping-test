@@ -4,12 +4,19 @@
   "sourceId": "wwf",
   "originUrl": "https://www.wwf.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-31T08:56:29.966388Z",
+  "collectedAt": "2026-10-31T15:55:35.512016Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "COP17: bene gli sforzi annunciati, ma restano gli ostacoli finanziari",
+      "url": "https://www.wwf.it/pandanews/societa/mondo/cop17-bene-gli-sforzi-annunciati-ma-restano-gli-ostacoli-finanziari/",
+      "excerpt": "Luci e ombre dopo la chiusura della Conferenza delle Nazioni Unite sulla biodiversità (COP17), tenutasi in Armenia",
+      "publishedAt": "2026-10-31T11:48:00Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
     {
       "title": "Con “I fiori del mulino” oltre 2.000 ettari per gli impollinatori",
       "url": "https://www.wwf.it/pandanews/societa/con-i-fiori-del-mulino-oltre-2-000-ettari-per-gli-impollinatori/",
@@ -44,13 +51,6 @@
       "excerpt": "Dal 22 al 25 ottobre, 17 individui di cervo italico sono stati trasferiti dall'Emilia-Romagna alla Calabria",
       "publishedAt": "2026-10-27T11:18:34Z",
       "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Le rare immagini del gatto selvatico nell’Oasi di Monte Arcosu",
-      "url": "https://www.wwf.it/pandanews/animali/video-gatto-selvatico-monte-arcosu/",
-      "excerpt": "Un breve video coglie due felini all'interno della Riserva Naturale e Oasi WWF",
-      "publishedAt": "2026-10-26T11:08:48Z",
-      "dateEvidence": "jsonld:datePublished"
     }
   ],
   "attempts": [
@@ -60,6 +60,10 @@
     },
     {
       "url": "https://www.wwf.it/",
+      "status": 200
+    },
+    {
+      "url": "https://www.wwf.it/pandanews/societa/mondo/cop17-bene-gli-sforzi-annunciati-ma-restano-gli-ostacoli-finanziari/",
       "status": 200
     },
     {
@@ -81,10 +85,6 @@
     {
       "url": "https://www.wwf.it/pandanews/animali/operazione-cervo-italico-trasferiti-17-esemplari-cervo-italico/",
       "status": 200
-    },
-    {
-      "url": "https://www.wwf.it/pandanews/animali/video-gatto-selvatico-monte-arcosu/",
-      "status": 200
     }
   ],
   "message": "6 notizie recenti con data verificata; copertura parziale.",
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.wwf.it/",
-  "durationSeconds": 5.18
+  "durationSeconds": 4.26
 }

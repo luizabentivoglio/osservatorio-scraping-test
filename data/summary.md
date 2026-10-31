@@ -12,14 +12,14 @@
 | cnr | error | html | 0 | connection_error |
 | coldiretti | ok | trafilatura | 6 | — |
 | commissione-europea | ok | trafilatura | 1 | — |
-| comune-bollate | ok | trafilatura | 6 | — |
+| comune-bollate | ok | trafilatura | 5 | — |
 | confcommercio | blocked | html | 0 | access_restricted |
 | confindustria | ok | trafilatura | 1 | — |
 | consiglio-ue | blocked | html | 0 | access_restricted |
 | copernicus | no_feed | crawl4ai | 0 | parsing_error |
 | coraggio-italia | no_feed | crawl4ai | 0 | parsing_error |
 | corte-conti | no_feed | crawl4ai | 0 | parsing_error |
-| dc-rotondi | ok | rss | 1 | — |
+| dc-rotondi | ok | rss | 0 | — |
 | demos-media | ok | trafilatura | 0 | — |
 | demos-partito | ok | rss | 0 | — |
 | emergency | ok | trafilatura | 0 | — |
@@ -53,7 +53,7 @@
 | pagella-politica | ok | trafilatura | 6 | — |
 | palazzo-chigi | ok | rss | 10 | — |
 | parlamento-europeo | no_feed | crawl4ai | 0 | parsing_error |
-| partito-liberaldemocratico | ok | trafilatura | 4 | — |
+| partito-liberaldemocratico | error | html | 0 | timeout |
 | patt | ok | trafilatura | 0 | — |
 | patto-nord | no_feed | crawl4ai | 0 | parsing_error |
 | pillole-economia | blocked | html | 0 | access_restricted |

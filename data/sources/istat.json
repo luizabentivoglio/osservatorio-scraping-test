@@ -4,7 +4,7 @@
   "sourceId": "istat",
   "originUrl": "https://www.istat.it/",
   "configuredFeedUrl": "https://www.istat.it/feed/",
-  "collectedAt": "2026-10-31T08:55:56.007777Z",
+  "collectedAt": "2026-10-31T15:54:57.025088Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
@@ -92,5 +92,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 2.68
+  "durationSeconds": 4.37
 }

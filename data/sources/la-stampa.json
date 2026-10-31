@@ -4,12 +4,173 @@
   "sourceId": "la-stampa",
   "originUrl": "https://www.lastampa.it/",
   "configuredFeedUrl": "https://www.lastampa.it/rss/copertina.xml",
-  "collectedAt": "2026-10-31T08:56:00.772591Z",
+  "collectedAt": "2026-10-31T15:55:03.407117Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.lastampa.it/rss/copertina.xml",
   "items": [
+    {
+      "title": "Medjugorje, Leone affida al vescovo Cavina il dossier più incandescente della Chiesa",
+      "url": "https://www.lastampa.it/cronaca/2026/10/31/news/medjugorje_leone_papa_vescovo_cavina_indagini-15784053/",
+      "excerpt": "Il Papa invia il presule emiliano nel santuario mariano che ogni anno è meta di tre milioni di pellegrini per le apparizioni sulla cui autenticità la Santa Sede non si è ancora espressa",
+      "publishedAt": "2026-10-31T14:38:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Lancio di sassi e molotov, a Tirana gli studenti chiedono le dimissioni del premier Rama",
+      "url": "https://www.lastampa.it/esteri/2026/10/31/news/tirana_albania_proteste_studenti_chiedono_dimissioni_premier_rama-15784044/",
+      "excerpt": "L’ondata di malcontento iniziata in primavera contro la costruzione di un resort di lusso in una riserva naturale da parte della figlia e del genero di Trump",
+      "publishedAt": "2026-10-31T14:20:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "In tenda al Colosseo contro il caro vita: “Vogliamo risposte, la lotta va avanti”",
+      "url": "https://www.lastampa.it/cronaca/2026/10/31/news/in_tenda_al_colosseo_contro_il_caro_vita_vogliamo_risposte_la_lotta_va_avanti-15784037/",
+      "excerpt": "Il presidio iniziato dopo la manifestazione di venerdì: «Bisogna spostare i fondi destinati alla guerra su formazione e Sanità»",
+      "publishedAt": "2026-10-31T14:16:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Midterm, un giudice della California a Trump: “Basta minacce ai funzionari addetti ai seggi”",
+      "url": "https://www.lastampa.it/esteri/speciali/elezioni-midterm-2026/2026/10/31/news/midterm_giudice_california_trump_minacce_funzionari_seggi_brogli-15784024/",
+      "excerpt": "Accolto il ricorso di sindacati e gruppi per i diritti civili",
+      "publishedAt": "2026-10-31T13:50:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "33 anni senza Fellini: la voce del Maestro rivive nel docufilm con immagini mai trasmesse",
+      "url": "https://www.lastampa.it/spettacoli/2026/10/31/video/federico_fellini_ultimo_fellini_documentario_immagini_inedite_esordi_cinema_2026-15784005/",
+      "excerpt": "A 33 anni dalla morte di Federico Fellini, avvenuta il 31 ottobre 1993, arriva un estratto di “Ultimo Fellini”, il documentario diretto da Gianluigi Attorre. Nel video il Maestro racconta i suoi esordi nel cinema e come non avrebbe mai immaginato di diventare regista. Vincenzo Mollica ripercorre invece le difficoltà in",
+      "publishedAt": "2026-10-31T13:20:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Bambini sulle orme di Casadei: in Romagna ora il liscio entra in classe",
+      "url": "https://www.lastampa.it/cronaca/2026/10/31/news/bambini_sulle_orme_di_casadei_in_romagna_ora_il_liscio_entra_in_classe-15783989/",
+      "excerpt": "Il progetto alle elementari di Gatteo e Savignano sul Rubicone. La nipote di Secondo Casadei, autore di “Romagna mia”: “Con questo progetto vogliamo tramandare il patrimonio culturale del nostro folk”",
+      "publishedAt": "2026-10-31T12:44:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Il corteo finisce, lei resta a pulire: a Bologna una ragazza raccoglie le bottiglie in tangenziale",
+      "url": "https://www.lastampa.it/cronaca/2026/10/31/video/bologna_ragazza_pulisce_tangenziale_bottiglie_corteo_sciopero_generale-15783985/",
+      "excerpt": "Una ragazza raccoglie le bottiglie abbandonate sull'asfalto della tangenziale di Bologna, al termine del corteo del 30 ottobre contro il carovita e il riarmo. È una delle immagini della giornata di sciopero generale proclamato dall'Usb, che ha portato 30mila persone in strada secondo la Questura. Dopo circa tre ore di ",
+      "publishedAt": "2026-10-31T12:37:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Affitti, rivoluzione nella Manovra 2027: cedolare secca all’1% per gli under 35 e nuovi bonus casa",
+      "url": "https://www.lastampa.it/economia/2026/10/31/news/economia20261031manovra-2027-affitti-cedolare-secca-1-per-cento-under-35-bonus-15783969/",
+      "excerpt": "Agevolazioni anche per i negozi, confermate le detrazioni sulle ristrutturazioni",
+      "publishedAt": "2026-10-31T12:14:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Strade come cascate in Siria: le auto avanzano tra le acque, le immagini impressionanti dal drone",
+      "url": "https://www.lastampa.it/esteri/2026/10/31/video/siria_alluvione_inondazioni_strade_allagate_drone_morti_bambini-15783945/",
+      "excerpt": "Una strada trasformata in un torrente, le automobili che avanzano sull'asfalto allagato e danneggiato. Sono le immagini riprese il 29 ottobre da un drone nel governatorato di Deir ez-Zor, nella Siria orientale, e diffuse dal ministero per la Gestione delle emergenze. Le piogge torrenziali hanno colpito anche Raqqa, Has",
+      "publishedAt": "2026-10-31T11:32:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Addio a Nonna Silvi, la cuoca star di TikTok: il video iconico della carbonara che conquistò milioni di persone",
+      "url": "https://www.lastampa.it/video/socialnews/2026/10/31/video/addio_a_nonna_silvi_la_cuoca_star_di_tiktok_il_video_iconico_della_carbonara_che_conquisto_milioni_di_persone-15783923/",
+      "excerpt": "Guanciale croccante, uova e pecorino: con la sua carbonara da oltre 50 milioni di visualizzazioni, Nonna Silvi aveva conquistato i social, trasformando una ricetta della tradizione in un video diventato iconico. Con la sua ironia, la parlata toscana e una spontaneità contagiosa, Silvana Bini era diventata una delle cuo",
+      "publishedAt": "2026-10-31T10:47:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Gli Usa agli alleati: “Possibili nuovi attacchi dopo Midterm”. Khamenei: “Risponderemo senza limiti geografici”",
+      "url": "https://www.lastampa.it/esteri/2026/10/31/news/guerra_in_iran_news_in_diretta_oggi_khamenei_minaccia_usa-15783906/",
+      "excerpt": "Indiscrezioni su possibili raid rapidi ma pesanti in Iran. La rabbia degli ayatollah",
+      "publishedAt": "2026-10-31T10:14:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Può una tenda di mattoni essere arte? Ecco cosa significa l’opera di denuncia ad Artissima 2026",
+      "url": "https://www.lastampa.it/torino/2026/10/31/video/puo_una_tenda_di_mattoni_essere_arte_ecco_cosa_significa_lopera_di_denuncia_ad_artissima_2026-15783904/",
+      "excerpt": "Una tenda che sembra fatta di stoffa, ma è costruita con mattoni. È una delle opere più curiose di Artissima 2026, la fiera d'arte contemporanea di Torino. L'autore è Ignacio Unrrein, artista e architetto argentino che attraverso il progetto Tapiar Buenos Aires riflette sulle contraddizioni del mercato immobiliare e su",
+      "publishedAt": "2026-10-31T10:07:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Finalmente piove in Indonesia, la gioia incontenibile dei pompieri",
+      "url": "https://www.lastampa.it/esteri/2026/10/31/video/finalmente_piove_in_indonesia_la_gioia_incontenibile_dei_pompieri-15783900/",
+      "excerpt": "Si abbracciano, gridano di gioia, saltano nelle pozzanghere e baciano la terra bagnata. A Palangkaraya, in Indonesia, i vigili del fuoco volontari festeggiano l'arrivo della pioggia il 28 ottobre, dopo mesi trascorsi a combattere gli incendi che devastano il Kalimantan Centrale, sull'isola del Borneo. Da agosto i roghi",
+      "publishedAt": "2026-10-31T09:56:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Halloween dal calendario celtico al consumismo di Amazon",
+      "url": "https://www.lastampa.it/speciale/scienza/il-cielo/2026/10/31/news/halloween_dal_calendario_celtico_al_consumismo_di_amazon-15783894/",
+      "excerpt": "La tradizione nasce dal Samhain, capodanno dei Celti. Irlanda, America e ritorno, fino all’Italia. L’origine delle zucche-teschio illuminate e di «dolcetto o scherzetto»",
+      "publishedAt": "2026-10-31T09:16:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Pois colorati infiniti, alle Ogr la pop art di Yayoi Kusama",
+      "url": "https://www.lastampa.it/torino/2026/10/31/video/pois_colorati_infiniti_alle_ogr_la_pop_art_di_yayoi_kusama-15783891/",
+      "excerpt": "Alle Ogr arriva Yayoi Kusama, la regina giapponese dei pois scomparsa lo scorso agosto. In mostra una delle sue famose \"Infinity Mirrored Room\", intitolata \"The Eternally Infinite Light of the Universe Illuminating the Quest for Truth\". Una stanza completamente ricoperta di specchi, dove i visitatori si riflettono all'",
+      "publishedAt": "2026-10-31T09:11:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Torino, una ragazza offre fiori agli agenti antisommossa: i poliziotti accettano il regalo",
+      "url": "https://www.lastampa.it/torino/2026/10/31/video/torino_una_ragazza_offre_fiori_agli_agenti_antisommossa_il_gesto_dei_poliziotti-15783886/",
+      "excerpt": "Una ragazza si avvicina agli agenti in tenuta antisommossa e porge loro dei fiori. Diversi poliziotti accettano il regalo. Succede a Torino, venerdì 30 ottobre, durante il corteo serale contro il riarmo e il carovita, partito da piazza Castello e diretto verso i Giardini Reali, passando accanto alla Prefettura. Il gest",
+      "publishedAt": "2026-10-31T09:06:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Sola in tutù bianco davanti a scudi e blindati: la ballerina danza sulle note di “Bella ciao”",
+      "url": "https://www.lastampa.it/cronaca/2026/10/31/video/sola_in_tutu_bianco_davanti_a_scudi_e_blindati_la_ballerina_danza_sulle_note_di_bella_ciao-15783876/",
+      "excerpt": "Una ballerina in tutù bianco e body nero danza con le braccia alzate, mentre davanti a lei, sulla scalinata, una fila di agenti in tenuta antisommossa presidia l'ingresso insieme ai blindati della polizia. La scena si svolge a Roma, davanti al ministero dell'Istruzione, durante lo sciopero generale del 30 ottobre, orga",
+      "publishedAt": "2026-10-31T08:55:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Scontri ai cortei, 60 perquisizioni in 23 città: nel mirino le chat che incitavano alla violenza",
+      "url": "https://www.lastampa.it/cronaca/2026/10/31/news/cronaca20261031newsscontri_cortei_60_perquisizioni_23_citta_chat_violenza_polizia-15783869/",
+      "excerpt": "Blitz di Digos e Polizia postale dopo le tensioni nelle piazze. Il bilancio del Coisp: 13 agenti feriti, uno dovrà essere operato. Scontri a Roma e Torino, oltre 255mila manifestanti secondo il Viminale",
+      "publishedAt": "2026-10-31T08:42:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Pagano fino a 360mila euro per una \"crociera senza fine\", ma la nave scarica tutti in Cambogia",
+      "url": "https://www.lastampa.it/esteri/2026/10/31/news/crociera-senza-fine-mv-odyssey-passeggeri-cambogia-15783866/",
+      "excerpt": "La MV Odyssey era stata presentata come la fuga definitiva da Donald Trump. Poi la guerra in Iran e l’impennata dei costi del petrolio hanno fermato il viaggio: i passeggeri sono stati lasciati a terra con sette ore di tempo per fare i bagagli",
+      "publishedAt": "2026-10-31T08:40:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "La sfida degli studenti del Politecnico: \"Spaghetti bridge\", costruire ponti solidi on la pasta",
+      "url": "https://www.lastampa.it/torino/2026/10/31/video/15783860-15783860/",
+      "excerpt": "Si partecipa da soli, in coppia o a gruppi di tre. Ognuno ha a disposizione al massimo un chilo di pasta, del formato che vuole. L’importante è non superare i 1000 grammi e costruire una struttura lunga un metro. Poi, al centro viene attaccato un gancio, che tira verso il basso finché non la rompe. Si chiama \"Spaghetti",
+      "publishedAt": "2026-10-31T08:34:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Robyn, una dea pop al C2C: sensualità pura e una pioggia di glitter",
+      "url": "https://www.lastampa.it/spettacoli/2026/10/31/news/robyn_c2c_torino_concerto_recensione-15783856/",
+      "excerpt": "Un’esibizione travolgente, tra cambi d'abito, pose iconiche e hit senza tempo",
+      "publishedAt": "2026-10-31T08:33:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Scudi antisommossa, manganelli e banconote con Trump, ad Artissima la creatività sfida il potere",
+      "url": "https://www.lastampa.it/torino/2026/10/31/video/scudi_sporchi_di_vernice_e_banconote_con_trump_ad_artissima_2026_la_creativita_sfida_il_potere-15783854/",
+      "excerpt": "Scudi antisommossa sporchi di vernice e banconote con il volto di Donald Trump macchiate di petrolio: ad Artissima 2026, a Torino, l’arte diventa uno strumento di critica sociale. Tra gli stand della fiera, aperta all’Oval Lingotto fino al 1° novembre, quello della galleria romana Gilda Lavia mette in dialogo le opere ",
+      "publishedAt": "2026-10-31T08:27:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "È morta nonna Silvi, la cuoca star di TikTok che cucinò per i reali del Qatar / Il video iconico",
+      "url": "https://www.lastampa.it/cronaca/2026/10/31/news/silvana_binia_nonna_silvi_morta_cuoca_torcana_tiktok-15783849/",
+      "excerpt": "Silvana Bini è morta all’età di 85 anni. Grazie a TikTok aveva conquistato una notorietà internazionale, arrivando a cucinare anche per la famiglia reale del Qatar e a ricevere un premio da Forbes Italia",
+      "publishedAt": "2026-10-31T08:16:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "Uccise la moglie per la polizza da 100mila euro, la madre: “Gettò i medicinali dopo la morte”",
       "url": "https://www.lastampa.it/cronaca/2026/10/31/news/verona-infermiere-uccide-moglie-insulina-polizza-100mila-euro-padre-funerale-15783830/",
@@ -18,7 +179,7 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Perché sulle Alpi fa più caldo che in pianura: zero termico a 4.300 metri: ecco cosa sta succedendo",
+      "title": "Perché sulle Alpi fa più caldo che in pianura: ecco cosa sta succedendo",
       "url": "https://www.lastampa.it/rubriche/il-respiro-delle-alpi/2026/10/31/news/alpi_piu_caldo_che_in_pianura_zero_termico_a_4300_metri_cosa_cambia-15783818/",
       "excerpt": "È normalissimo che ci siano inversioni termiche in un periodo di alta pressione, non lo sono invece temperature così elevate in quota, peraltro sempre più frequenti mano a mano che il riscaldamento globale progredisce e le invasioni di aria nord-africana verso la regione alpina si fanno più intense",
       "publishedAt": "2026-10-31T07:27:00Z",
@@ -32,13 +193,6 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Torino, il 7 novembre nuova protesta contro Meloni dopo i tre cortei: tensioni e idranti in centro",
-      "url": "https://www.lastampa.it/torino/2026/10/31/news/torino_il_7_novembre_nuova_protesta_contro_meloni-15783800/",
-      "excerpt": "In costume da nobili e con il volto dipinto di rosso, una coppia di ventenni sventola sorridendo davanti ai Reparti Mobili della polizia due fantocci di cartone che raffigurano la testa mozzata ...",
-      "publishedAt": "2026-10-31T07:10:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
       "title": "F1, Gp Città del Messico: Leclerc da pole, stasera la sfida con Antonelli",
       "url": "https://www.lastampa.it/sport/2026/10/31/news/f1_gp_leclerc_messico_sfida_antonelli-15783772/",
       "excerpt": "Charles ha chiuso il venerdì con il miglior tempo mentre Hamilton sull’altra Ferrari è stato fermato da un problema al motore ma non andrà in penalità. Kimi quarto dopo l’influenza: «Bello tornare in macchina e sentirsi di nuovo bene, le Rosse sono veloci». Scontro in pista, Verstappen e Lawson penalizzati di una posiz",
@@ -46,17 +200,45 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Giulia, la stella della ginnastica artistica: da Vercelli ai mondiali di Rotterdam",
+      "title": "Giulia, l’apina divenuta stella della ginnastica artistica: da Vercelli ai mondiali di Rotterdam",
       "url": "https://www.lastampa.it/vercelli/2026/10/31/news/giulia_perotti_mondiali_rotterdam_ginnastica_artistica_vercelli-15783767/",
       "excerpt": "Il tecnico Federica Gatti: «Un’apina perfezionista fin da piccola. Prova, riprova e sa conciliare scuola e sport»",
       "publishedAt": "2026-10-31T06:24:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Gp Malesia, Alex Marquez in pole davanti al fratello Marc",
+      "title": "Dramma in Valle Argentina, muore a 16 anni nell’auto finita fuori strada",
+      "url": "https://www.lastampa.it/imperia-sanremo/2026/10/31/news/dramma_in_valle_argentina_auto_fuori_strade_muore_un_ragazzo_di_16_anni-15783762/",
+      "excerpt": "L’incidente nel comune di Triora, in località Bregalla. Il veicolo ha fatto un volo di 60 metri nel vuoto",
+      "publishedAt": "2026-10-31T06:22:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Midterm, il guru dei sondaggisti Luntz: “Sarà una pessima notte per Trump e i repubblicani”",
+      "url": "https://www.lastampa.it/esteri/2026/10/31/news/midterm_frank_luntz_trump_repubblicani_elezioni_americane_2026-15783740/",
+      "excerpt": "Il principe degli strateghi elettorali Usa prevede che repubblicani e democratici si divideranno Texas e Ohio: «Ma non so come, perché sono due Stati che pendono verso i repubblicani ma anche una forza importante democratica»",
+      "publishedAt": "2026-10-31T06:06:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Campo largo, rebus Torino. I 5 Stelle: “Decidono i territori”",
+      "url": "https://www.lastampa.it/torino/2026/10/31/news/campo_largo_elezioni_torino_lo_russo_appendino_pd_m5s-15783736/",
+      "excerpt": "Le reazioni dei politici locali dopo l’accordo a livello nazionale sulle primarie a febbraio. Il Movimento in città è diviso. Russi: serve discontinuità. Sganga: può essere la svolta",
+      "publishedAt": "2026-10-31T05:39:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Gp Malesia, trionfa Acosta, Marc Marquez secondo: ora il Mondiale è a un passo",
       "url": "https://www.lastampa.it/sport/2026/10/31/news/moto_gp_malesia_alex_marquez_pole-15783723/",
       "excerpt": "Le Aprilia apriranno la seconda fila con Ai Ogura che ha fatto meglio di Marco Bezzecchi",
       "publishedAt": "2026-10-31T05:16:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Raid russo su Kiev, capitale al buio e senz’acqua. Zelensky a colloquio con Erdogan",
+      "url": "https://www.lastampa.it/esteri/2026/10/31/diretta/ucraina_russia_raid_kiev_lavrov_trump-15783692/",
+      "excerpt": "Ucraina: «Rispettata tregua a Oleshky, Mosca tenta di screditarci»",
+      "publishedAt": "2026-10-31T03:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
@@ -67,16 +249,16 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Sciopero contro il carovita, l’Italia in piazza: “Siamo più di un milione”. Tensione a Torino e Roma",
-      "url": "https://www.lastampa.it/cronaca/2026/10/31/news/sciopero_30_ottobre_scontri_roma_torino-15783632/",
-      "excerpt": "A Milano disagi e tangenziale bloccata: le scritte “Meloni e Salvini appesi”. A Napoli e Genova la protesta di studenti e lavoratori è arrivata nei porti",
+      "title": "La rivolta all’emancipazione obbligatoria: è distopia o, forse, un nuovo femminismo",
+      "url": "https://www.lastampa.it/cultura/2026/10/31/news/yesteyear_libro_mogli_tradizionali_trumpiane_usa-15783618/",
+      "excerpt": "Arriva in Italia “Yesteyear”, il bestseller sulle mogli tradizionali trumpiane, caso editoriale negli Stati Uniti",
       "publishedAt": "2026-10-31T03:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Le due facce della contestazione",
-      "url": "https://www.lastampa.it/editoriali/lettere-e-idee/2026/10/31/news/manifestazioni_proteste_violenze-15783628/",
-      "excerpt": "C’è chi manifesta perché sono saltati il patto generazionale e il patto sociale. E c’è chi sporca la protesta legittima con la guerriglia",
+      "title": "Se Renzi sarà nella nostra coalizione, non riusciremo mai a mandare a casa Meloni",
+      "url": "https://www.lastampa.it/politica/2026/10/31/news/e_renzi_punge_conte_sul_perimetro_hanno_certificato_che_siamo_in_squadra-15783588/",
+      "excerpt": "Ma il presidente M5s insiste: «Con Italia Viva nella coalizione non manderemo mai a casa Meloni»",
       "publishedAt": "2026-10-31T03:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -88,72 +270,9 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Renzi punge Conte sul perimetro del campo largo: “Hanno certificato che siamo in squadra”",
-      "url": "https://www.lastampa.it/politica/2026/10/31/news/e_renzi_punge_conte_sul_perimetro_hanno_certificato_che_siamo_in_squadra-15783588/",
-      "excerpt": "Ma il presidente M5s insiste: «Con Italia Viva nella coalizione non manderemo mai a casa Meloni»",
-      "publishedAt": "2026-10-31T03:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Accoltellò Marta Novello e fuggì, ora l’aggressore torna a vivere vicino a lei",
-      "url": "https://www.lastampa.it/cronaca/2026/10/31/news/accoltello_marta_e_fuggi_ora_l_aggressore_torna_a_vivere_vicino_a_lei-15783646/",
-      "excerpt": "Espulso dall’Inghilterra, Jamal Tonelli rientra in Italia. Lo attende un nuovo processo: l’attacco risale al 2021",
-      "publishedAt": "2026-10-31T03:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
       "title": "Centri servizi nelle Rsa e più sostegno a domicilio, così nasce il modello Piemonte",
       "url": "https://www.lastampa.it/torino/2026/10/31/news/centri_servizi_nelle_rsa_e_piu_sostegno_a_domicilio_cosi_nasce_il_modello_piemonte-15783614/",
       "excerpt": "Patto tra istituzioni, sanità, associazioni e famiglie per monitorare le fragilità",
-      "publishedAt": "2026-10-31T03:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Nel Texas che sogna il dem Talarico dove anche i presepi sono per Donald",
-      "url": "https://www.lastampa.it/esteri/speciali/elezioni-midterm-2026/2026/10/31/news/nel_texas_che_sogna_il_dem_talarico_dove_anche_i_presepi_sono_per_donald-15783654/",
-      "excerpt": "A quattro giorni dal Midterm i repubblicani temono la sconfitta: «Corromperà i nostri figli»",
-      "publishedAt": "2026-10-31T03:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Tra i beduini che sognano la rivincita: “Pagati dal Qatar per votare? Magari”",
-      "url": "https://www.lastampa.it/esteri/2026/11/01/news/beduini_qatar_israele_elezioni_negev-15783573/",
-      "excerpt": "Le elezioni in Israele: nel Negev il partito arabo Raam ha fatto il pieno: «Eisenkot ha bisogno di noi»",
-      "publishedAt": "2026-10-31T03:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Ucraina, Lavrov ad Atlanta per un’intesa. Ma Trump autorizza altri Patriot a Kiev",
-      "url": "https://www.lastampa.it/esteri/2026/10/31/news/ucraina_lavrov_ad_atlanta_per_un_intesa_ma_trump_autorizza_altri_patriot_a_kiev-15783650/",
-      "excerpt": "Summit dei ministri degli Esteri del G20. Il capo della diplomazia russa: «Colloquio con Rubio, breve ma piacevole»",
-      "publishedAt": "2026-10-31T03:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Torino, il primato di don Foradini: mezzo secolo nella stessa parrocchia. “Il mio riposo è fare del bene”",
-      "url": "https://www.lastampa.it/cronaca/2026/10/31/news/il_primato_di_don_foradini_mezzo_secolo_in_parrocchia_il_mio_riposo_e_fare_del_bene-15783624/",
-      "excerpt": "Oggi novantenne, dal 1976 guida la chiesa di San Secondo a Torino",
-      "publishedAt": "2026-10-31T03:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Da Vercelli alle Svalbard: le antiche varietà di riso nella cassaforte tra i ghiacci",
-      "url": "https://www.lastampa.it/cronaca/2026/10/31/news/da_vercelli_alle_svalbard_le_antiche_varieta_di_riso_nella_cassaforte_tra_i_ghiacci-15783519/",
-      "excerpt": "Aggiunti 74 campioni italiani alla banca dei semi che tutela la biodiversità",
-      "publishedAt": "2026-10-31T03:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Cristina Chiabotto: “Ai giovani consiglio cazzimma napoletana, ma equilibrio sabaudo”",
-      "url": "https://www.lastampa.it/spettacoli/2026/10/31/news/cristina_chiabotto_ai_giovani_consiglio_cazzimma_napoletana_ma_equilibrio_sabaudo-15783546/",
-      "excerpt": "La conduttrice ha appena compiuto quarant’anni : “Vincere Miss Italia nel 2004 è stato l’inizio di una favola”",
-      "publishedAt": "2026-10-31T03:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Massini mette in scena l’ascesa di Putin: “È un ragno paziente al centro della tela”",
-      "url": "https://www.lastampa.it/spettacoli/2026/10/31/news/massini_mette_in_scena_l_ascesa_di_putin_e_un_ragno_paziente_al_centro_della_tela-15783559/",
-      "excerpt": "“Lo Zar” debutta il 3 novembre al Piccolo di Milano: «Mefistofelico, lo avevamo sottovalutato»",
       "publishedAt": "2026-10-31T03:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -170,125 +289,6 @@
       "excerpt": "Individuata una crosta di circa trenta centimetri contaminata da idrocarburi pesanti: piombo, rame, zinco e tracce di cromo",
       "publishedAt": "2026-10-31T03:00:00Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Courmayeur, ora l’accesso in centro si paga: esenzioni soltanto per residenti e negozianti",
-      "url": "https://www.lastampa.it/aosta/2026/10/30/news/courmayeur_tassa_ingresso-15783386/",
-      "excerpt": "Via libera del Consiglio comunale al regolamento per l’accesso alle aree pedonali ma resta l’incertezza sui tempi.",
-      "publishedAt": "2026-10-30T16:48:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "“Strappate quei verbali”. Scajola indagato passa all’attacco: “Mai detto quella frase ai vigili”",
-      "url": "https://www.lastampa.it/imperia-sanremo/2026/10/30/news/strappate_i_verbali_scajola_indagato_si_difende_mai_detto_quella_frase-15783371/",
-      "excerpt": "Il sindaco di Imperia in conferenza stampa: «Questa inchiesta è la vergogna di un sistema che non funziona»",
-      "publishedAt": "2026-10-30T16:35:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Papa Leone vota per le elezioni di Midterm: cosa c'è dietro all'esordio di un pontefice alle urne",
-      "url": "https://www.lastampa.it/esteri/speciali/elezioni-midterm-2026/2026/10/30/news/papa_leone_voto_elezioni_midterm-15783359/",
-      "excerpt": "Il canonista don Di Giacomo: «Il mondo cambia, il papato non è più una struttura assolutistica»",
-      "publishedAt": "2026-10-30T16:24:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Strage di Castel d’Azzano, tre comandanti dei carabinieri indagati per concorso in omicidio",
-      "url": "https://www.lastampa.it/cronaca/2026/10/30/news/castel_d_azzano_comandanti_carabinieri_indagati_omicidio-15783270/",
-      "excerpt": "Sono i responsabili dell’operazione di sgombero del 14 ottobre 2025 in cui morirono tre colleghi dell’Arma",
-      "publishedAt": "2026-10-30T15:22:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Trump, dito medio dal pubblico durante il comizio: \"È salito sull'aereo di Epstein\"",
-      "url": "https://www.lastampa.it/esteri/speciali/elezioni-midterm-2026/2026/10/30/video/trump_contestazione_comizio_epstein_sicurezza-15783258/",
-      "excerpt": "Durante un comizio in Ohio in vista delle elezioni di Midterm, Trump è stato contestato dal comico e artista Robby Roadsteamer, che gli ha urlato: «Eri in aereo con Jeffrey Epstein». L'uomo, prima di venire allontanato dalla sicurezza, ha fatto il dito medio al presidente. LEGGI ANCHE Epstein, il dipartimento di Giusti",
-      "publishedAt": "2026-10-30T15:17:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Napoli, offronno pasticcini ai poliziotti in tenuta antisommossa: \"Non sono loro il problema\"",
-      "url": "https://www.lastampa.it/cronaca/2026/10/30/video/manifestazione_napoli_manifestanti_offrono_pasticcini_poliziotti-15783236/",
-      "excerpt": "Sfogliatelle, graffe e cornetti offerti ai poliziotti in assetto antisommossa durante il corteo contro il carovita e il riarmo a Napoli. Protagonisti del gesto due giovani manifestanti, un ragazzo e una ragazza, che durante lo sciopero generale del 30 ottobre si sono avvicinati agli agenti schierati in via Reggia di Po",
-      "publishedAt": "2026-10-30T14:53:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "\"Siamo fratelli\". E i militari abbassano gli scudi davanti ai manifestanti di Torino",
-      "url": "https://www.lastampa.it/torino/2026/10/30/video/torino_giu_gli_scudi_guardia_di_finanza_e_carabinier_li_abbassano_davanti_al_corteo-15783215/",
-      "excerpt": "A Torino il corteo Usb arriva in piazzale Romolo e Remo, e continua verso la A4 Torino-Trieste. La Guardia di finanza è schierata all'ingresso dell'A4, e il corteo si raccoglie in mezzo alla rotonda al fondo di corso Giulio. «Questa è una dimostrazione pacifica, noi non siamo violenti. Qui il conflitto non lo vogliamo.",
-      "publishedAt": "2026-10-30T14:40:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Midterm Usa 2026, guida alle elezioni: come funzionano e cosa rischia Trump",
-      "url": "https://www.lastampa.it/esteri/speciali/elezioni-midterm-2026/2026/10/30/news/elezioni_midterm_usa_2026_guida_come_si_vota_cosa_rischia_trump-15783212/",
-      "excerpt": "Con oltre 100 milioni di elettori attesi alle urne e spese pubblicitarie record, l'esito delle urne deciderà il controllo del Congresso e ridisegnerà gli equilibri di potere a Washington",
-      "publishedAt": "2026-10-30T14:30:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Accordo nel centrosinistra: primarie a febbraio. A novembre il programma",
-      "url": "https://www.lastampa.it/politica/2026/10/30/news/accordo_nel_centrosinistra_primarie_a_febbraio_a_novembre_il_programma-15783172/",
-      "excerpt": "A dicembre una grande manifestazione contro il governo",
-      "publishedAt": "2026-10-30T13:39:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Torino, dipinta di rosso e con la testa di Meloni: \"Verremo a prenderti, Giorgia\"",
-      "url": "https://www.lastampa.it/torino/2026/10/30/video/torino_dipinta_di_rosso_e_con_la_testa_di_meloni_verremo_a_prenderti_giorgia-15783125/",
-      "excerpt": "Il volto dipinto di rosso, una corona in testa e una riproduzione della testa della presidente del Consiglio Giorgia Meloni portata in corteo. È la protesta inscenata da alcuni giovani durante la manifestazione del 30 ottobre a Torino, nella giornata di sciopero generale contro il carovita e il riarmo. «Adesso che siam",
-      "publishedAt": "2026-10-30T12:57:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Lei lo lascia e lui le brucia l'auto: il video",
-      "url": "https://www.lastampa.it/novara/2026/10/30/news/incendio_auto_gozzano_arresto_carabinieri-15782990/",
-      "excerpt": "Il rogo è stata appiccato la sera del 24 ottobre in un parcheggio di via per Auzate a Gozzano: le telecamere hanno incastrato l’autore, fermato dai carabinieri a Ornavasso",
-      "publishedAt": "2026-10-30T10:54:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Perché ad Artissima c'è una Madonna girata di spalle?",
-      "url": "https://www.lastampa.it/torino/2026/10/30/video/perche_ad_artissima_ce_una_madonna_girata_di_spalle-15782983/",
-      "excerpt": "Tra le molte opere di forte impatto visivo presenti ad Artissima ce n'è una particolarmente interessante: si intitola In search of the miraculous dell'artista Marcello Maloberti e rappresenta una Madonna girata di spalle. A raccontarcela è la gallerista Raffaella Cortese. LEGGI ANCHE A Torino un viaggio fra opere di 18",
-      "publishedAt": "2026-10-30T10:46:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Dal Portogallo all’Albania, l’autunno caldo dell’Europa: perché i giovani si ribellano",
-      "url": "https://www.lastampa.it/esteri/2026/10/30/news/portogallo_grecia_albania_proteste_giovani_europa-15782956/",
-      "excerpt": "Da settimane gli studenti della Generazione Z scendono in piazza per il diritto allo studio, alla casa, per la giustizia sociale e la dignità del lavoro",
-      "publishedAt": "2026-10-30T10:30:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "\"Sei disgustoso. Mettiti in forma\": Trump insulta un giornalista dopo una domanda sul Kansas",
-      "url": "https://www.lastampa.it/esteri/2026/10/30/video/trump_insulta_giornalista_disgustoso_domanda_kansas-15782929/",
-      "excerpt": "«Sei disgustoso. Hai un aspetto terribile, rimettiti in forma». Donald Trump ha attaccato un giornalista della Reuters dopo una domanda sul mancato viaggio del presidente in Kansas, per partecipare al comizio a sostegno del repubblicano Roger Marshall. «Non sento il bisogno di andare, sta andando tutto bene».",
-      "publishedAt": "2026-10-30T10:14:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Basta finanziare la crescita Usa, l’Europa trattenga i risparmi",
-      "url": "https://www.lastampa.it/economia/2026/10/30/news/panetta_europa_risparmi_tassi_possibili_rialzi-15782871/",
-      "excerpt": "In occasione della Giornata mondiale del risparmio, il governatore della Banca d’Italia lancia la sfida tecnologica agli Stati Uniti e chiede un mercato unico dei capitali",
-      "publishedAt": "2026-10-30T09:19:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Pompei, armadio sigillato dall'eruzione riaperto dopo 2mila anni: il tesoro di una donna",
-      "url": "https://www.lastampa.it/cronaca/2026/10/30/video/pompei_armadio_sigillato_eruzione_riaperto_2mila_anni-15782845/",
-      "excerpt": "Nella casa di una donna di ceto medio lungo l’antica via dell’Abbondanza, gli archeologi hanno ricostruito un armadio di legno rimasto sigillato dall’eruzione del Vesuvio del 79 d.C. All’interno sono stati trovati un contenitore per profumi o unguenti, monete, pinzette, pentole, pesi da commercio e una collana di amule",
-      "publishedAt": "2026-10-30T08:59:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Obama, Trump e la \"Cheesecake Factory di Saddam Hussein\" alla Casa Bianca: lo scontro prima delle Midterm",
-      "url": "https://www.lastampa.it/esteri/2026/10/30/video/obama_trump_e_la_cheesecake_factory_di_saddam_hussein_alla_casa_bianca_lo_scontro_prima_delle_midterm-15782684/",
-      "excerpt": "Se pensavate che lo scontro tra Barack Obama e Donald Trump fosse arrivato al limite, vi sbagliavate di grosso. Perché l’ultimo botta e risposta non riguarda la geopolitica o l'economia… ma il design d'interni. E ha tirato in ballo persino Saddam Hussein e la nota catena di ristoranti americani Cheesecake Factory. Dura",
-      "publishedAt": "2026-10-30T06:23:00Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -302,5 +302,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 0.69
+  "durationSeconds": 1.28
 }

@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T08:56:40.557605+00:00",
+  "generatedAt": "2026-10-31T15:55:44.441687+00:00",
   "sourceCount": 67,
-  "ok": 37,
-  "items": 147,
+  "ok": 36,
+  "items": 141,
   "results": [
     {
       "sourceId": "amnesty",
@@ -110,10 +110,10 @@
       "status": "ok",
       "method": "trafilatura",
       "diagnosticCode": null,
-      "message": "6 notizie recenti con data verificata; copertura parziale.",
+      "message": "5 notizie recenti con data verificata; copertura parziale.",
       "candidateCount": 12,
-      "datedCount": 6,
-      "itemCount": 6
+      "datedCount": 5,
+      "itemCount": 5
     },
     {
       "sourceId": "confcommercio",
@@ -183,7 +183,7 @@
       "message": "Feed dichiarato dalla fonte; date di pubblicazione verificate.",
       "candidateCount": null,
       "datedCount": null,
-      "itemCount": 1
+      "itemCount": 0
     },
     {
       "sourceId": "demos-media",
@@ -517,13 +517,13 @@
     },
     {
       "sourceId": "partito-liberaldemocratico",
-      "status": "ok",
-      "method": "trafilatura",
-      "diagnosticCode": null,
-      "message": "4 notizie recenti con data verificata; copertura parziale.",
-      "candidateCount": 9,
-      "datedCount": 4,
-      "itemCount": 4
+      "status": "error",
+      "method": "html",
+      "diagnosticCode": "timeout",
+      "message": "Timeout della fonte",
+      "candidateCount": null,
+      "datedCount": null,
+      "itemCount": 0
     },
     {
       "sourceId": "patt",
@@ -590,7 +590,7 @@
       "status": "blocked",
       "method": "html",
       "diagnosticCode": "access_restricted",
-      "message": "Verifica interattiva richiesta",
+      "message": "Browser HTTP 403",
       "candidateCount": 12,
       "datedCount": 0,
       "itemCount": 0

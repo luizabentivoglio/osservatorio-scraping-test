@@ -4,12 +4,19 @@
   "sourceId": "italia-domani-rizzo",
   "originUrl": "https://www.italiadomanirizzo.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-31T08:55:58.690238Z",
+  "collectedAt": "2026-10-31T15:55:01.392713Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "Italia Domani al fianco dei caregiver familiari: serve una legge organica subito - Italia Domani",
+      "url": "https://www.italiadomanirizzo.it/italia-domani-al-fianco-dei-caregiver-familiari-serve-una-le/",
+      "excerpt": "Erica Martini ribadisce l'impegno di Italia Domani per il riconoscimento giuridico ed economico dei caregiver familiari, dopo l'ascolto delle loro istanze al Congresso Nazionale del partito.",
+      "publishedAt": "2026-10-31T00:00:00Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
     {
       "title": "Italia Domani cresce a Torre del Greco: Emidio Palomba nuovo coordinatore cittadino - Italia Domani",
       "url": "https://www.italiadomanirizzo.it/italia-domani-cresce-a-torre-del-greco-emidio-palomba-nuovo/",
@@ -23,13 +30,6 @@
       "excerpt": "Italia Domani di Marco Rizzo si mobilita a Sapri contro la chiusura del punto nascita. Chiesta l'apertura di un tavolo in Prefettura a Salerno per difendere la sanità pubblica e i cittadini.",
       "publishedAt": "2026-10-30T00:00:00Z",
       "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Carburanti, allarme gestori: il taglio delle accise arricchisce i colossi petroliferi - Italia Domani",
-      "url": "https://www.italiadomanirizzo.it/carburanti-allarme-gestori-il-taglio-delle-accise-arricchisc/",
-      "excerpt": "I benzinai denunciano che il taglio delle accise sul diesel finisce nelle tasche delle compagnie petrolifere anziché aiutare i cittadini, chiedendo l'introduzione di un tetto ai prezzi.",
-      "publishedAt": "2026-10-29T00:00:00Z",
-      "dateEvidence": "jsonld:datePublished"
     }
   ],
   "attempts": [
@@ -42,15 +42,15 @@
       "status": 200
     },
     {
+      "url": "https://www.italiadomanirizzo.it/italia-domani-al-fianco-dei-caregiver-familiari-serve-una-le/",
+      "status": 200
+    },
+    {
       "url": "https://www.italiadomanirizzo.it/italia-domani-cresce-a-torre-del-greco-emidio-palomba-nuovo/",
       "status": 200
     },
     {
       "url": "https://www.italiadomanirizzo.it/sapri-stop-al-punto-nascita-italia-domani-si-mobilita-per-di/",
-      "status": 200
-    },
-    {
-      "url": "https://www.italiadomanirizzo.it/carburanti-allarme-gestori-il-taglio-delle-accise-arricchisc/",
       "status": 200
     },
     {
@@ -94,5 +94,5 @@
   "candidateCount": 8,
   "datedCount": 3,
   "listingUrl": "https://www.italiadomanirizzo.it/",
-  "durationSeconds": 5.7
+  "durationSeconds": 5.64
 }

@@ -4,7 +4,7 @@
   "sourceId": "ispra",
   "originUrl": "https://www.isprambiente.gov.it/it",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-31T08:55:55.339475Z",
+  "collectedAt": "2026-10-31T15:54:56.978196Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
@@ -21,5 +21,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 0.94
+  "durationSeconds": 1.76
 }
