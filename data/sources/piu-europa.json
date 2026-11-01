@@ -4,7 +4,7 @@
   "sourceId": "piu-europa",
   "originUrl": "https://www.piueuropa.eu/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-01T09:45:52.133042Z",
+  "collectedAt": "2026-11-01T16:56:04.196994Z",
   "status": "blocked",
   "diagnosticCode": "access_restricted",
   "method": "html",
@@ -23,5 +23,5 @@
   "message": "HTTP 403: accesso limitato dalla fonte",
   "httpStatus": 403,
   "failedUrl": "https://www.piueuropa.eu/",
-  "durationSeconds": 0.9
+  "durationSeconds": 0.53
 }

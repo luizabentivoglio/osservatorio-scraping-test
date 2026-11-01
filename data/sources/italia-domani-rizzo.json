@@ -4,16 +4,16 @@
   "sourceId": "italia-domani-rizzo",
   "originUrl": "https://www.italiadomanirizzo.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-01T09:46:29.502440Z",
+  "collectedAt": "2026-11-01T16:56:47.882660Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
-      "title": "Cultura e dibattito a Marina di Carrara: Andrea Romiti all'evento con Tommaso Cerno - Italia Domani",
-      "url": "https://www.italiadomanirizzo.it/cultura-e-dibattito-a-marina-di-carrara-andrea-romiti-all-ev/",
-      "excerpt": "Venerdì a Marina di Carrara la presentazione del nuovo libro di Tommaso Cerno. Tra i relatori dell'incontro anche Andrea Romiti, dirigente nazionale di Italia Domani.",
+      "title": "Francesca Antinozzi a In Voce Veritas: sovranità, giovani e futuro per Italia Domani - Italia Domani",
+      "url": "https://www.italiadomanirizzo.it/francesca-antinozzi-a-in-voce-veritas-sovranita-giovani-e-fu/",
+      "excerpt": "La Segretaria Francesca Antinozzi interviene a In Voce Veritas: critica all'UE, difesa della spesa sociale e della scuola, e l'impegno di Italia Domani sui territori per ridare voce ai cittadini.",
       "publishedAt": "2026-11-01T00:00:00Z",
       "dateEvidence": "jsonld:datePublished"
     },
@@ -25,10 +25,10 @@
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "Italia Domani cresce a Torre del Greco: Emidio Palomba nuovo coordinatore cittadino - Italia Domani",
-      "url": "https://www.italiadomanirizzo.it/italia-domani-cresce-a-torre-del-greco-emidio-palomba-nuovo/",
-      "excerpt": "Il coordinatore regionale Criscuolo nomina Emidio Palomba alla guida di Italia Domani a Torre del Greco. Al centro: lavoro, famiglie, porto e tutela ambientale.",
-      "publishedAt": "2026-10-31T00:00:00Z",
+      "title": "Cultura e dibattito a Marina di Carrara: Andrea Romiti all'evento con Tommaso Cerno - Italia Domani",
+      "url": "https://www.italiadomanirizzo.it/cultura-e-dibattito-a-marina-di-carrara-andrea-romiti-all-ev/",
+      "excerpt": "Venerdì a Marina di Carrara la presentazione del nuovo libro di Tommaso Cerno. Tra i relatori dell'incontro anche Andrea Romiti, dirigente nazionale di Italia Domani.",
+      "publishedAt": "2026-11-01T00:00:00Z",
       "dateEvidence": "jsonld:datePublished"
     }
   ],
@@ -42,7 +42,7 @@
       "status": 200
     },
     {
-      "url": "https://www.italiadomanirizzo.it/cultura-e-dibattito-a-marina-di-carrara-andrea-romiti-all-ev/",
+      "url": "https://www.italiadomanirizzo.it/francesca-antinozzi-a-in-voce-veritas-sovranita-giovani-e-fu/",
       "status": 200
     },
     {
@@ -50,7 +50,7 @@
       "status": 200
     },
     {
-      "url": "https://www.italiadomanirizzo.it/italia-domani-cresce-a-torre-del-greco-emidio-palomba-nuovo/",
+      "url": "https://www.italiadomanirizzo.it/cultura-e-dibattito-a-marina-di-carrara-andrea-romiti-all-ev/",
       "status": 200
     },
     {
@@ -94,5 +94,5 @@
   "candidateCount": 8,
   "datedCount": 3,
   "listingUrl": "https://www.italiadomanirizzo.it/",
-  "durationSeconds": 6.53
+  "durationSeconds": 6.08
 }

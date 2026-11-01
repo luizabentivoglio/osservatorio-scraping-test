@@ -4,38 +4,38 @@
   "sourceId": "il-post",
   "originUrl": "https://www.ilpost.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-01T09:46:27.552969Z",
+  "collectedAt": "2026-11-01T16:56:45.397443Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
+      "title": "La Russia ha arrestato un minorenne sospettato di preparare un attentato a Mosca, dopo un’allerta degli Stati Uniti",
+      "url": "https://www.ilpost.it/2026/11/01/mosca-avvertimento-attentato-palazzo-tsaritsyno-arresto/?bitPosition=1",
+      "excerpt": "La Russia ha arrestato un minorenne sospettato di preparare un attentato a Mosca, dopo un’allerta degli Stati Uniti - Condividi - X - Regala il Post Domenica l’FSB, cioè i servizi di intelligence russi, ha detto di aver arrestato un minorenne russo sospettato di voler compiere un attentato terroristico nel parco Tsarit",
+      "publishedAt": "2026-11-01T15:05:57Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "La nazionale italiana maschile di curling ha vinto la medaglia d’argento agli Europei: è il suo miglior risultato di sempre",
+      "url": "https://www.ilpost.it/2026/11/01/nazionale-italiana-maschile-curling-vinto-argento-europei/?bitPosition=2",
+      "excerpt": "La nazionale italiana maschile di curling ha vinto la medaglia d’argento agli Europei: è il suo miglior risultato di sempre - Condividi - X - Regala il Post Agli Europei di curling di Ostrava, in Cechia, la nazionale italiana maschile – composta da Amos Mosaner, Sebastiano Arman e i gemelli Cesare e Stefano Spiller – h",
+      "publishedAt": "2026-11-01T14:27:48Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "La squadra di MotoGP della Yamaha non parteciperà al Gran Premio del Qatar a causa dei conflitti in Medio Oriente",
+      "url": "https://www.ilpost.it/2026/11/01/squadra-motogp-yamaha-gran-premio-qatar-medio-oriente/?bitPosition=3",
+      "excerpt": "La squadra di MotoGP della Yamaha non parteciperà al Gran Premio del Qatar a causa dei conflitti in Medio Oriente - Condividi - X - Regala il Post La squadra di MotoGP della Yamaha ha comunicato che non parteciperà al Gran Premio del Qatar, in programma per il 7 e l’8 novembre, a causa della «situazione in Medio Orient",
+      "publishedAt": "2026-11-01T12:50:13Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
       "title": "Per gli ispanici sedotti da Trump è già cambiato tutto",
       "url": "https://www.ilpost.it/2026/11/01/ispanici-latinos-texas-trump/?homepagePosition=0",
       "excerpt": "Due anni fa Trump spopolò sul confine, vincendo dove i Democratici dominavano da oltre un secolo: poi sono iniziati i guai",
       "publishedAt": "2026-11-01T08:33:53Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Il pilota spagnolo Marc Márquez ha vinto dominando il Gran Premio di Malaysia di MotoGP",
-      "url": "https://www.ilpost.it/2026/11/01/marc-marquez-vinto-gran-premio-malaysia-motogp/?bitPosition=1",
-      "excerpt": "Il pilota spagnolo Marc Márquez ha vinto dominando il Gran Premio di Malaysia di MotoGP - Condividi - X - Regala il Post Il 33enne spagnolo della Ducati Marc Márquez ha vinto il Gran Premio di Malaysia di MotoGP, corso sul circuito di Sepang. È rimasto in testa sostanzialmente per tutta la gara e ha di nuovo dimostrato",
-      "publishedAt": "2026-11-01T07:00:02Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Le tenniste Sara Errani e Jasmine Paolini hanno vinto il Pan Pacific Open nel doppio",
-      "url": "https://www.ilpost.it/2026/11/01/sara-errani-jasmine-paolini-vinto-pan-pacific-open-tennis-doppio/?bitPosition=2",
-      "excerpt": "Le tenniste Sara Errani e Jasmine Paolini hanno vinto il Pan Pacific Open nel doppio - Condividi - X - Regala il Post Le più forti tenniste italiane nel doppio, Sara Errani e Jasmine Paolini, hanno battuto per 2 set a 0 (6-2, 6-2) la coppia formata dalla canadese Gabriela Dabrowski e dalla brasiliana Luisa Stefani nell",
-      "publishedAt": "2026-11-01T06:42:52Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Altri due uomini sono stati condannati per l’omicidio di Alessandro Coatti, in Colombia",
-      "url": "https://www.ilpost.it/2026/11/01/colombia-condannati-omicidio-alessandro-coatti-biologo/?bitPosition=3",
-      "excerpt": "Altri due uomini sono stati condannati per l’omicidio di Alessandro Coatti, in Colombia - Condividi - X - Regala il Post In Colombia altri due uomini sono stati condannati a 25 anni di carcere per l’omicidio di Alessandro Coatti, il biologo molecolare italiano di 38 anni di cui nell’aprile del 2025 erano stati trovati ",
-      "publishedAt": "2026-11-01T05:55:24Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
@@ -75,15 +75,15 @@
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/01/marc-marquez-vinto-gran-premio-malaysia-motogp/?bitPosition=1",
+      "url": "https://www.ilpost.it/2026/11/01/mosca-avvertimento-attentato-palazzo-tsaritsyno-arresto/?bitPosition=1",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/01/sara-errani-jasmine-paolini-vinto-pan-pacific-open-tennis-doppio/?bitPosition=2",
+      "url": "https://www.ilpost.it/2026/11/01/nazionale-italiana-maschile-curling-vinto-argento-europei/?bitPosition=2",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/01/colombia-condannati-omicidio-alessandro-coatti-biologo/?bitPosition=3",
+      "url": "https://www.ilpost.it/2026/11/01/squadra-motogp-yamaha-gran-premio-qatar-medio-oriente/?bitPosition=3",
       "status": 200
     }
   ],
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.ilpost.it/",
-  "durationSeconds": 3.93
+  "durationSeconds": 3.63
 }

@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-01T09:47:13.512793+00:00",
+  "generatedAt": "2026-11-01T16:57:32.264984+00:00",
   "sourceCount": 67,
   "ok": 35,
-  "items": 146,
+  "items": 145,
   "results": [
     {
       "sourceId": "amnesty",
@@ -97,13 +97,13 @@
     },
     {
       "sourceId": "commissione-europea",
-      "status": "ok",
-      "method": "trafilatura",
-      "diagnosticCode": null,
-      "message": "1 notizie recenti con data verificata; copertura parziale.",
-      "candidateCount": 4,
-      "datedCount": 1,
-      "itemCount": 1
+      "status": "blocked",
+      "method": "html",
+      "diagnosticCode": "rate_limited",
+      "message": "HTTP 429: accesso limitato dalla fonte",
+      "candidateCount": null,
+      "datedCount": null,
+      "itemCount": 0
     },
     {
       "sourceId": "comune-bollate",
@@ -161,7 +161,7 @@
       "method": "crawl4ai",
       "diagnosticCode": "parsing_error",
       "message": "Pagina accessibile, ma nessuna notizia con data di pubblicazione verificabile.",
-      "candidateCount": 1,
+      "candidateCount": 2,
       "datedCount": 0,
       "itemCount": 0
     },
@@ -257,10 +257,10 @@
     },
     {
       "sourceId": "futuro-nazionale",
-      "status": "error",
-      "method": "html",
-      "diagnosticCode": "robots_unavailable",
-      "message": "robots.txt non verificabile",
+      "status": "ok",
+      "method": "rss",
+      "diagnosticCode": null,
+      "message": "Feed dichiarato dalla fonte; date di pubblicazione verificate.",
       "candidateCount": null,
       "datedCount": null,
       "itemCount": 0
@@ -367,12 +367,12 @@
     },
     {
       "sourceId": "iss",
-      "status": "ok",
-      "method": "trafilatura",
-      "diagnosticCode": null,
-      "message": "0 notizie recenti con data verificata; copertura parziale.",
-      "candidateCount": 12,
-      "datedCount": 6,
+      "status": "error",
+      "method": "html",
+      "diagnosticCode": "timeout",
+      "message": "Timeout della fonte",
+      "candidateCount": null,
+      "datedCount": null,
       "itemCount": 0
     },
     {
@@ -657,12 +657,12 @@
     },
     {
       "sourceId": "tgr-lombardia",
-      "status": "no_feed",
+      "status": "ok",
       "method": "crawl4ai",
-      "diagnosticCode": "parsing_error",
-      "message": "Pagina accessibile, ma nessuna notizia con data di pubblicazione verificabile.",
-      "candidateCount": 0,
-      "datedCount": 0,
+      "diagnosticCode": null,
+      "message": "Pagina resa con Crawl4AI; metadati degli articoli e date verificati.",
+      "candidateCount": 10,
+      "datedCount": 6,
       "itemCount": 0
     },
     {
