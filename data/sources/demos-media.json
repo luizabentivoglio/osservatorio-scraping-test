@@ -4,7 +4,7 @@
   "sourceId": "demos-media",
   "originUrl": "https://www.demositalia.it/blog",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-31T21:54:05.131726Z",
+  "collectedAt": "2026-11-01T01:30:12.343142Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -37,5 +37,5 @@
   "candidateCount": 3,
   "datedCount": 3,
   "listingUrl": "https://www.demositalia.it/blog",
-  "durationSeconds": 2.32
+  "durationSeconds": 2.42
 }

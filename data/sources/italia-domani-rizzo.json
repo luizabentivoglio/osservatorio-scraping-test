@@ -4,7 +4,7 @@
   "sourceId": "italia-domani-rizzo",
   "originUrl": "https://www.italiadomanirizzo.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-31T21:54:26.523524Z",
+  "collectedAt": "2026-11-01T01:30:32.207913Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -18,16 +18,16 @@
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "Italia Domani cresce a Torre del Greco: Emidio Palomba nuovo coordinatore cittadino - Italia Domani",
-      "url": "https://www.italiadomanirizzo.it/italia-domani-cresce-a-torre-del-greco-emidio-palomba-nuovo/",
-      "excerpt": "Il coordinatore regionale Criscuolo nomina Emidio Palomba alla guida di Italia Domani a Torre del Greco. Al centro: lavoro, famiglie, porto e tutela ambientale.",
+      "title": "Italia Domani al fianco dei caregiver familiari: serve una legge organica subito - Italia Domani",
+      "url": "https://www.italiadomanirizzo.it/italia-domani-al-fianco-dei-caregiver-familiari-serve-una-le/",
+      "excerpt": "Erica Martini ribadisce l'impegno di Italia Domani per il riconoscimento giuridico ed economico dei caregiver familiari, dopo l'ascolto delle loro istanze al Congresso Nazionale del partito.",
       "publishedAt": "2026-10-31T00:00:00Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "Italia Domani al fianco dei caregiver familiari: serve una legge organica subito - Italia Domani",
-      "url": "https://www.italiadomanirizzo.it/italia-domani-al-fianco-dei-caregiver-familiari-serve-una-le/",
-      "excerpt": "Erica Martini ribadisce l'impegno di Italia Domani per il riconoscimento giuridico ed economico dei caregiver familiari, dopo l'ascolto delle loro istanze al Congresso Nazionale del partito.",
+      "title": "Italia Domani cresce a Torre del Greco: Emidio Palomba nuovo coordinatore cittadino - Italia Domani",
+      "url": "https://www.italiadomanirizzo.it/italia-domani-cresce-a-torre-del-greco-emidio-palomba-nuovo/",
+      "excerpt": "Il coordinatore regionale Criscuolo nomina Emidio Palomba alla guida di Italia Domani a Torre del Greco. Al centro: lavoro, famiglie, porto e tutela ambientale.",
       "publishedAt": "2026-10-31T00:00:00Z",
       "dateEvidence": "jsonld:datePublished"
     }
@@ -46,11 +46,11 @@
       "status": 200
     },
     {
-      "url": "https://www.italiadomanirizzo.it/italia-domani-cresce-a-torre-del-greco-emidio-palomba-nuovo/",
+      "url": "https://www.italiadomanirizzo.it/italia-domani-al-fianco-dei-caregiver-familiari-serve-una-le/",
       "status": 200
     },
     {
-      "url": "https://www.italiadomanirizzo.it/italia-domani-al-fianco-dei-caregiver-familiari-serve-una-le/",
+      "url": "https://www.italiadomanirizzo.it/italia-domani-cresce-a-torre-del-greco-emidio-palomba-nuovo/",
       "status": 200
     },
     {
@@ -94,5 +94,5 @@
   "candidateCount": 8,
   "datedCount": 3,
   "listingUrl": "https://www.italiadomanirizzo.it/",
-  "durationSeconds": 6.2
+  "durationSeconds": 5.7
 }

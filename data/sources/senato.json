@@ -4,10 +4,10 @@
   "sourceId": "senato",
   "originUrl": "https://www.senato.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-31T21:54:56.741548Z",
-  "status": "error",
-  "diagnosticCode": "render_error",
-  "method": "html",
+  "collectedAt": "2026-11-01T01:30:55.513498Z",
+  "status": "no_feed",
+  "diagnosticCode": "parsing_error",
+  "method": "crawl4ai",
   "feedUrl": null,
   "items": [],
   "attempts": [
@@ -20,10 +20,10 @@
       "status": 202
     }
   ],
-  "message": "Rendering della pagina non riuscito",
+  "message": "Pagina accessibile, ma nessuna notizia con data di pubblicazione verificabile.",
   "candidateSamples": [],
   "candidateCount": 0,
   "datedCount": 0,
   "listingUrl": "https://www.senato.it/attualita/archivio-notizie",
-  "durationSeconds": 0.51
+  "durationSeconds": 0.52
 }

@@ -4,7 +4,7 @@
   "sourceId": "pri",
   "originUrl": "https://www.prinazionale.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-31T21:54:42.291750Z",
+  "collectedAt": "2026-11-01T01:30:46.389090Z",
   "status": "no_feed",
   "diagnosticCode": "parsing_error",
   "method": "crawl4ai",
@@ -49,5 +49,5 @@
   "candidateCount": 12,
   "datedCount": 0,
   "listingUrl": "https://www.prinazionale.it/",
-  "durationSeconds": 1.72
+  "durationSeconds": 1.36
 }

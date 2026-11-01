@@ -4,38 +4,38 @@
   "sourceId": "il-post",
   "originUrl": "https://www.ilpost.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-31T21:54:24.265884Z",
+  "collectedAt": "2026-11-01T01:30:28.677419Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
-      "title": "L’ambasciata statunitense in Russia ha emesso un’allerta per un possibile attacco “con molte vittime” a Mosca",
-      "url": "https://www.ilpost.it/2026/10/31/ambasciata-statunitense-mosca-allerta-attacco-vittime/?bitPosition=1",
-      "excerpt": "L’ambasciata statunitense in Russia ha emesso un’allerta per un possibile attacco “con molte vittime” a Mosca - Condividi - X - Regala il Post Sabato l’ambasciata degli Stati Uniti in Russia ha diramato un’allerta di sicurezza grave, sostenendo che è a conoscenza di un possibile attacco “con molte vittime” a Mosca, che",
+      "title": "Lewis Hamilton partirà davanti a tutti nel Gran Premio del Messico di Formula 1, Kimi Antonelli dalla quarta posizione",
+      "url": "https://www.ilpost.it/2026/10/31/lewis-hamilton-qualifiche-pole-position-gran-premio-messico-formula-1-kimi-antonelli/?bitPosition=1",
+      "excerpt": "Lewis Hamilton partirà davanti a tutti nel Gran Premio del Messico di Formula 1, Kimi Antonelli dalla quarta posizione - Condividi - X - Regala il Post Nelle qualifiche del Gran Premio del Messico, ovvero i giri che determinano l’ordine di partenza della gara, il 41enne pilota britannico della Ferrari Lewis Hamilton ha",
+      "publishedAt": "2026-10-31T21:46:20Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "Un giudice statunitense ha di nuovo respinto la causa di Trump contro il Wall Street Journal per il caso Epstein",
+      "url": "https://www.ilpost.it/2026/10/31/donald-trump-wall-street-journal-jeffrey-epstein/?bitPosition=2",
+      "excerpt": "Un giudice statunitense ha di nuovo respinto la causa di Trump contro il Wall Street Journal per il caso Epstein - Condividi - X - Regala il Post Sabato un giudice statunitense ha respinto la causa per diffamazione che il presidente degli Stati Uniti Donald Trump aveva intentato per la seconda volta contro il Wall Stre",
+      "publishedAt": "2026-10-31T21:33:47Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "L’ambasciata statunitense in Russia ha emesso un’allerta per un possibile attacco con molte vittime a Mosca",
+      "url": "https://www.ilpost.it/2026/10/31/ambasciata-statunitense-mosca-allerta-attacco-vittime/?bitPosition=3",
+      "excerpt": "L’ambasciata statunitense in Russia ha emesso un’allerta per un possibile attacco con molte vittime a Mosca - Condividi - X - Regala il Post Sabato l’ambasciata degli Stati Uniti in Russia ha diramato un’allerta di sicurezza grave, sostenendo che è a conoscenza di un possibile attacco con molte vittime a Mosca, che rig",
       "publishedAt": "2026-10-31T15:53:02Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
       "title": "La TV pubblica cinese non ha trasmesso due partite della Liga spagnola, dopo che Mbappé aveva definito Mao «un dittatore»",
-      "url": "https://www.ilpost.it/2026/10/31/tv-cina-boicotta-partita-liga-spagna-mbappe-mao-zedong/?bitPosition=2",
+      "url": "https://www.ilpost.it/2026/10/31/tv-cina-boicotta-partita-liga-spagna-mbappe-mao-zedong/?bitPosition=4",
       "excerpt": "La TV pubblica cinese non ha trasmesso due partite della Liga spagnola, dopo che Mbappé aveva definito Mao «un dittatore» - Condividi - X - Regala il Post La televisione pubblica cinese CCTV non ha trasmesso le prime due partite di questo fine settimana del più importante campionato spagnolo di calcio, la Liga, come fo",
       "publishedAt": "2026-10-31T15:00:20Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "I civili evacuati da Oleshky sono arrivati nel nord dell’Ucraina",
-      "url": "https://www.ilpost.it/2026/10/31/oleshky-civili-ucraina-arrivo/?bitPosition=3",
-      "excerpt": "I civili evacuati da Oleshky sono arrivati nel nord dell’Ucraina - Condividi - X - Regala il Post Il presidente ucraino Volodymyr Zelensky ha detto che i civili che venerdì sono stati evacuati dalla città di Oleshky sono arrivati nel nord dell’Ucraina. Oleshky è una cittadina del sud dell’Ucraina, ed è occupata dai rus",
-      "publishedAt": "2026-10-31T13:23:42Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "È morta a 85 anni Nonna Silvi, molto popolare su Internet per i suoi video di ricette",
-      "url": "https://www.ilpost.it/2026/10/31/nonna-silvi-morta/?bitPosition=4",
-      "excerpt": "È morta a 85 anni Nonna Silvi, molto popolare su Internet per i suoi video di ricette - Condividi - X - Regala il Post Silvana Bini, conosciuta come Nonna Silvi e diventata molto famosa su Internet per i video in cui preparava ricette della tradizione toscana, è morta a 85 anni. La sua popolarità era cominciata nell’ot",
-      "publishedAt": "2026-10-31T10:33:21Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
@@ -71,19 +71,19 @@
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/10/31/ambasciata-statunitense-mosca-allerta-attacco-vittime/?bitPosition=1",
+      "url": "https://www.ilpost.it/2026/10/31/lewis-hamilton-qualifiche-pole-position-gran-premio-messico-formula-1-kimi-antonelli/?bitPosition=1",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/10/31/tv-cina-boicotta-partita-liga-spagna-mbappe-mao-zedong/?bitPosition=2",
+      "url": "https://www.ilpost.it/2026/10/31/donald-trump-wall-street-journal-jeffrey-epstein/?bitPosition=2",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/10/31/oleshky-civili-ucraina-arrivo/?bitPosition=3",
+      "url": "https://www.ilpost.it/2026/10/31/ambasciata-statunitense-mosca-allerta-attacco-vittime/?bitPosition=3",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/10/31/nonna-silvi-morta/?bitPosition=4",
+      "url": "https://www.ilpost.it/2026/10/31/tv-cina-boicotta-partita-liga-spagna-mbappe-mao-zedong/?bitPosition=4",
       "status": 200
     }
   ],
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.ilpost.it/",
-  "durationSeconds": 5.34
+  "durationSeconds": 3.53
 }

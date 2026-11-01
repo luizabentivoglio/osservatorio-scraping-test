@@ -4,17 +4,136 @@
   "sourceId": "la-stampa",
   "originUrl": "https://www.lastampa.it/",
   "configuredFeedUrl": "https://www.lastampa.it/rss/copertina.xml",
-  "collectedAt": "2026-10-31T21:54:30.394961Z",
+  "collectedAt": "2026-11-01T01:30:32.336436Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.lastampa.it/rss/copertina.xml",
   "items": [
     {
-      "title": "Dramma in Valle Argentina, muore a 16 anni nell’auto finita fuori strada",
-      "url": "https://www.lastampa.it/imperia-sanremo/2026/10/31/news/dramma_in_valle_argentina_auto_fuori_strade_muore_un_ragazzo_di_16_anni-15783762/",
-      "excerpt": "L’incidente nel comune di Triora, in località Bregalla. Il veicolo ha fatto un volo di 60 metri nel vuoto",
+      "title": "Michelle Hunziker: “La famiglia e il lavoro mi danno energia. I miei ex? Per me sono come fratelli”",
+      "url": "https://www.lastampa.it/specchio/rubriche/a-tu-per-tu/2026/11/01/news/la_famiglia_e_il_lavoro_mi_danno_energia_i_miei_ex_per_me_sono_come_fratelli-15782150/",
+      "excerpt": "Nel 1994 in Paura dei cinquanta Erica Jong ha scritto: «So che quando entro in una stanza non sono più la più giovane, né la più bella». Ha scritto anche che non le importava, e non ...",
       "publishedAt": "2026-11-01T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Il sesso del terzo tempo e i discorsi sull’amore",
+      "url": "https://www.lastampa.it/specchio/rubriche/la-grande-vecchia/2026/11/01/news/il_sesso_del_terzo_tempo_e_i_discorsi_sull_amore-15781953/",
+      "excerpt": "Tutti facciamo i conti con il tempo che passa. Noi donne di più",
+      "publishedAt": "2026-11-01T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "“Cara Maria, il vuoto che si è creato nella mia anima non può più riempirsi d’amore”",
+      "url": "https://www.lastampa.it/specchio/rubriche/amore-moderno/2026/11/01/news/l_amore_moderno-15782130/",
+      "excerpt": "Cara Maria,ho letto della tragedia che ha vissuto Delia con la scomparsa improvvisa di sua figlia, tragedia che sta ancora vivendo. A lei tutta la mia vicinanza e solidarietà e con queste ...",
+      "publishedAt": "2026-11-01T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Jack the writer, il serial killer “poeta” amato dagli intellettuali",
+      "url": "https://www.lastampa.it/specchio/rubriche/i-grandi-gialli/2026/11/01/news/jack_the_writer_il_serial_killer_poeta_amato_dagli_intellettuali-15782160/",
+      "excerpt": "Lo scrittore austriaco uccise almeno 9 donne. Nel 1994 si suicidò in cella",
+      "publishedAt": "2026-11-01T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "I caregiver ignorati dallo Stato",
+      "url": "https://www.lastampa.it/editoriali/lettere-e-idee/2026/11/01/news/caregiver_ignorati_dallo_stato_fondi_sostegno_psicologico-15784441/",
+      "excerpt": "Dopo l’inchiesta de La Stampa, il governo tenta di dare una risposta attraverso finanziamenti. Ma servono anche più servizi domiciliari, sostegno psicologico e tutele sul lavoro",
+      "publishedAt": "2026-11-01T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Il nuovo galateo senza buona educazione",
+      "url": "https://www.lastampa.it/specchio/temi/2026/11/01/news/autenticita_e_diritto_a_essere_se_stessi_hanno_preso_il_posto_dell_educazione_e_del_buon_senso-15782244/",
+      "excerpt": "Il maggior indicatore di deriva autoritaria delle buone maniere è stata la moltiplicazione di quelli che ti invitano a casa loro e ti fanno lasciare le scarpe fuori dalla ...",
+      "publishedAt": "2026-11-01T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Franco Noero: “Torino e l’Arte Povera, era come essere nella Londra dei Beatles e Rolling Stones”",
+      "url": "https://www.lastampa.it/specchio/rubriche/domenica-con/2026/11/01/news/torino_e_l_arte_povera_era_come_essere_nella_londra_dei_beatles_e_rolling_stones-15781891/",
+      "excerpt": "Il gallerista: «Un’intuizione quella di lavorare con artisti miei coetanei»",
+      "publishedAt": "2026-11-01T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Credere senza verificare, il paradosso perfetto della guerra cognitiva",
+      "url": "https://www.lastampa.it/specchio/rubriche/societa/2026/11/01/news/credere_senza_verificare_il_paradosso_perfetto_della_guerra_cognitiva-15781948/",
+      "excerpt": "Se Shakespeare scrivesse oggi l’Otello, Iago non avrebbe bisogno del fazzoletto di Desdemona. Gli basterebbe uno smartphone, un video manipolato, qualche messaggio ambiguo e un ...",
+      "publishedAt": "2026-11-01T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Viaggio al cuore del Priorat tra i rossi di Catalunya figli della roccia “liquirizia”",
+      "url": "https://www.lastampa.it/specchio/rubriche/sapore/2026/11/01/news/viaggio_al_cuore_del_priorat_tra_i_rossi_di_catalunya_figli_della_roccia_liquirizia-15781937/",
+      "excerpt": "Dai monaci certosini a Pere Ventura, la saga dell’uva “sorella” del Cannonau",
+      "publishedAt": "2026-11-01T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Le donne curde del Rojava che Damasco vuole eliminare: “Non deporremo le armi”",
+      "url": "https://www.lastampa.it/specchio/rubriche/il-reportage/2026/11/01/news/le_donne_curde_del_rojava_che_damasco_vuole_eliminare_non_deporremo_le_armi-15782189/",
+      "excerpt": "Le Forze Democratiche hanno sciolto la milizia, ma le donne soldato restano in mimetica",
+      "publishedAt": "2026-11-01T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Un gioco di geni e molecole. Ecco come si comincia a riparare il cervello",
+      "url": "https://www.lastampa.it/specchio/rubriche/scienza-e-salute/2026/11/01/news/un_gioco_di_geni_e_molecole_ecco_come_si_comincia_a_riparare_il_cervello-15782212/",
+      "excerpt": "Per lungo tempo abbiamo osservato il cervello, limitandoci a descriverne i meccanismi più visibili e a essere spettatori del suo inesorabile declino. Oggi, invece, possiamo cominciare a ...",
+      "publishedAt": "2026-11-01T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Riti pagani e banchetti per gli dèi",
+      "url": "https://www.lastampa.it/specchio/rubriche/parlare-a-tavola/2026/11/01/news/riti_pagani_e_banchetti_per_gli_dei-15781922/",
+      "excerpt": "«Ogn’anno, il due novembre, c’è l’usanza per i defunti andare al Cimitero. Ognuno ll’adda fa’ chesta crianza; ognuno adda tené chistu penziero». Così Totò nel 1964 nella sua ...",
+      "publishedAt": "2026-11-01T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Dipendente di Trenitalia ucciso a coltellate nel Frusinate, arrestato un 38enne",
+      "url": "https://www.lastampa.it/cronaca/2026/11/01/news/dipendente_trenitalia_ucciso_coltellate_lite_frosinone_arresto-15784519/",
+      "excerpt": "La vittima è Claudio Mantua, 48 anni. È stato aggredito mentre si stava recando al lavoro per il turno di notte. Il delitto vicino alla stazione di Castro dei Volsci",
+      "publishedAt": "2026-10-31T22:37:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Malika Ayane “A 40 anni ho imparato la leggerezza L’importante è assaporare l’attimo”",
+      "url": "https://www.lastampa.it/spettacoli/2026/11/01/news/malika_ayane_a_40_anni_ho_imparato_la_leggerezza_l_importante_e_assaporare_l_attimo-15784186/",
+      "excerpt": "La cantante da oggi in tour con “Cicale”: “Faccio esattamente quel che voglio, è una benedizione”",
+      "publishedAt": "2026-10-31T22:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "“Slow Horses”, ronzini di gran classe",
+      "url": "https://www.lastampa.it/spettacoli/2026/11/01/news/slow_horses_ronzini_di_gran_classe-15784196/",
+      "excerpt": "Nella sesta stagione su Apple tv si conferma una serie divertente, ma ormai di una inconsistenza pari solo alla bravura degli interpreti che la sostengono",
+      "publishedAt": "2026-10-31T22:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Kimi a un passo dal sogno, Hamilton pole fantastica",
+      "url": "https://www.lastampa.it/sport/2026/10/31/news/formula_1_messico_kimi_antonelli_hamilton_pole_ferrari-15784506/",
+      "excerpt": "La grande notte di Antonelli: basta il 9° posto a Città del Messico per conquistare uno storico Mondiale. Super prima pole per Ferrari: «Mi mancano le parole dalla felicità»",
+      "publishedAt": "2026-10-31T21:47:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Attacco hacker a Binance, l’Fbi: “C’è dietro la Corea del Nord”",
+      "url": "https://www.lastampa.it/economia/2026/10/31/news/attacco_hacker_binance_fbi_corea_del_nord_crypto-15784502/",
+      "excerpt": "Bloomberg cita il gruppo TraderTraitor. Nel mirino fondi della piattaforma di cryptovalute per 6,3 miliardi di dollari, circa 3 miliardi congelati ma non ancora recuperati",
+      "publishedAt": "2026-10-31T21:34:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Il Milan domina il derby: Inter battuta 3-1. Ora la Lazio può andare in fuga",
+      "url": "https://www.lastampa.it/sport/calcio/2026/10/31/news/il_milan_domina_il_derby_inter_battuta_3-1_ora_la_lazio_puo_andare_in_fuga-15784479/",
+      "excerpt": "A segno Pulisic, Rabiot e Diego Moreira. Ai nerazzurri non basta il guizzo di Bastoni",
+      "publishedAt": "2026-10-31T20:56:00Z",
       "dateEvidence": "feed:published"
     },
     {
@@ -22,13 +141,6 @@
       "url": "https://www.lastampa.it/cronaca/2026/10/31/news/ucciso_a_coltellate_al_bar_l_arrestato_mi_sfotteva_per_l_accento_calabrese-15784340/",
       "excerpt": "L'omicidio di un falegname di 55 anni nel Comasco, arrestato un 33enne",
       "publishedAt": "2026-10-31T18:22:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Kimi, attesa Mondiale: stasera la caccia alla pole position",
-      "url": "https://www.lastampa.it/sport/2026/10/31/news/kimi_attesa_mondiale_2_tempo_nelle_libere-15784306/",
-      "excerpt": "Gp di Città del Messico: alle 22 la caccia alla pole, Antonelli appena un millesimo dietro a Norris. Ferrari 3ª con Leclerc e 6ª con Hamilton. La Haas scarica Ocon: corre Hirakawa",
-      "publishedAt": "2026-10-31T17:50:00Z",
       "dateEvidence": "feed:published"
     },
     {
@@ -177,118 +289,6 @@
       "excerpt": "Si partecipa da soli, in coppia o a gruppi di tre. Ognuno ha a disposizione al massimo un chilo di pasta, del formato che vuole. L’importante è non superare i 1000 grammi e costruire una struttura lunga un metro. Poi, al centro viene attaccato un gancio, che tira verso il basso finché non la rompe. Si chiama \"Spaghetti",
       "publishedAt": "2026-10-31T08:34:00Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Scudi antisommossa, manganelli e banconote con Trump, ad Artissima la creatività sfida il potere",
-      "url": "https://www.lastampa.it/torino/2026/10/31/video/scudi_sporchi_di_vernice_e_banconote_con_trump_ad_artissima_2026_la_creativita_sfida_il_potere-15783854/",
-      "excerpt": "Scudi antisommossa sporchi di vernice e banconote con il volto di Donald Trump macchiate di petrolio: ad Artissima 2026, a Torino, l’arte diventa uno strumento di critica sociale. Tra gli stand della fiera, aperta all’Oval Lingotto fino al 1° novembre, quello della galleria romana Gilda Lavia mette in dialogo le opere ",
-      "publishedAt": "2026-10-31T08:27:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "È morta nonna Silvi, la cuoca star di TikTok che cucinò per i reali del Qatar / Il video iconico",
-      "url": "https://www.lastampa.it/cronaca/2026/10/31/news/silvana_binia_nonna_silvi_morta_cuoca_torcana_tiktok-15783849/",
-      "excerpt": "Silvana Bini è morta all’età di 85 anni. Grazie a TikTok aveva conquistato una notorietà internazionale, arrivando a cucinare anche per la famiglia reale del Qatar e a ricevere un premio da Forbes Italia",
-      "publishedAt": "2026-10-31T08:16:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Juventus, Spalletti non si dimette e prepara la rivoluzione contro il Napoli: chi torna e chi rischia",
-      "url": "https://www.lastampa.it/sport/2026/10/31/news/juventus-napoli-spalletti-non-si-dimette-formazione-433-cambiaso-boga-zhegrova-15783816/",
-      "excerpt": "Il tecnico si gioca tutto contro il Napoli e studia nuove soluzioni tattiche: torna l’idea del 4-3-3, chance per Boga, Zhegrova e Cabal. Cambiaso rischia il posto",
-      "publishedAt": "2026-10-31T07:27:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Perché sulle Alpi fa più caldo che in pianura: ecco cosa sta succedendo",
-      "url": "https://www.lastampa.it/rubriche/il-respiro-delle-alpi/2026/10/31/news/alpi_piu_caldo_che_in_pianura_zero_termico_a_4300_metri_cosa_cambia-15783818/",
-      "excerpt": "È normalissimo che ci siano inversioni termiche in un periodo di alta pressione, non lo sono invece temperature così elevate in quota, peraltro sempre più frequenti mano a mano che il riscaldamento globale progredisce e le invasioni di aria nord-africana verso la regione alpina si fanno più intense",
-      "publishedAt": "2026-10-31T07:27:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Giulia, l’apina divenuta stella della ginnastica artistica: da Vercelli ai mondiali di Rotterdam",
-      "url": "https://www.lastampa.it/vercelli/2026/10/31/news/giulia_perotti_mondiali_rotterdam_ginnastica_artistica_vercelli-15783767/",
-      "excerpt": "Il tecnico Federica Gatti: «Un’apina perfezionista fin da piccola. Prova, riprova e sa conciliare scuola e sport»",
-      "publishedAt": "2026-10-31T06:24:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Midterm, il guru dei sondaggisti Luntz: “Sarà una pessima notte per Trump e i repubblicani”",
-      "url": "https://www.lastampa.it/esteri/2026/10/31/news/midterm_frank_luntz_trump_repubblicani_elezioni_americane_2026-15783740/",
-      "excerpt": "Il principe degli strateghi elettorali Usa prevede che repubblicani e democratici si divideranno Texas e Ohio: «Ma non so come, perché sono due Stati che pendono verso i repubblicani ma anche una forza importante democratica»",
-      "publishedAt": "2026-10-31T06:06:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Campo largo, rebus Torino. I 5 Stelle: “Decidono i territori”",
-      "url": "https://www.lastampa.it/torino/2026/10/31/news/campo_largo_elezioni_torino_lo_russo_appendino_pd_m5s-15783736/",
-      "excerpt": "Le reazioni dei politici locali dopo l’accordo a livello nazionale sulle primarie a febbraio. Il Movimento in città è diviso. Russi: serve discontinuità. Sganga: può essere la svolta",
-      "publishedAt": "2026-10-31T05:39:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Manovra, arriva la tassa sui ricchi: chi lascia l’Italia rischia di pagare il 26%. Ecco chi colpirà",
-      "url": "https://www.lastampa.it/economia/2026/10/31/news/manovra_tagli_pensioni_irpef_exit_tax-15783576/",
-      "excerpt": "Il testo della Finanziaria in Parlamento, stangata sulla rivalutazione degli assegni previdenziali. Turnover al 75%, meno posti a scuola, fino a 10 mila euro per farsi la propria targa",
-      "publishedAt": "2026-10-31T03:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "“Bomba ambientale” sul Tanaro, ecco le imprese indagate ad Alba",
-      "url": "https://www.lastampa.it/cuneo/2026/10/31/news/bomba_ambientale_sul_tanaro_ecco_le_imprese_indagate_ad_alba-15783429/",
-      "excerpt": "Individuata una crosta di circa trenta centimetri contaminata da idrocarburi pesanti: piombo, rame, zinco e tracce di cromo",
-      "publishedAt": "2026-10-31T03:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Courmayeur, l’accesso in centro si paga: esenzioni per residenti e negozianti",
-      "url": "https://www.lastampa.it/aosta/2026/10/30/news/courmayeur_tassa_ingresso-15783386/",
-      "excerpt": "Via libera del Consiglio comunale al regolamento per l’accesso alle aree pedonali ma resta l’incertezza sui tempi.",
-      "publishedAt": "2026-10-30T16:48:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Trump, dito medio dal pubblico durante il comizio: \"È salito sull'aereo di Epstein\"",
-      "url": "https://www.lastampa.it/esteri/speciali/elezioni-midterm-2026/2026/10/30/video/trump_contestazione_comizio_epstein_sicurezza-15783258/",
-      "excerpt": "Durante un comizio in Ohio in vista delle elezioni di Midterm, Trump è stato contestato dal comico e artista Robby Roadsteamer, che gli ha urlato: «Eri in aereo con Jeffrey Epstein». L'uomo, prima di venire allontanato dalla sicurezza, ha fatto il dito medio al presidente. LEGGI ANCHE Epstein, il dipartimento di Giusti",
-      "publishedAt": "2026-10-30T15:17:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Midterm Usa 2026, guida alle elezioni: come funzionano e cosa rischia Trump",
-      "url": "https://www.lastampa.it/esteri/speciali/elezioni-midterm-2026/2026/10/30/news/elezioni_midterm_usa_2026_guida_come_si_vota_cosa_rischia_trump-15783212/",
-      "excerpt": "Con oltre 100 milioni di elettori attesi alle urne e spese pubblicitarie record, l'esito delle urne deciderà il controllo del Congresso e ridisegnerà gli equilibri di potere a Washington",
-      "publishedAt": "2026-10-30T14:30:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Torino, dipinta di rosso e con la testa di Meloni: \"Verremo a prenderti, Giorgia\"",
-      "url": "https://www.lastampa.it/torino/2026/10/30/video/torino_dipinta_di_rosso_e_con_la_testa_di_meloni_verremo_a_prenderti_giorgia-15783125/",
-      "excerpt": "Il volto dipinto di rosso, una corona in testa e una riproduzione della testa della presidente del Consiglio Giorgia Meloni portata in corteo. È la protesta inscenata da alcuni giovani durante la manifestazione del 30 ottobre a Torino, nella giornata di sciopero generale contro il carovita e il riarmo. «Adesso che siam",
-      "publishedAt": "2026-10-30T12:57:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Vent’anni, pochi dollari, tanta determinazione: i volti di Bob Dylan quando non era Bob Dylan",
-      "url": "https://www.lastampa.it/spettacoli/2026/10/30/news/mostra_bob_dylan_vinyl_room_roma-15782970/",
-      "excerpt": "Dal 5 dicembre alla Vinyl Room di Roma la mostra \"Bob Dylan: Forever Young\" porta alla Vinyl Room con gli scatti di John Cohen",
-      "publishedAt": "2026-10-30T10:34:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "\"Sei disgustoso. Mettiti in forma\": Trump insulta un giornalista dopo una domanda sul Kansas",
-      "url": "https://www.lastampa.it/esteri/2026/10/30/video/trump_insulta_giornalista_disgustoso_domanda_kansas-15782929/",
-      "excerpt": "«Sei disgustoso. Hai un aspetto terribile, rimettiti in forma». Donald Trump ha attaccato un giornalista della Reuters dopo una domanda sul mancato viaggio del presidente in Kansas, per partecipare al comizio a sostegno del repubblicano Roger Marshall. «Non sento il bisogno di andare, sta andando tutto bene».",
-      "publishedAt": "2026-10-30T10:14:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Artissima, l'antifascismo diventa arte: una linea del tempo e paesaggi senza basi militari",
-      "url": "https://www.lastampa.it/torino/2026/10/30/video/artissima_lantifascismo_diventa_arte_una_linea_del_tempo_e_paesaggi_senza_basi_militari-15782894/",
-      "excerpt": "Ad Artissima 2026, l'arte diventa forma di denuncia e di presa di posizione politica. A dare spazio a questa forma espressiva è soprattutto la galleria Laveronica di Modica che porta all'Oval di Torino le opere delle artiste Dora Garcia e Daniela Ortiz che, con il loro lavoro, affrontano gli attualissimi temi dell'anti",
-      "publishedAt": "2026-10-30T09:45:00Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -302,5 +302,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 1.16
+  "durationSeconds": 0.92
 }

@@ -11,7 +11,7 @@
 | cisl | blocked | html | 0 | robots_disallowed |
 | cnr | ok | rss | 18 | — |
 | coldiretti | ok | trafilatura | 6 | — |
-| commissione-europea | ok | trafilatura | 1 | — |
+| commissione-europea | blocked | html | 0 | rate_limited |
 | comune-bollate | ok | trafilatura | 6 | — |
 | confcommercio | blocked | html | 0 | access_restricted |
 | confindustria | ok | trafilatura | 1 | — |
@@ -64,7 +64,7 @@
 | rassegnally | blocked | html | 0 | access_restricted |
 | regione-lombardia | blocked | html | 0 | access_restricted |
 | reuters | blocked | html | 0 | robots_disallowed |
-| senato | error | html | 0 | render_error |
+| senato | no_feed | crawl4ai | 0 | parsing_error |
 | sud-chiama-nord | blocked | html | 0 | access_restricted |
 | svp | ok | trafilatura | 1 | — |
 | tgr-lombardia | no_feed | crawl4ai | 0 | parsing_error |
