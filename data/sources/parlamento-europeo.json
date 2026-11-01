@@ -4,7 +4,7 @@
   "sourceId": "parlamento-europeo",
   "originUrl": "https://www.europarl.europa.eu/news/it",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-01T01:30:44.472228Z",
+  "collectedAt": "2026-11-01T09:46:43.661605Z",
   "status": "no_feed",
   "diagnosticCode": "parsing_error",
   "method": "crawl4ai",
@@ -25,5 +25,5 @@
   "candidateCount": 0,
   "datedCount": 0,
   "listingUrl": "https://www.europarl.europa.eu/news/it",
-  "durationSeconds": 0.51
+  "durationSeconds": 0.52
 }

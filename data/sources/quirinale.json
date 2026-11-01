@@ -4,7 +4,7 @@
   "sourceId": "quirinale",
   "originUrl": "https://www.quirinale.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-10-31T21:54:54.531860Z",
+  "collectedAt": "2026-11-01T09:46:56.035399Z",
   "status": "blocked",
   "diagnosticCode": "access_restricted",
   "method": "html",
@@ -46,13 +46,9 @@
     {
       "url": "https://www.quirinale.it/it/notizie/cordoglio-presidente-mattarella-per-vittime-incidente-elicottero-militare-italiano-precipitato-bosnia",
       "status": 200
-    },
-    {
-      "url": "https://www.quirinale.it/it/notizie/mattarella-riceve-delegazione-villa-nazareth",
-      "status": 200
     }
   ],
-  "message": "Browser HTTP 403; prossimo controllo dopo quattro ore.",
+  "message": "Browser HTTP 403",
   "candidateSamples": [
     {
       "url": "https://www.quirinale.it/it/notizie/cordoglio-presidente-mattarella-per-vittime-incidente-elicottero-militare-italiano-precipitato-bosnia",
@@ -148,5 +144,5 @@
   "candidateCount": 12,
   "datedCount": 0,
   "listingUrl": "https://www.quirinale.it/",
-  "durationSeconds": 4.3
+  "durationSeconds": 3.91
 }
