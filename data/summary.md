@@ -9,9 +9,9 @@
 | breaking-italy | ok | trafilatura | 1 | — |
 | camera | ok | trafilatura | 6 | — |
 | cisl | blocked | html | 0 | robots_disallowed |
-| cnr | error | html | 0 | connection_error |
+| cnr | ok | rss | 18 | — |
 | coldiretti | ok | trafilatura | 6 | — |
-| commissione-europea | blocked | html | 0 | rate_limited |
+| commissione-europea | ok | trafilatura | 1 | — |
 | comune-bollate | ok | trafilatura | 6 | — |
 | confcommercio | blocked | html | 0 | access_restricted |
 | confindustria | ok | trafilatura | 1 | — |
@@ -67,7 +67,7 @@
 | senato | no_feed | crawl4ai | 0 | parsing_error |
 | sud-chiama-nord | blocked | html | 0 | access_restricted |
 | svp | ok | trafilatura | 1 | — |
-| tgr-lombardia | ok | crawl4ai | 0 | — |
+| tgr-lombardia | no_feed | crawl4ai | 0 | parsing_error |
 | wwf | ok | trafilatura | 6 | — |
 
 Le date sono verificate nei feed o nei metadati di pubblicazione dei singoli articoli. Nessun dato personale dell’archivio è letto o pubblicato.

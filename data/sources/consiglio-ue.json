@@ -4,7 +4,7 @@
   "sourceId": "consiglio-ue",
   "originUrl": "https://www.consilium.europa.eu/it/press/press-releases/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-01T16:56:16.886136Z",
+  "collectedAt": "2026-11-01T22:27:32.343832Z",
   "status": "blocked",
   "diagnosticCode": "access_restricted",
   "method": "html",
@@ -19,5 +19,5 @@
   "message": "HTTP 403: accesso limitato dalla fonte",
   "httpStatus": 403,
   "failedUrl": "https://www.consilium.europa.eu/robots.txt",
-  "durationSeconds": 0.27
+  "durationSeconds": 0.49
 }

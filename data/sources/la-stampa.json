@@ -4,30 +4,44 @@
   "sourceId": "la-stampa",
   "originUrl": "https://www.lastampa.it/",
   "configuredFeedUrl": "https://www.lastampa.it/rss/copertina.xml",
-  "collectedAt": "2026-11-01T16:56:49.651465Z",
+  "collectedAt": "2026-11-01T22:28:01.637512Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.lastampa.it/rss/copertina.xml",
   "items": [
     {
-      "title": "Dallas, sparatoria nella notte di Halloween: 4 morti e 15 feriti",
-      "url": "https://www.lastampa.it/esteri/2026/11/01/news/dallas_sparatoria_nella_notte_di_halloween_4_morti_e_15_feriti-15784757/",
-      "excerpt": "Almeno quattro persone sono morte e altre 15 sono rimaste ferite in tre distinte sparatorie avvenute nella notte nel quartiere di Deep Ellum, a Dallas, in Texas, dopo i ...",
+      "title": "Kimi Antonelli è campione del mondo, il sogno italiano è diventato leggenda",
+      "url": "https://www.lastampa.it/sport/2026/11/01/news/kimi_antonelli_campione_mondo_20_anni_record_vettel-15785089/",
+      "excerpt": "È il più giovane della storia: demolito il record che apparteneva a Sebastian Vettel",
       "publishedAt": "2026-11-01T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Super Yeman Crippa, secondo nei 50 anni della maratona di New York",
-      "url": "https://www.lastampa.it/sport/2026/11/01/news/super_yeman_crippa_secondo_nei_50_anni_della_maratona_new_york-15784778/",
-      "excerpt": "Risultato superlativo per l’azzurro. Miglior piazzamento di un italiano dal successo di Leone nel 1996, quando Crippa era neonato in Etiopia",
+      "title": "Quando l’Italia sognava con le vittorie di Farina e Ascari 60 anni prima di Antonelli",
+      "url": "https://www.lastampa.it/sport/2026/11/01/news/farina_ascari_piloti_italiani_campioni_mondo_f1_prima_antonelli-15785087/",
+      "excerpt": "Erano loro gli ultimi due piloti italiani ad avere vinto il Mondiale, uno su Alfa Romeo e l’altro su Ferrari. Ma era davvero un altro mondo",
       "publishedAt": "2026-11-01T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "La Lazio non si ferma più: batte il Cagliari 2-1 e vola da sola in testa alla classifica",
-      "url": "https://www.lastampa.it/sport/2026/11/01/news/calcio_serie_a_lazio_batte_cagliari_vola_vertice_classifica-15784745/",
-      "excerpt": "I biancocelesti hanno tre punti di vantaggio sull’Inter, sconfitta ieri sera nel derby dal Milan",
+      "title": "I tributi a Senna e Raikkonen, lo zio Wolff e la patente: Kimi Antonelli in 12 curiosità",
+      "url": "https://www.lastampa.it/sport/2026/11/01/news/i_tributi_a_senna_e_raikkonen_lo_zio_wolff_e_la_patente_kimi_antonelli_in_12_curiosita-15785085/",
+      "excerpt": "CITTÀ DEL MESSICO. IL NUMERO 12 PER SENNA Antonelli ha scelto il numero 12 per la sua avventura in Formula 1: è un omaggio ad Ayrton Senna, da sempre il suo idolo, «mi ...",
+      "publishedAt": "2026-11-01T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "La Juve si ritrova: due capolavori di Alajbegovic e Boga stendono il Napoli",
+      "url": "https://www.lastampa.it/sport/2026/11/01/news/juventus-napoli-vittoria-gol-alajbegovic-boga-capolavori-15785063/",
+      "excerpt": "Succede tutto nella ripresa, con l'eurogol di Alajbegovic che sblocca il risultato al 25' prima della magia al 42' di Boga a chiudere la partita",
+      "publishedAt": "2026-11-01T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Juve, compleanno amaro: la rabbia dei tifosi esplode allo Stadium",
+      "url": "https://www.lastampa.it/sport/2026/11/01/video/rispettare_la_nostra_maglia_fuori_dallo_stadium_i_tifosi_contestano_la_juve_prima_della_sfida_col_napoli-15784902/",
+      "excerpt": "Non è un bel compleanno per la Juventus e gli juventini. Non lo è quantomeno aspettando la partita con il Napoli, solo una vera reazione e un risultato positivo potrebbero strappare un sorriso a un ambiente ormai stufo di assistere a una squadra lontanissimo da ciò che dovrebbe essere la Juve. Così, proprio nel giorno ",
       "publishedAt": "2026-11-01T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -39,9 +53,9 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Antonelli a un passo dalla storia, stasera può vincere il Mondiale: “Devo controllare le emozioni”",
-      "url": "https://www.lastampa.it/sport/2026/11/01/news/formula_1_kimi_antonelli_citta_del_messico_devo_controllare_le_emozioni-15784665/",
-      "excerpt": "Stasera alle 21 il Gp di Città del Messico che può regalargli un incredibile Mondiale. Ma la vigilia è stata tormentata dall’influenza: «Ho avuto febbre alta e mal di stomaco, non riuscivo a dormire bene. Non sono rilassato». Per la festa 73 anni dopo Ascari basta un 9° posto",
+      "title": "Como-Venezia, caos e polemiche: dal rigore tolto agli insulti sessisti all’arbitra, cosa è successo",
+      "url": "https://www.lastampa.it/sport/2026/11/01/news/como_venezia_rigore_tolto_insulti_arbitra-15784912/",
+      "excerpt": "Un match difficile finito 1-0 per il Como davanti al designatore Orsato, presente sugli spalti del Sinigaglia e decisamente contrariato a fine partita",
       "publishedAt": "2026-11-01T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -60,30 +74,23 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Acquisti online dalle catene cinesi: da oggi commissioni da 2 euro, ma l’Italia abolisce la tassa",
-      "url": "https://www.lastampa.it/economia/2026/11/01/news/acquisti_online_dalle_catene_cinesi_da_oggi_scattano_le_commissioni_da_2_euro-15784661/",
-      "excerpt": "Nel mirino della stretta europea i marchi Temu e Shein. La scelta, al fine di arginare l'invasione di prodotti a basso costo provenienti dall’oriente e fare fronte ai costi doganali aggiuntivi",
+      "title": "Trump sempre più volgare: le battute oscene, i gestacci e il linguaggio che può costargli voti",
+      "url": "https://www.lastampa.it/esteri/speciali/elezioni-midterm-2026/2026/11/01/news/trump_sempre_piu_volgare_le_battute_oscene_i_gestacci_e_il_linguaggio_che_puo_costargli_voti-15785002/",
+      "excerpt": "I discorsi sono diventati divaganti, apre parentesi che poi non chiude, sfugge dal gobbo spesso non riuscendo a tornare indietro",
       "publishedAt": "2026-11-01T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "I media israeliani: “Le liste arabe pronte a sostenere Eisenkot come premier”",
-      "url": "https://www.lastampa.it/esteri/2026/11/01/news/i_media_israeliani_le_liste_arabe_pronte_a_sostenere_eisenkot_come_premier-15784652/",
-      "excerpt": "La svolta dopo l’apertura del leader del partito Yashar. In caso di accordo la coalizione otterrebbe la maggioranza ai danni Netanyahu",
+      "title": "Israele, Eisenkot e i voti di arabi e ultraortodossi: ecco il piano per mandare a casa Netanyahu",
+      "url": "https://www.lastampa.it/esteri/2026/11/01/news/israele_eisenkot_netanyahu_voti_arabi_ultraortodossi_governo_maggioranza-15784944/",
+      "excerpt": "Le trattative sono cominciate, ma la fase formale si aprirà mercoledì, con i risultati definitivi e le consultazioni di Herzog con i partiti",
       "publishedAt": "2026-11-01T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Trump: “Iran? Non abbiamo fretta ma ci sono ancora due o tre siti di cui vogliamo occuparci”",
-      "url": "https://www.lastampa.it/esteri/2026/11/01/news/trump_iran_non_abbiamo_fretta_ma_ci_sono_ancora_due_o_tre_siti_di_cui_vogliamo_occuparci-15784543/",
-      "excerpt": "Trump chiama Netanyahu: «Non abbiamo fretta sull’Iran». Rubio: «Siamo aperti a una soluzione diplomatica». Khamenei: «In caso di raid la nostra risposta sarà senza limiti geografici»",
-      "publishedAt": "2026-11-01T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Midterm, il voto che ci dirà se Trump è il salvatore o l'handicap dei repubblicani",
-      "url": "https://www.lastampa.it/esteri/speciali/elezioni-midterm-2026/2026/11/01/video/midterm_il_voto_che_ci_dira_se_trump_e_il_salvatore_o_lhandicap_dei_repubblicani-15784556/",
-      "excerpt": "L’analisi di Maurizio Molinari in vista delle elezioni",
+      "title": "Crisi in Polonia: i sovranisti chiedono l’intervento di Bruxelles, ma la Commissione si chiama fuori",
+      "url": "https://www.lastampa.it/esteri/2026/11/01/news/crisi_polonia_sovranisti_bruxelles_commissione-15784873/",
+      "excerpt": "La sospensione dei vertici della Corte costituzionale riaccende lo scontro istituzionale a Varsavia e solleva i dubbi dei giuristi",
       "publishedAt": "2026-11-01T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -109,7 +116,7 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Dalla riviera ligure ai parchi della Calabria, perché è ora c'è il boom delle ciclovie",
+      "title": "Dalla riviera ligure ai parchi della Calabria, perché ora c'è il boom delle ciclovie",
       "url": "https://www.lastampa.it/cronaca/2026/11/01/news/dalla_riviera_ligure_ai_parchi_della_calabria_il_boom_delle_ciclovie-15784703/",
       "excerpt": "I tracciati italiani conquistano gli appassionati di tutto il mondo, un fenomeno che vale 6,4 miliardi di euro l’anno: “Così salviamo l’economica del territorio”",
       "publishedAt": "2026-11-01T00:00:00Z",
@@ -123,16 +130,9 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Halloween è appena finito, Mariah Carey dà il via al conto alla rovescia per Natale: \"It's time!\"",
-      "url": "https://www.lastampa.it/spettacoli/2026/11/01/video/mariah_carey_natale_2026_video_countdown_its_time-15784629/",
-      "excerpt": "È ufficialmente iniziato il conto alla rovescia per Natale 2026, almeno secondo Mariah Carey. Come ogni 1° novembre, la cantante americana ha pubblicato il suo tradizionale video per inaugurare la stagione delle feste. Quest'anno si presenta prima in versione punk, su un palco di New York, poi allo scoccare della mezza",
-      "publishedAt": "2026-11-01T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Fantasmini tra le incubatrici: l’Halloween più tenero è al Niguarda di Milano",
-      "url": "https://www.lastampa.it/milano/2026/11/01/video/halloween_niguarda_neonati_terapia_intensiva_fantasmini-15784647/",
-      "excerpt": "Piccoli fantasmini di stoffa e accessori decorati per portare Halloween nella Terapia intensiva neonatale dell'ospedale Niguarda di Milano. Per la festa del 31 ottobre, le volontarie dell'associazione Cuore di Maglia hanno realizzato cappellini, calzini e pupazzetti a tema per i neonati ricoverati. Un gesto pensato per",
+      "title": "Heidi Klum diventa una gigantesca mano mozzata: il costume di Halloween è impressionante",
+      "url": "https://www.lastampa.it/spettacoli/2026/11/01/video/heidi_klum_halloween_2026_costume_mano_mozzata_gigante_new_york-15784645/",
+      "excerpt": "Una gigantesca mano mozzata, con unghie rosse, anelli e un polso insanguinato. È il nuovo, impressionante costume di Heidi Klum, che per Halloween 2026 si è presentata a New York a bordo di un camion, accompagnata da persone in tute protettive. La modella ha riprodotto la propria mano sinistra, infilando le gambe in du",
       "publishedAt": "2026-11-01T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -144,9 +144,9 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Riabbraccia le figlie dopo l'evacuazione da Oleshky: il ritorno dalla città occupata dai russi",
-      "url": "https://www.lastampa.it/esteri/2026/11/01/video/ucraina_oleshky_padre_figlie_abbraccio_evacuati_guerra_russia_tregua-15784663/",
-      "excerpt": "Scende dal pullman e le figlie gli corrono incontro per abbracciarlo. Dopo tre anni lontano dalla famiglia, Mykhailo Palii ritrova le figlie Daria e Yelyzaveta e la compagna Zhanna Ptakhova. L'uomo era rimasto a Oleshky, città ucraina della regione di Kherson occupata dalle forze russe. «Gli abbiamo comprato del lardo ",
+      "title": "Halloween è appena finito, Mariah Carey dà il via al conto alla rovescia per Natale: \"It's time!\"",
+      "url": "https://www.lastampa.it/spettacoli/2026/11/01/video/mariah_carey_natale_2026_video_countdown_its_time-15784629/",
+      "excerpt": "È ufficialmente iniziato il conto alla rovescia per Natale 2026, almeno secondo Mariah Carey. Come ogni 1° novembre, la cantante americana ha pubblicato il suo tradizionale video per inaugurare la stagione delle feste. Quest'anno si presenta prima in versione punk, su un palco di New York, poi allo scoccare della mezza",
       "publishedAt": "2026-11-01T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -158,30 +158,9 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Il nuovo galateo senza buona educazione",
-      "url": "https://www.lastampa.it/specchio/temi/2026/11/01/news/autenticita_e_diritto_a_essere_se_stessi_hanno_preso_il_posto_dell_educazione_e_del_buon_senso-15782244/",
-      "excerpt": "Il maggior indicatore di deriva autoritaria delle buone maniere è stata la moltiplicazione di quelli che ti invitano a casa loro e ti fanno lasciare le scarpe fuori dalla ...",
-      "publishedAt": "2026-11-01T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Le donne curde del Rojava che Damasco vuole eliminare: “Non deporremo le armi”",
-      "url": "https://www.lastampa.it/specchio/rubriche/il-reportage/2026/11/01/news/le_donne_curde_del_rojava_che_damasco_vuole_eliminare_non_deporremo_le_armi-15782189/",
-      "excerpt": "Le Forze Democratiche hanno sciolto la milizia, ma le donne soldato restano in mimetica",
-      "publishedAt": "2026-11-01T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Franco Noero: “Torino e l’Arte Povera, era come essere nella Londra dei Beatles e Rolling Stones”",
-      "url": "https://www.lastampa.it/specchio/rubriche/domenica-con/2026/11/01/news/torino_e_l_arte_povera_era_come_essere_nella_londra_dei_beatles_e_rolling_stones-15781891/",
-      "excerpt": "Il gallerista: «Un’intuizione quella di lavorare con artisti miei coetanei»",
-      "publishedAt": "2026-11-01T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "La femminilità primordiale del “clavicut”",
-      "url": "https://www.lastampa.it/specchio/rubriche/cose-brutte/2026/11/01/news/la_femminilita_primordiale_del_clavicut-15781869/",
-      "excerpt": "Rubrica pretestuosa, che con la scusa di segnalare orrori e schifezze parla quasi di tutto, anche di cose belle",
+      "title": "Iva Zanicchi, il “vaffa” a Mediaset e il prezzo “ingiusto”",
+      "url": "https://www.lastampa.it/spettacoli/2026/11/01/news/zanicchi_e_il_vaffa_a_mediaset_non_mi_avete_chiamata_per_il_ritorno_di_ok_il_prezzo_e_giusto-15784856/",
+      "excerpt": "La cantante sbotta in diretta rispondendo alle domande di Mara Venier a Domenica in",
       "publishedAt": "2026-11-01T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -189,13 +168,6 @@
       "title": "Deep Purple, Ian Gillan ricoverato d’urgenza in ospedale: annullati due concerti",
       "url": "https://www.lastampa.it/spettacoli/2026/11/01/news/deep_purple_ian_gillan_ricoverato_d_urgenza_in_ospedale_annullati_due_concerti-15784610/",
       "excerpt": "Il cantante 81enne è stato colpito da un'emergenza medica. La band ha cancellato le prime due date tedesche del tour «Splat!»",
-      "publishedAt": "2026-11-01T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Yung Lean e Bladee, l’alchimia magnetica dei sad boys al C2C",
-      "url": "https://www.lastampa.it/spettacoli/2026/11/01/news/yung_lean_e_bladee_c2c_festival_torino_recensione-15784637/",
-      "excerpt": "Sul palco si muovono con la confidenza di chi si conosce da una vita, alternandosi e incrociando le voci",
       "publishedAt": "2026-11-01T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -228,9 +200,9 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Heidi Klum diventa una gigantesca mano mozzata: il costume di Halloween è impressionante",
-      "url": "https://www.lastampa.it/spettacoli/2026/11/01/video/heidi_klum_halloween_2026_costume_mano_mozzata_gigante_new_york-15784645/",
-      "excerpt": "Una gigantesca mano mozzata, con unghie rosse, anelli e un polso insanguinato. È il nuovo, impressionante costume di Heidi Klum, che per Halloween 2026 si è presentata a New York a bordo di un camion, accompagnata da persone in tute protettive. La modella ha riprodotto la propria mano sinistra, infilando le gambe in du",
+      "title": "Torna la neve sull'Appennino, da Pescasseroli a Roccaraso la magia imbianca paesi e strade",
+      "url": "https://www.lastampa.it/cronaca/2026/11/01/video/torna_la_neve_sullappennino_da_pescasseroli_a_roccaraso_la_magia_imbianca_paesi_e_strade-15784956/",
+      "excerpt": "Il calo delle temperature e l'arrivo di una saccatura in moto retrogrado dall'est Europa, ha portato la prima neve a bassa quota sull'Appennino. Merito delle masse d'aria fredda in discesa dall'Europa nord-orientale che hanno fatto il loro ingresso sul bacino del Mediterraneo. Risultato: già dai mille metri di quota i ",
       "publishedAt": "2026-11-01T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -289,6 +261,34 @@
       "excerpt": "Nel 1994 in Paura dei cinquanta Erica Jong ha scritto: «So che quando entro in una stanza non sono più la più giovane, né la più bella». Ha scritto anche che non le importava, e non ...",
       "publishedAt": "2026-11-01T00:00:00Z",
       "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Il sesso del terzo tempo e i discorsi sull’amore",
+      "url": "https://www.lastampa.it/specchio/rubriche/la-grande-vecchia/2026/11/01/news/il_sesso_del_terzo_tempo_e_i_discorsi_sull_amore-15781953/",
+      "excerpt": "Tutti facciamo i conti con il tempo che passa. Noi donne di più",
+      "publishedAt": "2026-11-01T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Credere senza verificare, il paradosso perfetto della guerra cognitiva",
+      "url": "https://www.lastampa.it/specchio/rubriche/societa/2026/11/01/news/credere_senza_verificare_il_paradosso_perfetto_della_guerra_cognitiva-15781948/",
+      "excerpt": "Se Shakespeare scrivesse oggi l’Otello, Iago non avrebbe bisogno del fazzoletto di Desdemona. Gli basterebbe uno smartphone, un video manipolato, qualche messaggio ambiguo e un ...",
+      "publishedAt": "2026-11-01T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Viaggio al cuore del Priorat tra i rossi di Catalunya figli della roccia “liquirizia”",
+      "url": "https://www.lastampa.it/specchio/rubriche/sapore/2026/11/01/news/viaggio_al_cuore_del_priorat_tra_i_rossi_di_catalunya_figli_della_roccia_liquirizia-15781937/",
+      "excerpt": "Dai monaci certosini a Pere Ventura, la saga dell’uva “sorella” del Cannonau",
+      "publishedAt": "2026-11-01T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "“Cara Maria, il vuoto che si è creato nella mia anima non può più riempirsi d’amore”",
+      "url": "https://www.lastampa.it/specchio/rubriche/amore-moderno/2026/11/01/news/l_amore_moderno-15782130/",
+      "excerpt": "Cara Maria,ho letto della tragedia che ha vissuto Delia con la scomparsa improvvisa di sua figlia, tragedia che sta ancora vivendo. A lei tutta la mia vicinanza e solidarietà e con queste ...",
+      "publishedAt": "2026-11-01T00:00:00Z",
+      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -302,5 +302,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 0.91
+  "durationSeconds": 0.71
 }

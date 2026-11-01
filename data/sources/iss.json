@@ -4,7 +4,7 @@
   "sourceId": "iss",
   "originUrl": "https://www.iss.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-01T16:56:46.370772Z",
+  "collectedAt": "2026-11-01T22:27:58.585242Z",
   "status": "error",
   "diagnosticCode": "timeout",
   "method": "html",
@@ -14,5 +14,5 @@
   "message": "Timeout della fonte",
   "httpStatus": null,
   "failedUrl": "https://www.iss.it/robots.txt",
-  "durationSeconds": 15.7
+  "durationSeconds": 15.55
 }
