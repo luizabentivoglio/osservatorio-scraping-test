@@ -4,7 +4,7 @@
   "sourceId": "la-stampa",
   "originUrl": "https://www.lastampa.it/",
   "configuredFeedUrl": "https://www.lastampa.it/rss/copertina.xml",
-  "collectedAt": "2026-11-01T22:28:01.637512Z",
+  "collectedAt": "2026-11-02T01:51:36.134993Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
@@ -18,6 +18,13 @@
       "dateEvidence": "feed:published"
     },
     {
+      "title": "Kimi Antonelli: “Momenti che vivrò per sempre. Un orgoglio vincere per l’Italia”",
+      "url": "https://www.lastampa.it/sport/2026/11/02/news/kimi-antonelli-vittoria-formula-1-orgoglio-italia-emozione-15785109/",
+      "excerpt": "Il campione in lacrime: «Scusate, sto cercando di capire cosa è successo»",
+      "publishedAt": "2026-11-01T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
       "title": "Quando l’Italia sognava con le vittorie di Farina e Ascari 60 anni prima di Antonelli",
       "url": "https://www.lastampa.it/sport/2026/11/01/news/farina_ascari_piloti_italiani_campioni_mondo_f1_prima_antonelli-15785087/",
       "excerpt": "Erano loro gli ultimi due piloti italiani ad avere vinto il Mondiale, uno su Alfa Romeo e l’altro su Ferrari. Ma era davvero un altro mondo",
@@ -25,7 +32,14 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "I tributi a Senna e Raikkonen, lo zio Wolff e la patente: Kimi Antonelli in 12 curiosità",
+      "title": "Vasco Rossi: “Kimi rock, lo vedo bene alla chitarra. Un giro insieme? Bello ma che paura”",
+      "url": "https://www.lastampa.it/sport/2026/11/01/news/vasco_rossi_kimi_rock_lo_vedo_bene_alla_chitarra_un_giro_insieme_bello_ma_che_paura-15785097/",
+      "excerpt": "La star tra i suoi più grandi tifosi: «Una scossa per l’Italia, smettiamola di tenere i giovani ai box»",
+      "publishedAt": "2026-11-01T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Il tributo a Senna, lo “zio” Wolff e la patente: Kimi Antonelli in 12 curiosità",
       "url": "https://www.lastampa.it/sport/2026/11/01/news/i_tributi_a_senna_e_raikkonen_lo_zio_wolff_e_la_patente_kimi_antonelli_in_12_curiosita-15785085/",
       "excerpt": "CITTÀ DEL MESSICO. IL NUMERO 12 PER SENNA Antonelli ha scelto il numero 12 per la sua avventura in Formula 1: è un omaggio ad Ayrton Senna, da sempre il suo idolo, «mi ...",
       "publishedAt": "2026-11-01T00:00:00Z",
@@ -84,6 +98,13 @@
       "title": "Israele, Eisenkot e i voti di arabi e ultraortodossi: ecco il piano per mandare a casa Netanyahu",
       "url": "https://www.lastampa.it/esteri/2026/11/01/news/israele_eisenkot_netanyahu_voti_arabi_ultraortodossi_governo_maggioranza-15784944/",
       "excerpt": "Le trattative sono cominciate, ma la fase formale si aprirà mercoledì, con i risultati definitivi e le consultazioni di Herzog con i partiti",
+      "publishedAt": "2026-11-01T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Kiev: “Hackerata la nostra app di allerta aerea dell’aeronautica militare”",
+      "url": "https://www.lastampa.it/esteri/2026/11/02/diretta/guerra_russia_ucraina_news_oggi-15785119/",
+      "excerpt": "«Attenzione: è probabile che l'app “Allarme aereo” sia stata oggetto di un attacco ostile. Mantenete la calma e seguite i nostri aggiornamenti sul nostro canale!». È quanto si ...",
       "publishedAt": "2026-11-01T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -268,27 +289,6 @@
       "excerpt": "Tutti facciamo i conti con il tempo che passa. Noi donne di più",
       "publishedAt": "2026-11-01T00:00:00Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Credere senza verificare, il paradosso perfetto della guerra cognitiva",
-      "url": "https://www.lastampa.it/specchio/rubriche/societa/2026/11/01/news/credere_senza_verificare_il_paradosso_perfetto_della_guerra_cognitiva-15781948/",
-      "excerpt": "Se Shakespeare scrivesse oggi l’Otello, Iago non avrebbe bisogno del fazzoletto di Desdemona. Gli basterebbe uno smartphone, un video manipolato, qualche messaggio ambiguo e un ...",
-      "publishedAt": "2026-11-01T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Viaggio al cuore del Priorat tra i rossi di Catalunya figli della roccia “liquirizia”",
-      "url": "https://www.lastampa.it/specchio/rubriche/sapore/2026/11/01/news/viaggio_al_cuore_del_priorat_tra_i_rossi_di_catalunya_figli_della_roccia_liquirizia-15781937/",
-      "excerpt": "Dai monaci certosini a Pere Ventura, la saga dell’uva “sorella” del Cannonau",
-      "publishedAt": "2026-11-01T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "“Cara Maria, il vuoto che si è creato nella mia anima non può più riempirsi d’amore”",
-      "url": "https://www.lastampa.it/specchio/rubriche/amore-moderno/2026/11/01/news/l_amore_moderno-15782130/",
-      "excerpt": "Cara Maria,ho letto della tragedia che ha vissuto Delia con la scomparsa improvvisa di sua figlia, tragedia che sta ancora vivendo. A lei tutta la mia vicinanza e solidarietà e con queste ...",
-      "publishedAt": "2026-11-01T00:00:00Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -302,5 +302,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 0.71
+  "durationSeconds": 0.66
 }

@@ -9,7 +9,7 @@
 | breaking-italy | ok | trafilatura | 1 | — |
 | camera | ok | trafilatura | 6 | — |
 | cisl | blocked | html | 0 | robots_disallowed |
-| cnr | ok | rss | 18 | — |
+| cnr | error | html | 0 | connection_error |
 | coldiretti | ok | trafilatura | 6 | — |
 | commissione-europea | ok | trafilatura | 1 | — |
 | comune-bollate | ok | trafilatura | 6 | — |
@@ -48,7 +48,7 @@
 | libera | ok | html | 1 | — |
 | mef | ok | trafilatura | 3 | — |
 | msf | ok | trafilatura | 6 | — |
-| osservatorio-cpi | ok | trafilatura | 6 | — |
+| osservatorio-cpi | ok | trafilatura | 5 | — |
 | oxfam | ok | trafilatura | 3 | — |
 | pagella-politica | ok | trafilatura | 6 | — |
 | palazzo-chigi | ok | rss | 10 | — |

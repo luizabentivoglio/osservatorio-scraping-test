@@ -4,7 +4,7 @@
   "sourceId": "forza-italia",
   "originUrl": "https://forzaitalia.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-01T22:27:46.979888Z",
+  "collectedAt": "2026-11-02T01:51:24.066437Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -48,5 +48,5 @@
   "candidateCount": 4,
   "datedCount": 3,
   "listingUrl": "https://forzaitalia.it/",
-  "durationSeconds": 3.42
+  "durationSeconds": 3.86
 }

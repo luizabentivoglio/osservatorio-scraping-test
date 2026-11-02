@@ -4,7 +4,7 @@
   "sourceId": "osservatorio-cpi",
   "originUrl": "https://osservatoriocpi.unicatt.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-01T22:28:08.197889Z",
+  "collectedAt": "2026-11-02T01:51:41.700980Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -44,13 +44,6 @@
       "excerpt": "Una politica di bilancio molto espansiva, in presenza di massicci acquisti di titoli da parte della BCE, ha sostenuto la crescita dell’Italia nel 2021 e nel 2022. Ma negli ultimi quattro anni l’Italia è tornata a crescere a un ritmo medio dello 0,2% a trimestre, lo stesso valore della crescita media dalla metà degli an",
       "publishedAt": "2026-10-22T00:00:00Z",
       "dateEvidence": "html:article-header"
-    },
-    {
-      "title": "PNRR e divari infrastrutturali: dove vanno gli investimenti?",
-      "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/pnrr-e-divari-infrastrutturali-dove-vanno-gli-investimenti.html",
-      "excerpt": "Il PNRR ha rappresentato un’importante occasione per ridurre i divari infrastrutturali in Italia. Ma come si sono distribuiti gli investimenti rispetto alle dotazioni esistenti? Le disparità non riguardano soltanto il tradizionale divario Nord-Sud, ma emergono anche tra i capoluoghi di regione e i territori circostanti",
-      "publishedAt": "2026-10-19T00:00:00Z",
-      "dateEvidence": "html:article-header"
     }
   ],
   "attempts": [
@@ -87,10 +80,10 @@
       "status": 200
     }
   ],
-  "message": "6 notizie recenti con data verificata; copertura parziale.",
+  "message": "5 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [],
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://osservatoriocpi.unicatt.it/pubblicazioni.html",
-  "durationSeconds": 5.39
+  "durationSeconds": 6.11
 }

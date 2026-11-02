@@ -44,7 +44,7 @@
       "status": 200
     }
   ],
-  "message": "Verifica interattiva richiesta",
+  "message": "Verifica interattiva richiesta; prossimo controllo dopo quattro ore.",
   "candidateSamples": [
     {
       "url": "https://www.quirinale.it/it/notizie/cordoglio-presidente-mattarella-per-vittime-incidente-elicottero-militare-italiano-precipitato-bosnia",
