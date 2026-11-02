@@ -4,12 +4,19 @@
   "sourceId": "istat",
   "originUrl": "https://www.istat.it/",
   "configuredFeedUrl": "https://www.istat.it/feed/",
-  "collectedAt": "2026-11-02T10:00:42.525476Z",
+  "collectedAt": "2026-11-02T20:32:10.286918Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.istat.it/feed/",
   "items": [
+    {
+      "title": "#IstatNewsletter",
+      "url": "https://www.istat.it/newsletter/online-istatnewsletter-la-newsletter-dellistat/",
+      "excerpt": "Online il numero 40 del 2026. Lascia la tua email e riceverai ogni lunedì tutti gli aggiornamenti del sito Istat",
+      "publishedAt": "2026-11-02T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "Censimento permanente delle Istituzioni pubbliche: prorogato il termine per partecipare",
       "url": "https://www.istat.it/notizia/censimento-permanente-delle-istituzioni-pubbliche-2026-prorogato-il-termine-per-partecipare-alla-rilevazione/",
@@ -72,13 +79,6 @@
       "excerpt": "A ottobre 2026 il clima di fiducia dei consumatori flette da 91,2 a 90,3 mentre l’indicatore composito del clima di fiducia delle imprese aumenta da 95,9 a 96,6",
       "publishedAt": "2026-10-29T11:03:29Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Censimento permanente delle imprese 2025: primi risultati",
-      "url": "https://www.istat.it/comunicato-stampa/censimento-permanente-delle-imprese-2025-primi-risultati/",
-      "excerpt": "L’Istat diffonde, a soli sette mesi dalla chiusura della rilevazione, i primi risultati della terza edizione della rilevazione multiscopo, parte integrante del Censimento permanente delle imprese",
-      "publishedAt": "2026-10-29T10:01:34Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -92,5 +92,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 3.75
+  "durationSeconds": 2.63
 }

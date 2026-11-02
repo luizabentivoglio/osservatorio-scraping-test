@@ -4,7 +4,7 @@
   "sourceId": "commissione-europea",
   "originUrl": "https://commission.europa.eu/news-and-media_en",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-02T10:00:15.177763Z",
+  "collectedAt": "2026-11-02T20:31:33.683040Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -172,5 +172,5 @@
   "candidateCount": 4,
   "datedCount": 1,
   "listingUrl": "https://commission.europa.eu/news-and-media_en",
-  "durationSeconds": 2.68
+  "durationSeconds": 2.87
 }

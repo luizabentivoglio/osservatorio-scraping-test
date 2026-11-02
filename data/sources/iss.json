@@ -4,20 +4,50 @@
   "sourceId": "iss",
   "originUrl": "https://www.iss.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-02T10:00:44.413345Z",
-  "status": "error",
-  "diagnosticCode": "timeout",
-  "method": "html",
+  "collectedAt": "2026-11-02T20:32:12.383729Z",
+  "status": "ok",
+  "diagnosticCode": null,
+  "method": "trafilatura",
   "feedUrl": null,
   "items": [],
   "attempts": [
     {
       "url": "https://www.iss.it/robots.txt",
       "status": 200
+    },
+    {
+      "url": "https://www.iss.it/comunicati-stampa",
+      "status": 200
+    },
+    {
+      "url": "https://www.iss.it/-/comunicato-stampa-n-07/2025-intelligenza-artificiale-ed-etica-il-15-ottobre-lectio-magistralis-di-sua-eminenza-cardinale-pietro-parolin",
+      "status": 200
+    },
+    {
+      "url": "https://www.iss.it/-/comunicato-stampa-n-06/2025-diabete-e-celiachia-funziona-lo-screening-pilota-per-la-diagnosi-precoce-nei-bambini-al-via-la-fase-nazionale",
+      "status": 200
+    },
+    {
+      "url": "https://www.iss.it/-/comunicato-stampa-n-05/2025-una-bussola-per-le-perizie-medico-legali-e-ctu-un-gruppo-di-lavoro-coordinato-dall-istituto-superiore-di-sanita-produrra-le-prime-linee-guida-e-buone-pratiche-per-i-professionisti-del-settore",
+      "status": 200
+    },
+    {
+      "url": "https://www.iss.it/-/comunicato-stampa-n-04/2025-al-via-il-nuovo-comitato-etico-nazionale-per-le-sperimentazioni-degli-enti-di-ricerca-e-degli-enti-pubblici-nazionali",
+      "status": 200
+    },
+    {
+      "url": "https://www.iss.it/-/comunicato-stampa-n-02/2025-dichiarazione-del-presidente-dell-istituto-superiore-di-sanita-rocco-bellantone-sulla-conferma-del-presidente-fnomceo",
+      "status": 200
+    },
+    {
+      "url": "https://www.iss.it/-/comunicato-stampa-n-35/2024-al-via-un-progetto-per-la-fotografia-delle-infezioni-nelle-rsa-e-la-formazione-degli-operatori",
+      "status": 200
     }
   ],
-  "message": "Timeout della fonte",
-  "httpStatus": null,
-  "failedUrl": "https://www.iss.it/comunicati-stampa",
-  "durationSeconds": 28.8
+  "message": "0 notizie recenti con data verificata; copertura parziale.",
+  "candidateSamples": [],
+  "candidateCount": 12,
+  "datedCount": 6,
+  "listingUrl": "https://www.iss.it/comunicati-stampa",
+  "durationSeconds": 13.43
 }

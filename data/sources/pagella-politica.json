@@ -4,12 +4,33 @@
   "sourceId": "pagella-politica",
   "originUrl": "https://pagellapolitica.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-02T10:00:59.909351Z",
+  "collectedAt": "2026-11-02T20:32:25.819498Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "Sono già quattro i parlamentari “prestati” per aggirare l’aumento delle firme",
+      "url": "https://pagellapolitica.it/articoli/parlamentari-prestati-numero-firme-legge-elettorale",
+      "excerpt": "La nuova legge elettorale ha favorito i cambi di gruppo in Parlamento, per aiutare i partiti più piccoli a...",
+      "publishedAt": "2026-11-02T00:00:00Z",
+      "dateEvidence": "html:post-date"
+    },
+    {
+      "title": "Perché si parla di nuovo dei medici “no vax”",
+      "url": "https://pagellapolitica.it/articoli/medici-no-vax-disegno-di-legge-camera",
+      "excerpt": "La Camera ha approvato la reiscrizione di alcuni sanitari radiati durante la pandemia, ma il centrodestra si è...",
+      "publishedAt": "2026-10-29T00:00:00Z",
+      "dateEvidence": "html:post-date"
+    },
+    {
+      "title": "Che cosa sappiamo sul disegno di legge di Bilancio per il 2027",
+      "url": "https://pagellapolitica.it/articoli/manovra-governo-meloni-2027",
+      "excerpt": "Dal fisco ai giovani, il governo ha riassunto le principali proposte in comunicato stampa, ma manca ancora il testo...",
+      "publishedAt": "2026-10-29T00:00:00Z",
+      "dateEvidence": "html:post-date"
+    },
     {
       "title": "Un deputato di AVS ha diffuso una foto sulle manifestazioni fatta con l’IA",
       "url": "https://pagellapolitica.it/articoli/deputato-avs-foto-falsa-manifestazioni",
@@ -30,27 +51,6 @@
       "excerpt": "Secondo il leader di Rifondazione Comunista Maurizio Acerbo, inneggiare all’organizzazione palestinese o agli...",
       "publishedAt": "2026-10-28T00:00:00Z",
       "dateEvidence": "html:post-date"
-    },
-    {
-      "title": "Perché lo spread basso non basta a risolvere i problemi del debito pubblico",
-      "url": "https://pagellapolitica.it/articoli/spread-italia-basso",
-      "excerpt": "Per anni si è parlato di quanto fosse importante ridurlo: e durante il governo Meloni si è dimezzato. Eppure, i...",
-      "publishedAt": "2026-10-28T00:00:00Z",
-      "dateEvidence": "html:post-date"
-    },
-    {
-      "title": "Le difficoltà degli agricoltori vanno ben oltre il caro gasolio",
-      "url": "https://pagellapolitica.it/articoli/agricoltori-proteste-difficolta-caro-gasolio",
-      "excerpt": "Abbiamo parlato con agricoltori e sindacalisti, che ci hanno spiegato come l’aumento dei costi di produzione abbia...",
-      "publishedAt": "2026-10-27T00:00:00Z",
-      "dateEvidence": "html:post-date"
-    },
-    {
-      "title": "Non c’è traccia dell’ultima parte del programma di Futuro Nazionale",
-      "url": "https://pagellapolitica.it/articoli/terza-parte-programma-vannacci-futuro-nazionale",
-      "excerpt": "Il partito ha pubblicato le prime due in pochi giorni ad agosto, mentre da ormai due mesi manca la terza, sebbene...",
-      "publishedAt": "2026-10-27T00:00:00Z",
-      "dateEvidence": "html:post-date"
     }
   ],
   "attempts": [
@@ -60,6 +60,18 @@
     },
     {
       "url": "https://pagellapolitica.it/articoli",
+      "status": 200
+    },
+    {
+      "url": "https://pagellapolitica.it/articoli/parlamentari-prestati-numero-firme-legge-elettorale",
+      "status": 200
+    },
+    {
+      "url": "https://pagellapolitica.it/articoli/medici-no-vax-disegno-di-legge-camera",
+      "status": 200
+    },
+    {
+      "url": "https://pagellapolitica.it/articoli/manovra-governo-meloni-2027",
       "status": 200
     },
     {
@@ -73,18 +85,6 @@
     {
       "url": "https://pagellapolitica.it/articoli/inneggiare-hamas-reato-acerbo",
       "status": 200
-    },
-    {
-      "url": "https://pagellapolitica.it/articoli/spread-italia-basso",
-      "status": 200
-    },
-    {
-      "url": "https://pagellapolitica.it/articoli/agricoltori-proteste-difficolta-caro-gasolio",
-      "status": 200
-    },
-    {
-      "url": "https://pagellapolitica.it/articoli/terza-parte-programma-vannacci-futuro-nazionale",
-      "status": 200
     }
   ],
   "message": "6 notizie recenti con data verificata; copertura parziale.",
@@ -92,5 +92,5 @@
   "candidateCount": 6,
   "datedCount": 6,
   "listingUrl": "https://pagellapolitica.it/articoli",
-  "durationSeconds": 6.24
+  "durationSeconds": 5.37
 }

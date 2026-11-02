@@ -4,7 +4,7 @@
   "sourceId": "patto-nord",
   "originUrl": "https://www.pattoperilnord.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-02T10:01:12.396289Z",
+  "collectedAt": "2026-11-02T20:32:31.192463Z",
   "status": "no_feed",
   "diagnosticCode": "parsing_error",
   "method": "crawl4ai",
@@ -20,7 +20,15 @@
       "status": 200
     },
     {
-      "url": "https://www.pattoperilnord.it/tesserati",
+      "url": "https://www.pattoperilnord.it/Manifesti",
+      "status": 200
+    },
+    {
+      "url": "https://www.pattoperilnord.it/Materiali di Propaganda",
+      "status": 200
+    },
+    {
+      "url": "https://www.pattoperilnord.it/eventi/Piemonte",
       "status": 200
     },
     {
@@ -34,8 +42,8 @@
   ],
   "message": "Pagina accessibile, ma nessuna notizia con data di pubblicazione verificabile.",
   "candidateSamples": [],
-  "candidateCount": 3,
+  "candidateCount": 5,
   "datedCount": 0,
   "listingUrl": "https://www.pattoperilnord.it/",
-  "durationSeconds": 0.8
+  "durationSeconds": 0.75
 }

@@ -4,12 +4,26 @@
   "sourceId": "ingv",
   "originUrl": "https://www.ingv.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-02T10:00:40.354058Z",
+  "collectedAt": "2026-11-02T20:32:08.401070Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.ingv.it/stampa-urp/ufficio-stampa/comunicati-stampa?format=feed&type=rss",
   "items": [
+    {
+      "title": "CICLONE HARRY | Onde record nel Mediterraneo: uno studio svela i fattori che amplificano il rischio costiero",
+      "url": "https://www.ingv.it/stampa-urp/ufficio-stampa/comunicati-stampa/ciclone-harry-onde-record-nel-mediterraneo-uno-studio-svela-i-fattori-che-amplificano-il-rischio-costiero",
+      "excerpt": "",
+      "publishedAt": "2026-11-02T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "EINSTEIN TELESCOPE | A Berlino nuovo incontro tra Italia e Germania per il futuro osservatorio europeo di onde gravitazionali",
+      "url": "https://www.ingv.it/stampa-urp/ufficio-stampa/comunicati-stampa/einstein-telescope-a-berlino-nuovo-incontro-tra-italia-e-germania-per-il-futuro-osservatorio-europeo-di-onde-gravitazionali",
+      "excerpt": "",
+      "publishedAt": "2026-11-02T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "TERREMOTI | Dieci anni dalla sequenza sismica in Italia centrale: l’INGV racconta il lavoro in emergenza attraverso una serie di Video Podcast",
       "url": "https://www.ingv.it/stampa-urp/ufficio-stampa/comunicati-stampa/terremoti-dieci-anni-dalla-sequenza-sismica-in-italia-centrale-l-ingv-racconta-il-lavoro-in-emergenza-attraverso-una-serie-di-video-podcast",
@@ -33,5 +47,5 @@
     }
   ],
   "message": "Feed dichiarato dalla fonte; date di pubblicazione verificate.",
-  "durationSeconds": 1.25
+  "durationSeconds": 1.4
 }

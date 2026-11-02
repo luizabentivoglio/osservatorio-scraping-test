@@ -4,12 +4,19 @@
   "sourceId": "msf",
   "originUrl": "https://www.medicisenzafrontiere.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-02T10:00:52.404012Z",
+  "collectedAt": "2026-11-02T20:32:19.181940Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "X Factor e Medici Senza Frontiere: la partnership edizione per edizione",
+      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/xfactor/",
+      "excerpt": "Dal 2024 MSF è Official Partner di X Factor: i brani del Peace Factor, gli appelli di Giorgia e i video di ogni edizione. Scopri come donare.",
+      "publishedAt": "2026-11-01T12:20:59Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
     {
       "title": "Haiti, scontri in aumento a Port-au-Prince: 30 feriti curati negli ospedali di MSF in poco più di una settimana",
       "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/haiti-scontri-aumento-port-au-prince-30-feriti-curati-ospedali-msf-poco-piu-di-settimana/",
@@ -44,13 +51,6 @@
       "excerpt": "Un drone russo ha colpito ieri intorno alle 18 infrastrutture civili a Synelnykove, nella regione di Dnipropetrovsk, a circa 80 chilometri dalla linea del fronte. La guerra colpisce ancora i civili L’attacco è avvenuto in una zona con abitazioni, bar e negozi, a meno di un chilometro da un ospedale che supportiamo. Sec",
       "publishedAt": "2026-10-25T17:27:15Z",
       "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Lascito testamentario: che cos’è e come funziona",
-      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/lascito-testamentario-cosa-e-come-funziona/",
-      "excerpt": "Che cos'è un lascito testamentario, come funziona, quali forme di testamento esistono e come destinarlo a Medici Senza Frontiere.",
-      "publishedAt": "2026-10-22T14:37:16Z",
-      "dateEvidence": "jsonld:datePublished"
     }
   ],
   "attempts": [
@@ -60,6 +60,10 @@
     },
     {
       "url": "https://www.medicisenzafrontiere.it/",
+      "status": 200
+    },
+    {
+      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/xfactor/",
       "status": 200
     },
     {
@@ -81,10 +85,6 @@
     {
       "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/ucraina-msf-assiste-feriti-dopo-attacco-russo-dnipropetrovsk/",
       "status": 200
-    },
-    {
-      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/lascito-testamentario-cosa-e-come-funziona/",
-      "status": 200
     }
   ],
   "message": "6 notizie recenti con data verificata; copertura parziale.",
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.medicisenzafrontiere.it/",
-  "durationSeconds": 3.63
+  "durationSeconds": 4.01
 }

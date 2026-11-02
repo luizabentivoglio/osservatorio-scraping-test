@@ -4,52 +4,52 @@
   "sourceId": "camera",
   "originUrl": "https://www.camera.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-02T10:00:10.856025Z",
+  "collectedAt": "2026-11-02T20:31:29.218206Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
-      "title": "Elezione del CSM",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63745",
-      "excerpt": "Mercoledì 28 ottobre il Parlamento in seduta comune si è riunito per eleggere dieci componenti i...",
-      "publishedAt": "2026-10-30T00:00:00Z",
+      "title": "I giorni delle Costituenti - Un libro e un podcast della Camera dei deputati - Giovedì alle 10.30 diretta con lis - Saluto di Ascani",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63755",
+      "excerpt": "I giorni delle Costituenti - Un libro e un podcast della Camera dei deputati - Giovedì alle 10.30 d...",
+      "publishedAt": "2026-11-02T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "Giornata dell'Unità Nazionale e delle Forze Armate – Mercoledì Montecitorio si illumina con il tricolore nazionale",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63725",
-      "excerpt": "In occasione della Giornata dell'Unità Nazionale e delle Forze Armate, la facciata di Montecitorio ...",
-      "publishedAt": "2026-10-30T00:00:00Z",
+      "title": "Femminicidio, audizioni martedì e mercoledì - Diretta webtv",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63749",
+      "excerpt": "Martedì 3 novembre, presso l'Aula del I piano di Palazzo San Macuto, la Commissione parlamentare di...",
+      "publishedAt": "2026-11-02T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "Interpellanze e interrogazioni, decreto prezzi petroliferi",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63730",
-      "excerpt": "La Camera è convocata martedì 3 novembre alle ore 10 per lo svolgimento di interpellanze e interro...",
-      "publishedAt": "2026-10-30T00:00:00Z",
+      "title": "Audizioni su legge annuale mercato e concorrenza - Martedì e mercoledì diretta webtv",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63750",
+      "excerpt": "Martedì 3 novembre, alle ore 9.50, la Commissione Attività produttive svolge le seguenti audizion...",
+      "publishedAt": "2026-11-02T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "Stati generali dell'educazione e della prevenzione - Lunedì alle 15 diretta webtv - Saluto di Mulè",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63732",
-      "excerpt": "Lunedì 2 novembre, alle ore 15, presso la Sala della Regina di Montecitorio si svolge il convegno ...",
-      "publishedAt": "2026-10-30T00:00:00Z",
+      "title": "Covid, martedì audizione Silvestri, venerdì seguito Speranza - Diretta webtv",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63751",
+      "excerpt": "Martedì 3 novembre, alle ore 11, presso l'Aula del II piano di Palazzo San Macuto, la Commissione p...",
+      "publishedAt": "2026-11-02T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "Celebrare Pier Paolo Pasolini nel giorno della sua scomparsa - Lunedì alle 17.30 diretta webtv",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63740",
-      "excerpt": "Lunedì 2 novembre, alle ore 17.30, presso la Sala del Mappamondo di Montecitorio si svolge il conve...",
-      "publishedAt": "2026-10-30T00:00:00Z",
+      "title": "Audizioni su riforma ordinamento forense – Martedì alle 11 diretta webtv",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63752",
+      "excerpt": "Martedì 3 novembre la Commissione Giustizia svolge le seguenti audizioni nell’ambito dell’esame...",
+      "publishedAt": "2026-11-02T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "Audizioni Copasir – Martedì Valensise – Mercoledì Quacivi",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63742",
-      "excerpt": "Il Comitato parlamentare per la sicurezza della Repubblica (Copasir) svolge le seguenti audizioni, a...",
-      "publishedAt": "2026-10-30T00:00:00Z",
+      "title": "Piano Mattei, audizione martedì e mercoledì - Diretta webtv",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63754",
+      "excerpt": "Martedì 3 novembre, alle ore 13.15, la Commissione Esteri svolge l'audizione di rappresentanti del...",
+      "publishedAt": "2026-11-02T00:00:00Z",
       "dateEvidence": "html:publication-label"
     }
   ],
@@ -63,34 +63,34 @@
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63745",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63755",
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63725",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63749",
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63730",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63750",
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63732",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63751",
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63740",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63752",
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63742",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63754",
       "status": 200
     }
   ],
   "message": "6 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [],
-  "candidateCount": 11,
+  "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://comunicazione.camera.it/archivio-prima-pagina",
-  "durationSeconds": 4.26
+  "durationSeconds": 3.82
 }

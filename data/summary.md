@@ -9,7 +9,7 @@
 | breaking-italy | ok | trafilatura | 1 | — |
 | camera | ok | trafilatura | 6 | — |
 | cisl | blocked | html | 0 | robots_disallowed |
-| cnr | error | html | 0 | connection_error |
+| cnr | ok | rss | 20 | — |
 | coldiretti | ok | trafilatura | 6 | — |
 | commissione-europea | ok | trafilatura | 1 | — |
 | comune-bollate | ok | trafilatura | 6 | — |
@@ -21,7 +21,7 @@
 | corte-conti | no_feed | crawl4ai | 0 | parsing_error |
 | dc-rotondi | ok | rss | 0 | — |
 | demos-media | ok | trafilatura | 0 | — |
-| demos-partito | ok | rss | 0 | — |
+| demos-partito | error | html | 0 | timeout |
 | emergency | ok | trafilatura | 0 | — |
 | eurostat | blocked | html | 0 | robots_disallowed |
 | factanza | blocked | html | 0 | access_restricted |
@@ -34,11 +34,11 @@
 | iai | ok | trafilatura | 2 | — |
 | il-fatto | blocked | html | 0 | robots_disallowed |
 | il-notiziario | blocked | html | 0 | access_restricted |
-| il-post | ok | trafilatura | 6 | — |
-| ingv | ok | rss | 1 | — |
+| il-post | ok | trafilatura | 5 | — |
+| ingv | ok | rss | 3 | — |
 | ispi | blocked | html | 0 | robots_disallowed |
 | ispra | ok | rss | 0 | — |
-| iss | error | html | 0 | timeout |
+| iss | ok | trafilatura | 0 | — |
 | istat | ok | rss | 10 | — |
 | istituto-bruno-leoni | ok | trafilatura | 5 | — |
 | italia-domani-rizzo | ok | trafilatura | 3 | — |
@@ -49,7 +49,7 @@
 | mef | ok | trafilatura | 3 | — |
 | msf | ok | trafilatura | 6 | — |
 | osservatorio-cpi | ok | trafilatura | 6 | — |
-| oxfam | ok | trafilatura | 3 | — |
+| oxfam | ok | trafilatura | 5 | — |
 | pagella-politica | ok | trafilatura | 6 | — |
 | palazzo-chigi | ok | rss | 10 | — |
 | parlamento-europeo | blocked | html | 0 | access_restricted |

@@ -4,12 +4,26 @@
   "sourceId": "oxfam",
   "originUrl": "https://www.oxfamitalia.org/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-02T10:00:56.031755Z",
+  "collectedAt": "2026-11-02T20:32:23.387266Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "LA NOSTRA PROPOSTA PER TASSARE DI PIÙ I GRANDI PATRIMONI",
+      "url": "https://www.oxfamitalia.org/tassare-di-piu-i-grandi-patrimoni/",
+      "excerpt": "Scopri la proposta di Oxfam per un’imposta sui grandi patrimoni e un sistema fiscale più equo. Leggi l'articolo.",
+      "publishedAt": "2026-11-02T11:45:35Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "Gaza, la storia di Bilal: sopravvivere senza poter tornare a vivere",
+      "url": "https://www.oxfamitalia.org/gaza-la-storia-di-bilal-sopravvivere-senza-poter-tornare-a-vivere/",
+      "excerpt": "A Gaza, scarsità di contanti, banconote danneggiate e difficoltà nei pagamenti rendono ancora più difficile la vita delle famiglie sfollate.",
+      "publishedAt": "2026-10-30T07:00:17Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
     {
       "title": "I SUPER-RICCHI SONO ANCORA PIÙ RICCHI GRAZIE ALLA CRISI CLIMATICA",
       "url": "https://www.oxfamitalia.org/i-super-ricchi-sono-ancora-piu-ricchi-grazie-alla-crisi-climatica/",
@@ -42,6 +56,14 @@
       "status": 200
     },
     {
+      "url": "https://www.oxfamitalia.org/tassare-di-piu-i-grandi-patrimoni/",
+      "status": 200
+    },
+    {
+      "url": "https://www.oxfamitalia.org/gaza-la-storia-di-bilal-sopravvivere-senza-poter-tornare-a-vivere/",
+      "status": 200
+    },
+    {
       "url": "https://www.oxfamitalia.org/i-super-ricchi-sono-ancora-piu-ricchi-grazie-alla-crisi-climatica/",
       "status": 200
     },
@@ -56,20 +78,12 @@
     {
       "url": "https://www.oxfamitalia.org/stop-al-blocco-firma-la-petizione-per-garantire-lingresso-degli-aiuti-umanitari-a-gaza/",
       "status": 200
-    },
-    {
-      "url": "https://www.oxfamitalia.org/oxfam-al-festival-di-internazionale-cosa-significa-ricostruire-gaza/",
-      "status": 200
-    },
-    {
-      "url": "https://www.oxfamitalia.org/copower-al-bando-la-violenza-di-genere/",
-      "status": 200
     }
   ],
-  "message": "3 notizie recenti con data verificata; copertura parziale.",
+  "message": "5 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [],
   "candidateCount": 8,
   "datedCount": 6,
   "listingUrl": "https://www.oxfamitalia.org/news/",
-  "durationSeconds": 3.88
+  "durationSeconds": 4.15
 }

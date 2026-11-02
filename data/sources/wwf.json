@@ -4,12 +4,26 @@
   "sourceId": "wwf",
   "originUrl": "https://www.wwf.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-02T10:01:22.107885Z",
+  "collectedAt": "2026-11-02T20:32:55.935255Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "Entra nel vivo il progetto di WWF e Fondazione Roma",
+      "url": "https://www.wwf.it/pandanews/wwf-life/entra-nel-vivo-il-progetto-di-wwf-e-fondazione-roma/",
+      "excerpt": "Oltre 300 docenti iscritti al percorso formativo che accompagnerà la nascita di 50 nuove Aule Natura fra Roma e provincia entro il 2028",
+      "publishedAt": "2026-11-02T16:11:03Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "Tigri, in occasione della Cites lanciato allarme sugli allevamenti commerciali",
+      "url": "https://www.wwf.it/pandanews/animali/tigri-in-occasione-della-cites-lanciato-allarme-sugli-allevamenti-commerciali/",
+      "excerpt": "L'allarme globale è stato lanciato dal WWF insieme a una coalizione di organizzazioni internazionali per la conservazione",
+      "publishedAt": "2026-11-02T10:48:00Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
     {
       "title": "COP17: bene gli sforzi annunciati, ma restano gli ostacoli finanziari",
       "url": "https://www.wwf.it/pandanews/societa/mondo/cop17-bene-gli-sforzi-annunciati-ma-restano-gli-ostacoli-finanziari/",
@@ -37,20 +51,6 @@
       "excerpt": "La maggioranza di governo sceglie di dedicare tempo e risorse parlamentari ad una legge che indebolisce la protezione degli animali selvatici",
       "publishedAt": "2026-10-29T15:28:33Z",
       "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Rapporto Luiss-WWF: lo Stretto di Sicilia al centro del futuro del Mediterraneo",
-      "url": "https://www.wwf.it/pandanews/ambiente/rapporto-luiss-wwf-lo-stretto-di-sicilia-al-centro-del-futuro-del-mediterraneo/",
-      "excerpt": "Ieri a Roma l'evento “Mediterraneo Mare Protetto”, organizzato dal WWF Italia e WWF Mediterraneo nell'ambito di \"Rivoluzione Naturale\"",
-      "publishedAt": "2026-10-29T14:49:47Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Operazione Cervo Italico, trasferiti 17 esemplari di cervo italico",
-      "url": "https://www.wwf.it/pandanews/animali/operazione-cervo-italico-trasferiti-17-esemplari-cervo-italico/",
-      "excerpt": "Dal 22 al 25 ottobre, 17 individui di cervo italico sono stati trasferiti dall'Emilia-Romagna alla Calabria",
-      "publishedAt": "2026-10-27T11:18:34Z",
-      "dateEvidence": "jsonld:datePublished"
     }
   ],
   "attempts": [
@@ -60,6 +60,14 @@
     },
     {
       "url": "https://www.wwf.it/",
+      "status": 200
+    },
+    {
+      "url": "https://www.wwf.it/pandanews/wwf-life/entra-nel-vivo-il-progetto-di-wwf-e-fondazione-roma/",
+      "status": 200
+    },
+    {
+      "url": "https://www.wwf.it/pandanews/animali/tigri-in-occasione-della-cites-lanciato-allarme-sugli-allevamenti-commerciali/",
       "status": 200
     },
     {
@@ -77,14 +85,6 @@
     {
       "url": "https://www.wwf.it/pandanews/ambiente/caccia-27-novembre-legge-sparatutto/",
       "status": 200
-    },
-    {
-      "url": "https://www.wwf.it/pandanews/ambiente/rapporto-luiss-wwf-lo-stretto-di-sicilia-al-centro-del-futuro-del-mediterraneo/",
-      "status": 200
-    },
-    {
-      "url": "https://www.wwf.it/pandanews/animali/operazione-cervo-italico-trasferiti-17-esemplari-cervo-italico/",
-      "status": 200
     }
   ],
   "message": "6 notizie recenti con data verificata; copertura parziale.",
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.wwf.it/",
-  "durationSeconds": 7.93
+  "durationSeconds": 6.9
 }

@@ -4,17 +4,17 @@
   "sourceId": "italia-domani-rizzo",
   "originUrl": "https://www.italiadomanirizzo.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-02T10:00:46.275983Z",
+  "collectedAt": "2026-11-02T20:32:12.921922Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
-      "title": "Francesca Antinozzi a In Voce Veritas: sovranità, giovani e futuro per Italia Domani - Italia Domani",
-      "url": "https://www.italiadomanirizzo.it/francesca-antinozzi-a-in-voce-veritas-sovranita-giovani-e-fu/",
-      "excerpt": "La Segretaria Francesca Antinozzi interviene a In Voce Veritas: critica all'UE, difesa della spesa sociale e della scuola, e l'impegno di Italia Domani sui territori per ridare voce ai cittadini.",
-      "publishedAt": "2026-11-01T00:00:00Z",
+      "title": "Torino: l'esperienza di Salvatore Ippolito al fianco di Marco Rizzo - Italia Domani",
+      "url": "https://www.italiadomanirizzo.it/torino-l-esperienza-di-salvatore-ippolito-al-fianco-di-marco/",
+      "excerpt": "Salvatore Ippolito, professionista delle infrastrutture ed ex amministratore, sceglie il progetto di Marco Rizzo per Torino, rompendo la finta contrapposizione tra destra e sinistra.",
+      "publishedAt": "2026-11-02T00:00:00Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
@@ -42,7 +42,7 @@
       "status": 200
     },
     {
-      "url": "https://www.italiadomanirizzo.it/francesca-antinozzi-a-in-voce-veritas-sovranita-giovani-e-fu/",
+      "url": "https://www.italiadomanirizzo.it/torino-l-esperienza-di-salvatore-ippolito-al-fianco-di-marco/",
       "status": 200
     },
     {
@@ -94,5 +94,5 @@
   "candidateCount": 8,
   "datedCount": 3,
   "listingUrl": "https://www.italiadomanirizzo.it/",
-  "durationSeconds": 6.39
+  "durationSeconds": 6.26
 }

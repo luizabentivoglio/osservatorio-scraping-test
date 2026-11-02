@@ -4,7 +4,7 @@
   "sourceId": "pri",
   "originUrl": "https://www.prinazionale.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-02T10:01:06.154564Z",
+  "collectedAt": "2026-11-02T20:32:28.740482Z",
   "status": "no_feed",
   "diagnosticCode": "parsing_error",
   "method": "crawl4ai",
@@ -30,18 +30,6 @@
     {
       "url": "https://www.prinazionale.it/new/Elezioni Europee 2019/ELEZIONI EUROPEE 2019.htm",
       "status": 200
-    },
-    {
-      "url": "https://www.prinazionale.it/new/ElezioniPolitiche2018/ELEZIONIPOLITICHE2018.HTM",
-      "status": 200
-    },
-    {
-      "url": "https://www.prinazionale.it/Congressi Locali/tesseramento.htm",
-      "status": 404
-    },
-    {
-      "url": "https://www.prinazionale.it/Elezioni Moduli/Elezioni.htm",
-      "status": 404
     }
   ],
   "message": "Pagina accessibile, ma nessuna notizia con data di pubblicazione verificabile.",
@@ -49,5 +37,5 @@
   "candidateCount": 12,
   "datedCount": 0,
   "listingUrl": "https://www.prinazionale.it/",
-  "durationSeconds": 1.09
+  "durationSeconds": 1.08
 }

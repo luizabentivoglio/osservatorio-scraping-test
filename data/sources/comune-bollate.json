@@ -4,17 +4,17 @@
   "sourceId": "comune-bollate",
   "originUrl": "https://comune.bollate.mi.it/it/news",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-02T10:00:15.240297Z",
+  "collectedAt": "2026-11-02T20:31:35.178944Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
-      "title": "Carta dedicata a te. Tutte le info",
-      "url": "https://comune.bollate.mi.it/it/news/carta-dedicata-a-te-2051258",
+      "title": "Carta “Dedicata a te: pubblicata la graduatoria dei benificiari",
+      "url": "https://comune.bollate.mi.it/it/news/carta-dedicata-a-te-2051258-2072550",
       "excerpt": "Sito ufficiale Comune di Bollate",
-      "publishedAt": "2026-10-23T00:00:00Z",
+      "publishedAt": "2026-11-02T00:00:00Z",
       "dateEvidence": "html:news-date-label"
     },
     {
@@ -63,7 +63,7 @@
       "status": 200
     },
     {
-      "url": "https://comune.bollate.mi.it/it/news/carta-dedicata-a-te-2051258",
+      "url": "https://comune.bollate.mi.it/it/news/carta-dedicata-a-te-2051258-2072550",
       "status": 200
     },
     {
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://comune.bollate.mi.it/it/news",
-  "durationSeconds": 5.53
+  "durationSeconds": 7.94
 }

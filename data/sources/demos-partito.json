@@ -4,26 +4,15 @@
   "sourceId": "demos-partito",
   "originUrl": "https://www.democraziasolidale.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-02T10:00:31.122373Z",
-  "status": "ok",
-  "diagnosticCode": null,
-  "method": "rss",
-  "feedUrl": "https://www.democraziasolidale.it/feed/",
+  "collectedAt": "2026-11-02T20:31:54.441740Z",
+  "status": "error",
+  "diagnosticCode": "timeout",
+  "method": "html",
+  "feedUrl": null,
   "items": [],
-  "attempts": [
-    {
-      "url": "https://www.democraziasolidale.it/robots.txt",
-      "status": 200
-    },
-    {
-      "url": "https://www.democraziasolidale.it/",
-      "status": 200
-    },
-    {
-      "url": "https://www.democraziasolidale.it/feed/",
-      "status": 200
-    }
-  ],
-  "message": "Feed dichiarato dalla fonte; date di pubblicazione verificate.",
-  "durationSeconds": 2.14
+  "attempts": [],
+  "message": "Timeout della fonte",
+  "httpStatus": null,
+  "failedUrl": "https://www.democraziasolidale.it/robots.txt",
+  "durationSeconds": 15.49
 }

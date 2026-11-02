@@ -4,7 +4,7 @@
   "sourceId": "quirinale",
   "originUrl": "https://www.quirinale.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-02T10:01:14.639713Z",
+  "collectedAt": "2026-11-02T20:32:43.599196Z",
   "status": "blocked",
   "diagnosticCode": "access_restricted",
   "method": "html",
@@ -20,7 +20,7 @@
       "status": 200
     },
     {
-      "url": "https://www.quirinale.it/it/notizie/cordoglio-presidente-mattarella-per-vittime-incidente-elicottero-militare-italiano-precipitato-bosnia",
+      "url": "https://www.quirinale.it/it/notizie/elicottero-precipitato-bosnia-mattarella-rende-omaggio-vittime",
       "status": 200
     },
     {
@@ -47,16 +47,24 @@
   "message": "Verifica interattiva richiesta",
   "candidateSamples": [
     {
-      "url": "https://www.quirinale.it/it/notizie/cordoglio-presidente-mattarella-per-vittime-incidente-elicottero-militare-italiano-precipitato-bosnia",
-      "title": "Cordoglio del Presidente Mattarella per le vittime dell'incidente dell'elicottero militare italiano precipitato in Bosnia «Ho appreso con profonda commozione la notizia del decesso dei militari occorso nel tragico incidente elicotteristico in teatro operativo bosniaco nell’ambito dell’operazione “Al",
-      "h1": "Cordoglio del Presidente Mattarella per le vittime dell'incidente dell'elicottero militare italiano precipitato in Bosnia",
+      "url": "https://www.quirinale.it/it/notizie/elicottero-precipitato-bosnia-mattarella-rende-omaggio-vittime",
+      "title": "Elicottero precipitato in Bosnia, Mattarella rende omaggio alle vittime Il Presidente della Repubblica, Sergio Mattarella, ha accolto all'Aeroporto militare di Ciampino le salme dei quattro militari italiani caduti nell'incidente elicotteristico avvenuto il 29 ottobre scorso in Bosnia.",
+      "h1": "Elicottero precipitato in Bosnia, Mattarella rende omaggio alle vittime",
       "dates": [
+        {
+          "tag": "span",
+          "class": [
+            "data-luogo"
+          ],
+          "text": "Roma, 02/11/2026",
+          "datetime": null
+        },
         {
           "tag": "p",
           "class": [
             "date-label"
           ],
-          "text": "Roma, 29/10/2026 (II mandato)",
+          "text": "Ciampino, 02/11/2026 (II mandato)",
           "datetime": null
         }
       ]
@@ -140,5 +148,5 @@
   "candidateCount": 12,
   "datedCount": 0,
   "listingUrl": "https://www.quirinale.it/",
-  "durationSeconds": 3.91
+  "durationSeconds": 3.85
 }

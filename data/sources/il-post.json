@@ -4,52 +4,45 @@
   "sourceId": "il-post",
   "originUrl": "https://www.ilpost.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-02T10:00:44.201347Z",
+  "collectedAt": "2026-11-02T20:32:11.023713Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
-      "title": "Che si dice di Kimi Antonelli",
-      "url": "https://www.ilpost.it/2026/11/02/kimi-antonelli-vittoria-formula-1-prime-pagine-commenti-giornali-italia-estero/?homepagePosition=0.2&referrerPost=3712785",
-      "excerpt": "Foto, titoli e commenti dai giornali di tutto il mondo sul più giovane vincitore di sempre del Mondiale di Formula 1",
-      "publishedAt": "2026-11-02T08:10:18Z",
+      "title": "Ci sono malfunzionamenti anche in supermercati italiani, probabilmente dovuti ad attacchi informatici",
+      "url": "https://www.ilpost.it/2026/11/02/malfunzionamenti-supermercati-sicilia-attacchi-informatici/?bitPosition=1",
+      "excerpt": "Ci sono malfunzionamenti anche in supermercati italiani, probabilmente dovuti ad attacchi informatici - Condividi - X - Regala il Post Lunedì ci sono stati malfunzionamenti ai frigoriferi di alcuni supermercati in Sicilia, Emilia-Romagna e Toscana. Decine di episodi analoghi erano stati segnalati a partire dalla mattin",
+      "publishedAt": "2026-11-02T18:20:36Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "In Germania sono stati segnalati alla polizia casi di spilli trovati nelle caramelle di Halloween",
-      "url": "https://www.ilpost.it/2026/11/02/germania-spilli-caramelle-halloween/?bitPosition=1",
-      "excerpt": "In Germania sono stati segnalati alla polizia casi di spilli trovati nelle caramelle di Halloween - Condividi - X - Regala il Post La polizia tedesca ha detto di aver raccolto diverse segnalazioni di spilli e altri oggetti metallici affilati trovati nelle caramelle raccolte dai bambini che facevano “dolcetto o scherzet",
-      "publishedAt": "2026-11-02T07:53:08Z",
+      "title": "I Laburisti britannici hanno rivisto i criteri per la richiesta del permesso di soggiorno permanente, ma non per tutti",
+      "url": "https://www.ilpost.it/2026/11/02/regno-unito-laburisti-misure-richiesta-permesso-soggiorno/?bitPosition=2",
+      "excerpt": "I Laburisti britannici hanno rivisto i criteri per la richiesta del permesso di soggiorno permanente, ma non per tutti - Condividi - X - Regala il Post La ministra dell’Interno britannica Shabana Mahmood ha annunciato l’ammorbidimento di alcune misure sull’immigrazione che erano state presentate alla fine del 2025 dal ",
+      "publishedAt": "2026-11-02T17:51:18Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "I clienti della piattaforma di criptovalute Binance hanno prelevato più di 3 miliardi di euro, dopo il grande furto di venerdì",
-      "url": "https://www.ilpost.it/2026/11/02/clienti-binance-prelievo-furto/?bitPosition=2",
-      "excerpt": "I clienti della piattaforma di criptovalute Binance hanno prelevato più di 3 miliardi di euro, dopo il grande furto di venerdì - Condividi - X - Regala il Post Domenica, nel primo giorno in cui Binance ha riattivato gradualmente i prelievi dopo un attacco informatico, i suoi clienti hanno ritirato dalla piattaforma cri",
-      "publishedAt": "2026-11-02T06:15:19Z",
+      "title": "L’amministrazione Trump ha chiesto alla Corte Suprema di sospendere lo spoglio del voto per posta di 20mila elettori della California",
+      "url": "https://www.ilpost.it/2026/11/02/trump-chiede-sospensione-voti-per-posta-california/?bitPosition=3",
+      "excerpt": "L’amministrazione Trump ha chiesto alla Corte Suprema di sospendere lo spoglio del voto per posta di 20mila elettori della California - Condividi - X - Regala il Post Il dipartimento di Giustizia degli Stati Uniti ha chiesto alla Corte Suprema di sospendere lo spoglio dei voti per posta di più di 20mila elettori della ",
+      "publishedAt": "2026-11-02T17:15:26Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "In Serbia due importanti capi della polizia sono stati arrestati con l’accusa di abuso d’ufficio",
-      "url": "https://www.ilpost.it/2026/11/02/serbia-arresti-capi-polizia-2026/?bitPosition=3",
-      "excerpt": "In Serbia due importanti capi della polizia sono stati arrestati con l’accusa di abuso d’ufficio - Condividi - X - Regala il Post Due importanti capi della polizia in Serbia sono stati arrestati domenica mattina, entrambi con l’accusa di abuso d’ufficio. Sono Marko Kričak, il capo della direzione della polizia criminal",
-      "publishedAt": "2026-11-02T05:26:21Z",
+      "title": "Il paradosso delle pensioni nella legge di bilancio",
+      "url": "https://www.ilpost.it/2026/11/02/il-paradosso-delle-pensioni-nella-legge-di-bilancio/?homepagePosition=0",
+      "excerpt": "Il governo vuole togliere soldi a molti pensionati per permettere a poche persone di andare in pensione prima",
+      "publishedAt": "2026-11-02T16:38:01Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "Le foto e i video dei festeggiamenti di Kimi Antonelli, nuovo campione del mondo di Formula 1",
-      "url": "https://www.ilpost.it/2026/11/02/kimi-antonelli-mondiale-formula-1-foto/?homepagePosition=0.1&referrerPost=3712785",
-      "excerpt": "In Messico, dopo un Gran Premio terminato sul podio con Lewis Hamilton e Max Verstappen",
-      "publishedAt": "2026-11-01T22:25:26Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Il Mondiale di Kimi Antonelli",
-      "url": "https://www.ilpost.it/2026/11/01/kimi-antonelli-mondiale-2026-formula-1-gran-premi/?homepagePosition=0",
-      "excerpt": "Com'è andata gara-per-gara, ora che l'ha vinto",
-      "publishedAt": "2026-11-01T21:34:41Z",
+      "title": "Quali tasse si riducono con la nuova legge di bilancio, e di quanto",
+      "url": "https://www.ilpost.it/2026/10/29/riduzione-tasse-legge-di-bilancio-2027-irpef-flat-tax/?homepagePosition=0.1&referrerPost=3721208",
+      "excerpt": "Soprattutto l'IRPEF per i redditi medi, e ci sono buone notizie per i lavoratori autonomi",
+      "publishedAt": "2026-10-29T09:34:21Z",
       "dateEvidence": "jsonld:datePublished"
     }
   ],
@@ -63,34 +56,34 @@
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/01/kimi-antonelli-mondiale-2026-formula-1-gran-premi/?homepagePosition=0",
+      "url": "https://www.ilpost.it/2026/11/02/il-paradosso-delle-pensioni-nella-legge-di-bilancio/?homepagePosition=0",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/02/kimi-antonelli-mondiale-formula-1-foto/?homepagePosition=0.1&referrerPost=3712785",
+      "url": "https://www.ilpost.it/2026/10/29/riduzione-tasse-legge-di-bilancio-2027-irpef-flat-tax/?homepagePosition=0.1&referrerPost=3721208",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/02/kimi-antonelli-vittoria-formula-1-prime-pagine-commenti-giornali-italia-estero/?homepagePosition=0.2&referrerPost=3712785",
+      "url": "https://www.ilpost.it/2022/11/27/pensioni-quota-103/?homepagePosition=0.2&referrerPost=3721208",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/02/germania-spilli-caramelle-halloween/?bitPosition=1",
+      "url": "https://www.ilpost.it/2026/11/02/malfunzionamenti-supermercati-sicilia-attacchi-informatici/?bitPosition=1",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/02/clienti-binance-prelievo-furto/?bitPosition=2",
+      "url": "https://www.ilpost.it/2026/11/02/regno-unito-laburisti-misure-richiesta-permesso-soggiorno/?bitPosition=2",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/02/serbia-arresti-capi-polizia-2026/?bitPosition=3",
+      "url": "https://www.ilpost.it/2026/11/02/trump-chiede-sospensione-voti-per-posta-california/?bitPosition=3",
       "status": 200
     }
   ],
-  "message": "6 notizie recenti con data verificata; copertura parziale.",
+  "message": "5 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [],
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.ilpost.it/",
-  "durationSeconds": 3.54
+  "durationSeconds": 3.53
 }

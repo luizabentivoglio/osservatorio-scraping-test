@@ -4,12 +4,19 @@
   "sourceId": "palazzo-chigi",
   "originUrl": "https://www.governo.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-02T10:01:00.451681Z",
+  "collectedAt": "2026-11-02T20:32:27.570534Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.governo.it/feed/rss",
   "items": [
+    {
+      "title": "Elicottero precipitato in Bosnia, il Presidente Meloni rende omaggio alle vittime",
+      "url": "https://www.governo.it/it/articolo/elicottero-precipitato-bosnia-il-presidente-meloni-rende-omaggio-alle-vittime/33000",
+      "excerpt": "Il Presidente del Consiglio, Giorgia Meloni, insieme al Presidente della Repubblica Sergio Mattarella, al Ministro della Difesa Guido Crosetto, e al Vice Presidente del Consiglio e Ministro degli Affari Esteri e della Cooperazione Internazionale, Antonio Tajani, ha accolto all'Aeroporto militare di Ciampino i feretri d",
+      "publishedAt": "2026-11-02T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "Operazione della Polizia di Stato contro la criminalità giovanile, dichiarazione del Presidente Meloni",
       "url": "https://www.governo.it/it/articolo/operazione-della-polizia-di-stato-contro-la-criminalit-giovanile-dichiarazione-del",
@@ -22,6 +29,13 @@
       "url": "https://www.governo.it/it/articolo/incidente-aereo-bosnia-il-presidente-meloni-rende-omaggio-alle-vittime-al-villaggio-difesa",
       "excerpt": "Questa mattina, al Villaggio Difesa allestito al Circo Massimo, il Presidente del Consiglio, Giorgia Meloni, insieme al Ministro della Difesa, Guido Crosetto, ha deposto un fascio di rose in omaggio ai militari italiani vittime dell'incidente aereo avvenuto nella giornata di ieri in Bosnia.",
       "publishedAt": "2026-10-30T11:48:08Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Dichiarazione congiunta sul rafforzamento della cooperazione spaziale tra Italia e Germania",
+      "url": "https://www.governo.it/it/articolo/dichiarazione-congiunta-sul-rafforzamento-della-cooperazione-spaziale-tra-italia-e-germania",
+      "excerpt": "Si è svolto, presso il Centro Spaziale del Fucino (AQ), un dialogo bilaterale tra Italia e Germania sulle politiche spaziali e sull'economia spaziale, con la partecipazione di rappresentanti dei rispettivi Governi, delle Agenzie Spaziali nazionali e delle Amministrazioni competenti. L'incontro ha offerto l'occasione pe",
+      "publishedAt": "2026-10-30T11:26:28Z",
       "dateEvidence": "feed:published"
     },
     {
@@ -65,20 +79,6 @@
       "excerpt": "Si è svolta a Palazzo Chigi la riunione del Consiglio dei Ministri. Al termine, il Presidente Meloni, i Vice Presidenti e Ministri Tajani e Salvini, il Ministro Giorgetti e il Vice Ministro Leo hanno illustrato in conferenza stampa il disegno di legge di bilancio 2027.",
       "publishedAt": "2026-10-28T14:00:40Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Convocazione del Consiglio dei Ministri n. 195",
-      "url": "https://www.governo.it/it/articolo/convocazione-del-consiglio-dei-ministri-n-195/32963",
-      "excerpt": "Il Consiglio dei Ministri è convocato oggi, mercoledì 28 ottobre 2026, alle ore 15:00 a Palazzo Chigi, per l'esame del seguente ordine del giorno:",
-      "publishedAt": "2026-10-28T13:58:06Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Fondo unico per l’inclusione delle persone con disabilità",
-      "url": "https://www.governo.it/it/articolo/fondo-unico-l-inclusione-delle-persone-con-disabilit/32959",
-      "excerpt": "Criteri e modalità di riparto del Fondo unico per l’inclusione delle persone con disabilità ai fini, per l’anno 2026, di cui all’articolo 1, comma 213, lettera f), della legge 30 dicembre 2023, n. 213: interventi finalizzati al riconoscimento del valore sociale ed economico dell’attività di cura non professionale del c",
-      "publishedAt": "2026-10-28T11:26:46Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -100,5 +100,5 @@
     }
   ],
   "message": "Feed dichiarato dalla fonte; date di pubblicazione verificate.",
-  "durationSeconds": 30.12
+  "durationSeconds": 30.14
 }
