@@ -4,17 +4,17 @@
   "sourceId": "breaking-italy",
   "originUrl": "https://breakingitaly.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-02T01:51:01.418697Z",
+  "collectedAt": "2026-11-02T10:00:10.085422Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
-      "title": "Lo sciopero generale e le nuove manifestazioni in Italia",
-      "url": "https://breakingitaly.it/newsletter/lo-sciopero-generale-e-le-nuove-manifestazioni-in-italia",
-      "excerpt": "Lo sciopero generale e le nuove manifestazioni in Italia",
-      "publishedAt": "2026-10-30T00:00:00Z",
+      "title": "Non si fermano le proteste in tutta Europa",
+      "url": "https://breakingitaly.it/newsletter/non-si-fermano-le-proteste-in-tutta-europa",
+      "excerpt": "Non si fermano le proteste in tutta Europa",
+      "publishedAt": "2026-11-02T00:00:00Z",
       "dateEvidence": "html:newsletter-publication"
     }
   ],
@@ -32,7 +32,7 @@
       "status": 200
     },
     {
-      "url": "https://breakingitaly.it/newsletter/lo-sciopero-generale-e-le-nuove-manifestazioni-in-italia",
+      "url": "https://breakingitaly.it/newsletter/non-si-fermano-le-proteste-in-tutta-europa",
       "status": 200
     },
     {
@@ -96,5 +96,5 @@
   "candidateCount": 12,
   "datedCount": 1,
   "listingUrl": "https://breakingitaly.it/",
-  "durationSeconds": 5.32
+  "durationSeconds": 5.15
 }

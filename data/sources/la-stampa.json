@@ -4,30 +4,226 @@
   "sourceId": "la-stampa",
   "originUrl": "https://www.lastampa.it/",
   "configuredFeedUrl": "https://www.lastampa.it/rss/copertina.xml",
-  "collectedAt": "2026-11-02T01:51:36.134993Z",
+  "collectedAt": "2026-11-02T10:00:48.256796Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.lastampa.it/rss/copertina.xml",
   "items": [
     {
-      "title": "Kimi Antonelli è campione del mondo, il sogno italiano è diventato leggenda",
-      "url": "https://www.lastampa.it/sport/2026/11/01/news/kimi_antonelli_campione_mondo_20_anni_record_vettel-15785089/",
-      "excerpt": "È il più giovane della storia: demolito il record che apparteneva a Sebastian Vettel",
-      "publishedAt": "2026-11-01T00:00:00Z",
+      "title": "Identificate le due vittime italiane dell’incidente ferroviario in Spagna",
+      "url": "https://www.lastampa.it/esteri/2026/11/02/news/incidente_treni_spagna_identificate_vittime_italiane-15785303/",
+      "excerpt": "Sono Ana Martina Conte Grand, 32 anni, italoargentina e Daniela Millan Parlanti, 40, italovenezuelana",
+      "publishedAt": "2026-11-02T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Kimi Antonelli: “Momenti che vivrò per sempre. Un orgoglio vincere per l’Italia”",
-      "url": "https://www.lastampa.it/sport/2026/11/02/news/kimi-antonelli-vittoria-formula-1-orgoglio-italia-emozione-15785109/",
-      "excerpt": "Il campione in lacrime: «Scusate, sto cercando di capire cosa è successo»",
-      "publishedAt": "2026-11-01T00:00:00Z",
+      "title": "Antonelli nella leggenda: “Le lacrime mi impedivano di vedere la pista. Tengo il 12 per restare umile”",
+      "url": "https://www.lastampa.it/sport/2026/11/02/news/kimi_antonelli_lacrime_vittoria_mondiale_f1-15785144/",
+      "excerpt": "Il nuovo campione del mondo di F1: «Ho realizzato il sogno della mia vita, Monza la vittoria più speciale. Il segreto è stato riuscire a divertirmi per tutta la stagione»",
+      "publishedAt": "2026-11-02T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Quando l’Italia sognava con le vittorie di Farina e Ascari 60 anni prima di Antonelli",
-      "url": "https://www.lastampa.it/sport/2026/11/01/news/farina_ascari_piloti_italiani_campioni_mondo_f1_prima_antonelli-15785087/",
-      "excerpt": "Erano loro gli ultimi due piloti italiani ad avere vinto il Mondiale, uno su Alfa Romeo e l’altro su Ferrari. Ma era davvero un altro mondo",
+      "title": "Messico e azzurro, trionfo nel solo posto in cui Kimi abbraccia il suo predecessore",
+      "url": "https://www.lastampa.it/sport/2026/11/02/news/messico_imprese_sport_italiane_mennea_moser_kimi-15785178/",
+      "excerpt": "Dal mito di Messico 1968 al record mondiale di Mennea e all’impresa di Moser, il Paese centroamericano è da sempre terra di imprese sportive italiane",
+      "publishedAt": "2026-11-02T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Termosifoni, scatta l’obbligo di telelettura. Multe fino a 2.500 per chi non si adegua: cosa sapere",
+      "url": "https://www.lastampa.it/tuttosoldi/2026/11/02/news/termosifoni_obbligo_telelettura_multe_cosa_sapere-15783077/",
+      "excerpt": "La misura riguarda gli impianti con riscaldamento centralizzato. Coinvolte circa 4 milioni di famiglie",
+      "publishedAt": "2026-11-02T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Neve sempre più rara nelle città del Nord: l'inverno che i ragazzi di oggi non conoscono",
+      "url": "https://www.lastampa.it/cronaca/2026/11/02/news/neve_citta_nord_inverno_cambiamenti-15785352/",
+      "excerpt": "Stagioni stravolte dal cambiamento climatico: la nevicata in pianura potrà ancora accadere, ma quanto dura? Così la neve di gennaio è diventata quella di marzo e si fonde velocemente. E spesso città come Torino, Milano o Bologna restano a secco: anche le medie nivometriche si sono abbassate drasticamente",
+      "publishedAt": "2026-11-02T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Non soltanto vigneti, il cambiamento climatico porta l’olio in Piemonte",
+      "url": "https://www.lastampa.it/torino/2026/12/01/news/non_soltanto_vigneti_il_cambiamento_climatico_porta_l_olio_in_piemonte-15784971/",
+      "excerpt": "I produttori di extravergine: «Siamo all’inizio ma la qualità è alta»",
+      "publishedAt": "2026-11-02T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "La regina del lifestyle con 400 milioni di dollari di patrimonio si traveste da senzatetto, è polemica",
+      "url": "https://www.lastampa.it/spettacoli/2026/11/02/news/usa_martha_stewart_halloween_vestito_senzatetto_polemica-15785379/",
+      "excerpt": "Pioggia di critiche negli Stati Uniti per il costume di Halloween di Martha Stewart. E lei chiede scusa",
+      "publishedAt": "2026-11-02T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "La crociata dei 120 chef che vogliono farci dire addio al salmone",
+      "url": "https://www.lastampa.it/economia/2026/11/02/news/cucinachef-crociata-salmone-menu-fuori-stagione-bottura-klugmann-niederkofler-15784771/",
+      "excerpt": "Nel 2025 le famiglie italiane hanno speso per questo cibo più che per qualsiasi altro prodotto ittico. Da Klugmann a Bottura e Niederkofler, oltre 120 chef da tutto il mondo chiedono di eliminarlo dai menù fuori stagione",
+      "publishedAt": "2026-11-02T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Il vaccino diventa parte della cura: la svolta negli ospedali di Torino",
+      "url": "https://www.lastampa.it/torino/rubriche/un-mondo-di-salute/2026/11/02/news/vaccini_pazienti_fragili_molinette_regina_margherita_torino-15779379/",
+      "excerpt": "Alle Molinette e al Regina Margherita percorsi vaccinali per trapiantati, immunodepressi e pazienti oncologici. Il consiglio arriva anche dagli specialisti",
+      "publishedAt": "2026-11-02T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Manovra, pensioni, tasse e asili: dai super ricchi alla sanità chi ci guadagna e chi perde",
+      "url": "https://www.lastampa.it/economia/2026/11/02/news/manovra_pensioni_tasse_e_asili_dai_super_ricchi_alla_sanita_chi_ci_guadagna_e_chi_perde-15785285/",
+      "excerpt": "La manovra in pillole I tagli e i nuovi finanziamenti. Aumenti per le sigarette, graziati i gestori delle slot",
+      "publishedAt": "2026-11-02T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Fine dell’era low-cost? Ryanair vuole congelare gli stipendi e annuncia rincari sui voli",
+      "url": "https://www.lastampa.it/economia/2026/11/02/news/ryanair_aumento_prezzo_voli_stipendi_congelati-15785327/",
+      "excerpt": "È il rischio legato all’aumento delle quotazioni del cherosene per l’aviazione, alimentato dalle tensioni in Medio Oriente",
+      "publishedAt": "2026-11-02T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Delfin, nuova offerta da Leonardo Maria Del Vecchio: 22 miliardi per arrivare all’87,5%",
+      "url": "https://www.lastampa.it/economia/2026/11/02/news/lmdv_offerta_acquisto_delfin_quote_banca_finanziamento-15785269/",
+      "excerpt": "A finanziare interamente l’operazione è Citigroup. L’obiettivo è acquisire le quote dei sei fratelli. Esclusa dal piatto la partecipazione di Nicoletta Zampillo",
+      "publishedAt": "2026-11-02T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Social vietati ai minori, ma online volano le vendite degli account “adulti”",
+      "url": "https://www.lastampa.it/cronaca/2026/11/02/news/social_vietati_minori_vendita_account_adulti_mercato_online-15784870/",
+      "excerpt": "Per due mesi La Stampa ha monitorato le compravendite; i costi da 50 a 500 euro. In rete si eludono i paletti imposti dalle leggi: il business è già oltre il 100 per cento",
+      "publishedAt": "2026-11-02T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "“I divieti imposti dall’Australia ai minori sui social? Ti vendo un profilo maggiorenne”",
+      "url": "https://www.lastampa.it/cronaca/2026/11/02/news/social_minori_restrizioni_vendita_profili_da_maggiorenni-15784887/",
+      "excerpt": "Canberra: «A tre mesi dalla nostra legge il 42,1% dei minori chatta ancora»",
+      "publishedAt": "2026-11-02T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "La corsa di Trump per rimontare, ma il partito teme il boomerang: “Forse l’America è stanca di lui”",
+      "url": "https://www.lastampa.it/esteri/speciali/elezioni-midterm-2026/2026/11/02/news/la_corsa_di_trump_per_rimontare_ma_il_partito_teme_il_boomerang_forse_l_america_e_stanca_di_lui-15785073/",
+      "excerpt": "Il tycoon è l’unico che mobilita elettori, ma la sua popolarità è ai minimi",
+      "publishedAt": "2026-11-02T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Midterm, Trump avverte i repubblicani: “Se perdiamo, sarò Mr. Veto”. Ecco le quattro conseguenze",
+      "url": "https://www.lastampa.it/esteri/2026/11/02/news/midterm-trump-conseguenze-repubblicani-democratici-presidenziali-2028-15785152/",
+      "excerpt": "Le Midterm ridisegneranno gli equilibri a Washington e metteranno alla prova la presa di Trump sul Partito repubblicano. Dalla possibile uscita di scena di Hegseth alle ambizioni di Rubio e Vance, fino alla sfida tra moderati e socialisti nel Partito democratico, il voto avrà conseguenze anche sulla corsa alla Casa Bia",
+      "publishedAt": "2026-11-02T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "La nuova frontiera della cocaina: raffinerie clandestine in Italia e chimici colombiani per le mafie",
+      "url": "https://www.lastampa.it/cronaca/2026/11/02/news/chimici_colombiani_e_raffinerie_in_italia_le_cosche_riscrivono_le_regole_della_cocaina-15784985/",
+      "excerpt": "Cinque laboratori sequestrati in un anno tra Calabria, Lazio, Umbria e Toscana. Il ruolo dei clan albanesi",
+      "publishedAt": "2026-11-02T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Educatrice muore per sospetta meningite dopo una giornata all’asilo: profilassi per 180 persone",
+      "url": "https://www.lastampa.it/cronaca/2026/11/02/news/educatrice_d_asilo_muore_nel_bresciano_sospetta_meningite-15785021/",
+      "excerpt": "La donna aveva 53 anni, verrà effettuata l’autopsia. Profilassi per 180 persone per scongiurare il contagio. Il ricordo del sindaco: «Ha accudito tanti bimbi che ricambiavano il suo affetto»",
+      "publishedAt": "2026-11-02T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Quando 60 anni fa l’Arno invase Firenze. L’angelo del fango: “Sento ancora l’odore dell’alluvione”",
+      "url": "https://www.lastampa.it/cronaca/2026/11/02/news/alluvione_firenze_60_anni_intervista_angelo_fango-15785212/",
+      "excerpt": "Cristina Acidini, storica dell’arte e soprintendente del polo museale fiorentino fino al 2014: “Una dura lezione che ha fatto diventare la città capitale mondiale del restauro”",
+      "publishedAt": "2026-11-02T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "La gioia di Kimi Antonelli dopo la vittoria del Mondiale: \"Non credo di aver mai pianto così tanto\"",
+      "url": "https://www.lastampa.it/sport/2026/11/02/video/kimi_antonelli_campione_mondo_lacrime-15785274/",
+      "excerpt": "«È una giornata che ricorderò per sempre. È stata incredibilmente speciale». Kimi Antonelli non nasconde l'emozione dopo aver conquistato il Mondiale di Formula 1 a soli 20 anni, diventando il più giovane campione della storia. Il pilota della Mercedes ha chiuso al terzo posto il Gran Premio di Città del Messico, ripor",
+      "publishedAt": "2026-11-02T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "In migliaia sfidando la pioggia per cantare Guccini: le immagini della Cantata in Piazza Maggiore",
+      "url": "https://www.lastampa.it/cronaca/2026/11/02/video/bologna_migliaia_cantano_guccini_sotto_la_pioggia_il_video-15785254/",
+      "excerpt": "Migliaia di persone si si sono ritrovate in piazza Maggiore, a Bologna, per cantare insieme le canzoni di Francesco Guccini, scomparso il 6 agosto scorso all'età di 86 anni. Nonostante la pioggia, la piazza si è riempita di ombrelli colorati, chitarre e voci per Cantata per un amico – Bologna canta Guccini, l'omaggio c",
+      "publishedAt": "2026-11-02T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Scarsa coesione e contrasti sulla leadership, perché il 45% degli elettori del Campo largo è scettico",
+      "url": "https://www.lastampa.it/politica/2026/11/02/news/scarsa_coesione_e_contrasti_sulla_leadership_il_45_degli_elettori_del_campo_largo_e_scettico-15784900/",
+      "excerpt": "Se Schlein vincesse le primarie, i 5 stelle perderebbero 2 punti. Lo stesso capiterebbe al Pd se la spuntasse Conte",
+      "publishedAt": "2026-11-02T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Serie A, dal tuono di Alajbegovic al mea culpa di Barella. Il pagellone del 10° turno con playlist",
+      "url": "https://www.lastampa.it/sport/2026/11/02/news/il_pagellone_serie_a_decima_giornata_alajbegovic_barella_playlist-15785333/",
+      "excerpt": "Rabiot firma un corner da manuale, la Lazio vola con Pinamonti e il Frosinone non si ferma più. La Juve ritrova il sorriso grazie al talento bosniaco, mentre l'Inter paga gli errori e il Var finisce sul banco degli imputati. Ecco i voti, i protagonisti e la playlist della 10° di campionato",
+      "publishedAt": "2026-11-02T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Tra numeri romani e \"Bella Ciao\", il surreale video di Gualtieri e Mamdani per promuovere l'opera",
+      "url": "https://www.lastampa.it/esteri/2026/11/02/video/gualtieri_mamdami_promozione_opera_surreale-15785287/",
+      "excerpt": "Si apre sulle note di Bella Ciao, il video con cui i sindaci di New York, Zohran Mamdani, e di Roma, Roberto Gualtieri, presentano il programma Opera for All, che prevede 70mila biglietti gratuiti per il Metropolitan Opera di New York durante la stagione 2026-2027. L'iniziativa, promossa dalla municipalità e dal teatro",
+      "publishedAt": "2026-11-02T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Florida, jet si schianta accanto a una strada ed esplode: il video della dashcam, 9 morti",
+      "url": "https://www.lastampa.it/esteri/2026/11/02/video/florida_jet_privato_incidente_aereo_dashcam-15785168/",
+      "excerpt": "Un jet privato precipita accanto a una strada ed esplode subito dopo l'impatto: è la drammatica sequenza ripresa dalla dashcam di un'automobile nella contea di Palm Beach, in Florida, dove un Learjet 60 si è schiantato in una zona residenziale, provocando la morte di tutte le nove persone a bordo. L'aereo era decollato",
+      "publishedAt": "2026-11-02T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Ambra Battilana Gutierrez, dal #MeToo alla battaglia per i diritti delle modelle",
+      "url": "https://www.lastampa.it/cronaca/2026/11/02/news/ambra_battilana_gutierrez_dal_metoo_alla_battaglia_per_i_diritti_delle_modelle-15784761/",
+      "excerpt": "Coinvolta appena diciottenne nelle feste ad Arcore, nel 2015 fu la prima a denunciare Harvey Weinstein: «Non posso cambiare quello che è successo a me. Ma ora combatto perché nessuna si trovi sola come lo sono stata io»",
+      "publishedAt": "2026-11-02T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Aerei, treni, scuola. Il novembre nero degli scioperi: tutte le date e i (possibili) disagi",
+      "url": "https://www.lastampa.it/cronaca/2026/11/02/news/tutti_gli_scioperi_di_novembre_20_cgil-15785162/",
+      "excerpt": "Il 20 la mobilitazione generale indetta dalla Cgil. Ma non sarà l’unico giorno in cui i lavoratori incroceranno le braccia",
+      "publishedAt": "2026-11-02T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Lucia Mascino: “Finalmente anche la tv mi ha tolto dalla gabbia della commedia”",
+      "url": "https://www.lastampa.it/spettacoli/2026/11/02/news/lucia_mascino_finalmente_anche_la_tv_mi_ha_tolto_dalla_gabbia_della_commedia-15784922/",
+      "excerpt": "Dopo il successo della fiction su san Carlo Acutis, l’attrice torna in teatro: «Sul palco con i Monologhi della Vagina, a Lella Costa dico sempre sì»",
+      "publishedAt": "2026-11-02T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Il ritorno dei Miserabili di Hugo: “Un viaggio nel cuore dei malvagi”",
+      "url": "https://www.lastampa.it/spettacoli/2026/11/02/news/il_ritorno_dei_miserabili_di_hugo_un_viaggio_nel_cuore_dei_malvagi-15784927/",
+      "excerpt": "Vincent Lindon protagonista del film di Fred Cavayé con Tahar Rahim",
+      "publishedAt": "2026-11-02T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Spie a caccia di dissidenti, così la mala cinese si è infiltrata a Torino",
+      "url": "https://www.lastampa.it/torino/2026/11/02/news/governo_cinese_spie_dissidenti_cenisia_mala_milano_infiltrati_torino-15785149/",
+      "excerpt": "Appostamenti sotto casa, dash cam sulle auto. A caccia di prove nei bidoni. Dieci indagati, anche per associazione a delinquere",
+      "publishedAt": "2026-11-02T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Il tributo a Senna, lo “zio” Wolff e la patente: Kimi Antonelli in 12 curiosità",
+      "url": "https://www.lastampa.it/sport/2026/11/01/news/i_tributi_a_senna_e_raikkonen_lo_zio_wolff_e_la_patente_kimi_antonelli_in_12_curiosita-15785085/",
+      "excerpt": "CITTÀ DEL MESSICO. IL NUMERO 12 PER SENNA Antonelli ha scelto il numero 12 per la sua avventura in Formula 1: è un omaggio ad Ayrton Senna, da sempre il suo idolo, «mi ...",
       "publishedAt": "2026-11-01T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -39,9 +235,23 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Il tributo a Senna, lo “zio” Wolff e la patente: Kimi Antonelli in 12 curiosità",
-      "url": "https://www.lastampa.it/sport/2026/11/01/news/i_tributi_a_senna_e_raikkonen_lo_zio_wolff_e_la_patente_kimi_antonelli_in_12_curiosita-15785085/",
-      "excerpt": "CITTÀ DEL MESSICO. IL NUMERO 12 PER SENNA Antonelli ha scelto il numero 12 per la sua avventura in Formula 1: è un omaggio ad Ayrton Senna, da sempre il suo idolo, «mi ...",
+      "title": "Colpito l’impianto petrolifero di stoccaggio di Transneft nella regione di Samara",
+      "url": "https://www.lastampa.it/esteri/2026/11/02/diretta/guerra_russia_ucraina_news_oggi-15785119/",
+      "excerpt": "Kiev: «Hackerata la nostra app di allerta aerea dell’aeronautica militare»",
+      "publishedAt": "2026-11-01T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Heidi Klum diventa una gigantesca mano mozzata: il costume di Halloween è impressionante",
+      "url": "https://www.lastampa.it/spettacoli/2026/11/01/video/heidi_klum_halloween_2026_costume_mano_mozzata_gigante_new_york-15784645/",
+      "excerpt": "Una gigantesca mano mozzata, con unghie rosse, anelli e un polso insanguinato. È il nuovo, impressionante costume di Heidi Klum, che per Halloween 2026 si è presentata a New York a bordo di un camion, accompagnata da persone in tute protettive. La modella ha riprodotto la propria mano sinistra, infilando le gambe in du",
+      "publishedAt": "2026-11-01T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Parigi, poliziotto in fiamme dopo essere stato colpito da una molotov: i colleghi corrono a salvarlo",
+      "url": "https://www.lastampa.it/esteri/2026/11/01/video/parigi_molotov_poliziotto_fiamme_proteste_carovita_tentato_omicidio-15784708/",
+      "excerpt": "Un poliziotto in fiamme dopo il lancio di una molotov, i colleghi che intervengono per spegnere il fuoco. Sono le immagini degli scontri scoppiati sabato 31 ottobre a Parigi, all'arrivo del corteo contro il carovita a Porte de Charenton, nel 12° arrondissement. L'ordigno incendiario esplode ai piedi di un gendarme, inc",
       "publishedAt": "2026-11-01T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -60,86 +270,9 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Frosinone show, Toro liquidato in un tempo: 2-0",
-      "url": "https://www.lastampa.it/sport/2026/11/01/news/il_frosinone_batte_il_toro_padroni_di_casa_implacabili_anche_senza_raimondo_infortunato_al_30_-15784737/",
-      "excerpt": "Gli errori dei granata. E la squadra che ospita riesce a capitalizzare la mole di gioco con il vantaggio firmato da Ghedjemis dopo 3 minuti di gioco",
-      "publishedAt": "2026-11-01T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Como-Venezia, caos e polemiche: dal rigore tolto agli insulti sessisti all’arbitra, cosa è successo",
-      "url": "https://www.lastampa.it/sport/2026/11/01/news/como_venezia_rigore_tolto_insulti_arbitra-15784912/",
-      "excerpt": "Un match difficile finito 1-0 per il Como davanti al designatore Orsato, presente sugli spalti del Sinigaglia e decisamente contrariato a fine partita",
-      "publishedAt": "2026-11-01T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Manovra, arriva la stretta agli aumenti degli stipendi dei magistrati",
-      "url": "https://www.lastampa.it/economia/2026/11/01/news/manovra_arriva_la_stretta_agli_aumenti_degli_stipendi_dei_magistrati-15784668/",
-      "excerpt": "Il governo rivede i criteri: torna la media ponderata, esclusi gli arretrati dal calcolo degli adeguamenti",
-      "publishedAt": "2026-11-01T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "La rivalutazione degli assegni, le fasce e la nuova quota 100: cosa cambia per le pensioni",
-      "url": "https://www.lastampa.it/economia/2026/11/01/news/manovra_pensione_novita_inflazione_fasce_quota_100-15784189/",
-      "excerpt": "Come orientarsi tra le novità introdotte in manovra. Per il 2027 confermati l’uscita anticipata per alcune categorie e il salvadanaio per i nuovi nati",
-      "publishedAt": "2026-11-01T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Trump sempre più volgare: le battute oscene, i gestacci e il linguaggio che può costargli voti",
-      "url": "https://www.lastampa.it/esteri/speciali/elezioni-midterm-2026/2026/11/01/news/trump_sempre_piu_volgare_le_battute_oscene_i_gestacci_e_il_linguaggio_che_puo_costargli_voti-15785002/",
-      "excerpt": "I discorsi sono diventati divaganti, apre parentesi che poi non chiude, sfugge dal gobbo spesso non riuscendo a tornare indietro",
-      "publishedAt": "2026-11-01T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Israele, Eisenkot e i voti di arabi e ultraortodossi: ecco il piano per mandare a casa Netanyahu",
-      "url": "https://www.lastampa.it/esteri/2026/11/01/news/israele_eisenkot_netanyahu_voti_arabi_ultraortodossi_governo_maggioranza-15784944/",
-      "excerpt": "Le trattative sono cominciate, ma la fase formale si aprirà mercoledì, con i risultati definitivi e le consultazioni di Herzog con i partiti",
-      "publishedAt": "2026-11-01T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Kiev: “Hackerata la nostra app di allerta aerea dell’aeronautica militare”",
-      "url": "https://www.lastampa.it/esteri/2026/11/02/diretta/guerra_russia_ucraina_news_oggi-15785119/",
-      "excerpt": "«Attenzione: è probabile che l'app “Allarme aereo” sia stata oggetto di un attacco ostile. Mantenete la calma e seguite i nostri aggiornamenti sul nostro canale!». È quanto si ...",
-      "publishedAt": "2026-11-01T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Crisi in Polonia: i sovranisti chiedono l’intervento di Bruxelles, ma la Commissione si chiama fuori",
-      "url": "https://www.lastampa.it/esteri/2026/11/01/news/crisi_polonia_sovranisti_bruxelles_commissione-15784873/",
-      "excerpt": "La sospensione dei vertici della Corte costituzionale riaccende lo scontro istituzionale a Varsavia e solleva i dubbi dei giuristi",
-      "publishedAt": "2026-11-01T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Morta in piscina, svolta dopo un mese: arrestato l’ex marito. Le disse: “Prima o poi ti affogo”",
-      "url": "https://www.lastampa.it/cronaca/2026/11/01/news/trovata_morta_nella_piscina_di_casa_nel_comasco_arrestato_l_ex_marito_per_omicidio-15784562/",
-      "excerpt": "Indagato per omicidio volontario pluriaggravato Carmine Civitillo, 76 anni, ex marito di Patrizia Monteleone, la donna di 64 anni trovata morta lo scorso 27 settembre nella piscina della casa di lui, a Buccinigo",
-      "publishedAt": "2026-11-01T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Delitto nella notte di Halloween, trovato col cranio fracassato in un parcheggio. Sospetti su 30enne",
-      "url": "https://www.lastampa.it/cronaca/2026/11/01/news/ucciso_cranio_fracassato_arezzo_notte_halloween_omicidio-15784607/",
-      "excerpt": "Nato a Milano, la vittima secondo la polizia è stata colpita con un corpo contundente. Indagini della squadra mobile di Arezzo: arrestato un 29enne colombiano",
-      "publishedAt": "2026-11-01T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Maltrattata per 30 anni, a 60 lo denuncia: “La violenza era abitudine”. E il pm archivia",
-      "url": "https://www.lastampa.it/torino/2026/11/01/news/ivrea_maltrattata_per_30_anni_denunci_pm_archiviazione-15784554/",
-      "excerpt": "«Ricordi non precisi». La donna: «Querelare quando sei abituata a soffrire è una fatica. Temo sia stato inutile»",
-      "publishedAt": "2026-11-01T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Dalla riviera ligure ai parchi della Calabria, perché ora c'è il boom delle ciclovie",
-      "url": "https://www.lastampa.it/cronaca/2026/11/01/news/dalla_riviera_ligure_ai_parchi_della_calabria_il_boom_delle_ciclovie-15784703/",
-      "excerpt": "I tracciati italiani conquistano gli appassionati di tutto il mondo, un fenomeno che vale 6,4 miliardi di euro l’anno: “Così salviamo l’economica del territorio”",
+      "title": "\"I miei amori naufragano tutti perché io sono innamorata dell'amore\"",
+      "url": "https://www.lastampa.it/speciale/benessere/amore-non-e-solo-amare/2026/11/01/video/valeria_randone_innamorata_amore-15784009/",
+      "excerpt": "\"I miei amori naufragano tutti perché io sono innamorata dell'amore\" scrive una lettrice al giornale chiedendo come fare a tenere in vita la passione nella coppia Ecco l'analisi della dottoressa Valeria Randone, psicologo e sessuologo clinico a Catania, Milano e online (www.valeriarandone.it), autrice della rubrica \"Am",
       "publishedAt": "2026-11-01T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -151,142 +284,9 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Heidi Klum diventa una gigantesca mano mozzata: il costume di Halloween è impressionante",
-      "url": "https://www.lastampa.it/spettacoli/2026/11/01/video/heidi_klum_halloween_2026_costume_mano_mozzata_gigante_new_york-15784645/",
-      "excerpt": "Una gigantesca mano mozzata, con unghie rosse, anelli e un polso insanguinato. È il nuovo, impressionante costume di Heidi Klum, che per Halloween 2026 si è presentata a New York a bordo di un camion, accompagnata da persone in tute protettive. La modella ha riprodotto la propria mano sinistra, infilando le gambe in du",
-      "publishedAt": "2026-11-01T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Yendry: \"Le nuove generazioni sanno di avere dei diritti, sono felice che stanno lottando\"",
-      "url": "https://www.lastampa.it/spettacoli/2026/11/01/video/yendry_nuove_generazioni_diritti_proteste-15784675/",
-      "excerpt": "«La mia storia è quella di una migrazione». Yendry racconta il proprio percorso personale a La Stampa, dall’esperienza vissuta da bambina alla scelta di trasferirsi all'estero da adulta, e riflette sul tema dei diritti e dell’integrazione. «Penso che protestare sia un diritto e che dobbiamo proteggere le nuove generazi",
-      "publishedAt": "2026-11-01T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Halloween è appena finito, Mariah Carey dà il via al conto alla rovescia per Natale: \"It's time!\"",
-      "url": "https://www.lastampa.it/spettacoli/2026/11/01/video/mariah_carey_natale_2026_video_countdown_its_time-15784629/",
-      "excerpt": "È ufficialmente iniziato il conto alla rovescia per Natale 2026, almeno secondo Mariah Carey. Come ogni 1° novembre, la cantante americana ha pubblicato il suo tradizionale video per inaugurare la stagione delle feste. Quest'anno si presenta prima in versione punk, su un palco di New York, poi allo scoccare della mezza",
-      "publishedAt": "2026-11-01T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "“L’ascesa al Quirinale non è nei miei piani, ma basta razzismo culturale sulla scelta”",
-      "url": "https://www.lastampa.it/politica/2026/11/01/news/meloni_l_ascesa_al_quirinale_non_e_nei_miei_piani_ma_basta_razzismo_culturale_sulla_scelta-15784595/",
-      "excerpt": "La premier nell’ultimo libro di Bruno Vespa: «Sono concentrata a chiudere bene questo mandato e a chiedere agli italiani di confermarmi la loro fiducia per altri cinque anni»",
-      "publishedAt": "2026-11-01T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Iva Zanicchi, il “vaffa” a Mediaset e il prezzo “ingiusto”",
-      "url": "https://www.lastampa.it/spettacoli/2026/11/01/news/zanicchi_e_il_vaffa_a_mediaset_non_mi_avete_chiamata_per_il_ritorno_di_ok_il_prezzo_e_giusto-15784856/",
-      "excerpt": "La cantante sbotta in diretta rispondendo alle domande di Mara Venier a Domenica in",
-      "publishedAt": "2026-11-01T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Deep Purple, Ian Gillan ricoverato d’urgenza in ospedale: annullati due concerti",
-      "url": "https://www.lastampa.it/spettacoli/2026/11/01/news/deep_purple_ian_gillan_ricoverato_d_urgenza_in_ospedale_annullati_due_concerti-15784610/",
-      "excerpt": "Il cantante 81enne è stato colpito da un'emergenza medica. La band ha cancellato le prime due date tedesche del tour «Splat!»",
-      "publishedAt": "2026-11-01T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "\"I miei amori naufragano tutti perché io sono innamorata dell'amore\"",
-      "url": "https://www.lastampa.it/speciale/benessere/amore-non-e-solo-amare/2026/11/01/video/valeria_randone_innamorata_amore-15784009/",
-      "excerpt": "\"I miei amori naufragano tutti perché io sono innamorata dell'amore\" scrive una lettrice al giornale chiedendo come fare a tenere in vita la passione nella coppia Ecco l'analisi della dottoressa Valeria Randone, psicologo e sessuologo clinico a Catania, Milano e online (www.valeriarandone.it), autrice della rubrica \"Am",
-      "publishedAt": "2026-11-01T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
       "title": "Un esercito di scheletri invade Città del Messico: le immagini spettacolari della festa dei morti",
       "url": "https://www.lastampa.it/video/socialnews/2026/11/01/video/giorno_dei_morti_messico_sfilata_citta_del_messico_scheletri_parata_2026-15784656/",
       "excerpt": "Scheletri giganti, maschere, fiori e musica trasformano le strade di Città del Messico in un'immensa festa per il Día de Muertos, il Giorno dei Morti. Sabato 31 ottobre, la grande parata ha attraversato il Paseo de la Reforma fino allo Zócalo, la piazza principale della capitale. Secondo le autorità cittadine, 1,6 mili",
-      "publishedAt": "2026-11-01T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Guerra, carovita e proteste: il messaggio di Mattarella ai giovani",
-      "url": "https://www.lastampa.it/cronaca/2026/11/01/video/mattarella_giovani_scontri_proteste_guerra_carovita_futuro_quirinale-15784627/",
-      "excerpt": "Dopo i cortei contro il carovita, il riarmo e la guerra, segnati anche da scontri e tensioni con le forze dell'ordine, il presidente della Repubblica Sergio Mattarella richiama le nuove generazioni alla responsabilità. Ricevendo al Quirinale, il 31 ottobre, una delegazione di studenti del collegio Villa Nazareth, guida",
-      "publishedAt": "2026-11-01T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Parigi, poliziotto in fiamme dopo essere stato colpito da una molotov: i colleghi corrono a salvarlo",
-      "url": "https://www.lastampa.it/esteri/2026/11/01/video/parigi_molotov_poliziotto_fiamme_proteste_carovita_tentato_omicidio-15784708/",
-      "excerpt": "Un poliziotto in fiamme dopo il lancio di una molotov, i colleghi che intervengono per spegnere il fuoco. Sono le immagini degli scontri scoppiati sabato 31 ottobre a Parigi, all'arrivo del corteo contro il carovita a Porte de Charenton, nel 12° arrondissement. L'ordigno incendiario esplode ai piedi di un gendarme, inc",
-      "publishedAt": "2026-11-01T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Torna la neve sull'Appennino, da Pescasseroli a Roccaraso la magia imbianca paesi e strade",
-      "url": "https://www.lastampa.it/cronaca/2026/11/01/video/torna_la_neve_sullappennino_da_pescasseroli_a_roccaraso_la_magia_imbianca_paesi_e_strade-15784956/",
-      "excerpt": "Il calo delle temperature e l'arrivo di una saccatura in moto retrogrado dall'est Europa, ha portato la prima neve a bassa quota sull'Appennino. Merito delle masse d'aria fredda in discesa dall'Europa nord-orientale che hanno fatto il loro ingresso sul bacino del Mediterraneo. Risultato: già dai mille metri di quota i ",
-      "publishedAt": "2026-11-01T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Le idee e il dovere etico dell’obiettività. Un confine smarrito nelle urla dei social",
-      "url": "https://www.lastampa.it/de-giovanni-risponde/2026/11/01/news/le_idee_e_il_dovere_etico_dell_obiettivita_un_confine_smarrito_nelle_urla_dei_social-15784432/",
-      "excerpt": "Le invettive dividono il popolo dei lettori in tifoserie. Con effetti devastanti",
-      "publishedAt": "2026-11-01T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Ai, la paura corre a Wall Street: in ottobre evaporati 2.700 miliardi",
-      "url": "https://www.lastampa.it/economia/2026/11/01/news/ai_paura_wall_street_miliardi_intelligenza_artificiale_bolla-15784411/",
-      "excerpt": "Gli investitori temono i troppi debiti per gli investimenti futuri e fanno analogie con la bolla delle dot-com. L’indice Nasdaq-100 nel mese appena chiuso ha lasciato sul terreno il 6,7% del valore",
-      "publishedAt": "2026-11-01T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Recupero del suolo, Alessandria è la città più virtuosa del Piemonte: 12 ettari “salvati” in un anno",
-      "url": "https://www.lastampa.it/alessandria/2026/11/01/news/recupero_suolo_alessandria_prima_piemonte_12_ettari_salvati_ispra-15784292/",
-      "excerpt": "La provincia arranca schiacciata dalla logistica, ma il capoluogo va in controtendenza netta ed è il migliore in regione. Il sindaco Abonante: “Obiettivo perseguito fin da subito dalla nostra giunta, giusto lo sviluppo ma con sostenibilità”",
-      "publishedAt": "2026-11-01T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Vandali a Borgo, dopo la lite in strada devastate sei auto a colpi di spranga",
-      "url": "https://www.lastampa.it/cuneo/2026/11/01/news/vandali_a_borgo_dopo_la_lite_in_strada_devastate_sei_auto_con_una_spranga-15784689/",
-      "excerpt": "Altro che «dolcetto o scherzetto». Per sei automobilisti di Borgo San Dalmazzo, il risveglio di questa mattina (domenica 1° novembre), dopo la festa di Halloween, ha riservato una ...",
-      "publishedAt": "2026-11-01T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Raid di rapinatori in monopattino nel centro di Chieri: 6 ragazzini picchiati e derubati",
-      "url": "https://www.lastampa.it/torino/2026/11/01/news/chieri_rapinatori_monopattino_sei_minorenni_picchiati_derubati-15784618/",
-      "excerpt": "C’è un parziale identikit degli aggressori, i carabinieri stanno visionando le immagini delle telecamere sparse per la città",
-      "publishedAt": "2026-11-01T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Il Mottarone rimane senza telefonia fissa: “Così siamo isolati”",
-      "url": "https://www.lastampa.it/verbano-cusio-ossola/2026/11/01/news/mottarone_rimane_senza_telefonia_fissa-15784468/",
-      "excerpt": "Proteste di baristi e ristoratori: “I clienti non ci trovano più”. Disattivata la centrale, il sindaco di Stresa chiede chiarimenti",
-      "publishedAt": "2026-11-01T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Artissima, il volto di Sky Arte Nicolas Ballario balla sui tavoli di un'enoteca a Torino",
-      "url": "https://www.lastampa.it/torino/2026/11/01/video/artissima_nicolas_ballario_balla_tavoli_enoteca_san_salvario-15784727/",
-      "excerpt": "Dai programmi televisivi sull’arte contemporanea ai balli sui tavoli di un’enoteca torinese. Nicolas Ballario, tra i più noti divulgatori d’arte italiani, si scatena da Oinos Vini, il locale di Sergio Rovasio nel quartiere San Salvario a Torino, durante la settimana di Artissima 2026. Giornalista, critico d’arte e cura",
-      "publishedAt": "2026-11-01T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Michelle Hunziker: “La famiglia e il lavoro mi danno energia. I miei ex? Per me sono come fratelli”",
-      "url": "https://www.lastampa.it/specchio/rubriche/a-tu-per-tu/2026/11/01/news/la_famiglia_e_il_lavoro_mi_danno_energia_i_miei_ex_per_me_sono_come_fratelli-15782150/",
-      "excerpt": "Nel 1994 in Paura dei cinquanta Erica Jong ha scritto: «So che quando entro in una stanza non sono più la più giovane, né la più bella». Ha scritto anche che non le importava, e non ...",
-      "publishedAt": "2026-11-01T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Il sesso del terzo tempo e i discorsi sull’amore",
-      "url": "https://www.lastampa.it/specchio/rubriche/la-grande-vecchia/2026/11/01/news/il_sesso_del_terzo_tempo_e_i_discorsi_sull_amore-15781953/",
-      "excerpt": "Tutti facciamo i conti con il tempo che passa. Noi donne di più",
       "publishedAt": "2026-11-01T00:00:00Z",
       "dateEvidence": "feed:published"
     }
@@ -302,5 +302,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 0.66
+  "durationSeconds": 0.87
 }

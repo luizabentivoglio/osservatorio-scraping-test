@@ -4,7 +4,7 @@
   "sourceId": "camera",
   "originUrl": "https://www.camera.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-02T01:51:01.420784Z",
+  "collectedAt": "2026-11-02T10:00:10.856025Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -18,16 +18,16 @@
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "Interpellanze e interrogazioni, decreto prezzi petroliferi",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63730",
-      "excerpt": "La Camera è convocata martedì 3 novembre alle ore 10 per lo svolgimento di interpellanze e interro...",
+      "title": "Giornata dell'Unità Nazionale e delle Forze Armate – Mercoledì Montecitorio si illumina con il tricolore nazionale",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63725",
+      "excerpt": "In occasione della Giornata dell'Unità Nazionale e delle Forze Armate, la facciata di Montecitorio ...",
       "publishedAt": "2026-10-30T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "Audizioni Copasir – Martedì Valensise – Mercoledì Quacivi",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63742",
-      "excerpt": "Il Comitato parlamentare per la sicurezza della Repubblica (Copasir) svolge le seguenti audizioni, a...",
+      "title": "Interpellanze e interrogazioni, decreto prezzi petroliferi",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63730",
+      "excerpt": "La Camera è convocata martedì 3 novembre alle ore 10 per lo svolgimento di interpellanze e interro...",
       "publishedAt": "2026-10-30T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
@@ -39,16 +39,16 @@
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "Giornata dell'Unità Nazionale e delle Forze Armate – Mercoledì Montecitorio si illumina con il tricolore nazionale",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63725",
-      "excerpt": "In occasione della Giornata dell'Unità Nazionale e delle Forze Armate, la facciata di Montecitorio ...",
+      "title": "Celebrare Pier Paolo Pasolini nel giorno della sua scomparsa - Lunedì alle 17.30 diretta webtv",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63740",
+      "excerpt": "Lunedì 2 novembre, alle ore 17.30, presso la Sala del Mappamondo di Montecitorio si svolge il conve...",
       "publishedAt": "2026-10-30T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "Celebrare Pier Paolo Pasolini nel giorno della sua scomparsa - Lunedì alle 17.30 diretta webtv",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63740",
-      "excerpt": "Lunedì 2 novembre, alle ore 17.30, presso la Sala del Mappamondo di Montecitorio si svolge il conve...",
+      "title": "Audizioni Copasir – Martedì Valensise – Mercoledì Quacivi",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63742",
+      "excerpt": "Il Comitato parlamentare per la sicurezza della Repubblica (Copasir) svolge le seguenti audizioni, a...",
       "publishedAt": "2026-10-30T00:00:00Z",
       "dateEvidence": "html:publication-label"
     }
@@ -67,11 +67,11 @@
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63730",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63725",
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63742",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63730",
       "status": 200
     },
     {
@@ -79,11 +79,11 @@
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63725",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63740",
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63740",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63742",
       "status": 200
     }
   ],
@@ -92,5 +92,5 @@
   "candidateCount": 11,
   "datedCount": 6,
   "listingUrl": "https://comunicazione.camera.it/archivio-prima-pagina",
-  "durationSeconds": 3.9
+  "durationSeconds": 4.26
 }

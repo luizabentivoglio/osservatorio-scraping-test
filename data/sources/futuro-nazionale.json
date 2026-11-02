@@ -4,7 +4,7 @@
   "sourceId": "futuro-nazionale",
   "originUrl": "https://futuronazionale.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-02T01:51:27.201231Z",
+  "collectedAt": "2026-11-02T10:00:38.548161Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
@@ -25,5 +25,5 @@
     }
   ],
   "message": "Feed dichiarato dalla fonte; date di pubblicazione verificate.",
-  "durationSeconds": 2.36
+  "durationSeconds": 1.8
 }

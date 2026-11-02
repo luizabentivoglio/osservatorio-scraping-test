@@ -4,52 +4,52 @@
   "sourceId": "il-post",
   "originUrl": "https://www.ilpost.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-02T01:51:32.556442Z",
+  "collectedAt": "2026-11-02T10:00:44.201347Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
+      "title": "Che si dice di Kimi Antonelli",
+      "url": "https://www.ilpost.it/2026/11/02/kimi-antonelli-vittoria-formula-1-prime-pagine-commenti-giornali-italia-estero/?homepagePosition=0.2&referrerPost=3712785",
+      "excerpt": "Foto, titoli e commenti dai giornali di tutto il mondo sul più giovane vincitore di sempre del Mondiale di Formula 1",
+      "publishedAt": "2026-11-02T08:10:18Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "In Germania sono stati segnalati alla polizia casi di spilli trovati nelle caramelle di Halloween",
+      "url": "https://www.ilpost.it/2026/11/02/germania-spilli-caramelle-halloween/?bitPosition=1",
+      "excerpt": "In Germania sono stati segnalati alla polizia casi di spilli trovati nelle caramelle di Halloween - Condividi - X - Regala il Post La polizia tedesca ha detto di aver raccolto diverse segnalazioni di spilli e altri oggetti metallici affilati trovati nelle caramelle raccolte dai bambini che facevano “dolcetto o scherzet",
+      "publishedAt": "2026-11-02T07:53:08Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "I clienti della piattaforma di criptovalute Binance hanno prelevato più di 3 miliardi di euro, dopo il grande furto di venerdì",
+      "url": "https://www.ilpost.it/2026/11/02/clienti-binance-prelievo-furto/?bitPosition=2",
+      "excerpt": "I clienti della piattaforma di criptovalute Binance hanno prelevato più di 3 miliardi di euro, dopo il grande furto di venerdì - Condividi - X - Regala il Post Domenica, nel primo giorno in cui Binance ha riattivato gradualmente i prelievi dopo un attacco informatico, i suoi clienti hanno ritirato dalla piattaforma cri",
+      "publishedAt": "2026-11-02T06:15:19Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "In Serbia due importanti capi della polizia sono stati arrestati con l’accusa di abuso d’ufficio",
+      "url": "https://www.ilpost.it/2026/11/02/serbia-arresti-capi-polizia-2026/?bitPosition=3",
+      "excerpt": "In Serbia due importanti capi della polizia sono stati arrestati con l’accusa di abuso d’ufficio - Condividi - X - Regala il Post Due importanti capi della polizia in Serbia sono stati arrestati domenica mattina, entrambi con l’accusa di abuso d’ufficio. Sono Marko Kričak, il capo della direzione della polizia criminal",
+      "publishedAt": "2026-11-02T05:26:21Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "Le foto e i video dei festeggiamenti di Kimi Antonelli, nuovo campione del mondo di Formula 1",
+      "url": "https://www.ilpost.it/2026/11/02/kimi-antonelli-mondiale-formula-1-foto/?homepagePosition=0.1&referrerPost=3712785",
+      "excerpt": "In Messico, dopo un Gran Premio terminato sul podio con Lewis Hamilton e Max Verstappen",
+      "publishedAt": "2026-11-01T22:25:26Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
       "title": "Il Mondiale di Kimi Antonelli",
-      "url": "https://www.ilpost.it/2026/11/01/kimi-antonelli-mondiale-2026-formula-1-gran-premi/?homepagePosition=0.2&referrerPost=3712718",
+      "url": "https://www.ilpost.it/2026/11/01/kimi-antonelli-mondiale-2026-formula-1-gran-premi/?homepagePosition=0",
       "excerpt": "Com'è andata gara-per-gara, ora che l'ha vinto",
       "publishedAt": "2026-11-01T21:34:41Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Kimi Antonelli ha vinto il Mondiale di Formula 1",
-      "url": "https://www.ilpost.it/2026/11/01/kimi-antonelli-ha-vinto-mondiale-formula-1-2026-mercedes/?homepagePosition=0",
-      "excerpt": "È il più giovane pilota di sempre a farcela, e il primo italiano dal 1953",
-      "publishedAt": "2026-11-01T21:25:17Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Un piccolo aereo con 9 persone a bordo si è schiantato su un centro abitato in Florida, negli Stati Uniti",
-      "url": "https://www.ilpost.it/2026/11/01/aereo-schianto-florida/?bitPosition=1",
-      "excerpt": "Un piccolo aereo con 9 persone a bordo si è schiantato su un centro abitato in Florida, negli Stati Uniti - Condividi - X - Regala il Post Domenica pomeriggio un piccolo jet con a bordo nove persone si è schiantato violentemente a terra in un quartiere residenziale nella contea di Palm Beach, in Florida, negli Stati Un",
-      "publishedAt": "2026-11-01T20:20:05Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "A Londra ci sono stati 325 arresti durante un raduno a sostegno di Palestine Action, organizzazione vietata nel Regno Unito",
-      "url": "https://www.ilpost.it/2026/11/01/londra-regno-unito-arresti-raduno-palestine-action/?bitPosition=2",
-      "excerpt": "A Londra ci sono stati 325 arresti durante un raduno a sostegno di Palestine Action, organizzazione vietata nel Regno Unito - Condividi - X - Regala il Post Sabato a Londra 325 persone sono state arrestate per aver partecipato a una manifestazione a sostegno di Palestine Action, un’organizzazione classificata come terr",
-      "publishedAt": "2026-11-01T16:33:45Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "La Russia ha arrestato un minorenne sospettato di preparare un attentato a Mosca, dopo un’allerta degli Stati Uniti",
-      "url": "https://www.ilpost.it/2026/11/01/mosca-avvertimento-attentato-palazzo-tsaritsyno-arresto/?bitPosition=3",
-      "excerpt": "La Russia ha arrestato un minorenne sospettato di preparare un attentato a Mosca, dopo un’allerta degli Stati Uniti - Condividi - X - Regala il Post Domenica l’FSB, cioè i servizi di intelligence russi, ha detto di aver arrestato un minorenne russo sospettato di voler compiere un attentato terroristico nel parco Tsarit",
-      "publishedAt": "2026-11-01T15:05:57Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Kimi Antonelli prima della Formula 1",
-      "url": "https://www.ilpost.it/2026/10/25/kimi-antonelli-predestinato-storia-kart-mercedes-junior-program-formula-2/?homepagePosition=0.1&referrerPost=3712718",
-      "excerpt": "Forte, vincente, predestinato: scelto, quando ancora non aveva la patente, per prendere il posto di Lewis Hamilton",
-      "publishedAt": "2026-10-25T06:44:13Z",
       "dateEvidence": "jsonld:datePublished"
     }
   ],
@@ -63,27 +63,27 @@
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/01/kimi-antonelli-ha-vinto-mondiale-formula-1-2026-mercedes/?homepagePosition=0",
+      "url": "https://www.ilpost.it/2026/11/01/kimi-antonelli-mondiale-2026-formula-1-gran-premi/?homepagePosition=0",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/10/25/kimi-antonelli-predestinato-storia-kart-mercedes-junior-program-formula-2/?homepagePosition=0.1&referrerPost=3712718",
+      "url": "https://www.ilpost.it/2026/11/02/kimi-antonelli-mondiale-formula-1-foto/?homepagePosition=0.1&referrerPost=3712785",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/01/kimi-antonelli-mondiale-2026-formula-1-gran-premi/?homepagePosition=0.2&referrerPost=3712718",
+      "url": "https://www.ilpost.it/2026/11/02/kimi-antonelli-vittoria-formula-1-prime-pagine-commenti-giornali-italia-estero/?homepagePosition=0.2&referrerPost=3712785",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/01/aereo-schianto-florida/?bitPosition=1",
+      "url": "https://www.ilpost.it/2026/11/02/germania-spilli-caramelle-halloween/?bitPosition=1",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/01/londra-regno-unito-arresti-raduno-palestine-action/?bitPosition=2",
+      "url": "https://www.ilpost.it/2026/11/02/clienti-binance-prelievo-furto/?bitPosition=2",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/01/mosca-avvertimento-attentato-palazzo-tsaritsyno-arresto/?bitPosition=3",
+      "url": "https://www.ilpost.it/2026/11/02/serbia-arresti-capi-polizia-2026/?bitPosition=3",
       "status": 200
     }
   ],
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.ilpost.it/",
-  "durationSeconds": 3.57
+  "durationSeconds": 3.54
 }

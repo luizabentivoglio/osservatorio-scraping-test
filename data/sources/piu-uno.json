@@ -4,12 +4,19 @@
   "sourceId": "piu-uno",
   "originUrl": "https://piu.uno/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-02T01:52:00.180244Z",
+  "collectedAt": "2026-11-02T10:01:13.314094Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "Prima la targa, poi la salute · Più Uno",
+      "url": "https://piu.uno/notizie/prima-la-targa-poi-la-salute",
+      "excerpt": "Finalmente abbiamo capito la gerarchia dei valori del governo Meloni. Prima l'auto, poi la targa, e solo dopo, se avanza qualcosa, la salute degli italiani. Del resto è logico, un'automobile, a differenza di un paziente, non si mette in lista d'attesa. Le Regioni hanno chiesto circa 6,8 miliardi per il 2027, e oltre 18",
+      "publishedAt": "2026-11-01T00:00:00Z",
+      "dateEvidence": "html:publication-time"
+    },
     {
       "title": "I soldi non bastano e le famiglie pagano il conto · Più Uno",
       "url": "https://piu.uno/notizie/i-soldi-non-bastano-e-le-famiglie-pagano-il-conto",
@@ -37,13 +44,6 @@
       "excerpt": "Centosette pagine e quarantaquattro proposte, ciascuna corredata da copertura economica e dalla risposta alle due domande più frequenti tra gli elettori: «Perché serve e che cosa cambia? Il corposo librettino di proposte programmatiche di Più Uno circola per la sala della Stampa Estera a Palazzo Gazioli come se fosse u",
       "publishedAt": "2026-10-23T00:00:00Z",
       "dateEvidence": "html:publication-time"
-    },
-    {
-      "title": "Ruffini, il Più Uno del centrosinistra: “Nel campo largo c’è bisogno di nuovi elettori, con le Partite Iva il Fisco è ingiusto” · Più Uno",
-      "url": "https://piu.uno/notizie/intervista-ruffini-il-riformista-nuovi-elettori",
-      "excerpt": "Recuperare i consensi dell’area del non voto: la scommessa dell’ex direttore delle Entrate con Più Uno: “Serve generosità per costruire una sola lista unitaria che partecipi alle primarie e poi alle Politiche” Ernesto Maria Ruffini, avvocato tributarista, ha diretto l’Agenzia delle Entrate dal 2017 al 2018 e dal 2020 a",
-      "publishedAt": "2026-10-23T00:00:00Z",
-      "dateEvidence": "html:publication-time"
     }
   ],
   "attempts": [
@@ -53,6 +53,10 @@
     },
     {
       "url": "https://piu.uno/",
+      "status": 200
+    },
+    {
+      "url": "https://piu.uno/notizie/prima-la-targa-poi-la-salute",
       "status": 200
     },
     {
@@ -72,10 +76,6 @@
       "status": 200
     },
     {
-      "url": "https://piu.uno/notizie/intervista-ruffini-il-riformista-nuovi-elettori",
-      "status": 200
-    },
-    {
       "url": "https://piu.uno/partecipa/eventi/9-novembre-appuntamento-a-chieti-con-franco-gabrielli",
       "status": 200
     }
@@ -85,5 +85,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://piu.uno/",
-  "durationSeconds": 3.71
+  "durationSeconds": 3.6
 }

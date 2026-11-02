@@ -4,7 +4,7 @@
   "sourceId": "pagella-politica",
   "originUrl": "https://pagellapolitica.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-02T01:51:47.813156Z",
+  "collectedAt": "2026-11-02T10:00:59.909351Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -92,5 +92,5 @@
   "candidateCount": 6,
   "datedCount": 6,
   "listingUrl": "https://pagellapolitica.it/articoli",
-  "durationSeconds": 5.07
+  "durationSeconds": 6.24
 }

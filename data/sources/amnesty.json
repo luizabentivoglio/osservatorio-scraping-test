@@ -4,12 +4,19 @@
   "sourceId": "amnesty",
   "originUrl": "https://www.amnesty.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-02T01:51:01.415406Z",
+  "collectedAt": "2026-11-02T10:00:09.437894Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "Ucraina: pericolosi attacchi russi alle infrastrutture",
+      "url": "https://www.amnesty.it/ucraina-pericolosi-attacchi-russi-alle-infrastrutture/",
+      "excerpt": "Gli attacchi della Russia contro le infrastrutture energetiche in Ucraina, rischiano di creare una nuova catastrofe umanitaria.",
+      "publishedAt": "2026-11-02T09:16:34Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
     {
       "title": "Italia: preoccupazioni sulla gestione delle manifestazioni",
       "url": "https://www.amnesty.it/italia-gestione-ordine-pubblico-manifestazioni/",
@@ -22,13 +29,6 @@
       "url": "https://www.amnesty.it/conferenza-pubblica-forum-europeo-tutela-spazio-civico/",
       "excerpt": "Conferenza \"Chi protegge chi difende i diritti?\" sulla tutela dello spazio civico, con organizzazioni della società civile.",
       "publishedAt": "2026-10-27T14:32:32Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "La storia di Enrico Lombardo",
-      "url": "https://www.amnesty.it/la-storia-di-enrico-lombardo/",
-      "excerpt": "Enrico Lombardo è morto durante un fermo di polizia la notte tra il 26 e 27 ottobre 2019. Raccontiamo la sua storia, ancora senza giustizia.",
-      "publishedAt": "2026-10-27T07:00:10Z",
       "dateEvidence": "jsonld:datePublished"
     }
   ],
@@ -54,15 +54,15 @@
       "status": 200
     },
     {
+      "url": "https://www.amnesty.it/ucraina-pericolosi-attacchi-russi-alle-infrastrutture/",
+      "status": 200
+    },
+    {
       "url": "https://www.amnesty.it/italia-gestione-ordine-pubblico-manifestazioni/",
       "status": 200
     },
     {
       "url": "https://www.amnesty.it/conferenza-pubblica-forum-europeo-tutela-spazio-civico/",
-      "status": 200
-    },
-    {
-      "url": "https://www.amnesty.it/la-storia-di-enrico-lombardo/",
       "status": 200
     }
   ],
@@ -90,5 +90,5 @@
   "candidateCount": 12,
   "datedCount": 3,
   "listingUrl": "https://www.amnesty.it/",
-  "durationSeconds": 6.06
+  "durationSeconds": 5.74
 }

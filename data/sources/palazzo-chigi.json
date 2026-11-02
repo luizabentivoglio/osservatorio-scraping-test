@@ -4,12 +4,19 @@
   "sourceId": "palazzo-chigi",
   "originUrl": "https://www.governo.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-02T01:51:48.346482Z",
+  "collectedAt": "2026-11-02T10:01:00.451681Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.governo.it/feed/rss",
   "items": [
+    {
+      "title": "Operazione della Polizia di Stato contro la criminalità giovanile, dichiarazione del Presidente Meloni",
+      "url": "https://www.governo.it/it/articolo/operazione-della-polizia-di-stato-contro-la-criminalit-giovanile-dichiarazione-del",
+      "excerpt": "Desidero esprimere il mio apprezzamento e la mia gratitudine alla Polizia di Stato per la vasta operazione condotta su tutto il territorio nazionale contro la criminalità giovanile, che ha portato a centinaia di arresti, migliaia di denunce e al sequestro di ingenti quantitativi di droga e armi. Un risultato importante",
+      "publishedAt": "2026-11-02T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "Incidente aereo in Bosnia, il Presidente Meloni rende omaggio alle vittime al Villaggio Difesa",
       "url": "https://www.governo.it/it/articolo/incidente-aereo-bosnia-il-presidente-meloni-rende-omaggio-alle-vittime-al-villaggio-difesa",
@@ -72,13 +79,6 @@
       "excerpt": "Criteri e modalità di riparto del Fondo unico per l’inclusione delle persone con disabilità ai fini, per l’anno 2026, di cui all’articolo 1, comma 213, lettera f), della legge 30 dicembre 2023, n. 213: interventi finalizzati al riconoscimento del valore sociale ed economico dell’attività di cura non professionale del c",
       "publishedAt": "2026-10-28T11:26:46Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Incidente ferroviario in Spagna, dichiarazione del Presidente Meloni",
-      "url": "https://www.governo.it/it/articolo/incidente-ferroviario-spagna-dichiarazione-del-presidente-meloni/32955",
-      "excerpt": "In queste ore così difficili, il Governo italiano è vicino alla Spagna e al popolo spagnolo per il drammatico incidente ferroviario avvenuto nei pressi di Toledo. I miei pensieri e quelli di tutto il nostro Governo vanno ai familiari delle vittime, ai feriti e a quanti stanno lavorando senza sosta nelle operazioni di s",
-      "publishedAt": "2026-10-28T09:55:32Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -100,5 +100,5 @@
     }
   ],
   "message": "Feed dichiarato dalla fonte; date di pubblicazione verificate.",
-  "durationSeconds": 30.11
+  "durationSeconds": 30.12
 }

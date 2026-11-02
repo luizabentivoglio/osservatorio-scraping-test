@@ -4,12 +4,19 @@
   "sourceId": "coldiretti",
   "originUrl": "https://www.coldiretti.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-02T01:51:01.422495Z",
+  "collectedAt": "2026-11-02T10:00:15.113814Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "Due novembre: fiori nei cimiteri per 2 italiani su 3",
+      "url": "https://www.coldiretti.it/economia/due-novembre-fiori-nei-cimiteri-per-2-italiani-su-3",
+      "excerpt": "Quasi due italiani su tre portano fiori nei cimiteri in occasione della ricorrenza di Ognissanti e della commemorazione dei defunti",
+      "publishedAt": "2026-11-02T07:18:23Z",
+      "dateEvidence": "meta:article:published_time"
+    },
     {
       "title": "Coldiretti Pesca: dalle farm alle reti intelligenti, il tonno made in Italy punta su innovazione e origine",
       "url": "https://www.coldiretti.it/economia/coldiretti-pesca-dalle-farm-alle-reti-intelligenti-il-tonno-made-in-italy-punta-su-innovazione-e-origine",
@@ -22,13 +29,6 @@
       "url": "https://www.coldiretti.it/economia/halloween-zucca-economy-oltre-30milioni-di-euro-tra-cucina-intaglio-e-campi-tematici",
       "excerpt": "Dalla terra coltivata alle feste nei “pumpkin patch”, dei veri campi di zucca, cresce il turismo legato al prodotto",
       "publishedAt": "2026-10-31T10:57:37Z",
-      "dateEvidence": "meta:article:published_time"
-    },
-    {
-      "title": "Pesca, Cetara capitale europea del tonno rosso",
-      "url": "https://www.coldiretti.it/economia/pesca-cetara-capitale-europea-del-tonno-rosso-due-giorni-per-disegnare-il-futuro-della-filiera",
-      "excerpt": "l 30 e 31 ottobre il confronto tra operatori, istituzioni, esperti italiani ed europei su sostenibilità, nuovi mercati, aumento dei costi",
-      "publishedAt": "2026-10-28T10:41:54Z",
       "dateEvidence": "meta:article:published_time"
     },
     {
@@ -63,7 +63,7 @@
       "status": 200
     },
     {
-      "url": "https://www.coldiretti.it/economia/pesca-cetara-capitale-europea-del-tonno-rosso-due-giorni-per-disegnare-il-futuro-della-filiera",
+      "url": "https://www.coldiretti.it/economia/due-novembre-fiori-nei-cimiteri-per-2-italiani-su-3",
       "status": 200
     },
     {
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.coldiretti.it/",
-  "durationSeconds": 10.28
+  "durationSeconds": 9.21
 }

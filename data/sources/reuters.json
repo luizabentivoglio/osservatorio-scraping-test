@@ -4,7 +4,7 @@
   "sourceId": "reuters",
   "originUrl": "https://www.reuters.com/world/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-01T22:28:28.992283Z",
+  "collectedAt": "2026-11-02T10:01:17.288731Z",
   "status": "blocked",
   "diagnosticCode": "robots_disallowed",
   "method": "html",
@@ -16,8 +16,8 @@
       "status": 200
     }
   ],
-  "message": "Percorso escluso da robots.txt; prossimo controllo dopo quattro ore.",
+  "message": "Percorso escluso da robots.txt",
   "httpStatus": null,
   "failedUrl": "https://www.reuters.com/world/",
-  "durationSeconds": 0.34
+  "durationSeconds": 0.52
 }

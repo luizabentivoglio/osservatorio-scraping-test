@@ -4,7 +4,7 @@
   "sourceId": "mef",
   "originUrl": "https://www.mef.gov.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-02T01:51:40.855374Z",
+  "collectedAt": "2026-11-02T10:00:52.668704Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -75,5 +75,5 @@
   "candidateCount": 11,
   "datedCount": 6,
   "listingUrl": "https://www.mef.gov.it/",
-  "durationSeconds": 4.71
+  "durationSeconds": 4.78
 }
