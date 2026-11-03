@@ -4,31 +4,31 @@
   "sourceId": "il-post",
   "originUrl": "https://www.ilpost.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-02T20:32:11.023713Z",
+  "collectedAt": "2026-11-03T03:44:48.484556Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
+      "title": "Almeno 26 persone sono state uccise dai bombardamenti russi contro un centro per la distribuzione di aiuti umanitari a Komyshuvakha, in Ucraina",
+      "url": "https://www.ilpost.it/2026/11/02/bombardamenti-russi-komyshuvakha/?bitPosition=1",
+      "excerpt": "Almeno 26 persone sono state uccise dai bombardamenti russi contro un centro per la distribuzione di aiuti umanitari a Komyshuvakha, in Ucraina - Condividi - X - Regala il Post Giovedì almeno 26 persone sono state uccise in dei bombardamenti contro una scuola adibita a centro per la distribuzione di aiuti umanitari a K",
+      "publishedAt": "2026-11-02T21:40:09Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
       "title": "Ci sono malfunzionamenti anche in supermercati italiani, probabilmente dovuti ad attacchi informatici",
-      "url": "https://www.ilpost.it/2026/11/02/malfunzionamenti-supermercati-sicilia-attacchi-informatici/?bitPosition=1",
+      "url": "https://www.ilpost.it/2026/11/02/malfunzionamenti-supermercati-sicilia-attacchi-informatici/?bitPosition=2",
       "excerpt": "Ci sono malfunzionamenti anche in supermercati italiani, probabilmente dovuti ad attacchi informatici - Condividi - X - Regala il Post Lunedì ci sono stati malfunzionamenti ai frigoriferi di alcuni supermercati in Sicilia, Emilia-Romagna e Toscana. Decine di episodi analoghi erano stati segnalati a partire dalla mattin",
       "publishedAt": "2026-11-02T18:20:36Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
       "title": "I Laburisti britannici hanno rivisto i criteri per la richiesta del permesso di soggiorno permanente, ma non per tutti",
-      "url": "https://www.ilpost.it/2026/11/02/regno-unito-laburisti-misure-richiesta-permesso-soggiorno/?bitPosition=2",
+      "url": "https://www.ilpost.it/2026/11/02/regno-unito-laburisti-misure-richiesta-permesso-soggiorno/?bitPosition=3",
       "excerpt": "I Laburisti britannici hanno rivisto i criteri per la richiesta del permesso di soggiorno permanente, ma non per tutti - Condividi - X - Regala il Post La ministra dell’Interno britannica Shabana Mahmood ha annunciato l’ammorbidimento di alcune misure sull’immigrazione che erano state presentate alla fine del 2025 dal ",
       "publishedAt": "2026-11-02T17:51:18Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "L’amministrazione Trump ha chiesto alla Corte Suprema di sospendere lo spoglio del voto per posta di 20mila elettori della California",
-      "url": "https://www.ilpost.it/2026/11/02/trump-chiede-sospensione-voti-per-posta-california/?bitPosition=3",
-      "excerpt": "L’amministrazione Trump ha chiesto alla Corte Suprema di sospendere lo spoglio del voto per posta di 20mila elettori della California - Condividi - X - Regala il Post Il dipartimento di Giustizia degli Stati Uniti ha chiesto alla Corte Suprema di sospendere lo spoglio dei voti per posta di più di 20mila elettori della ",
-      "publishedAt": "2026-11-02T17:15:26Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
@@ -68,15 +68,15 @@
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/02/malfunzionamenti-supermercati-sicilia-attacchi-informatici/?bitPosition=1",
+      "url": "https://www.ilpost.it/2026/11/02/bombardamenti-russi-komyshuvakha/?bitPosition=1",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/02/regno-unito-laburisti-misure-richiesta-permesso-soggiorno/?bitPosition=2",
+      "url": "https://www.ilpost.it/2026/11/02/malfunzionamenti-supermercati-sicilia-attacchi-informatici/?bitPosition=2",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/02/trump-chiede-sospensione-voti-per-posta-california/?bitPosition=3",
+      "url": "https://www.ilpost.it/2026/11/02/regno-unito-laburisti-misure-richiesta-permesso-soggiorno/?bitPosition=3",
       "status": 200
     }
   ],

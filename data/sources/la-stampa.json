@@ -4,30 +4,23 @@
   "sourceId": "la-stampa",
   "originUrl": "https://www.lastampa.it/",
   "configuredFeedUrl": "https://www.lastampa.it/rss/copertina.xml",
-  "collectedAt": "2026-11-02T20:32:15.077009Z",
+  "collectedAt": "2026-11-03T03:44:52.535210Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.lastampa.it/rss/copertina.xml",
   "items": [
     {
+      "title": "Juve, nuovi esami per Spalletti",
+      "url": "https://www.lastampa.it/sport/2026/11/03/news/juve_nuovi_esami_per_spalletti-15786284/",
+      "excerpt": "Giovedì in Europa League ad Alkmaar tra emergenza e alibi. Il tecnico: “Ora non siamo competitivi”. McKennie in dubbio",
+      "publishedAt": "2026-11-03T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
       "title": "Attacchi hacker ai supermercati, colpita anche l'Italia. Convocata una riunione a Palazzo Chigi",
       "url": "https://www.lastampa.it/economia/2026/11/02/news/attacchi_hacker_ai_supermercati_frigoriferi_in_tilt_in_europa-15785626/",
       "excerpt": "Sistemi di refrigerazione in tilt in Europa per la seconda volta in un mese. Francia, Belgio, Svezia e Lussemburgo i Paesi più colpiti finora. Temperature, passate da -28 a oltre 50 gradi con danni milionari ai cibi conservati. Colpiti supermercati anche in Sicilia",
-      "publishedAt": "2026-11-02T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Midterm, Trump avverte i repubblicani: “Se perdiamo, sarò Mr. Veto”. Ecco le quattro conseguenze",
-      "url": "https://www.lastampa.it/esteri/2026/11/02/news/midterm-trump-conseguenze-repubblicani-democratici-presidenziali-2028-15785152/",
-      "excerpt": "Le Midterm ridisegneranno gli equilibri a Washington e metteranno alla prova la presa di Trump sul Partito repubblicano. Dalla possibile uscita di scena di Hegseth alle ambizioni di Rubio e Vance, fino alla sfida tra moderati e socialisti nel Partito democratico, il voto avrà conseguenze anche sulla corsa alla Casa Bia",
-      "publishedAt": "2026-11-02T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "La corsa di Trump per rimontare, ma il partito teme il boomerang: “Forse l’America è stanca di lui”",
-      "url": "https://www.lastampa.it/esteri/speciali/elezioni-midterm-2026/2026/11/02/news/la_corsa_di_trump_per_rimontare_ma_il_partito_teme_il_boomerang_forse_l_america_e_stanca_di_lui-15785073/",
-      "excerpt": "Il tycoon è l’unico che mobilita elettori, ma la sua popolarità è ai minimi",
       "publishedAt": "2026-11-02T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -67,65 +60,9 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Riappare il gruppo Telegram Phica: foto intime rubate alle donne. Oltre 11mila iscritti in poche ore",
-      "url": "https://www.lastampa.it/cronaca/2026/11/02/news/telegram_phica_chat_foto_intime_donne-15785771/",
-      "excerpt": "Un flusso continuo di immagini intime diffuse senza consenso",
-      "publishedAt": "2026-11-02T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Addio a Nadia Santini, ecco perché è stata considerata per 30 anni la migliore chef d’Italia",
-      "url": "https://www.lastampa.it/cronaca/2026/12/02/news/nadia_santini_chef_pescatore_mantova_michelin-15785767/",
-      "excerpt": "Il lascito della prima donna che ha ricevuto (e non ha mai perso) tre stelle Michelin “Dal Pescatore” nel Mantovano",
-      "publishedAt": "2026-11-02T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Pasolini, la Procura di Roma riapre le indagini sulla morte: “Nuovi elementi”. E spunta un testimone",
-      "url": "https://www.lastampa.it/cronaca/2026/11/02/news/omicidio_pier_paolo_pasolini_aperta_nuova_indagine-15785438/",
-      "excerpt": "Il nuovo fascicolo è stato aperto alla luce di un esposto depositato dall’avvocato che in passato ha assistito uno dei cugini della vittima",
-      "publishedAt": "2026-11-02T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Identificate le due vittime italiane dell’incidente ferroviario in Spagna",
-      "url": "https://www.lastampa.it/esteri/2026/11/02/news/incidente_treni_spagna_identificate_vittime_italiane-15785303/",
-      "excerpt": "Sono Ana Martina Conte Grand, 32 anni, italoargentina e Daniela Millan Parlanti, 40, italovenezuelana",
-      "publishedAt": "2026-11-02T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Al Burger King di Torino colpo da 38 mila euro, ma i ladri commettono due errori fatali: arrestati",
-      "url": "https://www.lastampa.it/torino/2026/11/02/news/colpo_burger_king_torino_via_micca-15786115/",
-      "excerpt": "È stato inoltre indagato il quarto componente della banda, che al momento si trova detenuto in un penitenziario all’estero",
-      "publishedAt": "2026-11-02T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
       "title": "Vannacci: \"Andrei a una festa per la marcia su Roma. Vandali a Milano? Li cercheremo casa per casa”",
       "url": "https://www.lastampa.it/cronaca/2026/11/02/news/crisi_vannacci_generale_milano_consensi-15786121/",
       "excerpt": "Il generale a Milano in cerca di consensi: «Mai creduto ai sondaggi, fatti da agenzie ammaestrate». Ma in giro pochi fan e contestazioni inattese",
-      "publishedAt": "2026-11-02T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Calabresi: “Salviamo San Siro”. Destra e sinistra, tutti contro il candidato sindaco",
-      "url": "https://www.lastampa.it/politica/2026/11/02/news/calabresi_san_siro_critiche_destra_sinistra-15785848/",
-      "excerpt": "Il giornalista riaccende l’infinito dibattito sullo stadio e raccoglie critiche bipartisan. Beppe Sala: «Politicamente scorretto». Ignazio La Russa: «Chi ha votato per l’abbattimento, noi o gli amici che dovrebbero eleggerlo?",
-      "publishedAt": "2026-11-02T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Manovra, pensioni, tasse e asili: dai super ricchi alla sanità chi ci guadagna e chi perde",
-      "url": "https://www.lastampa.it/economia/2026/11/02/news/manovra_pensioni_tasse_e_asili_dai_super_ricchi_alla_sanita_chi_ci_guadagna_e_chi_perde-15785285/",
-      "excerpt": "La manovra in pillole I tagli e i nuovi finanziamenti. Aumenti per le sigarette, graziati i gestori delle slot",
-      "publishedAt": "2026-11-02T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Fine dell’era low-cost? Ryanair vuole congelare gli stipendi e annuncia rincari sui voli",
-      "url": "https://www.lastampa.it/economia/2026/11/02/news/ryanair_aumento_prezzo_voli_stipendi_congelati-15785327/",
-      "excerpt": "È il rischio legato all’aumento delle quotazioni del cherosene per l’aviazione, alimentato dalle tensioni in Medio Oriente",
       "publishedAt": "2026-11-02T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -151,6 +88,41 @@
       "dateEvidence": "feed:published"
     },
     {
+      "title": "Al Burger King di Torino colpo da 38 mila euro, ma i ladri commettono due errori fatali: arrestati",
+      "url": "https://www.lastampa.it/torino/2026/11/02/news/colpo_burger_king_torino_via_micca-15786115/",
+      "excerpt": "È stato inoltre indagato il quarto componente della banda, che al momento si trova detenuto in un penitenziario all’estero",
+      "publishedAt": "2026-11-02T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Riappare il gruppo Telegram Phica: foto intime rubate alle donne. Oltre 11mila iscritti in poche ore",
+      "url": "https://www.lastampa.it/cronaca/2026/11/02/news/telegram_phica_chat_foto_intime_donne-15785771/",
+      "excerpt": "Un flusso continuo di immagini intime diffuse senza consenso",
+      "publishedAt": "2026-11-02T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Addio a Nadia Santini, ecco perché è stata considerata per 30 anni la migliore chef d’Italia",
+      "url": "https://www.lastampa.it/cronaca/2026/12/02/news/nadia_santini_chef_pescatore_mantova_michelin-15785767/",
+      "excerpt": "Il lascito della prima donna che ha ricevuto (e non ha mai perso) tre stelle Michelin “Dal Pescatore” nel Mantovano",
+      "publishedAt": "2026-11-02T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Identificate le due vittime italiane dell’incidente ferroviario in Spagna",
+      "url": "https://www.lastampa.it/esteri/2026/11/02/news/incidente_treni_spagna_identificate_vittime_italiane-15785303/",
+      "excerpt": "Sono Ana Martina Conte Grand, 32 anni, italoargentina e Daniela Millan Parlanti, 40, italovenezuelana",
+      "publishedAt": "2026-11-02T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Pasolini, la Procura di Roma riapre le indagini sulla morte: “Nuovi elementi”. E spunta un testimone",
+      "url": "https://www.lastampa.it/cronaca/2026/11/02/news/omicidio_pier_paolo_pasolini_aperta_nuova_indagine-15785438/",
+      "excerpt": "Il nuovo fascicolo è stato aperto alla luce di un esposto depositato dall’avvocato che in passato ha assistito uno dei cugini della vittima",
+      "publishedAt": "2026-11-02T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
       "title": "Kimi, festa con la famiglia e gli amici: “Dopo il Brasile farò qualcosa di grosso”",
       "url": "https://www.lastampa.it/sport/2026/11/02/news/kimi_antonelli_festa_campione_mondo_f1-15785730/",
       "excerpt": "Il campione ha continuato i festeggiamenti in un locale di Polanco, il quartiere più esclusivo di Città del Messico, con il personale Mercedes e altri invitati",
@@ -168,13 +140,6 @@
       "title": "Napoli non perde tempo: Kimi Antonelli è già nel presepe con Maradona e Sinner",
       "url": "https://www.lastampa.it/sport/2026/11/02/video/napoli_non_perde_tempo_kimi_antonelli_e_gia_nel_presepe_con_maradona_e_sinner-15786012/",
       "excerpt": "È bastata una notte perché Kimi Antonelli diventasse anche una statuetta del presepe napoletano. A San Gregorio Armeno, nel cuore di Napoli, l'artigiano Genny Di Virgilio ha esposto la riproduzione del pilota della Mercedes, che entra nella galleria dei campioni dello sport insieme a Maradona e Jannik Sinner. La statui",
-      "publishedAt": "2026-11-02T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Dino Chiesa, il guru dei kart: “A 11 anni Kimi era già curioso e lavorava a testa bassa, un purosangue”",
-      "url": "https://www.lastampa.it/sport/2026/11/02/news/dino_chiesa_il_guru_dei_kart_a_11_anni_era_gia_curioso_e_lavorava_a_testa_bassa_un_purosangue-15785736/",
-      "excerpt": "Dino Chiesa, il guru dei kart: “A 11 anni Kimi era già curioso e lavorava a testa bassa, un purosangue” Dino Chiesa ha fatto crescere nei kart molti campioni del calibro di Zanardi, Hamilton e Rosberg. L’ultimo dei gioielli della sua scuderia è Kimi",
       "publishedAt": "2026-11-02T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -289,6 +254,41 @@
       "excerpt": "Ottobre positivo: quasi 16mila visitatori, incassi a quota 4,6 milioni",
       "publishedAt": "2026-11-02T00:00:00Z",
       "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Mostre, rassegne e spettacoli in Piemonte, Liguria e Valle d’Aosta: gli eventi scelti per i lettori",
+      "url": "https://www.lastampa.it/biella/2026/11/02/news/in_giro_per_il_nord-ovest_fra_mostre_rassegne_e_spettacoli_gli_eventi_scelti_per_i_lettori-15784876/",
+      "excerpt": "Gli appuntamenti della settimana in programma nel Nord Ovest",
+      "publishedAt": "2026-11-02T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Alla Fiera del Tartufo Bianco dell’Alto Monferrato la madrina è Martina Colombari",
+      "url": "https://www.lastampa.it/asti/2026/11/02/news/alla_fiera_del_tartufo_bianco_dell_alto_monferrato_la_madrina_e_martina_colombari-15784784/",
+      "excerpt": "Tra i profumi del tartufo e le atmosfere autunnali della tradizionale fiera di San Carlo di Nizza Monferrato, a inaugurare la seconda edizione della Fiera del Tartufo Bianco dell’Alto ...",
+      "publishedAt": "2026-11-02T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Le vendite premiano il weekend dell’arte: affari in crescita, all’Oval 34.000 visitatori",
+      "url": "https://www.lastampa.it/torino/2026/11/02/news/artissima_bilanco_soddisfazione_chiusura_apart_flashback_others_paratissima-15785223/",
+      "excerpt": "Soddisfazione tra gli stand di Artissima. A Flashback 23.244 presenze, bene anche The Others, Apart e Paratissima",
+      "publishedAt": "2026-11-02T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "In migliaia sfidando la pioggia per cantare Guccini: le immagini della Cantata in Piazza Maggiore",
+      "url": "https://www.lastampa.it/cronaca/2026/11/02/video/bologna_migliaia_cantano_guccini_sotto_la_pioggia_il_video-15785254/",
+      "excerpt": "Migliaia di persone si si sono ritrovate in piazza Maggiore, a Bologna, per cantare insieme le canzoni di Francesco Guccini, scomparso il 6 agosto scorso all'età di 86 anni. Nonostante la pioggia, la piazza si è riempita di ombrelli colorati, chitarre e voci per Cantata per un amico – Bologna canta Guccini, l'omaggio c",
+      "publishedAt": "2026-11-02T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Raid russo su una scuola usata come centro di aiuti umanitari: almeno 24 morti",
+      "url": "https://www.lastampa.it/esteri/2026/11/02/diretta/guerra_russia_ucraina_news_oggi-15785119/",
+      "excerpt": "Colpito l’impianto petrolifero di stoccaggio di Transneft nella regione di Samara. Guerra di hacker Kiev-Mosca. Violati i sistemi di allerta nucleare, con messaggi terrorizzanti",
+      "publishedAt": "2026-11-01T00:00:00Z",
+      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -302,5 +302,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 0.68
+  "durationSeconds": 0.97
 }

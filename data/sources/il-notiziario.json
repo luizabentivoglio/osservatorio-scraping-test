@@ -4,7 +4,7 @@
   "sourceId": "il-notiziario",
   "originUrl": "https://www.ilnotiziario.net/",
   "configuredFeedUrl": "https://www.ilnotiziario.net/feed/",
-  "collectedAt": "2026-11-02T20:32:10.974050Z",
+  "collectedAt": "2026-11-03T03:44:48.305406Z",
   "status": "blocked",
   "diagnosticCode": "access_restricted",
   "method": "html",

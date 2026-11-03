@@ -21,7 +21,7 @@
 | corte-conti | no_feed | crawl4ai | 0 | parsing_error |
 | dc-rotondi | ok | rss | 0 | — |
 | demos-media | ok | trafilatura | 0 | — |
-| demos-partito | error | html | 0 | timeout |
+| demos-partito | ok | rss | 0 | — |
 | emergency | ok | trafilatura | 0 | — |
 | eurostat | blocked | html | 0 | robots_disallowed |
 | factanza | blocked | html | 0 | access_restricted |
@@ -41,7 +41,7 @@
 | iss | ok | trafilatura | 0 | — |
 | istat | ok | rss | 10 | — |
 | istituto-bruno-leoni | ok | trafilatura | 5 | — |
-| italia-domani-rizzo | ok | trafilatura | 3 | — |
+| italia-domani-rizzo | error | html | 0 | timeout |
 | italia-viva | blocked | html | 0 | access_restricted |
 | la-stampa | ok | rss | 40 | — |
 | legambiente | ok | trafilatura | 0 | — |

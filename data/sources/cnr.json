@@ -4,7 +4,7 @@
   "sourceId": "cnr",
   "originUrl": "https://www.cnr.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-02T20:31:39.635332Z",
+  "collectedAt": "2026-11-03T03:44:21.213833Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
@@ -162,5 +162,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 10.28
+  "durationSeconds": 10.27
 }

@@ -4,12 +4,19 @@
   "sourceId": "istituto-bruno-leoni",
   "originUrl": "https://www.brunoleoni.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-02T20:32:11.517488Z",
+  "collectedAt": "2026-11-03T03:44:48.634155Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "Exit Tax: una patrimoniale mascherata",
+      "url": "https://www.brunoleoni.it/exit-tax-una-patrimoniale-mascherata/",
+      "excerpt": "Non è una tassa sulle persone che abbandonano l’Italia ma una patrimoniale implicita su quelle che arrivano",
+      "publishedAt": "2026-11-02T21:05:00Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
     {
       "title": "L’AI e i rischi di una bolla",
       "url": "https://www.brunoleoni.it/lai-e-i-rischi-di-una-bolla/",
@@ -37,13 +44,6 @@
       "excerpt": "E risparmiarci le paternali sugli extraprofitti, le lamentele sul caro energia e la vana promessa di un nuovo futuro energetico",
       "publishedAt": "2026-10-27T21:00:00Z",
       "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Dopo Milano e Torino non serve una stretta penale ma più attenzione",
-      "url": "https://www.brunoleoni.it/dopo-milano-e-torino-non-serve-una-stretta-penale-ma-piu-attenzione/",
-      "excerpt": "Non è aumentando i reati e le pene che si possono scongiurare episodi di violenza e teppismo come quelli appena visti",
-      "publishedAt": "2026-10-20T07:35:59Z",
-      "dateEvidence": "jsonld:datePublished"
     }
   ],
   "attempts": [
@@ -64,7 +64,7 @@
       "status": 200
     },
     {
-      "url": "https://www.brunoleoni.it/dopo-milano-e-torino-non-serve-una-stretta-penale-ma-piu-attenzione/",
+      "url": "https://www.brunoleoni.it/exit-tax-una-patrimoniale-mascherata/",
       "status": 200
     },
     {
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 5,
   "listingUrl": "https://www.brunoleoni.it/",
-  "durationSeconds": 5.05
+  "durationSeconds": 5.7
 }

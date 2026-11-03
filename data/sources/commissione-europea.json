@@ -4,7 +4,7 @@
   "sourceId": "commissione-europea",
   "originUrl": "https://commission.europa.eu/news-and-media_en",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-02T20:31:33.683040Z",
+  "collectedAt": "2026-11-03T03:44:15.846920Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -139,8 +139,8 @@
         {
           "tag": "time",
           "class": [],
-          "text": "30 October 2026",
-          "datetime": "2026-10-30T12:00:00Z"
+          "text": "1 November 2026",
+          "datetime": "2026-11-01T12:00:00Z"
         },
         {
           "tag": "time",
@@ -172,5 +172,5 @@
   "candidateCount": 4,
   "datedCount": 1,
   "listingUrl": "https://commission.europa.eu/news-and-media_en",
-  "durationSeconds": 2.87
+  "durationSeconds": 2.8
 }
