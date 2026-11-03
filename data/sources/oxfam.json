@@ -4,7 +4,7 @@
   "sourceId": "oxfam",
   "originUrl": "https://www.oxfamitalia.org/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-03T03:45:00.882449Z",
+  "collectedAt": "2026-11-03T14:42:19.448049Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -36,13 +36,6 @@
       "url": "https://www.oxfamitalia.org/il-24-ottobre-scendiamo-in-piazza-contro-i-centri-di-permanenza-per-il-rimpatrio/",
       "excerpt": "Il 24 ottobre Oxfam scende in piazza a Castel Volturno contro i Centri di permanenza per il rimpatrio. Leggi di più",
       "publishedAt": "2026-10-22T07:48:22Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "CISGIORDANIA, SENZA GIUSTIZIA ECONOMICA NON C’È FUTURO PER 3 MILIONI DI PALESTINESI",
-      "url": "https://www.oxfamitalia.org/cisgiordania-senza-giustizi-economica-non-ce-futuro-per-3-milioni-di-palestinesi/",
-      "excerpt": "Siamo a Roma con l’evento “Dall’economia di occupazione all’economia di liberazione” per favorire la crescita economica palestinese.",
-      "publishedAt": "2026-10-20T08:29:04Z",
       "dateEvidence": "jsonld:datePublished"
     }
   ],
@@ -80,10 +73,10 @@
       "status": 200
     }
   ],
-  "message": "5 notizie recenti con data verificata; copertura parziale.",
+  "message": "4 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [],
   "candidateCount": 8,
   "datedCount": 6,
   "listingUrl": "https://www.oxfamitalia.org/news/",
-  "durationSeconds": 3.99
+  "durationSeconds": 4.08
 }

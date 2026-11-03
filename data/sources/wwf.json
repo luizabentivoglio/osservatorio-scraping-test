@@ -4,12 +4,26 @@
   "sourceId": "wwf",
   "originUrl": "https://www.wwf.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-03T03:45:35.284761Z",
+  "collectedAt": "2026-11-03T14:42:45.076278Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "“5 per mille ma per davvero”, la Legge di bilancio 2027 superi il tetto di spesa",
+      "url": "https://www.wwf.it/pandanews/wwf-life/5-per-mille-ma-per-davvero-la-legge-di-bilancio-2027-superi-il-tetto-di-spesa/",
+      "excerpt": "La richiesta a Governo e Parlamento della campagna \"5 per mille, ma per davvero\" di cui WWF Italia fa parte",
+      "publishedAt": "2026-11-03T13:56:56Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "Al MedFilm Festival il Premio speciale 60 anni di WWF Italia",
+      "url": "https://www.wwf.it/pandanews/wwf-life/al-medfilm-festival-il-premio-speciale-60-anni-di-wwf-italia/",
+      "excerpt": "Il WWF affianca per il sesto anno il MedFilm Festival, la rassegna cinematografica che raccoglie le produzioni di 40 paesi",
+      "publishedAt": "2026-11-03T10:01:17Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
     {
       "title": "Entra nel vivo il progetto di WWF e Fondazione Roma",
       "url": "https://www.wwf.it/pandanews/wwf-life/entra-nel-vivo-il-progetto-di-wwf-e-fondazione-roma/",
@@ -37,20 +51,6 @@
       "excerpt": "Mulino Bianco e WWF Italia celebrano i campi fioriti più belli al MAXXI di Roma nell’ambito dell’incontro dedicato alla Carta del Mulino",
       "publishedAt": "2026-10-30T10:10:14Z",
       "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Non “mostri” ma preziosi alleati per gli ecosistemi",
-      "url": "https://www.wwf.it/pandanews/animali/non-mostri-ma-preziosi-alleati-per-gli-ecosistemi/",
-      "excerpt": "Pipistrelli, falene e ragni sono tra gli animali più associati ad Halloween. Spesso considerati spaventosi, in realtà hanno un ruolo cruciale",
-      "publishedAt": "2026-10-30T07:30:00Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Caccia, il 27 novembre la Legge Sparatutto arriva in Aula",
-      "url": "https://www.wwf.it/pandanews/ambiente/caccia-27-novembre-legge-sparatutto/",
-      "excerpt": "La maggioranza di governo sceglie di dedicare tempo e risorse parlamentari ad una legge che indebolisce la protezione degli animali selvatici",
-      "publishedAt": "2026-10-29T15:28:33Z",
-      "dateEvidence": "jsonld:datePublished"
     }
   ],
   "attempts": [
@@ -60,6 +60,14 @@
     },
     {
       "url": "https://www.wwf.it/",
+      "status": 200
+    },
+    {
+      "url": "https://www.wwf.it/pandanews/wwf-life/5-per-mille-ma-per-davvero-la-legge-di-bilancio-2027-superi-il-tetto-di-spesa/",
+      "status": 200
+    },
+    {
+      "url": "https://www.wwf.it/pandanews/wwf-life/al-medfilm-festival-il-premio-speciale-60-anni-di-wwf-italia/",
       "status": 200
     },
     {
@@ -77,14 +85,6 @@
     {
       "url": "https://www.wwf.it/pandanews/societa/con-i-fiori-del-mulino-oltre-2-000-ettari-per-gli-impollinatori/",
       "status": 200
-    },
-    {
-      "url": "https://www.wwf.it/pandanews/animali/non-mostri-ma-preziosi-alleati-per-gli-ecosistemi/",
-      "status": 200
-    },
-    {
-      "url": "https://www.wwf.it/pandanews/ambiente/caccia-27-novembre-legge-sparatutto/",
-      "status": 200
     }
   ],
   "message": "6 notizie recenti con data verificata; copertura parziale.",
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.wwf.it/",
-  "durationSeconds": 6.41
+  "durationSeconds": 4.13
 }

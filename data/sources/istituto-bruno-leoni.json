@@ -4,7 +4,7 @@
   "sourceId": "istituto-bruno-leoni",
   "originUrl": "https://www.brunoleoni.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-03T03:44:48.634155Z",
+  "collectedAt": "2026-11-03T14:42:09.385252Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -60,11 +60,11 @@
       "status": 200
     },
     {
-      "url": "https://www.brunoleoni.it/se-il-governo-vuole-fare-qualcosa-di-concreto-per-il-caro-energia-sblocchi-le-trivelle/",
+      "url": "https://www.brunoleoni.it/exit-tax-una-patrimoniale-mascherata/",
       "status": 200
     },
     {
-      "url": "https://www.brunoleoni.it/exit-tax-una-patrimoniale-mascherata/",
+      "url": "https://www.brunoleoni.it/se-il-governo-vuole-fare-qualcosa-di-concreto-per-il-caro-energia-sblocchi-le-trivelle/",
       "status": 200
     },
     {
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 5,
   "listingUrl": "https://www.brunoleoni.it/",
-  "durationSeconds": 5.7
+  "durationSeconds": 5.74
 }

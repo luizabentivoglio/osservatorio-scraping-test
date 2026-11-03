@@ -4,52 +4,52 @@
   "sourceId": "camera",
   "originUrl": "https://www.camera.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-03T03:44:11.581579Z",
+  "collectedAt": "2026-11-03T14:41:31.083739Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
-      "title": "I giorni delle Costituenti - Un libro e un podcast della Camera dei deputati - Giovedì alle 10.30 diretta con lis - Saluto di Ascani",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63755",
-      "excerpt": "I giorni delle Costituenti - Un libro e un podcast della Camera dei deputati - Giovedì alle 10.30 d...",
-      "publishedAt": "2026-11-02T00:00:00Z",
+      "title": "Audizione su Fondazione Enasarco - Mercoledì alle 14.45 diretta webtv",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63782",
+      "excerpt": "Mercoledì 4 novembre, alle ore 14.45, la Commissione Lavoro svolge l'audizione di rappresentanti di...",
+      "publishedAt": "2026-11-03T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "Femminicidio, audizioni martedì e mercoledì - Diretta webtv",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63749",
-      "excerpt": "Martedì 3 novembre, presso l'Aula del I piano di Palazzo San Macuto, la Commissione parlamentare di...",
-      "publishedAt": "2026-11-02T00:00:00Z",
+      "title": "Finanze, interrogazioni a risposta immediata – Ministero dell’Economia e delle Finanze – Mercoledì alle 15.15 diretta webtv",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63783",
+      "excerpt": "Mercoledì 4 novembre, alle ore 15.15, la Commissione Finanze svolge interrogazioni a risposta immed...",
+      "publishedAt": "2026-11-03T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "Audizioni su legge annuale mercato e concorrenza - Martedì e mercoledì diretta webtv",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63750",
-      "excerpt": "Martedì 3 novembre, alle ore 9.50, la Commissione Attività produttive svolge le seguenti audizion...",
-      "publishedAt": "2026-11-02T00:00:00Z",
+      "title": "Ricordando Maria Rita Parsi - Dalla parte dei bambini - Insieme per continuare il suo cammino - Martedì alle 16 diretta webtv - Saluto di Ascani",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63785",
+      "excerpt": "Mercoledì 4 novembre, alle ore 16, presso la Sala della Regina di Montecitorio si svolge il convegn...",
+      "publishedAt": "2026-11-03T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "Covid, martedì audizione Silvestri, venerdì seguito Speranza - Diretta webtv",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63751",
-      "excerpt": "Martedì 3 novembre, alle ore 11, presso l'Aula del II piano di Palazzo San Macuto, la Commissione p...",
-      "publishedAt": "2026-11-02T00:00:00Z",
+      "title": "Svolgimento di una interrogazione",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63770",
+      "excerpt": "Nella seduta odierna ha avuto luogo lo svolgimento di una interrogazione sul seguente argomento...",
+      "publishedAt": "2026-11-03T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "Audizioni su riforma ordinamento forense – Martedì alle 11 diretta webtv",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63752",
-      "excerpt": "Martedì 3 novembre la Commissione Giustizia svolge le seguenti audizioni nell’ambito dell’esame...",
-      "publishedAt": "2026-11-02T00:00:00Z",
+      "title": "Il linguaggio dell'amore nella storia - Martedì alle 15.30 inaugurazione mostra - Messaggio di Benvenuto",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63772",
+      "excerpt": "Martedì 3 novembre, alle ore 15.30 presso il Corridoio Atti parlamentari di Palazzo San Macuto vien...",
+      "publishedAt": "2026-11-03T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "Piano Mattei, audizione martedì e mercoledì - Diretta webtv",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63754",
-      "excerpt": "Martedì 3 novembre, alle ore 13.15, la Commissione Esteri svolge l'audizione di rappresentanti del...",
-      "publishedAt": "2026-11-02T00:00:00Z",
+      "title": "Newsletter dell'Ufficio RUE",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63775",
+      "excerpt": "Il bollettino di informazione (Newsletter) quindicinale del Servizio RUE della Camera riporta tutte ...",
+      "publishedAt": "2026-11-03T00:00:00Z",
       "dateEvidence": "html:publication-label"
     }
   ],
@@ -63,27 +63,27 @@
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63755",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63782",
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63749",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63783",
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63750",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63785",
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63751",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63770",
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63752",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63772",
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63754",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63775",
       "status": 200
     }
   ],
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://comunicazione.camera.it/archivio-prima-pagina",
-  "durationSeconds": 4.04
+  "durationSeconds": 4.45
 }

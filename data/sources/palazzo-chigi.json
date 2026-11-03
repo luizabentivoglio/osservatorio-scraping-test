@@ -4,12 +4,26 @@
   "sourceId": "palazzo-chigi",
   "originUrl": "https://www.governo.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-03T03:45:05.572121Z",
+  "collectedAt": "2026-11-03T14:42:23.526828Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.governo.it/feed/rss",
   "items": [
+    {
+      "title": "Esequie solenni dei Caduti nell’incidente elicotteristico in Bosnia ed Erzegovina",
+      "url": "https://www.governo.it/it/articolo/esequie-solenni-dei-caduti-nell-incidente-elicotteristico-bosnia-ed-erzegovina/33011",
+      "excerpt": "Il Presidente del Consiglio, Giorgia Meloni, ha partecipato a Roma, presso la Basilica di Santa Maria degli Angeli e dei Martiri, alle esequie solenni dei Caduti nell’incidente elicotteristico in Bosnia ed Erzegovina.",
+      "publishedAt": "2026-11-03T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Attacchi hacker in Europa ai sistemi di refrigerazione commerciale, nota di Palazzo Chigi",
+      "url": "https://www.governo.it/it/articolo/attacchi-hacker-europa-ad-alcuni-sistemi-di-refrigerazione-commerciale-nota-di-palazzo",
+      "excerpt": "Si è svolta a Palazzo Chigi una riunione con il Sottosegretario alla Presidenza del Consiglio, Alfredo Mantovano, e il Ministro dell’Agricoltura, Francesco Lollobrigida, alla quale hanno partecipato il Direttore dell’Agenzia per la Cybersicurezza Nazionale (ACN) e i Direttori delle Agenzie di intelligence, a seguito de",
+      "publishedAt": "2026-11-03T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "Elicottero precipitato in Bosnia, il Presidente Meloni rende omaggio alle vittime",
       "url": "https://www.governo.it/it/articolo/elicottero-precipitato-bosnia-il-presidente-meloni-rende-omaggio-alle-vittime/33000",
@@ -65,20 +79,6 @@
       "excerpt": "Il Consiglio dei Ministri si è riunito mercoledì 28 ottobre 2026, alle ore 15.15 a Palazzo Chigi, sotto la presidenza del Presidente Giorgia Meloni. Segretario, il Sottosegretario alla Presidenza Alfredo Mantovano. ٠٠٠٠٠",
       "publishedAt": "2026-10-28T20:40:33Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Nomina del nuovo Presidente della Corte costituzionale, la nota di Palazzo Chigi",
-      "url": "https://www.governo.it/it/articolo/nomina-del-nuovo-presidente-della-corte-costituzionale-la-nota-di-palazzo-chigi/32971",
-      "excerpt": "Il Presidente del Consiglio, Giorgia Meloni, ha sentito telefonicamente il neo Presidente della Corte costituzionale, Francesco Viganò, per rivolgergli le più sentite congratulazioni e i migliori auguri di buon lavoro. Meloni ha inoltre avuto un colloquio con il Presidente uscente, Giovanni Amoroso, per esprimergli il ",
-      "publishedAt": "2026-10-28T19:01:46Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Consiglio dei Ministri n. 195",
-      "url": "https://www.governo.it/it/articolo/consiglio-dei-ministri-n-195/32964",
-      "excerpt": "Si è svolta a Palazzo Chigi la riunione del Consiglio dei Ministri. Al termine, il Presidente Meloni, i Vice Presidenti e Ministri Tajani e Salvini, il Ministro Giorgetti e il Vice Ministro Leo hanno illustrato in conferenza stampa il disegno di legge di bilancio 2027.",
-      "publishedAt": "2026-10-28T14:00:40Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -100,5 +100,5 @@
     }
   ],
   "message": "Feed dichiarato dalla fonte; date di pubblicazione verificate.",
-  "durationSeconds": 30.12
+  "durationSeconds": 30.13
 }

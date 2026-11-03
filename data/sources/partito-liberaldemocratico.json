@@ -4,12 +4,19 @@
   "sourceId": "partito-liberaldemocratico",
   "originUrl": "https://partitoliberaldemocratico.com/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-03T03:45:05.850746Z",
+  "collectedAt": "2026-11-03T14:42:24.124689Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "2,5 miliardi per anticipare le . E se li investissimo nel futuro? Meno sprechi,",
+      "url": "https://partitoliberaldemocratico.com/25-miliardi-per-anticipare-le-e-se-li-investissimo-nel-futuro-meno-sprechi/",
+      "excerpt": "2,5 miliardi per anticipare le . E se li investissimo nel futuro? Meno sprechi, Partito Liberaldemocratico",
+      "publishedAt": "2026-11-03T10:03:23Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
     {
       "title": "Ci vendono il dolce inganno di promesse a costo zero, ma lo scherzo ricade sempr",
       "url": "https://partitoliberaldemocratico.com/ci-vendono-il-dolce-inganno-di-promesse-a-costo-zero-ma-lo-scherzo-ricade-sempr/",
@@ -30,13 +37,6 @@
       "excerpt": "Prima il deputato Grimaldi dice che i tre ragazzi beccati con le molotov nello z Partito Liberaldemocratico",
       "publishedAt": "2026-10-30T09:28:01Z",
       "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Il Partito Liberaldemocratico esprime il proprio cordoglio e la propria vicinanz",
-      "url": "https://partitoliberaldemocratico.com/il-partito-liberaldemocratico-esprime-il-proprio-cordoglio-e-la-propria-vicinanz/",
-      "excerpt": "Il Partito Liberaldemocratico esprime il proprio cordoglio e la propria vicinanz Partito Liberaldemocratico",
-      "publishedAt": "2026-10-29T19:28:10Z",
-      "dateEvidence": "jsonld:datePublished"
     }
   ],
   "attempts": [
@@ -49,6 +49,10 @@
       "status": 200
     },
     {
+      "url": "https://partitoliberaldemocratico.com/25-miliardi-per-anticipare-le-e-se-li-investissimo-nel-futuro-meno-sprechi/",
+      "status": 200
+    },
+    {
       "url": "https://partitoliberaldemocratico.com/ci-vendono-il-dolce-inganno-di-promesse-a-costo-zero-ma-lo-scherzo-ricade-sempr/",
       "status": 200
     },
@@ -58,10 +62,6 @@
     },
     {
       "url": "https://partitoliberaldemocratico.com/prima-il-deputato-grimaldi-dice-che-i-tre-ragazzi-beccati-con-le-molotov-nello-z/",
-      "status": 200
-    },
-    {
-      "url": "https://partitoliberaldemocratico.com/il-partito-liberaldemocratico-esprime-il-proprio-cordoglio-e-la-propria-vicinanz/",
       "status": 200
     },
     {
@@ -91,5 +91,5 @@
   "candidateCount": 9,
   "datedCount": 4,
   "listingUrl": "https://partitoliberaldemocratico.com/",
-  "durationSeconds": 12.14
+  "durationSeconds": 10.92
 }

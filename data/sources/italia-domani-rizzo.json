@@ -4,15 +4,95 @@
   "sourceId": "italia-domani-rizzo",
   "originUrl": "https://www.italiadomanirizzo.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-03T03:44:50.421646Z",
-  "status": "error",
-  "diagnosticCode": "timeout",
-  "method": "html",
+  "collectedAt": "2026-11-03T14:42:11.152478Z",
+  "status": "ok",
+  "diagnosticCode": null,
+  "method": "trafilatura",
   "feedUrl": null,
-  "items": [],
-  "attempts": [],
-  "message": "Timeout della fonte",
-  "httpStatus": null,
-  "failedUrl": "https://www.italiadomanirizzo.it/robots.txt",
-  "durationSeconds": 15.18
+  "items": [
+    {
+      "title": "Crisi in Futuro Nazionale: sul territorio molti scelgono Italia Domani - Italia Domani",
+      "url": "https://www.italiadomanirizzo.it/crisi-in-futuro-nazionale-sul-territorio-molti-scelgono-ital/",
+      "excerpt": "Crescono le defezioni nel movimento di Vannacci in tutta Italia. A Sassari centinaia di iscritti hanno lasciato il partito per aderire al progetto politico di Marco Rizzo.",
+      "publishedAt": "2026-11-02T00:00:00Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "Torino: l'esperienza di Salvatore Ippolito al fianco di Marco Rizzo - Italia Domani",
+      "url": "https://www.italiadomanirizzo.it/torino-l-esperienza-di-salvatore-ippolito-al-fianco-di-marco/",
+      "excerpt": "Salvatore Ippolito, professionista delle infrastrutture ed ex amministratore, sceglie il progetto di Marco Rizzo per Torino, rompendo la finta contrapposizione tra destra e sinistra.",
+      "publishedAt": "2026-11-02T00:00:00Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "Italia Domani cresce in Campania: Luca Manco nominato coordinatore a Giugliano - Italia Domani",
+      "url": "https://www.italiadomanirizzo.it/italia-domani-cresce-in-campania-luca-manco-nominato-coordin/",
+      "excerpt": "Nuovo passo per il radicamento territoriale di Italia Domani in Campania: il coordinatore regionale Antonio Criscuolo affida la guida di Giugliano al giovane imprenditore Luca Manco.",
+      "publishedAt": "2026-11-01T00:00:00Z",
+      "dateEvidence": "jsonld:datePublished"
+    }
+  ],
+  "attempts": [
+    {
+      "url": "https://www.italiadomanirizzo.it/robots.txt",
+      "status": 200
+    },
+    {
+      "url": "https://www.italiadomanirizzo.it/",
+      "status": 200
+    },
+    {
+      "url": "https://www.italiadomanirizzo.it/crisi-in-futuro-nazionale-sul-territorio-molti-scelgono-ital/",
+      "status": 200
+    },
+    {
+      "url": "https://www.italiadomanirizzo.it/torino-l-esperienza-di-salvatore-ippolito-al-fianco-di-marco/",
+      "status": 200
+    },
+    {
+      "url": "https://www.italiadomanirizzo.it/italia-domani-cresce-in-campania-luca-manco-nominato-coordin/",
+      "status": 200
+    },
+    {
+      "url": "https://www.italiadomanirizzo.it/congresso/",
+      "status": 200
+    },
+    {
+      "url": "https://www.italiadomanirizzo.it/il-partito",
+      "status": 301
+    },
+    {
+      "url": "https://www.italiadomanirizzo.it/il-partito/",
+      "status": 200
+    },
+    {
+      "url": "https://www.italiadomanirizzo.it/diventa-tesserato/",
+      "status": 200
+    }
+  ],
+  "message": "3 notizie recenti con data verificata; copertura parziale.",
+  "candidateSamples": [
+    {
+      "url": "https://www.italiadomanirizzo.it/congresso/",
+      "title": "Congresso fondativo 03 Ottobre",
+      "h1": "Congresso fondativo",
+      "dates": []
+    },
+    {
+      "url": "https://www.italiadomanirizzo.it/il-partito/",
+      "title": "Vai alla pagina \"Il partito\"",
+      "h1": "Il partito",
+      "dates": []
+    },
+    {
+      "url": "https://www.italiadomanirizzo.it/diventa-tesserato/",
+      "title": "Diventa un tesserato",
+      "h1": "Diventa tesserato",
+      "dates": []
+    }
+  ],
+  "candidateCount": 8,
+  "datedCount": 3,
+  "listingUrl": "https://www.italiadomanirizzo.it/",
+  "durationSeconds": 4.67
 }

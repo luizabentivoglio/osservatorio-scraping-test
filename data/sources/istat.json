@@ -4,12 +4,19 @@
   "sourceId": "istat",
   "originUrl": "https://www.istat.it/",
   "configuredFeedUrl": "https://www.istat.it/feed/",
-  "collectedAt": "2026-11-03T03:44:47.467183Z",
+  "collectedAt": "2026-11-03T14:42:07.317922Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.istat.it/feed/",
   "items": [
+    {
+      "title": "Livelli di istruzione e ritorni occupazionali – Anno 2025",
+      "url": "https://www.istat.it/comunicato-stampa/livelli-di-istruzione-e-ritorni-occupazionali-anno-2025/",
+      "excerpt": "Nel 2025 il tasso di occupazione dei neodiplomati sale al 62,9% e quello dei neolaureati al 78,7%; si tratta dei 20-34enni, non più inseriti in un percorso di formazione, che hanno conseguito il titolo di studio da almeno un anno e da non più di tre anni",
+      "publishedAt": "2026-11-03T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "#IstatNewsletter",
       "url": "https://www.istat.it/newsletter/online-istatnewsletter-la-newsletter-dellistat/",
@@ -72,13 +79,6 @@
       "excerpt": "Nel tempo è cresciuta la capacità di intercettare le potenziali vittime di tratta. In Italia nel 2025, il sistema di protezione ha registrato 3.520 persone contro le 2.398 nel 2021 (+46,8%).",
       "publishedAt": "2026-10-29T12:01:04Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Fiducia dei consumatori e delle imprese – Ottobre 2026",
-      "url": "https://www.istat.it/comunicato-stampa/fiducia-dei-consumatori-e-delle-imprese-ottobre-2026/",
-      "excerpt": "A ottobre 2026 il clima di fiducia dei consumatori flette da 91,2 a 90,3 mentre l’indicatore composito del clima di fiducia delle imprese aumenta da 95,9 a 96,6",
-      "publishedAt": "2026-10-29T11:03:29Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -92,5 +92,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 2.9
+  "durationSeconds": 3.73
 }

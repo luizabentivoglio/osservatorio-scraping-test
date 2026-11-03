@@ -4,7 +4,7 @@
   "sourceId": "coldiretti",
   "originUrl": "https://www.coldiretti.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-03T03:44:15.623246Z",
+  "collectedAt": "2026-11-03T14:41:35.238331Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -29,27 +29,6 @@
       "url": "https://www.coldiretti.it/economia/halloween-zucca-economy-oltre-30milioni-di-euro-tra-cucina-intaglio-e-campi-tematici",
       "excerpt": "Dalla terra coltivata alle feste nei “pumpkin patch”, dei veri campi di zucca, cresce il turismo legato al prodotto",
       "publishedAt": "2026-10-31T10:57:37Z",
-      "dateEvidence": "meta:article:published_time"
-    },
-    {
-      "title": "Forum Coldiretti: arriva Farmcraft, con Minecraft l'educazione al cibo sano entra nel mondo dei ragazzi",
-      "url": "https://www.coldiretti.it/economia/forum-coldiretti-arriva-farmcraft-con-minecraft-leducazione-al-cibo-sano-entra-nel-mondo-dei-ragazzi",
-      "excerpt": "Nasce Farmcraft, il progetto per le scuole che porta i ragazzi alla scoperta dell’alimentazione sana, dell’agricoltura e della sostenibilità",
-      "publishedAt": "2026-10-20T14:14:37Z",
-      "dateEvidence": "meta:article:published_time"
-    },
-    {
-      "title": "Salute, al Forum lo scaffale del vero made in Italy e la \"fabbrica dei malati\"",
-      "url": "https://www.coldiretti.it/economia/salute-al-forum-lo-scaffale-del-vero-made-in-italy-e-la-fabbrica-dei-malati",
-      "excerpt": "Al Forum Coldiretti, lo scaffale del vero Made in Italy, l’installazione “La fabbrica dei malati” e il progetto Farmcraft per i giovani",
-      "publishedAt": "2026-10-20T07:43:00Z",
-      "dateEvidence": "meta:article:published_time"
-    },
-    {
-      "title": "Salute, non fermare i cibi ultraformulati è un crimine contro l'umanità",
-      "url": "https://www.coldiretti.it/economia/salute-non-fermare-i-cibi-ultraformulati-e-un-crimine-contro-lumanita",
-      "excerpt": "Dal Forum la notizia che Coldiretti sta verificando condizioni e tempi per una class action, per poi arrivare alla Corte di giustizia Ue a difesa della salute dei cittadini",
-      "publishedAt": "2026-10-20T07:42:55Z",
       "dateEvidence": "meta:article:published_time"
     }
   ],
@@ -87,10 +66,10 @@
       "status": 200
     }
   ],
-  "message": "6 notizie recenti con data verificata; copertura parziale.",
+  "message": "3 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [],
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.coldiretti.it/",
-  "durationSeconds": 9.54
+  "durationSeconds": 8.07
 }

@@ -4,7 +4,7 @@
   "sourceId": "quirinale",
   "originUrl": "https://www.quirinale.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-03T03:45:17.996129Z",
+  "collectedAt": "2026-11-03T14:42:35.050929Z",
   "status": "blocked",
   "diagnosticCode": "access_restricted",
   "method": "html",
@@ -20,6 +20,14 @@
       "status": 200
     },
     {
+      "url": "https://www.quirinale.it/it/notizie/presidente-mattarella-consegna-decorazioni-ordine-militare-d-italia",
+      "status": 200
+    },
+    {
+      "url": "https://www.quirinale.it/it/notizie/presidente-mattarella-funerali-militari-caduti-bosnia",
+      "status": 200
+    },
+    {
       "url": "https://www.quirinale.it/it/notizie/elicottero-precipitato-bosnia-mattarella-rende-omaggio-vittime",
       "status": 200
     },
@@ -32,23 +40,149 @@
       "status": 200
     },
     {
-      "url": "https://www.quirinale.it/it/notizie/messaggio-presidente-repubblica-occasione-102-edizione-giornata-mondiale-risparmio",
-      "status": 200
-    },
-    {
-      "url": "https://www.quirinale.it/it/notizie/mattarella-riceve-presidente-repubblica-costa-rica",
-      "status": 200
-    },
-    {
       "url": "https://www.quirinale.it/it/notizie/nostra-repubblica-compie-ottant-anni-1",
+      "status": 200
+    },
+    {
+      "url": "https://www.quirinale.it/it/notizie/presidente-mattarella-consegna-decorazioni-ordine-militare-d-italia",
+      "status": 200
+    },
+    {
+      "url": "https://www.quirinale.it/it/notizie/presidente-mattarella-funerali-militari-caduti-bosnia",
       "status": 200
     }
   ],
-  "message": "Verifica interattiva richiesta",
+  "message": "Browser HTTP 403",
   "candidateSamples": [
     {
+      "url": "https://www.quirinale.it/it/notizie/presidente-mattarella-consegna-decorazioni-ordine-militare-d-italia",
+      "title": "Il Presidente Mattarella consegna le decorazioni dell'Ordine Militare d'Italia Si è svolta, al Quirinale, alla presenza del Presidente della Repubblica, Sergio Mattarella, la cerimonia di consegna delle decorazioni dell'Ordine Militare d'Italia, conferite nell'anno 2026, in occasione della ricorrenz",
+      "h1": "Il Presidente Mattarella consegna le decorazioni dell'Ordine Militare d'Italia",
+      "dates": [
+        {
+          "tag": "span",
+          "class": [
+            "data-luogo"
+          ],
+          "text": "Palazzo del Quirinale, 03/11/2026",
+          "datetime": null
+        },
+        {
+          "tag": "span",
+          "class": [
+            "data-luogo"
+          ],
+          "text": "Palazzo del Quirinale, 03/11/2026 (II mandato)",
+          "datetime": null
+        },
+        {
+          "tag": "span",
+          "class": [
+            "data-luogo"
+          ],
+          "text": "Palazzo del Quirinale, 03/11/2026 (II mandato)",
+          "datetime": null
+        },
+        {
+          "tag": "span",
+          "class": [
+            "data-luogo"
+          ],
+          "text": "Palazzo del Quirinale, 03/11/2026 (II mandato)",
+          "datetime": null
+        },
+        {
+          "tag": "span",
+          "class": [
+            "data-luogo"
+          ],
+          "text": "Palazzo del Quirinale, 03/11/2026 (II mandato)",
+          "datetime": null
+        },
+        {
+          "tag": "span",
+          "class": [
+            "data-luogo"
+          ],
+          "text": "Palazzo del Quirinale, 03/11/2026 (II mandato)",
+          "datetime": null
+        },
+        {
+          "tag": "span",
+          "class": [
+            "data-luogo"
+          ],
+          "text": "Palazzo del Quirinale, 03/11/2026 (II mandato)",
+          "datetime": null
+        },
+        {
+          "tag": "span",
+          "class": [
+            "data-luogo"
+          ],
+          "text": "Palazzo del Quirinale, 03/11/2026 (II mandato)",
+          "datetime": null
+        },
+        {
+          "tag": "span",
+          "class": [
+            "data-luogo"
+          ],
+          "text": "Palazzo del Quirinale, 03/11/2026 (II mandato)",
+          "datetime": null
+        },
+        {
+          "tag": "span",
+          "class": [
+            "data-luogo"
+          ],
+          "text": "Palazzo del Quirinale, 03/11/2026 (II mandato)",
+          "datetime": null
+        },
+        {
+          "tag": "span",
+          "class": [
+            "data-luogo"
+          ],
+          "text": "Palazzo del Quirinale, 03/11/2026 (II mandato)",
+          "datetime": null
+        },
+        {
+          "tag": "span",
+          "class": [
+            "data-luogo"
+          ],
+          "text": "Palazzo del Quirinale, 03/11/2026 (II mandato)",
+          "datetime": null
+        }
+      ]
+    },
+    {
+      "url": "https://www.quirinale.it/it/notizie/presidente-mattarella-funerali-militari-caduti-bosnia",
+      "title": "Il Presidente della Repubblica Sergio Mattarella alle Esequie in forma solenne del Capitano Franco Adriano Zecchillo, del Sergente Maggiore Simone Ruggia, del Sergente Maggiore Claudio Marchesi e del Sergente Maggiore Laura Procacci",
+      "h1": "Il Presidente Mattarella ai funerali dei militari caduti in Bosnia",
+      "dates": [
+        {
+          "tag": "span",
+          "class": [
+            "data-luogo"
+          ],
+          "text": "Roma, 03/11/2026",
+          "datetime": null
+        },
+        {
+          "tag": "p",
+          "class": [
+            "date-label"
+          ],
+          "text": "Roma, 03/11/2026 (II mandato)",
+          "datetime": null
+        }
+      ]
+    },
+    {
       "url": "https://www.quirinale.it/it/notizie/elicottero-precipitato-bosnia-mattarella-rende-omaggio-vittime",
-      "title": "Elicottero precipitato in Bosnia, Mattarella rende omaggio alle vittime Il Presidente della Repubblica, Sergio Mattarella, ha accolto all'Aeroporto militare di Ciampino le salme dei quattro militari italiani caduti nell'incidente elicotteristico avvenuto il 29 ottobre scorso in Bosnia.",
+      "title": "Il Presidente della Repubblica Sergio Mattarella a Ciampino rende omaggio a Ciampino alle salme dei militari caduti in Bosnia",
       "h1": "Elicottero precipitato in Bosnia, Mattarella rende omaggio alle vittime",
       "dates": [
         {
@@ -100,36 +234,6 @@
       ]
     },
     {
-      "url": "https://www.quirinale.it/it/notizie/messaggio-presidente-repubblica-occasione-102-edizione-giornata-mondiale-risparmio",
-      "title": "foto d'archivio",
-      "h1": "Messaggio del Presidente della Repubblica in occasione della 102^ edizione della Giornata Mondiale del Risparmio",
-      "dates": [
-        {
-          "tag": "p",
-          "class": [
-            "date-label"
-          ],
-          "text": "Roma, 30/10/2026 (II mandato)",
-          "datetime": null
-        }
-      ]
-    },
-    {
-      "url": "https://www.quirinale.it/it/notizie/mattarella-riceve-presidente-repubblica-costa-rica",
-      "title": "Il Presidente Sergio Mattarella con Fernandez Delgado Presidente della Repubblica di Costa Rica",
-      "h1": "Mattarella riceve la Presidente della Repubblica di Costa Rica",
-      "dates": [
-        {
-          "tag": "p",
-          "class": [
-            "date-label"
-          ],
-          "text": "Roma, 29/10/2026 (II mandato)",
-          "datetime": null
-        }
-      ]
-    },
-    {
       "url": "https://www.quirinale.it/it/notizie/nostra-repubblica-compie-ottant-anni-1",
       "title": "I Volti della Repubblica",
       "h1": "La nostra Repubblica compie Ottant’anni",
@@ -148,5 +252,5 @@
   "candidateCount": 12,
   "datedCount": 0,
   "listingUrl": "https://www.quirinale.it/",
-  "durationSeconds": 4.12
+  "durationSeconds": 4.34
 }

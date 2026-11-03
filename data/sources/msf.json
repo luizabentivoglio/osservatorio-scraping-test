@@ -4,12 +4,19 @@
   "sourceId": "msf",
   "originUrl": "https://www.medicisenzafrontiere.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-03T03:44:57.266875Z",
+  "collectedAt": "2026-11-03T14:42:15.821169Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "Gaza: MSF chiede rilascio immediato del dott. Obeid dopo 2 anni di detenzione arbitraria",
+      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/gaza-msf-chiede-rilascio-immediato-dott-obeid-dopo-2-anni-detenzione-arbitraria/",
+      "excerpt": "Medici Senza Frontiere chiede il rilascio immediato e incondizionato del dottor Mohammed Obeid, che dal 26 ottobre 2024 è detenuto dalle forze israeliane senza alcuna accusa. Il caso del dottor Obeid Il dottor Obeid, chirurgo ortopedico della nostra organizzazione, è stato arrestato mentre era in servizio presso l’ospe",
+      "publishedAt": "2026-11-02T15:28:04Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
     {
       "title": "X Factor e Medici Senza Frontiere: la partnership edizione per edizione",
       "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/xfactor/",
@@ -44,13 +51,6 @@
       "excerpt": "Negli ultimi giorni, le équipe di Medici Senza Frontiere ad Aden e a Mocha sono state esposte a una serie di incidenti che limitano ulteriormente l’accesso umanitario e la fornitura di assistenza medica alle persone in Yemen. I tre attacchi a Mocha e le loro conseguenze Questa mattina, lunedì 26 ottobre, 3 attacchi han",
       "publishedAt": "2026-10-26T17:10:30Z",
       "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Ucraina, MSF assiste feriti dopo un attacco russo a Dnipropetrovsk",
-      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/ucraina-msf-assiste-feriti-dopo-attacco-russo-dnipropetrovsk/",
-      "excerpt": "Un drone russo ha colpito ieri intorno alle 18 infrastrutture civili a Synelnykove, nella regione di Dnipropetrovsk, a circa 80 chilometri dalla linea del fronte. La guerra colpisce ancora i civili L’attacco è avvenuto in una zona con abitazioni, bar e negozi, a meno di un chilometro da un ospedale che supportiamo. Sec",
-      "publishedAt": "2026-10-25T17:27:15Z",
-      "dateEvidence": "jsonld:datePublished"
     }
   ],
   "attempts": [
@@ -60,6 +60,10 @@
     },
     {
       "url": "https://www.medicisenzafrontiere.it/",
+      "status": 200
+    },
+    {
+      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/gaza-msf-chiede-rilascio-immediato-dott-obeid-dopo-2-anni-detenzione-arbitraria/",
       "status": 200
     },
     {
@@ -81,10 +85,6 @@
     {
       "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/yemen-attacco-150-metri-ospedale-mocha-msf-accesso-sicuro-cure-sempre-piu-limitato/",
       "status": 200
-    },
-    {
-      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/ucraina-msf-assiste-feriti-dopo-attacco-russo-dnipropetrovsk/",
-      "status": 200
     }
   ],
   "message": "6 notizie recenti con data verificata; copertura parziale.",
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.medicisenzafrontiere.it/",
-  "durationSeconds": 3.61
+  "durationSeconds": 3.63
 }

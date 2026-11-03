@@ -4,17 +4,17 @@
   "sourceId": "breaking-italy",
   "originUrl": "https://breakingitaly.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-03T03:44:10.681254Z",
+  "collectedAt": "2026-11-03T14:41:30.004948Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
-      "title": "Non si fermano le proteste in tutta Europa",
-      "url": "https://breakingitaly.it/newsletter/non-si-fermano-le-proteste-in-tutta-europa",
-      "excerpt": "Non si fermano le proteste in tutta Europa",
-      "publishedAt": "2026-11-02T00:00:00Z",
+      "title": "Gli hacker hanno mandato in tilt i frigoriferi di molti supermercati europei",
+      "url": "https://breakingitaly.it/newsletter/gli-hacker-hanno-mandato-in-tilt-i-frigoriferi-di-molti-supermercati-europei",
+      "excerpt": "Gli hacker hanno mandato in tilt i frigoriferi di molti supermercati europei",
+      "publishedAt": "2026-11-03T00:00:00Z",
       "dateEvidence": "html:newsletter-publication"
     }
   ],
@@ -32,7 +32,7 @@
       "status": 200
     },
     {
-      "url": "https://breakingitaly.it/newsletter/non-si-fermano-le-proteste-in-tutta-europa",
+      "url": "https://breakingitaly.it/newsletter/gli-hacker-hanno-mandato-in-tilt-i-frigoriferi-di-molti-supermercati-europei",
       "status": 200
     },
     {
@@ -96,5 +96,5 @@
   "candidateCount": 12,
   "datedCount": 1,
   "listingUrl": "https://breakingitaly.it/",
-  "durationSeconds": 5.16
+  "durationSeconds": 5.21
 }

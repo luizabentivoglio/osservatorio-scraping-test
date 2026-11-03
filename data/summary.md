@@ -10,8 +10,8 @@
 | camera | ok | trafilatura | 6 | — |
 | cisl | blocked | html | 0 | robots_disallowed |
 | cnr | ok | rss | 20 | — |
-| coldiretti | ok | trafilatura | 6 | — |
-| commissione-europea | ok | trafilatura | 1 | — |
+| coldiretti | ok | trafilatura | 3 | — |
+| commissione-europea | blocked | html | 0 | rate_limited |
 | comune-bollate | ok | trafilatura | 6 | — |
 | confcommercio | blocked | html | 0 | access_restricted |
 | confindustria | ok | trafilatura | 1 | — |
@@ -41,7 +41,7 @@
 | iss | ok | trafilatura | 0 | — |
 | istat | ok | rss | 10 | — |
 | istituto-bruno-leoni | ok | trafilatura | 5 | — |
-| italia-domani-rizzo | error | html | 0 | timeout |
+| italia-domani-rizzo | ok | trafilatura | 3 | — |
 | italia-viva | blocked | html | 0 | access_restricted |
 | la-stampa | ok | rss | 40 | — |
 | legambiente | ok | trafilatura | 0 | — |
@@ -49,7 +49,7 @@
 | mef | ok | trafilatura | 3 | — |
 | msf | ok | trafilatura | 6 | — |
 | osservatorio-cpi | ok | trafilatura | 6 | — |
-| oxfam | ok | trafilatura | 5 | — |
+| oxfam | ok | trafilatura | 4 | — |
 | pagella-politica | ok | trafilatura | 6 | — |
 | palazzo-chigi | ok | rss | 10 | — |
 | parlamento-europeo | blocked | html | 0 | access_restricted |
@@ -67,7 +67,7 @@
 | senato | no_feed | crawl4ai | 0 | parsing_error |
 | sud-chiama-nord | blocked | html | 0 | access_restricted |
 | svp | ok | trafilatura | 1 | — |
-| tgr-lombardia | ok | crawl4ai | 0 | — |
+| tgr-lombardia | no_feed | crawl4ai | 0 | parsing_error |
 | wwf | ok | trafilatura | 6 | — |
 
 Le date sono verificate nei feed o nei metadati di pubblicazione dei singoli articoli. Nessun dato personale dell’archivio è letto o pubblicato.

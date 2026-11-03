@@ -4,7 +4,7 @@
   "sourceId": "comune-bollate",
   "originUrl": "https://comune.bollate.mi.it/it/news",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-03T03:44:15.993006Z",
+  "collectedAt": "2026-11-03T14:41:35.840984Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -14,7 +14,14 @@
       "title": "Carta “Dedicata a te: pubblicata la graduatoria dei benificiari",
       "url": "https://comune.bollate.mi.it/it/news/carta-dedicata-a-te-2051258-2072550",
       "excerpt": "Sito ufficiale Comune di Bollate",
-      "publishedAt": "2026-11-02T00:00:00Z",
+      "publishedAt": "2026-11-03T00:00:00Z",
+      "dateEvidence": "html:news-date-label"
+    },
+    {
+      "title": "Al Teatro LaBolla, i festeggiamenti civili di San Martino",
+      "url": "https://comune.bollate.mi.it/it/news/san-martino-2072994",
+      "excerpt": "Sito ufficiale Comune di Bollate",
+      "publishedAt": "2026-11-03T00:00:00Z",
       "dateEvidence": "html:news-date-label"
     },
     {
@@ -44,13 +51,6 @@
       "excerpt": "Sito ufficiale Comune di Bollate",
       "publishedAt": "2026-10-23T00:00:00Z",
       "dateEvidence": "html:news-date-label"
-    },
-    {
-      "title": "Voto fuori sede: nasce l’elenco comunale per gli elettori",
-      "url": "https://comune.bollate.mi.it/it/news/elezioni-2058484",
-      "excerpt": "Sito ufficiale Comune di Bollate",
-      "publishedAt": "2026-10-21T00:00:00Z",
-      "dateEvidence": "html:news-date-label"
     }
   ],
   "attempts": [
@@ -64,6 +64,10 @@
     },
     {
       "url": "https://comune.bollate.mi.it/it/news/carta-dedicata-a-te-2051258-2072550",
+      "status": 200
+    },
+    {
+      "url": "https://comune.bollate.mi.it/it/news/san-martino-2072994",
       "status": 200
     },
     {
@@ -81,10 +85,6 @@
     {
       "url": "https://comune.bollate.mi.it/it/news/gioco-azzardo-2059386",
       "status": 200
-    },
-    {
-      "url": "https://comune.bollate.mi.it/it/news/elezioni-2058484",
-      "status": 200
     }
   ],
   "message": "6 notizie recenti con data verificata; copertura parziale.",
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://comune.bollate.mi.it/it/news",
-  "durationSeconds": 5.22
+  "durationSeconds": 8.34
 }

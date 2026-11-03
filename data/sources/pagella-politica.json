@@ -4,12 +4,26 @@
   "sourceId": "pagella-politica",
   "originUrl": "https://pagellapolitica.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-03T03:45:04.878569Z",
+  "collectedAt": "2026-11-03T14:42:22.883729Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "È finita l’ascesa di Futuro Nazionale?",
+      "url": "https://pagellapolitica.it/articoli/fine-ascesa-futuro-nazionale",
+      "excerpt": "Dopo mesi di crescita continua, il partito di Roberto Vannacci a ottobre ha perso quasi un punto nei sondaggi...",
+      "publishedAt": "2026-11-03T00:00:00Z",
+      "dateEvidence": "html:post-date"
+    },
+    {
+      "title": "Come si è arrivati allo stop alla produzione dell’ex Ilva",
+      "url": "https://pagellapolitica.it/articoli/stop-produzione-ilva-taranto",
+      "excerpt": "Dal sequestro del 2012 alla recente sentenza della Cassazione, ripercorriamo la lunga vicenda giudiziaria dello...",
+      "publishedAt": "2026-11-03T00:00:00Z",
+      "dateEvidence": "html:post-date"
+    },
     {
       "title": "Sono già quattro i parlamentari “prestati” per aggirare l’aumento delle firme",
       "url": "https://pagellapolitica.it/articoli/parlamentari-prestati-numero-firme-legge-elettorale",
@@ -37,20 +51,6 @@
       "excerpt": "L’immagine, che ritrae dei manifestanti che si tengono a braccetto con dei poliziotti, è stata rilanciata anche da...",
       "publishedAt": "2026-10-29T00:00:00Z",
       "dateEvidence": "html:post-date"
-    },
-    {
-      "title": "Il governo ha reintrodotto il taglio sulle accise sul gasolio",
-      "url": "https://pagellapolitica.it/articoli/governo-nuovo-taglio-gasolio-accise",
-      "excerpt": "Lo sconto è di circa 4 centesimi al litro e durerà fino al 7 novembre, e si aggiunge al tetto sul prezzo dei carburanti introdotto da alcune...",
-      "publishedAt": "2026-10-28T00:00:00Z",
-      "dateEvidence": "html:post-date"
-    },
-    {
-      "title": "Inneggiare ad Hamas è reato?",
-      "url": "https://pagellapolitica.it/articoli/inneggiare-hamas-reato-acerbo",
-      "excerpt": "Secondo il leader di Rifondazione Comunista Maurizio Acerbo, inneggiare all’organizzazione palestinese o agli...",
-      "publishedAt": "2026-10-28T00:00:00Z",
-      "dateEvidence": "html:post-date"
     }
   ],
   "attempts": [
@@ -60,6 +60,14 @@
     },
     {
       "url": "https://pagellapolitica.it/articoli",
+      "status": 200
+    },
+    {
+      "url": "https://pagellapolitica.it/articoli/fine-ascesa-futuro-nazionale",
+      "status": 200
+    },
+    {
+      "url": "https://pagellapolitica.it/articoli/stop-produzione-ilva-taranto",
       "status": 200
     },
     {
@@ -77,14 +85,6 @@
     {
       "url": "https://pagellapolitica.it/articoli/deputato-avs-foto-falsa-manifestazioni",
       "status": 200
-    },
-    {
-      "url": "https://pagellapolitica.it/articoli/governo-nuovo-taglio-gasolio-accise",
-      "status": 200
-    },
-    {
-      "url": "https://pagellapolitica.it/articoli/inneggiare-hamas-reato-acerbo",
-      "status": 200
     }
   ],
   "message": "6 notizie recenti con data verificata; copertura parziale.",
@@ -92,5 +92,5 @@
   "candidateCount": 6,
   "datedCount": 6,
   "listingUrl": "https://pagellapolitica.it/articoli",
-  "durationSeconds": 10.97
+  "durationSeconds": 7.82
 }
