@@ -4,12 +4,19 @@
   "sourceId": "coldiretti",
   "originUrl": "https://www.coldiretti.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-03T14:41:35.238331Z",
+  "collectedAt": "2026-11-03T20:40:44.572733Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "Cybersicurezza, Gesmundo: \"Cibo è sicurezza nazionale, serve piano straordinario per proteggere filiera alimentare\"",
+      "url": "https://www.coldiretti.it/economia/cybersicurezza-gesmundo-cibo-e-sicurezza-nazionale-serve-piano-straordinario-per-proteggere-filiera-alimentare",
+      "excerpt": "Gli attacchi hacker accendono l’allarme sulla vulnerabilità degli approvvigionamenti. Rafforzare la rete dei mercati contadini",
+      "publishedAt": "2026-11-03T16:03:26Z",
+      "dateEvidence": "meta:article:published_time"
+    },
     {
       "title": "Due novembre: fiori nei cimiteri per 2 italiani su 3",
       "url": "https://www.coldiretti.it/economia/due-novembre-fiori-nei-cimiteri-per-2-italiani-su-3",
@@ -22,13 +29,6 @@
       "url": "https://www.coldiretti.it/economia/coldiretti-pesca-dalle-farm-alle-reti-intelligenti-il-tonno-made-in-italy-punta-su-innovazione-e-origine",
       "excerpt": "Dalle “farm” alle reti intelligenti, fino all'origine, la filiera del tonno rosso Made in Italy punta su innovazione e lotta alle frodi",
       "publishedAt": "2026-10-31T11:01:58Z",
-      "dateEvidence": "meta:article:published_time"
-    },
-    {
-      "title": "Halloween, zucca economy oltre 30milioni di euro tra cucina, intaglio e campi tematici",
-      "url": "https://www.coldiretti.it/economia/halloween-zucca-economy-oltre-30milioni-di-euro-tra-cucina-intaglio-e-campi-tematici",
-      "excerpt": "Dalla terra coltivata alle feste nei “pumpkin patch”, dei veri campi di zucca, cresce il turismo legato al prodotto",
-      "publishedAt": "2026-10-31T10:57:37Z",
       "dateEvidence": "meta:article:published_time"
     }
   ],
@@ -58,11 +58,11 @@
       "status": 200
     },
     {
-      "url": "https://www.coldiretti.it/economia/coldiretti-pesca-dalle-farm-alle-reti-intelligenti-il-tonno-made-in-italy-punta-su-innovazione-e-origine",
+      "url": "https://www.coldiretti.it/economia/cybersicurezza-gesmundo-cibo-e-sicurezza-nazionale-serve-piano-straordinario-per-proteggere-filiera-alimentare",
       "status": 200
     },
     {
-      "url": "https://www.coldiretti.it/economia/halloween-zucca-economy-oltre-30milioni-di-euro-tra-cucina-intaglio-e-campi-tematici",
+      "url": "https://www.coldiretti.it/economia/coldiretti-pesca-dalle-farm-alle-reti-intelligenti-il-tonno-made-in-italy-punta-su-innovazione-e-origine",
       "status": 200
     }
   ],
@@ -71,5 +71,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.coldiretti.it/",
-  "durationSeconds": 8.07
+  "durationSeconds": 15.83
 }

@@ -4,51 +4,51 @@
   "sourceId": "camera",
   "originUrl": "https://www.camera.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-03T14:41:31.083739Z",
+  "collectedAt": "2026-11-03T20:40:40.320412Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
-      "title": "Audizione su Fondazione Enasarco - Mercoledì alle 14.45 diretta webtv",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63782",
-      "excerpt": "Mercoledì 4 novembre, alle ore 14.45, la Commissione Lavoro svolge l'audizione di rappresentanti di...",
+      "title": "Forteto, mercoledì alle 8 audizione in diretta webtv",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63774",
+      "excerpt": "Mercoledì 4 novembre, alle ore 8, presso l'Aula del II piano di Palazzo San Macuto, la Commissione ...",
       "publishedAt": "2026-11-03T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "Finanze, interrogazioni a risposta immediata – Ministero dell’Economia e delle Finanze – Mercoledì alle 15.15 diretta webtv",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63783",
-      "excerpt": "Mercoledì 4 novembre, alle ore 15.15, la Commissione Finanze svolge interrogazioni a risposta immed...",
+      "title": "Audizione su rischio idrogeologico - Mercoledì alle 8.30 diretta webtv",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63776",
+      "excerpt": "Mercoledì 4 novembre, alle ore 8.30, presso l'Aula del III piano di Palazzo San Macuto, la Commissi...",
       "publishedAt": "2026-11-03T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "Ricordando Maria Rita Parsi - Dalla parte dei bambini - Insieme per continuare il suo cammino - Martedì alle 16 diretta webtv - Saluto di Ascani",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63785",
-      "excerpt": "Mercoledì 4 novembre, alle ore 16, presso la Sala della Regina di Montecitorio si svolge il convegn...",
+      "title": "Spazi digitali responsabili, audizione Meta, Mediaset e Federazione carta - Mercoledì alle 9.15 diretta webtv",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63777",
+      "excerpt": "Mercoledì 4 novembre, la Commissione Politiche Ue svolge le seguenti audizioni nell’ambito dell...",
       "publishedAt": "2026-11-03T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "Svolgimento di una interrogazione",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63770",
-      "excerpt": "Nella seduta odierna ha avuto luogo lo svolgimento di una interrogazione sul seguente argomento...",
+      "title": "Profili civilistici, fiscali e previdenziali del wet lease aeronautico - Mercoledì alle 10 diretta webtv",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63778",
+      "excerpt": "Mercoledì 4 novembre, alle ore 10, presso la Sala Matteotti di Palazzo Theodoli - Bianchelli si svo...",
       "publishedAt": "2026-11-03T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "Il linguaggio dell'amore nella storia - Martedì alle 15.30 inaugurazione mostra - Messaggio di Benvenuto",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63772",
-      "excerpt": "Martedì 3 novembre, alle ore 15.30 presso il Corridoio Atti parlamentari di Palazzo San Macuto vien...",
+      "title": "Rapporto Dekra 2026 sulla sicurezza stradale - La strada come luogo di lavoro - Mercoledì alle 11 diretta webtv",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63779",
+      "excerpt": "Mercoledì 4 novembre, alle ore 11, presso la Sala della Regina di Montecitorio si svolge il convegn...",
       "publishedAt": "2026-11-03T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "Newsletter dell'Ufficio RUE",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63775",
-      "excerpt": "Il bollettino di informazione (Newsletter) quindicinale del Servizio RUE della Camera riporta tutte ...",
+      "title": "Agricoltura, interrogazioni a risposta immediata – Ministero dell’Agricoltura, della Sovranità alimentare e delle Foreste – Mercoledì alle 13.30 diretta webtv",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63780",
+      "excerpt": "Mercoledì 4 novembre, alle ore 13.30, la Commissione Agricoltura svolge interrogazioni a risposta ...",
       "publishedAt": "2026-11-03T00:00:00Z",
       "dateEvidence": "html:publication-label"
     }
@@ -63,27 +63,27 @@
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63782",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63774",
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63783",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63776",
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63785",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63777",
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63770",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63778",
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63772",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63779",
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63775",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63780",
       "status": 200
     }
   ],
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://comunicazione.camera.it/archivio-prima-pagina",
-  "durationSeconds": 4.45
+  "durationSeconds": 4.25
 }

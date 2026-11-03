@@ -4,45 +4,52 @@
   "sourceId": "il-post",
   "originUrl": "https://www.ilpost.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-03T14:42:09.265147Z",
+  "collectedAt": "2026-11-03T20:41:19.792029Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
-      "title": "Leonardo Maria Del Vecchio ci riprova",
-      "url": "https://www.ilpost.it/2026/11/03/leonardo-maria-del-vecchio-delfin-quote-fratelli-30-miliardi/?homepagePosition=0",
-      "excerpt": "Ora vuole prendere il controllo della società di famiglia comprando le quote dei fratelli per più di 20 miliardi di euro, anche se quei soldi non ce li ha",
-      "publishedAt": "2026-11-03T13:24:51Z",
+      "title": "Ci sono stati allarmi bomba infondati su sette aerei in vari paesi europei, fra cui due atterrati a Roma",
+      "url": "https://www.ilpost.it/2026/11/03/europe-aerei-allarme-bomba/?bitPosition=1",
+      "excerpt": "Ci sono stati allarmi bomba infondati su sette aerei in vari paesi europei, fra cui due atterrati a Roma - Condividi - X - Regala il Post Martedì in vari paesi europei ci sono stati allarmi bomba su sette voli aerei, di cui due diretti a Roma. In tutti i casi gli allarmi si sono rivelati infondati. Non si sa se i casi ",
+      "publishedAt": "2026-11-03T14:45:45Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
       "title": "Sono iniziate le operazioni di spegnimento degli altiforni dell’ex ILVA di Taranto",
-      "url": "https://www.ilpost.it/2026/11/03/ex-ilva-spegnimento-altiforni/?bitPosition=1",
+      "url": "https://www.ilpost.it/2026/11/03/ex-ilva-spegnimento-altiforni/?bitPosition=2",
       "excerpt": "Sono iniziate le operazioni di spegnimento degli altiforni dell’ex ILVA di Taranto - Condividi - X - Regala il Post Martedì mattina sono iniziate le operazioni di spegnimento dei cosiddetti altiforni dell’ex ILVA, l’enorme e discussa acciaieria di Taranto. A comunicare la notizia ai sindacati è stata l’azienda, che ogg",
       "publishedAt": "2026-11-03T12:45:07Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
       "title": "La Russia ha compiuto uno dei più massicci attacchi dell’ultimo anno contro le infrastrutture energetiche ucraine",
-      "url": "https://www.ilpost.it/2026/11/03/russia-attacchi-infrastrutture-energetiche-ucraine/?bitPosition=2",
+      "url": "https://www.ilpost.it/2026/11/03/russia-attacchi-infrastrutture-energetiche-ucraine/?bitPosition=3",
       "excerpt": "La Russia ha compiuto uno dei più massicci attacchi dell’ultimo anno contro le infrastrutture energetiche ucraine - Condividi - X - Regala il Post Nella notte tra lunedì e martedì la Russia ha avviato uno degli attacchi più massicci dell’ultimo anno contro le centrali elettriche e le infrastrutture energetiche dell’Ucr",
       "publishedAt": "2026-11-03T10:53:57Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
+      "title": "Le elezioni di metà mandato negli Stati Uniti, in diretta col Post",
+      "url": "https://www.ilpost.it/2026/11/03/elezioni-meta-mandato-diretta-video-live-post/?homepagePosition=0",
+      "excerpt": "Fino alle 23 con Francesco Costa, Laura Loguercio, Luca Misculin e la redazione, per parlare di cosa aspettarsi e di cosa tenere d’occhio stanotte",
+      "publishedAt": "2026-11-03T08:36:43Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
       "title": "La FIFA concederà ai membri del Consiglio l’accesso ad alcuni documenti relativi al criticato piano di privatizzazione di Infantino",
-      "url": "https://www.ilpost.it/2026/11/03/la-fifa-concedera-ai-membri-del-consiglio-laccesso-ad-alcuni-documenti-relativi-al-criticato-piano-di-privatizzazione-di-infantino/?bitPosition=3",
+      "url": "https://www.ilpost.it/2026/11/03/la-fifa-concedera-ai-membri-del-consiglio-laccesso-ad-alcuni-documenti-relativi-al-criticato-piano-di-privatizzazione-di-infantino/?bitPosition=4",
       "excerpt": "La FIFA concederà ai membri del Consiglio l’accesso ad alcuni documenti relativi al criticato piano di privatizzazione di Infantino - Condividi - X - Regala il Post La FIFA, l’organizzazione che governa il calcio mondiale e organizza i Mondiali, permetterà ai membri del proprio Consiglio, il principale organo decisiona",
       "publishedAt": "2026-11-03T08:16:22Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "Lo stato di New York ha registrato la prima morte associata al morbillo dopo oltre trent’anni",
-      "url": "https://www.ilpost.it/2026/11/03/new-york-morte-morbillo/?bitPosition=4",
-      "excerpt": "Lo stato di New York ha registrato la prima morte associata al morbillo dopo oltre trent’anni - Condividi - X - Regala il Post La governatrice dello stato di New York, Kathy Hochul, ha detto che un minore (non si sa se un bambino o una bambina) è morto dopo aver contratto il morbillo: è la prima morte legata alla malat",
-      "publishedAt": "2026-11-03T08:15:15Z",
+      "title": "Perché queste elezioni di metà mandato sono così importanti",
+      "url": "https://www.ilpost.it/2026/11/02/perche-elezioni-meta-mandato-importanti-trump/?homepagePosition=0.2&referrerPost=3722395",
+      "excerpt": "Per la prima volta gli americani si esprimeranno sul secondo mandato di Trump: i risultati potrebbero complicare i suoi ultimi due anni da presidente",
+      "publishedAt": "2026-11-02T11:39:41Z",
       "dateEvidence": "jsonld:datePublished"
     }
   ],
@@ -56,34 +63,34 @@
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/03/leonardo-maria-del-vecchio-delfin-quote-fratelli-30-miliardi/?homepagePosition=0",
+      "url": "https://www.ilpost.it/2026/11/03/elezioni-meta-mandato-diretta-video-live-post/?homepagePosition=0",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/07/06/delfin-del-vecchio-leonardo-maria-del-vecchio-essilorluxottica-mediobanca-generali/?homepagePosition=0.1&referrerPost=3722299",
+      "url": "https://www.ilpost.it/2026/11/02/perche-elezioni-meta-mandato-importanti-trump/?homepagePosition=0.2&referrerPost=3722395",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/03/ex-ilva-spegnimento-altiforni/?bitPosition=1",
+      "url": "https://www.ilpost.it/2026/11/03/europe-aerei-allarme-bomba/?bitPosition=1",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/03/russia-attacchi-infrastrutture-energetiche-ucraine/?bitPosition=2",
+      "url": "https://www.ilpost.it/2026/11/03/ex-ilva-spegnimento-altiforni/?bitPosition=2",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/03/la-fifa-concedera-ai-membri-del-consiglio-laccesso-ad-alcuni-documenti-relativi-al-criticato-piano-di-privatizzazione-di-infantino/?bitPosition=3",
+      "url": "https://www.ilpost.it/2026/11/03/russia-attacchi-infrastrutture-energetiche-ucraine/?bitPosition=3",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/03/new-york-morte-morbillo/?bitPosition=4",
+      "url": "https://www.ilpost.it/2026/11/03/la-fifa-concedera-ai-membri-del-consiglio-laccesso-ad-alcuni-documenti-relativi-al-criticato-piano-di-privatizzazione-di-infantino/?bitPosition=4",
       "status": 200
     }
   ],
-  "message": "5 notizie recenti con data verificata; copertura parziale.",
+  "message": "6 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [],
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.ilpost.it/",
-  "durationSeconds": 3.54
+  "durationSeconds": 3.53
 }

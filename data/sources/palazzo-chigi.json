@@ -4,12 +4,19 @@
   "sourceId": "palazzo-chigi",
   "originUrl": "https://www.governo.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-03T14:42:23.526828Z",
+  "collectedAt": "2026-11-03T20:41:38.013677Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.governo.it/feed/rss",
   "items": [
+    {
+      "title": "Incontro con il Presidente della Repubblica del Cile",
+      "url": "https://www.governo.it/it/articolo/incontro-con-il-presidente-della-repubblica-del-cile/33014",
+      "excerpt": "Il Presidente del Consiglio, Giorgia Meloni, ha ricevuto oggi il Presidente della Repubblica del Cile, José Antonio Kast. Nel corso del colloquio, il Presidente Kast ha voluto condividere le principali riforme varate dal suo Governo per migliorare il clima per gli investimenti e rilanciare la crescita. A tal riguardo, ",
+      "publishedAt": "2026-11-03T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "Esequie solenni dei Caduti nell’incidente elicotteristico in Bosnia ed Erzegovina",
       "url": "https://www.governo.it/it/articolo/esequie-solenni-dei-caduti-nell-incidente-elicotteristico-bosnia-ed-erzegovina/33011",
@@ -72,13 +79,6 @@
       "excerpt": "Il Sottosegretario Mantovano questa mattina è intervenuto all'evento \"Cyber Generation\", promosso nell'ambito del mese europeo della cybersicurezza. Al centro della giornata la cerimonia di consegna delle borse di studio ACN per il biennio 2024–2026.",
       "publishedAt": "2026-10-29T07:40:36Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Comunicato stampa del Consiglio dei Ministri n. 195",
-      "url": "https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-195/32973",
-      "excerpt": "Il Consiglio dei Ministri si è riunito mercoledì 28 ottobre 2026, alle ore 15.15 a Palazzo Chigi, sotto la presidenza del Presidente Giorgia Meloni. Segretario, il Sottosegretario alla Presidenza Alfredo Mantovano. ٠٠٠٠٠",
-      "publishedAt": "2026-10-28T20:40:33Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -100,5 +100,5 @@
     }
   ],
   "message": "Feed dichiarato dalla fonte; date di pubblicazione verificate.",
-  "durationSeconds": 30.13
+  "durationSeconds": 30.15
 }

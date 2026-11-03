@@ -4,12 +4,19 @@
   "sourceId": "ingv",
   "originUrl": "https://www.ingv.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-03T14:42:05.646943Z",
+  "collectedAt": "2026-11-03T20:41:16.487572Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.ingv.it/stampa-urp/ufficio-stampa/comunicati-stampa?format=feed&type=rss",
   "items": [
+    {
+      "title": "EINSTEIN TELESCOPE: I MINISTRI BERNINI E GEMKOW E LA PRESIDENTE TODDE A SOS ENATTOS PER RAFFORZARE LA CANDIDATURA ITALIA-SASSONIA",
+      "url": "https://www.ingv.it/stampa-urp/ufficio-stampa/comunicati-stampa/einstein-telescope-i-ministri-bernini-e-gemkow-e-la-presidente-todde-a-sos-enattos-per-rafforzare-la-candidatura-italia-sassonia",
+      "excerpt": "",
+      "publishedAt": "2026-11-03T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "CICLONE HARRY | Onde record nel Mediterraneo: uno studio svela i fattori che amplificano il rischio costiero",
       "url": "https://www.ingv.it/stampa-urp/ufficio-stampa/comunicati-stampa/ciclone-harry-onde-record-nel-mediterraneo-uno-studio-svela-i-fattori-che-amplificano-il-rischio-costiero",
@@ -47,5 +54,5 @@
     }
   ],
   "message": "Feed dichiarato dalla fonte; date di pubblicazione verificate.",
-  "durationSeconds": 1.21
+  "durationSeconds": 2.1
 }

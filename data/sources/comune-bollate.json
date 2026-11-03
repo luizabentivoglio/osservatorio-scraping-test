@@ -4,12 +4,19 @@
   "sourceId": "comune-bollate",
   "originUrl": "https://comune.bollate.mi.it/it/news",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-03T14:41:35.840984Z",
+  "collectedAt": "2026-11-03T20:40:45.474155Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "Comune chiuso per formazione il 10 e 17 novembre",
+      "url": "https://comune.bollate.mi.it/it/news/comune-chiuso",
+      "excerpt": "Sito ufficiale Comune di Bollate",
+      "publishedAt": "2026-11-03T00:00:00Z",
+      "dateEvidence": "html:news-date-label"
+    },
     {
       "title": "Carta “Dedicata a te: pubblicata la graduatoria dei benificiari",
       "url": "https://comune.bollate.mi.it/it/news/carta-dedicata-a-te-2051258-2072550",
@@ -44,13 +51,6 @@
       "excerpt": "Sito ufficiale Comune di Bollate",
       "publishedAt": "2026-10-23T00:00:00Z",
       "dateEvidence": "html:news-date-label"
-    },
-    {
-      "title": "Gioco d’azzardo: un impegno comune contro il gioco patologico",
-      "url": "https://comune.bollate.mi.it/it/news/gioco-azzardo-2059386",
-      "excerpt": "Sito ufficiale Comune di Bollate",
-      "publishedAt": "2026-10-23T00:00:00Z",
-      "dateEvidence": "html:news-date-label"
     }
   ],
   "attempts": [
@@ -60,6 +60,10 @@
     },
     {
       "url": "https://comune.bollate.mi.it/it/news",
+      "status": 200
+    },
+    {
+      "url": "https://comune.bollate.mi.it/it/news/comune-chiuso",
       "status": 200
     },
     {
@@ -81,10 +85,6 @@
     {
       "url": "https://comune.bollate.mi.it/it/news/censimento-2044015-2059439",
       "status": 200
-    },
-    {
-      "url": "https://comune.bollate.mi.it/it/news/gioco-azzardo-2059386",
-      "status": 200
     }
   ],
   "message": "6 notizie recenti con data verificata; copertura parziale.",
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://comune.bollate.mi.it/it/news",
-  "durationSeconds": 8.34
+  "durationSeconds": 4.87
 }

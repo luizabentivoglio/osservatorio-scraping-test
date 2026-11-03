@@ -4,51 +4,30 @@
   "sourceId": "la-stampa",
   "originUrl": "https://www.lastampa.it/",
   "configuredFeedUrl": "https://www.lastampa.it/rss/copertina.xml",
-  "collectedAt": "2026-11-03T14:42:13.328714Z",
+  "collectedAt": "2026-11-03T20:41:23.840852Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.lastampa.it/rss/copertina.xml",
   "items": [
     {
-      "title": "Casa, nel 2027 resta la detrazione al 50%: tutte le novità della manovra",
-      "url": "https://www.lastampa.it/economia/2026/11/03/news/casa_nel_2027_resta_la_detrazione_al_50_tutte_le_novita_della_manovra-15786881/",
-      "excerpt": "La legge di bilancio proroga ristrutturazioni, ecobonus e sismabonus, rifinanzia bonus mobili ed elettrodomestici, estende la cedolare secca ai negozi e la riduce al 5% sugli affitti a canone concordato, all’1% se l’inquilino ha meno di 36 anni. Stretta sui crediti, il Superbonus 2023 si spalma su dieci anni",
+      "title": "Spagna, si dimette il ministro dei Trasporti Puente dopo la strage ferroviaria",
+      "url": "https://www.lastampa.it/esteri/2026/11/03/news/spagna_si_dimette_il_ministro_dei_trasporti_puente_dopo_la_strage_ferroviaria-15787359/",
+      "excerpt": "Sono morte almeno 69 persone a Urda, nei pressi di Toledo",
       "publishedAt": "2026-11-03T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Dal frigorifero al videocitofono: quali oggetti possono essere hackerati e quando preoccuparsi",
-      "url": "https://www.lastampa.it/economia/2026/11/03/news/dal_frigorifero_al_videocitofono_quali_oggetti_possono_essere_hackerati_e_quando_preoccuparsi-15786679/",
-      "excerpt": "Gli attacchi ai supermercati europei mostrano come una violazione informatica possa produrre danni materiali. Ma non tutti gli apparecchi connessi presentano gli stessi rischi: contano la protezione degli accessi, gli aggiornamenti e le funzioni che affidiamo alla rete",
-      "publishedAt": "2026-11-03T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Attacchi hacker ai supermercati, il governo: “In Italia massima attenzione”",
-      "url": "https://www.lastampa.it/cronaca/2026/11/03/news/attacchi_hacker_supermercati_italia_cosa_sappiamo-15786909/",
-      "excerpt": "Il vertice del governo. In Italia «impatto limitato» e «non è emerso alcun caso di rischio per la salute»",
-      "publishedAt": "2026-11-03T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Teti e gli assalti ai supermercati: “Colpire il cibo destabilizza, rischiamo il terrorismo digitale”",
-      "url": "https://www.lastampa.it/cronaca/2026/11/03/news/teti-attacchi-hacker-frigoriferi-supermercati-terrorismo-digitale-15786406/",
-      "excerpt": "L'esperto di cybersicurezza: «Nessuna prova di un’unica regia, ma gli episodi vanno correlati. Le aziende separino i computer dagli impianti»",
-      "publishedAt": "2026-11-03T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Usa, seggi aperti in 9 Stati: è un referendum su Trump / La guida al voto: orari e luoghi",
+      "title": "Usa al voto, milioni alle urne. Trump: “A Guam vittoria dei repubblicani, speriamo sia un segnale”",
       "url": "https://www.lastampa.it/esteri/speciali/elezioni-midterm-2026/2026/11/03/diretta/elezioni_midterm_trump_usa_news_aggiornamenti-15786838/",
-      "excerpt": "Il presidente attacca i democratici: «Falsi candidati, vi rovineranno» Le elezioni di metà mandato per il rinnovo del congresso. Primi risultati a partire dalla mezzanotte italiana",
+      "excerpt": "In palio ci sono tutti i 435 seggi della Camera dei Rappresentanti, 35 dei 100 seggi del Senato e i governatorati di 36 Stati. Il presidente Usa: «Il voto più importante della nostra storia»",
       "publishedAt": "2026-11-03T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Attacco Usa in Iran e Midterm, le Borse ancora in rosso. Milano cede fino all’1%",
-      "url": "https://www.lastampa.it/economia/2026/11/03/news/borse_ooggi_rosso_vendite_tech_stretto_hormuz-15786587/",
-      "excerpt": "Spread in rialzo del 4,8% a 117 punti. A spaventare gli investitori sono stati i colpi Usa nella notte all’isola di Qeshm nello Stretto di Hormuz. Pesano anche le vendite sul tech",
+      "title": "Trump alla prova delle Midterm, perché è a rischio la sua capacità di governare",
+      "url": "https://www.lastampa.it/esteri/speciali/elezioni-midterm-2026/2026/11/03/video/trump_alla_prova_delle_midterm_perche_e_a_rischio_la_sua_capacita_di_governare-15787237/",
+      "excerpt": "Sono oltre 200 milioni gli aventi diritto al voto chiamati alle urne in questa giornata di Midterm. La percentuale di americani che, all'entrata dei seggi si dicono convinti che il Paese vada nella direzione sbagliata è il 76 per cento. Una battaglia negli Stati Uniti per il Congresso che ha in palio anche la capacità ",
       "publishedAt": "2026-11-03T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -60,37 +39,16 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Ryanair, dal 10 novembre cambiano le regole: chi sbaglia rischia di restare a piedi. Cosa sapere",
-      "url": "https://www.lastampa.it/economia/2026/11/03/news/ryanair_nuove_regole_novembre_2026-15786958/",
-      "excerpt": "La compagnia irlandese anticipa la chiusura dei banchi per il check-in e la consegna dei bagagli da stiva",
+      "title": "Trump e l'anatra zoppa: perché il voto di oggi può dare un colpo alla sua presidenza",
+      "url": "https://www.lastampa.it/esteri/speciali/elezioni-midterm-2026/2026/11/03/video/midterm_trump_anatra_zoppa_cosa_rischia-15786449/",
+      "excerpt": "È raro che il presidente in carica vinca alle Midterm, ma è altrettanto raro che possa perdere entrambi i rami del Congresso. Capitò l'ultima volta nel 2006, durante l'amministrazione Bush. Gli americani votano alle Midterm per innovare completamente la Camera dei rappresentanti (e i suoi 435 deputati) e un terzo del S",
       "publishedAt": "2026-11-03T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Il calciatore spagnolo Jesus De Miguel è morto dopo uno scontro in campo | Video",
-      "url": "https://www.lastampa.it/sport/calcio/2026/11/03/news/spagna_morto_de_miguel_attaccante_tenerife-15786621/",
-      "excerpt": "Il 30enne era stato colpito al petto dal portiere della squadra di Andorra durante una partita di Seconda divisione. Qualche ora dopo l’incidente è avvenuto il decesso",
-      "publishedAt": "2026-11-03T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Allarmi bomba sui voli in Europa, a Fiumicino si alzano i caccia: controlli in cinque Paesi",
-      "url": "https://www.lastampa.it/cronaca/2026/11/03/news/allarmi_bomba_sui_voli_in_europa_a_fiumicino_si_alzano_i_caccia_controlli_in_cinque_paesi-15786953/",
-      "excerpt": "Due aerei Ryanair scortati e controllati a Roma, verifiche anche in Polonia, Spagna e Bulgaria. Atterraggi di emergenza e interventi degli artificieri dopo una serie di segnalazioni",
-      "publishedAt": "2026-11-03T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "New York, bimbo muore di morbillo: non accadeva da 30 anni. Gli esperti: colpa del calo dei vaccini",
-      "url": "https://www.lastampa.it/esteri/2026/11/03/news/a_new_york_scatta_l_allarme_morbillo_muore_un_bambino_non_succedeva_da_trent_anni-15786409/",
-      "excerpt": "La vittima è un bambino della contea di Lewis, nel nord dello Stato. Gli Stati Uniti stanno affrontando la peggiore epidemia di morbillo degli ultimi 35 anni",
-      "publishedAt": "2026-11-03T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Bassetti: “Ora rischia di crollare tutto. In Italia l’obbligo vaccinale è un colabrodo”",
-      "url": "https://www.lastampa.it/cronaca/2026/11/03/news/morbillo_bassetti_obbligo_vaccinale_colabrodo-15786519/",
-      "excerpt": "Bassetti: “Fino a ieri ci si poteva illudere che l’epidemia fosse confinata in sacche marginali o comunità religiose refrattarie ai vaccini. Invece la bambina morta ci dice che la falla è sistemica”",
+      "title": "Garlasco, chiesto il processo per Andrea Sempio: “Ha colpito Chiara Poggi 12 volte al viso e alla testa”",
+      "url": "https://www.lastampa.it/cronaca/2026/11/03/news/garlasco_andrea_sempio_rinvio_giudizio_procura_pavia-15787109/",
+      "excerpt": "La richiesta di rinvio a giudizio dovrà essere valutata da un gup, dopo la fissazione dell'udienza preliminare",
       "publishedAt": "2026-11-03T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -109,13 +67,6 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "John Travolta ospite del Torino Film Festival: riceverà il Premio Stella della Mole",
-      "url": "https://www.lastampa.it/torino/2026/11/03/news/john_travolta_torino_film_festival_tff-15786617/",
-      "excerpt": "L’attore presenterà in anteprima italiana il primo film da lui diretto «Propeller One-Way Night Coach»",
-      "publishedAt": "2026-11-03T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
       "title": "Taylor Mega e quei 90mila euro dalla Regione Friuli per otto post: sono soldi ben spesi?",
       "url": "https://www.lastampa.it/spettacoli/2026/11/03/news/polemicamente_taylor_mega_90mila_euro_regione_friuli-15785673/",
       "excerpt": "PromoTurismoFvg ha proposto all’influencer di sponsorizzare il territorio. Per ora nessun contratto, ma un gran polverone",
@@ -123,23 +74,93 @@
       "dateEvidence": "feed:published"
     },
     {
+      "title": "John Travolta ospite del Torino Film Festival: riceverà il Premio Stella della Mole",
+      "url": "https://www.lastampa.it/torino/2026/11/03/news/john_travolta_torino_film_festival_tff-15786617/",
+      "excerpt": "L’attore presenterà in anteprima italiana il primo film da lui diretto «Propeller One-Way Night Coach»",
+      "publishedAt": "2026-11-03T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Casa, nel 2027 resta la detrazione al 50%: tutte le novità della manovra",
+      "url": "https://www.lastampa.it/economia/2026/11/03/news/casa_nel_2027_resta_la_detrazione_al_50_tutte_le_novita_della_manovra-15786881/",
+      "excerpt": "La legge di bilancio proroga ristrutturazioni, ecobonus e sismabonus, rifinanzia bonus mobili ed elettrodomestici, estende la cedolare secca ai negozi e la riduce al 5% sugli affitti a canone concordato, all’1% se l’inquilino ha meno di 36 anni. Stretta sui crediti, il Superbonus 2023 si spalma su dieci anni",
+      "publishedAt": "2026-11-03T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Bolletta del gas, a ottobre +9,1%. L’Unc: “Un record storico, mai così alta”",
+      "url": "https://www.lastampa.it/energie/2026/11/03/news/bolletta_del_gas_a_ottobre_91_l_unc_un_record_storico_mai_cosi_alta-15787005/",
+      "excerpt": "Per i 2,3 milioni di clienti vulnerabili la materia prima vale 88,36 euro al megawattora. La spesa annua sale a 1.945 euro, 2.814 con la luce. I consumatori attaccano: nella manovra nulla contro il caro energia.",
+      "publishedAt": "2026-11-03T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Ryanair, dal 10 novembre cambiano le regole: chi sbaglia rischia di restare a piedi. Cosa sapere",
+      "url": "https://www.lastampa.it/economia/2026/11/03/news/ryanair_nuove_regole_novembre_2026-15786958/",
+      "excerpt": "La compagnia irlandese anticipa la chiusura dei banchi per il check-in e la consegna dei bagagli da stiva",
+      "publishedAt": "2026-11-03T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Il calciatore spagnolo Jesus De Miguel è morto dopo uno scontro in campo | Video",
+      "url": "https://www.lastampa.it/sport/calcio/2026/11/03/news/spagna_morto_de_miguel_attaccante_tenerife-15786621/",
+      "excerpt": "Il 30enne era stato colpito al petto dal portiere della squadra di Andorra durante una partita di Seconda divisione. Qualche ora dopo l’incidente è avvenuto il decesso",
+      "publishedAt": "2026-11-03T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Niente sfilata delle moto al raduno dei Babbi Natale ma Torino non rinuncia alla festa per i bambini",
+      "url": "https://www.lastampa.it/torino/2026/11/03/news/niente_sfilata_delle_moto_al_raduno_dei_babbi_natale_ma_torino_non_rinuncia_alla_festa_per_i_bambini-15787105/",
+      "excerpt": "L’evento di domenica 13 dicembre sarà in tono minore per i cantieri in piazza Polonia. Dal parcheggio al Lingotto corteo a piedi fino sotto le finestre dei piccoli ricoverati al Regina Margherita",
+      "publishedAt": "2026-11-03T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Clochard ottiene dopo dieci anni 109mila euro per un anno e mezzo di ingiusta detenzione",
+      "url": "https://www.lastampa.it/cronaca/2026/11/03/news/treviso_clochard_109mila_risarcimento_ingiusta_detenzione-15787123/",
+      "excerpt": "L’associazione Avvocato di Strada Treviso che l’ha assistito: «Per un errore di trascrizione del nome ha perso il diritto al risarcimento»",
+      "publishedAt": "2026-11-03T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Allarmi bomba sui voli in Europa, a Fiumicino si alzano i caccia: controlli in cinque Paesi",
+      "url": "https://www.lastampa.it/cronaca/2026/11/03/news/allarmi_bomba_sui_voli_in_europa_a_fiumicino_si_alzano_i_caccia_controlli_in_cinque_paesi-15786953/",
+      "excerpt": "Due aerei Ryanair scortati e controllati a Roma, verifiche anche in Polonia, Spagna e Bulgaria. Atterraggi di emergenza e interventi degli artificieri dopo una serie di segnalazioni",
+      "publishedAt": "2026-11-03T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Dal frigorifero al videocitofono: quali oggetti possono essere hackerati e quando preoccuparsi",
+      "url": "https://www.lastampa.it/economia/2026/11/03/news/dal_frigorifero_al_videocitofono_quali_oggetti_possono_essere_hackerati_e_quando_preoccuparsi-15786679/",
+      "excerpt": "Gli attacchi ai supermercati europei mostrano come una violazione informatica possa produrre danni materiali. Ma non tutti gli apparecchi connessi presentano gli stessi rischi: contano la protezione degli accessi, gli aggiornamenti e le funzioni che affidiamo alla rete",
+      "publishedAt": "2026-11-03T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Attacchi hacker ai supermercati, il governo: “In Italia massima attenzione”",
+      "url": "https://www.lastampa.it/cronaca/2026/11/03/news/attacchi_hacker_supermercati_italia_cosa_sappiamo-15786909/",
+      "excerpt": "In Italia “non è emerso alcun caso di rischio per la salute”. “Colpire la filiera alimentare significa mettere a rischio non soltanto merci e operatività aziendale, ma anche la disponibilità di beni essenziali per le persone”, dice Fabio Battelli, Enterprise Security Leader di Deloitte",
+      "publishedAt": "2026-11-03T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Lo spettro degli hacker sulle primarie del centrosinistra",
+      "url": "https://www.lastampa.it/politica/2026/11/03/news/lo_spettro_degli_hacker_sulle_primarie_del_centrosinistra-15787311/",
+      "excerpt": "Gli attacchi informatici di questi giorni e il precedente francese preoccupano, soprattutto in casa Pd. Ma per Conte il voto anche online è imprescindibile",
+      "publishedAt": "2026-11-03T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Teti e gli assalti ai supermercati: “Colpire il cibo destabilizza, rischiamo il terrorismo digitale”",
+      "url": "https://www.lastampa.it/cronaca/2026/11/03/news/teti-attacchi-hacker-frigoriferi-supermercati-terrorismo-digitale-15786406/",
+      "excerpt": "L'esperto di cybersicurezza: «Nessuna prova di un’unica regia, ma gli episodi vanno correlati. Le aziende separino i computer dagli impianti»",
+      "publishedAt": "2026-11-03T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
       "title": "Vertice Nato-Usa, l'Italia non ci sarà. L'Ue: \"Dobbiamo essere pronti anche a un conflitto in Europa\"",
       "url": "https://www.lastampa.it/esteri/2026/11/03/diretta/guerra_russia_ucraina_news_oggi-15786381/",
-      "excerpt": "Il presidente ucraino: «Abbiamo offerto una tregua ma la Russia ci attacca ogni giorno». Il Cremlino: trilaterale con Usa e Ucraina ad Abu Dhabi il 10 e l'11 novembre",
-      "publishedAt": "2026-11-03T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Se il nonno mantiene il nipote può chiedere sostegno agli altri ascendenti: lo dice la Cassazione",
-      "url": "https://www.lastampa.it/economia/2026/11/03/news/nonno_mantiene_nipote_sostegno_altri_ascendenti_cassazione-15786914/",
-      "excerpt": "Il chiarimento nell’ordinanza n. 28166/2026: se i genitori sono nell’impossibilità economica, si può pretendere il rimborso dagli altri nonni per le spese sostenute",
-      "publishedAt": "2026-11-03T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Termosifoni accesi, ecco la regola dei 19 gradi: così si taglia la bolletta (e si aiuta l'ambiente)",
-      "url": "https://www.lastampa.it/energie/2026/11/02/news/termosifoni_accesi_la_regola_dei_19_gradi_cosi_si_taglia_la_bolletta-15785435/",
-      "excerpt": "Riapplicando le misure del 2022 si risparmierebbero 0,8 miliardi di metri cubi di gas. Dalla temperatura alla manutenzione, i quattro consigli dell’agenzia Enea",
+      "excerpt": "Zelensky oggi a Berlino da Merz. Il cancelliere: «Non vedo Mosca disposta a negoziare la pace». Il leader ucraino: «Abbiamo offerto una tregua, ma la Russia ci attacca ogni giorno». Trilaterale con Usa e Ucraina ad Abu Dhabi il 10 e l'11 novembre. Melania Trump riunisce alla Casa Bianca funzionari russi e ucraini il 5 ",
       "publishedAt": "2026-11-03T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -151,6 +172,13 @@
       "dateEvidence": "feed:published"
     },
     {
+      "title": "Spoiler di Fiorello sul Dopofestival: \"Lo farà Paola Iezzi\". Lei frena in videochiamata",
+      "url": "https://www.lastampa.it/spettacoli/2026/11/03/video/sanremo_lo_spoiler_di_fiorello_sul_dopofestival_sara_paola_iezzi_lei_frena_in_videochiamata-15787150/",
+      "excerpt": "Che impegni ha Paola Iezzi a febbraio? Fiorello la chiama in diretta a «La Pennicanza» del 3 novembre, dopo aver fatto il suo nome per il Dopofestival di Sanremo 2027 accanto alla Gialappa’s Band. La cantante scherza su un possibile viaggio in Svizzera. Quando lui accenna alla Liguria, lei tace. «Signori, c’è stato un ",
+      "publishedAt": "2026-11-03T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
       "title": "Fiorella Mannoia: \"Oggi è tutto mastica e sputa, a 27 anni sei vecchio anche per i talent\"",
       "url": "https://www.lastampa.it/spettacoli/2026/11/03/video/intervista_fiorella_mannoia_talent_show-15786876/",
       "excerpt": "«Quando ho cantato a Sanremo nel 1981 con Caffè nero bollente, avevo già fatto le mie esperienze e non avevo ancora capito quale fosse la mia strada». Così Fiorella Mannoia critica la velocità con cui oggi vengono lanciati e spesso dimenticati i giovani artisti, sottolineando quanto sia importante avere il tempo di mat",
@@ -158,58 +186,16 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Paolo Belli rompe il silenzio dopo quattro mesi: \"Ho deciso di tornare al mio lavoro\"",
-      "url": "https://www.lastampa.it/spettacoli/2026/11/03/video/paolo_belli_incidente_ritorno_al_lavoro-15786933/",
-      "excerpt": "Paolo Belli annuncia il ritorno all'attività artistica dopo lo stop che si era imposto in seguito all'incidente in bicicletta del 13 luglio scorso, nelle campagne della Bassa Reggiana, nel quale aveva perso la vita Alessandro Magnani, un uomo di 41 anni. Il cantante e showman modenese ha comunicato la decisione con un ",
+      "title": "Piantedosi: “A Torino saldatura fra anarchici e antagonisti, i giovani sono strumentalizzati”",
+      "url": "https://www.lastampa.it/torino/2026/11/03/news/piantedosi_cortei_saldatura_anarchici_antagonisti_giovani_strumentalizzati-15787098/",
+      "excerpt": "Il ministro a Torino: «Abbiamo sempre assicurato la libertà di manifestazione a chiunque, non abbiamo mai vietato manifestazioni. Ma vanno respinte tutte le forme di violenza»",
       "publishedAt": "2026-11-03T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Mattarella e Meloni ai funerali dei quattro militari morti in Bosnia, Crosetto: “Lo Stato si inchina”",
-      "url": "https://www.lastampa.it/cronaca/2026/11/03/news/militari_italiani_morti_bosnia_funerali_di_stato-15786682/",
-      "excerpt": "Monsignor Saba: «Spinti dal desiderio di promuovere soluzioni per i più fragili e per tenere viva la speranza nelle popolazioni esposte alle aggressioni». Il ministro annuncia: «Per loro un monumento»",
-      "publishedAt": "2026-11-03T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "“Con i manifesti ho chiuso”. Andrea Villa si ferma, l’ultima opera del Banksy di Torino",
-      "url": "https://www.lastampa.it/torino/2026/11/03/news/banksy_torino_andrea_villa_manifesti-15786922/",
-      "excerpt": "«I meme e l’intelligenza artificiale hanno cambiato il modo di comunicare attraverso le immagini. Oggi chiunque può realizzare qualcosa di simile a quello che facevo io»",
-      "publishedAt": "2026-11-03T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Ecco il 110° Giro d’Italia, ma il Nord-Ovest è sparito",
-      "url": "https://www.lastampa.it/sport/2026/11/03/news/giro_italia_percorso_niente_piemonte_liguria_valle_d_aosta-15786951/",
-      "excerpt": "Presentato il percorso della corsa rosa: partenza da Trieste l’8 maggio 2027 e arrivo il 30 maggio a Roma. Tante salite, però nessuna di Piemonte, Liguria e Valle d’Aosta",
-      "publishedAt": "2026-11-03T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Uccide la madre a coltellate nel Bresciano: arrestato ragazzo di 21 anni",
-      "url": "https://www.lastampa.it/cronaca/2026/11/03/news/hiari_uccide_mamma_coltellate_arrestato_21enne-15786480/",
-      "excerpt": "Il delitto nella notte nell'abitazione di famiglia in provincia di Brescia. Arrestato con l’accusa di omicidio volontario, è stato trasferito in carcere nelle prime ore del mattino",
-      "publishedAt": "2026-11-03T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Il dramma di Elisa: “Da bimba ho subito una violenza sessuale, mi ha segnata per sempre”",
-      "url": "https://www.lastampa.it/spettacoli/2026/11/03/news/elisa_cantante_confessione_violenza_sessuale-15786462/",
-      "excerpt": "A raccontarlo è la cantante in un’intervista di Walter Veltroni al Corriere della Sera. «Una persona violentata non ha mai nessuna colpa. Voglio cercare di essere utile alle tante ragazze e donne, e ai tanti ragazzi, che hanno subito la violenza sessuale» spiega la cantautrice",
-      "publishedAt": "2026-11-03T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Juve, Ekhator al posto di Locatelli in lista Uefa. Metà dell’aumento di capitale girata sul mercato",
-      "url": "https://www.lastampa.it/sport/2026/11/03/news/juventus_ekhator_lista_uefa_locatelli_mercato-15786973/",
-      "excerpt": "Il motivo è tra le pieghe del regolamento, un giocatore costretto ai box per almeno 60 giorni dal momento del cambio può essere rimpiazzato da un altro elemento già presente in rosa",
-      "publishedAt": "2026-11-03T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Vi spiego perché vietare i social ai giovani è utopistico e dannoso",
-      "url": "https://www.lastampa.it/cronaca/2026/11/03/news/stefano_zanero_vietare_social_giovani_utopistico_dannoso_mercati_opachi-15786252/",
-      "excerpt": "Il docente di cybersecurity: «Dobbiamo anche tutelare la privacy»",
+      "title": "Scontro tra elicotteri in Nepal: le pale si urtano nell'atterraggio",
+      "url": "https://www.lastampa.it/esteri/2026/11/03/video/nepal_everest_scontro_elicotteri_atterraggio_webcam-15787158/",
+      "excerpt": "Le pale dei due elicotteri si urtano mentre i velivoli scendono verso la piazzola di Pheriche, a 4.200 metri, lungo il percorso nepalese per il campo base dell’Everest. La webcam riprende lo scontro e le persone che corrono verso il relitto. Nell’incidente, avvenuto la mattina del 3 novembre, è morto un turista indiano",
       "publishedAt": "2026-11-03T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -221,13 +207,6 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Cina, -28 gradi nella \"città più fredda\": il fiume fuma e gli alberi diventano di cristallo",
-      "url": "https://www.lastampa.it/esteri/2026/11/03/video/cina_-28_gradi_nella_citta_piu_fredda_il_fiume_fuma_e_gli_alberi_diventano_di_cristallo-15784715/",
-      "excerpt": "Sembra un paesaggio uscito da una fiaba, ma è tutto vero. A Huzhong, nel nord-est della Cina, il termometro è precipitato a -28 gradi, trasformando le rive del fiume Huma in uno spettacolo incantato. All'alba, una nebbia bianca si solleva dall'acqua mentre salici, pioppi e arbusti si ricoprono di migliaia di cristalli ",
-      "publishedAt": "2026-11-03T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
       "title": "Il premier Burnham gioca a cricket ad Antigua, ma qualcosa va storto: cade in campo e diventa virale",
       "url": "https://www.lastampa.it/esteri/2026/11/03/video/gb_andy_burnham_cricket_caduta-15786441/",
       "excerpt": "Fuori programma per il primo ministro britannico Andy Burnham, protagonista di una caduta mentre giocava a cricket ad Antigua e Barbuda. Il premier, nel Paese caraibico per partecipare al vertice dei capi di governo del Commonwealth, stava prendendo parte a una partita al Bullets Cricket Ground di Powells quando, corre",
@@ -235,9 +214,9 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Trump e l'anatra zoppa: perché il voto di oggi può dare un colpo alla sua presidenza",
-      "url": "https://www.lastampa.it/esteri/speciali/elezioni-midterm-2026/2026/11/03/video/midterm_trump_anatra_zoppa_cosa_rischia-15786449/",
-      "excerpt": "È raro che il presidente in carica vinca alle Midterm, ma è altrettanto raro che possa perdere entrambi i rami del Congresso. Capitò l'ultima volta nel 2006, durante l'amministrazione Bush. Gli americani votano alle Midterm per innovare completamente la Camera dei rappresentanti (e i suoi 435 deputati) e un terzo del S",
+      "title": "Paolo Belli rompe il silenzio dopo quattro mesi: \"Ho deciso di tornare al mio lavoro\"",
+      "url": "https://www.lastampa.it/spettacoli/2026/11/03/video/paolo_belli_incidente_ritorno_al_lavoro-15786933/",
+      "excerpt": "Paolo Belli annuncia il ritorno all'attività artistica dopo lo stop che si era imposto in seguito all'incidente in bicicletta del 13 luglio scorso, nelle campagne della Bassa Reggiana, nel quale aveva perso la vita Alessandro Magnani, un uomo di 41 anni. Il cantante e showman modenese ha comunicato la decisione con un ",
       "publishedAt": "2026-11-03T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -245,6 +224,13 @@
       "title": "Meno di dieci secondi per distruggere tutto: così una tromba d'aria ha spazzato via un lido",
       "url": "https://www.lastampa.it/cronaca/2026/11/03/video/tromba_aria_castellaneta_marina_distrugge_lido_meno_dieci_secondi-15786927/",
       "excerpt": "Una violenta tromba d'aria ha colpito il lungomare di Castellaneta Marina, in provincia di Taranto, nella mattinata di lunedì 2 novembre, provocando ingenti danni al Lido Trocadero e momenti di apprensione tra i residenti. Le forti raffiche di vento hanno danneggiato gli spazi interni ed esterni dello stabilimento baln",
+      "publishedAt": "2026-11-03T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Termosifoni accesi, ecco la regola dei 19 gradi: così si taglia la bolletta (e si aiuta l'ambiente)",
+      "url": "https://www.lastampa.it/energie/2026/11/02/news/termosifoni_accesi_la_regola_dei_19_gradi_cosi_si_taglia_la_bolletta-15785435/",
+      "excerpt": "Riapplicando le misure del 2022 si risparmierebbero 0,8 miliardi di metri cubi di gas. Dalla temperatura alla manutenzione, i quattro consigli dell’agenzia Enea",
       "publishedAt": "2026-11-03T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -277,6 +263,13 @@
       "dateEvidence": "feed:published"
     },
     {
+      "title": "Cina, -28 gradi nella \"città più fredda\": il fiume fuma e gli alberi diventano di cristallo",
+      "url": "https://www.lastampa.it/esteri/2026/11/03/video/cina_-28_gradi_nella_citta_piu_fredda_il_fiume_fuma_e_gli_alberi_diventano_di_cristallo-15784715/",
+      "excerpt": "Sembra un paesaggio uscito da una fiaba, ma è tutto vero. A Huzhong, nel nord-est della Cina, il termometro è precipitato a -28 gradi, trasformando le rive del fiume Huma in uno spettacolo incantato. All'alba, una nebbia bianca si solleva dall'acqua mentre salici, pioppi e arbusti si ricoprono di migliaia di cristalli ",
+      "publishedAt": "2026-11-03T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
       "title": "Rischio di violenze se Trump vince, la sinistra voli più alto della destra",
       "url": "https://www.lastampa.it/esteri/speciali/elezioni-midterm-2026/2026/11/02/news/colum_mccann_midterm_rischio_violenze_se_trump_vince-15786312/",
       "excerpt": "Lo scrittore: «Non c’è stato niente di politico e nulla di ammirabile nel mandato del presidente»",
@@ -284,9 +277,16 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Termosifoni, scatta l’obbligo di telelettura. Multe fino a 2.500 per chi non si adegua: cosa sapere",
-      "url": "https://www.lastampa.it/tuttosoldi/2026/11/02/news/termosifoni_obbligo_telelettura_multe_cosa_sapere-15783077/",
-      "excerpt": "La misura riguarda gli impianti con riscaldamento centralizzato. Coinvolte circa 4 milioni di famiglie",
+      "title": "Terzo valico: altri 2 miliardi e mezzo fino al 2030, ma i 336 operai restano in “cassa”",
+      "url": "https://www.lastampa.it/alessandria/2026/11/02/news/terzo_valico_altri_245_miliardi_lavori_336_operai_restano_cassa_integrazione-15786001/",
+      "excerpt": "Gli ulteriori soldi pubblici previsti nella bozza della legge finanziaria, al momento non hanno sbloccato la situazione dei cantieri di Radimero e Val Lemme, neppure dopo l'incontro del 2 novembre in prefettura ad Alessandria. Ci sono anche 16 licenziati",
+      "publishedAt": "2026-11-02T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Gusti che cambiano e la crisi irreversibile dei consumi, il mondo del vino piemontese è a un bivio",
+      "url": "https://www.lastampa.it/cuneo/2026/11/02/news/crisi_vino-15784800/",
+      "excerpt": "Il confronto agli Stati generali del settore all’Università del Gusto di Pollenzo: l’idea di allargare i mercati e di introdurre una Igp regionale",
       "publishedAt": "2026-11-02T00:00:00Z",
       "dateEvidence": "feed:published"
     }
@@ -302,5 +302,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 0.98
+  "durationSeconds": 0.8
 }

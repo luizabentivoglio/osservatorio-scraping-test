@@ -4,7 +4,7 @@
   "sourceId": "quirinale",
   "originUrl": "https://www.quirinale.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-03T14:42:35.050929Z",
+  "collectedAt": "2026-11-03T20:41:51.198096Z",
   "status": "blocked",
   "diagnosticCode": "access_restricted",
   "method": "html",
@@ -24,7 +24,11 @@
       "status": 200
     },
     {
-      "url": "https://www.quirinale.it/it/notizie/presidente-mattarella-funerali-militari-caduti-bosnia",
+      "url": "https://www.quirinale.it/it/notizie/presidente-mattarella-ha-ricevuto-presidente-repubblica-cile-jose-antonio-kast-1",
+      "status": 200
+    },
+    {
+      "url": "https://www.quirinale.it/it/notizie/mattarella-funerali-militari-caduti-bosnia",
       "status": 200
     },
     {
@@ -36,23 +40,11 @@
       "status": 200
     },
     {
-      "url": "https://www.quirinale.it/it/notizie/mattarella-cerimonia-per-85-anniversario-snam",
-      "status": 200
-    },
-    {
       "url": "https://www.quirinale.it/it/notizie/nostra-repubblica-compie-ottant-anni-1",
-      "status": 200
-    },
-    {
-      "url": "https://www.quirinale.it/it/notizie/presidente-mattarella-consegna-decorazioni-ordine-militare-d-italia",
-      "status": 200
-    },
-    {
-      "url": "https://www.quirinale.it/it/notizie/presidente-mattarella-funerali-militari-caduti-bosnia",
       "status": 200
     }
   ],
-  "message": "Browser HTTP 403",
+  "message": "Verifica interattiva richiesta",
   "candidateSamples": [
     {
       "url": "https://www.quirinale.it/it/notizie/presidente-mattarella-consegna-decorazioni-ordine-militare-d-italia",
@@ -158,9 +150,24 @@
       ]
     },
     {
-      "url": "https://www.quirinale.it/it/notizie/presidente-mattarella-funerali-militari-caduti-bosnia",
+      "url": "https://www.quirinale.it/it/notizie/presidente-mattarella-ha-ricevuto-presidente-repubblica-cile-jose-antonio-kast-1",
+      "title": "Il Presidente della Repubblica Sergio Mattarella incontra José Antonio Kast, Presidente della Repubblica del Cile",
+      "h1": "Il Presidente Mattarella ha ricevuto il Presidente della Repubblica del Cile, José Antonio Kast",
+      "dates": [
+        {
+          "tag": "p",
+          "class": [
+            "date-label"
+          ],
+          "text": "Roma, 03/11/2026 (II mandato)",
+          "datetime": null
+        }
+      ]
+    },
+    {
+      "url": "https://www.quirinale.it/it/notizie/mattarella-funerali-militari-caduti-bosnia",
       "title": "Il Presidente della Repubblica Sergio Mattarella alle Esequie in forma solenne del Capitano Franco Adriano Zecchillo, del Sergente Maggiore Simone Ruggia, del Sergente Maggiore Claudio Marchesi e del Sergente Maggiore Laura Procacci",
-      "h1": "Il Presidente Mattarella ai funerali dei militari caduti in Bosnia",
+      "h1": "Mattarella ai funerali dei militari caduti in Bosnia",
       "dates": [
         {
           "tag": "span",
@@ -219,21 +226,6 @@
       ]
     },
     {
-      "url": "https://www.quirinale.it/it/notizie/mattarella-cerimonia-per-85-anniversario-snam",
-      "title": "Il Presidente della Repubblica Sergio Mattarella con Alessandro Zehentner, Presidente di SNAM, Agostino Scornajenchi, Amministratore delegato di SNAM, in occasione della cerimonia dell'85° anniversario di costituzione di SNAM",
-      "h1": "Mattarella alla cerimonia per l'85° anniversario di SNAM",
-      "dates": [
-        {
-          "tag": "p",
-          "class": [
-            "date-label"
-          ],
-          "text": "Roma, 30/10/2026 (II mandato)",
-          "datetime": null
-        }
-      ]
-    },
-    {
       "url": "https://www.quirinale.it/it/notizie/nostra-repubblica-compie-ottant-anni-1",
       "title": "I Volti della Repubblica",
       "h1": "La nostra Repubblica compie Ottant’anni",
@@ -252,5 +244,5 @@
   "candidateCount": 12,
   "datedCount": 0,
   "listingUrl": "https://www.quirinale.it/",
-  "durationSeconds": 4.34
+  "durationSeconds": 3.98
 }

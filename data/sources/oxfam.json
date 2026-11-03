@@ -4,12 +4,19 @@
   "sourceId": "oxfam",
   "originUrl": "https://www.oxfamitalia.org/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-03T14:42:19.448049Z",
+  "collectedAt": "2026-11-03T20:41:32.700540Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "IL BILANCIO SOCIALE 2025-26: IL CAMBIAMENTO È UN LAVORO COLLETTIVO",
+      "url": "https://www.oxfamitalia.org/il-bilancio-sociale-2025-26-il-cambiamento-e-un-lavoro-collettivo/",
+      "excerpt": "Scopri il Bilancio Sociale 2025-26 di Oxfam Italia: un anno di impatto, trasparenza e impegno condiviso per contrastare disuguaglianze.",
+      "publishedAt": "2026-11-03T10:30:32Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
     {
       "title": "LA NOSTRA PROPOSTA PER TASSARE DI PIÙ I GRANDI PATRIMONI",
       "url": "https://www.oxfamitalia.org/tassare-di-piu-i-grandi-patrimoni/",
@@ -49,6 +56,10 @@
       "status": 200
     },
     {
+      "url": "https://www.oxfamitalia.org/il-bilancio-sociale-2025-26-il-cambiamento-e-un-lavoro-collettivo/",
+      "status": 200
+    },
+    {
       "url": "https://www.oxfamitalia.org/tassare-di-piu-i-grandi-patrimoni/",
       "status": 200
     },
@@ -67,16 +78,12 @@
     {
       "url": "https://www.oxfamitalia.org/cisgiordania-senza-giustizi-economica-non-ce-futuro-per-3-milioni-di-palestinesi/",
       "status": 200
-    },
-    {
-      "url": "https://www.oxfamitalia.org/stop-al-blocco-firma-la-petizione-per-garantire-lingresso-degli-aiuti-umanitari-a-gaza/",
-      "status": 200
     }
   ],
-  "message": "4 notizie recenti con data verificata; copertura parziale.",
+  "message": "5 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [],
   "candidateCount": 8,
   "datedCount": 6,
   "listingUrl": "https://www.oxfamitalia.org/news/",
-  "durationSeconds": 4.08
+  "durationSeconds": 4.28
 }

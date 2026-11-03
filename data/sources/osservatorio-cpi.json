@@ -4,12 +4,19 @@
   "sourceId": "osservatorio-cpi",
   "originUrl": "https://osservatoriocpi.unicatt.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-03T14:42:18.088868Z",
+  "collectedAt": "2026-11-03T20:41:30.771064Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "Le dimensioni dello Stato italiano",
+      "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/le-dimensioni-dello-stato-italiano.html",
+      "excerpt": "Lo Stato ha ancora oggi un peso rilevante nell’economia italiana. Lo conferma il rapporto spesa pubblica/Pil del 2025, ben al di sopra sia della media dei Paesi avanzati sia dei membri dell’UE. Anche rispetto al suo Pil pro capite l’Italia ha una spesa totale in percentuale al Pil molto elevata. Questo risultato è però",
+      "publishedAt": "2026-11-03T00:00:00Z",
+      "dateEvidence": "html:article-header"
+    },
     {
       "title": "Oltre quale livello il rapporto debito/Pil dell’Italia diventa insostenibile?",
       "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/oltre-quale-livello-il-rapporto-debito-pil-dell-italia-diventa-insostenibile.html",
@@ -44,13 +51,6 @@
       "excerpt": "Le recenti pressioni sui titoli di Stato hanno riacceso il dibattito sulla sostenibilità del debito pubblico. Ricostruendo l’evoluzione del differenziale tra tasso d’interesse medio sul debito e crescita del Pil nominale, emerge che oggi quasi tutte le economie beneficiano di un differenziale negativo. Nel 2026 le unic",
       "publishedAt": "2026-10-27T00:00:00Z",
       "dateEvidence": "html:article-header"
-    },
-    {
-      "title": "La crescita dell’Italia, ancora anemica",
-      "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/la-crescita-dell-italia-ancora-anemica.html",
-      "excerpt": "Una politica di bilancio molto espansiva, in presenza di massicci acquisti di titoli da parte della BCE, ha sostenuto la crescita dell’Italia nel 2021 e nel 2022. Ma negli ultimi quattro anni l’Italia è tornata a crescere a un ritmo medio dello 0,2% a trimestre, lo stesso valore della crescita media dalla metà degli an",
-      "publishedAt": "2026-10-22T00:00:00Z",
-      "dateEvidence": "html:article-header"
     }
   ],
   "attempts": [
@@ -60,6 +60,10 @@
     },
     {
       "url": "https://osservatoriocpi.unicatt.it/pubblicazioni.html",
+      "status": 200
+    },
+    {
+      "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/le-dimensioni-dello-stato-italiano.html",
       "status": 200
     },
     {
@@ -81,10 +85,6 @@
     {
       "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/differenziale-i-g-oggi-soffrono-italia-e-francia-ma-il-quadro-potrebbe-peggiorare.html",
       "status": 200
-    },
-    {
-      "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/la-crescita-dell-italia-ancora-anemica.html",
-      "status": 200
     }
   ],
   "message": "6 notizie recenti con data verificata; copertura parziale.",
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://osservatoriocpi.unicatt.it/pubblicazioni.html",
-  "durationSeconds": 5.73
+  "durationSeconds": 7.24
 }
