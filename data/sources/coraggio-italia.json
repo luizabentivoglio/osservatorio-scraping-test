@@ -4,7 +4,7 @@
   "sourceId": "coraggio-italia",
   "originUrl": "https://www.coraggioitalia.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-04T18:15:44.407647Z",
+  "collectedAt": "2026-11-04T23:57:41.526578Z",
   "status": "no_feed",
   "diagnosticCode": "parsing_error",
   "method": "crawl4ai",
@@ -28,10 +28,6 @@
       "status": 404
     },
     {
-      "url": "https://www.coraggioitalia.it/cookie-policy/",
-      "status": 200
-    },
-    {
       "url": "https://www.coraggioitalia.it/politiche-2022/candidati/",
       "status": 301
     },
@@ -42,10 +38,10 @@
   ],
   "message": "Pagina accessibile, ma nessuna notizia con data di pubblicazione verificabile.",
   "candidateSamples": [],
-  "candidateCount": 2,
+  "candidateCount": 1,
   "datedCount": 0,
   "listingUrl": "https://www.coraggioitalia.it/",
-  "durationSeconds": 4.3,
+  "durationSeconds": 4.24,
   "attemptErrors": [
     {
       "url": "https://www.coraggioitalia.it/politiche-2022/candidati/",

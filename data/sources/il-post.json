@@ -4,52 +4,52 @@
   "sourceId": "il-post",
   "originUrl": "https://www.ilpost.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-04T18:16:08.442612Z",
+  "collectedAt": "2026-11-04T23:58:04.500567Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
+      "title": "L’osservatorio spaziale Swift è rientrato nell’atmosfera terrestre, dopo oltre vent’anni",
+      "url": "https://www.ilpost.it/2026/11/04/nasa-swfit-osservatorio-ritorno-terra/?bitPosition=1",
+      "excerpt": "L’osservatorio spaziale Swift è rientrato nell’atmosfera terrestre, dopo oltre vent’anni - Condividi - X - Regala il Post L’osservatorio spaziale Swift della NASA è rientrato nell’atmosfera terrestre, dopo una lenta caduta verso la Terra. Le stime della NASA prevedevano che l’ingresso nell’atmosfera sarebbe avvenuto in",
+      "publishedAt": "2026-11-04T19:35:21Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "Per giovedì 5 novembre nell’est della Sardegna è stata emessa l’allerta di grado massimo a causa delle forti piogge",
+      "url": "https://www.ilpost.it/2026/11/04/sardegna-allerta-rossa-5-novembre-maltempo/?bitPosition=2",
+      "excerpt": "Per giovedì 5 novembre nell’est della Sardegna è stata emessa l’allerta di grado massimo a causa delle forti piogge - Condividi - X - Regala il Post La Protezione civile della Sardegna ha diramato un’allerta rossa, quindi del grado massimo, per il rischio idrogeologico sulla costa est dell’isola a causa delle forti pio",
+      "publishedAt": "2026-11-04T18:13:48Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
       "title": "In Israele il presidente ha iniziato le consultazioni per scegliere chi incaricare come primo ministro",
-      "url": "https://www.ilpost.it/2026/11/04/israele-herzog-consultazioni-primo-ministro/?bitPosition=1",
+      "url": "https://www.ilpost.it/2026/11/04/israele-herzog-consultazioni-primo-ministro/?bitPosition=3",
       "excerpt": "In Israele il presidente ha iniziato le consultazioni per scegliere chi incaricare come primo ministro - Condividi - X - Regala il Post Mercoledì il presidente israeliano Isaac Herzog ha iniziato le consultazioni con i leader dei partiti per scegliere chi incaricare come primo ministro dopo le elezioni parlamentari di ",
       "publishedAt": "2026-11-04T17:10:41Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
       "title": "E adesso che succede negli Stati Uniti?",
-      "url": "https://www.ilpost.it/2026/11/04/cosa-succede-stati-uniti-elezioni-meta-mandato/?homepagePosition=2",
+      "url": "https://www.ilpost.it/2026/11/04/cosa-succede-stati-uniti-elezioni-meta-mandato/?homepagePosition=0",
       "excerpt": "Col Congresso a maggioranza Democratica per Trump gli ultimi due anni saranno più complessi, fra indagini, veti sulle nomine e trattative per il bilancio",
       "publishedAt": "2026-11-04T16:35:29Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "Cinque cose notevoli di queste elezioni di metà mandato",
-      "url": "https://www.ilpost.it/2026/11/04/cinque-cose-midterm-2026/?homepagePosition=2.1&referrerPost=3724279",
-      "excerpt": "I Democratici hanno vinto in stati dove non succedeva da decenni e in collegi ridisegnati per farli perdere, con diverse prime volte",
-      "publishedAt": "2026-11-04T13:38:12Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Come sono andate le elezioni di metà mandato negli Stati Uniti, in diretta col Post",
-      "url": "https://www.ilpost.it/2026/11/04/elezioni-meta-mandato-risultati-diretta-video-post/?homepagePosition=0",
-      "excerpt": "I risultati commentati con Francesco Costa, Laura Loguercio e Luca Misculin, dalle 19 alle 21",
+      "title": "Due ore sui risultati delle elezioni di metà mandato, col Post",
+      "url": "https://www.ilpost.it/2026/11/04/elezioni-meta-mandato-risultati-diretta-video-post/?homepagePosition=0.2&referrerPost=3724279",
+      "excerpt": "Il video della seconda diretta sulle parlamentari negli Stati Uniti, con Francesco Costa, Laura Loguercio e Luca Misculin",
       "publishedAt": "2026-11-04T08:49:47Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
       "title": "È una sconfitta soprattutto di Donald Trump",
-      "url": "https://www.ilpost.it/2026/11/04/trump-sconfitta-elezioni-midterm/?homepagePosition=2.2&referrerPost=3724279",
+      "url": "https://www.ilpost.it/2026/11/04/trump-sconfitta-elezioni-midterm/?homepagePosition=0.1&referrerPost=3724279",
       "excerpt": "Come una serie di scelte del presidente su candidati e politiche ha contribuito al disastro dei Repubblicani nelle elezioni di metà mandato",
       "publishedAt": "2026-11-04T06:48:31Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "I risultati delle elezioni negli Stati Uniti, in breve",
-      "url": "https://www.ilpost.it/2026/11/04/elezioni-midterm-risultati/?homepagePosition=0.1&referrerPost=3724330",
-      "excerpt": "I Democratici hanno stravinto ovunque e hanno preso il controllo del Congresso: è una grossa sconfitta per Trump",
-      "publishedAt": "2026-11-04T05:54:50Z",
       "dateEvidence": "jsonld:datePublished"
     }
   ],
@@ -63,27 +63,27 @@
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/04/elezioni-meta-mandato-risultati-diretta-video-post/?homepagePosition=0",
+      "url": "https://www.ilpost.it/2026/11/04/cosa-succede-stati-uniti-elezioni-meta-mandato/?homepagePosition=0",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/04/elezioni-midterm-risultati/?homepagePosition=0.1&referrerPost=3724330",
+      "url": "https://www.ilpost.it/2026/11/04/trump-sconfitta-elezioni-midterm/?homepagePosition=0.1&referrerPost=3724279",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/04/cosa-succede-stati-uniti-elezioni-meta-mandato/?homepagePosition=2",
+      "url": "https://www.ilpost.it/2026/11/04/elezioni-meta-mandato-risultati-diretta-video-post/?homepagePosition=0.2&referrerPost=3724279",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/04/cinque-cose-midterm-2026/?homepagePosition=2.1&referrerPost=3724279",
+      "url": "https://www.ilpost.it/2026/11/04/nasa-swfit-osservatorio-ritorno-terra/?bitPosition=1",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/04/trump-sconfitta-elezioni-midterm/?homepagePosition=2.2&referrerPost=3724279",
+      "url": "https://www.ilpost.it/2026/11/04/sardegna-allerta-rossa-5-novembre-maltempo/?bitPosition=2",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/04/israele-herzog-consultazioni-primo-ministro/?bitPosition=1",
+      "url": "https://www.ilpost.it/2026/11/04/israele-herzog-consultazioni-primo-ministro/?bitPosition=3",
       "status": 200
     }
   ],
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.ilpost.it/",
-  "durationSeconds": 3.56
+  "durationSeconds": 3.68
 }

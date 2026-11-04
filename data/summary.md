@@ -6,13 +6,13 @@
 | ap-news | blocked | html | 0 | access_restricted |
 | azione | blocked | html | 0 | access_restricted |
 | banca-italia | blocked | html | 0 | robots_disallowed |
-| breaking-italy | ok | trafilatura | 4 | — |
+| breaking-italy | ok | trafilatura | 1 | — |
 | camera | ok | trafilatura | 6 | — |
 | cisl | blocked | html | 0 | robots_disallowed |
 | cnr | ok | rss | 20 | — |
 | coldiretti | ok | trafilatura | 3 | — |
 | commissione-europea | ok | trafilatura | 1 | — |
-| comune-bollate | error | html | 0 | http_error |
+| comune-bollate | ok | trafilatura | 6 | — |
 | confcommercio | blocked | html | 0 | access_restricted |
 | confindustria | ok | trafilatura | 1 | — |
 | consiglio-ue | blocked | html | 0 | access_restricted |
@@ -27,7 +27,7 @@
 | factanza | blocked | html | 0 | access_restricted |
 | fanpage | blocked | html | 0 | access_restricted |
 | forza-italia | ok | trafilatura | 0 | — |
-| futuro-nazionale | error | html | 0 | robots_unavailable |
+| futuro-nazionale | ok | rss | 0 | — |
 | good-morning-italia | blocked | html | 0 | access_restricted |
 | greenpeace | ok | trafilatura | 2 | — |
 | hrw | blocked | html | 0 | access_restricted |
@@ -48,7 +48,7 @@
 | libera | ok | html | 1 | — |
 | mef | ok | trafilatura | 4 | — |
 | msf | ok | trafilatura | 6 | — |
-| osservatorio-cpi | ok | trafilatura | 6 | — |
+| osservatorio-cpi | ok | trafilatura | 5 | — |
 | oxfam | ok | trafilatura | 5 | — |
 | pagella-politica | ok | trafilatura | 6 | — |
 | palazzo-chigi | ok | rss | 10 | — |

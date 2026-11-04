@@ -4,16 +4,16 @@
   "sourceId": "italia-domani-rizzo",
   "originUrl": "https://www.italiadomanirizzo.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-04T18:16:10.370507Z",
+  "collectedAt": "2026-11-04T23:58:06.709326Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
-      "title": "Piemonte: nuovi comitati e consiglieri scelgono il progetto di Italia Domani - Italia Domani",
-      "url": "https://www.italiadomanirizzo.it/piemonte-nuovi-comitati-e-consiglieri-scelgono-il-progetto-d/",
-      "excerpt": "A Torino quattro comitati e due consiglieri circoscrizionali lasciano Futuro Nazionale e guardano con entusiasmo al percorso politico tracciato da Marco Rizzo.",
+      "title": "Rizzo a Chieti: proposta di legge per inserire il contante in Costituzione - Italia Domani",
+      "url": "https://www.italiadomanirizzo.it/rizzo-a-chieti-proposta-di-legge-per-inserire-il-contante-in/",
+      "excerpt": "A Chieti Marco Rizzo denuncia i rischi dell'euro digitale e chiede di difendere la libertà dei cittadini introducendo il contante nella Costituzione.",
       "publishedAt": "2026-11-04T00:00:00Z",
       "dateEvidence": "jsonld:datePublished"
     },
@@ -25,10 +25,10 @@
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "Crisi in Futuro Nazionale: sul territorio molti scelgono Italia Domani - Italia Domani",
-      "url": "https://www.italiadomanirizzo.it/crisi-in-futuro-nazionale-sul-territorio-molti-scelgono-ital/",
-      "excerpt": "Crescono le defezioni nel movimento di Vannacci in tutta Italia. A Sassari centinaia di iscritti hanno lasciato il partito per aderire al progetto politico di Marco Rizzo.",
-      "publishedAt": "2026-11-02T00:00:00Z",
+      "title": "Piemonte: nuovi comitati e consiglieri scelgono il progetto di Italia Domani - Italia Domani",
+      "url": "https://www.italiadomanirizzo.it/piemonte-nuovi-comitati-e-consiglieri-scelgono-il-progetto-d/",
+      "excerpt": "A Torino quattro comitati e due consiglieri circoscrizionali lasciano Futuro Nazionale e guardano con entusiasmo al percorso politico tracciato da Marco Rizzo.",
+      "publishedAt": "2026-11-04T00:00:00Z",
       "dateEvidence": "jsonld:datePublished"
     }
   ],
@@ -42,7 +42,7 @@
       "status": 200
     },
     {
-      "url": "https://www.italiadomanirizzo.it/piemonte-nuovi-comitati-e-consiglieri-scelgono-il-progetto-d/",
+      "url": "https://www.italiadomanirizzo.it/rizzo-a-chieti-proposta-di-legge-per-inserire-il-contante-in/",
       "status": 200
     },
     {
@@ -50,7 +50,7 @@
       "status": 200
     },
     {
-      "url": "https://www.italiadomanirizzo.it/crisi-in-futuro-nazionale-sul-territorio-molti-scelgono-ital/",
+      "url": "https://www.italiadomanirizzo.it/piemonte-nuovi-comitati-e-consiglieri-scelgono-il-progetto-d/",
       "status": 200
     },
     {
@@ -94,5 +94,5 @@
   "candidateCount": 8,
   "datedCount": 3,
   "listingUrl": "https://www.italiadomanirizzo.it/",
-  "durationSeconds": 6.82
+  "durationSeconds": 5.96
 }

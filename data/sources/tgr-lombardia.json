@@ -4,7 +4,7 @@
   "sourceId": "tgr-lombardia",
   "originUrl": "https://www.rainews.it/tgr/lombardia",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-04T18:16:44.250310Z",
+  "collectedAt": "2026-11-04T23:58:37.818597Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "crawl4ai",
@@ -49,5 +49,5 @@
   "candidateCount": 10,
   "datedCount": 6,
   "listingUrl": "https://www.rainews.it/tgr/lombardia/archivio/newsmedia",
-  "durationSeconds": 1.14
+  "durationSeconds": 0.92
 }

@@ -4,7 +4,7 @@
   "sourceId": "palazzo-chigi",
   "originUrl": "https://www.governo.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-04T18:16:24.413723Z",
+  "collectedAt": "2026-11-04T23:58:20.408337Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
@@ -14,6 +14,13 @@
       "title": "Definizione delle misure tecniche e organizzative del Sistema IT-Wallet",
       "url": "https://www.governo.it/it/articolo/definizione-delle-misure-tecniche-e-organizzative-del-sistema-it-wallet/33033",
       "excerpt": "Pubblicato il Decreto del Capo del dipartimento per la trasformazione digitale del 29 settembre 2026 di definizione delle misure tecniche e organizzative da adottarsi con riferimento ai trattamenti di dati personali effettuati nell’ambito del Sistema IT-Wallet, ai sensi dell’articolo 8, comma 5, del Dpcm 19 marzo 2026.",
+      "publishedAt": "2026-11-04T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Giornata dell’Unità Nazionale e delle Forze armate, Palazzo Chigi si illumina con il Tricolore",
+      "url": "https://www.governo.it/it/articolo/giornata-dell-unit-nazionale-e-delle-forze-armate-palazzo-chigi-si-illumina-con-il",
+      "excerpt": "In occasione della “Giornata dell’Unità Nazionale e delle Forze armate”, dall’imbrunire della giornata odierna fino all’alba del 5 novembre 2026, la facciata principale di Palazzo Chigi sarà illuminata con il Tricolore italiano: verde, bianco e rosso, a bande verticali.",
       "publishedAt": "2026-11-04T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -67,13 +74,6 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Operazione della Polizia di Stato contro la criminalità giovanile, dichiarazione del Presidente Meloni",
-      "url": "https://www.governo.it/it/articolo/operazione-della-polizia-di-stato-contro-la-criminalit-giovanile-dichiarazione-del",
-      "excerpt": "Desidero esprimere il mio apprezzamento e la mia gratitudine alla Polizia di Stato per la vasta operazione condotta su tutto il territorio nazionale contro la criminalità giovanile, che ha portato a centinaia di arresti, migliaia di denunce e al sequestro di ingenti quantitativi di droga e armi. Un risultato importante",
-      "publishedAt": "2026-11-02T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
       "title": "Dichiarazione congiunta sul rafforzamento della cooperazione spaziale tra Italia e Germania",
       "url": "https://www.governo.it/it/articolo/dichiarazione-congiunta-sul-rafforzamento-della-cooperazione-spaziale-tra-italia-e-germania",
       "excerpt": "Si è svolto, presso il Centro Spaziale del Fucino (AQ), un dialogo bilaterale tra Italia e Germania sulle politiche spaziali e sull'economia spaziale, con la partecipazione di rappresentanti dei rispettivi Governi, delle Agenzie Spaziali nazionali e delle Amministrazioni competenti. L'incontro ha offerto l'occasione pe",
@@ -100,5 +100,5 @@
     }
   ],
   "message": "Feed dichiarato dalla fonte; date di pubblicazione verificate.",
-  "durationSeconds": 30.13
+  "durationSeconds": 30.12
 }

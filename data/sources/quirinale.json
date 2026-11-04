@@ -4,7 +4,7 @@
   "sourceId": "quirinale",
   "originUrl": "https://www.quirinale.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-04T18:16:36.947646Z",
+  "collectedAt": "2026-11-04T23:58:29.666971Z",
   "status": "blocked",
   "diagnosticCode": "access_restricted",
   "method": "html",
@@ -42,13 +42,9 @@
     {
       "url": "https://www.quirinale.it/it/notizie/nostra-repubblica-compie-ottant-anni-1",
       "status": 200
-    },
-    {
-      "url": "https://www.quirinale.it/it/notizie/60-anni-alluvione-firenze-mattarella-interviene-cerimonia",
-      "status": 200
     }
   ],
-  "message": "Browser HTTP 403",
+  "message": "Verifica interattiva richiesta",
   "candidateSamples": [
     {
       "url": "https://www.quirinale.it/it/notizie/60-anni-alluvione-firenze-mattarella-interviene-cerimonia",
@@ -336,5 +332,5 @@
   "candidateCount": 12,
   "datedCount": 0,
   "listingUrl": "https://www.quirinale.it/",
-  "durationSeconds": 4.03
+  "durationSeconds": 4.42
 }

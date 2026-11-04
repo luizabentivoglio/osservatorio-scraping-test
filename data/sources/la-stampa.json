@@ -4,14 +4,14 @@
   "sourceId": "la-stampa",
   "originUrl": "https://www.lastampa.it/",
   "configuredFeedUrl": "https://www.lastampa.it/rss/copertina.xml",
-  "collectedAt": "2026-11-04T18:16:12.783884Z",
+  "collectedAt": "2026-11-04T23:58:08.703635Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.lastampa.it/rss/copertina.xml",
   "items": [
     {
-      "title": "Usa, i dem conquistano il Congresso. Il post di Trump: “Resto il vostro presidente”. Vance: “Perso per colpa della guerra”/ Video",
+      "title": "Usa, onda dem. Vance: “Perso per la guerra in Iran”. Trump: “Ha ragione, ma lo rifarei”. E non licenzierà Hegseth/ Video",
       "url": "https://www.lastampa.it/esteri/speciali/elezioni-midterm-2026/2026/11/04/diretta/elezioni_midterm_usa_2026_risultati_diretta-15787485/",
       "excerpt": "Tsunami blu: El Sayed vince in Michigan, Talarico si prende il Texas, Sherrod Brown l’Ohio, Adam Hamilton primo in Kansas. L’ira del presidente, l’ammissione della sconfitta e la telefonata a Fox. Su Truth diventa «Mr.Veto»",
       "publishedAt": "2026-11-04T00:00:00Z",
@@ -25,16 +25,9 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Lo tsunami blu",
-      "url": "https://www.lastampa.it/esteri/speciali/elezioni-midterm-2026/2026/11/04/news/commento_tsunami_blu_congresso_conseguenze-15787508/",
-      "excerpt": "Le tre ragioni dietro la sconfitta di Trump e le sfide che si aprono per democratici e repubblicani",
-      "publishedAt": "2026-11-04T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Trionfo dem, su le Borse e Wall Street vola. Trump esulta: “Il 91° record in due anni”. Giù i titoli di Musk",
-      "url": "https://www.lastampa.it/esteri/speciali/elezioni-midterm-2026/2026/11/04/news/borse_oggi_rialzo_calo_petrolio_elezioni_midterm_usa_piazza_affari_scenari-15787668/",
-      "excerpt": "Piazza Affari chiude come miglior listino europeo dietro Madrid. A New York i futures sui principali indici sono positivi",
+      "title": "Nato e Iran, lo spettro di una rivalsa di Trump agita Meloni: “La sinistra ha poco da festeggiare”",
+      "url": "https://www.lastampa.it/esteri/speciali/elezioni-midterm-2026/2026/11/04/news/nato_e_iran_lo_spettro_di_una_rivalsa-trump_agita_meloni_la_sinistra_ha_poco_da_festeggiare-15787607/",
+      "excerpt": "Per la premier diventa ancora più urgente accelerare lo smarcamento dal tycoon già partito nei mesi scorsi",
       "publishedAt": "2026-11-04T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -46,23 +39,9 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Ucraina, Epstein, Musk, Kushner: i quattro dossier su cui i Dem ora possono far male a Trump",
-      "url": "https://www.lastampa.it/esteri/speciali/elezioni-midterm-2026/2026/11/04/news/ucraina_epstein_musk_kushner_i_quattro_dossier_su_cui_i_dem_ora_possono_far_male_a_trump-15787536/",
-      "excerpt": "Cosa cambia, per la guerra di Putin all’Ucraina ma anche per l’entourage Trump e i suoi sodali più stretti, con la sconfitta in entrambe le camere?",
-      "publishedAt": "2026-11-04T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Nato e Iran, lo spettro di una rivalsa di Trump agita Meloni: “La sinistra ha poco da festeggiare”",
-      "url": "https://www.lastampa.it/esteri/speciali/elezioni-midterm-2026/2026/11/04/news/nato_e_iran_lo_spettro_di_una_rivalsa-trump_agita_meloni_la_sinistra_ha_poco_da_festeggiare-15787607/",
-      "excerpt": "Per la premier diventa ancora più urgente accelerare lo smarcamento dal tycoon già partito nei mesi scorsi",
-      "publishedAt": "2026-11-04T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Fattore Prevost, la Chiesa americana ha voltato le spalle a Trump",
-      "url": "https://www.lastampa.it/esteri/speciali/elezioni-midterm-2026/2026/11/04/news/papa_leone_midterm_voto_cattolici-15787741/",
-      "excerpt": "La prima volta di un Pontefice alle urne e il voltafaccia della Chiesa Usa al Tycoon. «Trump non è più percepito come il difensore della democrazia», spiega il canonista don Di Giacomo",
+      "title": "Trionfo dem, su le Borse e Wall Street vola. Trump esulta: “Il 91° record in due anni”. Giù i titoli di Musk",
+      "url": "https://www.lastampa.it/esteri/speciali/elezioni-midterm-2026/2026/11/04/news/borse_oggi_rialzo_calo_petrolio_elezioni_midterm_usa_piazza_affari_scenari-15787668/",
+      "excerpt": "Piazza Affari chiude come miglior listino europeo dietro Madrid. A New York i futures sui principali indici sono positivi",
       "publishedAt": "2026-11-04T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -81,72 +60,9 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "James Talarico, l’ex seminarista che ha conquistato il Texas: “I miliardari rovinano l’America”",
-      "url": "https://www.lastampa.it/esteri/speciali/elezioni-midterm-2026/2026/11/04/news/chi_e_james_talarico_senatore_texas_democratico-15787488/",
-      "excerpt": "Studente di teologia prima, insegnante poi: suo il clamoroso exploit nella roccaforte repubblicana",
-      "publishedAt": "2026-11-04T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Annie Andrews, la pediatra più forte di chi diceva che vuole cambiare sesso ai bambini",
-      "url": "https://www.lastampa.it/esteri/speciali/elezioni-midterm-2026/2026/11/04/news/chi_e_annie_andrews_pediatra_nuova_senatrice_south_carolina-15787493/",
-      "excerpt": "In South Carolina la dottoressa ha sconfitto l’azzardo di Trump che aveva voluto schierare la sorella del defunto senatore Lindsey Graham",
-      "publishedAt": "2026-11-04T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Addio a Tinto Brass, maestro dell’erotismo e di una generazione di attrici simbolo",
-      "url": "https://www.lastampa.it/spettacoli/2026/11/04/news/tinto_brass_morto-15787834/",
-      "excerpt": "Era nato a Milano il 26 marzo 1933. Per ora la famiglia prevede per i funerali una cerimonia strettamente privata",
-      "publishedAt": "2026-11-04T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Inchiesta Condotte, la battaglia senza fine per il controllo del colosso delle costruzioni",
-      "url": "https://www.lastampa.it/cronaca/2026/11/04/news/inchiesta_condotte_la_battaglia_senza_fine_per_il_controllo_del_colosso_delle_costruzioni-15788072/",
-      "excerpt": "Prosegue il braccio di ferro tra il Mimit e gli ex commissari straordinari. Il Tar e il Consiglio di Stato respingono le istanze del ministero. Il 26 novembre la prossima discussione",
-      "publishedAt": "2026-11-04T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Delitto di Garlasco, la mossa della difesa di Sempio e l’ipotesi della Consulta",
-      "url": "https://www.lastampa.it/cronaca/2026/11/04/news/sempio_difesa_consulta_conflitto_giudicato_revisione_stasi-15787881/",
-      "excerpt": "Gli avvocati di Stasi lavorano alla richiesta di revisione del processo. Quelli dell’indagato vogliono sollevare la questione relativa al “conflitto di giudicato”. Ecco che cosa potrebbe accadere",
-      "publishedAt": "2026-11-04T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "“Sei attratto dagli uomini?”: la risposta dell’ex prete Ravagnani a Diaco è una lezione per tutti",
-      "url": "https://www.lastampa.it/rubriche/diversity-editor/2026/11/04/news/ex_prete_ravagnani_diaco_domanda_attratto_uomini_risposta-15787945/",
-      "excerpt": "Dalle domande sulla sessualità in Rai al precedente con Donatella Rettore. Una riflessione su privacy, curiosità e confini dell’informazione",
-      "publishedAt": "2026-11-04T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Violenza sessuale su un chierichetto, confermata la condanna a 10 anni per padre Andrea Melis",
-      "url": "https://www.lastampa.it/savona/2026/11/04/news/finale_corte_d_appello_conferma_la_condanna_a_10_anni_a_padre_melis-15788045/",
-      "excerpt": "La sentenza della Corte d’Appello: il religioso era finito al centro di un’inchiesta per gli abusi commessi ai danni di un minorenne",
-      "publishedAt": "2026-11-04T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Cinema, la prima immagine di Favino nel ruolo di Marchionne",
-      "url": "https://www.lastampa.it/spettacoli/2026/11/04/news/la_prima_immagine_di_favino-marchionne-15787886/",
-      "excerpt": "Proseguono le riprese di FALCON, diretto da Marco Bellocchio. La produzione del film sul manager Fiat prematuramente scomparso è in corso nello storico stabilimento Mirafiori di Torino",
-      "publishedAt": "2026-11-04T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Leclerc papà: è nata Bianca",
-      "url": "https://www.lastampa.it/sport/2026/11/04/news/leclerc_nata_figlia_bianca-15787889/",
-      "excerpt": "L’annuncio sui social del pilota della Ferrari e di sua moglie Alexandra",
-      "publishedAt": "2026-11-04T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Cobolli qualificato per le Atp Finals: sarà l'italiano da tifare a Torino",
-      "url": "https://www.lastampa.it/torino/2026/11/04/news/atp_finals_torino_2026_flavio_cobolli_italiano_singolare-15787722/",
-      "excerpt": "Arriverà al torneo dei Maestri in programma dal 15 al 22 novembre dopo la miglior stagione della sua carriera",
+      "title": "Fattore Prevost, la Chiesa americana ha voltato le spalle a Trump",
+      "url": "https://www.lastampa.it/esteri/speciali/elezioni-midterm-2026/2026/11/04/news/papa_leone_midterm_voto_cattolici-15787741/",
+      "excerpt": "La prima volta di un Pontefice alle urne e il voltafaccia della Chiesa Usa al Tycoon. «Trump non è più percepito come il difensore della democrazia», spiega il canonista don Di Giacomo",
       "publishedAt": "2026-11-04T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -179,37 +95,23 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "“Io spogliata dall’Ai per 4 euro a foto. Su quel sito ci sono gli scatti di 10mila ragazze”",
-      "url": "https://www.lastampa.it/cronaca/2026/11/04/news/chiara_lipari_foto_spogliata_intelligenza_artificiale_denuncia-15787603/",
-      "excerpt": "La denuncia di Chiara Lipari, content creator, 28 anni: “L’ho scoperto per caso. In alcuni scatti ero ancora minorenne”",
+      "title": "Il satellite Nasa Swift sta cadendo sulla Terra. Studiava i raggi gamma, si disintegrerà",
+      "url": "https://www.lastampa.it/esteri/2026/11/04/news/satellite_nasa_swift_sta_cadendo_sulla_terra-15788515/",
+      "excerpt": "Era in servizio dal 2004, non possiede sistemi di propulsione",
       "publishedAt": "2026-11-04T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Cento mail al giorno all’ex marito: “Vedrai che morirai, ti ammazzo se ti avvicini a mio figlio”",
-      "url": "https://www.lastampa.it/torino/2026/11/04/news/mail_minacce_ex_marito_condanna_molestie_torino-15787578/",
-      "excerpt": "Una quarantenne è stata condannata per molestie a Torino, lui l’aveva lasciata dopo la nascita del primo figlio",
+      "title": "“Sei attratto dagli uomini?”: la risposta dell’ex prete Ravagnani a Diaco è una lezione per tutti",
+      "url": "https://www.lastampa.it/rubriche/diversity-editor/2026/11/04/news/ex_prete_ravagnani_diaco_domanda_attratto_uomini_risposta-15787945/",
+      "excerpt": "Dalle domande sulla sessualità in Rai al precedente con Donatella Rettore. Una riflessione su privacy, curiosità e confini dell’informazione",
       "publishedAt": "2026-11-04T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Trecate, schiacciato dal braccio metallico di una gru: muore un operaio di 57 anni",
-      "url": "https://www.lastampa.it/novara/2026/11/04/news/trecate_schiacciato_gru_operaio_incidente_sul_lavoro-15787992/",
-      "excerpt": "Incidente sul lavoro in un cantiere oggi pomeriggio",
-      "publishedAt": "2026-11-04T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Muore per cause ignote Uglev, lo scienziato che inventò il novichok. E poi smentì il Cremlino",
-      "url": "https://www.lastampa.it/esteri/2026/11/04/news/muore_per_cause_ignote_uglev_lo_scienziato_che_invento_il_novichok_e_poi_smenti_il_cremlino-15787660/",
-      "excerpt": "Lavorò alla tossina dal 1975 al 1990. In anni successivi si espresse criticando con forza il suo utilizzo contro la popolazione civile, e collaborando alle inchieste giornalistiche sugli avvelenamenti di Navalny e Skripal",
-      "publishedAt": "2026-11-04T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "I colossi dell’energia a governo e Confindustria: “Dialoghiamo”. Ma sulle bollette è scontro",
-      "url": "https://www.lastampa.it/economia/2026/11/04/news/i_colossi_dell_energia_a_governo_e_confindustria_dialoghiamo_ma_sulle_bollette_e_scontro-15787832/",
-      "excerpt": "All’assemblea il presidente Salvatore Pinto invita Palazzo Chigi e Confindustria a un confronto sulle misure che pesano sul comparto elettrico. Sullo sfondo il nuovo decreto Bollette e il price cap sul gas atteso domani in Cdm. “Populismo energetico”",
+      "title": "Addio a Tinto Brass, maestro dell’erotismo e di una generazione di attrici simbolo",
+      "url": "https://www.lastampa.it/spettacoli/2026/11/04/news/tinto_brass_morto-15787834/",
+      "excerpt": "Era nato a Milano il 26 marzo 1933. Per ora la famiglia prevede per i funerali una cerimonia strettamente privata",
       "publishedAt": "2026-11-04T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -242,9 +144,30 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Dalle chitarre all’orchestra, in 50 anni di musica ci sono tutte le mie contraddizioni",
-      "url": "https://www.lastampa.it/spettacoli/2026/11/04/news/gianna_nannini_dalle_chitarre_all_orchestra_in_50_anni_di_musica_tutte_le_mie_contraddizioni-15787256/",
-      "excerpt": "L’artista rilegge il suo repertorio nell’antologia «Gianna Gold»",
+      "title": "Como, serata da favola: vince 9-1 col Lens",
+      "url": "https://www.lastampa.it/sport/2026/11/04/news/como_serata_da_favola_vince_9-1_col_lens-15788565/",
+      "excerpt": "Tripletta di Douvikas, segna anche il baby Papaccioli",
+      "publishedAt": "2026-11-04T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Prima il pari, poi il crollo: il Napoli perde 4-1 col Porto",
+      "url": "https://www.lastampa.it/sport/2026/11/04/news/prima_il_pari_poi_il_crollo_il_napoli_perde_4-1_col_porto-15788567/",
+      "excerpt": "Il Napoli cade al Do Dragao e complica il cammino in Champions. La formazione di Allegri viene sconfitta 4-1 in casa del Porto, al primo successo stagionale nella competizione, nel match valido ...",
+      "publishedAt": "2026-11-04T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Az-Juve secondo Teun e Peer Koopmeiners: “Fratello mio, ti batto!”",
+      "url": "https://www.lastampa.it/sport/2026/11/04/news/az_juve_fratelli_teun_peer_koopmeiners_sfida_europa_league-15788305/",
+      "excerpt": "Prima sfida ufficiale tra i due olandesi che presto pubblicheranno un libro sulla loro storia. Il ruolo del nonno, le partitelle per strada. L’emozione dei genitori: «Papà sente troppo questa partita, probabilmente lascerà lo stadio prima della fine»",
+      "publishedAt": "2026-11-04T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Cobolli qualificato per le Atp Finals: sarà l'italiano da tifare a Torino",
+      "url": "https://www.lastampa.it/torino/2026/11/04/news/atp_finals_torino_2026_flavio_cobolli_italiano_singolare-15787722/",
+      "excerpt": "Arriverà al torneo dei Maestri in programma dal 15 al 22 novembre dopo la miglior stagione della sua carriera",
       "publishedAt": "2026-11-04T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -289,6 +212,83 @@
       "excerpt": "Il vicepremier attacca sui tagli alla scuola: «Non concordati». Scontro con Fratelli d’Italia, che rilancia il condono edilizio",
       "publishedAt": "2026-11-04T00:00:00Z",
       "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Schiacciato dal braccio metallico di una gru: chi è Antonio Fasciani, vittima del lavoro a Trecate",
+      "url": "https://www.lastampa.it/novara/2026/11/04/news/trecate_schiacciato_gru_operaio_incidente_sul_lavoro-15787992/",
+      "excerpt": "Aveva 57 anni: i colleghi lo ricordano come esperto e sempre attento alla sicurezza",
+      "publishedAt": "2026-11-04T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Cento mail al giorno all’ex marito: “Vedrai che morirai, ti ammazzo se ti avvicini a mio figlio”",
+      "url": "https://www.lastampa.it/torino/2026/11/04/news/mail_minacce_ex_marito_condanna_molestie_torino-15787578/",
+      "excerpt": "Una quarantenne è stata condannata per molestie a Torino, lui l’aveva lasciata dopo la nascita del primo figlio",
+      "publishedAt": "2026-11-04T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Il tartufo bianco diventa un lusso per pochi: “Qualità alta, ma nei ristoranti costa troppo”",
+      "url": "https://www.lastampa.it/asti/2026/11/04/news/il_tartufo_bianco_diventa_un_lusso_per_pochi_qualita_alta_ma_nei_ristoranti_costa_troppo-15787064/",
+      "excerpt": "Nei locali della provincia di Asti e tra le colline di Langa e Monferrato viene servito al tavolo tra i 600 e i 900 euro all’ettogrammo",
+      "publishedAt": "2026-11-04T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Dall’azienda spariti 100 kg di pinoli, il ladro era un dipendente: il bottino nascosto fra i rifiuti",
+      "url": "https://www.lastampa.it/savona/2026/11/04/news/carcare_furto_pinoli_noberasco_dipendente_indagato-15787797/",
+      "excerpt": "Operaio di 49 anni della Noberasco di Carcare sorpreso grazie alle telecamere. Aveva studiato uno stratagemma per evitare i controlli ai cancelli. In casa sequestrati anche snack biologici e uva sultanina",
+      "publishedAt": "2026-11-04T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Usa, gli scanner respingono le schede elettorali: cosa è successo a New York",
+      "url": "https://www.lastampa.it/esteri/speciali/elezioni-midterm-2026/2026/11/04/video/voto_midterm_usa_scanner_schede_elettorali_tilt-15787593/",
+      "excerpt": "Problemi agli scanner elettorali nella contea di Westchester, nello Stato di New York, durante le elezioni di Midterm. In numerosi seggi le macchine non sono riuscite a leggere le schede cartacee, restituendole agli elettori, come si vede nelle immagini girate a Yonkers. Per permettere la prosecuzione delle votazioni, ",
+      "publishedAt": "2026-11-04T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "L'errore che tutti facciamo quando mettiamo la birra in frigo: i segreti per non sbagliare",
+      "url": "https://www.lastampa.it/cronaca/2026/11/03/video/birra_frigorifero_errore_conservazione_come_fare-15786721/",
+      "excerpt": "È la bevanda alcolica più consumata al mondo. Viene prodotta ovunque e con moltissime tecniche e sfumature differenti. Eppure, per molte persone una vale l'altra. Stiamo parlando della birra e, in particolare, della birra artigianale. Abbiamo chiesto a un produttore tutti i segreti per degustare una birra di qualità. L",
+      "publishedAt": "2026-11-03T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Non corre, ma balla: così Giacomo Poretti completa i 42 chilometri della maratona di New York",
+      "url": "https://www.lastampa.it/spettacoli/2026/11/03/video/giacomo_poretti_maratona_new_york_passeggiata-15786737/",
+      "excerpt": "Tra i tanti italiani che hanno partecipato alla maratona di New York c’era anche il settantenne Giacomo Poretti, comico e componente del celebre trio Aldo, Giovanni e Giacomo. Come si vede nel video diffuso dall'account social treuominieunsocial, l’attore ha percorso gli oltre 42 chilometri della maratona tra camminate",
+      "publishedAt": "2026-11-03T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Paolo Belli rompe il silenzio dopo quattro mesi: \"Ho deciso di tornare al mio lavoro\"",
+      "url": "https://www.lastampa.it/spettacoli/2026/11/03/video/paolo_belli_incidente_ritorno_al_lavoro-15786933/",
+      "excerpt": "Paolo Belli annuncia il ritorno all'attività artistica dopo lo stop che si era imposto in seguito all'incidente in bicicletta del 13 luglio scorso, nelle campagne della Bassa Reggiana, nel quale aveva perso la vita Alessandro Magnani, un uomo di 41 anni. Il cantante e showman modenese ha comunicato la decisione con un ",
+      "publishedAt": "2026-11-03T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Scontro tra elicotteri in Nepal: le pale si urtano nell'atterraggio",
+      "url": "https://www.lastampa.it/esteri/2026/11/03/video/nepal_everest_scontro_elicotteri_atterraggio_webcam-15787158/",
+      "excerpt": "Le pale dei due elicotteri si urtano mentre i velivoli scendono verso la piazzola di Pheriche, a 4.200 metri, lungo il percorso nepalese per il campo base dell’Everest. La webcam riprende lo scontro e le persone che corrono verso il relitto. Nell’incidente, avvenuto la mattina del 3 novembre, è morto un turista indiano",
+      "publishedAt": "2026-11-03T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Cina, -28 gradi nella \"città più fredda\": il fiume fuma e gli alberi diventano di cristallo",
+      "url": "https://www.lastampa.it/esteri/2026/11/03/video/cina_-28_gradi_nella_citta_piu_fredda_il_fiume_fuma_e_gli_alberi_diventano_di_cristallo-15784715/",
+      "excerpt": "Sembra un paesaggio uscito da una fiaba, ma è tutto vero. A Huzhong, nel nord-est della Cina, il termometro è precipitato a -28 gradi, trasformando le rive del fiume Huma in uno spettacolo incantato. All'alba, una nebbia bianca si solleva dall'acqua mentre salici, pioppi e arbusti si ricoprono di migliaia di cristalli ",
+      "publishedAt": "2026-11-03T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "\"I miei amori naufragano tutti perché io sono innamorata dell'amore\"",
+      "url": "https://www.lastampa.it/speciale/benessere/amore-non-e-solo-amare/2026/11/01/video/valeria_randone_innamorata_amore-15784009/",
+      "excerpt": "\"I miei amori naufragano tutti perché io sono innamorata dell'amore\" scrive una lettrice al giornale chiedendo come fare a tenere in vita la passione nella coppia Ecco l'analisi della dottoressa Valeria Randone, psicologo e sessuologo clinico a Catania, Milano e online (www.valeriarandone.it), autrice della rubrica \"Am",
+      "publishedAt": "2026-11-01T00:00:00Z",
+      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -302,5 +302,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 0.89
+  "durationSeconds": 1.14
 }
