@@ -4,20 +4,12 @@
   "sourceId": "commissione-europea",
   "originUrl": "https://commission.europa.eu/news-and-media_en",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-04T02:44:23.056341Z",
-  "status": "ok",
-  "diagnosticCode": null,
-  "method": "trafilatura",
+  "collectedAt": "2026-11-04T09:58:20.162717Z",
+  "status": "blocked",
+  "diagnosticCode": "rate_limited",
+  "method": "html",
   "feedUrl": null,
-  "items": [
-    {
-      "title": "Highlighted news",
-      "url": "https://commission.europa.eu/news-and-media/highlighted-news_en",
-      "excerpt": "Stay updated on the latest news from the European Commission, including developments on policies and initiatives, and about important events and milestones",
-      "publishedAt": "2026-10-27T12:00:00Z",
-      "dateEvidence": "html:publication-time"
-    }
-  ],
+  "items": [],
   "attempts": [
     {
       "url": "https://commission.europa.eu/robots.txt",
@@ -29,148 +21,12 @@
     },
     {
       "url": "https://commission.europa.eu/news-and-media/highlighted-news_en",
-      "status": 200
-    },
-    {
-      "url": "https://commission.europa.eu/news-and-media/news_en",
-      "status": 200
-    },
-    {
-      "url": "https://commission.europa.eu/news-and-media/visual-stories_en",
-      "status": 200
-    },
-    {
-      "url": "https://commission.europa.eu/about/contact/press-services_en",
-      "status": 200
+      "status": 429
     }
   ],
-  "message": "1 notizie recenti con data verificata; copertura parziale.",
-  "candidateSamples": [
-    {
-      "url": "https://commission.europa.eu/news-and-media/news_en",
-      "title": "News from Commission Departments",
-      "h1": "News",
-      "dates": [
-        {
-          "tag": "div",
-          "class": [
-            "js-form-item",
-            "form-item",
-            "js-form-type-select",
-            "form-item-oe-news-publication-date-op",
-            "js-form-item-oe-news-publication-date-op",
-            "ecl-form-group",
-            "ecl-form-group--select",
-            "ecl-u-mv-m"
-          ],
-          "text": "Publication date Select After Before In between Toggle dropdown",
-          "datetime": null
-        },
-        {
-          "tag": "div",
-          "class": [
-            "js-form-item",
-            "form-item",
-            "js-form-type-date",
-            "form-item-oe-news-publication-date-first-date-wrapper-oe-news-publication-date-first-date-date",
-            "js-form-item-oe-news-publication-date-first-date-wrapper-oe-news-publication-date-first-date-date",
-            "ecl-form-group",
-            "ecl-u-mv-m"
-          ],
-          "text": "Date",
-          "datetime": null
-        },
-        {
-          "tag": "div",
-          "class": [
-            "ecl-datepicker",
-            "ecl-datepicker--m"
-          ],
-          "text": "",
-          "datetime": null
-        },
-        {
-          "tag": "div",
-          "class": [
-            "js-form-item",
-            "form-item",
-            "js-form-type-date",
-            "form-item-oe-news-publication-date-second-date-wrapper-oe-news-publication-date-second-date-date",
-            "js-form-item-oe-news-publication-date-second-date-wrapper-oe-news-publication-date-second-date-date",
-            "ecl-form-group",
-            "ecl-u-mv-m"
-          ],
-          "text": "End Date",
-          "datetime": null
-        },
-        {
-          "tag": "div",
-          "class": [
-            "ecl-datepicker",
-            "ecl-datepicker--m"
-          ],
-          "text": "",
-          "datetime": null
-        },
-        {
-          "tag": "time",
-          "class": [],
-          "text": "3 November 2026",
-          "datetime": "2026-11-03T12:00:00Z"
-        },
-        {
-          "tag": "time",
-          "class": [],
-          "text": "3 November 2026",
-          "datetime": "2026-11-03T12:00:00Z"
-        },
-        {
-          "tag": "time",
-          "class": [],
-          "text": "3 November 2026",
-          "datetime": "2026-11-03T12:00:00Z"
-        },
-        {
-          "tag": "time",
-          "class": [],
-          "text": "3 November 2026",
-          "datetime": "2026-11-03T12:00:00Z"
-        },
-        {
-          "tag": "time",
-          "class": [],
-          "text": "3 November 2026",
-          "datetime": "2026-11-03T12:00:00Z"
-        },
-        {
-          "tag": "time",
-          "class": [],
-          "text": "3 November 2026",
-          "datetime": "2026-11-03T12:00:00Z"
-        },
-        {
-          "tag": "time",
-          "class": [],
-          "text": "1 November 2026",
-          "datetime": "2026-11-01T12:00:00Z"
-        }
-      ]
-    },
-    {
-      "url": "https://commission.europa.eu/news-and-media/visual-stories_en",
-      "title": "Visual stories",
-      "h1": "Visual stories",
-      "dates": []
-    },
-    {
-      "url": "https://commission.europa.eu/about/contact/press-services_en",
-      "title": "Press services",
-      "h1": "Press services",
-      "dates": []
-    }
-  ],
-  "candidateCount": 4,
-  "datedCount": 1,
-  "listingUrl": "https://commission.europa.eu/news-and-media_en",
-  "durationSeconds": 2.88
+  "message": "HTTP 429: accesso limitato dalla fonte",
+  "candidateSamples": [],
+  "httpStatus": 429,
+  "failedUrl": "https://commission.europa.eu/news-and-media/highlighted-news_en",
+  "durationSeconds": 1.18
 }

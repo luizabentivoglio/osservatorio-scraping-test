@@ -4,102 +4,20 @@
   "sourceId": "emergency",
   "originUrl": "https://www.emergency.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-04T02:44:41.880195Z",
-  "status": "ok",
-  "diagnosticCode": null,
-  "method": "trafilatura",
+  "collectedAt": "2026-11-04T09:58:44.840430Z",
+  "status": "error",
+  "diagnosticCode": "http_error",
+  "method": "html",
   "feedUrl": null,
   "items": [],
   "attempts": [
     {
       "url": "https://www.emergency.it/robots.txt",
-      "status": 200
-    },
-    {
-      "url": "https://www.emergency.it/",
-      "status": 200
-    },
-    {
-      "url": "https://www.emergency.it/io-obietto/",
-      "status": 200
-    },
-    {
-      "url": "https://www.emergency.it/tessera/",
-      "status": 200
-    },
-    {
-      "url": "https://www.emergency.it/blog/dai-progetti/ucraina-la-ristrutturazione-della-nostra-clinica-di-husarivka-kharkiv-attraverso-gli-occhi-di-liudmyla-e-dmytro/",
-      "status": 200
-    },
-    {
-      "url": "https://www.emergency.it/blog/dai-progetti/gaza-un-anno-dal-cessate-il-fuoco/",
-      "status": 200
-    },
-    {
-      "url": "https://www.emergency.it/blog/dai-progetti/quando-me-lhanno-detto-non-riuscivo-a-crederci-la-storia-di-tarique/",
-      "status": 200
-    },
-    {
-      "url": "https://www.emergency.it/progetti/gaza-assistenza-sanitaria/",
-      "status": 200
+      "status": 415
     }
   ],
-  "message": "0 notizie recenti con data verificata; copertura parziale.",
-  "candidateSamples": [
-    {
-      "url": "https://www.emergency.it/io-obietto/",
-      "title": "“io obietto”: firma la LIP per il diritto all’obiezione di coscienza alla guerra",
-      "h1": null,
-      "dates": []
-    },
-    {
-      "url": "https://www.emergency.it/tessera/",
-      "title": "Fai la Tessera di EMERGENCY",
-      "h1": "Tessera di EMERGENCY",
-      "dates": []
-    },
-    {
-      "url": "https://www.emergency.it/progetti/gaza-assistenza-sanitaria/",
-      "title": "Scopri il nostro lavoro a Gaza",
-      "h1": "Gaza: assistenza sanitaria di base alla popolazione della Striscia",
-      "dates": [
-        {
-          "tag": "p",
-          "class": [
-            "entry-date"
-          ],
-          "text": "27 Ottobre 2026",
-          "datetime": null
-        },
-        {
-          "tag": "p",
-          "class": [
-            "entry-date"
-          ],
-          "text": "15 Ottobre 2026",
-          "datetime": null
-        },
-        {
-          "tag": "p",
-          "class": [
-            "entry-date"
-          ],
-          "text": "10 Marzo 2026",
-          "datetime": null
-        },
-        {
-          "tag": "p",
-          "class": [
-            "entry-date"
-          ],
-          "text": "22 Gennaio 2026",
-          "datetime": null
-        }
-      ]
-    }
-  ],
-  "candidateCount": 8,
-  "datedCount": 3,
-  "listingUrl": "https://www.emergency.it/",
-  "durationSeconds": 8.38
+  "message": "HTTP 415",
+  "httpStatus": 415,
+  "failedUrl": "https://www.emergency.it/robots.txt",
+  "durationSeconds": 0.65
 }

@@ -4,30 +4,44 @@
   "sourceId": "camera",
   "originUrl": "https://www.camera.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-04T02:44:18.757533Z",
+  "collectedAt": "2026-11-04T09:58:15.453580Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
-      "title": "Forteto, mercoledì alle 8 audizione in diretta webtv",
+      "title": "Decreto prezzi petroliferi",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63808",
+      "excerpt": "In Aula l'esame dei seguenti provvedimenti: disegno di legge di conversione, con modificazioni, del...",
+      "publishedAt": "2026-11-04T00:00:00Z",
+      "dateEvidence": "html:publication-label"
+    },
+    {
+      "title": "Oggi question time con i ministri Valditara e Schillaci",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63807",
+      "excerpt": "Si svolge oggi, mercoledì 4 novembre, alle 15, il question time trasmesso dalla Rai in diretta tele...",
+      "publishedAt": "2026-11-04T00:00:00Z",
+      "dateEvidence": "html:publication-label"
+    },
+    {
+      "title": "Forteto, audizione Pantaleone",
       "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63774",
       "excerpt": "Mercoledì 4 novembre, alle ore 8, presso l'Aula del II piano di Palazzo San Macuto, la Commissione ...",
       "publishedAt": "2026-11-03T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "Audizione su rischio idrogeologico - Mercoledì alle 8.30 diretta webtv",
+      "title": "Audizione su rischio idrogeologico",
       "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63776",
       "excerpt": "Mercoledì 4 novembre, alle ore 8.30, presso l'Aula del III piano di Palazzo San Macuto, la Commissi...",
       "publishedAt": "2026-11-03T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "Spazi digitali responsabili, audizione Meta, Mediaset e Federazione carta - Mercoledì alle 9.15 diretta webtv",
+      "title": "Spazi digitali responsabili, audizione Meta, Mediaset e Federazione carta",
       "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63777",
-      "excerpt": "Mercoledì 4 novembre, la Commissione Politiche Ue svolge le seguenti audizioni nell’ambito dell...",
+      "excerpt": "Mercoledì 4 novembre, la Commissione Politiche Ue ha svolto le seguenti audizioni nell’ambito de...",
       "publishedAt": "2026-11-03T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
@@ -35,20 +49,6 @@
       "title": "Profili civilistici, fiscali e previdenziali del wet lease aeronautico - Mercoledì alle 10 diretta webtv",
       "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63778",
       "excerpt": "Mercoledì 4 novembre, alle ore 10, presso la Sala Matteotti di Palazzo Theodoli - Bianchelli si svo...",
-      "publishedAt": "2026-11-03T00:00:00Z",
-      "dateEvidence": "html:publication-label"
-    },
-    {
-      "title": "Rapporto Dekra 2026 sulla sicurezza stradale - La strada come luogo di lavoro - Mercoledì alle 11 diretta webtv",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63779",
-      "excerpt": "Mercoledì 4 novembre, alle ore 11, presso la Sala della Regina di Montecitorio si svolge il convegn...",
-      "publishedAt": "2026-11-03T00:00:00Z",
-      "dateEvidence": "html:publication-label"
-    },
-    {
-      "title": "Agricoltura, interrogazioni a risposta immediata – Ministero dell’Agricoltura, della Sovranità alimentare e delle Foreste – Mercoledì alle 13.30 diretta webtv",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63780",
-      "excerpt": "Mercoledì 4 novembre, alle ore 13.30, la Commissione Agricoltura svolge interrogazioni a risposta ...",
       "publishedAt": "2026-11-03T00:00:00Z",
       "dateEvidence": "html:publication-label"
     }
@@ -63,6 +63,14 @@
       "status": 200
     },
     {
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63808",
+      "status": 200
+    },
+    {
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63807",
+      "status": 200
+    },
+    {
       "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63774",
       "status": 200
     },
@@ -77,14 +85,6 @@
     {
       "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63778",
       "status": 200
-    },
-    {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63779",
-      "status": 200
-    },
-    {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63780",
-      "status": 200
     }
   ],
   "message": "6 notizie recenti con data verificata; copertura parziale.",
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://comunicazione.camera.it/archivio-prima-pagina",
-  "durationSeconds": 4.29
+  "durationSeconds": 4.71
 }

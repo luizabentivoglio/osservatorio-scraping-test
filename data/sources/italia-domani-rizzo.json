@@ -4,17 +4,17 @@
   "sourceId": "italia-domani-rizzo",
   "originUrl": "https://www.italiadomanirizzo.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-04T02:44:55.924756Z",
+  "collectedAt": "2026-11-04T09:58:57.825677Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
-      "title": "Crisi in Futuro Nazionale: sul territorio molti scelgono Italia Domani - Italia Domani",
-      "url": "https://www.italiadomanirizzo.it/crisi-in-futuro-nazionale-sul-territorio-molti-scelgono-ital/",
-      "excerpt": "Crescono le defezioni nel movimento di Vannacci in tutta Italia. A Sassari centinaia di iscritti hanno lasciato il partito per aderire al progetto politico di Marco Rizzo.",
-      "publishedAt": "2026-11-02T00:00:00Z",
+      "title": "Minacce a Cerno e a Il Giornale: la ferma condanna di Andrea Romiti - Italia Domani",
+      "url": "https://www.italiadomanirizzo.it/solidarieta-a-tommaso-cerno-no-a-minacce-e-intimidazioni-con/",
+      "excerpt": "Andrea Romiti esprime piena vicinanza al direttore Tommaso Cerno e alla redazione de Il Giornale dopo le inaccettabili intimidazioni rivolte all'informazione.",
+      "publishedAt": "2026-11-04T00:00:00Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
@@ -25,10 +25,10 @@
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "Italia Domani cresce in Campania: Luca Manco nominato coordinatore a Giugliano - Italia Domani",
-      "url": "https://www.italiadomanirizzo.it/italia-domani-cresce-in-campania-luca-manco-nominato-coordin/",
-      "excerpt": "Nuovo passo per il radicamento territoriale di Italia Domani in Campania: il coordinatore regionale Antonio Criscuolo affida la guida di Giugliano al giovane imprenditore Luca Manco.",
-      "publishedAt": "2026-11-01T00:00:00Z",
+      "title": "Crisi in Futuro Nazionale: sul territorio molti scelgono Italia Domani - Italia Domani",
+      "url": "https://www.italiadomanirizzo.it/crisi-in-futuro-nazionale-sul-territorio-molti-scelgono-ital/",
+      "excerpt": "Crescono le defezioni nel movimento di Vannacci in tutta Italia. A Sassari centinaia di iscritti hanno lasciato il partito per aderire al progetto politico di Marco Rizzo.",
+      "publishedAt": "2026-11-02T00:00:00Z",
       "dateEvidence": "jsonld:datePublished"
     }
   ],
@@ -42,7 +42,7 @@
       "status": 200
     },
     {
-      "url": "https://www.italiadomanirizzo.it/crisi-in-futuro-nazionale-sul-territorio-molti-scelgono-ital/",
+      "url": "https://www.italiadomanirizzo.it/solidarieta-a-tommaso-cerno-no-a-minacce-e-intimidazioni-con/",
       "status": 200
     },
     {
@@ -50,7 +50,7 @@
       "status": 200
     },
     {
-      "url": "https://www.italiadomanirizzo.it/italia-domani-cresce-in-campania-luca-manco-nominato-coordin/",
+      "url": "https://www.italiadomanirizzo.it/crisi-in-futuro-nazionale-sul-territorio-molti-scelgono-ital/",
       "status": 200
     },
     {
@@ -94,5 +94,5 @@
   "candidateCount": 8,
   "datedCount": 3,
   "listingUrl": "https://www.italiadomanirizzo.it/",
-  "durationSeconds": 6.01
+  "durationSeconds": 5.79
 }

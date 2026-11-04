@@ -4,7 +4,7 @@
   "sourceId": "quirinale",
   "originUrl": "https://www.quirinale.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-04T02:45:22.626017Z",
+  "collectedAt": "2026-11-04T09:59:22.541101Z",
   "status": "blocked",
   "diagnosticCode": "access_restricted",
   "method": "html",
@@ -17,6 +17,10 @@
     },
     {
       "url": "https://www.quirinale.it/",
+      "status": 200
+    },
+    {
+      "url": "https://www.quirinale.it/it/notizie/4-novembre-2026-mattarella-depone-corona-d-alloro-altare-patria",
       "status": 200
     },
     {
@@ -36,27 +40,38 @@
       "status": 200
     },
     {
-      "url": "https://www.quirinale.it/it/notizie/mattarella-riceve-delegazione-villa-nazareth",
-      "status": 200
-    },
-    {
       "url": "https://www.quirinale.it/it/notizie/nostra-repubblica-compie-ottant-anni-1",
       "status": 200
     },
     {
-      "url": "https://www.quirinale.it/it/notizie/presidente-mattarella-consegna-decorazioni-ordine-militare-d-italia",
+      "url": "https://www.quirinale.it/it/notizie/4-novembre-2026-mattarella-depone-corona-d-alloro-altare-patria",
       "status": 200
     },
     {
-      "url": "https://www.quirinale.it/it/notizie/presidente-mattarella-ha-ricevuto-presidente-repubblica-cile-jose-antonio-kast-1",
+      "url": "https://www.quirinale.it/it/notizie/presidente-mattarella-consegna-decorazioni-ordine-militare-d-italia",
       "status": 200
     }
   ],
   "message": "Browser HTTP 403",
   "candidateSamples": [
     {
+      "url": "https://www.quirinale.it/it/notizie/4-novembre-2026-mattarella-depone-corona-d-alloro-altare-patria",
+      "title": "4 novembre 2026: Mattarella depone una corona d'alloro all'Altare della Patria In occasione delle celebrazioni del 4 novembre, “Giornata dell'Unità Nazionale e delle Forze Armate”, il Presidente della Repubblica, Sergio Mattarella, ha deposto una corona d'alloro sulla tomba del Milite Ignoto all’Alt",
+      "h1": "4 novembre 2026: Mattarella depone una corona d'alloro all'Altare della Patria",
+      "dates": [
+        {
+          "tag": "p",
+          "class": [
+            "date-label"
+          ],
+          "text": "Roma, 04/11/2026 (II mandato)",
+          "datetime": null
+        }
+      ]
+    },
+    {
       "url": "https://www.quirinale.it/it/notizie/presidente-mattarella-consegna-decorazioni-ordine-militare-d-italia",
-      "title": "Il Presidente Mattarella consegna le decorazioni dell'Ordine Militare d'Italia Si è svolta, al Quirinale, alla presenza del Presidente della Repubblica, Sergio Mattarella, la cerimonia di consegna delle decorazioni dell'Ordine Militare d'Italia, conferite nell'anno 2026, in occasione della ricorrenz",
+      "title": "Il Presidente Sergio Mattarella con i nuovi insigniti delle onorificenze dell’Ordine Militare d’Italia",
       "h1": "Il Presidente Mattarella consegna le decorazioni dell'Ordine Militare d'Italia",
       "dates": [
         {
@@ -219,21 +234,6 @@
       ]
     },
     {
-      "url": "https://www.quirinale.it/it/notizie/mattarella-riceve-delegazione-villa-nazareth",
-      "title": "Il Presidente Sergio Mattarella con S.Em. Cardinale Pietro Parolin, Segretario di Stato della Santa Sede, al termine dell'incontro con una delegazione di Villa Nazareth, Collegio universitario di merito",
-      "h1": "Mattarella riceve una delegazione di Villa Nazareth",
-      "dates": [
-        {
-          "tag": "p",
-          "class": [
-            "date-label"
-          ],
-          "text": "Palazzo del Quirinale, 31/10/2026 (II mandato)",
-          "datetime": null
-        }
-      ]
-    },
-    {
       "url": "https://www.quirinale.it/it/notizie/nostra-repubblica-compie-ottant-anni-1",
       "title": "I Volti della Repubblica",
       "h1": "La nostra Repubblica compie Ottant’anni",
@@ -252,5 +252,5 @@
   "candidateCount": 12,
   "datedCount": 0,
   "listingUrl": "https://www.quirinale.it/",
-  "durationSeconds": 4.45
+  "durationSeconds": 4.0
 }

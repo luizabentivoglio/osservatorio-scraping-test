@@ -4,7 +4,7 @@
   "sourceId": "pagella-politica",
   "originUrl": "https://pagellapolitica.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-04T02:45:06.861106Z",
+  "collectedAt": "2026-11-04T09:59:08.939119Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -32,6 +32,13 @@
       "dateEvidence": "html:post-date"
     },
     {
+      "title": "Così l’Europa vuole rimpatriare i migranti prima ancora che arrivino in Europa",
+      "url": "https://pagellapolitica.it/articoli/europa-rimpatrio-migranti-frontex",
+      "excerpt": "Tramite Frontex, la Commissione UE ha proposto di favorire i rimpatri tra Paesi esterni all’Unione. È una strategia...",
+      "publishedAt": "2026-10-30T00:00:00Z",
+      "dateEvidence": "html:post-date"
+    },
+    {
       "title": "Perché si parla di nuovo dei medici “no vax”",
       "url": "https://pagellapolitica.it/articoli/medici-no-vax-disegno-di-legge-camera",
       "excerpt": "La Camera ha approvato la reiscrizione di alcuni sanitari radiati durante la pandemia, ma il centrodestra si è...",
@@ -42,13 +49,6 @@
       "title": "Che cosa sappiamo sul disegno di legge di Bilancio per il 2027",
       "url": "https://pagellapolitica.it/articoli/manovra-governo-meloni-2027",
       "excerpt": "Dal fisco ai giovani, il governo ha riassunto le principali proposte in comunicato stampa, ma manca ancora il testo...",
-      "publishedAt": "2026-10-29T00:00:00Z",
-      "dateEvidence": "html:post-date"
-    },
-    {
-      "title": "Un deputato di AVS ha diffuso una foto sulle manifestazioni fatta con l’IA",
-      "url": "https://pagellapolitica.it/articoli/deputato-avs-foto-falsa-manifestazioni",
-      "excerpt": "L’immagine, che ritrae dei manifestanti che si tengono a braccetto con dei poliziotti, è stata rilanciata anche da...",
       "publishedAt": "2026-10-29T00:00:00Z",
       "dateEvidence": "html:post-date"
     }
@@ -75,15 +75,15 @@
       "status": 200
     },
     {
+      "url": "https://pagellapolitica.it/articoli/europa-rimpatrio-migranti-frontex",
+      "status": 200
+    },
+    {
       "url": "https://pagellapolitica.it/articoli/medici-no-vax-disegno-di-legge-camera",
       "status": 200
     },
     {
       "url": "https://pagellapolitica.it/articoli/manovra-governo-meloni-2027",
-      "status": 200
-    },
-    {
-      "url": "https://pagellapolitica.it/articoli/deputato-avs-foto-falsa-manifestazioni",
       "status": 200
     }
   ],
@@ -92,5 +92,5 @@
   "candidateCount": 6,
   "datedCount": 6,
   "listingUrl": "https://pagellapolitica.it/articoli",
-  "durationSeconds": 5.69
+  "durationSeconds": 6.52
 }

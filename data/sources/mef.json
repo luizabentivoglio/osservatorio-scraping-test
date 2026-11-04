@@ -4,7 +4,7 @@
   "sourceId": "mef",
   "originUrl": "https://www.mef.gov.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-04T02:45:01.986918Z",
+  "collectedAt": "2026-11-04T09:59:05.675227Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -66,7 +66,7 @@
       "status": 200
     },
     {
-      "url": "https://www.mef.gov.it/focus/Concordato-preventivo-biennale-2026-2027-come-aderire-entro-il-2-novembre-2026/",
+      "url": "https://www.mef.gov.it/focus/La-legge-delega-per-la-riforma-fiscale/",
       "status": 200
     }
   ],
@@ -75,5 +75,5 @@
   "candidateCount": 11,
   "datedCount": 6,
   "listingUrl": "https://www.mef.gov.it/",
-  "durationSeconds": 4.87
+  "durationSeconds": 5.6
 }
