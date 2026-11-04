@@ -4,17 +4,38 @@
   "sourceId": "breaking-italy",
   "originUrl": "https://breakingitaly.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-04T09:58:14.646155Z",
+  "collectedAt": "2026-11-04T18:15:32.572078Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
+      "title": "I Democratici conquistano il Congresso statunitense",
+      "url": "https://breakingitaly.it/newsletter/i-democratici-conquistano-il-congresso-statunitense",
+      "excerpt": "I Democratici conquistano il Congresso statunitense",
+      "publishedAt": "2026-11-04T00:00:00Z",
+      "dateEvidence": "html:newsletter-publication"
+    },
+    {
       "title": "Gli hacker hanno mandato in tilt i frigoriferi di molti supermercati europei",
       "url": "https://breakingitaly.it/newsletter/gli-hacker-hanno-mandato-in-tilt-i-frigoriferi-di-molti-supermercati-europei",
       "excerpt": "Gli hacker hanno mandato in tilt i frigoriferi di molti supermercati europei",
       "publishedAt": "2026-11-03T00:00:00Z",
+      "dateEvidence": "html:newsletter-publication"
+    },
+    {
+      "title": "Non si fermano le proteste in tutta Europa",
+      "url": "https://breakingitaly.it/newsletter/non-si-fermano-le-proteste-in-tutta-europa",
+      "excerpt": "Non si fermano le proteste in tutta Europa",
+      "publishedAt": "2026-11-02T00:00:00Z",
+      "dateEvidence": "html:newsletter-publication"
+    },
+    {
+      "title": "Lo sciopero generale e le nuove manifestazioni in Italia",
+      "url": "https://breakingitaly.it/newsletter/lo-sciopero-generale-e-le-nuove-manifestazioni-in-italia",
+      "excerpt": "Lo sciopero generale e le nuove manifestazioni in Italia",
+      "publishedAt": "2026-10-30T00:00:00Z",
       "dateEvidence": "html:newsletter-publication"
     }
   ],
@@ -28,7 +49,15 @@
       "status": 200
     },
     {
-      "url": "https://breakingitaly.it/feed",
+      "url": "https://breakingitaly.it/breaking-italy",
+      "status": 200
+    },
+    {
+      "url": "https://breakingitaly.it/breaking-italy/perche-per-trump-le-midterm-sono-cosi-importanti-se-lui-nemmeno-e-candidato",
+      "status": 200
+    },
+    {
+      "url": "https://breakingitaly.it/newsletter/i-democratici-conquistano-il-congresso-statunitense",
       "status": 200
     },
     {
@@ -36,65 +65,31 @@
       "status": 200
     },
     {
-      "url": "https://breakingitaly.it/ventiquaranta-stati-uniti",
+      "url": "https://breakingitaly.it/newsletter/non-si-fermano-le-proteste-in-tutta-europa",
       "status": 200
     },
     {
-      "url": "https://breakingitaly.it/lavora-con-noi",
-      "status": 200
-    },
-    {
-      "url": "https://breakingitaly.it/diventa-partner",
-      "status": 200
-    },
-    {
-      "url": "https://breakingitaly.it/privacy-policy",
-      "status": 200
-    },
-    {
-      "url": "https://breakingitaly.it/condizioni",
-      "status": 307
-    },
-    {
-      "url": "https://breakingitaly.it/condizioni-new",
+      "url": "https://breakingitaly.it/newsletter/lo-sciopero-generale-e-le-nuove-manifestazioni-in-italia",
       "status": 200
     }
   ],
-  "message": "1 notizie recenti con data verificata; copertura parziale.",
+  "message": "4 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [
     {
-      "url": "https://breakingitaly.it/ventiquaranta-stati-uniti",
-      "title": "VentiQuaranta",
+      "url": "https://breakingitaly.it/breaking-italy",
+      "title": "Breaking Italy",
       "h1": null,
       "dates": []
     },
     {
-      "url": "https://breakingitaly.it/lavora-con-noi",
-      "title": "Lavora con noi",
+      "url": "https://breakingitaly.it/breaking-italy/perche-per-trump-le-midterm-sono-cosi-importanti-se-lui-nemmeno-e-candidato",
+      "title": "Perché per Trump le midterm sono COSÌ importanti se lui nemmeno è candidato?",
       "h1": null,
-      "dates": []
-    },
-    {
-      "url": "https://breakingitaly.it/diventa-partner",
-      "title": "Diventa partner",
-      "h1": null,
-      "dates": []
-    },
-    {
-      "url": "https://breakingitaly.it/privacy-policy",
-      "title": "Privacy Policy",
-      "h1": "INFORMATIVA SUL TRATTAMENTO DEI DATI PERSONALI",
-      "dates": []
-    },
-    {
-      "url": "https://breakingitaly.it/condizioni-new",
-      "title": "Termini e condizioni",
-      "h1": "TERMINI E CONDIZIONI DEL SERVIZIO",
       "dates": []
     }
   ],
   "candidateCount": 12,
-  "datedCount": 1,
+  "datedCount": 4,
   "listingUrl": "https://breakingitaly.it/",
-  "durationSeconds": 5.13
+  "durationSeconds": 4.17
 }

@@ -4,12 +4,19 @@
   "sourceId": "mef",
   "originUrl": "https://www.mef.gov.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-04T09:59:05.675227Z",
+  "collectedAt": "2026-11-04T18:16:19.286498Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "TrovaTU, il motore di ricerca dei nuovi Testi Unici",
+      "url": "https://www.mef.gov.it/focus/TrovaTU-il-motore-di-ricerca-dei-nuovi-Testi-Unici/",
+      "excerpt": "È online TrovaTU – Trova Testi Unici (www.trovatu.finanze.gov.it), il nuovo motore di ricerca del Ministero dell’Economia e delle Finanze (MEF)",
+      "publishedAt": "2026-11-04T13:46:57Z",
+      "dateEvidence": "meta:datepublished"
+    },
     {
       "title": "Giorgetti: prudenza prima forma di libertà, risparmiare il modo più concreto di credere nel domani",
       "url": "https://www.mef.gov.it/inevidenza/Giorgetti-prudenza-prima-forma-di-liberta-risparmiare-il-modo-piu-concreto-di-credere-nel-domani/",
@@ -66,14 +73,14 @@
       "status": 200
     },
     {
-      "url": "https://www.mef.gov.it/focus/La-legge-delega-per-la-riforma-fiscale/",
+      "url": "https://www.mef.gov.it/focus/TrovaTU-il-motore-di-ricerca-dei-nuovi-Testi-Unici/",
       "status": 200
     }
   ],
-  "message": "3 notizie recenti con data verificata; copertura parziale.",
+  "message": "4 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [],
   "candidateCount": 11,
   "datedCount": 6,
   "listingUrl": "https://www.mef.gov.it/",
-  "durationSeconds": 5.6
+  "durationSeconds": 4.9
 }

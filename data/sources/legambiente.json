@@ -4,7 +4,7 @@
   "sourceId": "legambiente",
   "originUrl": "https://www.legambiente.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-04T09:59:00.263671Z",
+  "collectedAt": "2026-11-04T18:16:13.689230Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -20,7 +20,7 @@
       "status": 200
     },
     {
-      "url": "https://www.legambiente.it/5x1000/",
+      "url": "https://www.legambiente.it/campagne-e-progetti/la-terra-chiamo/",
       "status": 200
     },
     {
@@ -47,9 +47,9 @@
   "message": "0 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [
     {
-      "url": "https://www.legambiente.it/5x1000/",
-      "title": "Scopri di più",
-      "h1": "5x1000 a Legambiente",
+      "url": "https://www.legambiente.it/campagne-e-progetti/la-terra-chiamo/",
+      "title": "Rispondi ora",
+      "h1": "La Terra chiamò",
       "dates": []
     },
     {
@@ -62,7 +62,7 @@
   "candidateCount": 12,
   "datedCount": 3,
   "listingUrl": "https://www.legambiente.it/",
-  "durationSeconds": 5.41,
+  "durationSeconds": 6.4,
   "attemptErrors": [
     {
       "url": "https://www.legambiente.it/campagne-in-evidenza/puliamo-il-mondo/",

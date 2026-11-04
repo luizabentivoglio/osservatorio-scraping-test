@@ -4,12 +4,19 @@
   "sourceId": "iai",
   "originUrl": "https://www.iai.it/it",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-04T09:58:52.180334Z",
+  "collectedAt": "2026-11-04T18:16:06.052544Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "La Germania e le regole del mercato europeo della difesa",
+      "url": "https://www.iai.it/it/pubblicazioni/c05/la-germania-e-le-regole-del-mercato-europeo-della-difesa",
+      "excerpt": "La nuova legge tedesca sugli acquisti militari amplia il riconoscimento degli interessi essenziali di sicurezza nazionale, aprendo la strada a un possibile più frequente ricorso a deroghe alle regole europee.La legge non autorizza automaticamente le deroghe: la loro necessità dovrà essere verificata caso per caso, alla",
+      "publishedAt": "2026-11-04T12:00:00Z",
+      "dateEvidence": "html:publication-time"
+    },
     {
       "title": "Why Economic Security Must Be at the Heart of EU Enlargement",
       "url": "https://www.iai.it/it/pubblicazioni/c05/why-economic-security-must-be-heart-eu-enlargement",
@@ -35,6 +42,10 @@
       "status": 200
     },
     {
+      "url": "https://www.iai.it/it/pubblicazioni/c05/la-germania-e-le-regole-del-mercato-europeo-della-difesa",
+      "status": 200
+    },
+    {
       "url": "https://www.iai.it/it/pubblicazioni/c05/why-economic-security-must-be-heart-eu-enlargement",
       "status": 200
     },
@@ -53,16 +64,12 @@
     {
       "url": "https://www.iai.it/it/pubblicazioni/c05/quiet-repatriation-sovereign-gold-us",
       "status": 200
-    },
-    {
-      "url": "https://www.iai.it/it/pubblicazioni/c05/germanys-leverage-china-responding-beijings-export-dominance",
-      "status": 200
     }
   ],
-  "message": "2 notizie recenti con data verificata; copertura parziale.",
+  "message": "3 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [],
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.iai.it/it/pubblicazioni/lista/iai-commentaries",
-  "durationSeconds": 4.85
+  "durationSeconds": 4.26
 }

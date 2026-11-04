@@ -4,38 +4,38 @@
   "sourceId": "partito-liberaldemocratico",
   "originUrl": "https://partitoliberaldemocratico.com/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-04T09:59:12.070021Z",
+  "collectedAt": "2026-11-04T18:16:26.366561Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
+      "title": "NON CI FARETE CAMBIARE IDEA E NON CI FARETE TACERE. Domani Luigi Marattin sarà a",
+      "url": "https://partitoliberaldemocratico.com/non-ci-farete-cambiare-idea-e-non-ci-farete-tacere-domani-luigi-marattin-sara-a/",
+      "excerpt": "NON CI FARETE CAMBIARE IDEA E NON CI FARETE TACERE. Domani Luigi Marattin sarà a Partito Liberaldemocratico",
+      "publishedAt": "2026-11-04T16:55:47Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "Il problema dei redditi bassi in Italia non dipende dall’evasione fiscale, ma da",
+      "url": "https://partitoliberaldemocratico.com/il-problema-dei-redditi-bassi-in-italia-non-dipende-dallevasione-fiscale-ma-da/",
+      "excerpt": "Il problema dei redditi bassi in Italia non dipende dall’evasione fiscale, ma da Partito Liberaldemocratico",
+      "publishedAt": "2026-11-04T12:22:30Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "4 novembre: giornata dell’unità e delle Forze armate. La libertà e la democrazia",
+      "url": "https://partitoliberaldemocratico.com/4-novembre-giornata-dellunita-e-delle-forze-armate-la-liberta-e-la-democrazia/",
+      "excerpt": "4 novembre: giornata dell’unità e delle Forze armate. La libertà e la democrazia Partito Liberaldemocratico",
+      "publishedAt": "2026-11-04T09:01:19Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
       "title": "2,5 miliardi per anticipare le . E se li investissimo nel futuro? Meno sprechi,",
       "url": "https://partitoliberaldemocratico.com/25-miliardi-per-anticipare-le-e-se-li-investissimo-nel-futuro-meno-sprechi/",
       "excerpt": "2,5 miliardi per anticipare le . E se li investissimo nel futuro? Meno sprechi, Partito Liberaldemocratico",
       "publishedAt": "2026-11-03T10:03:23Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Ci vendono il dolce inganno di promesse a costo zero, ma lo scherzo ricade sempr",
-      "url": "https://partitoliberaldemocratico.com/ci-vendono-il-dolce-inganno-di-promesse-a-costo-zero-ma-lo-scherzo-ricade-sempr/",
-      "excerpt": "Ci vendono il dolce inganno di promesse a costo zero, ma lo scherzo ricade sempr Partito Liberaldemocratico",
-      "publishedAt": "2026-10-31T14:55:05Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Post da Instagram",
-      "url": "https://partitoliberaldemocratico.com/post-da-instagram/",
-      "excerpt": "Post da Instagram Partito Liberaldemocratico",
-      "publishedAt": "2026-10-30T16:29:46Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Prima il deputato Grimaldi dice che i tre ragazzi beccati con le molotov nello z",
-      "url": "https://partitoliberaldemocratico.com/prima-il-deputato-grimaldi-dice-che-i-tre-ragazzi-beccati-con-le-molotov-nello-z/",
-      "excerpt": "Prima il deputato Grimaldi dice che i tre ragazzi beccati con le molotov nello z Partito Liberaldemocratico",
-      "publishedAt": "2026-10-30T09:28:01Z",
       "dateEvidence": "jsonld:datePublished"
     }
   ],
@@ -49,19 +49,19 @@
       "status": 200
     },
     {
+      "url": "https://partitoliberaldemocratico.com/non-ci-farete-cambiare-idea-e-non-ci-farete-tacere-domani-luigi-marattin-sara-a/",
+      "status": 200
+    },
+    {
+      "url": "https://partitoliberaldemocratico.com/il-problema-dei-redditi-bassi-in-italia-non-dipende-dallevasione-fiscale-ma-da/",
+      "status": 200
+    },
+    {
+      "url": "https://partitoliberaldemocratico.com/4-novembre-giornata-dellunita-e-delle-forze-armate-la-liberta-e-la-democrazia/",
+      "status": 200
+    },
+    {
       "url": "https://partitoliberaldemocratico.com/25-miliardi-per-anticipare-le-e-se-li-investissimo-nel-futuro-meno-sprechi/",
-      "status": 200
-    },
-    {
-      "url": "https://partitoliberaldemocratico.com/ci-vendono-il-dolce-inganno-di-promesse-a-costo-zero-ma-lo-scherzo-ricade-sempr/",
-      "status": 200
-    },
-    {
-      "url": "https://partitoliberaldemocratico.com/post-da-instagram/",
-      "status": 200
-    },
-    {
-      "url": "https://partitoliberaldemocratico.com/prima-il-deputato-grimaldi-dice-che-i-tre-ragazzi-beccati-con-le-molotov-nello-z/",
       "status": 200
     },
     {
@@ -91,5 +91,5 @@
   "candidateCount": 9,
   "datedCount": 4,
   "listingUrl": "https://partitoliberaldemocratico.com/",
-  "durationSeconds": 4.58
+  "durationSeconds": 7.77
 }

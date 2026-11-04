@@ -4,7 +4,7 @@
   "sourceId": "pagella-politica",
   "originUrl": "https://pagellapolitica.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-04T09:59:08.939119Z",
+  "collectedAt": "2026-11-04T18:16:24.387035Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -32,24 +32,24 @@
       "dateEvidence": "html:post-date"
     },
     {
-      "title": "Così l’Europa vuole rimpatriare i migranti prima ancora che arrivino in Europa",
-      "url": "https://pagellapolitica.it/articoli/europa-rimpatrio-migranti-frontex",
-      "excerpt": "Tramite Frontex, la Commissione UE ha proposto di favorire i rimpatri tra Paesi esterni all’Unione. È una strategia...",
+      "title": "Al Senato c’è una commissione contro la disinformazione che non funziona",
+      "url": "https://pagellapolitica.it/articoli/commissione-disinformazione-non-funziona",
+      "excerpt": "È stata istituita a marzo, su proposta di Italia Viva, ma dopo mesi il presidente La Russa non ha ancora nominato i...",
+      "publishedAt": "2026-11-02T00:00:00Z",
+      "dateEvidence": "html:post-date"
+    },
+    {
+      "title": "I pro e i contro della “bolletta sociale” proposta da Alleanza Verdi-Sinistra",
+      "url": "https://pagellapolitica.it/articoli/bolletta-sociale-alleanza-verdi-sinistra",
+      "excerpt": "La proposta allargherebbe gli aiuti sulle bollette elettriche a milioni di famiglie, ma ci sono dubbi...",
       "publishedAt": "2026-10-30T00:00:00Z",
       "dateEvidence": "html:post-date"
     },
     {
-      "title": "Perché si parla di nuovo dei medici “no vax”",
-      "url": "https://pagellapolitica.it/articoli/medici-no-vax-disegno-di-legge-camera",
-      "excerpt": "La Camera ha approvato la reiscrizione di alcuni sanitari radiati durante la pandemia, ma il centrodestra si è...",
-      "publishedAt": "2026-10-29T00:00:00Z",
-      "dateEvidence": "html:post-date"
-    },
-    {
-      "title": "Che cosa sappiamo sul disegno di legge di Bilancio per il 2027",
-      "url": "https://pagellapolitica.it/articoli/manovra-governo-meloni-2027",
-      "excerpt": "Dal fisco ai giovani, il governo ha riassunto le principali proposte in comunicato stampa, ma manca ancora il testo...",
-      "publishedAt": "2026-10-29T00:00:00Z",
+      "title": "Così l’Europa vuole rimpatriare i migranti prima ancora che arrivino in Europa",
+      "url": "https://pagellapolitica.it/articoli/europa-rimpatrio-migranti-frontex",
+      "excerpt": "Tramite Frontex, la Commissione UE ha proposto di favorire i rimpatri tra Paesi esterni all’Unione. È una strategia...",
+      "publishedAt": "2026-10-30T00:00:00Z",
       "dateEvidence": "html:post-date"
     }
   ],
@@ -75,15 +75,15 @@
       "status": 200
     },
     {
+      "url": "https://pagellapolitica.it/articoli/commissione-disinformazione-non-funziona",
+      "status": 200
+    },
+    {
+      "url": "https://pagellapolitica.it/articoli/bolletta-sociale-alleanza-verdi-sinistra",
+      "status": 200
+    },
+    {
       "url": "https://pagellapolitica.it/articoli/europa-rimpatrio-migranti-frontex",
-      "status": 200
-    },
-    {
-      "url": "https://pagellapolitica.it/articoli/medici-no-vax-disegno-di-legge-camera",
-      "status": 200
-    },
-    {
-      "url": "https://pagellapolitica.it/articoli/manovra-governo-meloni-2027",
       "status": 200
     }
   ],
@@ -92,5 +92,5 @@
   "candidateCount": 6,
   "datedCount": 6,
   "listingUrl": "https://pagellapolitica.it/articoli",
-  "durationSeconds": 6.52
+  "durationSeconds": 6.55
 }

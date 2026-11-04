@@ -4,12 +4,40 @@
   "sourceId": "palazzo-chigi",
   "originUrl": "https://www.governo.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-04T09:59:11.288411Z",
+  "collectedAt": "2026-11-04T18:16:24.413723Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.governo.it/feed/rss",
   "items": [
+    {
+      "title": "Definizione delle misure tecniche e organizzative del Sistema IT-Wallet",
+      "url": "https://www.governo.it/it/articolo/definizione-delle-misure-tecniche-e-organizzative-del-sistema-it-wallet/33033",
+      "excerpt": "Pubblicato il Decreto del Capo del dipartimento per la trasformazione digitale del 29 settembre 2026 di definizione delle misure tecniche e organizzative da adottarsi con riferimento ai trattamenti di dati personali effettuati nell’ambito del Sistema IT-Wallet, ai sensi dell’articolo 8, comma 5, del Dpcm 19 marzo 2026.",
+      "publishedAt": "2026-11-04T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Intesa raggiunta su Electrolux, dichiarazione del Presidente Meloni",
+      "url": "https://www.governo.it/it/articolo/intesa-raggiunta-su-electrolux-dichiarazione-del-presidente-meloni/33031",
+      "excerpt": "L'intesa raggiunta su Electrolux rappresenta un passo importante nell'impegno per la tutela dell'industria italiana e dei livelli occupazionali. Oltre 100 milioni di investimenti, continuità produttiva per gli stabilimenti e uscite esclusivamente volontarie e incentivate. Un risultato significativo per i lavoratori coi",
+      "publishedAt": "2026-11-04T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Giornata dell’Unità Nazionale e delle Forze armate",
+      "url": "https://www.governo.it/it/articolo/giornata-dell-unit-nazionale-e-delle-forze-armate/33025",
+      "excerpt": "Il Presidente del Consiglio, Giorgia Meloni, ha partecipato alla Cerimonia di deposizione di una corona d'alloro, da parte del Capo dello Stato, sulla Tomba del Milite Ignoto all'Altare della Patria, in occasione della Giornata dell’Unità Nazionale e delle Forze Armate.",
+      "publishedAt": "2026-11-04T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Rinuncia della Svizzera al rimborso delle spese mediche dei feriti di Crans-Montana, la dichiarazione del Presidente Meloni",
+      "url": "https://www.governo.it/it/articolo/rinuncia-della-svizzera-al-rimborso-delle-spese-mediche-dei-feriti-di-crans-montana-la",
+      "excerpt": "Accolgo con grande soddisfazione la notizia, comunicatami dal Presidente Guy Parmelin, della rinuncia della Svizzera a chiedere il rimborso delle spese mediche dei feriti italiani della tragedia di Crans-Montana curati negli ospedali elvetici. Sono felice di questa soluzione: nessun onere ricadrà sulle famiglie o sull’",
+      "publishedAt": "2026-11-04T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "Incontro con il Presidente della Repubblica del Cile",
       "url": "https://www.governo.it/it/articolo/incontro-con-il-presidente-della-repubblica-del-cile/33014",
@@ -46,38 +74,10 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Incidente aereo in Bosnia, il Presidente Meloni rende omaggio alle vittime al Villaggio Difesa",
-      "url": "https://www.governo.it/it/articolo/incidente-aereo-bosnia-il-presidente-meloni-rende-omaggio-alle-vittime-al-villaggio-difesa",
-      "excerpt": "Questa mattina, al Villaggio Difesa allestito al Circo Massimo, il Presidente del Consiglio, Giorgia Meloni, insieme al Ministro della Difesa, Guido Crosetto, ha deposto un fascio di rose in omaggio ai militari italiani vittime dell'incidente aereo avvenuto nella giornata di ieri in Bosnia.",
-      "publishedAt": "2026-10-30T11:48:08Z",
-      "dateEvidence": "feed:published"
-    },
-    {
       "title": "Dichiarazione congiunta sul rafforzamento della cooperazione spaziale tra Italia e Germania",
       "url": "https://www.governo.it/it/articolo/dichiarazione-congiunta-sul-rafforzamento-della-cooperazione-spaziale-tra-italia-e-germania",
       "excerpt": "Si è svolto, presso il Centro Spaziale del Fucino (AQ), un dialogo bilaterale tra Italia e Germania sulle politiche spaziali e sull'economia spaziale, con la partecipazione di rappresentanti dei rispettivi Governi, delle Agenzie Spaziali nazionali e delle Amministrazioni competenti. L'incontro ha offerto l'occasione pe",
       "publishedAt": "2026-10-30T11:26:28Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Pronuncia della Cassazione su ex Ilva, nota di Palazzo Chigi",
-      "url": "https://www.governo.it/it/articolo/pronuncia-della-cassazione-su-ex-ilva-nota-di-palazzo-chigi/32986",
-      "excerpt": "Il Governo non può che prendere atto della pronuncia della Cassazione su ex Ilva, che disattende le motivate conclusioni della Procura generale della stessa Cassazione. Lo stesso Governo non si sottrarrà all’esercizio delle proprie responsabilità, come ha fatto finora, come confermato dal decreto-legge entrato in vigor",
-      "publishedAt": "2026-10-29T17:47:27Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Incidente ferroviario in Spagna, la vicinanza del Presidente Meloni alle famiglie delle connazionali disperse",
-      "url": "https://www.governo.it/it/articolo/dichiarazione-del-presidente-del-consiglio-giorgia-meloni/32981",
-      "excerpt": "Desidero esprimere la mia personale vicinanza e quella del Governo italiano alle famiglie delle connazionali che risultano ancora disperse a seguito del tragico incidente ferroviario che ha colpito ieri la Spagna. In questa direzione prosegue l’impegno senza sosta della Farnesina per fornire tutta l’assistenza necessar",
-      "publishedAt": "2026-10-29T13:20:28Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Il Sottosegretario Mantovano partecipa all'evento \"Cyber Generation\"",
-      "url": "https://www.governo.it/it/articolo/il-sottosegretario-mantovano-partecipa-allevento-cyber-generation/32974",
-      "excerpt": "Il Sottosegretario Mantovano questa mattina è intervenuto all'evento \"Cyber Generation\", promosso nell'ambito del mese europeo della cybersicurezza. Al centro della giornata la cerimonia di consegna delle borse di studio ACN per il biennio 2024–2026.",
-      "publishedAt": "2026-10-29T07:40:36Z",
       "dateEvidence": "feed:published"
     }
   ],
@@ -100,5 +100,5 @@
     }
   ],
   "message": "Feed dichiarato dalla fonte; date di pubblicazione verificate.",
-  "durationSeconds": 30.18
+  "durationSeconds": 30.13
 }

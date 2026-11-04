@@ -4,7 +4,7 @@
   "sourceId": "corte-conti",
   "originUrl": "https://www.corteconti.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-04T09:58:29.194649Z",
+  "collectedAt": "2026-11-04T18:15:45.368815Z",
   "status": "no_feed",
   "diagnosticCode": "parsing_error",
   "method": "crawl4ai",
@@ -40,7 +40,7 @@
       "status": 200
     },
     {
-      "url": "https://www.corteconti.it/HOME/StampaMedia/Notizie/DettaglioNotizia?Id=b5d38d63-d02c-4260-904e-b47eac266ecc",
+      "url": "https://www.corteconti.it/HOME/StampaMedia/Notizie/DettaglioNotizia?Id=4d81507c-dc7a-4326-af9f-8e45a27569a4",
       "status": 200
     },
     {
@@ -64,7 +64,7 @@
       "status": 200
     },
     {
-      "url": "https://www.corteconti.it/HOME/StampaMedia/Notizie/DettaglioNotizia?Id=b5d38d63-d02c-4260-904e-b47eac266ecc",
+      "url": "https://www.corteconti.it/HOME/StampaMedia/Notizie/DettaglioNotizia?Id=4d81507c-dc7a-4326-af9f-8e45a27569a4",
       "status": 200
     }
   ],
@@ -101,8 +101,8 @@
       "dates": []
     },
     {
-      "url": "https://www.corteconti.it/HOME/StampaMedia/Notizie/DettaglioNotizia?Id=b5d38d63-d02c-4260-904e-b47eac266ecc",
-      "title": "BANDO PER IL RECLUTAMENTO DI N. 20 TIROCINANTI, ELEVABILI A 40, CON ORIENTAMENTO ECONOMICO-FINANZIARIO-STATISTICO Leggi di più",
+      "url": "https://www.corteconti.it/HOME/StampaMedia/Notizie/DettaglioNotizia?Id=4d81507c-dc7a-4326-af9f-8e45a27569a4",
+      "title": "03/11 RINNOVATO IL PROTOCOLLO D’INTESA TRA MIM E CORTE DEI CONTI SULL’EDUCAZIONE FINANZIARIA E LA CULTURA DELLA LEGALITÀ Leggi di più",
       "h1": "Corte dei conti",
       "dates": []
     }
@@ -110,5 +110,5 @@
   "candidateCount": 12,
   "datedCount": 0,
   "listingUrl": "https://www.corteconti.it/",
-  "durationSeconds": 5.41
+  "durationSeconds": 4.8
 }

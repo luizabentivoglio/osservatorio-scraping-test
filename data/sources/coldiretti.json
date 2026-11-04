@@ -4,12 +4,19 @@
   "sourceId": "coldiretti",
   "originUrl": "https://www.coldiretti.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-04T09:58:19.774965Z",
+  "collectedAt": "2026-11-04T18:15:36.760758Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "ColtivaItalia, ok Senato è passo avanti per sovranità alimentare, filiere, semplificazione e salute cittadini",
+      "url": "https://www.coldiretti.it/economia/coltivaitalia-ok-senato-e-passo-avanti-per-sovranita-alimentare-filiere-semplificazione-e-salute-cittadini",
+      "excerpt": "Oltre un miliardo di euro per sostenere le produzioni nazionali e rafforzare le filiere. Accolte richieste di Coldiretti",
+      "publishedAt": "2026-11-04T11:55:55Z",
+      "dateEvidence": "meta:article:published_time"
+    },
     {
       "title": "Cybersicurezza, Gesmundo: \"Cibo è sicurezza nazionale, serve piano straordinario per proteggere filiera alimentare\"",
       "url": "https://www.coldiretti.it/economia/cybersicurezza-gesmundo-cibo-e-sicurezza-nazionale-serve-piano-straordinario-per-proteggere-filiera-alimentare",
@@ -23,13 +30,6 @@
       "excerpt": "Quasi due italiani su tre portano fiori nei cimiteri in occasione della ricorrenza di Ognissanti e della commemorazione dei defunti",
       "publishedAt": "2026-11-02T07:18:23Z",
       "dateEvidence": "meta:article:published_time"
-    },
-    {
-      "title": "Coldiretti Pesca: dalle farm alle reti intelligenti, il tonno made in Italy punta su innovazione e origine",
-      "url": "https://www.coldiretti.it/economia/coldiretti-pesca-dalle-farm-alle-reti-intelligenti-il-tonno-made-in-italy-punta-su-innovazione-e-origine",
-      "excerpt": "Dalle “farm” alle reti intelligenti, fino all'origine, la filiera del tonno rosso Made in Italy punta su innovazione e lotta alle frodi",
-      "publishedAt": "2026-10-31T11:01:58Z",
-      "dateEvidence": "meta:article:published_time"
     }
   ],
   "attempts": [
@@ -39,6 +39,10 @@
     },
     {
       "url": "https://www.coldiretti.it/",
+      "status": 200
+    },
+    {
+      "url": "https://www.coldiretti.it/economia/coltivaitalia-ok-senato-e-passo-avanti-per-sovranita-alimentare-filiere-semplificazione-e-salute-cittadini",
       "status": 200
     },
     {
@@ -60,10 +64,6 @@
     {
       "url": "https://www.coldiretti.it/economia/cybersicurezza-gesmundo-cibo-e-sicurezza-nazionale-serve-piano-straordinario-per-proteggere-filiera-alimentare",
       "status": 200
-    },
-    {
-      "url": "https://www.coldiretti.it/economia/coldiretti-pesca-dalle-farm-alle-reti-intelligenti-il-tonno-made-in-italy-punta-su-innovazione-e-origine",
-      "status": 200
     }
   ],
   "message": "3 notizie recenti con data verificata; copertura parziale.",
@@ -71,5 +71,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.coldiretti.it/",
-  "durationSeconds": 9.42
+  "durationSeconds": 8.61
 }

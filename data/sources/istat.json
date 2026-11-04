@@ -4,12 +4,26 @@
   "sourceId": "istat",
   "originUrl": "https://www.istat.it/",
   "configuredFeedUrl": "https://www.istat.it/feed/",
-  "collectedAt": "2026-11-04T09:58:54.357935Z",
+  "collectedAt": "2026-11-04T18:16:07.388799Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.istat.it/feed/",
   "items": [
+    {
+      "title": "Adesione Convenzione Telefonia Mobile 9 – Dipendenti",
+      "url": "https://www.istat.it/bando-di-gara/cig-b24981d16e-adesione-convenzione-telefonia-mobile-9-dipendenti/",
+      "excerpt": "Online la delibera di proroga tecnica del contratto",
+      "publishedAt": "2026-11-04T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Indagine su bambini e ragazzi: comportamenti, atteggiamenti e progetti futuri",
+      "url": "https://www.istat.it/informazioni-sulla-rilevazione/indagine-su-bambini-e-ragazzi-comportamenti-atteggiamenti-e-progetti-futuri/",
+      "excerpt": "Indagine condotta per raccogliere informazioni su alcuni aspetti della vita quotidiana degli 11-19enni anni",
+      "publishedAt": "2026-11-03T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "Livelli di istruzione e ritorni occupazionali – Anno 2025",
       "url": "https://www.istat.it/comunicato-stampa/livelli-di-istruzione-e-ritorni-occupazionali-anno-2025/",
@@ -65,20 +79,6 @@
       "excerpt": "Disponibili i file per la ricerca della rilevazione\"Uso del tempo\"",
       "publishedAt": "2026-10-29T15:24:52Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Statistica ufficiale: strumenti per docenti",
-      "url": "https://www.istat.it/evento/progetto-insegnanti-istat-statistica-ufficiale-strumenti-per-docenti/",
-      "excerpt": "I corsi hanno l’obiettivo di fornire agli insegnanti strumenti e metodi per utilizzare in aula i dati della statistica ufficiale in modo critico e consapevole",
-      "publishedAt": "2026-10-29T15:14:50Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "La tratta di esseri umani in Italia – Anni 2021-2025",
-      "url": "https://www.istat.it/comunicato-stampa/la-tratta-di-esseri-umani-in-italia-anni-2021-2025/",
-      "excerpt": "Nel tempo è cresciuta la capacità di intercettare le potenziali vittime di tratta. In Italia nel 2025, il sistema di protezione ha registrato 3.520 persone contro le 2.398 nel 2021 (+46,8%).",
-      "publishedAt": "2026-10-29T12:01:04Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -92,5 +92,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 3.47
+  "durationSeconds": 2.98
 }

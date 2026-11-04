@@ -6,13 +6,13 @@
 | ap-news | blocked | html | 0 | access_restricted |
 | azione | blocked | html | 0 | access_restricted |
 | banca-italia | blocked | html | 0 | robots_disallowed |
-| breaking-italy | ok | trafilatura | 1 | — |
+| breaking-italy | ok | trafilatura | 4 | — |
 | camera | ok | trafilatura | 6 | — |
 | cisl | blocked | html | 0 | robots_disallowed |
 | cnr | ok | rss | 20 | — |
 | coldiretti | ok | trafilatura | 3 | — |
-| commissione-europea | blocked | html | 0 | rate_limited |
-| comune-bollate | ok | trafilatura | 6 | — |
+| commissione-europea | ok | trafilatura | 1 | — |
+| comune-bollate | error | html | 0 | http_error |
 | confcommercio | blocked | html | 0 | access_restricted |
 | confindustria | ok | trafilatura | 1 | — |
 | consiglio-ue | blocked | html | 0 | access_restricted |
@@ -22,16 +22,16 @@
 | dc-rotondi | ok | rss | 0 | — |
 | demos-media | ok | trafilatura | 0 | — |
 | demos-partito | ok | rss | 0 | — |
-| emergency | error | html | 0 | http_error |
+| emergency | ok | trafilatura | 0 | — |
 | eurostat | blocked | html | 0 | robots_disallowed |
 | factanza | blocked | html | 0 | access_restricted |
 | fanpage | blocked | html | 0 | access_restricted |
 | forza-italia | ok | trafilatura | 0 | — |
-| futuro-nazionale | ok | rss | 0 | — |
+| futuro-nazionale | error | html | 0 | robots_unavailable |
 | good-morning-italia | blocked | html | 0 | access_restricted |
 | greenpeace | ok | trafilatura | 2 | — |
 | hrw | blocked | html | 0 | access_restricted |
-| iai | ok | trafilatura | 2 | — |
+| iai | ok | trafilatura | 3 | — |
 | il-fatto | blocked | html | 0 | robots_disallowed |
 | il-notiziario | blocked | html | 0 | access_restricted |
 | il-post | ok | trafilatura | 6 | — |
@@ -43,10 +43,10 @@
 | istituto-bruno-leoni | ok | trafilatura | 5 | — |
 | italia-domani-rizzo | ok | trafilatura | 3 | — |
 | italia-viva | blocked | html | 0 | access_restricted |
-| la-stampa | blocked | html | 0 | access_restricted |
+| la-stampa | ok | rss | 40 | — |
 | legambiente | ok | trafilatura | 0 | — |
 | libera | ok | html | 1 | — |
-| mef | ok | trafilatura | 3 | — |
+| mef | ok | trafilatura | 4 | — |
 | msf | ok | trafilatura | 6 | — |
 | osservatorio-cpi | ok | trafilatura | 6 | — |
 | oxfam | ok | trafilatura | 5 | — |
@@ -54,7 +54,7 @@
 | palazzo-chigi | ok | rss | 10 | — |
 | parlamento-europeo | blocked | html | 0 | access_restricted |
 | partito-liberaldemocratico | ok | trafilatura | 4 | — |
-| patt | error | html | 0 | http_error |
+| patt | ok | trafilatura | 0 | — |
 | patto-nord | no_feed | crawl4ai | 0 | parsing_error |
 | pillole-economia | blocked | html | 0 | access_restricted |
 | piu-europa | blocked | html | 0 | access_restricted |
@@ -67,7 +67,7 @@
 | senato | no_feed | crawl4ai | 0 | parsing_error |
 | sud-chiama-nord | blocked | html | 0 | access_restricted |
 | svp | ok | trafilatura | 1 | — |
-| tgr-lombardia | no_feed | crawl4ai | 0 | parsing_error |
+| tgr-lombardia | ok | crawl4ai | 0 | — |
 | wwf | ok | trafilatura | 6 | — |
 
 Le date sono verificate nei feed o nei metadati di pubblicazione dei singoli articoli. Nessun dato personale dell’archivio è letto o pubblicato.

@@ -4,52 +4,52 @@
   "sourceId": "camera",
   "originUrl": "https://www.camera.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-04T09:58:15.453580Z",
+  "collectedAt": "2026-11-04T18:15:33.485599Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
-      "title": "Decreto prezzi petroliferi",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63808",
-      "excerpt": "In Aula l'esame dei seguenti provvedimenti: disegno di legge di conversione, con modificazioni, del...",
+      "title": "Tecnologie quantistiche nel settore difesa, audizione Villoresi, Università Padova Giovedì alle 8.30 diretta webtv",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63824",
+      "excerpt": "Giovedì 5 novembre, alle ore 8.30, la Commissione Difesa, in merito all'indagine conoscitiva sulle...",
       "publishedAt": "2026-11-04T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "Oggi question time con i ministri Valditara e Schillaci",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63807",
-      "excerpt": "Si svolge oggi, mercoledì 4 novembre, alle 15, il question time trasmesso dalla Rai in diretta tele...",
+      "title": "Bandiera verde agricoltura 2026 - Giovedì alle 10.30 diretta webtv",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63825",
+      "excerpt": "Giovedì 5 novembre, alle ore 10.30, presso la Sala della Regina di Montecitorio si svolge la cerimo...",
       "publishedAt": "2026-11-04T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "Forteto, audizione Pantaleone",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63774",
-      "excerpt": "Mercoledì 4 novembre, alle ore 8, presso l'Aula del II piano di Palazzo San Macuto, la Commissione ...",
-      "publishedAt": "2026-11-03T00:00:00Z",
+      "title": "Le età della violenza - La pena di morte - Una storia presente - Giovedì alle 11 diretta webtv",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63826",
+      "excerpt": "Giovedì 5 novembre, alle ore 11, presso la Sala Matteotti di Palazzo Theodoli - Bianchelli si svolg...",
+      "publishedAt": "2026-11-04T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "Audizione su rischio idrogeologico",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63776",
-      "excerpt": "Mercoledì 4 novembre, alle ore 8.30, presso l'Aula del III piano di Palazzo San Macuto, la Commissi...",
-      "publishedAt": "2026-11-03T00:00:00Z",
+      "title": "Audizioni su riordino Consiglio universitario - Giovedì alle 13.30 diretta webtv",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63827",
+      "excerpt": "Giovedì 5 novembre, alle ore 13.30, la Commissione Cultura svolge le seguenti audizioni nell’amb...",
+      "publishedAt": "2026-11-04T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "Spazi digitali responsabili, audizione Meta, Mediaset e Federazione carta",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63777",
-      "excerpt": "Mercoledì 4 novembre, la Commissione Politiche Ue ha svolto le seguenti audizioni nell’ambito de...",
-      "publishedAt": "2026-11-03T00:00:00Z",
+      "title": "Affari costituzionali, interrogazioni a risposta immediata - Ministero dell’Interno – Giovedì alle 14 diretta webtv",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63828",
+      "excerpt": "Giovedì 5 novembre, alle ore 14, la Commissione Affari costituzionali svolge interrogazioni a rispo...",
+      "publishedAt": "2026-11-04T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "Profili civilistici, fiscali e previdenziali del wet lease aeronautico - Mercoledì alle 10 diretta webtv",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63778",
-      "excerpt": "Mercoledì 4 novembre, alle ore 10, presso la Sala Matteotti di Palazzo Theodoli - Bianchelli si svo...",
-      "publishedAt": "2026-11-03T00:00:00Z",
+      "title": "3° workshop European FS Tech Hub - Giovedì alle 14.30 diretta webtv - Saluto di Mulè",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63829",
+      "excerpt": "Giovedì 5 novembre, alle ore 14.30, presso la Sala della Regina di Montecitorio si svolge il conveg...",
+      "publishedAt": "2026-11-04T00:00:00Z",
       "dateEvidence": "html:publication-label"
     }
   ],
@@ -63,27 +63,27 @@
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63808",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63824",
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63807",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63825",
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63774",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63826",
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63776",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63827",
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63777",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63828",
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63778",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63829",
       "status": 200
     }
   ],
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://comunicazione.camera.it/archivio-prima-pagina",
-  "durationSeconds": 4.71
+  "durationSeconds": 4.39
 }

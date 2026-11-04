@@ -4,12 +4,19 @@
   "sourceId": "wwf",
   "originUrl": "https://www.wwf.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-04T09:59:33.064648Z",
+  "collectedAt": "2026-11-04T18:16:47.436489Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "DoDo al fianco del WWF Italia per il leopardo delle nevi",
+      "url": "https://www.wwf.it/pandanews/ambiente/dodo-al-fianco-del-wwf-italia-per-il-leopardo-delle-nevi/",
+      "excerpt": "Presentato al pubblico il nuovo charm ispirato al “fantasma delle montagne” per sensibilizzare sulle specie a rischio",
+      "publishedAt": "2026-11-04T13:00:00Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
     {
       "title": "“5 per mille ma per davvero”, la Legge di bilancio 2027 superi il tetto di spesa",
       "url": "https://www.wwf.it/pandanews/wwf-life/5-per-mille-ma-per-davvero-la-legge-di-bilancio-2027-superi-il-tetto-di-spesa/",
@@ -44,13 +51,6 @@
       "excerpt": "Luci e ombre dopo la chiusura della Conferenza delle Nazioni Unite sulla biodiversità (COP17), tenutasi in Armenia",
       "publishedAt": "2026-10-31T11:48:00Z",
       "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Con “I fiori del mulino” oltre 2.000 ettari per gli impollinatori",
-      "url": "https://www.wwf.it/pandanews/societa/con-i-fiori-del-mulino-oltre-2-000-ettari-per-gli-impollinatori/",
-      "excerpt": "Mulino Bianco e WWF Italia celebrano i campi fioriti più belli al MAXXI di Roma nell’ambito dell’incontro dedicato alla Carta del Mulino",
-      "publishedAt": "2026-10-30T10:10:14Z",
-      "dateEvidence": "jsonld:datePublished"
     }
   ],
   "attempts": [
@@ -60,6 +60,10 @@
     },
     {
       "url": "https://www.wwf.it/",
+      "status": 200
+    },
+    {
+      "url": "https://www.wwf.it/pandanews/ambiente/dodo-al-fianco-del-wwf-italia-per-il-leopardo-delle-nevi/",
       "status": 200
     },
     {
@@ -81,10 +85,6 @@
     {
       "url": "https://www.wwf.it/pandanews/societa/mondo/cop17-bene-gli-sforzi-annunciati-ma-restano-gli-ostacoli-finanziari/",
       "status": 200
-    },
-    {
-      "url": "https://www.wwf.it/pandanews/societa/con-i-fiori-del-mulino-oltre-2-000-ettari-per-gli-impollinatori/",
-      "status": 200
     }
   ],
   "message": "6 notizie recenti con data verificata; copertura parziale.",
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.wwf.it/",
-  "durationSeconds": 10.17
+  "durationSeconds": 6.62
 }

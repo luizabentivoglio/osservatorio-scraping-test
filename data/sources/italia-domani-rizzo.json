@@ -4,24 +4,24 @@
   "sourceId": "italia-domani-rizzo",
   "originUrl": "https://www.italiadomanirizzo.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-04T09:58:57.825677Z",
+  "collectedAt": "2026-11-04T18:16:10.370507Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
-      "title": "Minacce a Cerno e a Il Giornale: la ferma condanna di Andrea Romiti - Italia Domani",
-      "url": "https://www.italiadomanirizzo.it/solidarieta-a-tommaso-cerno-no-a-minacce-e-intimidazioni-con/",
-      "excerpt": "Andrea Romiti esprime piena vicinanza al direttore Tommaso Cerno e alla redazione de Il Giornale dopo le inaccettabili intimidazioni rivolte all'informazione.",
+      "title": "Piemonte: nuovi comitati e consiglieri scelgono il progetto di Italia Domani - Italia Domani",
+      "url": "https://www.italiadomanirizzo.it/piemonte-nuovi-comitati-e-consiglieri-scelgono-il-progetto-d/",
+      "excerpt": "A Torino quattro comitati e due consiglieri circoscrizionali lasciano Futuro Nazionale e guardano con entusiasmo al percorso politico tracciato da Marco Rizzo.",
       "publishedAt": "2026-11-04T00:00:00Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "Torino: l'esperienza di Salvatore Ippolito al fianco di Marco Rizzo - Italia Domani",
-      "url": "https://www.italiadomanirizzo.it/torino-l-esperienza-di-salvatore-ippolito-al-fianco-di-marco/",
-      "excerpt": "Salvatore Ippolito, professionista delle infrastrutture ed ex amministratore, sceglie il progetto di Marco Rizzo per Torino, rompendo la finta contrapposizione tra destra e sinistra.",
-      "publishedAt": "2026-11-02T00:00:00Z",
+      "title": "Minacce a Cerno e a Il Giornale: la ferma condanna di Andrea Romiti - Italia Domani",
+      "url": "https://www.italiadomanirizzo.it/solidarieta-a-tommaso-cerno-no-a-minacce-e-intimidazioni-con/",
+      "excerpt": "Andrea Romiti esprime piena vicinanza al direttore Tommaso Cerno e alla redazione de Il Giornale dopo le inaccettabili intimidazioni rivolte all'informazione.",
+      "publishedAt": "2026-11-04T00:00:00Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
@@ -42,11 +42,11 @@
       "status": 200
     },
     {
-      "url": "https://www.italiadomanirizzo.it/solidarieta-a-tommaso-cerno-no-a-minacce-e-intimidazioni-con/",
+      "url": "https://www.italiadomanirizzo.it/piemonte-nuovi-comitati-e-consiglieri-scelgono-il-progetto-d/",
       "status": 200
     },
     {
-      "url": "https://www.italiadomanirizzo.it/torino-l-esperienza-di-salvatore-ippolito-al-fianco-di-marco/",
+      "url": "https://www.italiadomanirizzo.it/solidarieta-a-tommaso-cerno-no-a-minacce-e-intimidazioni-con/",
       "status": 200
     },
     {
@@ -94,5 +94,5 @@
   "candidateCount": 8,
   "datedCount": 3,
   "listingUrl": "https://www.italiadomanirizzo.it/",
-  "durationSeconds": 5.79
+  "durationSeconds": 6.82
 }

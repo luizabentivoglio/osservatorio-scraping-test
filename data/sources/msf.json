@@ -4,12 +4,19 @@
   "sourceId": "msf",
   "originUrl": "https://www.medicisenzafrontiere.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-04T09:59:03.678085Z",
+  "collectedAt": "2026-11-04T18:16:19.097832Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "Ucraina, attacco a Dnipro: danneggiato un ospedale, MSF evacua 2 pazienti",
+      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/ucraina-attacco-dnipro-danneggiato-ospedale-msf-evacua-2-pazienti/",
+      "excerpt": "Questa mattina le forze russe hanno attaccato Dnipro, causando, secondo quanto riportato, la morte di almeno 2 persone e il ferimento di altre 20. Attacchi agli edifici civili Continuano gli attacchi nella regione di Dnipropetrovsk. Quello odierno a Dnipro ha danneggiato edifici residenziali, una centrale termica, un c",
+      "publishedAt": "2026-11-03T14:03:26Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
     {
       "title": "Gaza: MSF chiede rilascio immediato del dott. Obeid dopo 2 anni di detenzione arbitraria",
       "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/gaza-msf-chiede-rilascio-immediato-dott-obeid-dopo-2-anni-detenzione-arbitraria/",
@@ -44,13 +51,6 @@
       "excerpt": "A Pavlohrad, un attacco russo contro un supermercato ha colpito ancora una volta i civili: tra i 7 feriti assistiti dai team di MSF ci sono anche due bambine di 10 anni. Ancora vittime tra i civili Tre giorni dopo l'offensiva che ha colpito Synelnykove, le forze russe hanno nuovamente attaccato infrastrutture civili a ",
       "publishedAt": "2026-10-27T17:31:00Z",
       "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Yemen, attacco a 150 metri dall’ospedale di Mocha. MSF: accesso sicuro alle cure sempre più limitato",
-      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/yemen-attacco-150-metri-ospedale-mocha-msf-accesso-sicuro-cure-sempre-piu-limitato/",
-      "excerpt": "Negli ultimi giorni, le équipe di Medici Senza Frontiere ad Aden e a Mocha sono state esposte a una serie di incidenti che limitano ulteriormente l’accesso umanitario e la fornitura di assistenza medica alle persone in Yemen. I tre attacchi a Mocha e le loro conseguenze Questa mattina, lunedì 26 ottobre, 3 attacchi han",
-      "publishedAt": "2026-10-26T17:10:30Z",
-      "dateEvidence": "jsonld:datePublished"
     }
   ],
   "attempts": [
@@ -60,6 +60,10 @@
     },
     {
       "url": "https://www.medicisenzafrontiere.it/",
+      "status": 200
+    },
+    {
+      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/ucraina-attacco-dnipro-danneggiato-ospedale-msf-evacua-2-pazienti/",
       "status": 200
     },
     {
@@ -81,10 +85,6 @@
     {
       "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/ucraina-msf-assiste-feriti-dopo-attacco-russo-pavlohrad-infrastrutture-civili/",
       "status": 200
-    },
-    {
-      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/yemen-attacco-150-metri-ospedale-mocha-msf-accesso-sicuro-cure-sempre-piu-limitato/",
-      "status": 200
     }
   ],
   "message": "6 notizie recenti con data verificata; copertura parziale.",
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.medicisenzafrontiere.it/",
-  "durationSeconds": 3.82
+  "durationSeconds": 4.04
 }

@@ -4,52 +4,52 @@
   "sourceId": "il-post",
   "originUrl": "https://www.ilpost.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-04T09:58:55.449985Z",
+  "collectedAt": "2026-11-04T18:16:08.442612Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
-      "title": "Le foto della notte elettorale negli Stati Uniti",
-      "url": "https://www.ilpost.it/2026/11/04/foto-notte-elezioni-midterm-stati-uniti/?homepagePosition=2.2&referrerPost=3723760",
-      "excerpt": "Tra Democratici in festa per la grande vittoria e Repubblicani che invece non se ne capacitano",
-      "publishedAt": "2026-11-04T07:42:24Z",
+      "title": "In Israele il presidente ha iniziato le consultazioni per scegliere chi incaricare come primo ministro",
+      "url": "https://www.ilpost.it/2026/11/04/israele-herzog-consultazioni-primo-ministro/?bitPosition=1",
+      "excerpt": "In Israele il presidente ha iniziato le consultazioni per scegliere chi incaricare come primo ministro - Condividi - X - Regala il Post Mercoledì il presidente israeliano Isaac Herzog ha iniziato le consultazioni con i leader dei partiti per scegliere chi incaricare come primo ministro dopo le elezioni parlamentari di ",
+      "publishedAt": "2026-11-04T17:10:41Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "Il tennista Flavio Cobolli si è qualificato per le ATP Finals",
-      "url": "https://www.ilpost.it/2026/11/04/flavio-cobolli-qualificato-atp-finals-2026-tennis/?bitPosition=1",
-      "excerpt": "Il tennista Flavio Cobolli si è qualificato per le ATP Finals - Condividi - X - Regala il Post Il 24enne italiano Flavio Cobolli si è qualificato per il prestigioso torneo di fine anno delle ATP Finals, nel quale giocano i migliori otto tennisti della stagione. La certezza matematica della qualificazione è arrivata nel",
-      "publishedAt": "2026-11-04T07:03:19Z",
+      "title": "E adesso che succede negli Stati Uniti?",
+      "url": "https://www.ilpost.it/2026/11/04/cosa-succede-stati-uniti-elezioni-meta-mandato/?homepagePosition=2",
+      "excerpt": "Col Congresso a maggioranza Democratica per Trump gli ultimi due anni saranno più complessi, fra indagini, veti sulle nomine e trattative per il bilancio",
+      "publishedAt": "2026-11-04T16:35:29Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "Cinque cose notevoli di queste elezioni di metà mandato",
+      "url": "https://www.ilpost.it/2026/11/04/cinque-cose-midterm-2026/?homepagePosition=2.1&referrerPost=3724279",
+      "excerpt": "I Democratici hanno vinto in stati dove non succedeva da decenni e in collegi ridisegnati per farli perdere, con diverse prime volte",
+      "publishedAt": "2026-11-04T13:38:12Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "Come sono andate le elezioni di metà mandato negli Stati Uniti, in diretta col Post",
+      "url": "https://www.ilpost.it/2026/11/04/elezioni-meta-mandato-risultati-diretta-video-post/?homepagePosition=0",
+      "excerpt": "I risultati commentati con Francesco Costa, Laura Loguercio e Luca Misculin, dalle 19 alle 21",
+      "publishedAt": "2026-11-04T08:49:47Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
       "title": "È una sconfitta soprattutto di Donald Trump",
-      "url": "https://www.ilpost.it/2026/11/04/trump-sconfitta-elezioni-midterm/?homepagePosition=2.1&referrerPost=3723760",
+      "url": "https://www.ilpost.it/2026/11/04/trump-sconfitta-elezioni-midterm/?homepagePosition=2.2&referrerPost=3724279",
       "excerpt": "Come una serie di scelte del presidente su candidati e politiche ha contribuito al disastro dei Repubblicani nelle elezioni di metà mandato",
       "publishedAt": "2026-11-04T06:48:31Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "In Indonesia tre importanti funzionari di polizia sono stati arrestati con l’accusa di aver intercettato il presidente",
-      "url": "https://www.ilpost.it/2026/11/04/indonesia-arresto-intercettazione-presidente-prabowo-subianto/?bitPosition=2",
-      "excerpt": "In Indonesia tre importanti funzionari di polizia sono stati arrestati con l’accusa di aver intercettato il presidente - Condividi - X - Regala il Post In Indonesia tre importanti funzionari di polizia sono stati arrestati con l’accusa di aver intercettato il presidente Prabowo Subianto, i ministri del suo governo e al",
-      "publishedAt": "2026-11-04T05:15:26Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Il parlamento della Groenlandia ha ratificato l’accordo per la sicurezza fatto con Stati Uniti e Danimarca",
-      "url": "https://www.ilpost.it/2026/11/04/groenlandia-parlamento-ratifica-accordo-stati-uniti-danimarca/?bitPosition=3",
-      "excerpt": "Il parlamento della Groenlandia ha ratificato l’accordo per la sicurezza fatto con Stati Uniti e Danimarca - Condividi - X - Regala il Post Il parlamento della Groenlandia ha ratificato l’accordo firmato a settembre con Stati Uniti e Danimarca, per consentire una maggiore presenza militare statunitense nel territorio. ",
-      "publishedAt": "2026-11-04T04:46:45Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Quella dei Repubblicani in Texas è una sconfitta clamorosa",
-      "url": "https://www.ilpost.it/2026/11/04/sconfitta-repubblicani-texas/?homepagePosition=2",
-      "excerpt": "Non solo hanno perso il seggio al Senato, ma anche il governatore, il procuratore generale e la maggioranza alla Camera statale",
-      "publishedAt": "2026-11-04T04:08:37Z",
+      "title": "I risultati delle elezioni negli Stati Uniti, in breve",
+      "url": "https://www.ilpost.it/2026/11/04/elezioni-midterm-risultati/?homepagePosition=0.1&referrerPost=3724330",
+      "excerpt": "I Democratici hanno stravinto ovunque e hanno preso il controllo del Congresso: è una grossa sconfitta per Trump",
+      "publishedAt": "2026-11-04T05:54:50Z",
       "dateEvidence": "jsonld:datePublished"
     }
   ],
@@ -63,27 +63,27 @@
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/04/sconfitta-repubblicani-texas/?homepagePosition=2",
+      "url": "https://www.ilpost.it/2026/11/04/elezioni-meta-mandato-risultati-diretta-video-post/?homepagePosition=0",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/04/trump-sconfitta-elezioni-midterm/?homepagePosition=2.1&referrerPost=3723760",
+      "url": "https://www.ilpost.it/2026/11/04/elezioni-midterm-risultati/?homepagePosition=0.1&referrerPost=3724330",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/04/foto-notte-elezioni-midterm-stati-uniti/?homepagePosition=2.2&referrerPost=3723760",
+      "url": "https://www.ilpost.it/2026/11/04/cosa-succede-stati-uniti-elezioni-meta-mandato/?homepagePosition=2",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/04/flavio-cobolli-qualificato-atp-finals-2026-tennis/?bitPosition=1",
+      "url": "https://www.ilpost.it/2026/11/04/cinque-cose-midterm-2026/?homepagePosition=2.1&referrerPost=3724279",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/04/indonesia-arresto-intercettazione-presidente-prabowo-subianto/?bitPosition=2",
+      "url": "https://www.ilpost.it/2026/11/04/trump-sconfitta-elezioni-midterm/?homepagePosition=2.2&referrerPost=3724279",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/04/groenlandia-parlamento-ratifica-accordo-stati-uniti-danimarca/?bitPosition=3",
+      "url": "https://www.ilpost.it/2026/11/04/israele-herzog-consultazioni-primo-ministro/?bitPosition=1",
       "status": 200
     }
   ],
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.ilpost.it/",
-  "durationSeconds": 3.88
+  "durationSeconds": 3.56
 }

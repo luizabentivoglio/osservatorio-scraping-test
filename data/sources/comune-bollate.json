@@ -4,93 +4,20 @@
   "sourceId": "comune-bollate",
   "originUrl": "https://comune.bollate.mi.it/it/news",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-04T09:58:20.723626Z",
-  "status": "ok",
-  "diagnosticCode": null,
-  "method": "trafilatura",
+  "collectedAt": "2026-11-04T18:15:38.316179Z",
+  "status": "error",
+  "diagnosticCode": "http_error",
+  "method": "html",
   "feedUrl": null,
-  "items": [
-    {
-      "title": "Comune chiuso per formazione il 10 e 17 novembre",
-      "url": "https://comune.bollate.mi.it/it/news/comune-chiuso",
-      "excerpt": "Sito ufficiale Comune di Bollate",
-      "publishedAt": "2026-11-03T00:00:00Z",
-      "dateEvidence": "html:news-date-label"
-    },
-    {
-      "title": "Carta “Dedicata a te: pubblicata la graduatoria dei benificiari",
-      "url": "https://comune.bollate.mi.it/it/news/carta-dedicata-a-te-2051258-2072550",
-      "excerpt": "Sito ufficiale Comune di Bollate",
-      "publishedAt": "2026-11-03T00:00:00Z",
-      "dateEvidence": "html:news-date-label"
-    },
-    {
-      "title": "Al Teatro LaBolla, i festeggiamenti civili di San Martino",
-      "url": "https://comune.bollate.mi.it/it/news/san-martino-2072994",
-      "excerpt": "Sito ufficiale Comune di Bollate",
-      "publishedAt": "2026-11-03T00:00:00Z",
-      "dateEvidence": "html:news-date-label"
-    },
-    {
-      "title": "Avviso pubblico misura Nidi gratis plus",
-      "url": "https://comune.bollate.mi.it/it/news/avviso-pubblico-misura-nidi-gratis-plus",
-      "excerpt": "Sito ufficiale Comune di Bollate",
-      "publishedAt": "2026-10-23T00:00:00Z",
-      "dateEvidence": "html:news-date-label"
-    },
-    {
-      "title": "Chiusura Uffici comunali per San Martino",
-      "url": "https://comune.bollate.mi.it/it/news/orari-2059632",
-      "excerpt": "Sito ufficiale Comune di Bollate",
-      "publishedAt": "2026-10-23T00:00:00Z",
-      "dateEvidence": "html:news-date-label"
-    },
-    {
-      "title": "Censimento ISTAT. Ritardi nella consegna delle lettere",
-      "url": "https://comune.bollate.mi.it/it/news/censimento-2044015-2059439",
-      "excerpt": "Sito ufficiale Comune di Bollate",
-      "publishedAt": "2026-10-23T00:00:00Z",
-      "dateEvidence": "html:news-date-label"
-    }
-  ],
+  "items": [],
   "attempts": [
     {
       "url": "https://comune.bollate.mi.it/robots.txt",
-      "status": 200
-    },
-    {
-      "url": "https://comune.bollate.mi.it/it/news",
-      "status": 200
-    },
-    {
-      "url": "https://comune.bollate.mi.it/it/news/comune-chiuso",
-      "status": 200
-    },
-    {
-      "url": "https://comune.bollate.mi.it/it/news/carta-dedicata-a-te-2051258-2072550",
-      "status": 200
-    },
-    {
-      "url": "https://comune.bollate.mi.it/it/news/san-martino-2072994",
-      "status": 200
-    },
-    {
-      "url": "https://comune.bollate.mi.it/it/news/avviso-pubblico-misura-nidi-gratis-plus",
-      "status": 200
-    },
-    {
-      "url": "https://comune.bollate.mi.it/it/news/orari-2059632",
-      "status": 200
-    },
-    {
-      "url": "https://comune.bollate.mi.it/it/news/censimento-2044015-2059439",
-      "status": 200
+      "status": 500
     }
   ],
-  "message": "6 notizie recenti con data verificata; copertura parziale.",
-  "candidateSamples": [],
-  "candidateCount": 12,
-  "datedCount": 6,
-  "listingUrl": "https://comune.bollate.mi.it/it/news",
-  "durationSeconds": 7.9
+  "message": "HTTP 500",
+  "httpStatus": 500,
+  "failedUrl": "https://comune.bollate.mi.it/robots.txt",
+  "durationSeconds": 0.87
 }
