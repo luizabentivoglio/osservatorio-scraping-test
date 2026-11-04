@@ -4,7 +4,7 @@
   "sourceId": "regione-lombardia",
   "originUrl": "https://www.regione.lombardia.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-03T20:41:51.663475Z",
+  "collectedAt": "2026-11-04T02:45:23.122245Z",
   "status": "blocked",
   "diagnosticCode": "access_restricted",
   "method": "html",

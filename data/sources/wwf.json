@@ -4,12 +4,55 @@
   "sourceId": "wwf",
   "originUrl": "https://www.wwf.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-03T20:42:03.434881Z",
-  "status": "blocked",
-  "diagnosticCode": "access_restricted",
-  "method": "html",
+  "collectedAt": "2026-11-04T02:45:32.303893Z",
+  "status": "ok",
+  "diagnosticCode": null,
+  "method": "trafilatura",
   "feedUrl": null,
-  "items": [],
+  "items": [
+    {
+      "title": "“5 per mille ma per davvero”, la Legge di bilancio 2027 superi il tetto di spesa",
+      "url": "https://www.wwf.it/pandanews/wwf-life/5-per-mille-ma-per-davvero-la-legge-di-bilancio-2027-superi-il-tetto-di-spesa/",
+      "excerpt": "La richiesta a Governo e Parlamento della campagna \"5 per mille, ma per davvero\" di cui WWF Italia fa parte",
+      "publishedAt": "2026-11-03T13:56:56Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "Al MedFilm Festival il Premio speciale 60 anni di WWF Italia",
+      "url": "https://www.wwf.it/pandanews/wwf-life/al-medfilm-festival-il-premio-speciale-60-anni-di-wwf-italia/",
+      "excerpt": "Il WWF affianca per il sesto anno il MedFilm Festival, la rassegna cinematografica che raccoglie le produzioni di 40 paesi",
+      "publishedAt": "2026-11-03T10:01:17Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "Entra nel vivo il progetto di WWF e Fondazione Roma",
+      "url": "https://www.wwf.it/pandanews/wwf-life/entra-nel-vivo-il-progetto-di-wwf-e-fondazione-roma/",
+      "excerpt": "Oltre 300 docenti iscritti al percorso formativo che accompagnerà la nascita di 50 nuove Aule Natura fra Roma e provincia entro il 2028",
+      "publishedAt": "2026-11-02T16:11:03Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "Tigri, in occasione della Cites lanciato allarme sugli allevamenti commerciali",
+      "url": "https://www.wwf.it/pandanews/animali/tigri-in-occasione-della-cites-lanciato-allarme-sugli-allevamenti-commerciali/",
+      "excerpt": "L'allarme globale è stato lanciato dal WWF insieme a una coalizione di organizzazioni internazionali per la conservazione",
+      "publishedAt": "2026-11-02T10:48:00Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "COP17: bene gli sforzi annunciati, ma restano gli ostacoli finanziari",
+      "url": "https://www.wwf.it/pandanews/societa/mondo/cop17-bene-gli-sforzi-annunciati-ma-restano-gli-ostacoli-finanziari/",
+      "excerpt": "Luci e ombre dopo la chiusura della Conferenza delle Nazioni Unite sulla biodiversità (COP17), tenutasi in Armenia",
+      "publishedAt": "2026-10-31T11:48:00Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "Con “I fiori del mulino” oltre 2.000 ettari per gli impollinatori",
+      "url": "https://www.wwf.it/pandanews/societa/con-i-fiori-del-mulino-oltre-2-000-ettari-per-gli-impollinatori/",
+      "excerpt": "Mulino Bianco e WWF Italia celebrano i campi fioriti più belli al MAXXI di Roma nell’ambito dell’incontro dedicato alla Carta del Mulino",
+      "publishedAt": "2026-10-30T10:10:14Z",
+      "dateEvidence": "jsonld:datePublished"
+    }
+  ],
   "attempts": [
     {
       "url": "https://www.wwf.it/robots.txt",
@@ -17,11 +60,37 @@
     },
     {
       "url": "https://www.wwf.it/",
-      "status": 403
+      "status": 200
+    },
+    {
+      "url": "https://www.wwf.it/pandanews/wwf-life/5-per-mille-ma-per-davvero-la-legge-di-bilancio-2027-superi-il-tetto-di-spesa/",
+      "status": 200
+    },
+    {
+      "url": "https://www.wwf.it/pandanews/wwf-life/al-medfilm-festival-il-premio-speciale-60-anni-di-wwf-italia/",
+      "status": 200
+    },
+    {
+      "url": "https://www.wwf.it/pandanews/wwf-life/entra-nel-vivo-il-progetto-di-wwf-e-fondazione-roma/",
+      "status": 200
+    },
+    {
+      "url": "https://www.wwf.it/pandanews/animali/tigri-in-occasione-della-cites-lanciato-allarme-sugli-allevamenti-commerciali/",
+      "status": 200
+    },
+    {
+      "url": "https://www.wwf.it/pandanews/societa/mondo/cop17-bene-gli-sforzi-annunciati-ma-restano-gli-ostacoli-finanziari/",
+      "status": 200
+    },
+    {
+      "url": "https://www.wwf.it/pandanews/societa/con-i-fiori-del-mulino-oltre-2-000-ettari-per-gli-impollinatori/",
+      "status": 200
     }
   ],
-  "message": "HTTP 403: accesso limitato dalla fonte",
-  "httpStatus": 403,
-  "failedUrl": "https://www.wwf.it/",
-  "durationSeconds": 1.26
+  "message": "6 notizie recenti con data verificata; copertura parziale.",
+  "candidateSamples": [],
+  "candidateCount": 12,
+  "datedCount": 6,
+  "listingUrl": "https://www.wwf.it/",
+  "durationSeconds": 8.21
 }

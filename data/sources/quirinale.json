@@ -4,7 +4,7 @@
   "sourceId": "quirinale",
   "originUrl": "https://www.quirinale.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-03T20:41:51.198096Z",
+  "collectedAt": "2026-11-04T02:45:22.626017Z",
   "status": "blocked",
   "diagnosticCode": "access_restricted",
   "method": "html",
@@ -42,9 +42,17 @@
     {
       "url": "https://www.quirinale.it/it/notizie/nostra-repubblica-compie-ottant-anni-1",
       "status": 200
+    },
+    {
+      "url": "https://www.quirinale.it/it/notizie/presidente-mattarella-consegna-decorazioni-ordine-militare-d-italia",
+      "status": 200
+    },
+    {
+      "url": "https://www.quirinale.it/it/notizie/presidente-mattarella-ha-ricevuto-presidente-repubblica-cile-jose-antonio-kast-1",
+      "status": 200
     }
   ],
-  "message": "Verifica interattiva richiesta",
+  "message": "Browser HTTP 403",
   "candidateSamples": [
     {
       "url": "https://www.quirinale.it/it/notizie/presidente-mattarella-consegna-decorazioni-ordine-militare-d-italia",
@@ -244,5 +252,5 @@
   "candidateCount": 12,
   "datedCount": 0,
   "listingUrl": "https://www.quirinale.it/",
-  "durationSeconds": 3.98
+  "durationSeconds": 4.45
 }

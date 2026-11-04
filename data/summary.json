@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T20:42:08.164245+00:00",
+  "generatedAt": "2026-11-04T02:45:40.514463+00:00",
   "sourceCount": 67,
   "ok": 36,
-  "items": 160,
+  "items": 146,
   "results": [
     {
       "sourceId": "amnesty",
@@ -77,13 +77,13 @@
     },
     {
       "sourceId": "cnr",
-      "status": "ok",
-      "method": "rss",
-      "diagnosticCode": null,
-      "message": "Feed ufficiale letto; date di pubblicazione verificate.",
+      "status": "error",
+      "method": "html",
+      "diagnosticCode": "connection_error",
+      "message": "SSLError",
       "candidateCount": null,
       "datedCount": null,
-      "itemCount": 20
+      "itemCount": 0
     },
     {
       "sourceId": "coldiretti",
@@ -251,7 +251,7 @@
       "method": "trafilatura",
       "diagnosticCode": null,
       "message": "0 notizie recenti con data verificata; copertura parziale.",
-      "candidateCount": 4,
+      "candidateCount": 3,
       "datedCount": 3,
       "itemCount": 0
     },
@@ -590,7 +590,7 @@
       "status": "blocked",
       "method": "html",
       "diagnosticCode": "access_restricted",
-      "message": "Verifica interattiva richiesta",
+      "message": "Browser HTTP 403",
       "candidateCount": 12,
       "datedCount": 0,
       "itemCount": 0
@@ -631,7 +631,7 @@
       "method": "crawl4ai",
       "diagnosticCode": "parsing_error",
       "message": "Pagina accessibile, ma nessuna notizia con data di pubblicazione verificabile.",
-      "candidateCount": 1,
+      "candidateCount": 0,
       "datedCount": 0,
       "itemCount": 0
     },
@@ -667,13 +667,13 @@
     },
     {
       "sourceId": "wwf",
-      "status": "blocked",
-      "method": "html",
-      "diagnosticCode": "access_restricted",
-      "message": "HTTP 403: accesso limitato dalla fonte",
-      "candidateCount": null,
-      "datedCount": null,
-      "itemCount": 0
+      "status": "ok",
+      "method": "trafilatura",
+      "diagnosticCode": null,
+      "message": "6 notizie recenti con data verificata; copertura parziale.",
+      "candidateCount": 12,
+      "datedCount": 6,
+      "itemCount": 6
     }
   ]
 }

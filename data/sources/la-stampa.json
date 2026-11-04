@@ -4,23 +4,16 @@
   "sourceId": "la-stampa",
   "originUrl": "https://www.lastampa.it/",
   "configuredFeedUrl": "https://www.lastampa.it/rss/copertina.xml",
-  "collectedAt": "2026-11-03T20:41:23.840852Z",
+  "collectedAt": "2026-11-04T02:44:57.763008Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.lastampa.it/rss/copertina.xml",
   "items": [
     {
-      "title": "Spagna, si dimette il ministro dei Trasporti Puente dopo la strage ferroviaria",
-      "url": "https://www.lastampa.it/esteri/2026/11/03/news/spagna_si_dimette_il_ministro_dei_trasporti_puente_dopo_la_strage_ferroviaria-15787359/",
-      "excerpt": "Sono morte almeno 69 persone a Urda, nei pressi di Toledo",
-      "publishedAt": "2026-11-03T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Usa al voto, milioni alle urne. Trump: “A Guam vittoria dei repubblicani, speriamo sia un segnale”",
+      "title": "Midterm, onda blu sull’America: democratici a un passo dal controllo del congresso",
       "url": "https://www.lastampa.it/esteri/speciali/elezioni-midterm-2026/2026/11/03/diretta/elezioni_midterm_trump_usa_news_aggiornamenti-15786838/",
-      "excerpt": "In palio ci sono tutti i 435 seggi della Camera dei Rappresentanti, 35 dei 100 seggi del Senato e i governatorati di 36 Stati. Il presidente Usa: «Il voto più importante della nostra storia»",
+      "excerpt": "Le sfide al Senato: il dem Cooper strappa la North Carolina ai repubblicani, El-Sayed e Talarico avanti in Michigan e Texas. Dopo 94 anni anche i conservatori rischiano di perdere il Kansas",
       "publishedAt": "2026-11-03T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -158,9 +151,9 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Vertice Nato-Usa, l'Italia non ci sarà. L'Ue: \"Dobbiamo essere pronti anche a un conflitto in Europa\"",
-      "url": "https://www.lastampa.it/esteri/2026/11/03/diretta/guerra_russia_ucraina_news_oggi-15786381/",
-      "excerpt": "Zelensky oggi a Berlino da Merz. Il cancelliere: «Non vedo Mosca disposta a negoziare la pace». Il leader ucraino: «Abbiamo offerto una tregua, ma la Russia ci attacca ogni giorno». Trilaterale con Usa e Ucraina ad Abu Dhabi il 10 e l'11 novembre. Melania Trump riunisce alla Casa Bianca funzionari russi e ucraini il 5 ",
+      "title": "Spagna, si dimette il ministro dei Trasporti Puente dopo la strage ferroviaria",
+      "url": "https://www.lastampa.it/esteri/2026/11/03/news/spagna_si_dimette_il_ministro_dei_trasporti_puente_dopo_la_strage_ferroviaria-15787359/",
+      "excerpt": "Non si ricandiderà alle elezioni del prossimo 29 novembre",
       "publishedAt": "2026-11-03T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -210,6 +203,13 @@
       "title": "Il premier Burnham gioca a cricket ad Antigua, ma qualcosa va storto: cade in campo e diventa virale",
       "url": "https://www.lastampa.it/esteri/2026/11/03/video/gb_andy_burnham_cricket_caduta-15786441/",
       "excerpt": "Fuori programma per il primo ministro britannico Andy Burnham, protagonista di una caduta mentre giocava a cricket ad Antigua e Barbuda. Il premier, nel Paese caraibico per partecipare al vertice dei capi di governo del Commonwealth, stava prendendo parte a una partita al Bullets Cricket Ground di Powells quando, corre",
+      "publishedAt": "2026-11-03T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Champions: da 0-2 a 3-2, la Roma crolla contro il Manchester United. L’Inter torna a vincere",
+      "url": "https://www.lastampa.it/sport/2026/11/03/news/champions_da_0-2_a_3-2_la_roma_crolla_contro_il_manchester_united_l_inter_torna_a_vincere-15787429/",
+      "excerpt": "Feyenoord travolto 0-3 Reazione nerazzurra dopo ko derby, gol Bisseck, Esposito e Zielinski",
       "publishedAt": "2026-11-03T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -270,13 +270,6 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Rischio di violenze se Trump vince, la sinistra voli più alto della destra",
-      "url": "https://www.lastampa.it/esteri/speciali/elezioni-midterm-2026/2026/11/02/news/colum_mccann_midterm_rischio_violenze_se_trump_vince-15786312/",
-      "excerpt": "Lo scrittore: «Non c’è stato niente di politico e nulla di ammirabile nel mandato del presidente»",
-      "publishedAt": "2026-11-02T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
       "title": "Terzo valico: altri 2 miliardi e mezzo fino al 2030, ma i 336 operai restano in “cassa”",
       "url": "https://www.lastampa.it/alessandria/2026/11/02/news/terzo_valico_altri_245_miliardi_lavori_336_operai_restano_cassa_integrazione-15786001/",
       "excerpt": "Gli ulteriori soldi pubblici previsti nella bozza della legge finanziaria, al momento non hanno sbloccato la situazione dei cantieri di Radimero e Val Lemme, neppure dopo l'incontro del 2 novembre in prefettura ad Alessandria. Ci sono anche 16 licenziati",
@@ -287,6 +280,13 @@
       "title": "Gusti che cambiano e la crisi irreversibile dei consumi, il mondo del vino piemontese è a un bivio",
       "url": "https://www.lastampa.it/cuneo/2026/11/02/news/crisi_vino-15784800/",
       "excerpt": "Il confronto agli Stati generali del settore all’Università del Gusto di Pollenzo: l’idea di allargare i mercati e di introdurre una Igp regionale",
+      "publishedAt": "2026-11-02T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Punta due centesimi e vince 30 mila euro: il colpo di ottobre al casinò di Sanremo",
+      "url": "https://www.lastampa.it/imperia-sanremo/2026/11/02/news/punta_due_centesimi_e_vince_30_mila_euro_il_colpo_di_ottobre_al_casino_di_sanremo-15785403/",
+      "excerpt": "Ottobre positivo: quasi 16mila visitatori, incassi a quota 4,6 milioni",
       "publishedAt": "2026-11-02T00:00:00Z",
       "dateEvidence": "feed:published"
     }
@@ -302,5 +302,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 0.8
+  "durationSeconds": 1.0
 }
