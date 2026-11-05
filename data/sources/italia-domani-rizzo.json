@@ -4,16 +4,16 @@
   "sourceId": "italia-domani-rizzo",
   "originUrl": "https://www.italiadomanirizzo.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-05T18:18:59.270681Z",
+  "collectedAt": "2026-11-05T23:52:23.543735Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
-      "title": "Criscuolo (Italia Domani): sanità campana in affanno, servono strutture efficienti - Italia Domani",
-      "url": "https://www.italiadomanirizzo.it/criscuolo-italia-domani-sanita-campana-in-affanno-servono-st/",
-      "excerpt": "Il coordinatore regionale di Italia Domani Marco Rizzo, Criscuolo, denuncia le difficoltà della sanità in Campania e i sacrifici imposti ai cittadini per il risanamento dei conti.",
+      "title": "Crisi a Bari per Futuro Nazionale: oltre sessanta iscritti lasciano il movimento - Italia Domani",
+      "url": "https://www.italiadomanirizzo.it/crisi-a-bari-per-futuro-nazionale-oltre-sessanta-iscritti-la/",
+      "excerpt": "A Bari si registrano le dimissioni del comitato «Bari 645» legato a Futuro Nazionale. Circa sessanta iscritti lasciano il gruppo parlando di divergenze politiche e di visione sul progetto.",
       "publishedAt": "2026-11-05T00:00:00Z",
       "dateEvidence": "jsonld:datePublished"
     },
@@ -25,10 +25,10 @@
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "Minacce a Cerno e a Il Giornale: la ferma condanna di Andrea Romiti - Italia Domani",
-      "url": "https://www.italiadomanirizzo.it/solidarieta-a-tommaso-cerno-no-a-minacce-e-intimidazioni-con/",
-      "excerpt": "Andrea Romiti esprime piena vicinanza al direttore Tommaso Cerno e alla redazione de Il Giornale dopo le inaccettabili intimidazioni rivolte all'informazione.",
-      "publishedAt": "2026-11-04T00:00:00Z",
+      "title": "Criscuolo (Italia Domani): sanità campana in affanno, servono strutture efficienti - Italia Domani",
+      "url": "https://www.italiadomanirizzo.it/criscuolo-italia-domani-sanita-campana-in-affanno-servono-st/",
+      "excerpt": "Il coordinatore regionale di Italia Domani Marco Rizzo, Criscuolo, denuncia le difficoltà della sanità in Campania e i sacrifici imposti ai cittadini per il risanamento dei conti.",
+      "publishedAt": "2026-11-05T00:00:00Z",
       "dateEvidence": "jsonld:datePublished"
     }
   ],
@@ -42,7 +42,7 @@
       "status": 200
     },
     {
-      "url": "https://www.italiadomanirizzo.it/criscuolo-italia-domani-sanita-campana-in-affanno-servono-st/",
+      "url": "https://www.italiadomanirizzo.it/crisi-a-bari-per-futuro-nazionale-oltre-sessanta-iscritti-la/",
       "status": 200
     },
     {
@@ -50,7 +50,7 @@
       "status": 200
     },
     {
-      "url": "https://www.italiadomanirizzo.it/solidarieta-a-tommaso-cerno-no-a-minacce-e-intimidazioni-con/",
+      "url": "https://www.italiadomanirizzo.it/criscuolo-italia-domani-sanita-campana-in-affanno-servono-st/",
       "status": 200
     },
     {
@@ -94,5 +94,5 @@
   "candidateCount": 8,
   "datedCount": 3,
   "listingUrl": "https://www.italiadomanirizzo.it/",
-  "durationSeconds": 7.81
+  "durationSeconds": 5.99
 }

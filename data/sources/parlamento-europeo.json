@@ -4,7 +4,7 @@
   "sourceId": "parlamento-europeo",
   "originUrl": "https://www.europarl.europa.eu/news/it",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-05T18:19:15.789110Z",
+  "collectedAt": "2026-11-05T23:52:36.913931Z",
   "status": "blocked",
   "diagnosticCode": "access_restricted",
   "method": "html",
@@ -19,5 +19,5 @@
   "message": "HTTP 403: accesso limitato dalla fonte",
   "httpStatus": 403,
   "failedUrl": "https://www.europarl.europa.eu/robots.txt",
-  "durationSeconds": 0.12
+  "durationSeconds": 0.28
 }

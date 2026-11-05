@@ -4,16 +4,23 @@
   "sourceId": "palazzo-chigi",
   "originUrl": "https://www.governo.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-05T18:19:13.885161Z",
+  "collectedAt": "2026-11-05T23:52:36.230168Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.governo.it/feed/rss",
   "items": [
     {
+      "title": "Comunicato stampa del Consiglio dei Ministri n. 196",
+      "url": "https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-196/33042",
+      "excerpt": "Il Consiglio dei Ministri si è riunito giovedì 5 novembre 2026, alle ore 17.14 a Palazzo Chigi, sotto la presidenza del Presidente Giorgia Meloni. Segretario, il Sottosegretario alla Presidenza Alfredo Mantovano. ٠٠٠٠٠",
+      "publishedAt": "2026-11-05T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
       "title": "Consiglio dei Ministri n. 196",
       "url": "https://www.governo.it/it/articolo/consiglio-dei-ministri-n-196/33040",
-      "excerpt": "Si è svolta a Palazzo Chigi la riunione del Consiglio dei Ministri.",
+      "excerpt": "Si è svolta a Palazzo Chigi la riunione del Consiglio dei Ministri. Nel comunicato stampa i provvedimenti approvati.",
       "publishedAt": "2026-11-05T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -72,13 +79,6 @@
       "excerpt": "Il Presidente del Consiglio, Giorgia Meloni, ha partecipato a Roma, presso la Basilica di Santa Maria degli Angeli e dei Martiri, alle esequie solenni dei Caduti nell’incidente elicotteristico in Bosnia ed Erzegovina.",
       "publishedAt": "2026-11-03T00:00:00Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Attacchi hacker in Europa ai sistemi di refrigerazione commerciale, nota di Palazzo Chigi",
-      "url": "https://www.governo.it/it/articolo/attacchi-hacker-europa-ad-alcuni-sistemi-di-refrigerazione-commerciale-nota-di-palazzo",
-      "excerpt": "Si è svolta a Palazzo Chigi una riunione con il Sottosegretario alla Presidenza del Consiglio, Alfredo Mantovano, e il Ministro dell’Agricoltura, Francesco Lollobrigida, alla quale hanno partecipato il Direttore dell’Agenzia per la Cybersicurezza Nazionale (ACN) e i Direttori delle Agenzie di intelligence, a seguito de",
-      "publishedAt": "2026-11-03T00:00:00Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -100,5 +100,5 @@
     }
   ],
   "message": "Feed dichiarato dalla fonte; date di pubblicazione verificate.",
-  "durationSeconds": 30.18
+  "durationSeconds": 30.12
 }
