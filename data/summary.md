@@ -45,11 +45,11 @@
 | italia-viva | blocked | html | 0 | access_restricted |
 | la-stampa | ok | rss | 40 | — |
 | legambiente | ok | trafilatura | 0 | — |
-| libera | ok | html | 1 | — |
+| libera | ok | html | 0 | — |
 | mef | ok | trafilatura | 4 | — |
 | msf | ok | trafilatura | 6 | — |
-| osservatorio-cpi | ok | trafilatura | 5 | — |
-| oxfam | ok | trafilatura | 5 | — |
+| osservatorio-cpi | ok | trafilatura | 6 | — |
+| oxfam | ok | trafilatura | 4 | — |
 | pagella-politica | ok | trafilatura | 6 | — |
 | palazzo-chigi | ok | rss | 10 | — |
 | parlamento-europeo | blocked | html | 0 | access_restricted |

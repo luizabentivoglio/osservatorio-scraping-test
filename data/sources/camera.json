@@ -4,14 +4,21 @@
   "sourceId": "camera",
   "originUrl": "https://www.camera.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-04T23:57:29.442347Z",
+  "collectedAt": "2026-11-05T09:52:14.775152Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
-      "title": "Tecnologie quantistiche nel settore difesa, audizione Villoresi, Università Padova Giovedì alle 8.30 diretta webtv",
+      "title": "Decreto costo carburanti",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63871",
+      "excerpt": "In Aula, alle ore 9.30, l'esame dei seguenti provvedimenti: disegno di legge di conversione, con mo...",
+      "publishedAt": "2026-11-05T00:00:00Z",
+      "dateEvidence": "html:publication-label"
+    },
+    {
+      "title": "Tecnologie quantistiche nel settore difesa, audizione Villoresi, Università Padova",
       "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63824",
       "excerpt": "Giovedì 5 novembre, alle ore 8.30, la Commissione Difesa, in merito all'indagine conoscitiva sulle...",
       "publishedAt": "2026-11-04T00:00:00Z",
@@ -44,13 +51,6 @@
       "excerpt": "Giovedì 5 novembre, alle ore 14, la Commissione Affari costituzionali svolge interrogazioni a rispo...",
       "publishedAt": "2026-11-04T00:00:00Z",
       "dateEvidence": "html:publication-label"
-    },
-    {
-      "title": "3° workshop European FS Tech Hub - Giovedì alle 14.30 diretta webtv - Saluto di Mulè",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63829",
-      "excerpt": "Giovedì 5 novembre, alle ore 14.30, presso la Sala della Regina di Montecitorio si svolge il conveg...",
-      "publishedAt": "2026-11-04T00:00:00Z",
-      "dateEvidence": "html:publication-label"
     }
   ],
   "attempts": [
@@ -60,6 +60,10 @@
     },
     {
       "url": "https://comunicazione.camera.it/archivio-prima-pagina",
+      "status": 200
+    },
+    {
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63871",
       "status": 200
     },
     {
@@ -81,10 +85,6 @@
     {
       "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63828",
       "status": 200
-    },
-    {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63829",
-      "status": 200
     }
   ],
   "message": "6 notizie recenti con data verificata; copertura parziale.",
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://comunicazione.camera.it/archivio-prima-pagina",
-  "durationSeconds": 4.09
+  "durationSeconds": 4.21
 }

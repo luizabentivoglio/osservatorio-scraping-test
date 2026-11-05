@@ -4,24 +4,24 @@
   "sourceId": "coldiretti",
   "originUrl": "https://www.coldiretti.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-04T23:57:33.538348Z",
+  "collectedAt": "2026-11-05T09:52:18.991771Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
+      "title": "Ue, bene via libera dalla COMAGRI a più risorse per il ricambio generazionale",
+      "url": "https://www.coldiretti.it/economia/ue-bene-via-libera-dalla-comagri-a-piu-risorse-per-il-ricambio-generazionale",
+      "excerpt": "Almeno il 10% del bilancio Pac post 2027 ai giovani agricoltori. Rafforzati gli aiuti all’insediamento e le misure per l’accesso alla terra",
+      "publishedAt": "2026-11-05T07:34:26Z",
+      "dateEvidence": "meta:article:published_time"
+    },
+    {
       "title": "ColtivaItalia, ok Senato è passo avanti per sovranità alimentare, filiere, semplificazione e salute cittadini",
       "url": "https://www.coldiretti.it/economia/coltivaitalia-ok-senato-e-passo-avanti-per-sovranita-alimentare-filiere-semplificazione-e-salute-cittadini",
       "excerpt": "Oltre un miliardo di euro per sostenere le produzioni nazionali e rafforzare le filiere. Accolte richieste di Coldiretti",
       "publishedAt": "2026-11-04T11:55:55Z",
-      "dateEvidence": "meta:article:published_time"
-    },
-    {
-      "title": "Cybersicurezza, Gesmundo: \"Cibo è sicurezza nazionale, serve piano straordinario per proteggere filiera alimentare\"",
-      "url": "https://www.coldiretti.it/economia/cybersicurezza-gesmundo-cibo-e-sicurezza-nazionale-serve-piano-straordinario-per-proteggere-filiera-alimentare",
-      "excerpt": "Gli attacchi hacker accendono l’allarme sulla vulnerabilità degli approvvigionamenti. Rafforzare la rete dei mercati contadini",
-      "publishedAt": "2026-11-03T16:03:26Z",
       "dateEvidence": "meta:article:published_time"
     },
     {
@@ -62,7 +62,7 @@
       "status": 200
     },
     {
-      "url": "https://www.coldiretti.it/economia/cybersicurezza-gesmundo-cibo-e-sicurezza-nazionale-serve-piano-straordinario-per-proteggere-filiera-alimentare",
+      "url": "https://www.coldiretti.it/economia/ue-bene-via-libera-dalla-comagri-a-piu-risorse-per-il-ricambio-generazionale",
       "status": 200
     }
   ],
@@ -71,5 +71,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.coldiretti.it/",
-  "durationSeconds": 7.98
+  "durationSeconds": 9.71
 }

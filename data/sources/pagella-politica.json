@@ -4,12 +4,19 @@
   "sourceId": "pagella-politica",
   "originUrl": "https://pagellapolitica.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-04T23:58:18.599819Z",
+  "collectedAt": "2026-11-05T09:53:07.825034Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "Perché in Italia gli sponsor delle scommesse possono ancora comparire sulle maglie da calcio",
+      "url": "https://pagellapolitica.it/articoli/italia-sponsor-scommesse-maglie-calcio",
+      "excerpt": "Il recente caso dell’Inter ha mostrato i limiti del divieto introdotto nel 2018, che non ha impedito la presenza di...",
+      "publishedAt": "2026-11-05T00:00:00Z",
+      "dateEvidence": "html:post-date"
+    },
     {
       "title": "È finita l’ascesa di Futuro Nazionale?",
       "url": "https://pagellapolitica.it/articoli/fine-ascesa-futuro-nazionale",
@@ -44,13 +51,6 @@
       "excerpt": "La proposta allargherebbe gli aiuti sulle bollette elettriche a milioni di famiglie, ma ci sono dubbi...",
       "publishedAt": "2026-10-30T00:00:00Z",
       "dateEvidence": "html:post-date"
-    },
-    {
-      "title": "Così l’Europa vuole rimpatriare i migranti prima ancora che arrivino in Europa",
-      "url": "https://pagellapolitica.it/articoli/europa-rimpatrio-migranti-frontex",
-      "excerpt": "Tramite Frontex, la Commissione UE ha proposto di favorire i rimpatri tra Paesi esterni all’Unione. È una strategia...",
-      "publishedAt": "2026-10-30T00:00:00Z",
-      "dateEvidence": "html:post-date"
     }
   ],
   "attempts": [
@@ -60,6 +60,10 @@
     },
     {
       "url": "https://pagellapolitica.it/articoli",
+      "status": 200
+    },
+    {
+      "url": "https://pagellapolitica.it/articoli/italia-sponsor-scommesse-maglie-calcio",
       "status": 200
     },
     {
@@ -81,10 +85,6 @@
     {
       "url": "https://pagellapolitica.it/articoli/bolletta-sociale-alleanza-verdi-sinistra",
       "status": 200
-    },
-    {
-      "url": "https://pagellapolitica.it/articoli/europa-rimpatrio-migranti-frontex",
-      "status": 200
     }
   ],
   "message": "6 notizie recenti con data verificata; copertura parziale.",
@@ -92,5 +92,5 @@
   "candidateCount": 6,
   "datedCount": 6,
   "listingUrl": "https://pagellapolitica.it/articoli",
-  "durationSeconds": 5.9
+  "durationSeconds": 10.5
 }

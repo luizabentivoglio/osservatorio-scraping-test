@@ -4,7 +4,7 @@
   "sourceId": "oxfam",
   "originUrl": "https://www.oxfamitalia.org/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-04T23:58:16.871781Z",
+  "collectedAt": "2026-11-05T09:53:04.746415Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -36,13 +36,6 @@
       "url": "https://www.oxfamitalia.org/i-super-ricchi-sono-ancora-piu-ricchi-grazie-alla-crisi-climatica/",
       "excerpt": "Chi inquina meno paga il prezzo più alto, mentre chi inquina di più può proteggersi e persino guadagnare dalla crisi climatica",
       "publishedAt": "2026-10-27T08:32:12Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "IL 24 OTTOBRE SCENDIAMO IN PIAZZA CONTRO I CENTRI DI PERMANENZA PER IL RIMPATRIO",
-      "url": "https://www.oxfamitalia.org/il-24-ottobre-scendiamo-in-piazza-contro-i-centri-di-permanenza-per-il-rimpatrio/",
-      "excerpt": "Il 24 ottobre Oxfam scende in piazza a Castel Volturno contro i Centri di permanenza per il rimpatrio. Leggi di più",
-      "publishedAt": "2026-10-22T07:48:22Z",
       "dateEvidence": "jsonld:datePublished"
     }
   ],
@@ -80,10 +73,10 @@
       "status": 200
     }
   ],
-  "message": "5 notizie recenti con data verificata; copertura parziale.",
+  "message": "4 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [],
   "candidateCount": 8,
   "datedCount": 6,
   "listingUrl": "https://www.oxfamitalia.org/news/",
-  "durationSeconds": 4.21
+  "durationSeconds": 4.19
 }

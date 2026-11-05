@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-04T23:58:50.529849+00:00",
+  "generatedAt": "2026-11-05T09:53:40.897593+00:00",
   "sourceCount": 67,
   "ok": 38,
-  "items": 167,
+  "items": 166,
   "results": [
     {
       "sourceId": "amnesty",
@@ -161,7 +161,7 @@
       "method": "crawl4ai",
       "diagnosticCode": "parsing_error",
       "message": "Pagina accessibile, ma nessuna notizia con data di pubblicazione verificabile.",
-      "candidateCount": 1,
+      "candidateCount": 2,
       "datedCount": 0,
       "itemCount": 0
     },
@@ -372,7 +372,7 @@
       "diagnosticCode": null,
       "message": "0 notizie recenti con data verificata; copertura parziale.",
       "candidateCount": 12,
-      "datedCount": 6,
+      "datedCount": 5,
       "itemCount": 0
     },
     {
@@ -432,7 +432,7 @@
       "diagnosticCode": null,
       "message": "0 notizie recenti con data verificata; copertura parziale.",
       "candidateCount": 12,
-      "datedCount": 3,
+      "datedCount": 2,
       "itemCount": 0
     },
     {
@@ -443,7 +443,7 @@
       "message": "Titoli, link e date di pubblicazione verificati nelle schede ufficiali delle notizie.",
       "candidateCount": null,
       "datedCount": 4,
-      "itemCount": 1
+      "itemCount": 0
     },
     {
       "sourceId": "mef",
@@ -470,20 +470,20 @@
       "status": "ok",
       "method": "trafilatura",
       "diagnosticCode": null,
-      "message": "5 notizie recenti con data verificata; copertura parziale.",
+      "message": "6 notizie recenti con data verificata; copertura parziale.",
       "candidateCount": 12,
-      "datedCount": 5,
-      "itemCount": 5
+      "datedCount": 6,
+      "itemCount": 6
     },
     {
       "sourceId": "oxfam",
       "status": "ok",
       "method": "trafilatura",
       "diagnosticCode": null,
-      "message": "5 notizie recenti con data verificata; copertura parziale.",
+      "message": "4 notizie recenti con data verificata; copertura parziale.",
       "candidateCount": 8,
       "datedCount": 6,
-      "itemCount": 5
+      "itemCount": 4
     },
     {
       "sourceId": "pagella-politica",
@@ -541,7 +541,7 @@
       "method": "crawl4ai",
       "diagnosticCode": "parsing_error",
       "message": "Pagina accessibile, ma nessuna notizia con data di pubblicazione verificabile.",
-      "candidateCount": 4,
+      "candidateCount": 5,
       "datedCount": 0,
       "itemCount": 0
     },

@@ -4,20 +4,12 @@
   "sourceId": "libera",
   "originUrl": "https://www.libera.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-04T23:58:10.350899Z",
+  "collectedAt": "2026-11-05T09:53:00.344070Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "html",
   "feedUrl": null,
-  "items": [
-    {
-      "title": "“Punire quasi mai funziona, educare spesso sì”",
-      "url": "https://www.libera.it/it-schede-2873-punire_quasi_mai_funziona_educare_spesso_si",
-      "excerpt": "Libera risponde alle dichiarazioni del ministro Nordio: contro il disagio giovanile e la criminalità minorile servono educazione, opportunità e sostegno alle famiglie, non solo repressione.",
-      "publishedAt": "2026-10-22T00:00:00Z",
-      "dateEvidence": "html:dated-news-card"
-    }
-  ],
+  "items": [],
   "attempts": [
     {
       "url": "https://www.libera.it/robots.txt",
@@ -31,5 +23,5 @@
   "message": "Titoli, link e date di pubblicazione verificati nelle schede ufficiali delle notizie.",
   "datedCount": 4,
   "listingUrl": "https://www.libera.it/",
-  "durationSeconds": 3.64
+  "durationSeconds": 2.44
 }

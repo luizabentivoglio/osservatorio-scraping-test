@@ -4,52 +4,52 @@
   "sourceId": "il-post",
   "originUrl": "https://www.ilpost.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-04T23:58:04.500567Z",
+  "collectedAt": "2026-11-05T09:52:53.078205Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
-      "title": "L’osservatorio spaziale Swift è rientrato nell’atmosfera terrestre, dopo oltre vent’anni",
-      "url": "https://www.ilpost.it/2026/11/04/nasa-swfit-osservatorio-ritorno-terra/?bitPosition=1",
-      "excerpt": "L’osservatorio spaziale Swift è rientrato nell’atmosfera terrestre, dopo oltre vent’anni - Condividi - X - Regala il Post L’osservatorio spaziale Swift della NASA è rientrato nell’atmosfera terrestre, dopo una lenta caduta verso la Terra. Le stime della NASA prevedevano che l’ingresso nell’atmosfera sarebbe avvenuto in",
-      "publishedAt": "2026-11-04T19:35:21Z",
+      "title": "La polizia sta eseguendo 16 misure cautelari per gli scontri alla fine del corteo di gennaio per l’Askatasuna a Torino",
+      "url": "https://www.ilpost.it/2026/11/05/askatasuna-torino-misure-cautelari/?bitPosition=1",
+      "excerpt": "La polizia sta eseguendo 16 misure cautelari per gli scontri alla fine del corteo di gennaio per l’Askatasuna a Torino - Condividi - X - Regala il Post La polizia sta eseguendo misure cautelari nei confronti di 16 persone indagate per gli scontri avvenuti a Torino a gennaio alla fine del corteo contro lo sgombero dello",
+      "publishedAt": "2026-11-05T08:42:15Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "Per giovedì 5 novembre nell’est della Sardegna è stata emessa l’allerta di grado massimo a causa delle forti piogge",
-      "url": "https://www.ilpost.it/2026/11/04/sardegna-allerta-rossa-5-novembre-maltempo/?bitPosition=2",
-      "excerpt": "Per giovedì 5 novembre nell’est della Sardegna è stata emessa l’allerta di grado massimo a causa delle forti piogge - Condividi - X - Regala il Post La Protezione civile della Sardegna ha diramato un’allerta rossa, quindi del grado massimo, per il rischio idrogeologico sulla costa est dell’isola a causa delle forti pio",
-      "publishedAt": "2026-11-04T18:13:48Z",
+      "title": "Un aereo partito da Dublino e diretto a Roma è stato fatto atterrare in Francia dopo un allarme bomba",
+      "url": "https://www.ilpost.it/2026/11/05/aereo-diretto-a-roma-ridirottato-in-francia-allarme-bomba/?bitPosition=2",
+      "excerpt": "Un aereo partito da Dublino e diretto a Roma è stato fatto atterrare in Francia dopo un allarme bomba - Condividi - X - Regala il Post Giovedì mattina un aereo partito da Dublino, in Irlanda, e diretto a Roma è stato fatto atterrare alla base aerea di Évreux, nel nord della Francia, dopo un allarme bomba. La notizia è ",
+      "publishedAt": "2026-11-05T08:15:28Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "In Israele il presidente ha iniziato le consultazioni per scegliere chi incaricare come primo ministro",
-      "url": "https://www.ilpost.it/2026/11/04/israele-herzog-consultazioni-primo-ministro/?bitPosition=3",
-      "excerpt": "In Israele il presidente ha iniziato le consultazioni per scegliere chi incaricare come primo ministro - Condividi - X - Regala il Post Mercoledì il presidente israeliano Isaac Herzog ha iniziato le consultazioni con i leader dei partiti per scegliere chi incaricare come primo ministro dopo le elezioni parlamentari di ",
-      "publishedAt": "2026-11-04T17:10:41Z",
+      "title": "È morto a 82 anni lo scrittore Simon Winchester, noto in Italia per il libro “Il professore e il pazzo”",
+      "url": "https://www.ilpost.it/2026/11/05/morto-scrittore-simon-winchester/?bitPosition=3",
+      "excerpt": "È morto a 82 anni lo scrittore Simon Winchester, noto in Italia per il libro “Il professore e il pazzo” - Condividi - X - Regala il Post È morto a 82 anni lo scrittore e giornalista britannico-statunitense Simon Winchester, conosciuto in Italia soprattutto per il Il professore e il pazzo, del 1998, pubblicato da Adelph",
+      "publishedAt": "2026-11-05T06:24:53Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "E adesso che succede negli Stati Uniti?",
-      "url": "https://www.ilpost.it/2026/11/04/cosa-succede-stati-uniti-elezioni-meta-mandato/?homepagePosition=0",
-      "excerpt": "Col Congresso a maggioranza Democratica per Trump gli ultimi due anni saranno più complessi, fra indagini, veti sulle nomine e trattative per il bilancio",
-      "publishedAt": "2026-11-04T16:35:29Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Due ore sui risultati delle elezioni di metà mandato, col Post",
-      "url": "https://www.ilpost.it/2026/11/04/elezioni-meta-mandato-risultati-diretta-video-post/?homepagePosition=0.2&referrerPost=3724279",
-      "excerpt": "Il video della seconda diretta sulle parlamentari negli Stati Uniti, con Francesco Costa, Laura Loguercio e Luca Misculin",
-      "publishedAt": "2026-11-04T08:49:47Z",
+      "title": "JD Vance si è già distanziato da Trump",
+      "url": "https://www.ilpost.it/2026/11/04/analisi-sconfitta-repubblicani-midterm-jd-vance/?homepagePosition=0",
+      "excerpt": "Il vicepresidente statunitense ha attribuito la sconfitta dei Repubblicani alla guerra in Medio Oriente, mettendo in dubbio che ne sia valsa la pena",
+      "publishedAt": "2026-11-04T17:33:56Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
       "title": "È una sconfitta soprattutto di Donald Trump",
-      "url": "https://www.ilpost.it/2026/11/04/trump-sconfitta-elezioni-midterm/?homepagePosition=0.1&referrerPost=3724279",
+      "url": "https://www.ilpost.it/2026/11/04/trump-sconfitta-elezioni-midterm/?homepagePosition=0.2&referrerPost=3725194",
       "excerpt": "Come una serie di scelte del presidente su candidati e politiche ha contribuito al disastro dei Repubblicani nelle elezioni di metà mandato",
       "publishedAt": "2026-11-04T06:48:31Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "I risultati delle elezioni negli Stati Uniti, in breve",
+      "url": "https://www.ilpost.it/2026/11/04/elezioni-midterm-risultati/?homepagePosition=0.1&referrerPost=3725194",
+      "excerpt": "I Democratici hanno stravinto ovunque e hanno preso il controllo del Congresso: è una grossa sconfitta per Trump",
+      "publishedAt": "2026-11-04T05:54:50Z",
       "dateEvidence": "jsonld:datePublished"
     }
   ],
@@ -63,27 +63,27 @@
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/04/cosa-succede-stati-uniti-elezioni-meta-mandato/?homepagePosition=0",
+      "url": "https://www.ilpost.it/2026/11/04/analisi-sconfitta-repubblicani-midterm-jd-vance/?homepagePosition=0",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/04/trump-sconfitta-elezioni-midterm/?homepagePosition=0.1&referrerPost=3724279",
+      "url": "https://www.ilpost.it/2026/11/04/elezioni-midterm-risultati/?homepagePosition=0.1&referrerPost=3725194",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/04/elezioni-meta-mandato-risultati-diretta-video-post/?homepagePosition=0.2&referrerPost=3724279",
+      "url": "https://www.ilpost.it/2026/11/04/trump-sconfitta-elezioni-midterm/?homepagePosition=0.2&referrerPost=3725194",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/04/nasa-swfit-osservatorio-ritorno-terra/?bitPosition=1",
+      "url": "https://www.ilpost.it/2026/11/05/askatasuna-torino-misure-cautelari/?bitPosition=1",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/04/sardegna-allerta-rossa-5-novembre-maltempo/?bitPosition=2",
+      "url": "https://www.ilpost.it/2026/11/05/aereo-diretto-a-roma-ridirottato-in-francia-allarme-bomba/?bitPosition=2",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/04/israele-herzog-consultazioni-primo-ministro/?bitPosition=3",
+      "url": "https://www.ilpost.it/2026/11/05/morto-scrittore-simon-winchester/?bitPosition=3",
       "status": 200
     }
   ],
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.ilpost.it/",
-  "durationSeconds": 3.68
+  "durationSeconds": 3.54
 }

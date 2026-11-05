@@ -4,7 +4,7 @@
   "sourceId": "piu-uno",
   "originUrl": "https://piu.uno/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-04T23:58:26.063109Z",
+  "collectedAt": "2026-11-05T09:53:20.800788Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -85,5 +85,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://piu.uno/",
-  "durationSeconds": 3.6
+  "durationSeconds": 3.68
 }

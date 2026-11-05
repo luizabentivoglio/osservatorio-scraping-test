@@ -4,7 +4,7 @@
   "sourceId": "iss",
   "originUrl": "https://www.iss.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-04T23:58:05.101946Z",
+  "collectedAt": "2026-11-05T09:52:53.848688Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -45,9 +45,26 @@
     }
   ],
   "message": "0 notizie recenti con data verificata; copertura parziale.",
-  "candidateSamples": [],
+  "candidateSamples": [
+    {
+      "url": "https://www.iss.it/-/comunicato-stampa-n-02/2025-dichiarazione-del-presidente-dell-istituto-superiore-di-sanita-rocco-bellantone-sulla-conferma-del-presidente-fnomceo",
+      "title": "Comunicato Stampa N°01/2025 Dichiarazione del presidente dell'Istituto Superiore di Sanità Rocco Bellantone sulla conferma del presidente Fnomceo",
+      "h1": "Comunicato Stampa N°01/2025 Dichiarazione del presidente dell'Istituto Superiore di Sanità Rocco Bellantone sulla conferma del presidente Fnomceo",
+      "dates": [
+        {
+          "tag": "span",
+          "class": [
+            "date-info",
+            "iss-date-info"
+          ],
+          "text": "Published 27/01/2025 - Edited 27/01/2025",
+          "datetime": null
+        }
+      ]
+    }
+  ],
   "candidateCount": 12,
-  "datedCount": 6,
+  "datedCount": 5,
   "listingUrl": "https://www.iss.it/comunicati-stampa",
-  "durationSeconds": 8.34
+  "durationSeconds": 10.06
 }

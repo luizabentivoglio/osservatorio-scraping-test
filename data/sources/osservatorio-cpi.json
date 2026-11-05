@@ -4,12 +4,19 @@
   "sourceId": "osservatorio-cpi",
   "originUrl": "https://osservatoriocpi.unicatt.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-04T23:58:13.992377Z",
+  "collectedAt": "2026-11-05T09:53:03.912083Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "Le dimensioni dello Stato italiano",
+      "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/le-dimensioni-dello-stato-italiano.html",
+      "excerpt": "Lo Stato ha ancora oggi un peso rilevante nell’economia italiana. Lo conferma il rapporto spesa pubblica/Pil del 2025, ben al di sopra sia della media dei Paesi avanzati sia dei membri dell’UE. Anche rispetto al suo Pil pro capite l’Italia ha una spesa totale in percentuale al Pil molto elevata. Questo risultato è però",
+      "publishedAt": "2026-11-03T00:00:00Z",
+      "dateEvidence": "html:article-header"
+    },
     {
       "title": "Oltre quale livello il rapporto debito/Pil dell’Italia diventa insostenibile?",
       "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/oltre-quale-livello-il-rapporto-debito-pil-dell-italia-diventa-insostenibile.html",
@@ -56,6 +63,10 @@
       "status": 200
     },
     {
+      "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/le-dimensioni-dello-stato-italiano.html",
+      "status": 200
+    },
+    {
       "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/oltre-quale-livello-il-rapporto-debito-pil-dell-italia-diventa-insostenibile.html",
       "status": 200
     },
@@ -76,16 +87,10 @@
       "status": 200
     }
   ],
-  "message": "5 notizie recenti con data verificata; copertura parziale.",
+  "message": "6 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [],
   "candidateCount": 12,
-  "datedCount": 5,
+  "datedCount": 6,
   "listingUrl": "https://osservatoriocpi.unicatt.it/pubblicazioni.html",
-  "durationSeconds": 6.41,
-  "attemptErrors": [
-    {
-      "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/le-dimensioni-dello-stato-italiano.html",
-      "code": "connection_error"
-    }
-  ]
+  "durationSeconds": 6.96
 }
