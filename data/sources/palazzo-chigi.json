@@ -4,12 +4,26 @@
   "sourceId": "palazzo-chigi",
   "originUrl": "https://www.governo.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-05T09:53:08.941384Z",
+  "collectedAt": "2026-11-05T18:19:13.885161Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.governo.it/feed/rss",
   "items": [
+    {
+      "title": "Consiglio dei Ministri n. 196",
+      "url": "https://www.governo.it/it/articolo/consiglio-dei-ministri-n-196/33040",
+      "excerpt": "Si è svolta a Palazzo Chigi la riunione del Consiglio dei Ministri.",
+      "publishedAt": "2026-11-05T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Convocazione del Consiglio dei Ministri n. 196",
+      "url": "https://www.governo.it/it/articolo/convocazione-del-consiglio-dei-ministri-n-196/33039",
+      "excerpt": "Il Consiglio dei Ministri è convocato giovedì 5 novembre 2026 alle ore 17:00 a Palazzo Chigi, per l’esame del seguente ordine del giorno:",
+      "publishedAt": "2026-11-05T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "Definizione delle misure tecniche e organizzative del Sistema IT-Wallet",
       "url": "https://www.governo.it/it/articolo/definizione-delle-misure-tecniche-e-organizzative-del-sistema-it-wallet/33033",
@@ -65,20 +79,6 @@
       "excerpt": "Si è svolta a Palazzo Chigi una riunione con il Sottosegretario alla Presidenza del Consiglio, Alfredo Mantovano, e il Ministro dell’Agricoltura, Francesco Lollobrigida, alla quale hanno partecipato il Direttore dell’Agenzia per la Cybersicurezza Nazionale (ACN) e i Direttori delle Agenzie di intelligence, a seguito de",
       "publishedAt": "2026-11-03T00:00:00Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Elicottero precipitato in Bosnia, il Presidente Meloni rende omaggio alle vittime",
-      "url": "https://www.governo.it/it/articolo/elicottero-precipitato-bosnia-il-presidente-meloni-rende-omaggio-alle-vittime/33000",
-      "excerpt": "Il Presidente del Consiglio, Giorgia Meloni, insieme al Presidente della Repubblica Sergio Mattarella, al Ministro della Difesa Guido Crosetto, e al Vice Presidente del Consiglio e Ministro degli Affari Esteri e della Cooperazione Internazionale, Antonio Tajani, ha accolto all'Aeroporto militare di Ciampino i feretri d",
-      "publishedAt": "2026-11-02T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Dichiarazione congiunta sul rafforzamento della cooperazione spaziale tra Italia e Germania",
-      "url": "https://www.governo.it/it/articolo/dichiarazione-congiunta-sul-rafforzamento-della-cooperazione-spaziale-tra-italia-e-germania",
-      "excerpt": "Si è svolto, presso il Centro Spaziale del Fucino (AQ), un dialogo bilaterale tra Italia e Germania sulle politiche spaziali e sull'economia spaziale, con la partecipazione di rappresentanti dei rispettivi Governi, delle Agenzie Spaziali nazionali e delle Amministrazioni competenti. L'incontro ha offerto l'occasione pe",
-      "publishedAt": "2026-10-30T11:26:28Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -100,5 +100,5 @@
     }
   ],
   "message": "Feed dichiarato dalla fonte; date di pubblicazione verificate.",
-  "durationSeconds": 30.15
+  "durationSeconds": 30.18
 }

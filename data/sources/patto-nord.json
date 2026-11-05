@@ -4,7 +4,7 @@
   "sourceId": "patto-nord",
   "originUrl": "https://www.pattoperilnord.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-05T09:53:18.326154Z",
+  "collectedAt": "2026-11-05T18:19:20.722990Z",
   "status": "no_feed",
   "diagnosticCode": "parsing_error",
   "method": "crawl4ai",
@@ -28,10 +28,6 @@
       "status": 200
     },
     {
-      "url": "https://www.pattoperilnord.it/eventi/Piemonte",
-      "status": 200
-    },
-    {
       "url": "https://www.pattoperilnord.it/eventi",
       "status": 200
     },
@@ -42,8 +38,8 @@
   ],
   "message": "Pagina accessibile, ma nessuna notizia con data di pubblicazione verificabile.",
   "candidateSamples": [],
-  "candidateCount": 5,
+  "candidateCount": 4,
   "datedCount": 0,
   "listingUrl": "https://www.pattoperilnord.it/",
-  "durationSeconds": 0.85
+  "durationSeconds": 1.02
 }

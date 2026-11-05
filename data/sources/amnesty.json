@@ -4,12 +4,19 @@
   "sourceId": "amnesty",
   "originUrl": "https://www.amnesty.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-05T09:52:13.327143Z",
+  "collectedAt": "2026-11-05T18:18:17.099458Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "Israele e Tpo: in carcere l’attivista Ghassan Najjar",
+      "url": "https://www.amnesty.it/israele-tpo-carcere-attivista-ghassan-najjar/",
+      "excerpt": "L’esercito israeliano ha effettuato un raid nel nord della Cisgiordania occupata arrestando Ghassan Najjar difensore delle terre palestinesi.",
+      "publishedAt": "2026-11-05T14:13:08Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
     {
       "title": "Le elezioni negli Usa siano un punto di svolta per i diritti umani",
       "url": "https://www.amnesty.it/le-elezioni-negli-usa-siano-un-punto-di-svolta-per-i-diritti-umani/",
@@ -23,13 +30,6 @@
       "excerpt": "Gli attacchi della Russia contro le infrastrutture energetiche in Ucraina, rischiano di creare una nuova catastrofe umanitaria.",
       "publishedAt": "2026-11-02T09:16:34Z",
       "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Italia: preoccupazioni sulla gestione delle manifestazioni",
-      "url": "https://www.amnesty.it/italia-gestione-ordine-pubblico-manifestazioni/",
-      "excerpt": "La gestione delle manifestazioni del 24 ottobre in Italia ha generato preoccupazioni. L'analisi riporta le raccomandazioni per le prossime.",
-      "publishedAt": "2026-10-28T17:07:54Z",
-      "dateEvidence": "jsonld:datePublished"
     }
   ],
   "attempts": [
@@ -42,11 +42,11 @@
       "status": 200
     },
     {
-      "url": "https://www.amnesty.it/appelli/gaza-liberta-per-il-dottor-hussam-abu-safiya/",
+      "url": "https://www.amnesty.it/le-elezioni-negli-usa-siano-un-punto-di-svolta-per-i-diritti-umani/",
       "status": 200
     },
     {
-      "url": "https://www.amnesty.it/appelli/iran-28-persone-rischiano-lesecuzione-in-relazione-alle-proteste/",
+      "url": "https://www.amnesty.it/appelli/gaza-liberta-per-il-dottor-hussam-abu-safiya/",
       "status": 200
     },
     {
@@ -54,15 +54,15 @@
       "status": 200
     },
     {
-      "url": "https://www.amnesty.it/le-elezioni-negli-usa-siano-un-punto-di-svolta-per-i-diritti-umani/",
+      "url": "https://www.amnesty.it/appelli/iran-ricercatore-universitario-rischia-la-pena-morte/",
+      "status": 200
+    },
+    {
+      "url": "https://www.amnesty.it/israele-tpo-carcere-attivista-ghassan-najjar/",
       "status": 200
     },
     {
       "url": "https://www.amnesty.it/ucraina-pericolosi-attacchi-russi-alle-infrastrutture/",
-      "status": 200
-    },
-    {
-      "url": "https://www.amnesty.it/italia-gestione-ordine-pubblico-manifestazioni/",
       "status": 200
     }
   ],
@@ -75,20 +75,20 @@
       "dates": []
     },
     {
-      "url": "https://www.amnesty.it/appelli/iran-28-persone-rischiano-lesecuzione-in-relazione-alle-proteste/",
-      "title": "Fermiamo le esecuzioni in Iran Firma ora",
-      "h1": "Fermiamo le esecuzioni in Iran",
-      "dates": []
-    },
-    {
       "url": "https://www.amnesty.it/appelli/il-sesso-senza-consenso-e-stupro/",
       "title": "Il sesso senza consenso è stupro! Firma ora",
       "h1": "Il sesso senza consenso è stupro!",
+      "dates": []
+    },
+    {
+      "url": "https://www.amnesty.it/appelli/iran-ricercatore-universitario-rischia-la-pena-morte/",
+      "title": "Salviamo Ahmad dalla pena di morte Firma ora",
+      "h1": "Salviamo Ahmad dalla pena di morte",
       "dates": []
     }
   ],
   "candidateCount": 12,
   "datedCount": 3,
   "listingUrl": "https://www.amnesty.it/",
-  "durationSeconds": 6.88
+  "durationSeconds": 6.72
 }

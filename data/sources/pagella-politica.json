@@ -4,17 +4,31 @@
   "sourceId": "pagella-politica",
   "originUrl": "https://pagellapolitica.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-05T09:53:07.825034Z",
+  "collectedAt": "2026-11-05T18:19:13.606047Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
-      "title": "Perché in Italia gli sponsor delle scommesse possono ancora comparire sulle maglie da calcio",
-      "url": "https://pagellapolitica.it/articoli/italia-sponsor-scommesse-maglie-calcio",
-      "excerpt": "Il recente caso dell’Inter ha mostrato i limiti del divieto introdotto nel 2018, che non ha impedito la presenza di...",
-      "publishedAt": "2026-11-05T00:00:00Z",
+      "title": "La “exit tax” sarebbe una patrimoniale molto particolare",
+      "url": "https://pagellapolitica.it/articoli/exit-tax-patrimoniale-particolare",
+      "excerpt": "Il governo ha inserito un’imposta sulla ricchezza delle persone più ricche che decidono di trasferirsi...",
+      "publishedAt": "2026-11-04T00:00:00Z",
+      "dateEvidence": "html:post-date"
+    },
+    {
+      "title": "Il governo Meloni è tornato a fare ritardi sulla legge di Bilancio",
+      "url": "https://pagellapolitica.it/articoli/legge-di-bilancio-ritardi-governo-meloni",
+      "excerpt": "La manovra per il 2027 è stata presentata alla Camera con undici giorni di ritardo: un peggioramento rispetto alla...",
+      "publishedAt": "2026-11-04T00:00:00Z",
+      "dateEvidence": "html:post-date"
+    },
+    {
+      "title": "Il governo era contro il gioco d’azzardo, ora lo incentiva per finanziare la manovra",
+      "url": "https://pagellapolitica.it/articoli/governo-gioco-azzardo-manovra-bilancio",
+      "excerpt": "Nel 2023 l’esecutivo voleva ridurre i limiti di puntata e vincita, mentre nella nuova legge di Bilancio propone di...",
+      "publishedAt": "2026-11-03T00:00:00Z",
       "dateEvidence": "html:post-date"
     },
     {
@@ -32,24 +46,10 @@
       "dateEvidence": "html:post-date"
     },
     {
-      "title": "Sono già quattro i parlamentari “prestati” per aggirare l’aumento delle firme",
-      "url": "https://pagellapolitica.it/articoli/parlamentari-prestati-numero-firme-legge-elettorale",
-      "excerpt": "La nuova legge elettorale ha favorito i cambi di gruppo in Parlamento, per aiutare i partiti più piccoli a...",
+      "title": "I tagli ai ministeri del governo non sono tagli",
+      "url": "https://pagellapolitica.it/articoli/tagli-ministeri-legge-di-bilancio-2027",
+      "excerpt": "Nei prossimi tre anni si risparmieranno 4,7 miliardi, ma si tratta soprattutto di rinvii dei fondi e di tagli già...",
       "publishedAt": "2026-11-02T00:00:00Z",
-      "dateEvidence": "html:post-date"
-    },
-    {
-      "title": "Al Senato c’è una commissione contro la disinformazione che non funziona",
-      "url": "https://pagellapolitica.it/articoli/commissione-disinformazione-non-funziona",
-      "excerpt": "È stata istituita a marzo, su proposta di Italia Viva, ma dopo mesi il presidente La Russa non ha ancora nominato i...",
-      "publishedAt": "2026-11-02T00:00:00Z",
-      "dateEvidence": "html:post-date"
-    },
-    {
-      "title": "I pro e i contro della “bolletta sociale” proposta da Alleanza Verdi-Sinistra",
-      "url": "https://pagellapolitica.it/articoli/bolletta-sociale-alleanza-verdi-sinistra",
-      "excerpt": "La proposta allargherebbe gli aiuti sulle bollette elettriche a milioni di famiglie, ma ci sono dubbi...",
-      "publishedAt": "2026-10-30T00:00:00Z",
       "dateEvidence": "html:post-date"
     }
   ],
@@ -63,7 +63,15 @@
       "status": 200
     },
     {
-      "url": "https://pagellapolitica.it/articoli/italia-sponsor-scommesse-maglie-calcio",
+      "url": "https://pagellapolitica.it/articoli/exit-tax-patrimoniale-particolare",
+      "status": 200
+    },
+    {
+      "url": "https://pagellapolitica.it/articoli/legge-di-bilancio-ritardi-governo-meloni",
+      "status": 200
+    },
+    {
+      "url": "https://pagellapolitica.it/articoli/governo-gioco-azzardo-manovra-bilancio",
       "status": 200
     },
     {
@@ -75,15 +83,7 @@
       "status": 200
     },
     {
-      "url": "https://pagellapolitica.it/articoli/parlamentari-prestati-numero-firme-legge-elettorale",
-      "status": 200
-    },
-    {
-      "url": "https://pagellapolitica.it/articoli/commissione-disinformazione-non-funziona",
-      "status": 200
-    },
-    {
-      "url": "https://pagellapolitica.it/articoli/bolletta-sociale-alleanza-verdi-sinistra",
+      "url": "https://pagellapolitica.it/articoli/tagli-ministeri-legge-di-bilancio-2027",
       "status": 200
     }
   ],
@@ -92,5 +92,5 @@
   "candidateCount": 6,
   "datedCount": 6,
   "listingUrl": "https://pagellapolitica.it/articoli",
-  "durationSeconds": 10.5
+  "durationSeconds": 7.07
 }

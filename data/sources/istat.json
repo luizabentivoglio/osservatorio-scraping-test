@@ -4,12 +4,19 @@
   "sourceId": "istat",
   "originUrl": "https://www.istat.it/",
   "configuredFeedUrl": "https://www.istat.it/feed/",
-  "collectedAt": "2026-11-05T09:52:52.619342Z",
+  "collectedAt": "2026-11-05T18:18:56.281301Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.istat.it/feed/",
   "items": [
+    {
+      "title": "Rilevazione sulle piccole e medie imprese e sull’esercizio di arti e professioni",
+      "url": "https://www.istat.it/informazioni-sulla-rilevazione/pmi/",
+      "excerpt": "La Rilevazione sulle piccole e medie imprese (PMI) si rivolge alle imprese italiane con meno di 250 addetti",
+      "publishedAt": "2026-11-05T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "Commercio al dettaglio – Settembre 2026",
       "url": "https://www.istat.it/comunicato-stampa/commercio-al-dettaglio-settembre-2026/",
@@ -72,13 +79,6 @@
       "excerpt": "Nel III Trimestre 2026 il Pil è rimasto invariato sul trimestre precedente ed è cresciuto dello 0,8% sul III trim 2025",
       "publishedAt": "2026-10-30T09:20:50Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Infografiche storie di dati: I cambiamenti della popolazione",
-      "url": "https://www.istat.it/infografiche/infografiche-storie-di-dati-i-cambiamenti-della-popolazione/",
-      "excerpt": "Online le infografiche su: I cambiamenti della popolazione",
-      "publishedAt": "2026-10-29T18:17:15Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -92,5 +92,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 2.97
+  "durationSeconds": 2.99
 }

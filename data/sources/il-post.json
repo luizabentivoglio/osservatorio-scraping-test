@@ -4,50 +4,50 @@
   "sourceId": "il-post",
   "originUrl": "https://www.ilpost.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-05T09:52:53.078205Z",
+  "collectedAt": "2026-11-05T18:18:57.776806Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
-      "title": "La polizia sta eseguendo 16 misure cautelari per gli scontri alla fine del corteo di gennaio per l’Askatasuna a Torino",
-      "url": "https://www.ilpost.it/2026/11/05/askatasuna-torino-misure-cautelari/?bitPosition=1",
-      "excerpt": "La polizia sta eseguendo 16 misure cautelari per gli scontri alla fine del corteo di gennaio per l’Askatasuna a Torino - Condividi - X - Regala il Post La polizia sta eseguendo misure cautelari nei confronti di 16 persone indagate per gli scontri avvenuti a Torino a gennaio alla fine del corteo contro lo sgombero dello",
-      "publishedAt": "2026-11-05T08:42:15Z",
+      "title": "Le azioni di molte aziende tecnologiche sono scese dopo la vittoria dei Democratici alle elezioni statunitensi di metà mandato",
+      "url": "https://www.ilpost.it/2026/11/05/calo-azioni-aziende-tecnologiche-elezioni-midterms-democratici/?bitPosition=1",
+      "excerpt": "Le azioni di molte aziende tecnologiche sono scese dopo la vittoria dei Democratici alle elezioni statunitensi di metà mandato - Condividi - X - Regala il Post Le azioni di molte aziende tecnologiche, soprattutto quelle legate all’intelligenza artificiale, sono scese in modo significativo dopo la vittoria del Partito D",
+      "publishedAt": "2026-11-05T17:13:30Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "Un aereo partito da Dublino e diretto a Roma è stato fatto atterrare in Francia dopo un allarme bomba",
-      "url": "https://www.ilpost.it/2026/11/05/aereo-diretto-a-roma-ridirottato-in-francia-allarme-bomba/?bitPosition=2",
-      "excerpt": "Un aereo partito da Dublino e diretto a Roma è stato fatto atterrare in Francia dopo un allarme bomba - Condividi - X - Regala il Post Giovedì mattina un aereo partito da Dublino, in Irlanda, e diretto a Roma è stato fatto atterrare alla base aerea di Évreux, nel nord della Francia, dopo un allarme bomba. La notizia è ",
-      "publishedAt": "2026-11-05T08:15:28Z",
+      "title": "Il presidente del Paraguay si è dimesso per uno scandalo che coinvolge una banca a lui legata",
+      "url": "https://www.ilpost.it/2026/11/05/paraguay-presidente-santiago-pena-dimissioni-ueno-bank/?bitPosition=2",
+      "excerpt": "Il presidente del Paraguay si è dimesso per uno scandalo che coinvolge una banca a lui legata - Condividi - X - Regala il Post Giovedì il presidente del Paraguay Santiago Peña si è dimesso a causa di uno scandalo finanziario che coinvolge la Ueno Bank, una delle banche più importanti del paese, a cui lui è strettamente",
+      "publishedAt": "2026-11-05T17:09:51Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "È morto a 82 anni lo scrittore Simon Winchester, noto in Italia per il libro “Il professore e il pazzo”",
-      "url": "https://www.ilpost.it/2026/11/05/morto-scrittore-simon-winchester/?bitPosition=3",
-      "excerpt": "È morto a 82 anni lo scrittore Simon Winchester, noto in Italia per il libro “Il professore e il pazzo” - Condividi - X - Regala il Post È morto a 82 anni lo scrittore e giornalista britannico-statunitense Simon Winchester, conosciuto in Italia soprattutto per il Il professore e il pazzo, del 1998, pubblicato da Adelph",
-      "publishedAt": "2026-11-05T06:24:53Z",
+      "title": "Il governo impugnerà anche la legge sul suicidio assistito del Veneto, l’unica regione di centrodestra ad averne una",
+      "url": "https://www.ilpost.it/2026/11/05/governo-impugna-legge-regionale-veneto-suicidio-assistito/?bitPosition=3",
+      "excerpt": "Il governo impugnerà anche la legge sul suicidio assistito del Veneto, l’unica regione di centrodestra ad averne una - Condividi - X - Regala il Post Il Consiglio dei ministri ha deciso di impugnare di fronte alla Corte costituzionale la legge regionale del Veneto che regolamenta il suicidio assistito, la pratica con c",
+      "publishedAt": "2026-11-05T16:54:38Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "JD Vance si è già distanziato da Trump",
-      "url": "https://www.ilpost.it/2026/11/04/analisi-sconfitta-repubblicani-midterm-jd-vance/?homepagePosition=0",
-      "excerpt": "Il vicepresidente statunitense ha attribuito la sconfitta dei Repubblicani alla guerra in Medio Oriente, mettendo in dubbio che ne sia valsa la pena",
-      "publishedAt": "2026-11-04T17:33:56Z",
+      "title": "I Democratici di cui sentiremo molto parlare",
+      "url": "https://www.ilpost.it/2026/11/05/democratici-futuro-midterm-2026/?homepagePosition=0",
+      "excerpt": "Alcuni erano già noti, altri si sono fatti conoscere alle elezioni di metà mandato, e chissà che alle presidenziali del 2028...",
+      "publishedAt": "2026-11-05T16:11:47Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
       "title": "È una sconfitta soprattutto di Donald Trump",
-      "url": "https://www.ilpost.it/2026/11/04/trump-sconfitta-elezioni-midterm/?homepagePosition=0.2&referrerPost=3725194",
+      "url": "https://www.ilpost.it/2026/11/04/trump-sconfitta-elezioni-midterm/?homepagePosition=0.2&referrerPost=3725678",
       "excerpt": "Come una serie di scelte del presidente su candidati e politiche ha contribuito al disastro dei Repubblicani nelle elezioni di metà mandato",
       "publishedAt": "2026-11-04T06:48:31Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
       "title": "I risultati delle elezioni negli Stati Uniti, in breve",
-      "url": "https://www.ilpost.it/2026/11/04/elezioni-midterm-risultati/?homepagePosition=0.1&referrerPost=3725194",
+      "url": "https://www.ilpost.it/2026/11/04/elezioni-midterm-risultati/?homepagePosition=0.1&referrerPost=3725678",
       "excerpt": "I Democratici hanno stravinto ovunque e hanno preso il controllo del Congresso: è una grossa sconfitta per Trump",
       "publishedAt": "2026-11-04T05:54:50Z",
       "dateEvidence": "jsonld:datePublished"
@@ -63,27 +63,27 @@
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/04/analisi-sconfitta-repubblicani-midterm-jd-vance/?homepagePosition=0",
+      "url": "https://www.ilpost.it/2026/11/05/democratici-futuro-midterm-2026/?homepagePosition=0",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/04/elezioni-midterm-risultati/?homepagePosition=0.1&referrerPost=3725194",
+      "url": "https://www.ilpost.it/2026/11/04/elezioni-midterm-risultati/?homepagePosition=0.1&referrerPost=3725678",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/04/trump-sconfitta-elezioni-midterm/?homepagePosition=0.2&referrerPost=3725194",
+      "url": "https://www.ilpost.it/2026/11/04/trump-sconfitta-elezioni-midterm/?homepagePosition=0.2&referrerPost=3725678",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/05/askatasuna-torino-misure-cautelari/?bitPosition=1",
+      "url": "https://www.ilpost.it/2026/11/05/calo-azioni-aziende-tecnologiche-elezioni-midterms-democratici/?bitPosition=1",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/05/aereo-diretto-a-roma-ridirottato-in-francia-allarme-bomba/?bitPosition=2",
+      "url": "https://www.ilpost.it/2026/11/05/paraguay-presidente-santiago-pena-dimissioni-ueno-bank/?bitPosition=2",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/05/morto-scrittore-simon-winchester/?bitPosition=3",
+      "url": "https://www.ilpost.it/2026/11/05/governo-impugna-legge-regionale-veneto-suicidio-assistito/?bitPosition=3",
       "status": 200
     }
   ],
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.ilpost.it/",
-  "durationSeconds": 3.54
+  "durationSeconds": 3.8
 }

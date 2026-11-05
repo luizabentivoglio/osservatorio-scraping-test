@@ -4,12 +4,19 @@
   "sourceId": "iai",
   "originUrl": "https://www.iai.it/it",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-05T09:52:48.069294Z",
+  "collectedAt": "2026-11-05T18:18:53.100106Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "The End of the Trump Era Is Only the Beginning",
+      "url": "https://www.iai.it/it/pubblicazioni/c05/end-trump-era-only-beginning",
+      "excerpt": "The Republicans’ crushing defeat in the midterm elections signals the beginning of the end of Donald Trump’s grasp over US politics.Democrats have been exceptional in tapping tap into widespread discontent over increasingly unaffordable cost of living for ordinary Americans by selecting competitive candidates across th",
+      "publishedAt": "2026-11-05T12:00:00Z",
+      "dateEvidence": "html:publication-time"
+    },
     {
       "title": "La Germania e le regole del mercato europeo della difesa",
       "url": "https://www.iai.it/it/pubblicazioni/c05/la-germania-e-le-regole-del-mercato-europeo-della-difesa",
@@ -42,6 +49,10 @@
       "status": 200
     },
     {
+      "url": "https://www.iai.it/it/pubblicazioni/c05/end-trump-era-only-beginning",
+      "status": 200
+    },
+    {
       "url": "https://www.iai.it/it/pubblicazioni/c05/la-germania-e-le-regole-del-mercato-europeo-della-difesa",
       "status": 200
     },
@@ -60,16 +71,12 @@
     {
       "url": "https://www.iai.it/it/pubblicazioni/c05/why-europe-may-pay-price-trump-xi-summit",
       "status": 200
-    },
-    {
-      "url": "https://www.iai.it/it/pubblicazioni/c05/quiet-repatriation-sovereign-gold-us",
-      "status": 200
     }
   ],
-  "message": "3 notizie recenti con data verificata; copertura parziale.",
+  "message": "4 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [],
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.iai.it/it/pubblicazioni/lista/iai-commentaries",
-  "durationSeconds": 5.06
+  "durationSeconds": 5.5
 }

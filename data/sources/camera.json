@@ -4,16 +4,30 @@
   "sourceId": "camera",
   "originUrl": "https://www.camera.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-05T09:52:14.775152Z",
+  "collectedAt": "2026-11-05T18:18:18.762318Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
-      "title": "Decreto costo carburanti",
+      "title": "Stati generali dei garantisti - Venerdì alle 10.30 diretta webtv - Interviene Mulè",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63876",
+      "excerpt": "Venerdì 6 novembre, alle ore 10.30, presso la Sala del Refettorio di Palazzo San Macuto si svolge i...",
+      "publishedAt": "2026-11-05T00:00:00Z",
+      "dateEvidence": "html:publication-label"
+    },
+    {
+      "title": "Copasir, audizione Crosetto – Martedì alle 15",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63892",
+      "excerpt": "Martedì 10 novembre, alle ore 15, presso l’aula del VI piano di Palazzo San Macuto, il Comitato p...",
+      "publishedAt": "2026-11-05T00:00:00Z",
+      "dateEvidence": "html:publication-label"
+    },
+    {
+      "title": "Svolgimento di interpellanze urgenti",
       "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63871",
-      "excerpt": "In Aula, alle ore 9.30, l'esame dei seguenti provvedimenti: disegno di legge di conversione, con mo...",
+      "excerpt": "La Camera è convocata venerdì 6 novembre alle ore 9.30 per lo svolgimento di interpellanze urgent...",
       "publishedAt": "2026-11-05T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
@@ -25,30 +39,16 @@
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "Bandiera verde agricoltura 2026 - Giovedì alle 10.30 diretta webtv",
+      "title": "Bandiera verde agricoltura 2026",
       "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63825",
-      "excerpt": "Giovedì 5 novembre, alle ore 10.30, presso la Sala della Regina di Montecitorio si svolge la cerimo...",
+      "excerpt": "Giovedì 5 novembre, alle ore 10.30, presso la Sala della Regina di Montecitorio si è svolta la ce...",
       "publishedAt": "2026-11-04T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "Le età della violenza - La pena di morte - Una storia presente - Giovedì alle 11 diretta webtv",
+      "title": "Le età della violenza - La pena di morte - Una storia presente",
       "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63826",
-      "excerpt": "Giovedì 5 novembre, alle ore 11, presso la Sala Matteotti di Palazzo Theodoli - Bianchelli si svolg...",
-      "publishedAt": "2026-11-04T00:00:00Z",
-      "dateEvidence": "html:publication-label"
-    },
-    {
-      "title": "Audizioni su riordino Consiglio universitario - Giovedì alle 13.30 diretta webtv",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63827",
-      "excerpt": "Giovedì 5 novembre, alle ore 13.30, la Commissione Cultura svolge le seguenti audizioni nell’amb...",
-      "publishedAt": "2026-11-04T00:00:00Z",
-      "dateEvidence": "html:publication-label"
-    },
-    {
-      "title": "Affari costituzionali, interrogazioni a risposta immediata - Ministero dell’Interno – Giovedì alle 14 diretta webtv",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63828",
-      "excerpt": "Giovedì 5 novembre, alle ore 14, la Commissione Affari costituzionali svolge interrogazioni a rispo...",
+      "excerpt": "Giovedì 5 novembre, alle ore 11, presso la Sala Matteotti di Palazzo Theodoli - Bianchelli si è sv...",
       "publishedAt": "2026-11-04T00:00:00Z",
       "dateEvidence": "html:publication-label"
     }
@@ -63,6 +63,14 @@
       "status": 200
     },
     {
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63876",
+      "status": 200
+    },
+    {
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63892",
+      "status": 200
+    },
+    {
       "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63871",
       "status": 200
     },
@@ -77,14 +85,6 @@
     {
       "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63826",
       "status": 200
-    },
-    {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63827",
-      "status": 200
-    },
-    {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63828",
-      "status": 200
     }
   ],
   "message": "6 notizie recenti con data verificata; copertura parziale.",
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://comunicazione.camera.it/archivio-prima-pagina",
-  "durationSeconds": 4.21
+  "durationSeconds": 4.2
 }

@@ -4,7 +4,7 @@
   "sourceId": "il-fatto",
   "originUrl": "https://www.ilfattoquotidiano.it/",
   "configuredFeedUrl": "https://www.ilfattoquotidiano.it/feed/",
-  "collectedAt": "2026-11-05T09:52:52.711831Z",
+  "collectedAt": "2026-11-05T18:18:57.238602Z",
   "status": "blocked",
   "diagnosticCode": "robots_disallowed",
   "method": "html",
@@ -19,5 +19,5 @@
   "message": "Percorso escluso da robots.txt",
   "httpStatus": null,
   "failedUrl": "https://www.ilfattoquotidiano.it/feed/",
-  "durationSeconds": 0.36
+  "durationSeconds": 0.25
 }

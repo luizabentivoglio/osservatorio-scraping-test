@@ -4,17 +4,24 @@
   "sourceId": "coldiretti",
   "originUrl": "https://www.coldiretti.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-05T09:52:18.991771Z",
+  "collectedAt": "2026-11-05T18:18:22.816976Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
-      "title": "Ue, bene via libera dalla COMAGRI a più risorse per il ricambio generazionale",
-      "url": "https://www.coldiretti.it/economia/ue-bene-via-libera-dalla-comagri-a-piu-risorse-per-il-ricambio-generazionale",
-      "excerpt": "Almeno il 10% del bilancio Pac post 2027 ai giovani agricoltori. Rafforzati gli aiuti all’insediamento e le misure per l’accesso alla terra",
-      "publishedAt": "2026-11-05T07:34:26Z",
+      "title": "Ambiente, nuovo stop al fotovoltaico selvaggio salva produzione cibo sano per la salute dei cittadini",
+      "url": "https://www.coldiretti.it/economia/ambiente-nuovo-stop-al-fotovoltaico-selvaggio-salva-produzione-cibo-sano-per-la-salute-dei-cittadini",
+      "excerpt": "Il nuovo stop della Corte Costituzionale rappresenta una vittoria importante per agricoltori e cittadini a tutela della salute di tutti",
+      "publishedAt": "2026-11-05T15:37:13Z",
+      "dateEvidence": "meta:article:published_time"
+    },
+    {
+      "title": "Attacchi hacker: Gesmundo, Ue investa sui mercati contadini i soldi del riarmo",
+      "url": "https://www.coldiretti.it/economia/attacchi-hacker-gesmundo-ue-investa-sui-mercati-contadini-i-soldi-del-riarmo",
+      "excerpt": "Così la rete delle aziende agricole può difenderci dal «cibo malato». Le parole del Segretario Generale Gesmundo al Corriere della Sera",
+      "publishedAt": "2026-11-05T10:13:01Z",
       "dateEvidence": "meta:article:published_time"
     },
     {
@@ -22,13 +29,6 @@
       "url": "https://www.coldiretti.it/economia/coltivaitalia-ok-senato-e-passo-avanti-per-sovranita-alimentare-filiere-semplificazione-e-salute-cittadini",
       "excerpt": "Oltre un miliardo di euro per sostenere le produzioni nazionali e rafforzare le filiere. Accolte richieste di Coldiretti",
       "publishedAt": "2026-11-04T11:55:55Z",
-      "dateEvidence": "meta:article:published_time"
-    },
-    {
-      "title": "Due novembre: fiori nei cimiteri per 2 italiani su 3",
-      "url": "https://www.coldiretti.it/economia/due-novembre-fiori-nei-cimiteri-per-2-italiani-su-3",
-      "excerpt": "Quasi due italiani su tre portano fiori nei cimiteri in occasione della ricorrenza di Ognissanti e della commemorazione dei defunti",
-      "publishedAt": "2026-11-02T07:18:23Z",
       "dateEvidence": "meta:article:published_time"
     }
   ],
@@ -42,11 +42,11 @@
       "status": 200
     },
     {
-      "url": "https://www.coldiretti.it/economia/coltivaitalia-ok-senato-e-passo-avanti-per-sovranita-alimentare-filiere-semplificazione-e-salute-cittadini",
+      "url": "https://www.coldiretti.it/economia/attacchi-hacker-gesmundo-ue-investa-sui-mercati-contadini-i-soldi-del-riarmo",
       "status": 200
     },
     {
-      "url": "https://www.coldiretti.it/economia/due-novembre-fiori-nei-cimiteri-per-2-italiani-su-3",
+      "url": "https://www.coldiretti.it/economia/coltivaitalia-ok-senato-e-passo-avanti-per-sovranita-alimentare-filiere-semplificazione-e-salute-cittadini",
       "status": 200
     },
     {
@@ -62,7 +62,7 @@
       "status": 200
     },
     {
-      "url": "https://www.coldiretti.it/economia/ue-bene-via-libera-dalla-comagri-a-piu-risorse-per-il-ricambio-generazionale",
+      "url": "https://www.coldiretti.it/economia/ambiente-nuovo-stop-al-fotovoltaico-selvaggio-salva-produzione-cibo-sano-per-la-salute-dei-cittadini",
       "status": 200
     }
   ],
@@ -71,5 +71,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.coldiretti.it/",
-  "durationSeconds": 9.71
+  "durationSeconds": 11.71
 }

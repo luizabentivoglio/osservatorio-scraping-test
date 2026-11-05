@@ -4,17 +4,17 @@
   "sourceId": "breaking-italy",
   "originUrl": "https://breakingitaly.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-05T09:52:13.844680Z",
+  "collectedAt": "2026-11-05T18:18:17.632933Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
-      "title": "I Democratici conquistano il Congresso statunitense",
-      "url": "https://breakingitaly.it/newsletter/i-democratici-conquistano-il-congresso-statunitense",
-      "excerpt": "I Democratici conquistano il Congresso statunitense",
-      "publishedAt": "2026-11-04T00:00:00Z",
+      "title": "Altri attacchi hacker in Francia, ma riguardano le donazioni di sangue",
+      "url": "https://breakingitaly.it/newsletter/altri-attacchi-hacker-in-francia-ma-riguardano-le-donazioni-di-sangue",
+      "excerpt": "Altri attacchi hacker in Francia, ma riguardano le donazioni di sangue",
+      "publishedAt": "2026-11-05T00:00:00Z",
       "dateEvidence": "html:newsletter-publication"
     }
   ],
@@ -32,7 +32,7 @@
       "status": 200
     },
     {
-      "url": "https://breakingitaly.it/newsletter/i-democratici-conquistano-il-congresso-statunitense",
+      "url": "https://breakingitaly.it/newsletter/altri-attacchi-hacker-in-francia-ma-riguardano-le-donazioni-di-sangue",
       "status": 200
     },
     {
@@ -96,5 +96,5 @@
   "candidateCount": 12,
   "datedCount": 1,
   "listingUrl": "https://breakingitaly.it/",
-  "durationSeconds": 5.28
+  "durationSeconds": 5.18
 }

@@ -31,7 +31,7 @@
 | good-morning-italia | blocked | html | 0 | access_restricted |
 | greenpeace | ok | trafilatura | 2 | — |
 | hrw | blocked | html | 0 | access_restricted |
-| iai | ok | trafilatura | 3 | — |
+| iai | ok | trafilatura | 4 | — |
 | il-fatto | blocked | html | 0 | robots_disallowed |
 | il-notiziario | blocked | html | 0 | access_restricted |
 | il-post | ok | trafilatura | 6 | — |
@@ -44,9 +44,9 @@
 | italia-domani-rizzo | ok | trafilatura | 3 | — |
 | italia-viva | blocked | html | 0 | access_restricted |
 | la-stampa | ok | rss | 40 | — |
-| legambiente | ok | trafilatura | 0 | — |
+| legambiente | error | html | 0 | timeout |
 | libera | ok | html | 0 | — |
-| mef | ok | trafilatura | 4 | — |
+| mef | ok | trafilatura | 3 | — |
 | msf | ok | trafilatura | 6 | — |
 | osservatorio-cpi | ok | trafilatura | 6 | — |
 | oxfam | ok | trafilatura | 4 | — |

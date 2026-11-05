@@ -4,30 +4,30 @@
   "sourceId": "italia-domani-rizzo",
   "originUrl": "https://www.italiadomanirizzo.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-05T09:52:55.592730Z",
+  "collectedAt": "2026-11-05T18:18:59.270681Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
-      "title": "Rizzo a Chieti: proposta di legge per inserire il contante in Costituzione - Italia Domani",
-      "url": "https://www.italiadomanirizzo.it/rizzo-a-chieti-proposta-di-legge-per-inserire-il-contante-in/",
-      "excerpt": "A Chieti Marco Rizzo denuncia i rischi dell'euro digitale e chiede di difendere la libertà dei cittadini introducendo il contante nella Costituzione.",
-      "publishedAt": "2026-11-04T00:00:00Z",
+      "title": "Criscuolo (Italia Domani): sanità campana in affanno, servono strutture efficienti - Italia Domani",
+      "url": "https://www.italiadomanirizzo.it/criscuolo-italia-domani-sanita-campana-in-affanno-servono-st/",
+      "excerpt": "Il coordinatore regionale di Italia Domani Marco Rizzo, Criscuolo, denuncia le difficoltà della sanità in Campania e i sacrifici imposti ai cittadini per il risanamento dei conti.",
+      "publishedAt": "2026-11-05T00:00:00Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "Suppletive Chieti: Ranieri propone fondo immediato contro il dissesto - Italia Domani",
+      "url": "https://www.italiadomanirizzo.it/suppletive-chieti-ranieri-propone-fondo-immediato-contro-il/",
+      "excerpt": "In vista del voto del 15 e 16 novembre, il candidato di Italia Domani Danilo Ranieri lancia la proposta di un fondo rapido per sindaci e cittadini colpiti da allagamenti.",
+      "publishedAt": "2026-11-05T00:00:00Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
       "title": "Minacce a Cerno e a Il Giornale: la ferma condanna di Andrea Romiti - Italia Domani",
       "url": "https://www.italiadomanirizzo.it/solidarieta-a-tommaso-cerno-no-a-minacce-e-intimidazioni-con/",
       "excerpt": "Andrea Romiti esprime piena vicinanza al direttore Tommaso Cerno e alla redazione de Il Giornale dopo le inaccettabili intimidazioni rivolte all'informazione.",
-      "publishedAt": "2026-11-04T00:00:00Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Piemonte: nuovi comitati e consiglieri scelgono il progetto di Italia Domani - Italia Domani",
-      "url": "https://www.italiadomanirizzo.it/piemonte-nuovi-comitati-e-consiglieri-scelgono-il-progetto-d/",
-      "excerpt": "A Torino quattro comitati e due consiglieri circoscrizionali lasciano Futuro Nazionale e guardano con entusiasmo al percorso politico tracciato da Marco Rizzo.",
       "publishedAt": "2026-11-04T00:00:00Z",
       "dateEvidence": "jsonld:datePublished"
     }
@@ -42,15 +42,15 @@
       "status": 200
     },
     {
-      "url": "https://www.italiadomanirizzo.it/rizzo-a-chieti-proposta-di-legge-per-inserire-il-contante-in/",
+      "url": "https://www.italiadomanirizzo.it/criscuolo-italia-domani-sanita-campana-in-affanno-servono-st/",
+      "status": 200
+    },
+    {
+      "url": "https://www.italiadomanirizzo.it/suppletive-chieti-ranieri-propone-fondo-immediato-contro-il/",
       "status": 200
     },
     {
       "url": "https://www.italiadomanirizzo.it/solidarieta-a-tommaso-cerno-no-a-minacce-e-intimidazioni-con/",
-      "status": 200
-    },
-    {
-      "url": "https://www.italiadomanirizzo.it/piemonte-nuovi-comitati-e-consiglieri-scelgono-il-progetto-d/",
       "status": 200
     },
     {
@@ -94,5 +94,5 @@
   "candidateCount": 8,
   "datedCount": 3,
   "listingUrl": "https://www.italiadomanirizzo.it/",
-  "durationSeconds": 6.97
+  "durationSeconds": 7.81
 }

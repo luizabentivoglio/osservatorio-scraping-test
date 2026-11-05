@@ -4,12 +4,26 @@
   "sourceId": "cnr",
   "originUrl": "https://www.cnr.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-05T09:52:25.115189Z",
+  "collectedAt": "2026-11-05T18:18:29.073723Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.cnr.it/it/news/rss",
   "items": [
+    {
+      "title": "Diplomazia scientifica, a Reggio Calabria la firma dell'accordo tra MAECI e CNR",
+      "url": "https://www.cnr.it/it/news/14782/diplomazia-scientifica-a-reggio-calabria-la-firma-dell-accordo-tra-maeci-e-cnr",
+      "excerpt": "05/11/2026 . Il ministro degli Affari Esteri e della Cooperazione Internazionale Antonio Tajani e il presidente del CNR Andrea Lenzi hanno sottoscritto un’intesa per rafforzare l’internazionalizzazione della ricerca italiana e promuovere la cooperazione scientifica internazionale",
+      "publishedAt": "2026-11-05T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "ENEA sviluppa con Cnr e ISPRA strumento per stimare impatto erosione costiera",
+      "url": "https://www.cnr.it/it/news/14753/enea-sviluppa-con-cnr-e-ispra-strumento-per-stimare-impatto-erosione-costiera",
+      "excerpt": "05/11/2026 . ENEA, in collaborazione con ISPRA e Cnr, ha sviluppato CoDeC (Calcolo del Degrado Costiero), uno strumento innovativo che consente di stimare gli impatti economici e ambientali dell’erosione costiera, prendendo in considerazione l’evoluzione delle spiagge, la presenza di infrastrutture e le dinamiche di tr",
+      "publishedAt": "2026-11-05T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "Opportunità di tirocinio formativo per laureandi",
       "url": "https://www.cnr.it/it/news/14780/opportunita-di-tirocinio-formativo-per-laureandi",
@@ -18,9 +32,9 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "R/V Gaia Blu: conclusa la campagna MARSiCo-2026_II",
-      "url": "https://www.cnr.it/it/news/14775/r-v-gaia-blu-conclusa-la-campagna-marsico-2026-ii",
-      "excerpt": "03/11/2026 . Dal 12 al 29 ottobre 2026 la nave da ricerca R/V Gaia Blu è stata impegnata nella campagna oceanografica MARSiCo-2026_II (MAnagement and Retrieval of SubmergedInfrastructures in the Sicily and Corsica Channel), coordinata dal CNR-ISMAR nell'ambito delle attività nazionali e internazionali di osservazione a",
+      "title": "I Data Steward del CNR si incontrano a Roma il 1° e 2 dicembre",
+      "url": "https://www.cnr.it/it/news/14778/i-data-steward-del-cnr-si-incontrano-a-roma-il-1-e-2-dicembre",
+      "excerpt": "03/11/2026 . Il 1° e 2 dicembre 2026, a Roma, si terrà un incontro in presenza della comunità dei Data Steward del CNR (DS@CNR), nell'ambito delle iniziative per il Centenario della Biblioteca Centrale “Guglielmo Marconi” (1927–2027). L’evento prevede due mezze giornate dedicate alla formazione e al confronto sulle att",
       "publishedAt": "2026-11-03T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -32,9 +46,9 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "I Data Steward del CNR si incontrano a Roma il 1° e 2 dicembre",
-      "url": "https://www.cnr.it/it/news/14778/i-data-steward-del-cnr-si-incontrano-a-roma-il-1-e-2-dicembre",
-      "excerpt": "03/11/2026 . Il 1° e 2 dicembre 2026, a Roma, si terrà un incontro in presenza della comunità dei Data Steward del CNR (DS@CNR), nell'ambito delle iniziative per il Centenario della Biblioteca Centrale “Guglielmo Marconi” (1927–2027). L’evento prevede due mezze giornate dedicate alla formazione e al confronto sulle att",
+      "title": "R/V Gaia Blu: conclusa la campagna MARSiCo-2026_II",
+      "url": "https://www.cnr.it/it/news/14775/r-v-gaia-blu-conclusa-la-campagna-marsico-2026-ii",
+      "excerpt": "03/11/2026 . Dal 12 al 29 ottobre 2026 la nave da ricerca R/V Gaia Blu è stata impegnata nella campagna oceanografica MARSiCo-2026_II (MAnagement and Retrieval of SubmergedInfrastructures in the Sicily and Corsica Channel), coordinata dal CNR-ISMAR nell'ambito delle attività nazionali e internazionali di osservazione a",
       "publishedAt": "2026-11-03T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -53,16 +67,16 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Ciclone Harry, onde record nel Mediterraneo: uno studio coordinato da UniBa e Università di Catania svela i fattori che amplificano il rischio costiero",
-      "url": "https://www.cnr.it/it/news/14773/ciclone-harry-onde-record-nel-mediterraneo-uno-studio-coordinato-da-uniba-e-universita-di-catania-svela-i-fattori-che-amplificano-il-rischio-costiero",
-      "excerpt": "02/11/2026 . Il Cnr ha contribuito con gli Istituti IRBIM e ISAC alla ricerca internazionale pubblicata su Communications Earth & Environment che ha integrato analisi atmosferiche, oceanografiche, geomorfologiche e sismologiche relative al fenomeno. Identificati i fattori locali che possono amplificare gli effetti dell",
+      "title": "\"Voci dal Pleistocene\": il tempo profondo di Casal de' Pazzi diventa un podcast a firma CNR ISPC",
+      "url": "https://www.cnr.it/it/news/14771/voci-dal-pleistocene-il-tempo-profondo-di-casal-de-pazzi-diventa-un-podcast-a-firma-cnr-ispc",
+      "excerpt": "02/11/2026 . La narrazione del tempo profondo abbandona i confini dell'accademia per diventare un racconto accessibile a tutti: nasce 'Voci dal Pleistocene', il podcast ufficiale del Museo di Casal de' Pazzi. L'opera è pensata sia per l'ascolto remoto da casa sia come sussidio interattivo per arricchire la visita guida",
       "publishedAt": "2026-11-02T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "\"Voci dal Pleistocene\": il tempo profondo di Casal de' Pazzi diventa un podcast a firma CNR ISPC",
-      "url": "https://www.cnr.it/it/news/14771/voci-dal-pleistocene-il-tempo-profondo-di-casal-de-pazzi-diventa-un-podcast-a-firma-cnr-ispc",
-      "excerpt": "02/11/2026 . La narrazione del tempo profondo abbandona i confini dell'accademia per diventare un racconto accessibile a tutti: nasce 'Voci dal Pleistocene', il podcast ufficiale del Museo di Casal de' Pazzi. L'opera è pensata sia per l'ascolto remoto da casa sia come sussidio interattivo per arricchire la visita guida",
+      "title": "Ciclone Harry, onde record nel Mediterraneo: uno studio coordinato da UniBa e Università di Catania svela i fattori che amplificano il rischio costiero",
+      "url": "https://www.cnr.it/it/news/14773/ciclone-harry-onde-record-nel-mediterraneo-uno-studio-coordinato-da-uniba-e-universita-di-catania-svela-i-fattori-che-amplificano-il-rischio-costiero",
+      "excerpt": "02/11/2026 . Il Cnr ha contribuito con gli Istituti IRBIM e ISAC alla ricerca internazionale pubblicata su Communications Earth & Environment che ha integrato analisi atmosferiche, oceanografiche, geomorfologiche e sismologiche relative al fenomeno. Identificati i fattori locali che possono amplificare gli effetti dell",
       "publishedAt": "2026-11-02T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -130,20 +144,6 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Algal Sentinel, il sistema di intelligenza artificiale del CNR premiato dal Contest H2O",
-      "url": "https://www.cnr.it/it/news/14751/algal-sentinel-il-sistema-di-intelligenza-artificiale-del-cnr-premiato-dal-contest-h2o",
-      "excerpt": "27/10/2026 . Algal sentinel un applicazione web, sviluppata da Maddalena de Virgilio, che anticipa di 48 ore il rischio legato alle fioriture di microalghe potenzialmente tossiche è stata premiata al Contest H2O presso il Genova blue district",
-      "publishedAt": "2026-10-27T11:31:36Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Nucleare: primo anno del Programma di Ricerca tra nuovi reattori, formazione e applicazioni per la salute",
-      "url": "https://www.cnr.it/it/news/14752/nucleare-primo-anno-del-programma-di-ricerca-tra-nuovi-reattori-formazione-e-applicazioni-per-la-salute",
-      "excerpt": "27/10/2026 . Il CNR ha preso parte, assieme a rappresentanti di altre istituzioni, centri di ricerca e imprese della filiera nazionale, all’incontro organizzato da ENEA per tracciare il bilancio delle quattro linee di attività del Programma di Ricerca Nucleare (PRN)",
-      "publishedAt": "2026-10-27T10:31:35Z",
-      "dateEvidence": "feed:published"
-    },
-    {
       "title": "VII Call di Scouting delle tecnologie CNR del Progetto PROMO-TT Instrument",
       "url": "https://www.cnr.it/it/news/14746/vii-call-di-scouting-delle-tecnologie-cnr-del-progetto-promo-tt-instrument",
       "excerpt": "27/10/2026 . E' aperta ancora per pochi giorni la VII Call di Scouting delle tecnologie CNR del Progetto PROMO-TT dedicata alla raccolta di nuovi risultati della ricerca. È possibile per il Personale CNR presentare una o più schede di scouting dei propri risultati della ricerca - brevettati, brevettabili e know-how - s",
@@ -162,5 +162,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 10.19
+  "durationSeconds": 10.27
 }
