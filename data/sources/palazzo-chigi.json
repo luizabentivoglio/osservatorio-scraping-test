@@ -4,12 +4,26 @@
   "sourceId": "palazzo-chigi",
   "originUrl": "https://www.governo.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-06T09:56:44.295462Z",
+  "collectedAt": "2026-11-06T17:43:05.237488Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.governo.it/feed/rss",
   "items": [
+    {
+      "title": "Il Presidente Meloni alla 83ª edizione di EICMA",
+      "url": "https://www.governo.it/it/articolo/il-presidente-meloni-alla-83-edizione-di-eicma/33047",
+      "excerpt": "Il Presidente Meloni questa mattina, a Milano, ha visitato l'83ª edizione dell'Esposizione Internazionale Ciclo Motociclo e Accessori (EICMA).",
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Adozione delle Specifiche Tecniche del Sistema IT-Wallet",
+      "url": "https://www.governo.it/it/articolo/adozione-delle-specifiche-tecniche-del-sistema-it-wallet/33045",
+      "excerpt": "Decreto del Capo del Dipartimento per la trasformazione digitale del 24 settembre 2026 di adozione delle Specifiche Tecniche del Sistema IT-Wallet durante la Sperimentazione.",
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "Comunicato stampa del Consiglio dei Ministri n. 196",
       "url": "https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-196/33042",
@@ -65,20 +79,6 @@
       "excerpt": "Accolgo con grande soddisfazione la notizia, comunicatami dal Presidente Guy Parmelin, della rinuncia della Svizzera a chiedere il rimborso delle spese mediche dei feriti italiani della tragedia di Crans-Montana curati negli ospedali elvetici. Sono felice di questa soluzione: nessun onere ricadrà sulle famiglie o sull’",
       "publishedAt": "2026-11-04T00:00:00Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Incontro con il Presidente della Repubblica del Cile",
-      "url": "https://www.governo.it/it/articolo/incontro-con-il-presidente-della-repubblica-del-cile/33014",
-      "excerpt": "Il Presidente del Consiglio, Giorgia Meloni, ha ricevuto oggi il Presidente della Repubblica del Cile, José Antonio Kast. Nel corso del colloquio, il Presidente Kast ha voluto condividere le principali riforme varate dal suo Governo per migliorare il clima per gli investimenti e rilanciare la crescita. A tal riguardo, ",
-      "publishedAt": "2026-11-03T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Esequie solenni dei Caduti nell’incidente elicotteristico in Bosnia ed Erzegovina",
-      "url": "https://www.governo.it/it/articolo/esequie-solenni-dei-caduti-nell-incidente-elicotteristico-bosnia-ed-erzegovina/33011",
-      "excerpt": "Il Presidente del Consiglio, Giorgia Meloni, ha partecipato a Roma, presso la Basilica di Santa Maria degli Angeli e dei Martiri, alle esequie solenni dei Caduti nell’incidente elicotteristico in Bosnia ed Erzegovina.",
-      "publishedAt": "2026-11-03T00:00:00Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -100,5 +100,5 @@
     }
   ],
   "message": "Feed dichiarato dalla fonte; date di pubblicazione verificate.",
-  "durationSeconds": 30.14
+  "durationSeconds": 30.12
 }

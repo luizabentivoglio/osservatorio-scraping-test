@@ -4,12 +4,26 @@
   "sourceId": "msf",
   "originUrl": "https://www.medicisenzafrontiere.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-06T09:56:35.541899Z",
+  "collectedAt": "2026-11-06T17:42:58.368880Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "Sudan, MSF chiede interventi urgenti per garantire le vaccinazioni di routine e prevenire nuove epidemie",
+      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/sudan-msf-chiede-interventi-urgenti-garantire-vaccinazioni-routine-prevenire-nuove-epidemie/",
+      "excerpt": "In Darfur, Sudan, la guerra e il collasso del sistema sanitario stanno alimentando epidemie di malattie prevenibili con i vaccini: in poco più di 2 anni, MSF ha curato quasi 30.000 pazienti, tra cui oltre 28.000 casi di morbillo. Il 75% dei pazienti curati per il morbillo non era vaccinato e il 69% aveva meno di 5 anni",
+      "publishedAt": "2026-11-06T16:19:01Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "COP31, MSF: ”La crisi climatica è crisi sanitaria, i leader agiscano per proteggere la salute”",
+      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/cop31-msf-crisi-climatica-crisi-sanitaria-leader-agiscano-per-proteggere-salute/",
+      "excerpt": "La crisi climatica è una crisi sanitaria che minaccia la salute di milioni di persone in tutto il mondo. Per questo Medici Senza Frontiere chiede che la COP31 metta la salute al centro dell’azione climatica, trasformando negoziati e dichiarazioni in interventi concreti per le comunità più colpite. La crisi climatica è ",
+      "publishedAt": "2026-11-06T14:18:45Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
     {
       "title": "RDC/Nord Kivu, MSF: cure per sopravvissute a violenza sessuale ostacolate dalle nuove restrizioni delle autorità",
       "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/rdc-nord-kivu-msf-cure-sopravvissute-violenza-sessuale-ostacolate-nuove-restrizioni-autorita/",
@@ -37,20 +51,6 @@
       "excerpt": "Medici Senza Frontiere chiede il rilascio immediato e incondizionato del dottor Mohammed Obeid, che dal 26 ottobre 2024 è detenuto dalle forze israeliane senza alcuna accusa. Il caso del dottor Obeid Il dottor Obeid, chirurgo ortopedico della nostra organizzazione, è stato arrestato mentre era in servizio presso l’ospe",
       "publishedAt": "2026-11-02T15:28:04Z",
       "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "X Factor e Medici Senza Frontiere: la partnership edizione per edizione",
-      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/xfactor/",
-      "excerpt": "Dal 2024 MSF è Official Partner di X Factor: i brani del Peace Factor, gli appelli di Giorgia e i video di ogni edizione. Scopri come donare.",
-      "publishedAt": "2026-11-01T12:20:59Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Haiti, scontri in aumento a Port-au-Prince: 30 feriti curati negli ospedali di MSF in poco più di una settimana",
-      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/haiti-scontri-aumento-port-au-prince-30-feriti-curati-ospedali-msf-poco-piu-di-settimana/",
-      "excerpt": "Con l’intensificarsi degli scontri armati nella capitale haitiana, Medici Senza Frontiere ha accolto nei propri ospedali numerosi feriti, tra cui donne e bambini. Tra il 18 e il 26 ottobre, 30 pazienti feriti da colpi d’arma da fuoco o da esplosioni causate da droni sono stati ricoverati e curati negli ospedali di MSF ",
-      "publishedAt": "2026-10-28T18:54:04Z",
-      "dateEvidence": "jsonld:datePublished"
     }
   ],
   "attempts": [
@@ -60,6 +60,14 @@
     },
     {
       "url": "https://www.medicisenzafrontiere.it/",
+      "status": 200
+    },
+    {
+      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/sudan-msf-chiede-interventi-urgenti-garantire-vaccinazioni-routine-prevenire-nuove-epidemie/",
+      "status": 200
+    },
+    {
+      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/cop31-msf-crisi-climatica-crisi-sanitaria-leader-agiscano-per-proteggere-salute/",
       "status": 200
     },
     {
@@ -77,14 +85,6 @@
     {
       "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/gaza-msf-chiede-rilascio-immediato-dott-obeid-dopo-2-anni-detenzione-arbitraria/",
       "status": 200
-    },
-    {
-      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/xfactor/",
-      "status": 200
-    },
-    {
-      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/haiti-scontri-aumento-port-au-prince-30-feriti-curati-ospedali-msf-poco-piu-di-settimana/",
-      "status": 200
     }
   ],
   "message": "6 notizie recenti con data verificata; copertura parziale.",
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.medicisenzafrontiere.it/",
-  "durationSeconds": 4.08
+  "durationSeconds": 3.91
 }

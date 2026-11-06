@@ -4,12 +4,26 @@
   "sourceId": "istat",
   "originUrl": "https://www.istat.it/",
   "configuredFeedUrl": "https://www.istat.it/feed/",
-  "collectedAt": "2026-11-06T09:56:25.784378Z",
+  "collectedAt": "2026-11-06T17:42:49.091137Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.istat.it/feed/",
   "items": [
+    {
+      "title": "Manifestazione d’interesse per progetto interistituzionale su politiche di coesione",
+      "url": "https://www.istat.it/notizia/raccolta-manifestazione-interesse-per-accordo-collaborazione-progetto-informazione-statistica-territoriale-e-settoriale-politiche-di-coesione-2027-29/",
+      "excerpt": "Online le risposte ai quesiti pervenuti",
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "L’Istat partecipa alla XL edizione di Futuro Remoto",
+      "url": "https://www.istat.it/evento-territoriale/listat-partecipa-alla-xl-edizione-di-futuro-remoto/",
+      "excerpt": "L’Istat partecipa a Futuro Remoto, festival della cultura scientifica, con laboratori interattivi di promozione della cultura statistica rivolti a grandi e piccini",
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "Rilevazione sulle piccole e medie imprese e sull’esercizio di arti e professioni",
       "url": "https://www.istat.it/informazioni-sulla-rilevazione/pmi/",
@@ -64,20 +78,6 @@
       "url": "https://www.istat.it/comunicato-stampa/retribuzioni-contrattuali-luglio-settembre-2026/",
       "excerpt": "L’indice delle retribuzioni contrattuali orarie, a settembre 2026, rimane invariato rispetto al mese precedente e aumenta del 2,5% rispetto a settembre 2025",
       "publishedAt": "2026-10-30T11:00:15Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Prezzi al consumo (dati provvisori) – Ottobre 2026",
-      "url": "https://www.istat.it/comunicato-stampa/prezzi-al-consumo-dati-provvisori-ottobre-2026/",
-      "excerpt": "Secondo le stime preliminari, a ottobre 2026 l’indice nazionale dei prezzi al consumo per l’intera collettività (NIC), al lordo dei tabacchi, registra una variazione del +0,9% su settembre e del +5,4% su base annua",
-      "publishedAt": "2026-10-30T10:06:18Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Stima preliminare del Pil – III trimestre 2026",
-      "url": "https://www.istat.it/comunicato-stampa/stima-preliminare-del-pil-iii-trimestre-2026/",
-      "excerpt": "Nel III Trimestre 2026 il Pil è rimasto invariato sul trimestre precedente ed è cresciuto dello 0,8% sul III trim 2025",
-      "publishedAt": "2026-10-30T09:20:50Z",
       "dateEvidence": "feed:published"
     }
   ],

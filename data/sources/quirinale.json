@@ -4,7 +4,7 @@
   "sourceId": "quirinale",
   "originUrl": "https://www.quirinale.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-06T09:57:01.801268Z",
+  "collectedAt": "2026-11-06T17:43:18.231039Z",
   "status": "blocked",
   "diagnosticCode": "access_restricted",
   "method": "html",
@@ -17,6 +17,10 @@
     },
     {
       "url": "https://www.quirinale.it/",
+      "status": 200
+    },
+    {
+      "url": "https://www.quirinale.it/it/notizie/presidente-mattarella-ha-ricevuto-delegazione-fondazione-nizami-ganjavi",
       "status": 200
     },
     {
@@ -36,27 +40,30 @@
       "status": 200
     },
     {
-      "url": "https://www.quirinale.it/it/notizie/4-novembre-2026-mattarella-depone-corona-d-alloro-altare-patria",
-      "status": 200
-    },
-    {
       "url": "https://www.quirinale.it/it/notizie/nostra-repubblica-compie-ottant-anni-1",
-      "status": 200
-    },
-    {
-      "url": "https://www.quirinale.it/it/notizie/mattarella-complesso-donnaregina-per-20-anniversario-fondazione-sud",
-      "status": 200
-    },
-    {
-      "url": "https://www.quirinale.it/it/notizie/60-anni-alluvione-firenze-mattarella-interviene-cerimonia",
       "status": 200
     }
   ],
-  "message": "Browser HTTP 403",
+  "message": "Verifica interattiva richiesta",
   "candidateSamples": [
     {
+      "url": "https://www.quirinale.it/it/notizie/presidente-mattarella-ha-ricevuto-delegazione-fondazione-nizami-ganjavi",
+      "title": "Il Presidente Mattarella ha ricevuto una delegazione della Fondazione Nizami Ganjavi Il Presidente della Repubblica, Sergio Mattarella, ha ricevuto al Quirinale una delegazione della Fondazione Nizami Ganjavi, organizzazione internazionale creata nel 2012 in Azerbaijan, impegnata nella promozione de",
+      "h1": "Il Presidente Mattarella ha ricevuto una delegazione della Fondazione Nizami Ganjavi",
+      "dates": [
+        {
+          "tag": "p",
+          "class": [
+            "date-label"
+          ],
+          "text": "Roma, 06/11/2026 (II mandato)",
+          "datetime": null
+        }
+      ]
+    },
+    {
       "url": "https://www.quirinale.it/it/notizie/mattarella-complesso-donnaregina-per-20-anniversario-fondazione-sud",
-      "title": "Mattarella al complesso Donnaregina per il 20° anniversario della Fondazione con il Sud Il Presidente della Repubblica, Sergio Mattarella, ha partecipato a Napoli, presso il Complesso Monumentale Donnaregina, all’incontro “Sud Vivo, 20 anni con il Sud”, organizzato in occasione del ventesimo anniver",
+      "title": "Napoli - Il Presidente Sergio Mattarella rivolge il suo indirizzo di saluto in occasione della cerimonia per il 20° anniversario della Fondazione con il Sud",
       "h1": "Mattarella al complesso Donnaregina per il 20° anniversario della Fondazione con il Sud",
       "dates": [
         {
@@ -307,21 +314,6 @@
       ]
     },
     {
-      "url": "https://www.quirinale.it/it/notizie/4-novembre-2026-mattarella-depone-corona-d-alloro-altare-patria",
-      "title": "Il Presidente Sergio Mattarella in occasione della deposizione di una corona d’alloro sulla Tomba del Milite Ignoto all’Altare della Patria",
-      "h1": "4 novembre 2026: Mattarella depone una corona d'alloro all'Altare della Patria",
-      "dates": [
-        {
-          "tag": "p",
-          "class": [
-            "date-label"
-          ],
-          "text": "Roma, 04/11/2026 (II mandato)",
-          "datetime": null
-        }
-      ]
-    },
-    {
       "url": "https://www.quirinale.it/it/notizie/nostra-repubblica-compie-ottant-anni-1",
       "title": "I Volti della Repubblica",
       "h1": "La nostra Repubblica compie Ottant’anni",
@@ -340,5 +332,5 @@
   "candidateCount": 12,
   "datedCount": 0,
   "listingUrl": "https://www.quirinale.it/",
-  "durationSeconds": 4.31
+  "durationSeconds": 4.21
 }

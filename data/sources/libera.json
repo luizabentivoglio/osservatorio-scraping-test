@@ -4,12 +4,20 @@
   "sourceId": "libera",
   "originUrl": "https://www.libera.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-06T09:56:33.313484Z",
+  "collectedAt": "2026-11-06T17:42:56.927535Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "html",
   "feedUrl": null,
-  "items": [],
+  "items": [
+    {
+      "title": "Un errore politicizzare la nomina del vertice dell’ANAC",
+      "url": "https://www.libera.it/it-schede-2875-un_errore_politicizzare_la_nomina_del_vertice_dell_anac",
+      "excerpt": "La scelta del Governo di indicare Nuccio Altieri alla presidenza dell’Autorità ci preoccupa. Il nodo non riguarda la persona, ma l’indipendenza richiesta a chi è chiamato a guidare ANAC.",
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "dateEvidence": "html:dated-news-card"
+    }
+  ],
   "attempts": [
     {
       "url": "https://www.libera.it/robots.txt",
@@ -23,5 +31,5 @@
   "message": "Titoli, link e date di pubblicazione verificati nelle schede ufficiali delle notizie.",
   "datedCount": 4,
   "listingUrl": "https://www.libera.it/",
-  "durationSeconds": 3.24
+  "durationSeconds": 2.51
 }

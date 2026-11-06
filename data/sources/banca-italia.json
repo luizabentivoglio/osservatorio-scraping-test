@@ -4,7 +4,7 @@
   "sourceId": "banca-italia",
   "originUrl": "https://www.bancaditalia.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-06T09:55:43.158180Z",
+  "collectedAt": "2026-11-06T17:42:12.699004Z",
   "status": "blocked",
   "diagnosticCode": "robots_disallowed",
   "method": "html",
@@ -23,5 +23,5 @@
   "message": "Percorso escluso da robots.txt",
   "httpStatus": null,
   "failedUrl": "https://www.bancaditalia.it/util/index.rss.html?lingua=it&sezione=%2Fmedia%2Fnotizia",
-  "durationSeconds": 1.06
+  "durationSeconds": 1.04
 }

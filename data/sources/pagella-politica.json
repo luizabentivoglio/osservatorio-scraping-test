@@ -4,12 +4,26 @@
   "sourceId": "pagella-politica",
   "originUrl": "https://pagellapolitica.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-06T09:56:44.099670Z",
+  "collectedAt": "2026-11-06T17:43:04.919940Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "La sconfitta di Trump alle midterm mette alla prova la destra italiana",
+      "url": "https://pagellapolitica.it/articoli/sconfitta-trump-midterm-destra-italiana",
+      "excerpt": "Dalle cautele di Meloni alle dichiarazioni di Salvini e Tajani, fino agli attacchi di Vannacci, abbiamo raccolto le...",
+      "publishedAt": "2026-11-05T00:00:00Z",
+      "dateEvidence": "html:post-date"
+    },
+    {
+      "title": "Conte non la racconta tutta sullo stop all’export di armi verso i Paesi arabi",
+      "url": "https://pagellapolitica.it/articoli/conte-stop-export-armi-paesi-arabi",
+      "excerpt": "Al contrario di quanto ha sostenuto il presidente del Movimento 5 Stelle, durante i suoi governi sono state...",
+      "publishedAt": "2026-11-05T00:00:00Z",
+      "dateEvidence": "html:post-date"
+    },
     {
       "title": "Perché in Italia gli sponsor delle scommesse possono ancora comparire sulle maglie da calcio",
       "url": "https://pagellapolitica.it/articoli/italia-sponsor-scommesse-maglie-calcio",
@@ -37,20 +51,6 @@
       "excerpt": "La manovra per il 2027 è stata presentata alla Camera con undici giorni di ritardo: un peggioramento rispetto alla...",
       "publishedAt": "2026-11-04T00:00:00Z",
       "dateEvidence": "html:post-date"
-    },
-    {
-      "title": "Il governo era contro il gioco d’azzardo, ora lo incentiva per finanziare la manovra",
-      "url": "https://pagellapolitica.it/articoli/governo-gioco-azzardo-manovra-bilancio",
-      "excerpt": "Nel 2023 l’esecutivo voleva ridurre i limiti di puntata e vincita, mentre nella nuova legge di Bilancio propone di...",
-      "publishedAt": "2026-11-03T00:00:00Z",
-      "dateEvidence": "html:post-date"
-    },
-    {
-      "title": "È finita l’ascesa di Futuro Nazionale?",
-      "url": "https://pagellapolitica.it/articoli/fine-ascesa-futuro-nazionale",
-      "excerpt": "Dopo mesi di crescita continua, il partito di Roberto Vannacci a ottobre ha perso quasi un punto nei sondaggi...",
-      "publishedAt": "2026-11-03T00:00:00Z",
-      "dateEvidence": "html:post-date"
     }
   ],
   "attempts": [
@@ -60,6 +60,14 @@
     },
     {
       "url": "https://pagellapolitica.it/articoli",
+      "status": 200
+    },
+    {
+      "url": "https://pagellapolitica.it/articoli/sconfitta-trump-midterm-destra-italiana",
+      "status": 200
+    },
+    {
+      "url": "https://pagellapolitica.it/articoli/conte-stop-export-armi-paesi-arabi",
       "status": 200
     },
     {
@@ -77,14 +85,6 @@
     {
       "url": "https://pagellapolitica.it/articoli/legge-di-bilancio-ritardi-governo-meloni",
       "status": 200
-    },
-    {
-      "url": "https://pagellapolitica.it/articoli/governo-gioco-azzardo-manovra-bilancio",
-      "status": 200
-    },
-    {
-      "url": "https://pagellapolitica.it/articoli/fine-ascesa-futuro-nazionale",
-      "status": 200
     }
   ],
   "message": "6 notizie recenti con data verificata; copertura parziale.",
@@ -92,5 +92,5 @@
   "candidateCount": 6,
   "datedCount": 6,
   "listingUrl": "https://pagellapolitica.it/articoli",
-  "durationSeconds": 6.69
+  "durationSeconds": 5.67
 }

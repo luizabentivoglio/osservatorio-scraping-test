@@ -4,7 +4,7 @@
   "sourceId": "svp",
   "originUrl": "https://www.svp.eu/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-06T09:57:08.421229Z",
+  "collectedAt": "2026-11-06T17:43:24.087731Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -96,5 +96,5 @@
   "candidateCount": 12,
   "datedCount": 1,
   "listingUrl": "https://www.svp.eu/de/wilkommen-bei-uns-1.html",
-  "durationSeconds": 4.93
+  "durationSeconds": 4.69
 }

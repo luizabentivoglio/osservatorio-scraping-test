@@ -4,7 +4,7 @@
   "sourceId": "mef",
   "originUrl": "https://www.mef.gov.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-06T09:56:36.552295Z",
+  "collectedAt": "2026-11-06T17:42:59.440012Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -22,13 +22,6 @@
       "url": "https://www.mef.gov.it/inevidenza/Giorgetti-prudenza-prima-forma-di-liberta-risparmiare-il-modo-piu-concreto-di-credere-nel-domani/",
       "excerpt": "Il ministro alla giornata del risparmio: non useremo il futuro dei giovani per pagare il nostro presente",
       "publishedAt": "2026-10-30T16:18:44Z",
-      "dateEvidence": "meta:datepublished"
-    },
-    {
-      "title": "BTP Valore: oltre 16,5 miliardi raccolti nella prima doppia emissione, tassi cedolari rivisti al rialzo",
-      "url": "https://www.mef.gov.it/inevidenza/BTP-Valore-oltre-165-miliardi-raccolti-nella-prima-doppia-emissione-tassi-cedolari-rivisti-al-rialzo/",
-      "excerpt": "BTP Valore al 3,75% per il 1° e 2° anno, al 4,20% per il 3° e 4° anno e al 4,75% per il 5° anno. BTP Valore Insieme al 22,70% per la cedola unica a scadenza",
-      "publishedAt": "2026-10-23T16:02:00Z",
       "dateEvidence": "meta:datepublished"
     }
   ],
@@ -70,10 +63,10 @@
       "status": 200
     }
   ],
-  "message": "3 notizie recenti con data verificata; copertura parziale.",
+  "message": "2 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [],
   "candidateCount": 11,
   "datedCount": 6,
   "listingUrl": "https://www.mef.gov.it/",
-  "durationSeconds": 5.0
+  "durationSeconds": 5.02
 }

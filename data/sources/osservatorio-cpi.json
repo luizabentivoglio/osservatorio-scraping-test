@@ -4,7 +4,7 @@
   "sourceId": "osservatorio-cpi",
   "originUrl": "https://osservatoriocpi.unicatt.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-06T09:56:37.388630Z",
+  "collectedAt": "2026-11-06T17:42:59.506871Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -44,13 +44,6 @@
       "excerpt": "I disavanzi sanitari delle Regioni a statuto ordinario hanno mostrato un andamento ciclico dagli anni Ottanta al 2006. Da allora si sono ridotti fino al 2021, per poi tornare a crescere. Il miglioramento dal 2006 è dovuto all’adozione dei Piani di rientro. Per la prima volta nel 2023, le Regioni non sottoposte a Piano ",
       "publishedAt": "2026-10-28T00:00:00Z",
       "dateEvidence": "html:article-header"
-    },
-    {
-      "title": "Differenziale tra tasso d'interesse sul debito pubblico e tasso di crescita: oggi soffrono Italia e Francia, ma il quadro potrebbe peggiorare",
-      "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/differenziale-i-g-oggi-soffrono-italia-e-francia-ma-il-quadro-potrebbe-peggiorare.html",
-      "excerpt": "Le recenti pressioni sui titoli di Stato hanno riacceso il dibattito sulla sostenibilità del debito pubblico. Ricostruendo l’evoluzione del differenziale tra tasso d’interesse medio sul debito e crescita del Pil nominale, emerge che oggi quasi tutte le economie beneficiano di un differenziale negativo. Nel 2026 le unic",
-      "publishedAt": "2026-10-27T00:00:00Z",
-      "dateEvidence": "html:article-header"
     }
   ],
   "attempts": [
@@ -81,16 +74,18 @@
     {
       "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/l-evoluzione-dei-disavanzi-sanitari-delle-regioni-a-statuto-ordinario.html",
       "status": 200
-    },
-    {
-      "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/differenziale-i-g-oggi-soffrono-italia-e-francia-ma-il-quadro-potrebbe-peggiorare.html",
-      "status": 200
     }
   ],
-  "message": "6 notizie recenti con data verificata; copertura parziale.",
+  "message": "5 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [],
   "candidateCount": 12,
-  "datedCount": 6,
+  "datedCount": 5,
   "listingUrl": "https://osservatoriocpi.unicatt.it/pubblicazioni.html",
-  "durationSeconds": 6.9
+  "durationSeconds": 5.73,
+  "attemptErrors": [
+    {
+      "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/l-ulteriore-espansione-del-regime-forfettario-a-100000-euro.html",
+      "code": "connection_error"
+    }
+  ]
 }

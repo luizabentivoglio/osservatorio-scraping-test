@@ -11,8 +11,8 @@
 | cisl | blocked | html | 0 | robots_disallowed |
 | cnr | ok | rss | 20 | — |
 | coldiretti | ok | trafilatura | 3 | — |
-| commissione-europea | ok | trafilatura | 1 | — |
-| comune-bollate | ok | trafilatura | 4 | — |
+| commissione-europea | blocked | html | 0 | rate_limited |
+| comune-bollate | ok | trafilatura | 5 | — |
 | confcommercio | blocked | html | 0 | access_restricted |
 | confindustria | ok | trafilatura | 1 | — |
 | consiglio-ue | blocked | html | 0 | access_restricted |
@@ -44,11 +44,11 @@
 | italia-domani-rizzo | ok | trafilatura | 3 | — |
 | italia-viva | blocked | html | 0 | access_restricted |
 | la-stampa | ok | rss | 40 | — |
-| legambiente | error | html | 0 | timeout |
-| libera | ok | html | 0 | — |
-| mef | ok | trafilatura | 3 | — |
+| legambiente | ok | trafilatura | 0 | — |
+| libera | ok | html | 1 | — |
+| mef | ok | trafilatura | 2 | — |
 | msf | ok | trafilatura | 6 | — |
-| osservatorio-cpi | ok | trafilatura | 6 | — |
+| osservatorio-cpi | ok | trafilatura | 5 | — |
 | oxfam | ok | trafilatura | 4 | — |
 | pagella-politica | ok | trafilatura | 6 | — |
 | palazzo-chigi | ok | rss | 10 | — |

@@ -4,12 +4,19 @@
   "sourceId": "wwf",
   "originUrl": "https://www.wwf.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-06T09:57:12.384660Z",
+  "collectedAt": "2026-11-06T17:43:25.801713Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "COP31: la crisi climatica accelera, il mondo non può permettersi di arretrare",
+      "url": "https://www.wwf.it/pandanews/clima/cop31-la-crisi-climatica-accelera-il-mondo-non-puo-permettersi-di-arretrare/",
+      "excerpt": "La COP31 deve trasformare le promesse in cambiamenti tangibili e continuare a portare avanti l’azione per il clima",
+      "publishedAt": "2026-11-06T11:07:02Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
     {
       "title": "I cittadini europei e italiani contro la deregulation UE sui pesticidi",
       "url": "https://www.wwf.it/pandanews/ambiente/i-cittadini-europei-e-italiani-contro-la-deregulation-ue-sui-pesticidi/",
@@ -44,13 +51,6 @@
       "excerpt": "Il WWF affianca per il sesto anno il MedFilm Festival, la rassegna cinematografica che raccoglie le produzioni di 40 paesi",
       "publishedAt": "2026-11-03T10:01:17Z",
       "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Entra nel vivo il progetto di WWF e Fondazione Roma",
-      "url": "https://www.wwf.it/pandanews/wwf-life/entra-nel-vivo-il-progetto-di-wwf-e-fondazione-roma/",
-      "excerpt": "Oltre 300 docenti iscritti al percorso formativo che accompagnerà la nascita di 50 nuove Aule Natura fra Roma e provincia entro il 2028",
-      "publishedAt": "2026-11-02T16:11:03Z",
-      "dateEvidence": "jsonld:datePublished"
     }
   ],
   "attempts": [
@@ -60,6 +60,10 @@
     },
     {
       "url": "https://www.wwf.it/",
+      "status": 200
+    },
+    {
+      "url": "https://www.wwf.it/pandanews/clima/cop31-la-crisi-climatica-accelera-il-mondo-non-puo-permettersi-di-arretrare/",
       "status": 200
     },
     {
@@ -81,10 +85,6 @@
     {
       "url": "https://www.wwf.it/pandanews/wwf-life/al-medfilm-festival-il-premio-speciale-60-anni-di-wwf-italia/",
       "status": 200
-    },
-    {
-      "url": "https://www.wwf.it/pandanews/wwf-life/entra-nel-vivo-il-progetto-di-wwf-e-fondazione-roma/",
-      "status": 200
     }
   ],
   "message": "6 notizie recenti con data verificata; copertura parziale.",
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.wwf.it/",
-  "durationSeconds": 6.99
+  "durationSeconds": 4.08
 }

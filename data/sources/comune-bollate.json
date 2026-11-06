@@ -4,12 +4,19 @@
   "sourceId": "comune-bollate",
   "originUrl": "https://comune.bollate.mi.it/it/news",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-06T09:55:50.194385Z",
+  "collectedAt": "2026-11-06T17:42:18.226952Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "Polizia locale e presidio del territorio. Ecco il bilancio di una settimana di attività",
+      "url": "https://comune.bollate.mi.it/it/news/polizia-locale-2074608",
+      "excerpt": "Sito ufficiale Comune di Bollate",
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "dateEvidence": "html:news-date-label"
+    },
     {
       "title": "Raccolta scarti vegetali. Al via rinnovi e nuove sottoscrizioni",
       "url": "https://comune.bollate.mi.it/it/news/raccolta-scarti-verdi-2074146",
@@ -49,6 +56,10 @@
       "status": 200
     },
     {
+      "url": "https://comune.bollate.mi.it/it/news/polizia-locale-2074608",
+      "status": 200
+    },
+    {
       "url": "https://comune.bollate.mi.it/it/news/raccolta-scarti-verdi-2074146",
       "status": 200
     },
@@ -67,16 +78,12 @@
     {
       "url": "https://comune.bollate.mi.it/it/news/avviso-pubblico-misura-nidi-gratis-plus",
       "status": 200
-    },
-    {
-      "url": "https://comune.bollate.mi.it/it/news/orari-2059632",
-      "status": 200
     }
   ],
-  "message": "4 notizie recenti con data verificata; copertura parziale.",
+  "message": "5 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [],
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://comune.bollate.mi.it/it/news",
-  "durationSeconds": 4.87
+  "durationSeconds": 4.36
 }
