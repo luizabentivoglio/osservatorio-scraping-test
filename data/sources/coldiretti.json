@@ -4,17 +4,17 @@
   "sourceId": "coldiretti",
   "originUrl": "https://www.coldiretti.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-05T23:51:48.869453Z",
+  "collectedAt": "2026-11-06T09:55:48.502738Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
-      "title": "Ambiente, nuovo stop al fotovoltaico selvaggio salva produzione cibo sano per la salute dei cittadini",
-      "url": "https://www.coldiretti.it/economia/ambiente-nuovo-stop-al-fotovoltaico-selvaggio-salva-produzione-cibo-sano-per-la-salute-dei-cittadini",
-      "excerpt": "Il nuovo stop della Corte Costituzionale rappresenta una vittoria importante per agricoltori e cittadini a tutela della salute di tutti",
-      "publishedAt": "2026-11-05T15:37:13Z",
+      "title": "Made in Italy, Gesmundo: Trump e Ursula giù le mani dal nostro cibo. L'Europa difenda gli agricoltori, non le multinazionali",
+      "url": "https://www.coldiretti.it/economia/made-in-italy-gesmundo-trump-e-ursula-giu-le-mani-dal-nostro-cibo-leuropa-difenda-gli-agricoltori-non-le-multinazionali",
+      "excerpt": "Il segretario generale della Coldiretti sul Sole 24 Ore: “Difendere origine, reddito e salute non è protezionismo. Non accetteremo di diventare una colonia alimentare”",
+      "publishedAt": "2026-11-06T09:27:43Z",
       "dateEvidence": "meta:article:published_time"
     },
     {
@@ -42,6 +42,10 @@
       "status": 200
     },
     {
+      "url": "https://www.coldiretti.it/economia/made-in-italy-gesmundo-trump-e-ursula-giu-le-mani-dal-nostro-cibo-leuropa-difenda-gli-agricoltori-non-le-multinazionali",
+      "status": 200
+    },
+    {
       "url": "https://www.coldiretti.it/economia/attacchi-hacker-gesmundo-ue-investa-sui-mercati-contadini-i-soldi-del-riarmo",
       "status": 200
     },
@@ -60,10 +64,6 @@
     {
       "url": "https://www.coldiretti.it/economia/salute-non-fermare-i-cibi-ultraformulati-e-un-crimine-contro-lumanita",
       "status": 200
-    },
-    {
-      "url": "https://www.coldiretti.it/economia/ambiente-nuovo-stop-al-fotovoltaico-selvaggio-salva-produzione-cibo-sano-per-la-salute-dei-cittadini",
-      "status": 200
     }
   ],
   "message": "3 notizie recenti con data verificata; copertura parziale.",
@@ -71,5 +71,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.coldiretti.it/",
-  "durationSeconds": 9.08
+  "durationSeconds": 19.81
 }

@@ -4,7 +4,7 @@
   "sourceId": "quirinale",
   "originUrl": "https://www.quirinale.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-05T23:52:47.180324Z",
+  "collectedAt": "2026-11-06T09:57:01.801268Z",
   "status": "blocked",
   "diagnosticCode": "access_restricted",
   "method": "html",
@@ -42,9 +42,17 @@
     {
       "url": "https://www.quirinale.it/it/notizie/nostra-repubblica-compie-ottant-anni-1",
       "status": 200
+    },
+    {
+      "url": "https://www.quirinale.it/it/notizie/mattarella-complesso-donnaregina-per-20-anniversario-fondazione-sud",
+      "status": 200
+    },
+    {
+      "url": "https://www.quirinale.it/it/notizie/60-anni-alluvione-firenze-mattarella-interviene-cerimonia",
+      "status": 200
     }
   ],
-  "message": "Verifica interattiva richiesta",
+  "message": "Browser HTTP 403",
   "candidateSamples": [
     {
       "url": "https://www.quirinale.it/it/notizie/mattarella-complesso-donnaregina-per-20-anniversario-fondazione-sud",
@@ -332,5 +340,5 @@
   "candidateCount": 12,
   "datedCount": 0,
   "listingUrl": "https://www.quirinale.it/",
-  "durationSeconds": 3.81
+  "durationSeconds": 4.31
 }

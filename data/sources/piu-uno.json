@@ -4,7 +4,7 @@
   "sourceId": "piu-uno",
   "originUrl": "https://piu.uno/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-05T23:52:46.723282Z",
+  "collectedAt": "2026-11-06T09:56:58.868361Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -36,13 +36,6 @@
       "url": "https://piu.uno/notizie/corriere-gabrielli-ruffini-i-piu-competenti",
       "excerpt": "Franco Gabrielli e Ernesto Maria Ruffini hanno fondato un nuovo partito chiamato «Più Uno», che va a collocarsi nel fantasmagorico Campo largo. Perché i Dem non li hanno chiamati e convinti? Il tema non è stabilire perché lo Sbirro e l’Esattore abbiano sentito la necessità di fondare l’ennesimo nuovo partito chiamato “",
       "publishedAt": "2026-10-24T00:00:00Z",
-      "dateEvidence": "html:publication-time"
-    },
-    {
-      "title": "Dalla precompilata dei diritti agli under 40 nei Cda: le proposte (con copertura) di Ruffini e Gabrielli · Più Uno",
-      "url": "https://piu.uno/notizie/messaggero-proposte-con-copertura-ruffini-gabrielli",
-      "excerpt": "Centosette pagine e quarantaquattro proposte, ciascuna corredata da copertura economica e dalla risposta alle due domande più frequenti tra gli elettori: «Perché serve e che cosa cambia? Il corposo librettino di proposte programmatiche di Più Uno circola per la sala della Stampa Estera a Palazzo Gazioli come se fosse u",
-      "publishedAt": "2026-10-23T00:00:00Z",
       "dateEvidence": "html:publication-time"
     }
   ],
@@ -80,10 +73,10 @@
       "status": 200
     }
   ],
-  "message": "5 notizie recenti con data verificata; copertura parziale.",
+  "message": "4 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [],
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://piu.uno/",
-  "durationSeconds": 3.61
+  "durationSeconds": 3.93
 }

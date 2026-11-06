@@ -4,7 +4,7 @@
   "sourceId": "amnesty",
   "originUrl": "https://www.amnesty.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-05T23:51:43.328289Z",
+  "collectedAt": "2026-11-06T09:55:42.641396Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -18,17 +18,17 @@
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "Le elezioni negli Usa siano un punto di svolta per i diritti umani",
-      "url": "https://www.amnesty.it/le-elezioni-negli-usa-siano-un-punto-di-svolta-per-i-diritti-umani/",
-      "excerpt": "Il commento della direttrice generale di Amnesty International Usa a seguito delle elezioni a livello federale, statale e locale negli Usa.",
-      "publishedAt": "2026-11-04T17:57:55Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
       "title": "Ucraina: pericolosi attacchi russi alle infrastrutture",
       "url": "https://www.amnesty.it/ucraina-pericolosi-attacchi-russi-alle-infrastrutture/",
       "excerpt": "Gli attacchi della Russia contro le infrastrutture energetiche in Ucraina, rischiano di creare una nuova catastrofe umanitaria.",
       "publishedAt": "2026-11-02T09:16:34Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "Ue: riforma di Frontex rischia complicità in violazioni dei diritti umani",
+      "url": "https://www.amnesty.it/ue-riforma-frontex-rischia-complicita-violazioni-diritti-umani/",
+      "excerpt": "Le proposte della Commissione europea per riformare Frontex potrebbero aumentarne i poteri senza aumentare salvaguardie per i diritti umani.",
+      "publishedAt": "2026-10-28T16:08:18Z",
       "dateEvidence": "jsonld:datePublished"
     }
   ],
@@ -39,10 +39,6 @@
     },
     {
       "url": "https://www.amnesty.it/",
-      "status": 200
-    },
-    {
-      "url": "https://www.amnesty.it/le-elezioni-negli-usa-siano-un-punto-di-svolta-per-i-diritti-umani/",
       "status": 200
     },
     {
@@ -63,6 +59,10 @@
     },
     {
       "url": "https://www.amnesty.it/ucraina-pericolosi-attacchi-russi-alle-infrastrutture/",
+      "status": 200
+    },
+    {
+      "url": "https://www.amnesty.it/ue-riforma-frontex-rischia-complicita-violazioni-diritti-umani/",
       "status": 200
     }
   ],
@@ -90,5 +90,5 @@
   "candidateCount": 12,
   "datedCount": 3,
   "listingUrl": "https://www.amnesty.it/",
-  "durationSeconds": 5.92
+  "durationSeconds": 7.55
 }

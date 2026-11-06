@@ -4,177 +4,268 @@
   "sourceId": "la-stampa",
   "originUrl": "https://www.lastampa.it/",
   "configuredFeedUrl": "https://www.lastampa.it/rss/copertina.xml",
-  "collectedAt": "2026-11-05T23:52:25.056215Z",
+  "collectedAt": "2026-11-06T09:56:31.561118Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.lastampa.it/rss/copertina.xml",
   "items": [
     {
+      "title": "L'annuncio di Sinner: Magnus Norman nuovo coach",
+      "url": "https://www.lastampa.it/sport/2026/11/06/news/sinner_chiude_collaborazione_cahill_darren-15790110/",
+      "excerpt": "Dopo settimane di indiscrezioni, Sinner e Darren Cahill si separano e hanno reso nota la decisione con un video sui social",
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Venerdì nero per le Borse, l’Europa apre in rosso. A picco i titoli in Asia, affonda il Nasdaq (-5%)",
+      "url": "https://www.lastampa.it/economia/2026/11/06/diretta/borse_mondiali_oggi_diretta_mercati-15789941/",
+      "excerpt": "I mercati azionari globali oggi arretrano per il timore che la schiacciante vittoria dei Democratici alle elezioni di medio termine possa preannunciare un rallentamento del boom dell'intelligenza artificiale",
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Il freno dem all’Ai e l'incognita Trump: perché i mercati stanno cedendo",
+      "url": "https://www.lastampa.it/economia/2026/11/06/news/il_freno_dem_all_ai_e_l_incognita_trump_perche_i_mercati_stanno_cedendo-15790049/",
+      "excerpt": "Tesla -10 per cento, Space X -8, Palantir -9, Amazon -3, Apple -1,5 per cento. Il termometro delle elezioni di metà mandato",
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Alec Ross: “L’opposizione ai data center è reale, gli americani hanno paura per ambiente e lavoro”",
+      "url": "https://www.lastampa.it/economia/2026/11/06/news/alec_ross_un_voto_contro_trump_ma_l_opposizione_ai_data_center_e_reale-15789188/",
+      "excerpt": "Intervista all’esperto di innovazione docente della Bologna Business School: “Gli americani hanno votato contro Trump, non contro l’Ai. Ma ora potrebbe cambiare la geografia dei data center”",
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Birra e biscotti, la ricetta belga contro la crisi delle borse",
+      "url": "https://www.lastampa.it/economia/2026/11/06/news/birra_e_biscotti_la_ricetta_belga_contro_la_crisi_delle_borse-15790126/",
+      "excerpt": "Così Bruxelles vola al massimo storico, mentre Wall Street affonda",
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Malpensa, lo choc dei passeggeri: “Il nostro volo scortato dai militari”",
+      "url": "https://www.lastampa.it/cronaca/2026/11/06/news/malpensa_lo_choc_dei_passeggeri_il_nostro_volo_scortato_dai_militari-15789497/",
+      "excerpt": "«Ci ha avvisato la polizia: allarme bomba sul volo Wizz Air WMT4BX diretto a Varsavia». Nella torre di controllo di Malpensa i telefoni continuano a squillare. I ...",
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Neonazi, maschilisti, violenti. Il gruppo russo “Stato di maschi” che cavalca la guerra di Putin",
+      "url": "https://www.lastampa.it/esteri/2026/11/06/news/neonazi_maschilisti_violenti_il_gruppo_russo_stato_di_maschi_che_cavalca_la_guerra_di_putin-15789438/",
+      "excerpt": "Chi sono i russi che ieri hanno scritto le e-mail di allarme bomba. Fuorilegge dal 2021, ma operano come braccio armato del regime",
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "“Ansia e danni, è una situazione mai vista”",
+      "url": "https://www.lastampa.it/cronaca/2026/11/06/news/aerei_allarme_bomba_antonio_bordoni-15789473/",
+      "excerpt": "Antonio Bordoni, esperto di sicurezza aeronautica: “Difficile difendersi, temo una regìa informale”",
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Setta di Almese, sequestrati beni per 700 mila euro al guru. Così li teneva nascosti",
+      "url": "https://www.lastampa.it/torino/2026/11/06/news/setta_almese_guru_sequestro_beni_700_mila_euro-15790019/",
+      "excerpt": "Case, terreni, gioielli e orologi antichi: le donazioni delle vittime. Nel patrimonio sequestrato anche una casa rifugio per donne",
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Bus con quaranta studenti a bordo finisce fuori strada, panico nel Cuneese",
+      "url": "https://www.lastampa.it/cuneo/2026/11/06/news/cronaca_bus-15790055/",
+      "excerpt": "Attimi di paura questa mattina a Polonghera per un bus di linea carico di studenti e diretto a Saluzzo. All’altezza di una curva, all’ingresso di Polonghera, lungo la provinciale 663, il ...",
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Nascono i Maga italiani, duemila a Ferrara",
+      "url": "https://www.lastampa.it/politica/2026/11/06/news/maga_italiani_ferrara_colombini_duemila-15789992/",
+      "excerpt": "Il direttore d’orchestra Colombini: «Non siamo un partito politico ma oggi facciamo la storia»",
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Rubio pronto a dimettersi. Parte il duello con Vance per le presidenziali del 2028",
+      "url": "https://www.lastampa.it/esteri/2026/11/06/news/rubio_pronto_a_dimettersi_parte_il_duello_con_vance-15789541/",
+      "excerpt": "Il Segretario di Stato sfida il vicepresidente. E Trump non ha ancora deciso",
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Il dilemma dei repubblicani: limitare il presidente senza arrivare allo scontro",
+      "url": "https://www.lastampa.it/esteri/speciali/elezioni-midterm-2026/2026/11/06/news/usa_midterm_dilemma_repubblicani_limitare_il_presidente_senza_arrivare_scontro-15789486/",
+      "excerpt": "La sconfitta e l’instabilità di Trump peseranno sui prossimi due anni Con il Congresso a guida dem molti nel partito cercano un avvocato",
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Per Musk è la fine dell’impunità, la sinistra non si faccia intimidire",
+      "url": "https://www.lastampa.it/esteri/2026/11/06/news/naomi_klein_musk_democratici_capitalismo-15789915/",
+      "excerpt": "Il nuovo libro della saggista con Astra Taylor: «Thiel, Altman e Zuckerberg si credono degli dei»",
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Gli elettori puniscono la guerra all’Iran ma Hegseth rilancia: “Altri 350 miliardi al Pentagono”",
+      "url": "https://www.lastampa.it/esteri/2026/11/06/video/pete_hegseth_guerra_iran_350_miliardi_pentagono-15790124/",
+      "excerpt": "Democratici e Repubblicani attribuiscono anche alla guerra contro l’Iran e al conseguente aumento del prezzo dei carburanti la sconfitta del partito di Donald Trump alle elezioni di metà mandato, responsabilità riconosciuta dallo stesso presidente. Il capo del Pentagono Pete Hegseth difende invece il conflitto come un’",
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Se il lavoro non basta per sopravvivere, a Milano esplode il fenomeno “working poor”",
+      "url": "https://www.lastampa.it/cronaca/2026/11/06/news/milano_poverta_working_poor_operazione_pane_numeri-15789360/",
+      "excerpt": "Nel capoluogo lombardo la percentuale di chi scivola nella povertà anche se può contare su un reddito mensile è al 30%, quella nazionale al 17%",
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Da Elio e le Storie tese ai Gialappi: i migliori Dopofestival sono sempre i Controfestival",
+      "url": "https://www.lastampa.it/spettacoli/2026/11/06/news/sanremo_migliori_dopofestival_controfestival_elio_storie_tese_gialappi-15790096/",
+      "excerpt": "Negli anni è stato salotto, tribunale, ring: ma l’edizione 2027 istituzionalizza gli sberleffi a Sanremo rimasti a lungo clandestini",
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Hepeating: la parola nuova che racconta come le donne vengono messe da parte sul lavoro",
+      "url": "https://www.lastampa.it/cronaca/2026/11/06/news/hepeating_significato_idee_donne_lavoro-15790061/",
+      "excerpt": "Sai quando proponi qualcosa, nessuno ti ascolta, e poi un collega ripete la stessa identica frase e diventa l'eroe della riunione? Adesso ha un nome. E gli studi di psicologia sociale confermano: non è una tua impressione. Ecco cosa fare",
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Lidia Macchi, 29 coltellate e 39 anni senza giustizia: il mistero della scout uccisa a 20 anni",
+      "url": "https://www.lastampa.it/cronaca/2026/11/06/news/il_caso_di_lidia_macchi_uccisa_con_29_coltellate_dopo_circa_40_anni_ancora_nessun_colpevole-15789904/",
+      "excerpt": "Il cadavere della studentessa universitaria, scomparsa il 5 gennaio 1987 dopo aver fatto visita a un’amica all’ospedale di Cittiglio, venne ritrovato in una zona isolata nei pressi di Varese",
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Kimi Antonelli: “Non spendo mai tutta la paghetta. Ferrari? Tra molto tempo chissà”",
+      "url": "https://www.lastampa.it/sport/2026/11/06/news/kimi_antonelli_paghetta_ferrari-15789610/",
+      "excerpt": "Il campione del mondo: «Mercedes ha creduto in me, non mi vedo altrove»",
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Juve, il sogno Calhanoglu tra rinnovo con l’Inter e l’addio a zero",
+      "url": "https://www.lastampa.it/sport/2026/11/06/news/caso_calhanoglu_tra_rinnovo_con_l_inter_e_l_addio_a_zero_como_juve_e_turche_alla_finestra-15789565/",
+      "excerpt": "Il centrocampista è in scadenza di contratto, lui chiede un trattamento da top player, il club nerazzurro prende tempo. Fabregas e Carnevali sognano il colpaccio a giugno, ma Galatasaray e Fenerbahçe sono pronte a tutto",
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Israele, Eisenkot supera Netanyahu ma il governo resta un rebus: Lieberman può sbloccare la partita",
+      "url": "https://www.lastampa.it/esteri/2026/11/06/news/israele_consultazioni_eisenkot_netanyahu_herzog_incarico-15790009/",
+      "excerpt": "Domenica Herzog affiderà l’incarico. Il presidente preoccupato dai veti incrociati. La destra laica di Lieberman apre agli ultraortodossi",
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Washington, l’Arco di Trump fermato da un giudice federale",
+      "url": "https://www.lastampa.it/esteri/2026/11/06/news/washington_arco_trump_stop_giudice_federale-15789947/",
+      "excerpt": "Le dimensioni imponenti ostruirebbero la vista tra il Lincoln Memorial e il Cimitero Nazionale di Arlington",
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Paraguay, il crac di Ueno diventa un terremoto politico: si dimette il presidente",
+      "url": "https://www.lastampa.it/esteri/2026/11/06/news/caos_paraguay_si_dimette_il_presidente-15789925/",
+      "excerpt": "Risparmi congelati e proteste nelle strade per il blocco dei conti della banca digitale di cui il presidente paraguaiano, alleato di Trump, ha dichiarato di essere stato azionista indiretto fino al 2025. Peña perde anche il sostegno del Partido Colorado. La Camera vota all’unanimità la messa in stato d’accusa",
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Manovra, la resa dei conti tra Salvini e Giorgetti",
+      "url": "https://www.lastampa.it/politica/2026/11/06/news/manovra_la_resa_dei_conti_tra_salvini_e_giorgetti-15789929/",
+      "excerpt": "Lega in fibrillazione, la riconferma del leader al congresso non placa le tensioni",
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "La sfida tra cultura e ignoranza, Parma e la destra sulla remigrazione",
+      "url": "https://www.lastampa.it/politica/2026/11/06/news/parma_manifestazione_remigrazione_estrema_destra-15789957/",
+      "excerpt": "Lo storico dell’arte di fama internazionale Quintavalle: «La paura del diverso risale alla notte dei tempi. Ma spero che la città risponda mobilitandosi nella manifestazione antifascista»",
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Tour di Bob Dylan in Italia, è boom di biglietti falsi",
+      "url": "https://www.lastampa.it/cronaca/2026/11/06/news/tour_di_bob_dylan_in_italia_e_boom_di_biglietti_falsi-15790001/",
+      "excerpt": "Dopo il concerto di Roma si moltiplicano le segnalazioni di truffe da parte dei fan rimasti fuori dal Palazzetto. Due piattaforme nel mirino",
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Russell Brand va in carcere: colpevole di stupro e tre aggressioni sessuali",
+      "url": "https://www.lastampa.it/esteri/2026/11/06/news/russell_brand_va_in_carcere_colpevole_di_stupro_e_tre_aggressioni_sessuali-15789918/",
+      "excerpt": "Respinta la cauzione per l'attore e conduttore britannico, ex marito di Katy Perry: resterà in custodia fino alla sentenza di lunedì",
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Tutti i mondi del Torino Film Festival",
+      "url": "https://www.lastampa.it/spettacoli/2026/11/06/news/tutti_i_mondi_del_tff-15789461/",
+      "excerpt": "Nel cartellone spiccano le presenze femminili Giulio Base: “Teniamo insieme glamour e cinefilia”",
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Perché la legge contro gli stupri è bloccata al Senato: lo scontro sul consenso che divide la politica",
+      "url": "https://www.lastampa.it/politica/2026/11/06/news/ddl_stupri_consenso_senato_camera-15789998/",
+      "excerpt": "La Camera approvò all’unanimità nel novembre 2025, poi le complicazioni",
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Prato Nevoso si risveglia sotto 40 centimetri di neve: le immagini della prima nevicata",
+      "url": "https://www.lastampa.it/cuneo/2026/11/06/video/prato_nevoso_prima_nevicata_40_cm_neve-15789977/",
+      "excerpt": "La prima abbondante nevicata ha ricoperto Prato Nevoso, nel Cuneese, con circa 40 centimetri di neve. Le immagini diffuse dalla Snow Academy mostrano il comprensorio completamente imbiancato: uno scenario già pienamente invernale che accresce l’attesa per l’apertura della stagione sciistica.",
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Conto corrente base gratuito per pensionati e redditi bassi, via entro fine novembre: a chi spetta",
+      "url": "https://www.lastampa.it/tuttosoldi/2026/11/06/news/conto_corrente_base_gratuito_per_pensionati_e_redditi_bassi_via_entro_fine_novembre_a_chi_spetta-15790036/",
+      "excerpt": "La Banca d’Italia ha evidenziato che le banche e gli altri enti prestatori di servizi sono tenuti per legge a proporre il prodotto a chi ne ha diritto entro la fine di questo mese. Come funziona",
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Dazi, dopo la sconfitta di Trump gli Usa cambieranno rotta? Il vino italiano spera nella svolta",
+      "url": "https://www.lastampa.it/economia/2026/11/06/news/il_boomerang_dei_dazi_usa_su_vini_e_liquori_trump_ci_ripensa-15790101/",
+      "excerpt": "Nei primi 8 mesi crollo verticale delle importazioni dei nostri prodotti e inflazione Usa in forte aumento. Federvini: «Un danno anche per la loro economia, utile ora una distensione dei rapporti»",
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Lo Champagne Duval-Leroy alla corte di Bottura: cucina, arte e grandi cuvée",
+      "url": "https://www.lastampa.it/cronaca/2026/11/06/news/fuori_menu_champagne_duval_leroy_bottura_pescarmona_torino-15788248/",
+      "excerpt": "Tra crisi dei consumi e nuove esperienze, la bolla francese punta su cultura, ristorazione e mercati asiatici",
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Tre calciatori del Bra condannati, l’ex presidente del club: “La giustizia ha fatto il suo corso”",
+      "url": "https://www.lastampa.it/cuneo/2026/11/06/news/tre_calciatori_del_bra_condannati_l_ex_presidente_del_club_la_giustizia_ha_fatto_il_suo_corso-15789442/",
+      "excerpt": "In pochi, a Bra, hanno voglia di ricordare quel giorno di festa: i sorrisi e l’euforia per la vittoria tanto inseguita dalla squadra sono stati cancellati dalla bufera giudiziaria che ha ...",
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Addio a Luigina Verdi, staffetta partigiana di Gravellona: è morta a 103 anni",
+      "url": "https://www.lastampa.it/verbano-cusio-ossola/2026/11/06/news/gravellona_morta_staffetta_partigiana_luigina_verdi-15789584/",
+      "excerpt": "Una vita tra lavoro e Resistenza, accanto alla sorella Santina. Aiutò i partigiani con indumenti di lana e avvisava dell’arrivo di fascisti e tedeschi.",
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
       "title": "Askatasuna, tra i violenti spunta “l’uomo della trave” che assaltò il Defender durante il G8",
       "url": "https://www.lastampa.it/cronaca/2026/11/06/news/askatasuna_tra_i_violenti_spunta__l_uomo_della_trave_che_assalto_il_defender_durante_il_g8-15789239/",
       "excerpt": "Il gip ha disposto il divieto di dimora per Massimiliano Monai che assaltò il mezzo dei carabinieri da cui un miltare sparò a Carlo Giuliani",
-      "publishedAt": "2026-11-05T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Allarmi bomba su 25 voli europei. Nel mirino anche l’Italia. Tajani: guerra ibrida, gruppi filorussi",
-      "url": "https://www.lastampa.it/esteri/2026/11/05/news/allarme_bomba_volo_dublino_milano-15788765/",
-      "excerpt": "Disagi in vari scali e aerei costretti a cambiare rotta. Spunta una mail di rivendicazione scritta in italiano",
-      "publishedAt": "2026-11-05T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Allarme bomba sul volo per Roma: i caccia affiancano l’aereo Finnair e lo scortano",
-      "url": "https://www.lastampa.it/cronaca/2026/11/05/video/finnair_roma_fiumicino_allarme_bomba_caccia_scorta_volo_helsinki-15789397/",
-      "excerpt": "I caccia dell’Aeronautica militare affiancano in volo l’aereo Finnair diretto a Roma: le immagini diffuse dalla forza armata mostrano la scorta dopo una segnalazione di bomba a bordo. Il volo AY1761, partito da Helsinki, atterra regolarmente a Fiumicino nella mattinata di giovedì 5 novembre. Secondo la compagnia, i con",
-      "publishedAt": "2026-11-05T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "“I jet militari dal finestrino e l’atterraggio d’emergenza, abbiamo pensato a un attentato”",
-      "url": "https://www.lastampa.it/cronaca/2026/11/05/news/i_jet_militari_dal_finestrino_e_l_atterraggio_d_emergenza_abbiamo_pensato_a_un_attentato-15788945/",
-      "excerpt": "Le testimonianze dei passeggeri dei voli interessati dagli allarmi bomba",
-      "publishedAt": "2026-11-05T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Giravolta di Trump: “Le nostre elezioni sono truccate”. Rubio pronto a dimettersi",
-      "url": "https://www.lastampa.it/esteri/speciali/elezioni-midterm-2026/2026/11/05/diretta/onda_dem_vance_colpa_della_guerra_in_iran-15788599/",
-      "excerpt": "Nel partito in molti si stanno rivoltando contro il segretario alla Difesa e pensano all’impeachment, il presidente lo difende",
-      "publishedAt": "2026-11-05T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "L’inviato di Putin alla Casa Bianca: “Melania fondamentale”. Trump: accordo Russia-Ucraina vicino",
-      "url": "https://www.lastampa.it/esteri/2026/11/06/diretta/guerra_russia_ucraina_news_oggi-15789619/",
-      "excerpt": "La premier Meloni scrive al presidente del Consiglio europeo, Antonio Costa: «L’Europa cambi strategia nella gestione del dossier Ucraina»",
-      "publishedAt": "2026-11-05T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Inchieste sui tecnocrati e limiti all’Ai. I dem preparano la loro “vendetta”",
-      "url": "https://www.lastampa.it/esteri/speciali/elezioni-midterm-2026/2026/11/05/news/iran_o_azzoppare_trump_sulla_corruzione_le_divisioni_dei_dem_nell_agenda_legislativa-15789483/",
-      "excerpt": "Chuck Schumer, numero uno dei democratici al Senato, ha lanciato un’idea: presentare il giorno dell’insediamento del nuovo Congresso, il 3 gennaio, una proposta di legge per togliere i finanziamenti al conflitto in Iran",
-      "publishedAt": "2026-11-05T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "La Juve vince ad Alkmaar, domina nel primo tempo ma soffre e rischia nel finale",
-      "url": "https://www.lastampa.it/sport/2026/11/05/news/la_juve_vince_ad_alkmaar_domina_nel_primo_tempo_ma_soffre_e_rischia_nel_finale-15789607/",
-      "excerpt": "A Teun il derby dei Koopmeiners, segna anche Kolo Muani. I bianconeri salgono a quota 10",
-      "publishedAt": "2026-11-05T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Colori accesi, pesi di piombo e fodere interne antisudore: 5 segreti sul guardaroba di Elisabetta II",
-      "url": "https://www.lastampa.it/viaggi/2026/11/05/news/regina_elisabetta_segreti_guardaroba_mostra_buckingham_palace-15788705/",
-      "excerpt": "Nelle sale della The King’s Gallery di Buckingham Palace la mostra “Queen Elizabeth II: Her Life in Style” svela i retroscena tecnici, diplomatici e umani che si celavano dietro gli abiti della sovrana più longeva della storia britannica",
-      "publishedAt": "2026-11-05T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Etxebarri è il miglior ristorante del mondo. Il premio Best Female Chef 2026 va a Jessica Rosval",
-      "url": "https://www.lastampa.it/cronaca/2026/11/05/news/asador_etxebarri_miglior_ristorante_mondo_50_best_restaurants-15788639/",
-      "excerpt": "Il verdetto, annunciato durante la cerimonia di premiazione svoltasi a Lima, in Perù, celebra una filosofia culinaria incentrata interamente sulla brace",
-      "publishedAt": "2026-11-05T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Da Delon e Belmondo alla conquista della Cina: la nuova vita di Borsalino, il cappello nato ad Alessandria",
-      "url": "https://www.lastampa.it/speciale/economia/nordovest-economia/2026/11/05/news/da_delon_e_belmondo_alla_della_cina_la_nuova_vita_di_borsalino_il_cappello_nato_ad_alessandria-15786109/",
-      "excerpt": "Così il marchio d’origine piemontese, parte della holding ChimHaeres, sta lavorando a una fase di sviluppo",
-      "publishedAt": "2026-11-05T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Sconfitta di Trump oltre le attese, ma il mondo Maga non scomparirà d’incanto",
-      "url": "https://www.lastampa.it/esteri/2026/11/05/news/richard_ford_sconfitta_di_trump_oltre_le_attese_ma_il_mondo_maga_non_scomparira_d_incanto-15788663/",
-      "excerpt": "Lo scrittore americano sulle midterm: “Una battaglia, non la guerra”. Il voto segna il rigetto della politica, dell’etica e dell’estetica del Tycoon. Ora i democratici devono trovare un leader: Ossoff il più interessante",
-      "publishedAt": "2026-11-05T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Violenza sessuale di gruppo, condannati i tre ex calciatori del Bra",
-      "url": "https://www.lastampa.it/cuneo/2026/11/05/news/violenza_sessuale_condannati_calciatori_bra-15789111/",
-      "excerpt": "I fatti risalgono alla sera del 30 maggio 2025: 4 anni e 2 mesi a Fausto Perseu e Alessio Rosa, 3 anni e 8 mesi Christ Jesus Mawete",
-      "publishedAt": "2026-11-05T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Il governo impugna la legge veneta sul fine vita, scontro nella maggioranza: Salvini non vota in Cdm",
-      "url": "https://www.lastampa.it/politica/2026/11/05/news/legge_fine_vita_salvini_lega_astensione_cdm-15789155/",
-      "excerpt": "Il ministro per gli Affari regionali Roberto Calderoli si è invece espresso contro l'impugnazione",
-      "publishedAt": "2026-11-05T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "La Torino-Milano si rifà il look e raccoglierà l’acqua piovana: interventi per 71,5 milioni",
-      "url": "https://www.lastampa.it/torino/2026/11/05/news/torino_milano_autostrada_interventi_lavori-15789142/",
-      "excerpt": "Secondo i bilanci Satap nel 2025 i transiti sono stati 46,1 milioni, circa 126 mila al giorno",
-      "publishedAt": "2026-11-05T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Rai, Sanremo 2027: il ControFestival alla Gialappa’s Band",
-      "url": "https://www.lastampa.it/spettacoli/2026/11/05/news/rai_sanremo_controfestival_gialappa_s_band-15789507/",
-      "excerpt": "Lo annuncia Stefano De Martino al Tg1: al posto del DopoFestival arriva il ControFestival",
-      "publishedAt": "2026-11-05T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Si rifiuta di mettere l’ananas sulla pizza: chef italiano licenziato in Australia",
-      "url": "https://www.lastampa.it/esteri/2026/11/05/news/australia_chef_italiano_licenziato_rifiuta_ananas_pizza_brisbane-15788864/",
-      "excerpt": "Davide Tamburella: «Un insulto alla mia cultura»",
-      "publishedAt": "2026-11-05T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Saluti romani e maglie con Mussolini: gli ultrà ungheresi in piazza Duomo prima della partita",
-      "url": "https://www.lastampa.it/milano/2026/11/05/video/ultra_ungheresi_milano_saluti_romani_maglie_mussolini_duomo-15789144/",
-      "excerpt": "Cori, salti e saluti romani. Così gli ultrà ungheresi del Ferencvàros, squadra di Budapest, trascorrono il pomeriggio in piazza del Duomo a Milano prima del trasferimento in metropolitana a San Siro dove alle 18.45 è in programma la partita di Europa League contro il Milan. Alcuni delle centinaia di supporter indossano",
-      "publishedAt": "2026-11-05T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Il Parlamento Ue ci ripensa: niente stop ai motori termici nel 2035",
-      "url": "https://www.lastampa.it/motori/2026/11/05/news/carburanti_sintetici_e_bio_fermano_lo_stop_ai_motori_termici_nel_2035_il_parlamento_ue_ci_ripensa-15788798/",
-      "excerpt": "La commissione Ambiente approva la revisione con 48 voti favorevoli. Cambiano gli obiettivi sulle emissioni, incentivi alle piccole elettriche prodotte in Europa",
-      "publishedAt": "2026-11-05T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Mancini conferma il blocco-Italia e chiama altri 4 giovani: Cisse, Liberali, Cassano e Lontani",
-      "url": "https://www.lastampa.it/sport/2026/11/05/news/italia_convocati_mancini_francia_belgio-15789413/",
-      "excerpt": "Il ct della Nazionale convoca 31 calciatori per le due sfide di Nations League contro Francia e Belgio: ritornano Palestra e Dimarco, ancora fuori Retegui",
-      "publishedAt": "2026-11-05T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Ferrari, Hamilton e Leclerc alla resa dei conti in Brasile",
-      "url": "https://www.lastampa.it/sport/2026/11/05/news/ferrari_hamilton_e_leclerc_alla_resa_dei_conti_in_brasile-15789580/",
-      "excerpt": "Lewis: «Charles più aggressivo con me, faceva lo stesso con Vettel e Sainz»",
-      "publishedAt": "2026-11-05T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Addio Jones, il duro che disse no alla Ferrari",
-      "url": "https://www.lastampa.it/sport/2026/11/05/news/alan_jones_morto_f1_pilota_australiano-15788904/",
-      "excerpt": "Lo sport piange il pilota australiano: vinse il Mondiale di Formula 1 con la Williams e due volte sfiorò la Rossa",
-      "publishedAt": "2026-11-05T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Cristiano Ronaldo si ritira dal Portogallo a 41 anni: “Volevo solo essere il migliore”",
-      "url": "https://www.lastampa.it/sport/2026/11/05/news/cristiano_ronaldo_ritiro_nazionale_portogallo_41_anni-15788869/",
-      "excerpt": "Con un video sui social CR7 chiude la sua leggendaria carriera con la nazionale portoghese: «Ho voluto essere il migliore, grazie per aver creduto in me»",
-      "publishedAt": "2026-11-05T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Perché novembre è il migliore mese per viaggiare e comprare biglietti scontati fino al 50%",
-      "url": "https://www.lastampa.it/viaggi/2026/11/05/news/novembre_mese_migliore_viaggiare_offerte_biglietti_scontati-15788712/",
-      "excerpt": "La selezione mostra come le occasioni di novembre non riguardino soltanto le fughe invernali: accanto alle mete al caldo e ai soggiorni benessere ci sono già proposte per la primavera e per l’estate 2027",
       "publishedAt": "2026-11-05T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -198,97 +289,6 @@
       "excerpt": "Le fiamme raggiungono il tetto della Camera di Commercio di Messina, dove è crollata parte della copertura. Il rogo è scoppiato intorno alle 15 di giovedì 5 novembre, ai piani superiori dello storico palazzo in piazza Felice Cavallotti. Il personale ha dato l’allarme e l’edificio è stato evacuato: al momento non si seg",
       "publishedAt": "2026-11-05T00:00:00Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Il vecchio video del padre della sergente morta in Bosnia: “Noi ci salutavamo così, ciao Lauretta”",
-      "url": "https://www.lastampa.it/cronaca/2026/11/05/video/laura_procacci_padre_saluto_militare_elicottero_bosnia-15788673/",
-      "excerpt": "Laura Procacci, 32 anni, sergente del Corpo militare volontario della Croce Rossa italiana e laureanda in Medicina, è una delle quattro vittime dello schianto di un elicottero militare CH-47 avvenuto in Bosnia-Erzegovina. Il velivolo, impegnato in un’attività addestrativa nell’ambito della missione europea Eufor Althea",
-      "publishedAt": "2026-11-05T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Prima la lite, poi gli spari in discoteca a Catania: le telecamere riprendono la sequenza",
-      "url": "https://www.lastampa.it/cronaca/2026/11/05/video/catania_spari_discoteca_industrie_video_arrestato_19enne_tentato_omicidio-15789346/",
-      "excerpt": "Una discussione, poi gli spari e la fuga tra le persone con la pistola ancora in mano: è la sequenza ricostruita dai carabinieri attraverso le telecamere della discoteca Industrie di Catania. Per la sparatoria della notte tra il 24 e il 25 ottobre è stato arrestato Francesco Cuntró, 19 anni, accusato di tentato omicidi",
-      "publishedAt": "2026-11-05T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Schiaffi e strattoni ai bambini dell'asilo: i filmati delle telecamere che incastrano la direttrice",
-      "url": "https://www.lastampa.it/cronaca/2026/11/05/video/schiaffi_e_strattoni_ai_bambini_dellasilo_i_filmati_delle_telecamere_che_incastrano_la_direttrice-15789026/",
-      "excerpt": "La direttrice 55enne di un asilo di Monza è accusata di avere ripetutamente aggredito i bambini con schiaffi, strattoni e percosse. L’indagine, avviata dopo le denunce di alcuni genitori, si è avvalsa delle telecamere installate nella struttura: il 26 ottobre avrebbero ripreso la donna mentre colpiva una bambina al vol",
-      "publishedAt": "2026-11-05T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Manovra, cresce la polemica: il mondo della scuola in piazza l’11 novembre contro i tagli",
-      "url": "https://www.lastampa.it/cronaca/2026/11/05/news/manovra_scuola_protesta_11_novembre_tagli_legge_bilancio-15788858/",
-      "excerpt": "L’iter della legge di Bilancio non è ancora iniziato ma già si moltiplicano le proteste. Il malumore per le scelte fatte dal governo è forte ed attraversa anche il centrodestra",
-      "publishedAt": "2026-11-05T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Pensioni, la beffa della nuova Quota 100: quanto perde chi va a 64 anni",
-      "url": "https://www.lastampa.it/economia/2026/11/05/news/pensioni_beffa_quota_100_64_anni-15788531/",
-      "excerpt": "Rifinanziato il bonus del governo ma nel 2025 solo settemila italiani sono rimasti al lavoro",
-      "publishedAt": "2026-11-05T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Due cuori e una Multipla: “Tra i borghi in cerca di nonni per salvare la loro memoria”",
-      "url": "https://www.lastampa.it/cronaca/2026/11/05/news/due_cuori_e_una_multipla_tra_i_borghi_in_cerca_di_nonni_per_salvare_la_loro_memoria-15788482/",
-      "excerpt": "Il viaggio di una giovane coppia: «Gli anziani un patrimonio da difendere»",
-      "publishedAt": "2026-11-05T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Dalla Torino-Lione al Terzo valico, i ritardi delle grandi opere ora spaventano il Piemonte",
-      "url": "https://www.lastampa.it/cronaca/2026/11/05/news/dalla_torino-lione_al_terzo_valico_i_ritardi_delle_grandi_opere_che_spaventano_il_piemonte-15788467/",
-      "excerpt": "Costi lievitati e tempi incerti: «La colpa è anche degli assalti No Tav»",
-      "publishedAt": "2026-11-05T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Semplificazione amministrativa, il motore che fa crescere il Paese",
-      "url": "https://www.lastampa.it/economia/2026/11/05/news/semplificazione_amministrativa_il_motore_che_fa_crescere_il_paese-15789102/",
-      "excerpt": "Lunedì l’incontro alle Ogr con il ministro Zangrillo, gli esperti di digitalizzazione e i rappresentanti delle imprese",
-      "publishedAt": "2026-11-05T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Marguerettaz eletto presidente della Valle d’Aosta. E in Consiglio arriva un voto in più",
-      "url": "https://www.lastampa.it/aosta/2026/11/05/news/marguerettaz_eletto_presidente_con_un_voto_in_piu-15789527/",
-      "excerpt": "Varata la nuova giunta; la richiesta del voto segreto fatta dall’opposizione si è rivelata un boomerang",
-      "publishedAt": "2026-11-05T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Il falso carabiniere girava in taxi: arrestato dai veri militari. Aveva refurtiva per 20 mila euro",
-      "url": "https://www.lastampa.it/cuneo/2026/11/05/news/il_falso_carabiniere_girava_in_taxi-15789255/",
-      "excerpt": "Fermato a Verzuolo. Recuperati oro e oggetti preziosi oltre a 1.600 euro in contanti. L’uomo, un campano di 34 anni, è stato trasferito in carcere a Cuneo",
-      "publishedAt": "2026-11-05T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Novara, scoperti 53 kg di hashish contaminata da cannabinoidi sintetici: “Effetti più gravi”",
-      "url": "https://www.lastampa.it/novara/2026/11/05/news/novara_hashish_cannabinoidi_sintetici_effetti_gravi_polizia_procura-15788861/",
-      "excerpt": "Le indagini della Guardia di finanza coordinate dalla Procura, in sinergia con la polizia: “Si rischiano gravi conseguenze per la salute”",
-      "publishedAt": "2026-11-05T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Apre a Novara la casa-rifugio di Laps, la fondazione di Lapo Elkann che aiuta le donne",
-      "url": "https://www.lastampa.it/novara/2026/11/05/news/novara_casa-rifugio_laps_fondazione_lapo_elkann-15788322/",
-      "excerpt": "Approvata dal Comune la proposta: saranno accolte donne vittime di violenza. Sarà la prima struttura dell’ente filantropico in Italia",
-      "publishedAt": "2026-11-05T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "“Ristoratori, frenate i prezzi del vino”: la sfida dei produttori contro la crisi",
-      "url": "https://www.lastampa.it/asti/2026/11/05/news/asti_ristoratori_frenate_prezzi_vino_sfida_produttori_contro_crisi-15788274/",
-      "excerpt": "Da Asti la provocazione anti-ricarichi: “Giusto un 10 percento, oltre si danneggia il mercato”",
-      "publishedAt": "2026-11-05T00:00:00Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -302,5 +302,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 0.78
+  "durationSeconds": 1.38
 }

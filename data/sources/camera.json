@@ -4,19 +4,12 @@
   "sourceId": "camera",
   "originUrl": "https://www.camera.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-05T23:51:44.660469Z",
+  "collectedAt": "2026-11-06T09:55:44.221157Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
-    {
-      "title": "Stati generali dei garantisti - Venerdì alle 10.30 diretta webtv - Interviene Mulè",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63876",
-      "excerpt": "Venerdì 6 novembre, alle ore 10.30, presso la Sala del Refettorio di Palazzo San Macuto si svolge i...",
-      "publishedAt": "2026-11-05T00:00:00Z",
-      "dateEvidence": "html:publication-label"
-    },
     {
       "title": "Copasir, audizione Crosetto – Martedì alle 15",
       "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63892",
@@ -25,9 +18,16 @@
       "dateEvidence": "html:publication-label"
     },
     {
+      "title": "Stati generali dei garantisti - Venerdì alle 10.30 diretta webtv - Interviene Mulè",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63876",
+      "excerpt": "Venerdì 6 novembre, alle ore 10.30, presso la Sala del Refettorio di Palazzo San Macuto si svolge i...",
+      "publishedAt": "2026-11-05T00:00:00Z",
+      "dateEvidence": "html:publication-label"
+    },
+    {
       "title": "Svolgimento di interpellanze urgenti",
       "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63871",
-      "excerpt": "La Camera è convocata venerdì 6 novembre alle ore 9.30 per lo svolgimento di interpellanze urgent...",
+      "excerpt": "In Aula alle ore 9.30 lo svolgimento di interpellanze urgenti (vedi allegato). Nella seduta di gi...",
       "publishedAt": "2026-11-05T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
@@ -63,11 +63,11 @@
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63876",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63892",
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63892",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63876",
       "status": 200
     },
     {
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://comunicazione.camera.it/archivio-prima-pagina",
-  "durationSeconds": 4.21
+  "durationSeconds": 4.28
 }

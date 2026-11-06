@@ -4,7 +4,7 @@
   "sourceId": "senato",
   "originUrl": "https://www.senato.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-05T23:52:51.118393Z",
+  "collectedAt": "2026-11-06T09:57:03.832005Z",
   "status": "no_feed",
   "diagnosticCode": "parsing_error",
   "method": "crawl4ai",
@@ -25,5 +25,5 @@
   "candidateCount": 0,
   "datedCount": 0,
   "listingUrl": "https://www.senato.it/attualita/archivio-notizie",
-  "durationSeconds": 0.52
+  "durationSeconds": 0.51
 }
