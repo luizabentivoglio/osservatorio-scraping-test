@@ -4,31 +4,31 @@
   "sourceId": "il-post",
   "originUrl": "https://www.ilpost.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-06T17:42:49.895784Z",
+  "collectedAt": "2026-11-06T23:33:24.926328Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
-      "title": "Sono stati disposti i domiciliari per Gaetano Armao, ex vicepresidente della Sicilia accusato di corruzione",
-      "url": "https://www.ilpost.it/2026/11/06/arresti-domiciliari-gaetano-armao-sicilia-corruzione/?bitPosition=1",
-      "excerpt": "Sono stati disposti i domiciliari per Gaetano Armao, ex vicepresidente della Sicilia accusato di corruzione - Condividi - X - Regala il Post La giudice per le indagini preliminari (gip) di Palermo Giuseppa Zampino ha disposto gli arresti domiciliari per Gaetano Armao, influente politico siciliano indagato per corruzion",
-      "publishedAt": "2026-11-06T16:27:43Z",
+      "title": "Il presidente del Paraguay Santiago Peña, che era sotto impeachment, è stato destituito",
+      "url": "https://www.ilpost.it/2026/11/06/presidente-paraguay-santiago-pena-impeachment-destituito/?bitPosition=1",
+      "excerpt": "Il presidente del Paraguay Santiago Peña, che era sotto impeachment, è stato destituito - Condividi - X - Regala il Post Il presidente di destra del Paraguay Santiago Peña è stato rimosso dal suo incarico: dopo la Camera, anche il Senato ha votato all’unanimità per la sua destituzione. Peña era sotto impeachment per vi",
+      "publishedAt": "2026-11-06T21:24:55Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "Il padre di Meghan Markle è stato arrestato con l’accusa di possesso di materiale pedopornografico",
-      "url": "https://www.ilpost.it/2026/11/06/thomas-markle-padre-meghan-arrestato-pedoporografia/?bitPosition=2",
-      "excerpt": "Il padre di Meghan Markle è stato arrestato con l’accusa di possesso di materiale pedopornografico - Condividi - X - Regala il Post Thomas Markle, padre di Meghan Markle, è stato arrestato per accuse di possesso di materiale pedopornografico. La figlia aveva rotto i rapporti con lui nel 2018, e recentemente aveva detto",
-      "publishedAt": "2026-11-06T14:59:24Z",
+      "title": "Trump ha nominato Stephen Miller capo di gabinetto della Casa Bianca",
+      "url": "https://www.ilpost.it/2026/11/06/stephen-miller-nuovo-capo-di-gabinetto-casa-bianca-chief-of-staff/?bitPosition=2",
+      "excerpt": "Trump ha nominato Stephen Miller capo di gabinetto della Casa Bianca - Condividi - X - Regala il Post In un post sulla sua piattaforma social Truth, il presidente degli Stati Uniti Donald Trump ha annunciato la nomina di Stephen Miller a capo di gabinetto (chief of staff) della Casa Bianca. Miller, che finora era vicec",
+      "publishedAt": "2026-11-06T19:05:40Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "È stata aperta un’indagine contro ignoti per gli allarmi bomba all’aeroporto di Malpensa di giovedì",
-      "url": "https://www.ilpost.it/2026/11/06/indagine-ignoti-allarme-bomba-malpensa/?bitPosition=3",
-      "excerpt": "È stata aperta un’indagine contro ignoti per gli allarmi bomba all’aeroporto di Malpensa di giovedì - Condividi - X - Regala il Post Venerdì la procura di Busto Arsizio ha aperto un’indagine per procurato allarme per gli allarmi bomba che giovedì hanno coinvolto almeno due voli in arrivo all’aeroporto di Milano Malpens",
-      "publishedAt": "2026-11-06T14:40:39Z",
+      "title": "Secondo la Commissione europea, TikTok non fa abbastanza per proteggere gli utenti vulnerabili dai “rabbit hole” dannosi",
+      "url": "https://www.ilpost.it/2026/11/06/commissione-europea-tiktok-valutazione-preliminare/?bitPosition=3",
+      "excerpt": "Secondo la Commissione europea, TikTok non fa abbastanza per proteggere gli utenti vulnerabili dai “rabbit hole” dannosi - Condividi - X - Regala il Post Secondo una valutazione preliminare della Commissione europea, TikTok violerebbe il Regolamento sui servizi digitali (Digital Services Act, o DSA) a causa dell’effett",
+      "publishedAt": "2026-11-06T18:30:55Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
@@ -75,15 +75,15 @@
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/06/arresti-domiciliari-gaetano-armao-sicilia-corruzione/?bitPosition=1",
+      "url": "https://www.ilpost.it/2026/11/06/presidente-paraguay-santiago-pena-impeachment-destituito/?bitPosition=1",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/06/thomas-markle-padre-meghan-arrestato-pedoporografia/?bitPosition=2",
+      "url": "https://www.ilpost.it/2026/11/06/stephen-miller-nuovo-capo-di-gabinetto-casa-bianca-chief-of-staff/?bitPosition=2",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/06/indagine-ignoti-allarme-bomba-malpensa/?bitPosition=3",
+      "url": "https://www.ilpost.it/2026/11/06/commissione-europea-tiktok-valutazione-preliminare/?bitPosition=3",
       "status": 200
     }
   ],
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.ilpost.it/",
-  "durationSeconds": 3.82
+  "durationSeconds": 3.57
 }

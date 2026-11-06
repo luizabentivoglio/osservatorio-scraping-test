@@ -11,7 +11,7 @@
 | cisl | blocked | html | 0 | robots_disallowed |
 | cnr | ok | rss | 20 | — |
 | coldiretti | ok | trafilatura | 3 | — |
-| commissione-europea | blocked | html | 0 | rate_limited |
+| commissione-europea | ok | trafilatura | 1 | — |
 | comune-bollate | ok | trafilatura | 5 | — |
 | confcommercio | blocked | html | 0 | access_restricted |
 | confindustria | ok | trafilatura | 1 | — |
@@ -38,7 +38,7 @@
 | ingv | ok | rss | 4 | — |
 | ispi | blocked | html | 0 | robots_disallowed |
 | ispra | ok | rss | 0 | — |
-| iss | ok | trafilatura | 0 | — |
+| iss | error | html | 0 | timeout |
 | istat | ok | rss | 10 | — |
 | istituto-bruno-leoni | ok | trafilatura | 5 | — |
 | italia-domani-rizzo | ok | trafilatura | 3 | — |
@@ -48,7 +48,7 @@
 | libera | ok | html | 1 | — |
 | mef | ok | trafilatura | 2 | — |
 | msf | ok | trafilatura | 6 | — |
-| osservatorio-cpi | ok | trafilatura | 5 | — |
+| osservatorio-cpi | ok | trafilatura | 6 | — |
 | oxfam | ok | trafilatura | 4 | — |
 | pagella-politica | ok | trafilatura | 6 | — |
 | palazzo-chigi | ok | rss | 10 | — |

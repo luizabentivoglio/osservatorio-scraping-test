@@ -4,12 +4,26 @@
   "sourceId": "osservatorio-cpi",
   "originUrl": "https://osservatoriocpi.unicatt.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-06T17:42:59.506871Z",
+  "collectedAt": "2026-11-06T23:33:36.363936Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "L’ulteriore espansione del regime forfettario a 100.000 euro",
+      "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/l-ulteriore-espansione-del-regime-forfettario-a-100000-euro.html",
+      "excerpt": "Una delle riforme contenute nella manovra finanziaria per il 2027 riguarda l’allargamento del regime forfettario alle partite IVA con fatturato fino a 100.000 euro. La proposta aggrava un’iniquità nel trattamento relativo dei lavoratori autonomi rispetto ai dipendenti e incentiva tre mali cronici dell’economia italiana",
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "dateEvidence": "html:article-header"
+    },
+    {
+      "title": "La legge di bilancio 2027-2029: un commento",
+      "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/la-legge-di-bilancio-2027-2029-un-commento.html",
+      "excerpt": "Il disegno di legge di bilancio prevede per il 2027 misure espansive per 26,3 miliardi, l’1,1% del Pil. Le risorse sono concentrate soprattutto su difesa ed energia, con aggiustamenti minori per sanità e detassazioni IRPEF.",
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "dateEvidence": "html:article-header"
+    },
     {
       "title": "Le dimensioni dello Stato italiano",
       "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/le-dimensioni-dello-stato-italiano.html",
@@ -37,13 +51,6 @@
       "excerpt": "I risultati dei test PISA 2025 confermano il calo delle competenze degli studenti nei Paesi OCSE. In Italia, il dato nazionale nasconde realtà molto diverse: persistono forti divari territoriali e tra indirizzi scolastici, legati anche alle condizioni economiche e sociali delle famiglie.",
       "publishedAt": "2026-10-28T00:00:00Z",
       "dateEvidence": "html:article-header"
-    },
-    {
-      "title": "L’evoluzione dei disavanzi sanitari delle Regioni a statuto ordinario",
-      "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/l-evoluzione-dei-disavanzi-sanitari-delle-regioni-a-statuto-ordinario.html",
-      "excerpt": "I disavanzi sanitari delle Regioni a statuto ordinario hanno mostrato un andamento ciclico dagli anni Ottanta al 2006. Da allora si sono ridotti fino al 2021, per poi tornare a crescere. Il miglioramento dal 2006 è dovuto all’adozione dei Piani di rientro. Per la prima volta nel 2023, le Regioni non sottoposte a Piano ",
-      "publishedAt": "2026-10-28T00:00:00Z",
-      "dateEvidence": "html:article-header"
     }
   ],
   "attempts": [
@@ -53,6 +60,14 @@
     },
     {
       "url": "https://osservatoriocpi.unicatt.it/pubblicazioni.html",
+      "status": 200
+    },
+    {
+      "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/l-ulteriore-espansione-del-regime-forfettario-a-100000-euro.html",
+      "status": 200
+    },
+    {
+      "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/la-legge-di-bilancio-2027-2029-un-commento.html",
       "status": 200
     },
     {
@@ -70,22 +85,12 @@
     {
       "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/rapporto-pisa-2025-la-scuola-italiana-va-meglio-della-media-ocse-ma-restano-forti-divari-interni.html",
       "status": 200
-    },
-    {
-      "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/l-evoluzione-dei-disavanzi-sanitari-delle-regioni-a-statuto-ordinario.html",
-      "status": 200
     }
   ],
-  "message": "5 notizie recenti con data verificata; copertura parziale.",
+  "message": "6 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [],
   "candidateCount": 12,
-  "datedCount": 5,
+  "datedCount": 6,
   "listingUrl": "https://osservatoriocpi.unicatt.it/pubblicazioni.html",
-  "durationSeconds": 5.73,
-  "attemptErrors": [
-    {
-      "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/l-ulteriore-espansione-del-regime-forfettario-a-100000-euro.html",
-      "code": "connection_error"
-    }
-  ]
+  "durationSeconds": 5.81
 }

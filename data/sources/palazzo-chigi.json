@@ -4,12 +4,19 @@
   "sourceId": "palazzo-chigi",
   "originUrl": "https://www.governo.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-06T17:43:05.237488Z",
+  "collectedAt": "2026-11-06T23:33:41.457069Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.governo.it/feed/rss",
   "items": [
+    {
+      "title": "Visita del Presidente Meloni alla 128ª edizione di Fieracavalli",
+      "url": "https://www.governo.it/it/articolo/visita-del-presidente-meloni-alla-128-edizione-di-fieracavalli/33049",
+      "excerpt": "Il Presidente del Consiglio, Giorgia Meloni, ha visitato a Verona la 128ª edizione di Fieracavalli.",
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "Il Presidente Meloni alla 83ª edizione di EICMA",
       "url": "https://www.governo.it/it/articolo/il-presidente-meloni-alla-83-edizione-di-eicma/33047",
@@ -72,13 +79,6 @@
       "excerpt": "Il Presidente del Consiglio, Giorgia Meloni, ha partecipato alla Cerimonia di deposizione di una corona d'alloro, da parte del Capo dello Stato, sulla Tomba del Milite Ignoto all'Altare della Patria, in occasione della Giornata dell’Unità Nazionale e delle Forze Armate.",
       "publishedAt": "2026-11-04T00:00:00Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Rinuncia della Svizzera al rimborso delle spese mediche dei feriti di Crans-Montana, la dichiarazione del Presidente Meloni",
-      "url": "https://www.governo.it/it/articolo/rinuncia-della-svizzera-al-rimborso-delle-spese-mediche-dei-feriti-di-crans-montana-la",
-      "excerpt": "Accolgo con grande soddisfazione la notizia, comunicatami dal Presidente Guy Parmelin, della rinuncia della Svizzera a chiedere il rimborso delle spese mediche dei feriti italiani della tragedia di Crans-Montana curati negli ospedali elvetici. Sono felice di questa soluzione: nessun onere ricadrà sulle famiglie o sull’",
-      "publishedAt": "2026-11-04T00:00:00Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -100,5 +100,5 @@
     }
   ],
   "message": "Feed dichiarato dalla fonte; date di pubblicazione verificate.",
-  "durationSeconds": 30.12
+  "durationSeconds": 30.09
 }

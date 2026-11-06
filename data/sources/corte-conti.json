@@ -4,7 +4,7 @@
   "sourceId": "corte-conti",
   "originUrl": "https://www.corteconti.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-06T17:42:25.295217Z",
+  "collectedAt": "2026-11-06T23:32:58.746785Z",
   "status": "no_feed",
   "diagnosticCode": "parsing_error",
   "method": "crawl4ai",
@@ -110,5 +110,5 @@
   "candidateCount": 12,
   "datedCount": 0,
   "listingUrl": "https://www.corteconti.it/",
-  "durationSeconds": 4.57
+  "durationSeconds": 4.65
 }

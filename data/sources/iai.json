@@ -4,7 +4,7 @@
   "sourceId": "iai",
   "originUrl": "https://www.iai.it/it",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-06T17:42:45.865209Z",
+  "collectedAt": "2026-11-06T23:33:20.414445Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -78,5 +78,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.iai.it/it/pubblicazioni/lista/iai-commentaries",
-  "durationSeconds": 5.25
+  "durationSeconds": 5.01
 }

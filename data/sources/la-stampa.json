@@ -4,37 +4,51 @@
   "sourceId": "la-stampa",
   "originUrl": "https://www.lastampa.it/",
   "configuredFeedUrl": "https://www.lastampa.it/rss/copertina.xml",
-  "collectedAt": "2026-11-06T17:42:54.236020Z",
+  "collectedAt": "2026-11-06T23:33:29.011685Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.lastampa.it/rss/copertina.xml",
   "items": [
     {
-      "title": "Altieri all’Anac, rischi di incompatibilità. Libera: “Paradosso insostenibile”",
+      "title": "Papa Leone: “Fiero di essere americano. Sulla pace c’è lavoro da fare ma siamo sulla buona strada”",
+      "url": "https://www.lastampa.it/esteri/speciali/elezioni-midterm-2026/2026/11/06/news/il_papa_arrivato_in_uruguay_fiero_di_essere_americano_e_di_aver_votato-15790764/",
+      "excerpt": "Il Pontefice in volo per il Sudamerica commenta le elezioni Usa. Sulla salute: «Rigiocherò a tennis». Oggi Uruguay, domani Argentina",
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "L’era post Trump è iniziata. Vance nell’angolo, le manovre tra i repubblicani",
+      "url": "https://www.lastampa.it/esteri/2026/11/06/news/candidati_repubblicani_elezioni_usa_2028_rubio-15790762/",
+      "excerpt": "Vance esce ridimensionato dalla sconfitta repubblicana, mentre si apre la corsa alla successione di Trump. Da Christie a DeSantis, da Pence a Cruz, crescono le voci critiche. Ma alla Casa Bianca c’è chi punta su Rubio",
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Dopo il voto di Midterm un congresso meno “pro Israele” ma le relazioni restano strette",
+      "url": "https://www.lastampa.it/esteri/speciali/elezioni-midterm-2026/2026/11/06/news/dopo_il_voto_di_midterm_un_congresso_meno_pro_israele_ma_le_relazioni_restano_strette-15790473/",
+      "excerpt": "I dubbi di repubblicani e democratici: ecco come potrebbero cambiare le relazioni tra i due Paesi",
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Trump cambia capo dello staff: nominato Stephen Miller, il teorico del nazionalismo bianco",
+      "url": "https://www.lastampa.it/esteri/speciali/elezioni-midterm-2026/2026/11/06/news/trump_cambia_capo_dello_staff_nominato_stephen_miller_l_ideologo_della_stretta_sull_immigrazione-15790689/",
+      "excerpt": "Prenderà il posto di Susie Wiles a partire da lunedì 9 novembre 2026",
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Pasticcio Anac, Altieri rinuncia dopo le polemiche: “Dispiaciuto dagli attacchi mediatici”",
       "url": "https://www.lastampa.it/politica/2026/11/06/news/altieri_all_anac_rischi_di_incompatibilita-15790278/",
-      "excerpt": "L’ex parlamentare è stato negli ultimi tre anni a capo del dipartimento Difesa della Lega",
+      "excerpt": "L’ex parlamentare è stato negli ultimi tre anni a capo del dipartimento Difesa della Lega. I capigruppo di Senato e Camera dell’opposizione alla premier avevano chiesto il ritiro della candidatura. Libera: «Un paradosso insostenibile»",
       "publishedAt": "2026-11-06T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Meloni a Eicma: “Voi non vedete l’ora di levarmi dalle… ma io sto lavorando”",
-      "url": "https://www.lastampa.it/politica/2026/11/06/news/meloni_eicma_ducati_vespa_50_vannacci_made_in_italy-15790243/",
-      "excerpt": "La premier tra le Ducati e la Vespa 50 per neutralizzare Vannacci",
-      "publishedAt": "2026-11-06T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Pedopornografia, arrestato il padre di Meghan Markle",
-      "url": "https://www.lastampa.it/esteri/2026/11/06/news/thomas_markle_padre_meghan_arrestato_florida-15790371/",
-      "excerpt": "L’uomo, 82 anni, è stato prelevato da una residenza per anziani in Florida. In un secondo filone di indagini coinvolto anche il figlio",
-      "publishedAt": "2026-11-06T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Nuovi allarmi bomba nei cieli, coinvolta l'Italia. La Nato alza i caccia. La rivendicazione: “Solo l'inizio”",
+      "title": "Allarmi bomba nei cieli d'Europa, coinvolta l'Italia. La Nato alza i caccia. La rivendicazione: “Solo l'inizio”",
       "url": "https://www.lastampa.it/cronaca/2026/11/06/diretta/allarme_bomba_aerei_diretta_voli_6_novembre_2026-15790186/",
-      "excerpt": "Un volo Ryanair è atterrato a Lisbona, un altro, Wizzair, deviato su Venezia da una chiamata anonima. Almeno otto voli da e per Praga bloccati. Voli anche dalla Francia. Evacuatitv e giornali a Dublino. Meloni: attacchi hacker? Ecco perché spese in difesa",
+      "excerpt": "Un volo Ryanair è atterrato a Lisbona, un altro, Wizzair, deviato su Venezia da una chiamata anonima. Almeno otto voli da e per Praga bloccati",
       "publishedAt": "2026-11-06T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -53,6 +67,13 @@
       "dateEvidence": "feed:published"
     },
     {
+      "title": "Pedopornografia, arrestato il padre di Meghan Markle",
+      "url": "https://www.lastampa.it/esteri/2026/11/06/news/thomas_markle_padre_meghan_arrestato_florida-15790371/",
+      "excerpt": "L’uomo, 82 anni, è stato prelevato da una residenza per anziani in Florida. In un secondo filone di indagini coinvolto anche il figlio",
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
       "title": "Caso Almasri, la Consulta: Bartolozzi può essere processata per false dichiarazioni ai pm",
       "url": "https://www.lastampa.it/cronaca/2026/11/06/news/caso_almasri_consulta_camera_cosa_cambia_bartolozzi-15790172/",
       "excerpt": "La Procura può proseguire l’inchiesta per false dichiarazioni senza autorizzazione parlamentare. Ma i magistrati avrebbero dovuto spiegare perché l’ex capo di gabinetto non era stata coinvolta nei reati contestati a Nordio",
@@ -63,76 +84,6 @@
       "title": "Sicilia, l’ex vicepresidente Armao ai domiciliari per corruzione. Il gip: “Nascondeva le mazzette”",
       "url": "https://www.lastampa.it/cronaca/2026/11/06/news/sicilia_l_ex_vicepresidente_armao_ai_domiciliari_per_corruzione_il_gip_nascondeva_le_mazzette-15790510/",
       "excerpt": "Secondo l’accusa avrebbe intascato soldi da alcuni imprenditori in cambio di favori",
-      "publishedAt": "2026-11-06T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Borse, il rimbalzo del Nasdaq frena il calo dei listini europei. Milano -0,90%",
-      "url": "https://www.lastampa.it/economia/2026/11/06/diretta/borse_mondiali_oggi_diretta_mercati-15789941/",
-      "excerpt": "Crollo dei mercati asiatici per il timore che la vittoria dei democratici negli Usa preannunci un rallentamento dell'intelligenza artificiale. L’Europa limita le perdite grazie a un rush finale ispirato da Wall Street",
-      "publishedAt": "2026-11-06T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Corsa a due per la guida della Bce: scaduti i termini, è sfida totale tra Knot e de Cos",
-      "url": "https://www.lastampa.it/economia/2026/11/06/news/bce_corsa_a_due_de_cos_knot_lagarde-15790482/",
-      "excerpt": "Spagna e Paesi Bassi blindano le candidature per la guida della Banca centrale europea. La diplomazia parigina offre l’assist all’olandese per ottenere in cambio il ruolo di capo economista. L’Eurogruppo del 9 novembre apre i dossier in vista dell’addio di Lagarde fissato al 7 febbraio",
-      "publishedAt": "2026-11-06T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Birra e biscotti, la ricetta belga contro la crisi delle borse",
-      "url": "https://www.lastampa.it/economia/2026/11/06/news/birra_e_biscotti_la_ricetta_belga_contro_la_crisi_delle_borse-15790126/",
-      "excerpt": "Così Bruxelles vola al massimo storico, mentre Wall Street affonda",
-      "publishedAt": "2026-11-06T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Ferrari, la resa dei conti: Vasseur striglia Hamilton e Leclerc",
-      "url": "https://www.lastampa.it/sport/2026/11/06/news/ferrari_la_resa_dei_conti_vasseur_striglia_hamilton_e_leclerc-15790494/",
-      "excerpt": "Più di un’ora di faccia a faccia in hotel, il team principal ha ribadito che il marchio è più grande di entrambi. Non saranno tollerati altri duelli se metteranno a rischio il risultato. Il Cavallino non ha gradito le continue polemiche dell’inglese",
-      "publishedAt": "2026-11-06T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Sinner cambia allenatore: “Ironman” Magnus Norman prende il posto di Cahill",
-      "url": "https://www.lastampa.it/sport/2026/11/06/news/sinner_chiude_collaborazione_cahill_darren-15790110/",
-      "excerpt": "Separazione dolce tra il tennista azzurro e il tecnico australiano: da dicembre tocca allo svedese, ex n.2 al mondo che poteva già guidare Jannik 5 anni fa. Ha l’Italia nel cuore e ama il triathlon",
-      "publishedAt": "2026-11-06T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Becker contro Zverev: “Non sa prendere una posizione sulla guerra in Ucraina”. E il numero 1 replica",
-      "url": "https://www.lastampa.it/sport/tennis/2026/11/06/news/guerra_ucraina_becker_zverev_botta_e_risposta-15790369/",
-      "excerpt": "Intanto alle WTA Finals l’ucraina Elina Svitolina si rifiuta di fare la foto di gruppo insieme alla russa Mirra Andreeva e alla bielorussa Aryna Sabalenka",
-      "publishedAt": "2026-11-06T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "“Sei stato molto più di un coach”: l’emozionante addio di Sinner a Cahill",
-      "url": "https://www.lastampa.it/sport/2026/11/06/video/video_sinner_chiude_collaborazione_cahill_darren-15790183/",
-      "excerpt": "Jannik Sinner affida a un video il saluto al suo allenatore Darren Cahill: una sequenza di vittorie, abbracci e momenti vissuti lontano dai riflettori, accompagnata da un semplice “Grazie, Darren”. Il tecnico australiano, entrato nel gruppo nel 2022, ha contribuito alla trasformazione dell’azzurro in numero uno del mon",
-      "publishedAt": "2026-11-06T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Tragedia a Pietra Ligure: crolla il terreno nel cantiere, morto un operaio",
-      "url": "https://www.lastampa.it/savona/2026/11/06/news/crolla_porzione_terreno_cantiere_operaio_gravissimo_pietra_ligure-15790282/",
-      "excerpt": "L’incidente sul lavoro in via Soccorso. L’uomo è rimasto incastrato tra il muro di contenimento in costruzione e una parete di terra",
-      "publishedAt": "2026-11-06T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Bergamo, trovati i rottami dell’aereo scomparso. Morto il pilota Massimiliano Toninelli",
-      "url": "https://www.lastampa.it/cronaca/2026/11/06/news/bergamo_aereo_scompare_nei_boschi_del_monte_canto_ricerche_in_corso-15790268/",
-      "excerpt": "Il velivolo Cessna è precipitato stamattina intorno alle 11 mentre faceva ritorno a Brescia. Il corpo dell’uomo, imprenditore di 60 anni, è stato trovato all’interno del velivolo dopo ore di ricerche",
-      "publishedAt": "2026-11-06T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "In Usa neonato morto per morbillo, è il secondo in pochi giorni",
-      "url": "https://www.lastampa.it/esteri/2026/11/06/news/in_usa_neonato_morto_per_morbillo_e_il_secondo_decesso_in_pochi_giorni-15790216/",
-      "excerpt": "Il secondo decesso in Wisconsin, dopo il caso del bambino che ha perso la vita nello Stato di New York",
       "publishedAt": "2026-11-06T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -158,37 +109,23 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Dopo il voto di Midterm un congresso meno “pro Israele” ma le relazioni restano strette",
-      "url": "https://www.lastampa.it/esteri/speciali/elezioni-midterm-2026/2026/11/06/news/dopo_il_voto_di_midterm_un_congresso_meno_pro_israele_ma_le_relazioni_restano_strette-15790473/",
-      "excerpt": "I dubbi di repubblicani e democratici: ecco come potrebbero cambiare le relazioni tra i due Paesi",
+      "title": "I fast food del pollo fritto sulle piste da sci: “Ennesimo sfregio alle nostre montagne”",
+      "url": "https://www.lastampa.it/cronaca/2026/11/06/news/i_fast_food_del_pollo_fritto_sulle_piste_da_sci_ennesimo_sfregio_alle_nostre_montagne-15790849/",
+      "excerpt": "KFC sbarca a Madonna di Campiglio e a Cortina d’Ampezzo. I dubbi dei sindaci e la protesta del Cai",
       "publishedAt": "2026-11-06T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Perché Musk resterà al centro dell’amministrazione Usa anche dopo Trump",
-      "url": "https://www.lastampa.it/esteri/2026/11/06/news/perche_musk_restera_al_centro_dell_amministrazione_usa_anche_dopo_trump-15790226/",
-      "excerpt": "Dal 2024 il patrimonio di Elon è quadruplicato. Le sue creazioni hanno conquistato la macchina del governo federale: per il successore di The Donald sarà difficile farne a meno",
+      "title": "Tragedia a Pietra Ligure: crolla il terreno nel cantiere, morto un operaio",
+      "url": "https://www.lastampa.it/savona/2026/11/06/news/crolla_porzione_terreno_cantiere_operaio_gravissimo_pietra_ligure-15790282/",
+      "excerpt": "L’incidente sul lavoro in via Soccorso. L’uomo è rimasto incastrato tra il muro di contenimento in costruzione e una parete di terra",
       "publishedAt": "2026-11-06T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Il dilemma dei repubblicani: limitare il presidente senza arrivare allo scontro",
-      "url": "https://www.lastampa.it/esteri/speciali/elezioni-midterm-2026/2026/11/06/news/usa_midterm_dilemma_repubblicani_limitare_il_presidente_senza_arrivare_scontro-15789486/",
-      "excerpt": "La sconfitta e l’instabilità di Trump peseranno sui prossimi due anni Con il Congresso a guida dem molti nel partito cercano un avvocato",
-      "publishedAt": "2026-11-06T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Bancomat fatti esplodere con la \"marmotta\": le immagini degli assalti",
-      "url": "https://www.lastampa.it/cronaca/2026/11/06/video/bancomat_fatti_esplodere_con_la_marmotta_le_immagini_degli_assalti-15790229/",
-      "excerpt": "I filmati delle telecamere di sicurezza mostrano gli assalti agli sportelli automatici compiuti nel Foggiano con ordigni ad alto potenziale. L’inchiesta dei carabinieri, concentrata in particolare su due colpi avvenuti a San Giovanni Rotondo, ha portato all’arresto di dieci persone. Le accuse comprendono, a vario titol",
-      "publishedAt": "2026-11-06T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Una distesa di server tra i campi: il data center Microsoft che alimenta la protesta nei Paesi Bassi",
-      "url": "https://www.lastampa.it/tech/2026/11/06/video/microsoft_data_center_middenmeer_paesi_bassi_protesta_video-15790189/",
-      "excerpt": "Le immagini aeree mostrano l’enorme campus Microsoft di Middenmeer, nel nord dei Paesi Bassi: il suo impianto più vecchio ha consumato nel 2025 circa 1,17 terawattora di elettricità, oltre l’1% dell’intero fabbisogno nazionale. Il video è stato diffuso alla vigilia della manifestazione di Amsterdam contro un nuovo cent",
+      "title": "Meloni sale in sella a Fieracavalli e saluta il pubblico",
+      "url": "https://www.lastampa.it/cronaca/2026/11/06/video/giorgia_meloni_cavallo_fieracavalli_verona_2026-15790520/",
+      "excerpt": "Sale a cavallo e saluta il pubblico dalla sella: Giorgia Meloni visita Fieracavalli, a Verona, e durante il percorso si concede un breve giro nel circuito della manifestazione. La presidente del Consiglio è arrivata a Veronafiere nel pomeriggio del 6 novembre, nella seconda giornata della rassegna. L’evento, giunto all",
       "publishedAt": "2026-11-06T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -200,6 +137,20 @@
       "dateEvidence": "feed:published"
     },
     {
+      "title": "“Sei stato molto più di un coach”: l’emozionante addio di Sinner a Cahill",
+      "url": "https://www.lastampa.it/sport/2026/11/06/video/video_sinner_chiude_collaborazione_cahill_darren-15790183/",
+      "excerpt": "Jannik Sinner affida a un video il saluto al suo allenatore Darren Cahill: una sequenza di vittorie, abbracci e momenti vissuti lontano dai riflettori, accompagnata da un semplice “Grazie, Darren”. Il tecnico australiano, entrato nel gruppo nel 2022, ha contribuito alla trasformazione dell’azzurro in numero uno del mon",
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Prato Nevoso, un sogno bianco tra le montagne: 40 centimetri di neve e l’inverno è già qui",
+      "url": "https://www.lastampa.it/cuneo/2026/11/06/video/prato_nevoso_un_sogno_bianco_tra_le_montagne_40_centimetri_di_neve_e_linverno_e_gia_qui-15790678/",
+      "excerpt": "Una coltre bianca ricopre Prato Nevoso, nel Cuneese: la prima abbondante nevicata ha portato circa 40 centimetri di neve. Le immagini diffuse dalla Snow Academy, pubblicate il 6 novembre, mostrano il comprensorio imbiancato in attesa dell’avvio della stagione sciistica. Il paesaggio è già invernale, ma l’arrivo della n",
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
       "title": "Per Musk è la fine dell’impunità, la sinistra non si faccia intimidire",
       "url": "https://www.lastampa.it/esteri/2026/11/06/news/naomi_klein_musk_democratici_capitalismo-15789915/",
       "excerpt": "Il nuovo libro della saggista con Astra Taylor: «Thiel, Altman e Zuckerberg si credono degli dei»",
@@ -207,30 +158,23 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Sanremo, gli spoiler, la satira e l’Ariston troppo piccolo: lo studente De Martino ha studiato",
-      "url": "https://www.lastampa.it/spettacoli/2026/11/06/news/sanremo_stefano_de_martino_spoiler_satira_ariston-15790394/",
-      "excerpt": "Il direttore artistico: «Paola Iezzi è bravissima, ma non condurrà il ControFestival»",
+      "title": "L'Armani Milano esonera coach Poeta, pronto il ct Banchi",
+      "url": "https://www.lastampa.it/sport/basket/2026/11/06/news/l_armani_milano_esonera_coach_poeta_dopo_l_avvio_choc_in_eurolega-15790624/",
+      "excerpt": "Fatale la striscia negativa in Eurolega. Squadra affidata all'assistente Ramondino, poi possibile una soluzione part time con la guida della Nazionale",
       "publishedAt": "2026-11-06T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Tour di Bob Dylan in Italia, è boom di biglietti falsi",
-      "url": "https://www.lastampa.it/cronaca/2026/11/06/news/tour_di_bob_dylan_in_italia_e_boom_di_biglietti_falsi-15790001/",
-      "excerpt": "Dopo il concerto di Roma si moltiplicano le segnalazioni di truffe da parte dei fan rimasti fuori dal Palazzetto. Due piattaforme nel mirino",
+      "title": "Caso Ferrari, Vasseur: “Hamilton e Leclerc non devono essere migliori amici ma rispettarsi”",
+      "url": "https://www.lastampa.it/sport/2026/11/06/news/ferrari_la_resa_dei_conti_vasseur_striglia_hamilton_e_leclerc-15790494/",
+      "excerpt": "Gp Brasile, il team principal ieri sera ha strigliato i piloti: «Si ricordino che la squadra viene prima di tutto, come lo sforzo di centinaia di persone. Chiedo che lavorino e si comportino da professionisti»",
       "publishedAt": "2026-11-06T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Russell Brand va in carcere: colpevole di stupro e tre aggressioni sessuali",
-      "url": "https://www.lastampa.it/esteri/2026/11/06/news/russell_brand_va_in_carcere_colpevole_di_stupro_e_tre_aggressioni_sessuali-15789918/",
-      "excerpt": "Respinta la cauzione per l'attore e conduttore britannico, ex marito di Katy Perry: resterà in custodia fino alla sentenza di lunedì",
-      "publishedAt": "2026-11-06T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Omar Pedrini riapre le porte dell’El Topo Grand Hotel: venticinque anni dopo il viaggio continua",
-      "url": "https://www.lastampa.it/spettacoli/2026/11/06/news/omar_pedrini_riapre_le_porte_dell_el_topo_grand_hotel_venticinque_anni_dopo_il_viaggio_continua-15790199/",
-      "excerpt": "Torna in edizione limitata e numerata uno degli album più ambiziosi dei Timoria, con materiali inediti e un’anteprima del fumetto in arrivo nel 2027. L’11 novembre Omar Pedrini lo celebra con un concerto-evento all’Alcatraz di Milano",
+      "title": "Sinner cambia allenatore: “Ironman” Magnus Norman prende il posto di Cahill",
+      "url": "https://www.lastampa.it/sport/2026/11/06/news/sinner_chiude_collaborazione_cahill_darren-15790110/",
+      "excerpt": "Separazione dolce tra il tennista azzurro e il tecnico australiano: da dicembre tocca allo svedese, ex n.2 al mondo che poteva già guidare Jannik 5 anni fa. Ha l’Italia nel cuore e ama il triathlon",
       "publishedAt": "2026-11-06T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -256,9 +200,9 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Meloni sale in sella a Fieracavalli e saluta il pubblico",
-      "url": "https://www.lastampa.it/cronaca/2026/11/06/video/giorgia_meloni_cavallo_fieracavalli_verona_2026-15790520/",
-      "excerpt": "Sale a cavallo e saluta il pubblico dalla sella: Giorgia Meloni visita Fieracavalli, a Verona, e durante il percorso si concede un breve giro nel circuito della manifestazione. La presidente del Consiglio è arrivata a Veronafiere nel pomeriggio del 6 novembre, nella seconda giornata della rassegna. L’evento, giunto all",
+      "title": "Kalashnikov nel bosco della droga, le forze speciali fanno saltare le porte di un rifugio",
+      "url": "https://www.lastampa.it/cronaca/2026/11/06/video/boschi_droga_lombardia_kalashnikov_carabinieri_otto_fermi_milano_como_varese-15790572/",
+      "excerpt": "Porte fatte saltare con microcariche esplosive per entrare nell’appartamento di Limido Comasco, dove i carabinieri hanno fermato sei persone. L’irruzione del Gruppo di intervento speciale (Gis) rientra nel blitz del 6 novembre tra Milano, Como e Varese, coordinato dalla Direzione distrettuale antimafia: otto i fermi co",
       "publishedAt": "2026-11-06T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -289,6 +233,62 @@
       "excerpt": "Intervista all’esperto di innovazione docente della Bologna Business School: “Gli americani hanno votato contro Trump, non contro l’Ai. Ma ora potrebbe cambiare la geografia dei data center”",
       "publishedAt": "2026-11-06T00:00:00Z",
       "dateEvidence": "feed:published"
+    },
+    {
+      "title": "L’AI Act e il paradosso dei contenuti: se tutto è artificiale, niente è più umano",
+      "url": "https://www.lastampa.it/tech/2026/11/06/news/l_ai_act_e_il_paradosso_dei_contenuti_se_tutto_e_artificiale_niente_e_piu_umano-15790135/",
+      "excerpt": "Le filigrane digitali rischiano di mettere sullo stesso piano testi interamente generati dall’intelligenza artificiale e contenuti semplicemente revisionati. Un sistema pensato per garantire trasparenza potrebbe finire per svalutare il lavoro umano e cancellare la distinzione tra autori e algoritmi",
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Bus con quaranta studenti a bordo finisce fuori strada: attimi di paura all’alba a Polonghera",
+      "url": "https://www.lastampa.it/cuneo/2026/11/06/news/cronaca_bus-15790055/",
+      "excerpt": "Attimi di paura questa mattina a Polonghera per un bus di linea carico di studenti e diretto a Saluzzo. All’altezza di una curva, all’ingresso di Polonghera, lungo la provinciale 663, il ...",
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Setta di Almese, sequestrati beni per 700 mila euro al guru. Così li teneva nascosti",
+      "url": "https://www.lastampa.it/torino/2026/11/06/news/setta_almese_guru_sequestro_beni_700_mila_euro-15790019/",
+      "excerpt": "Case, terreni, gioielli e orologi antichi: le donazioni delle vittime. Nel patrimonio sequestrato anche una casa rifugio per donne",
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Il neo presidente della valle d’Aosta Marguerettaz ha un voto in più: “Ma non devo piacere a tutti”",
+      "url": "https://www.lastampa.it/aosta/2026/11/06/news/il_neo_presidente_della_valle_d_aosta_marguerettaz_ha_un_voto_in_piu_ma_non_devo_piacere_a_tutti-15790107/",
+      "excerpt": "Varata la giunta nata dalla decadenza di Testolin. La maggioranza si allarga nel voto segreto chiesto da Carrel",
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Società fittizie su Amazon, sede in Bulgaria ma testa in Italia. Così evadevano 3 milioni di euro",
+      "url": "https://www.lastampa.it/imperia-sanremo/2026/11/06/news/societa_sulla_carta_in_bulgaria_ma_amministrate_dall_italia_a_imperia_maxi_evasione_al_fisco-15790048/",
+      "excerpt": "Operazione della guardia di finanza: accertati oltre tre milioni di ricavi non dichiarati nel commercio online di prodotti elettronici. Denunciato amministratore delle due imprese",
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "TorinoSette, Atp a tutto pop con l'opening show di Achille Lauro",
+      "url": "https://www.lastampa.it/torinosette/2026/11/06/video/torinosette_atp_a_tutto_pop_con_lopening_show_di_achille_lauro-15789213/",
+      "excerpt": "Torino si prepara alle Nitto ATP Finals, con il concerto inaugurale di Achille Lauro, il 12 novembre all’Inalpi Arena, e gli incontri di Casa Tennis e del Fan Village: tra gli ospiti Neri Marcorè, Larissa Iapichino, Francesco De Carlo e Filippo Volandri, capitano della nazionale italiana di Coppa Davis. Sul fronte spor",
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Cinesettimana: “Il Gatto col cappello” convince, George Michael non basta a salvare “The Faith Tour”",
+      "url": "https://www.lastampa.it/rubriche/cinesettimana/2026/11/06/video/cinesettimana_il_gatto_col_cappello_convince_george_michael_non_basta_a_salvare_the_faith_tour-15789110/",
+      "excerpt": "Un gatto combina guai e una leggenda del pop si dividono il grande schermo, con risultati diversi. Dal 5 novembre arriva nei cinema italiani «Il Gatto col cappello», brillante adattamento animato Warner del libro per l’infanzia di Dr. Seuss, diretto da Alessandro Carloni ed Erica Rivinoja. Dal 6 novembre è la volta di ",
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Consob, Freni: \"È stato Tajani a non volermi, il veto non è di Forza Italia\"",
+      "url": "https://www.lastampa.it/politica/2026/11/06/video/federico_freni_consob_veto_tajani_myrta_merlino-15790426/",
+      "excerpt": "«Il veto è stato di Antonio Tajani, non di Forza Italia, che è una cosa diversa». Federico Freni, sottosegretario all’Economia della Lega, torna sulla mancata nomina alla presidenza della Consob, la Commissione nazionale per le società e la Borsa. Ospite di Myrta Merlino a «Myrta Confidential», in onda il 6 novembre su",
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -302,5 +302,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 0.76
+  "durationSeconds": 0.66
 }

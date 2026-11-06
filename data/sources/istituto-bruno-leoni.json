@@ -4,12 +4,19 @@
   "sourceId": "istituto-bruno-leoni",
   "originUrl": "https://www.brunoleoni.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-06T17:42:50.450019Z",
+  "collectedAt": "2026-11-06T23:33:25.345548Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "Cosa c’è nella manovra",
+      "url": "https://www.brunoleoni.it/cosa-ce-nella-manovra/",
+      "excerpt": "Che cosa c'è di buono nella legge finanziaria che comincia ora il suo percorso parlamentare?",
+      "publishedAt": "2026-11-06T18:24:19Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
     {
       "title": "La prudenza è un merito. Pnrr? Occasione persa",
       "url": "https://www.brunoleoni.it/la-prudenza-e-un-merito-pnrr-occasione-persa/",
@@ -29,13 +36,6 @@
       "url": "https://www.brunoleoni.it/lai-e-i-rischi-di-una-bolla/",
       "excerpt": "Non sarebbe la prima volta che un'infrastruttura utile nel lungo periodo provochi un massacro tra gli investitori",
       "publishedAt": "2026-10-30T11:27:46Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Un giorno di ordinaria italianità, per capire il populismo di casa nostra",
-      "url": "https://www.brunoleoni.it/un-giorno-di-ordinaria-italianita-per-capire-il-populismo-di-casa-nostra/",
-      "excerpt": "Alle difficoltà che causa il pubblico corrisponde lo spaesamento nel privato",
-      "publishedAt": "2026-10-30T09:33:37Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
@@ -68,15 +68,15 @@
       "status": 200
     },
     {
+      "url": "https://www.brunoleoni.it/cosa-ce-nella-manovra/",
+      "status": 200
+    },
+    {
       "url": "https://www.brunoleoni.it/la-prudenza-e-un-merito-pnrr-occasione-persa/",
       "status": 200
     },
     {
       "url": "https://www.brunoleoni.it/lai-e-i-rischi-di-una-bolla/",
-      "status": 200
-    },
-    {
-      "url": "https://www.brunoleoni.it/un-giorno-di-ordinaria-italianita-per-capire-il-populismo-di-casa-nostra/",
       "status": 200
     }
   ],
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 5,
   "listingUrl": "https://www.brunoleoni.it/",
-  "durationSeconds": 6.48
+  "durationSeconds": 5.25
 }
