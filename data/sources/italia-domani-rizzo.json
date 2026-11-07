@@ -4,7 +4,7 @@
   "sourceId": "italia-domani-rizzo",
   "originUrl": "https://www.italiadomanirizzo.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-06T23:33:26.312246Z",
+  "collectedAt": "2026-11-07T09:17:16.262089Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -18,16 +18,16 @@
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "Criscuolo (Italia Domani): sanità campana in affanno, servono strutture efficienti - Italia Domani",
-      "url": "https://www.italiadomanirizzo.it/criscuolo-italia-domani-sanita-campana-in-affanno-servono-st/",
-      "excerpt": "Il coordinatore regionale di Italia Domani Marco Rizzo, Criscuolo, denuncia le difficoltà della sanità in Campania e i sacrifici imposti ai cittadini per il risanamento dei conti.",
+      "title": "Suppletive Chieti: Ranieri propone fondo immediato contro il dissesto - Italia Domani",
+      "url": "https://www.italiadomanirizzo.it/suppletive-chieti-ranieri-propone-fondo-immediato-contro-il/",
+      "excerpt": "In vista del voto del 15 e 16 novembre, il candidato di Italia Domani Danilo Ranieri lancia la proposta di un fondo rapido per sindaci e cittadini colpiti da allagamenti.",
       "publishedAt": "2026-11-05T00:00:00Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "Suppletive Chieti: Ranieri propone fondo immediato contro il dissesto - Italia Domani",
-      "url": "https://www.italiadomanirizzo.it/suppletive-chieti-ranieri-propone-fondo-immediato-contro-il/",
-      "excerpt": "In vista del voto del 15 e 16 novembre, il candidato di Italia Domani Danilo Ranieri lancia la proposta di un fondo rapido per sindaci e cittadini colpiti da allagamenti.",
+      "title": "Criscuolo (Italia Domani): sanità campana in affanno, servono strutture efficienti - Italia Domani",
+      "url": "https://www.italiadomanirizzo.it/criscuolo-italia-domani-sanita-campana-in-affanno-servono-st/",
+      "excerpt": "Il coordinatore regionale di Italia Domani Marco Rizzo, Criscuolo, denuncia le difficoltà della sanità in Campania e i sacrifici imposti ai cittadini per il risanamento dei conti.",
       "publishedAt": "2026-11-05T00:00:00Z",
       "dateEvidence": "jsonld:datePublished"
     }
@@ -46,11 +46,11 @@
       "status": 200
     },
     {
-      "url": "https://www.italiadomanirizzo.it/criscuolo-italia-domani-sanita-campana-in-affanno-servono-st/",
+      "url": "https://www.italiadomanirizzo.it/suppletive-chieti-ranieri-propone-fondo-immediato-contro-il/",
       "status": 200
     },
     {
-      "url": "https://www.italiadomanirizzo.it/suppletive-chieti-ranieri-propone-fondo-immediato-contro-il/",
+      "url": "https://www.italiadomanirizzo.it/criscuolo-italia-domani-sanita-campana-in-affanno-servono-st/",
       "status": 200
     },
     {
@@ -94,5 +94,5 @@
   "candidateCount": 8,
   "datedCount": 3,
   "listingUrl": "https://www.italiadomanirizzo.it/",
-  "durationSeconds": 6.3
+  "durationSeconds": 4.9
 }

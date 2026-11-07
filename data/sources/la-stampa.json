@@ -4,107 +4,163 @@
   "sourceId": "la-stampa",
   "originUrl": "https://www.lastampa.it/",
   "configuredFeedUrl": "https://www.lastampa.it/rss/copertina.xml",
-  "collectedAt": "2026-11-06T23:33:29.011685Z",
+  "collectedAt": "2026-11-07T09:17:18.933669Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.lastampa.it/rss/copertina.xml",
   "items": [
     {
-      "title": "Papa Leone: “Fiero di essere americano. Sulla pace c’è lavoro da fare ma siamo sulla buona strada”",
-      "url": "https://www.lastampa.it/esteri/speciali/elezioni-midterm-2026/2026/11/06/news/il_papa_arrivato_in_uruguay_fiero_di_essere_americano_e_di_aver_votato-15790764/",
-      "excerpt": "Il Pontefice in volo per il Sudamerica commenta le elezioni Usa. Sulla salute: «Rigiocherò a tennis». Oggi Uruguay, domani Argentina",
-      "publishedAt": "2026-11-06T00:00:00Z",
+      "title": "Allarmi bomba, il Financial Times: “I servizi europei indagano sulla pista russa”. Allerta su 35 voli in tre giorni",
+      "url": "https://www.lastampa.it/esteri/2026/11/07/news/allarmi_bomba_sui_voli_europei_indagini_sulla_pista_russa-15790942/",
+      "excerpt": "Un’ipotesi di lavoro è che le minacce siano di attivisti filo-Cremlino o gruppi hacker",
+      "publishedAt": "2026-11-07T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "L’era post Trump è iniziata. Vance nell’angolo, le manovre tra i repubblicani",
-      "url": "https://www.lastampa.it/esteri/2026/11/06/news/candidati_repubblicani_elezioni_usa_2028_rubio-15790762/",
-      "excerpt": "Vance esce ridimensionato dalla sconfitta repubblicana, mentre si apre la corsa alla successione di Trump. Da Christie a DeSantis, da Pence a Cruz, crescono le voci critiche. Ma alla Casa Bianca c’è chi punta su Rubio",
-      "publishedAt": "2026-11-06T00:00:00Z",
+      "title": "Allarme sui voli, le scatole cinesi degli hacker dietro la guerra ibrida a costo zero",
+      "url": "https://www.lastampa.it/cronaca/2026/11/07/news/le_scatole_cinesi_degli_hacker_dietro_la_guerra_ibrida_a_costo_zero-15790791/",
+      "excerpt": "Crescono i dubbi sulle rivendicazioni. E ora si muove anche l’Europol",
+      "publishedAt": "2026-11-07T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Dopo il voto di Midterm un congresso meno “pro Israele” ma le relazioni restano strette",
-      "url": "https://www.lastampa.it/esteri/speciali/elezioni-midterm-2026/2026/11/06/news/dopo_il_voto_di_midterm_un_congresso_meno_pro_israele_ma_le_relazioni_restano_strette-15790473/",
-      "excerpt": "I dubbi di repubblicani e democratici: ecco come potrebbero cambiare le relazioni tra i due Paesi",
-      "publishedAt": "2026-11-06T00:00:00Z",
+      "title": "Texas, i dem alla guerra dei data center: “Blocchiamoli tutti”. Trump: “Sono strategici”",
+      "url": "https://www.lastampa.it/esteri/2026/11/07/news/texas_usa_data_center_trump-15790835/",
+      "excerpt": "La futura governatrice Hinojosa stoppa il mega impianto. Tre elettori su quattro sono contrari",
+      "publishedAt": "2026-11-07T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Trump cambia capo dello staff: nominato Stephen Miller, il teorico del nazionalismo bianco",
-      "url": "https://www.lastampa.it/esteri/speciali/elezioni-midterm-2026/2026/11/06/news/trump_cambia_capo_dello_staff_nominato_stephen_miller_l_ideologo_della_stretta_sull_immigrazione-15790689/",
-      "excerpt": "Prenderà il posto di Susie Wiles a partire da lunedì 9 novembre 2026",
-      "publishedAt": "2026-11-06T00:00:00Z",
+      "title": "Trump furioso cede ai Maga, via Wiles. Al suo posto l’ultranazionalista Miller",
+      "url": "https://www.lastampa.it/esteri/speciali/elezioni-midterm-2026/2026/11/07/news/trump_maga_wiles_usa_miller-15790846/",
+      "excerpt": "Cade la prima testa nell’amministrazione dopo le elezioni, ma l’ex capa dello staff ora potrà aiutare Rubio. Sprofonda JD Vance, mentre si fanno avanti i repubblicani che in questi anni hanno preso le distanze",
+      "publishedAt": "2026-11-07T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Velo, preghiera e causa pro-Pal, l’orgoglio dei musulmani vincitori",
+      "url": "https://www.lastampa.it/esteri/2026/11/07/news/musulmani_elezioni_midterm_usavelo_preghiera_e_causa_pro-pal_l_orgoglio_dei_musulmani_vincitori-15790842/",
+      "excerpt": "L’ondata della diversità ha prevalso sull’islamofobia: la destra li odia, loro parlano di carovita",
+      "publishedAt": "2026-11-07T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Uruguay, il Papa in aiuto al Sud America che soffre: “Che belle le mani invecchiate facendo del bene”",
+      "url": "https://www.lastampa.it/esteri/2026/11/07/news/uruguay_leone_xiv_in_soccorso_al_sud_america_che_soffre-15790940/",
+      "excerpt": "«Quanto sono belle le mani invecchiate facendo del bene», dice il Papa che oggi visita la città di Paysandù dove gli immigrati italiani sono la maggioranza",
+      "publishedAt": "2026-11-07T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Nella Polonia dei veti incrociati: il presidente contro il premier. E Mosca cavalca le divisioni",
+      "url": "https://www.lastampa.it/esteri/2026/11/07/news/crisi_polonia_cosa_succede_tusk-15790810/",
+      "excerpt": "L’opposizione protesta in Parlamento durante la visita di Metsola. Nawrocki attacca Tusk. L’Ue teme ricadute su sicurezza e investimenti",
+      "publishedAt": "2026-11-07T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Dopo nove anni di promesse, il Museo Egizio sarà un ente di ricerca",
+      "url": "https://www.lastampa.it/cultura/2026/11/07/news/dopo_nove_anni_di_promesse_il_museo_egizio_sara_un_ente_di_ricerca-15790823/",
+      "excerpt": "L’annuncio durante la visita della Ministra Bernini: sarà vigilato dai dicasteri di Università e Cultura",
+      "publishedAt": "2026-11-07T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Le frequenze ribelli di Alice. Così è partita la rivoluzione delle radio libere italiane",
+      "url": "https://www.lastampa.it/cultura/2026/11/07/news/radio_alice_bologna_1977-15790786/",
+      "excerpt": "Un documentario racconta l’emittente bolognese, voce del Movimento ’77",
+      "publishedAt": "2026-11-07T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Da Guadagnino a Pieraccioni, il ciclone artificiale",
+      "url": "https://www.lastampa.it/spettacoli/2026/11/07/news/da_guadagnino_a_pieraccioni_il_ciclone_artificiale-15790704/",
+      "excerpt": "Non solo fantascienza, ma un filone trasversale ai generi",
+      "publishedAt": "2026-11-07T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Il genio romantico di George Michael dagli Anni 80 a TikTok",
+      "url": "https://www.lastampa.it/spettacoli/2026/11/07/news/il_genio_romantico_di_george_michael_dagli_anni_80_a_tiktok-15790710/",
+      "excerpt": "A 10 anni dalla morte è ora in sala il film concerto “The Faith Tour”",
+      "publishedAt": "2026-11-07T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Guerra a colpi di kalashnikov nei boschi dello spaccio. “Sparano per rubarsi i clienti”",
+      "url": "https://www.lastampa.it/cronaca/2026/11/07/news/guerra_a_colpi_di_kalashnikov_nei_boschi_dello_spaccio_sparano_per_rubarsi_i_clienti-15790832/",
+      "excerpt": "Blitz nelle piazze del Milanese, sequestrate ai pusher anche armi da guerra. “Puntano ai telefonini dei rivali per accaparrarsi i tossicodipendenti”",
+      "publishedAt": "2026-11-07T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Roberto Sergio: “Lascio la Rai ma non escludo un ritorno. La lottizzazione vanifica le competenze”",
+      "url": "https://www.lastampa.it/politica/2026/11/07/news/roberto_sergio_lascio_la_rai_ma_non_escludo_un_ritorno_la_lottizzazione_vanifica_le_competenze-15790780/",
+      "excerpt": "L’ex ad di viale Mazzini: «Il taglio del canone mette a rischio i progetti industriali, per l’azienda serve stabilità»",
+      "publishedAt": "2026-11-07T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Prandelli: “Fiorentina-Juve, che sfida. Senza leader serve il gioco, così la decide l’allenatore”",
+      "url": "https://www.lastampa.it/sport/2026/11/07/news/prandelli_fiorentina-juve_che_sfida_senza_leader_serve_il_gioco_cosi_la_decide_l_allenatore-15790801/",
+      "excerpt": "Il doppio ex: «Bianconeri da Champions, anche le prime hanno problemi»",
+      "publishedAt": "2026-11-07T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Toro, prova d’appello e d’orgoglio: “Strada giusta, non siamo in calo”",
+      "url": "https://www.lastampa.it/sport/2026/11/07/news/toro_lecce_prova_d_appello_abate-15790864/",
+      "excerpt": "Oggi il Lecce al Grande Torino per ripartire dopo le cadute con Como e Frosinone. Il tecnico Abate: “Troviamo continuità”. La fiducia dei tifosi rimane intatta: in 23 mila allo stadio per sostenere i granata",
+      "publishedAt": "2026-11-07T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Macklemore denuncia: “Nove arene americane hanno rifiutato il mio tour per la Palestina”",
+      "url": "https://www.lastampa.it/spettacoli/2026/11/07/news/macklemore_denuncia_nove_arene_americane_hanno_rifiutato_il_mio_tour_per_la_palestina-15790961/",
+      "excerpt": "La tournée si è conclusa per ora con tre appuntamenti europei, a Dublino, Parigi e Londra",
+      "publishedAt": "2026-11-07T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Canelli: “Silicon Box non farà decollare solo Novara, progetto strategico per l’industria europea”",
+      "url": "https://www.lastampa.it/novara/2026/11/07/news/silicon_box_novara_canelli_progetto_strategico-15790658/",
+      "excerpt": "Il sindaco è anche commissario straordinario per l’insediamento della fabbrica di chiplet ad Agognate",
+      "publishedAt": "2026-11-07T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Wall Street tenta il recupero ma i timori sull’Ai crescono: “Troppi debiti sui mercati”",
+      "url": "https://www.lastampa.it/economia/2026/11/07/news/wall_street_recupero_timori_ai_troppo_debito_mercati-15790774/",
+      "excerpt": "L’indice Nasdaq chiude in positivo dopo la girandola di vendite di giovedì. Gli investitori sono preoccupati per i futuri cantieri dei data center negli Usa",
+      "publishedAt": "2026-11-07T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Sabato di cortei e partite a Torino: strade chiuse, bus deviati e orari",
+      "url": "https://www.lastampa.it/torino/2026/11/07/diretta/corteo_carovita_rugby_calcio_torino_lecce_oggi_strade_bus_deviati_orari-15790903/",
+      "excerpt": "Migliaia di tifosi verso gli stadi, manifestanti da piazza Castello a piazza Crispi: ecco le zone coinvolte, possibili cambiamenti di percorso dei mezzi pubblici",
+      "publishedAt": "2026-11-07T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Ex Ilva, è il giorno della gara per la vendita: chi comprerà l’intero gruppo?",
+      "url": "https://www.lastampa.it/alessandria/2026/11/07/news/chiusura_bando_vendita_ex_ilva_novi_ligure-15790668/",
+      "excerpt": "Nella notte tra il 6 e il 7 novembre scadrà il termine per raccogliere le manifestazioni di interesse sull’intero gruppo Acciaierie d’Italia, che comprende anche la sede di Novi Ligure. Intanto dal tavolo con il ministero non arrivano risposte: altro vertice martedì 10",
+      "publishedAt": "2026-11-07T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Emergenza Pfas, task force regionale per gestire le criticità",
+      "url": "https://www.lastampa.it/savona/2026/11/07/news/emergenza_pfas_task_force_regionale_gestire_criticita_borgio_verezzi_pietra_ligure-15790751/",
+      "excerpt": "Il piano prevede anche controlli più approfonditi sulle acque e uno studio con monitoraggio della popolazione esposta",
+      "publishedAt": "2026-11-07T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
       "title": "Pasticcio Anac, Altieri rinuncia dopo le polemiche: “Dispiaciuto dagli attacchi mediatici”",
       "url": "https://www.lastampa.it/politica/2026/11/06/news/altieri_all_anac_rischi_di_incompatibilita-15790278/",
       "excerpt": "L’ex parlamentare è stato negli ultimi tre anni a capo del dipartimento Difesa della Lega. I capigruppo di Senato e Camera dell’opposizione alla premier avevano chiesto il ritiro della candidatura. Libera: «Un paradosso insostenibile»",
-      "publishedAt": "2026-11-06T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Allarmi bomba nei cieli d'Europa, coinvolta l'Italia. La Nato alza i caccia. La rivendicazione: “Solo l'inizio”",
-      "url": "https://www.lastampa.it/cronaca/2026/11/06/diretta/allarme_bomba_aerei_diretta_voli_6_novembre_2026-15790186/",
-      "excerpt": "Un volo Ryanair è atterrato a Lisbona, un altro, Wizzair, deviato su Venezia da una chiamata anonima. Almeno otto voli da e per Praga bloccati",
-      "publishedAt": "2026-11-06T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Le mail, i legami filorussi, lo “Stato maschile\": cosa c'è dietro la raffica di allarmi bomba",
-      "url": "https://www.lastampa.it/esteri/2026/11/06/news/voli_allarme_bomba_europa_mail_legami_filorussi_stato_maschile-15790249/",
-      "excerpt": "Le minacce via mail firmate dallo “Stato Maschile”, il movimento estremista filorusso. La rivendicazione arrivata a un giornale irlandese e i sospetti di una strategia di guerra ibrida. Ma resta il mistero sui responsabili",
-      "publishedAt": "2026-11-06T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Allarme bomba in volo, il testimone: “Paura e caos, poi l’atterraggio nella base militare”",
-      "url": "https://www.lastampa.it/cronaca/2026/11/06/video/allarme_bomba_aerei_atterraggio_aeroporto_militare_testimone-15790016/",
-      "excerpt": "«Ho disdetto i miei due voli in Europa: devo riprendermi». Nicola Timpone, ideatore di Marateale, è rientrato in Italia nella notte tra il 5 e il 6 novembre, dopo l’allarme bomba che ha costretto l’Airbus A320 di Aer Lingus, in viaggio da Dublino a Roma, ad atterrare nella base militare di Évreux, in Francia. A La Stam",
-      "publishedAt": "2026-11-06T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Pedopornografia, arrestato il padre di Meghan Markle",
-      "url": "https://www.lastampa.it/esteri/2026/11/06/news/thomas_markle_padre_meghan_arrestato_florida-15790371/",
-      "excerpt": "L’uomo, 82 anni, è stato prelevato da una residenza per anziani in Florida. In un secondo filone di indagini coinvolto anche il figlio",
-      "publishedAt": "2026-11-06T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Caso Almasri, la Consulta: Bartolozzi può essere processata per false dichiarazioni ai pm",
-      "url": "https://www.lastampa.it/cronaca/2026/11/06/news/caso_almasri_consulta_camera_cosa_cambia_bartolozzi-15790172/",
-      "excerpt": "La Procura può proseguire l’inchiesta per false dichiarazioni senza autorizzazione parlamentare. Ma i magistrati avrebbero dovuto spiegare perché l’ex capo di gabinetto non era stata coinvolta nei reati contestati a Nordio",
-      "publishedAt": "2026-11-06T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Sicilia, l’ex vicepresidente Armao ai domiciliari per corruzione. Il gip: “Nascondeva le mazzette”",
-      "url": "https://www.lastampa.it/cronaca/2026/11/06/news/sicilia_l_ex_vicepresidente_armao_ai_domiciliari_per_corruzione_il_gip_nascondeva_le_mazzette-15790510/",
-      "excerpt": "Secondo l’accusa avrebbe intascato soldi da alcuni imprenditori in cambio di favori",
-      "publishedAt": "2026-11-06T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Da Elio e le Storie tese ai Gialappi: i migliori Dopofestival sono sempre i Controfestival",
-      "url": "https://www.lastampa.it/spettacoli/2026/11/06/news/sanremo_migliori_dopofestival_controfestival_elio_storie_tese_gialappi-15790096/",
-      "excerpt": "Negli anni è stato salotto, tribunale, ring: ma l’edizione 2027 istituzionalizza gli sberleffi a Sanremo rimasti a lungo clandestini",
-      "publishedAt": "2026-11-06T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Se il lavoro non basta per sopravvivere, a Milano esplode il fenomeno “working poor”",
-      "url": "https://www.lastampa.it/cronaca/2026/11/06/news/milano_poverta_working_poor_operazione_pane_numeri-15789360/",
-      "excerpt": "Nel capoluogo lombardo la percentuale di chi scivola nella povertà anche se può contare su un reddito mensile è al 30%, quella nazionale al 17%",
-      "publishedAt": "2026-11-06T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Hepeating: la parola nuova che racconta come le donne vengono messe da parte sul lavoro",
-      "url": "https://www.lastampa.it/cronaca/2026/11/06/news/hepeating_significato_idee_donne_lavoro-15790061/",
-      "excerpt": "Sai quando proponi qualcosa, nessuno ti ascolta, e poi un collega ripete la stessa identica frase e diventa l'eroe della riunione? Adesso ha un nome. E gli studi di psicologia sociale confermano: non è una tua impressione. Ecco cosa fare",
       "publishedAt": "2026-11-06T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -116,9 +172,9 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Tragedia a Pietra Ligure: crolla il terreno nel cantiere, morto un operaio",
-      "url": "https://www.lastampa.it/savona/2026/11/06/news/crolla_porzione_terreno_cantiere_operaio_gravissimo_pietra_ligure-15790282/",
-      "excerpt": "L’incidente sul lavoro in via Soccorso. L’uomo è rimasto incastrato tra il muro di contenimento in costruzione e una parete di terra",
+      "title": "Paraguay, arrestato Peña dopo il fallimento di Ueno Bank. Alliana giura come nuovo presidente",
+      "url": "https://www.lastampa.it/esteri/2026/11/07/news/fallimento_banca_paraguay_arrestato_presidente_pena-15790886/",
+      "excerpt": "La Procura ha ordinato gli arresti domiciliari per l'ex capo dello Stato, accusato di aver favorito la banca con centinaia di milioni di fondi pubblici. Il Senato lo ha destituito e Pedro Alliana ha giurato come nuovo presidente. Migliaia di risparmiatori chiedono di riavere i propri soldi",
       "publishedAt": "2026-11-06T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -151,41 +207,6 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Per Musk è la fine dell’impunità, la sinistra non si faccia intimidire",
-      "url": "https://www.lastampa.it/esteri/2026/11/06/news/naomi_klein_musk_democratici_capitalismo-15789915/",
-      "excerpt": "Il nuovo libro della saggista con Astra Taylor: «Thiel, Altman e Zuckerberg si credono degli dei»",
-      "publishedAt": "2026-11-06T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "L'Armani Milano esonera coach Poeta, pronto il ct Banchi",
-      "url": "https://www.lastampa.it/sport/basket/2026/11/06/news/l_armani_milano_esonera_coach_poeta_dopo_l_avvio_choc_in_eurolega-15790624/",
-      "excerpt": "Fatale la striscia negativa in Eurolega. Squadra affidata all'assistente Ramondino, poi possibile una soluzione part time con la guida della Nazionale",
-      "publishedAt": "2026-11-06T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Caso Ferrari, Vasseur: “Hamilton e Leclerc non devono essere migliori amici ma rispettarsi”",
-      "url": "https://www.lastampa.it/sport/2026/11/06/news/ferrari_la_resa_dei_conti_vasseur_striglia_hamilton_e_leclerc-15790494/",
-      "excerpt": "Gp Brasile, il team principal ieri sera ha strigliato i piloti: «Si ricordino che la squadra viene prima di tutto, come lo sforzo di centinaia di persone. Chiedo che lavorino e si comportino da professionisti»",
-      "publishedAt": "2026-11-06T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Sinner cambia allenatore: “Ironman” Magnus Norman prende il posto di Cahill",
-      "url": "https://www.lastampa.it/sport/2026/11/06/news/sinner_chiude_collaborazione_cahill_darren-15790110/",
-      "excerpt": "Separazione dolce tra il tennista azzurro e il tecnico australiano: da dicembre tocca allo svedese, ex n.2 al mondo che poteva già guidare Jannik 5 anni fa. Ha l’Italia nel cuore e ama il triathlon",
-      "publishedAt": "2026-11-06T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Perché la legge contro gli stupri è bloccata al Senato: lo scontro sul consenso che divide la politica",
-      "url": "https://www.lastampa.it/politica/2026/11/06/news/ddl_stupri_consenso_senato_camera-15789998/",
-      "excerpt": "La Camera approvò all’unanimità nel novembre 2025, poi le complicazioni",
-      "publishedAt": "2026-11-06T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
       "title": "Marsiglia, violini e violoncelli invadono la piazza: Bella ciao diventa la colonna sonora del corteo",
       "url": "https://www.lastampa.it/esteri/2026/11/06/video/marsiglia_bella_ciao_350_musicisti_corteo_caro_vita-15790235/",
       "excerpt": "Circa 350 musicisti professionisti e amatoriali hanno aperto sulle note di “Bella ciao” la manifestazione del 5 novembre a Marsiglia contro il caro vita e per salari, istruzione e servizi pubblici. L’iniziativa nasce dall’appello dell’Orchestre du Nouveau Monde, collettivo impegnato per la giustizia sociale e climatica",
@@ -214,58 +235,9 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Conto corrente base gratuito per pensionati e redditi bassi, via entro fine novembre: a chi spetta",
-      "url": "https://www.lastampa.it/tuttosoldi/2026/11/06/news/conto_corrente_base_gratuito_per_pensionati_e_redditi_bassi_via_entro_fine_novembre_a_chi_spetta-15790036/",
-      "excerpt": "La Banca d’Italia ha evidenziato che le banche e gli altri enti prestatori di servizi sono tenuti per legge a proporre il prodotto a chi ne ha diritto entro la fine di questo mese. Come funziona",
-      "publishedAt": "2026-11-06T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Dazi, dopo la sconfitta di Trump gli Usa cambieranno rotta? Il vino italiano spera nella svolta",
-      "url": "https://www.lastampa.it/economia/2026/11/06/news/il_boomerang_dei_dazi_usa_su_vini_e_liquori_trump_ci_ripensa-15790101/",
-      "excerpt": "Nei primi 8 mesi crollo verticale delle importazioni dei nostri prodotti e inflazione Usa in forte aumento. Federvini: «Un danno anche per la loro economia, utile ora una distensione dei rapporti»",
-      "publishedAt": "2026-11-06T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Alec Ross: “L’opposizione ai data center è reale, gli americani hanno paura per ambiente e lavoro”",
-      "url": "https://www.lastampa.it/economia/2026/11/06/news/alec_ross_un_voto_contro_trump_ma_l_opposizione_ai_data_center_e_reale-15789188/",
-      "excerpt": "Intervista all’esperto di innovazione docente della Bologna Business School: “Gli americani hanno votato contro Trump, non contro l’Ai. Ma ora potrebbe cambiare la geografia dei data center”",
-      "publishedAt": "2026-11-06T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "L’AI Act e il paradosso dei contenuti: se tutto è artificiale, niente è più umano",
-      "url": "https://www.lastampa.it/tech/2026/11/06/news/l_ai_act_e_il_paradosso_dei_contenuti_se_tutto_e_artificiale_niente_e_piu_umano-15790135/",
-      "excerpt": "Le filigrane digitali rischiano di mettere sullo stesso piano testi interamente generati dall’intelligenza artificiale e contenuti semplicemente revisionati. Un sistema pensato per garantire trasparenza potrebbe finire per svalutare il lavoro umano e cancellare la distinzione tra autori e algoritmi",
-      "publishedAt": "2026-11-06T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Bus con quaranta studenti a bordo finisce fuori strada: attimi di paura all’alba a Polonghera",
-      "url": "https://www.lastampa.it/cuneo/2026/11/06/news/cronaca_bus-15790055/",
-      "excerpt": "Attimi di paura questa mattina a Polonghera per un bus di linea carico di studenti e diretto a Saluzzo. All’altezza di una curva, all’ingresso di Polonghera, lungo la provinciale 663, il ...",
-      "publishedAt": "2026-11-06T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Setta di Almese, sequestrati beni per 700 mila euro al guru. Così li teneva nascosti",
-      "url": "https://www.lastampa.it/torino/2026/11/06/news/setta_almese_guru_sequestro_beni_700_mila_euro-15790019/",
-      "excerpt": "Case, terreni, gioielli e orologi antichi: le donazioni delle vittime. Nel patrimonio sequestrato anche una casa rifugio per donne",
-      "publishedAt": "2026-11-06T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Il neo presidente della valle d’Aosta Marguerettaz ha un voto in più: “Ma non devo piacere a tutti”",
-      "url": "https://www.lastampa.it/aosta/2026/11/06/news/il_neo_presidente_della_valle_d_aosta_marguerettaz_ha_un_voto_in_piu_ma_non_devo_piacere_a_tutti-15790107/",
-      "excerpt": "Varata la giunta nata dalla decadenza di Testolin. La maggioranza si allarga nel voto segreto chiesto da Carrel",
-      "publishedAt": "2026-11-06T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Società fittizie su Amazon, sede in Bulgaria ma testa in Italia. Così evadevano 3 milioni di euro",
-      "url": "https://www.lastampa.it/imperia-sanremo/2026/11/06/news/societa_sulla_carta_in_bulgaria_ma_amministrate_dall_italia_a_imperia_maxi_evasione_al_fisco-15790048/",
-      "excerpt": "Operazione della guardia di finanza: accertati oltre tre milioni di ricavi non dichiarati nel commercio online di prodotti elettronici. Denunciato amministratore delle due imprese",
+      "title": "Sanità, Piemonte in rosso. L’allarme di Riboldi: “Nel 2027 maggiori spese per quasi 300 milioni”",
+      "url": "https://www.lastampa.it/nord-ovest/2026/11/06/news/sanita_piemonte_conti_rosso_fondo_governo_meloni-15790731/",
+      "excerpt": "L’assessore regionale: “Il governo ha fatto tanto ma le risorse del Fondo nazionale non sono sufficienti, dovremo intervenire”",
       "publishedAt": "2026-11-06T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -289,6 +261,34 @@
       "excerpt": "«Il veto è stato di Antonio Tajani, non di Forza Italia, che è una cosa diversa». Federico Freni, sottosegretario all’Economia della Lega, torna sulla mancata nomina alla presidenza della Consob, la Commissione nazionale per le società e la Borsa. Ospite di Myrta Merlino a «Myrta Confidential», in onda il 6 novembre su",
       "publishedAt": "2026-11-06T00:00:00Z",
       "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Schiaffi e strattoni ai bambini dell'asilo: i filmati delle telecamere che incastrano la direttrice",
+      "url": "https://www.lastampa.it/cronaca/2026/11/05/video/schiaffi_e_strattoni_ai_bambini_dellasilo_i_filmati_delle_telecamere_che_incastrano_la_direttrice-15789026/",
+      "excerpt": "La direttrice 55enne di un asilo di Monza è accusata di avere ripetutamente aggredito i bambini con schiaffi, strattoni e percosse. L’indagine, avviata dopo le denunce di alcuni genitori, si è avvalsa delle telecamere installate nella struttura: il 26 ottobre avrebbero ripreso la donna mentre colpiva una bambina al vol",
+      "publishedAt": "2026-11-05T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Il vecchio video del padre della sergente morta in Bosnia: “Noi ci salutavamo così, ciao Lauretta”",
+      "url": "https://www.lastampa.it/cronaca/2026/11/05/video/laura_procacci_padre_saluto_militare_elicottero_bosnia-15788673/",
+      "excerpt": "Laura Procacci, 32 anni, sergente del Corpo militare volontario della Croce Rossa italiana e laureanda in Medicina, è una delle quattro vittime dello schianto di un elicottero militare CH-47 avvenuto in Bosnia-Erzegovina. Il velivolo, impegnato in un’attività addestrativa nell’ambito della missione europea Eufor Althea",
+      "publishedAt": "2026-11-05T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Semplificazione amministrativa, il motore che fa crescere il Paese",
+      "url": "https://www.lastampa.it/economia/2026/11/05/news/semplificazione_amministrativa_il_motore_che_fa_crescere_il_paese-15789102/",
+      "excerpt": "Lunedì l’incontro alle Ogr con il ministro Zangrillo, gli esperti di digitalizzazione e i rappresentanti delle imprese",
+      "publishedAt": "2026-11-05T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "“Ristoratori, frenate i prezzi del vino”: la sfida dei produttori contro la crisi",
+      "url": "https://www.lastampa.it/asti/2026/11/05/news/asti_ristoratori_frenate_prezzi_vino_sfida_produttori_contro_crisi-15788274/",
+      "excerpt": "Da Asti la provocazione anti-ricarichi: “Giusto un 10 percento, oltre si danneggia il mercato”",
+      "publishedAt": "2026-11-05T00:00:00Z",
+      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -302,5 +302,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 0.66
+  "durationSeconds": 0.92
 }

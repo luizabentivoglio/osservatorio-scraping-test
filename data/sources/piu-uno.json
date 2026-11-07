@@ -4,7 +4,7 @@
   "sourceId": "piu-uno",
   "originUrl": "https://piu.uno/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-06T23:33:47.252759Z",
+  "collectedAt": "2026-11-07T09:17:40.044827Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -29,13 +29,6 @@
       "url": "https://piu.uno/notizie/dario-nanni-entra-in-piu-uno",
       "excerpt": "«Sono praticamente cinque anni che sto da solo. Ho fatto quasi tutta la consiliatura senza una struttura politica alle spalle e questo, a volte, è stato un limite». Dario Nanni racconta così il percorso che lo ha portato ad aderire a Più Uno, la nuova formazione politica fondata da Ernesto Maria Ruffini e Franco Gabrie",
       "publishedAt": "2026-10-26T00:00:00Z",
-      "dateEvidence": "html:publication-time"
-    },
-    {
-      "title": "Gabrielli e Ruffini: in campo ci sono i più competenti ma il Pd non se ne è accorto · Più Uno",
-      "url": "https://piu.uno/notizie/corriere-gabrielli-ruffini-i-piu-competenti",
-      "excerpt": "Franco Gabrielli e Ernesto Maria Ruffini hanno fondato un nuovo partito chiamato «Più Uno», che va a collocarsi nel fantasmagorico Campo largo. Perché i Dem non li hanno chiamati e convinti? Il tema non è stabilire perché lo Sbirro e l’Esattore abbiano sentito la necessità di fondare l’ennesimo nuovo partito chiamato “",
-      "publishedAt": "2026-10-24T00:00:00Z",
       "dateEvidence": "html:publication-time"
     }
   ],
@@ -73,10 +66,10 @@
       "status": 200
     }
   ],
-  "message": "4 notizie recenti con data verificata; copertura parziale.",
+  "message": "3 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [],
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://piu.uno/",
-  "durationSeconds": 3.78
+  "durationSeconds": 3.56
 }

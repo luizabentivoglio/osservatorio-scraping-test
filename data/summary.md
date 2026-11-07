@@ -9,7 +9,7 @@
 | breaking-italy | ok | trafilatura | 1 | — |
 | camera | ok | trafilatura | 6 | — |
 | cisl | blocked | html | 0 | robots_disallowed |
-| cnr | ok | rss | 20 | — |
+| cnr | error | html | 0 | connection_error |
 | coldiretti | ok | trafilatura | 3 | — |
 | commissione-europea | ok | trafilatura | 1 | — |
 | comune-bollate | ok | trafilatura | 5 | — |
@@ -34,11 +34,11 @@
 | iai | ok | trafilatura | 4 | — |
 | il-fatto | blocked | html | 0 | robots_disallowed |
 | il-notiziario | blocked | html | 0 | access_restricted |
-| il-post | ok | trafilatura | 6 | — |
+| il-post | ok | trafilatura | 5 | — |
 | ingv | ok | rss | 4 | — |
 | ispi | blocked | html | 0 | robots_disallowed |
 | ispra | ok | rss | 0 | — |
-| iss | error | html | 0 | timeout |
+| iss | ok | trafilatura | 0 | — |
 | istat | ok | rss | 10 | — |
 | istituto-bruno-leoni | ok | trafilatura | 5 | — |
 | italia-domani-rizzo | ok | trafilatura | 3 | — |
@@ -48,7 +48,7 @@
 | libera | ok | html | 1 | — |
 | mef | ok | trafilatura | 2 | — |
 | msf | ok | trafilatura | 6 | — |
-| osservatorio-cpi | ok | trafilatura | 6 | — |
+| osservatorio-cpi | ok | trafilatura | 5 | — |
 | oxfam | ok | trafilatura | 4 | — |
 | pagella-politica | ok | trafilatura | 6 | — |
 | palazzo-chigi | ok | rss | 10 | — |
@@ -58,7 +58,7 @@
 | patto-nord | no_feed | crawl4ai | 0 | parsing_error |
 | pillole-economia | blocked | html | 0 | access_restricted |
 | piu-europa | blocked | html | 0 | access_restricted |
-| piu-uno | ok | trafilatura | 4 | — |
+| piu-uno | ok | trafilatura | 3 | — |
 | pri | no_feed | crawl4ai | 0 | parsing_error |
 | quirinale | blocked | html | 0 | access_restricted |
 | rassegnally | blocked | html | 0 | access_restricted |
