@@ -4,12 +4,19 @@
   "sourceId": "italia-domani-rizzo",
   "originUrl": "https://www.italiadomanirizzo.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-07T09:17:16.262089Z",
+  "collectedAt": "2026-11-07T16:39:31.806875Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "Carrara: il dirigente nazionale Andrea Romiti in prima linea per Italia Domani - Italia Domani",
+      "url": "https://www.italiadomanirizzo.it/grande-partecipazione-a-carrara-con-italia-domani-e-il-salut/",
+      "excerpt": "Grande successo a Marina di Carrara con Andrea Romiti protagonista alla presentazione del libro di Tommaso Cerno e alla partecipata cena del movimento con la videochiamata di Marco Rizzo.",
+      "publishedAt": "2026-11-07T00:00:00Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
     {
       "title": "Crisi a Bari per Futuro Nazionale: oltre sessanta iscritti lasciano il movimento - Italia Domani",
       "url": "https://www.italiadomanirizzo.it/crisi-a-bari-per-futuro-nazionale-oltre-sessanta-iscritti-la/",
@@ -21,13 +28,6 @@
       "title": "Suppletive Chieti: Ranieri propone fondo immediato contro il dissesto - Italia Domani",
       "url": "https://www.italiadomanirizzo.it/suppletive-chieti-ranieri-propone-fondo-immediato-contro-il/",
       "excerpt": "In vista del voto del 15 e 16 novembre, il candidato di Italia Domani Danilo Ranieri lancia la proposta di un fondo rapido per sindaci e cittadini colpiti da allagamenti.",
-      "publishedAt": "2026-11-05T00:00:00Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Criscuolo (Italia Domani): sanità campana in affanno, servono strutture efficienti - Italia Domani",
-      "url": "https://www.italiadomanirizzo.it/criscuolo-italia-domani-sanita-campana-in-affanno-servono-st/",
-      "excerpt": "Il coordinatore regionale di Italia Domani Marco Rizzo, Criscuolo, denuncia le difficoltà della sanità in Campania e i sacrifici imposti ai cittadini per il risanamento dei conti.",
       "publishedAt": "2026-11-05T00:00:00Z",
       "dateEvidence": "jsonld:datePublished"
     }
@@ -42,15 +42,15 @@
       "status": 200
     },
     {
+      "url": "https://www.italiadomanirizzo.it/grande-partecipazione-a-carrara-con-italia-domani-e-il-salut/",
+      "status": 200
+    },
+    {
       "url": "https://www.italiadomanirizzo.it/crisi-a-bari-per-futuro-nazionale-oltre-sessanta-iscritti-la/",
       "status": 200
     },
     {
       "url": "https://www.italiadomanirizzo.it/suppletive-chieti-ranieri-propone-fondo-immediato-contro-il/",
-      "status": 200
-    },
-    {
-      "url": "https://www.italiadomanirizzo.it/criscuolo-italia-domani-sanita-campana-in-affanno-servono-st/",
       "status": 200
     },
     {
@@ -94,5 +94,5 @@
   "candidateCount": 8,
   "datedCount": 3,
   "listingUrl": "https://www.italiadomanirizzo.it/",
-  "durationSeconds": 4.9
+  "durationSeconds": 5.89
 }

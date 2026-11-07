@@ -4,45 +4,52 @@
   "sourceId": "il-post",
   "originUrl": "https://www.ilpost.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-07T09:17:14.874513Z",
+  "collectedAt": "2026-11-07T16:39:30.096358Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
-      "title": "Il nuovo capo di gabinetto di Trump è uno molto radicale",
-      "url": "https://www.ilpost.it/2026/11/07/stephen-miller-capo-di-gabinetto/?homepagePosition=0",
-      "excerpt": "La scelta di Stephen Miller, ideatore delle violente campagne dell'ICE, ci dice qualcosa su come andrà nei prossimi due anni",
-      "publishedAt": "2026-11-07T08:06:45Z",
+      "title": "C’è stata una sparatoria nella piazza principale di Cracovia, in Polonia",
+      "url": "https://www.ilpost.it/2026/11/07/sparatoria-piazza-del-mercato-cracovia-morti/?homepagePosition=0",
+      "excerpt": "Almeno cinque persone sono state uccise e diverse sono state ferite da un uomo che ha sparato da una macchina",
+      "publishedAt": "2026-11-07T14:32:52Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "Ad Amsterdam un gruppo di attivisti ha invaso il cantiere di un data center di Microsoft",
+      "url": "https://www.ilpost.it/2026/11/07/attivisti-protesta-data-center-amsterdam-paesi-bassi/?bitPosition=1",
+      "excerpt": "Ad Amsterdam un gruppo di attivisti ha invaso il cantiere di un data center di Microsoft - Condividi - X - Regala il Post Venerdì un gruppo di attivisti del collettivo Geef Tegengas (“Fai resistenza”, in italiano) si è introdotto nel cantiere di un data center Microsoft ad Amsterdam, nei Paesi Bassi, per protestare con",
+      "publishedAt": "2026-11-07T11:02:36Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "I servizi segreti europei hanno aperto un’indagine coordinata per individuare chi c’è dietro ai falsi allarmi bomba",
+      "url": "https://www.ilpost.it/2026/11/07/agenzie-intelligence-europa-falsi-allarmi-bomba-aerei-russia/?bitPosition=2",
+      "excerpt": "I servizi segreti europei hanno aperto un’indagine coordinata per individuare chi c’è dietro ai falsi allarmi bomba - Condividi - X - Regala il Post Diverse agenzie di intelligence europee hanno aperto un’indagine coordinata per capire se ci sia la Russia dietro ai numerosi falsi allarmi bomba segnalati negli ultimi gi",
+      "publishedAt": "2026-11-07T10:24:35Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "C’è stato un attacco informatico contro la società che sta costruendo la galleria del Brennero",
+      "url": "https://www.ilpost.it/2026/11/07/attacco-informatico-galleria-del-brennero/?bitPosition=3",
+      "excerpt": "C’è stato un attacco informatico contro la società che sta costruendo la galleria del Brennero - Condividi - X - Regala il Post La BBT SE, la società incaricata di costruire la cosiddetta “galleria di base del Brennero” che collegherà l’Italia e l’Austria attraverso le montagne, ha subìto un attacco informatico. La not",
+      "publishedAt": "2026-11-07T09:15:55Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "La procura di Milano ha deciso di non fare ricorso contro la scarcerazione di Youssef Siher",
+      "url": "https://www.ilpost.it/2026/11/07/procura-milano-ricorso-youssef-siher/?bitPosition=4",
+      "excerpt": "La procura di Milano ha deciso di non fare ricorso contro la scarcerazione di Youssef Siher - Condividi - X - Regala il Post La procura di Milano ha annunciato che non farà ricorso contro la scarcerazione di Youssef Siher, il trentenne amministratore della pagina Instagram e del gruppo Telegram Movimento 17 ottobre, ap",
+      "publishedAt": "2026-11-07T08:42:42Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
       "title": "Trump ha nominato Stephen Miller capo di gabinetto della Casa Bianca",
-      "url": "https://www.ilpost.it/2026/11/06/stephen-miller-nuovo-capo-di-gabinetto-casa-bianca-chief-of-staff/?bitPosition=1",
+      "url": "https://www.ilpost.it/2026/11/06/stephen-miller-nuovo-capo-di-gabinetto-casa-bianca-chief-of-staff/?bitPosition=5",
       "excerpt": "Trump ha nominato Stephen Miller capo di gabinetto della Casa Bianca - Condividi - X - Regala il Post In un post sulla sua piattaforma social Truth, il presidente degli Stati Uniti Donald Trump ha annunciato la nomina di Stephen Miller a capo di gabinetto (chief of staff) della Casa Bianca. Miller, che finora era vicec",
       "publishedAt": "2026-11-06T19:05:40Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Secondo la Commissione europea, TikTok non fa abbastanza per proteggere gli utenti vulnerabili dai “rabbit hole” dannosi",
-      "url": "https://www.ilpost.it/2026/11/06/commissione-europea-tiktok-valutazione-preliminare/?bitPosition=2",
-      "excerpt": "Secondo la Commissione europea, TikTok non fa abbastanza per proteggere gli utenti vulnerabili dai “rabbit hole” dannosi - Condividi - X - Regala il Post Secondo una valutazione preliminare della Commissione europea, TikTok violerebbe il Regolamento sui servizi digitali (Digital Services Act, o DSA) a causa dell’effett",
-      "publishedAt": "2026-11-06T18:30:55Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Peppe Poeta non è più l’allenatore della squadra di basket Olimpia Milano",
-      "url": "https://www.ilpost.it/2026/11/06/peppe-poeta-non-e-piu-allenatore-olimpia-milano/?bitPosition=3",
-      "excerpt": "Peppe Poeta non è più l’allenatore della squadra di basket Olimpia Milano - Condividi - X - Regala il Post Venerdì la squadra di basket Olimpia Milano ha sollevato dall’incarico il suo allenatore Peppe Poeta. Non ha ancora spiegato le ragioni della decisione, ma probabilmente c’entra il brutto momento che la squadra pi",
-      "publishedAt": "2026-11-06T18:10:44Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "JD Vance si è già distanziato da Trump",
-      "url": "https://www.ilpost.it/2026/11/04/analisi-sconfitta-repubblicani-midterm-jd-vance/?homepagePosition=0.1&referrerPost=3727541",
-      "excerpt": "Il vicepresidente statunitense ha attribuito la sconfitta dei Repubblicani alla guerra in Medio Oriente, mettendo in dubbio che ne sia valsa la pena",
-      "publishedAt": "2026-11-04T17:33:56Z",
       "dateEvidence": "jsonld:datePublished"
     }
   ],
@@ -56,34 +63,34 @@
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/07/stephen-miller-capo-di-gabinetto/?homepagePosition=0",
+      "url": "https://www.ilpost.it/2026/11/07/sparatoria-piazza-del-mercato-cracovia-morti/?homepagePosition=0",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/04/analisi-sconfitta-repubblicani-midterm-jd-vance/?homepagePosition=0.1&referrerPost=3727541",
+      "url": "https://www.ilpost.it/2026/11/07/attivisti-protesta-data-center-amsterdam-paesi-bassi/?bitPosition=1",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/02/02/ice-fondi-miliardi/?homepagePosition=0.2&referrerPost=3727541",
+      "url": "https://www.ilpost.it/2026/11/07/agenzie-intelligence-europa-falsi-allarmi-bomba-aerei-russia/?bitPosition=2",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/06/stephen-miller-nuovo-capo-di-gabinetto-casa-bianca-chief-of-staff/?bitPosition=1",
+      "url": "https://www.ilpost.it/2026/11/07/attacco-informatico-galleria-del-brennero/?bitPosition=3",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/06/commissione-europea-tiktok-valutazione-preliminare/?bitPosition=2",
+      "url": "https://www.ilpost.it/2026/11/07/procura-milano-ricorso-youssef-siher/?bitPosition=4",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/06/peppe-poeta-non-e-piu-allenatore-olimpia-milano/?bitPosition=3",
+      "url": "https://www.ilpost.it/2026/11/06/stephen-miller-nuovo-capo-di-gabinetto-casa-bianca-chief-of-staff/?bitPosition=5",
       "status": 200
     }
   ],
-  "message": "5 notizie recenti con data verificata; copertura parziale.",
+  "message": "6 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [],
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.ilpost.it/",
-  "durationSeconds": 3.53
+  "durationSeconds": 3.77
 }

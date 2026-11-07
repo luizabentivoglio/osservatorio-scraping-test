@@ -4,12 +4,19 @@
   "sourceId": "palazzo-chigi",
   "originUrl": "https://www.governo.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-07T09:17:29.867721Z",
+  "collectedAt": "2026-11-07T16:39:45.605525Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.governo.it/feed/rss",
   "items": [
+    {
+      "title": "Dichiarazione del Presidente del Consiglio Meloni",
+      "url": "https://www.governo.it/it/articolo/dichiarazione-del-presidente-del-consiglio-meloni/33050",
+      "excerpt": "Esprimo la mia piena solidarietà al Vice Presidente del Consiglio Antonio Tajani per quanto emerso sull’attività di hacker filorussi e sulla diffusione sul dark web di dati personali che lo riguardano. La messa in vendita di informazioni riservate su esponenti delle istituzioni desta grande preoccupazione e va affronta",
+      "publishedAt": "2026-11-07T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "Visita del Presidente Meloni alla 128ª edizione di Fieracavalli",
       "url": "https://www.governo.it/it/articolo/visita-del-presidente-meloni-alla-128-edizione-di-fieracavalli/33049",
@@ -72,13 +79,6 @@
       "excerpt": "L'intesa raggiunta su Electrolux rappresenta un passo importante nell'impegno per la tutela dell'industria italiana e dei livelli occupazionali. Oltre 100 milioni di investimenti, continuità produttiva per gli stabilimenti e uscite esclusivamente volontarie e incentivate. Un risultato significativo per i lavoratori coi",
       "publishedAt": "2026-11-04T00:00:00Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Giornata dell’Unità Nazionale e delle Forze armate",
-      "url": "https://www.governo.it/it/articolo/giornata-dell-unit-nazionale-e-delle-forze-armate/33025",
-      "excerpt": "Il Presidente del Consiglio, Giorgia Meloni, ha partecipato alla Cerimonia di deposizione di una corona d'alloro, da parte del Capo dello Stato, sulla Tomba del Milite Ignoto all'Altare della Patria, in occasione della Giornata dell’Unità Nazionale e delle Forze Armate.",
-      "publishedAt": "2026-11-04T00:00:00Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -100,5 +100,5 @@
     }
   ],
   "message": "Feed dichiarato dalla fonte; date di pubblicazione verificate.",
-  "durationSeconds": 30.13
+  "durationSeconds": 30.19
 }

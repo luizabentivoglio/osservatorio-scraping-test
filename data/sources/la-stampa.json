@@ -4,23 +4,107 @@
   "sourceId": "la-stampa",
   "originUrl": "https://www.lastampa.it/",
   "configuredFeedUrl": "https://www.lastampa.it/rss/copertina.xml",
-  "collectedAt": "2026-11-07T09:17:18.933669Z",
+  "collectedAt": "2026-11-07T16:39:34.393599Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.lastampa.it/rss/copertina.xml",
   "items": [
     {
-      "title": "Allarmi bomba, il Financial Times: “I servizi europei indagano sulla pista russa”. Allerta su 35 voli in tre giorni",
-      "url": "https://www.lastampa.it/esteri/2026/11/07/news/allarmi_bomba_sui_voli_europei_indagini_sulla_pista_russa-15790942/",
-      "excerpt": "Un’ipotesi di lavoro è che le minacce siano di attivisti filo-Cremlino o gruppi hacker",
+      "title": "Polonia, in mimetica e con arma militare spara sulla folla a Cracovia: 5 morti e diversi feriti. Un fermato",
+      "url": "https://www.lastampa.it/esteri/2026/11/07/news/sparatoria_cracovia-15791189/",
+      "excerpt": "Fermato un sospetto: «Ho sparato a caso»",
       "publishedAt": "2026-11-07T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Allarme sui voli, le scatole cinesi degli hacker dietro la guerra ibrida a costo zero",
-      "url": "https://www.lastampa.it/cronaca/2026/11/07/news/le_scatole_cinesi_degli_hacker_dietro_la_guerra_ibrida_a_costo_zero-15790791/",
-      "excerpt": "Crescono i dubbi sulle rivendicazioni. E ora si muove anche l’Europol",
+      "title": "N'Dri replica a Simeone: Torino-Lecce finisce 1-1",
+      "url": "https://www.lastampa.it/sport/2026/11/07/news/torino_lecce_highlights-15791227/",
+      "excerpt": "Un colpo di fortuna a testa e un punto ciascuno. Torino e Lecce muovono la classifica dopo una serie di sconfitte e così vanno alla sosta con qualche timore in meno, anche se la partita allo ...",
+      "publishedAt": "2026-11-07T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Napoli, De Laurentiis blocca Allegri: conferenza stampa annullata all’ultimo minuto",
+      "url": "https://www.lastampa.it/sport/2026/11/07/news/napoli_de_laurentiis_blocca_allegri_conferenza_stampa_annullata_all_ultimo_minuto-15791161/",
+      "excerpt": "Il presidente impone il silenzio stampa alla vigilia della sfida con la Lazio. Giornalisti già a Castel Volturno, il tecnico pronto a parlare. Smentite le voci di dimissioni, ma nel club cresce la tensione",
+      "publishedAt": "2026-11-07T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Rugby a Torino, troppo Sudafrica e nemmeno un pizzico d’Italia",
+      "url": "https://www.lastampa.it/sport/2026/11/07/news/rugby_a_torino_troppo_sudafrica_e_nemmeno_un_pizzico_d_italia-15791137/",
+      "excerpt": "Una sconfitta di proporzioni preoccupanti: 7-66",
+      "publishedAt": "2026-11-07T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Tajani nel mirino del dark web, l'allarme di Meloni. Il ministro: “È guerra ibrida, ne parli il G7”",
+      "url": "https://www.lastampa.it/politica/2026/11/07/news/tajani_diffusi_miei_dati_sul_dark_web_non_mi_faro_intimidire-15790990/",
+      "excerpt": "La premier: «La messa in vendita di informazioni riservate su esponenti delle istituzioni desta grande preoccupazione e va affrontata con la massima determinazione»",
+      "publishedAt": "2026-11-07T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "“Tajani Maga”, FI contro Bonaccini. Il ministro: false notizie per attaccarmi",
+      "url": "https://www.lastampa.it/politica/2026/11/07/news/tajani_maga_fi_contro_bonaccini_il_ministro_false_notizie_per_attaccarmi-15791163/",
+      "excerpt": "Il post è stato successivamente rimosso. Il presidente del Pd: «Meme ironico»",
+      "publishedAt": "2026-11-07T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Attacco hacker al Tunnel del Brennero. Allarmi bomba sui voli, Ft: indagini su pista russa. Meloni: “Grande preoccupazione”",
+      "url": "https://www.lastampa.it/esteri/2026/11/07/news/allarmi_bomba_sui_voli_europei_indagini_sulla_pista_russa-15790942/",
+      "excerpt": "Allerta su 35 velivoli in tre giorni",
+      "publishedAt": "2026-11-07T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Margelletti: “La Russia è in guerra con noi. E non si fermerà. Vuole conquistare l'Europa col terrore”",
+      "url": "https://www.lastampa.it/esteri/2026/11/07/news/margelletti-russia-guerra-ibrida-hacker-allarmi-bomba-voli-15791131/",
+      "excerpt": "L’esperto di geopolitica: «Droni, cyberattacchi e falsi allarmi bomba: continuiamo a considerarli episodi isolati. Mosca punta a condizionare il voto. Senza una risposta dura, sarà sempre peggio»",
+      "publishedAt": "2026-11-07T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Così lo scontro in Polonia rischia di spezzare l’asse tra il Ppe e i Conservatori di Meloni",
+      "url": "https://www.lastampa.it/rubriche/condominio-europa/2026/11/07/news/cosi_lo_scontro_in_polonia_rischia_di_spezzare_l_asse_tra_il_ppe_e_i_conservatori_di_meloni-15790992/",
+      "excerpt": "BRUXELLES. È difficile trovare in Europa un Paese più polarizzato della Polonia, dove lo scontro non è soltanto politico tra la maggioranza di governo e l’opposizione. È in corso un vero e ...",
+      "publishedAt": "2026-11-07T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "“No a guerre e carovita”, “Calpestiamo le bollette e il sistema”, tremila in corteo a Torino",
+      "url": "https://www.lastampa.it/torino/2026/11/07/diretta/corteo_carovita_rugby_calcio_torino_lecce_oggi_strade_bus_deviati_orari-15790903/",
+      "excerpt": "Dopo il raduno in piazza Castello la manifestazione si dirige verso piazza Vittorio e piazza Crispi",
+      "publishedAt": "2026-11-07T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Il gioco dell’oca dell’Anac, la Lega cerca un nuovo nome: la carta dell’ex M5s Urraro",
+      "url": "https://www.lastampa.it/politica/2026/11/07/news/il_gioco_dell_oca_dell_anac_la_lega_cerca_un_nuovo_nome_la_carta_dell_ex_m5s_urraro-15791045/",
+      "excerpt": "La rinuncia di Altieri ha rimesso tutto in discussione. E adesso Matteo Salvini vuole riprovarci",
+      "publishedAt": "2026-11-07T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Il trullo, il sassofono e le poltrone: Altieri, l'ex azzurro folgorato da Salvini",
+      "url": "https://www.lastampa.it/politica/2026/11/07/news/il_trullo_il_sassofono_e_le_poltrone_l_ex_azzurro_folgorato_da_matteo-15791005/",
+      "excerpt": "Chi è il politico al centro del braccio di ferro sull’Anticorruzione",
+      "publishedAt": "2026-11-07T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Perché Trump ha ceduto ai Maga, e ha nominato l’ultranazionalista Miller",
+      "url": "https://www.lastampa.it/esteri/speciali/elezioni-midterm-2026/2026/11/07/news/trump_maga_wiles_usa_miller-15790846/",
+      "excerpt": "Cade la prima testa nell’amministrazione dopo le elezioni, ma l’ex capa dello staff ora potrà aiutare Rubio. Sprofonda JD Vance, mentre si fanno avanti i repubblicani che in questi anni hanno preso le distanze",
+      "publishedAt": "2026-11-07T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Il Papa americano che sfida Trump. Don Di Giacomo: “Il Sud America ha trovato il suo libertador”",
+      "url": "https://www.lastampa.it/esteri/2026/11/07/news/il_papa_americano_che_sfida_trump_don_di_giacomo_il_sud_america_ha_trovato_il_suo_libertador-15791152/",
+      "excerpt": "Il canonista: «Leone XIV unisce i popoli oppressi e li guida verso la liberazione dal neo colonialismo Usa»",
       "publishedAt": "2026-11-07T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -32,13 +116,6 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Trump furioso cede ai Maga, via Wiles. Al suo posto l’ultranazionalista Miller",
-      "url": "https://www.lastampa.it/esteri/speciali/elezioni-midterm-2026/2026/11/07/news/trump_maga_wiles_usa_miller-15790846/",
-      "excerpt": "Cade la prima testa nell’amministrazione dopo le elezioni, ma l’ex capa dello staff ora potrà aiutare Rubio. Sprofonda JD Vance, mentre si fanno avanti i repubblicani che in questi anni hanno preso le distanze",
-      "publishedAt": "2026-11-07T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
       "title": "Velo, preghiera e causa pro-Pal, l’orgoglio dei musulmani vincitori",
       "url": "https://www.lastampa.it/esteri/2026/11/07/news/musulmani_elezioni_midterm_usavelo_preghiera_e_causa_pro-pal_l_orgoglio_dei_musulmani_vincitori-15790842/",
       "excerpt": "L’ondata della diversità ha prevalso sull’islamofobia: la destra li odia, loro parlano di carovita",
@@ -46,16 +123,9 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Uruguay, il Papa in aiuto al Sud America che soffre: “Che belle le mani invecchiate facendo del bene”",
-      "url": "https://www.lastampa.it/esteri/2026/11/07/news/uruguay_leone_xiv_in_soccorso_al_sud_america_che_soffre-15790940/",
-      "excerpt": "«Quanto sono belle le mani invecchiate facendo del bene», dice il Papa che oggi visita la città di Paysandù dove gli immigrati italiani sono la maggioranza",
-      "publishedAt": "2026-11-07T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Nella Polonia dei veti incrociati: il presidente contro il premier. E Mosca cavalca le divisioni",
-      "url": "https://www.lastampa.it/esteri/2026/11/07/news/crisi_polonia_cosa_succede_tusk-15790810/",
-      "excerpt": "L’opposizione protesta in Parlamento durante la visita di Metsola. Nawrocki attacca Tusk. L’Ue teme ricadute su sicurezza e investimenti",
+      "title": "“Sono Jasmine, non devo dimostrarlo a un medico”: il tribunale riconosce il genere senza perizie",
+      "url": "https://www.lastampa.it/cronaca/2026/11/07/news/jasmine_piattelli_transgender_arezzo_rettifica_anagrafica_senza_certificati_medici-15791119/",
+      "excerpt": "Jasmine Piattelli, 68 anni, ha ottenuto la rettifica del nome e del sesso anagrafico sulla base del suo vissuto, senza documentazione clinica.",
       "publishedAt": "2026-11-07T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -67,9 +137,9 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Le frequenze ribelli di Alice. Così è partita la rivoluzione delle radio libere italiane",
-      "url": "https://www.lastampa.it/cultura/2026/11/07/news/radio_alice_bologna_1977-15790786/",
-      "excerpt": "Un documentario racconta l’emittente bolognese, voce del Movimento ’77",
+      "title": "Fare cinema è un lusso, a Londra una casa gratis per i giovani talenti",
+      "url": "https://www.lastampa.it/spettacoli/2026/11/07/news/fare_cinema_e_un_lusso_a_londra_una_casa_gratis_per_i_giovani_talenti-15791012/",
+      "excerpt": "La sceneggiatrice britannica Phoebe Waller-Bridge ha donato un immobile per sostenerli. In Italia, intanto, metà degli sceneggiatori under 35 guadagna meno di 5mila euro l’anno, mentre il lavoro si concentra nelle città più costose",
       "publishedAt": "2026-11-07T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -81,37 +151,79 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Il genio romantico di George Michael dagli Anni 80 a TikTok",
-      "url": "https://www.lastampa.it/spettacoli/2026/11/07/news/il_genio_romantico_di_george_michael_dagli_anni_80_a_tiktok-15790710/",
-      "excerpt": "A 10 anni dalla morte è ora in sala il film concerto “The Faith Tour”",
+      "title": "Le frequenze ribelli di Alice. Così è partita la rivoluzione delle radio libere italiane",
+      "url": "https://www.lastampa.it/cultura/2026/11/07/news/radio_alice_bologna_1977-15790786/",
+      "excerpt": "Un documentario racconta l’emittente bolognese, voce del Movimento ’77",
       "publishedAt": "2026-11-07T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Guerra a colpi di kalashnikov nei boschi dello spaccio. “Sparano per rubarsi i clienti”",
-      "url": "https://www.lastampa.it/cronaca/2026/11/07/news/guerra_a_colpi_di_kalashnikov_nei_boschi_dello_spaccio_sparano_per_rubarsi_i_clienti-15790832/",
-      "excerpt": "Blitz nelle piazze del Milanese, sequestrate ai pusher anche armi da guerra. “Puntano ai telefonini dei rivali per accaparrarsi i tossicodipendenti”",
+      "title": "Per due volte a un punto dall’eliminazione: la rimonta pazzesca di Alcaraz contro Fritz",
+      "url": "https://www.lastampa.it/sport/2026/11/07/video/alcaraz-rimonta-fritz-due-match-point-masters-parigi-15791198/",
+      "excerpt": "Carlos Alcaraz ha rimontato Taylor Fritz nei quarti del Masters di Parigi dopo aver perso un combattutissimo primo set al tie-break. Nel secondo parziale lo spagnolo ha annullato due match point con altrettanti vincenti di diritto, imponendosi poi per 7-5 prima di dominare il set decisivo. Il numero due del mondo ha ch",
       "publishedAt": "2026-11-07T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Roberto Sergio: “Lascio la Rai ma non escludo un ritorno. La lottizzazione vanifica le competenze”",
+      "title": "Sembra un maxi dirigibile, ma è una centrale eolica volante: arriva fino a 4mila metri d'altezza",
+      "url": "https://www.lastampa.it/esteri/2026/11/07/video/cina-centrale-eolica-volante-s4000-primo-test-urbano-15791110/",
+      "excerpt": "Il sistema eolico volante S4000 ha completato a Yueyang, nella provincia cinese dello Hunan, il suo primo test in un contesto urbano. La struttura, lunga 67 metri, larga 40 e alta 23, è una piattaforma riempita di elio progettata per portare generatori leggeri fino a 4mila metri, dove i venti sono più forti e regolari.",
+      "publishedAt": "2026-11-07T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "La paura per i data center viene dal Texas: la soluzione potrebbe essere nello Spazio",
+      "url": "https://www.lastampa.it/esteri/2026/11/07/video/wall_street_la_paura_per_i_data_center_viene_dal_texas_la_soluzione_potrebbe_essere_nello_spazio-15791043/",
+      "excerpt": "La scossa che fa paura ai mercati è partita da Austin e si lega al timore sui data center. Martedì, nel voto di Midterm, Gina Hinojosa ha battuto il governatore repubblicano Greg Abbott con il 52,85% dei voti, riportando i democratici alla guida del Texas dopo oltre trent'anni al termine di una campagna incentrata sull",
+      "publishedAt": "2026-11-07T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Due trombe d'aria davanti ai faraglioni di Capri: le due colonne d'aria sembrano abbracciarsi",
+      "url": "https://www.lastampa.it/video/socialnews/2026/11/07/video/capri-trombe-marine-abbraccio-faraglioni-video-15791050/",
+      "excerpt": "Una doppia tromba marina si è formata davanti ai Faraglioni di Capri: avvicinandosi, le due colonne d’aria e acqua sono sembrate stringersi in un suggestivo abbraccio davanti al simbolo dell’isola. Le trombe marine nascono quando aria calda e umida risale rapidamente sotto una nube temporalesca e comincia a ruotare, fo",
+      "publishedAt": "2026-11-07T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "“Lascio la Rai ma non escludo un ritorno. La lottizzazione vanifica le competenze”",
       "url": "https://www.lastampa.it/politica/2026/11/07/news/roberto_sergio_lascio_la_rai_ma_non_escludo_un_ritorno_la_lottizzazione_vanifica_le_competenze-15790780/",
       "excerpt": "L’ex ad di viale Mazzini: «Il taglio del canone mette a rischio i progetti industriali, per l’azienda serve stabilità»",
       "publishedAt": "2026-11-07T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Prandelli: “Fiorentina-Juve, che sfida. Senza leader serve il gioco, così la decide l’allenatore”",
-      "url": "https://www.lastampa.it/sport/2026/11/07/news/prandelli_fiorentina-juve_che_sfida_senza_leader_serve_il_gioco_cosi_la_decide_l_allenatore-15790801/",
-      "excerpt": "Il doppio ex: «Bianconeri da Champions, anche le prime hanno problemi»",
+      "title": "Caro carburanti, allarme dei distributori indipendenti: “Con il price cap, chiudiamo”",
+      "url": "https://www.lastampa.it/economia/2026/11/07/news/caro_carburanti_benzina_pompe_bianche_price_cap-15791133/",
+      "excerpt": "Confcommercio e le associazioni aderenti a trasporti e logistica, della filiera della distribuzione carburanti e dell’automotive denunciano: “Il tetto al prezzo penalizza le pompe bianche. A rischio 30 mila posti di lavoro”",
       "publishedAt": "2026-11-07T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Toro, prova d’appello e d’orgoglio: “Strada giusta, non siamo in calo”",
-      "url": "https://www.lastampa.it/sport/2026/11/07/news/toro_lecce_prova_d_appello_abate-15790864/",
-      "excerpt": "Oggi il Lecce al Grande Torino per ripartire dopo le cadute con Como e Frosinone. Il tecnico Abate: “Troviamo continuità”. La fiducia dei tifosi rimane intatta: in 23 mila allo stadio per sostenere i granata",
+      "title": "Le piogge travolgono il furgone con una paziente dializzata: l’agente arriva in 100 secondi",
+      "url": "https://www.lastampa.it/video/socialnews/2026/11/07/video/florida-furgone-affonda-canale-polizia-salva-due-persone-15791105/",
+      "excerpt": "Il mezzo stava riportando a casa dalla dialisi Maria Andrade-Vasquez quando le piogge torrenziali lo hanno trascinato fuori dalla strada e dentro un canale di Port St. Lucie, in Florida. L’agente Peterson è arrivato cento secondi dopo l’allarme e si è immediatamente gettato in acqua, mettendo in salvo prima il conducen",
+      "publishedAt": "2026-11-07T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "A 50 anni scopre la ginnastica artistica, Catherine Fedeli: \"Trova ciò che ami e continua a muoverti\"",
+      "url": "https://www.lastampa.it/video/socialnews/2026/11/07/video/a_50_anni_scopre_la_ginnastica_artistica_catherine_fedeli_trova_cio_che_ami_e_continua_a_muoverti-15790676/",
+      "excerpt": "A 50 anni comincia a praticare ginnastica artistica e sceglie di raccontare il suo percorso sui social. È la storia di Catherine Fedeli, che vive in Connecticut, negli Stati Uniti, e condivide questa nuova passione attraverso i suoi video. Il messaggio che accompagna la sua esperienza è un invito a trovare un’attività ",
+      "publishedAt": "2026-11-07T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Il drone ucraino punta il motociclista: lui per salvarsi indica dove sono i soldati russi",
+      "url": "https://www.lastampa.it/esteri/2026/11/07/video/drone-ucraino-motociclista-indica-mezzo-soldati-russi-video-15791036/",
+      "excerpt": "Il filmato diffuso dal 14esimo Corpo d’armata ucraino mostra un drone FPV avvicinarsi a un motociclista in un villaggio russo di confine. L’uomo si ferma, congiunge le mani e indica la direzione presa da un UAZ-452 con a bordo militari russi: il velivolo segue il percorso e colpisce il mezzo. La dinamica e l’interpreta",
+      "publishedAt": "2026-11-07T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Precipita dalla vetta della montagna: si aggrappa e sporgenza rocciosa e viene salvata",
+      "url": "https://www.lastampa.it/video/socialnews/2026/11/07/video/utah-escursionista-cade-monte-timpanogos-salvataggio-elicottero-15791084/",
+      "excerpt": "L’escursionista è scivolata dal sentiero nei pressi della vetta del monte Timpanogos, che raggiunge i 3.566 metri nello Utah, Usa, precipitando per diverse centinaia di metri. La caduta si è arrestata su una piccola cengia, una stretta sporgenza della parete rocciosa. Individuata dall’aereo del soccorso della contea, l",
       "publishedAt": "2026-11-07T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -137,30 +249,37 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Sabato di cortei e partite a Torino: strade chiuse, bus deviati e orari",
-      "url": "https://www.lastampa.it/torino/2026/11/07/diretta/corteo_carovita_rugby_calcio_torino_lecce_oggi_strade_bus_deviati_orari-15790903/",
-      "excerpt": "Migliaia di tifosi verso gli stadi, manifestanti da piazza Castello a piazza Crispi: ecco le zone coinvolte, possibili cambiamenti di percorso dei mezzi pubblici",
+      "title": "Niente estate di San Martino: la prima neve annuncia l’inverno che verrà",
+      "url": "https://www.lastampa.it/cuneo/2026/11/07/news/prima_neve_cuneese-15790532/",
+      "excerpt": "Valli imbiancate, mentre in pianura weekend fra nuvole, piogge e calo delle temperature",
       "publishedAt": "2026-11-07T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Ex Ilva, è il giorno della gara per la vendita: chi comprerà l’intero gruppo?",
-      "url": "https://www.lastampa.it/alessandria/2026/11/07/news/chiusura_bando_vendita_ex_ilva_novi_ligure-15790668/",
-      "excerpt": "Nella notte tra il 6 e il 7 novembre scadrà il termine per raccogliere le manifestazioni di interesse sull’intero gruppo Acciaierie d’Italia, che comprende anche la sede di Novi Ligure. Intanto dal tavolo con il ministero non arrivano risposte: altro vertice martedì 10",
+      "title": "Orbassano, da lunedì 9 novembre attivi due nuovi autovelox lungo la circonvallazione esterna",
+      "url": "https://www.lastampa.it/torino/2026/11/07/news/orbassano_nuovi_autovelox_circonvallazione_esterna_provinciale_6-15790960/",
+      "excerpt": "Occhi elettronici puntati in entrambe le direzioni, verso Beinasco e Piossasco",
       "publishedAt": "2026-11-07T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Emergenza Pfas, task force regionale per gestire le criticità",
-      "url": "https://www.lastampa.it/savona/2026/11/07/news/emergenza_pfas_task_force_regionale_gestire_criticita_borgio_verezzi_pietra_ligure-15790751/",
-      "excerpt": "Il piano prevede anche controlli più approfonditi sulle acque e uno studio con monitoraggio della popolazione esposta",
+      "title": "Addio a Cesare Balbis, pioniere del volo in montagna",
+      "url": "https://www.lastampa.it/aosta/2026/11/07/news/addio_cesare_balbis_pioniere_volo_montagna-15791023/",
+      "excerpt": "Pilota, imprenditore e fotografo, aveva 92 anni. Lunedì i funerali",
       "publishedAt": "2026-11-07T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Pasticcio Anac, Altieri rinuncia dopo le polemiche: “Dispiaciuto dagli attacchi mediatici”",
-      "url": "https://www.lastampa.it/politica/2026/11/06/news/altieri_all_anac_rischi_di_incompatibilita-15790278/",
-      "excerpt": "L’ex parlamentare è stato negli ultimi tre anni a capo del dipartimento Difesa della Lega. I capigruppo di Senato e Camera dell’opposizione alla premier avevano chiesto il ritiro della candidatura. Libera: «Un paradosso insostenibile»",
+      "title": "Riecco la banda della marmotta: a segno nella notte un colpo alla Bper Banca di Borgaro",
+      "url": "https://www.lastampa.it/torino/2026/11/07/news/banda_della_marmotta_furto_bper_banca_borgaro-15791027/",
+      "excerpt": "Alle 4 in via Caselle l’esplosione del bancomat ha svegliato di soprassalto numerosi residenti. Bottino da quantificare",
+      "publishedAt": "2026-11-07T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Berlino: “Non possiamo più fornire Patriot all'Ucraina”. Blackout a Kiev dopo gli attacchi russi",
+      "url": "https://www.lastampa.it/esteri/2026/11/07/diretta/guerra_russia_ucraina_news_oggi-15790879/",
+      "excerpt": "Putin conferma i colloqui trilaterali ad Abu Dhabi il 10 novembre. Kallas: «Senza Ue nessun accordo»",
       "publishedAt": "2026-11-06T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -169,125 +288,6 @@
       "url": "https://www.lastampa.it/cronaca/2026/11/06/news/i_fast_food_del_pollo_fritto_sulle_piste_da_sci_ennesimo_sfregio_alle_nostre_montagne-15790849/",
       "excerpt": "KFC sbarca a Madonna di Campiglio e a Cortina d’Ampezzo. I dubbi dei sindaci e la protesta del Cai",
       "publishedAt": "2026-11-06T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Paraguay, arrestato Peña dopo il fallimento di Ueno Bank. Alliana giura come nuovo presidente",
-      "url": "https://www.lastampa.it/esteri/2026/11/07/news/fallimento_banca_paraguay_arrestato_presidente_pena-15790886/",
-      "excerpt": "La Procura ha ordinato gli arresti domiciliari per l'ex capo dello Stato, accusato di aver favorito la banca con centinaia di milioni di fondi pubblici. Il Senato lo ha destituito e Pedro Alliana ha giurato come nuovo presidente. Migliaia di risparmiatori chiedono di riavere i propri soldi",
-      "publishedAt": "2026-11-06T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Meloni sale in sella a Fieracavalli e saluta il pubblico",
-      "url": "https://www.lastampa.it/cronaca/2026/11/06/video/giorgia_meloni_cavallo_fieracavalli_verona_2026-15790520/",
-      "excerpt": "Sale a cavallo e saluta il pubblico dalla sella: Giorgia Meloni visita Fieracavalli, a Verona, e durante il percorso si concede un breve giro nel circuito della manifestazione. La presidente del Consiglio è arrivata a Veronafiere nel pomeriggio del 6 novembre, nella seconda giornata della rassegna. L’evento, giunto all",
-      "publishedAt": "2026-11-06T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Vera Gheno: \"Attenzione a questa parola\". Perché dovremmo ascoltarla prima delle elezioni",
-      "url": "https://www.lastampa.it/rubriche/diversity-editor/2026/11/06/video/vera_gheno_attenzione_a_questa_parola_perche_dovremmo_ascoltarla_prima_delle_elezioni-15787037/",
-      "excerpt": "Qual è la parola a cui dovremmo prestare più attenzione quando parlano i politici? Per Vera Gheno è «sicurezza», uno dei termini più abusati nel dibattito pubblico. Intervistata per la rubrica Diversity Editor de La Stampa, la sociolinguista spiega come, a suo giudizio, la paura venga alimentata per individuare capri e",
-      "publishedAt": "2026-11-06T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "“Sei stato molto più di un coach”: l’emozionante addio di Sinner a Cahill",
-      "url": "https://www.lastampa.it/sport/2026/11/06/video/video_sinner_chiude_collaborazione_cahill_darren-15790183/",
-      "excerpt": "Jannik Sinner affida a un video il saluto al suo allenatore Darren Cahill: una sequenza di vittorie, abbracci e momenti vissuti lontano dai riflettori, accompagnata da un semplice “Grazie, Darren”. Il tecnico australiano, entrato nel gruppo nel 2022, ha contribuito alla trasformazione dell’azzurro in numero uno del mon",
-      "publishedAt": "2026-11-06T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Prato Nevoso, un sogno bianco tra le montagne: 40 centimetri di neve e l’inverno è già qui",
-      "url": "https://www.lastampa.it/cuneo/2026/11/06/video/prato_nevoso_un_sogno_bianco_tra_le_montagne_40_centimetri_di_neve_e_linverno_e_gia_qui-15790678/",
-      "excerpt": "Una coltre bianca ricopre Prato Nevoso, nel Cuneese: la prima abbondante nevicata ha portato circa 40 centimetri di neve. Le immagini diffuse dalla Snow Academy, pubblicate il 6 novembre, mostrano il comprensorio imbiancato in attesa dell’avvio della stagione sciistica. Il paesaggio è già invernale, ma l’arrivo della n",
-      "publishedAt": "2026-11-06T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Marsiglia, violini e violoncelli invadono la piazza: Bella ciao diventa la colonna sonora del corteo",
-      "url": "https://www.lastampa.it/esteri/2026/11/06/video/marsiglia_bella_ciao_350_musicisti_corteo_caro_vita-15790235/",
-      "excerpt": "Circa 350 musicisti professionisti e amatoriali hanno aperto sulle note di “Bella ciao” la manifestazione del 5 novembre a Marsiglia contro il caro vita e per salari, istruzione e servizi pubblici. L’iniziativa nasce dall’appello dell’Orchestre du Nouveau Monde, collettivo impegnato per la giustizia sociale e climatica",
-      "publishedAt": "2026-11-06T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Carlo Nordio a Myrta Confidential: \"Ho sdoganato il porno? Ho semplicemente messo dei paletti\"",
-      "url": "https://www.lastampa.it/politica/2026/11/06/video/carlo_nordio_a_myrta_confidential_ho_sdoganato_il_porno_ho_semplicemente_messo_dei_paletti-15790220/",
-      "excerpt": "In magistratura, a Venezia, Carlo Nordio si è occupato anche della censura di pellicole vietate ai minori. Il Ministro racconta a Myrta Merlino, su San Marino tv: “Era il 1982. Avevo appena finito l'inchiesta sulla colonna veneta delle Brigate Rosse. Avevamo fatto 150 arresti e il mio nome era stato trovato, ovviamente",
-      "publishedAt": "2026-11-06T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Kalashnikov nel bosco della droga, le forze speciali fanno saltare le porte di un rifugio",
-      "url": "https://www.lastampa.it/cronaca/2026/11/06/video/boschi_droga_lombardia_kalashnikov_carabinieri_otto_fermi_milano_como_varese-15790572/",
-      "excerpt": "Porte fatte saltare con microcariche esplosive per entrare nell’appartamento di Limido Comasco, dove i carabinieri hanno fermato sei persone. L’irruzione del Gruppo di intervento speciale (Gis) rientra nel blitz del 6 novembre tra Milano, Como e Varese, coordinato dalla Direzione distrettuale antimafia: otto i fermi co",
-      "publishedAt": "2026-11-06T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Una città d'argilla rimasta intatta per duemila anni: la meraviglia del II secolo a.C.",
-      "url": "https://www.lastampa.it/cultura/2026/11/06/video/jiaohe_citta_argilla_cina_via_della_seta-15790130/",
-      "excerpt": "Costruita a partire dal II secolo avanti Cristo in un’oasi dello Xinjiang, Jiaohe non fu edificata con mattoni o pietre, ma scavata direttamente in un altopiano d’argilla. Considerata la più grande, antica e meglio conservata città di terra al mondo, fu uno snodo fondamentale della Via della Seta: il clima arido ne ha ",
-      "publishedAt": "2026-11-06T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Sanità, Piemonte in rosso. L’allarme di Riboldi: “Nel 2027 maggiori spese per quasi 300 milioni”",
-      "url": "https://www.lastampa.it/nord-ovest/2026/11/06/news/sanita_piemonte_conti_rosso_fondo_governo_meloni-15790731/",
-      "excerpt": "L’assessore regionale: “Il governo ha fatto tanto ma le risorse del Fondo nazionale non sono sufficienti, dovremo intervenire”",
-      "publishedAt": "2026-11-06T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "TorinoSette, Atp a tutto pop con l'opening show di Achille Lauro",
-      "url": "https://www.lastampa.it/torinosette/2026/11/06/video/torinosette_atp_a_tutto_pop_con_lopening_show_di_achille_lauro-15789213/",
-      "excerpt": "Torino si prepara alle Nitto ATP Finals, con il concerto inaugurale di Achille Lauro, il 12 novembre all’Inalpi Arena, e gli incontri di Casa Tennis e del Fan Village: tra gli ospiti Neri Marcorè, Larissa Iapichino, Francesco De Carlo e Filippo Volandri, capitano della nazionale italiana di Coppa Davis. Sul fronte spor",
-      "publishedAt": "2026-11-06T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Cinesettimana: “Il Gatto col cappello” convince, George Michael non basta a salvare “The Faith Tour”",
-      "url": "https://www.lastampa.it/rubriche/cinesettimana/2026/11/06/video/cinesettimana_il_gatto_col_cappello_convince_george_michael_non_basta_a_salvare_the_faith_tour-15789110/",
-      "excerpt": "Un gatto combina guai e una leggenda del pop si dividono il grande schermo, con risultati diversi. Dal 5 novembre arriva nei cinema italiani «Il Gatto col cappello», brillante adattamento animato Warner del libro per l’infanzia di Dr. Seuss, diretto da Alessandro Carloni ed Erica Rivinoja. Dal 6 novembre è la volta di ",
-      "publishedAt": "2026-11-06T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Consob, Freni: \"È stato Tajani a non volermi, il veto non è di Forza Italia\"",
-      "url": "https://www.lastampa.it/politica/2026/11/06/video/federico_freni_consob_veto_tajani_myrta_merlino-15790426/",
-      "excerpt": "«Il veto è stato di Antonio Tajani, non di Forza Italia, che è una cosa diversa». Federico Freni, sottosegretario all’Economia della Lega, torna sulla mancata nomina alla presidenza della Consob, la Commissione nazionale per le società e la Borsa. Ospite di Myrta Merlino a «Myrta Confidential», in onda il 6 novembre su",
-      "publishedAt": "2026-11-06T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Schiaffi e strattoni ai bambini dell'asilo: i filmati delle telecamere che incastrano la direttrice",
-      "url": "https://www.lastampa.it/cronaca/2026/11/05/video/schiaffi_e_strattoni_ai_bambini_dellasilo_i_filmati_delle_telecamere_che_incastrano_la_direttrice-15789026/",
-      "excerpt": "La direttrice 55enne di un asilo di Monza è accusata di avere ripetutamente aggredito i bambini con schiaffi, strattoni e percosse. L’indagine, avviata dopo le denunce di alcuni genitori, si è avvalsa delle telecamere installate nella struttura: il 26 ottobre avrebbero ripreso la donna mentre colpiva una bambina al vol",
-      "publishedAt": "2026-11-05T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Il vecchio video del padre della sergente morta in Bosnia: “Noi ci salutavamo così, ciao Lauretta”",
-      "url": "https://www.lastampa.it/cronaca/2026/11/05/video/laura_procacci_padre_saluto_militare_elicottero_bosnia-15788673/",
-      "excerpt": "Laura Procacci, 32 anni, sergente del Corpo militare volontario della Croce Rossa italiana e laureanda in Medicina, è una delle quattro vittime dello schianto di un elicottero militare CH-47 avvenuto in Bosnia-Erzegovina. Il velivolo, impegnato in un’attività addestrativa nell’ambito della missione europea Eufor Althea",
-      "publishedAt": "2026-11-05T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Semplificazione amministrativa, il motore che fa crescere il Paese",
-      "url": "https://www.lastampa.it/economia/2026/11/05/news/semplificazione_amministrativa_il_motore_che_fa_crescere_il_paese-15789102/",
-      "excerpt": "Lunedì l’incontro alle Ogr con il ministro Zangrillo, gli esperti di digitalizzazione e i rappresentanti delle imprese",
-      "publishedAt": "2026-11-05T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "“Ristoratori, frenate i prezzi del vino”: la sfida dei produttori contro la crisi",
-      "url": "https://www.lastampa.it/asti/2026/11/05/news/asti_ristoratori_frenate_prezzi_vino_sfida_produttori_contro_crisi-15788274/",
-      "excerpt": "Da Asti la provocazione anti-ricarichi: “Giusto un 10 percento, oltre si danneggia il mercato”",
-      "publishedAt": "2026-11-05T00:00:00Z",
       "dateEvidence": "feed:published"
     }
   ],
@@ -302,5 +302,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 0.92
+  "durationSeconds": 0.95
 }

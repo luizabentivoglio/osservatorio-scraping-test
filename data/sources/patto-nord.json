@@ -4,7 +4,7 @@
   "sourceId": "patto-nord",
   "originUrl": "https://www.pattoperilnord.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-07T09:17:35.598695Z",
+  "collectedAt": "2026-11-07T16:39:52.813607Z",
   "status": "no_feed",
   "diagnosticCode": "parsing_error",
   "method": "crawl4ai",
@@ -41,5 +41,5 @@
   "candidateCount": 4,
   "datedCount": 0,
   "listingUrl": "https://www.pattoperilnord.it/",
-  "durationSeconds": 0.83
+  "durationSeconds": 0.85
 }

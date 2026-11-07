@@ -11,7 +11,7 @@
 | cisl | blocked | html | 0 | robots_disallowed |
 | cnr | error | html | 0 | connection_error |
 | coldiretti | ok | trafilatura | 3 | — |
-| commissione-europea | ok | trafilatura | 1 | — |
+| commissione-europea | blocked | html | 0 | rate_limited |
 | comune-bollate | ok | trafilatura | 5 | — |
 | confcommercio | blocked | html | 0 | access_restricted |
 | confindustria | ok | trafilatura | 1 | — |
@@ -34,7 +34,7 @@
 | iai | ok | trafilatura | 4 | — |
 | il-fatto | blocked | html | 0 | robots_disallowed |
 | il-notiziario | blocked | html | 0 | access_restricted |
-| il-post | ok | trafilatura | 5 | — |
+| il-post | ok | trafilatura | 6 | — |
 | ingv | ok | rss | 4 | — |
 | ispi | blocked | html | 0 | robots_disallowed |
 | ispra | ok | rss | 0 | — |
@@ -44,11 +44,11 @@
 | italia-domani-rizzo | ok | trafilatura | 3 | — |
 | italia-viva | blocked | html | 0 | access_restricted |
 | la-stampa | ok | rss | 40 | — |
-| legambiente | ok | trafilatura | 0 | — |
+| legambiente | error | html | 0 | timeout |
 | libera | ok | html | 1 | — |
 | mef | ok | trafilatura | 2 | — |
 | msf | ok | trafilatura | 6 | — |
-| osservatorio-cpi | ok | trafilatura | 5 | — |
+| osservatorio-cpi | ok | trafilatura | 6 | — |
 | oxfam | ok | trafilatura | 4 | — |
 | pagella-politica | ok | trafilatura | 6 | — |
 | palazzo-chigi | ok | rss | 10 | — |

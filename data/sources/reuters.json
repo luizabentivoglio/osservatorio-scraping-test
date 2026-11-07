@@ -4,7 +4,7 @@
   "sourceId": "reuters",
   "originUrl": "https://www.reuters.com/world/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-07T09:17:43.961742Z",
+  "collectedAt": "2026-11-07T16:39:57.959500Z",
   "status": "blocked",
   "diagnosticCode": "robots_disallowed",
   "method": "html",

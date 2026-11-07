@@ -4,7 +4,7 @@
   "sourceId": "camera",
   "originUrl": "https://www.camera.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-07T09:16:42.012905Z",
+  "collectedAt": "2026-11-07T16:38:54.351494Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -39,16 +39,16 @@
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "L'ecosistema della sicurezza integrata - Lunedì alle 9.30 diretta webtv - Messaggio di Ascani",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63915",
-      "excerpt": "Lunedì 9 novembre, alle ore 9.30, presso l'Aula dei Gruppi parlamentari della Camera si svolge il c...",
+      "title": "Il valore della coesione - Rapporto Svimez - Martedì alle 11 diretta webtv - Presente Mattarella - Saluto di Fontana",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63912",
+      "excerpt": "Martedì 10 novembre, alle ore 11, presso l'Aula dei Gruppi parlamentari della Camera si svolge la p...",
       "publishedAt": "2026-11-06T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "Dal fango del 1994 al modello nazionale: 25 anni del Coordinamento Territoriale del Volontariato di Protezione Civile di Alessandria - Lunedì alle 15 diretta webtv - Messaggio di Fontana",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63913",
-      "excerpt": "Lunedì 9 novembre, alle ore 15, presso la Sala Matteotti di Palazzo Theodoli - Bianchelli si svolge...",
+      "title": "L'ecosistema della sicurezza integrata - Lunedì alle 9.30 diretta webtv - Messaggio di Ascani",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63915",
+      "excerpt": "Lunedì 9 novembre, alle ore 9.30, presso l'Aula dei Gruppi parlamentari della Camera si svolge il c...",
       "publishedAt": "2026-11-06T00:00:00Z",
       "dateEvidence": "html:publication-label"
     }
@@ -79,11 +79,11 @@
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63915",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63912",
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63913",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63915",
       "status": 200
     }
   ],
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://comunicazione.camera.it/archivio-prima-pagina",
-  "durationSeconds": 4.24
+  "durationSeconds": 4.29
 }

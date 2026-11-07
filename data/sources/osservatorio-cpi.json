@@ -4,12 +4,19 @@
   "sourceId": "osservatorio-cpi",
   "originUrl": "https://osservatoriocpi.unicatt.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-07T09:17:24.229342Z",
+  "collectedAt": "2026-11-07T16:39:40.560262Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "L’ulteriore espansione del regime forfettario a 100.000 euro",
+      "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/l-ulteriore-espansione-del-regime-forfettario-a-100000-euro.html",
+      "excerpt": "Una delle riforme contenute nella manovra finanziaria per il 2027 riguarda l’allargamento del regime forfettario alle partite IVA con fatturato fino a 100.000 euro. La proposta aggrava un’iniquità nel trattamento relativo dei lavoratori autonomi rispetto ai dipendenti e incentiva tre mali cronici dell’economia italiana",
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "dateEvidence": "html:article-header"
+    },
     {
       "title": "La legge di bilancio 2027-2029: un commento",
       "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/la-legge-di-bilancio-2027-2029-un-commento.html",
@@ -56,6 +63,10 @@
       "status": 200
     },
     {
+      "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/l-ulteriore-espansione-del-regime-forfettario-a-100000-euro.html",
+      "status": 200
+    },
+    {
       "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/la-legge-di-bilancio-2027-2029-un-commento.html",
       "status": 200
     },
@@ -76,16 +87,10 @@
       "status": 200
     }
   ],
-  "message": "5 notizie recenti con data verificata; copertura parziale.",
+  "message": "6 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [],
   "candidateCount": 12,
-  "datedCount": 5,
+  "datedCount": 6,
   "listingUrl": "https://osservatoriocpi.unicatt.it/pubblicazioni.html",
-  "durationSeconds": 5.64,
-  "attemptErrors": [
-    {
-      "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/l-ulteriore-espansione-del-regime-forfettario-a-100000-euro.html",
-      "code": "connection_error"
-    }
-  ]
+  "durationSeconds": 5.5
 }
