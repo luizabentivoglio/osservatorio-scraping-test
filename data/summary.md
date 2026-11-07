@@ -9,9 +9,9 @@
 | breaking-italy | ok | trafilatura | 1 | — |
 | camera | ok | trafilatura | 6 | — |
 | cisl | blocked | html | 0 | robots_disallowed |
-| cnr | error | html | 0 | connection_error |
+| cnr | ok | rss | 20 | — |
 | coldiretti | ok | trafilatura | 3 | — |
-| commissione-europea | blocked | html | 0 | rate_limited |
+| commissione-europea | ok | trafilatura | 1 | — |
 | comune-bollate | ok | trafilatura | 5 | — |
 | confcommercio | blocked | html | 0 | access_restricted |
 | confindustria | ok | trafilatura | 1 | — |
@@ -44,7 +44,7 @@
 | italia-domani-rizzo | ok | trafilatura | 3 | — |
 | italia-viva | blocked | html | 0 | access_restricted |
 | la-stampa | ok | rss | 40 | — |
-| legambiente | error | html | 0 | timeout |
+| legambiente | ok | trafilatura | 0 | — |
 | libera | ok | html | 1 | — |
 | mef | ok | trafilatura | 2 | — |
 | msf | ok | trafilatura | 6 | — |

@@ -4,12 +4,19 @@
   "sourceId": "palazzo-chigi",
   "originUrl": "https://www.governo.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-07T16:39:45.605525Z",
+  "collectedAt": "2026-11-07T22:20:57.764578Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.governo.it/feed/rss",
   "items": [
+    {
+      "title": "Le condoglianze del Presidente Meloni alla Polonia",
+      "url": "https://www.governo.it/it/articolo/le-condoglianze-del-presidente-meloni-alla-polonia/33052",
+      "excerpt": "Esprimo profondo dolore e le mie più sentite condoglianze alla Polonia per il vile e inaccettabile atto di violenza che ha colpito la città di Cracovia. Il mio pensiero, e quello del Governo italiano, va alle famiglie delle vittime innocenti, ai feriti, ai quali auguro una pronta e totale guarigione, e all’intero popol",
+      "publishedAt": "2026-11-07T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "Dichiarazione del Presidente del Consiglio Meloni",
       "url": "https://www.governo.it/it/articolo/dichiarazione-del-presidente-del-consiglio-meloni/33050",
@@ -72,13 +79,6 @@
       "excerpt": "In occasione della “Giornata dell’Unità Nazionale e delle Forze armate”, dall’imbrunire della giornata odierna fino all’alba del 5 novembre 2026, la facciata principale di Palazzo Chigi sarà illuminata con il Tricolore italiano: verde, bianco e rosso, a bande verticali.",
       "publishedAt": "2026-11-04T00:00:00Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Intesa raggiunta su Electrolux, dichiarazione del Presidente Meloni",
-      "url": "https://www.governo.it/it/articolo/intesa-raggiunta-su-electrolux-dichiarazione-del-presidente-meloni/33031",
-      "excerpt": "L'intesa raggiunta su Electrolux rappresenta un passo importante nell'impegno per la tutela dell'industria italiana e dei livelli occupazionali. Oltre 100 milioni di investimenti, continuità produttiva per gli stabilimenti e uscite esclusivamente volontarie e incentivate. Un risultato significativo per i lavoratori coi",
-      "publishedAt": "2026-11-04T00:00:00Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -100,5 +100,5 @@
     }
   ],
   "message": "Feed dichiarato dalla fonte; date di pubblicazione verificate.",
-  "durationSeconds": 30.19
+  "durationSeconds": 30.33
 }

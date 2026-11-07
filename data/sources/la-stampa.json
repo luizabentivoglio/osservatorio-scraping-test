@@ -4,37 +4,65 @@
   "sourceId": "la-stampa",
   "originUrl": "https://www.lastampa.it/",
   "configuredFeedUrl": "https://www.lastampa.it/rss/copertina.xml",
-  "collectedAt": "2026-11-07T16:39:34.393599Z",
+  "collectedAt": "2026-11-07T22:20:45.708958Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.lastampa.it/rss/copertina.xml",
   "items": [
     {
-      "title": "Polonia, in mimetica e con arma militare spara sulla folla a Cracovia: 5 morti e diversi feriti. Un fermato",
+      "title": "Svolta in Israele, Herzog affida il mandato a Gadi Eisenkot",
+      "url": "https://www.lastampa.it/esteri/2026/11/07/news/israele_herzog_governo_eisenkot-15791450/",
+      "excerpt": "Il leader del partito Yashar avrà 28 giorni per formare il governo",
+      "publishedAt": "2026-11-07T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Spari sulla folla a Cracovia: sei morti. Altre tre vittime in casa del giovane fermato: “Vicino all'estremismo di destra”",
       "url": "https://www.lastampa.it/esteri/2026/11/07/news/sparatoria_cracovia-15791189/",
-      "excerpt": "Fermato un sospetto: «Ho sparato a caso»",
+      "excerpt": "Scene da film e raffiche di proiettili da un’auto in corsa. Lo stragista colpito e arrestato dai poliziotti: «Ho sparato a caso». Risulta «affascinato da ideologie di estrema destra»",
+      "publishedAt": "2026-11-07T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "L’incubo di una scolaresca di italiani in gita a Cracovia: “Rifugiati dentro l’ambasciata”",
+      "url": "https://www.lastampa.it/esteri/2026/11/07/news/cracovia_paura_34_studenti_italiani-15791452/",
+      "excerpt": "Trentaquattro studenti e tre accompagnatori: tutti salvi",
+      "publishedAt": "2026-11-07T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Cracovia, lo scontro a fuoco tra l’attentatore e un agente: entrambi cadono a terra",
+      "url": "https://www.lastampa.it/esteri/2026/11/07/video/cracovia-attacco-video-scontro-fuoco-attentatore-poliziotto-15791319/",
+      "excerpt": "Le immagini riprendono la fase finale dell’attacco all’incrocio tra via Dietla e via Stradomska: un poliziotto affronta l’uomo armato e riesce a colpirlo, ma subito dopo cade a sua volta, ferito nella sparatoria. L’aggressore aveva aperto il fuoco dall’auto contro passanti scelti a caso nella centrale Piazza del Mercat",
+      "publishedAt": "2026-11-07T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Cracovia, le vittime a terra dopo la sparatoria: i passanti tentano di soccorrerle",
+      "url": "https://www.lastampa.it/esteri/2026/11/07/video/cracovia-sparatoria-piazza-mercato-video-vittime-soccorsi-15791245/",
+      "excerpt": "Le immagini mostrano i primi drammatici minuti nel centro storico di Cracovia: diverse persone giacciono a terra mentre cittadini e soccorritori prestano le prime cure. Secondo la polizia, un uomo è entrato in auto nella Piazza del Mercato e ha sparato contro passanti scelti a caso, uccidendo cinque persone e ferendone",
       "publishedAt": "2026-11-07T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
       "title": "N'Dri replica a Simeone: Torino-Lecce finisce 1-1",
       "url": "https://www.lastampa.it/sport/2026/11/07/news/torino_lecce_highlights-15791227/",
-      "excerpt": "Un colpo di fortuna a testa e un punto ciascuno. Torino e Lecce muovono la classifica dopo una serie di sconfitte e così vanno alla sosta con qualche timore in meno, anche se la partita allo ...",
+      "excerpt": "Pareggio incolore per i granata allo stadio Grande Torino: succede tutto nella ripresa con due tiri deviati. Palo per Adams nel finale, partita iniziata con 16 minuti di ritardo per rifare le linee di porta",
       "publishedAt": "2026-11-07T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Napoli, De Laurentiis blocca Allegri: conferenza stampa annullata all’ultimo minuto",
-      "url": "https://www.lastampa.it/sport/2026/11/07/news/napoli_de_laurentiis_blocca_allegri_conferenza_stampa_annullata_all_ultimo_minuto-15791161/",
-      "excerpt": "Il presidente impone il silenzio stampa alla vigilia della sfida con la Lazio. Giornalisti già a Castel Volturno, il tecnico pronto a parlare. Smentite le voci di dimissioni, ma nel club cresce la tensione",
+      "title": "Gp San Paolo: pole di Norris nel diluvio, Antonelli in prima fila",
+      "url": "https://www.lastampa.it/sport/2026/11/08/news/formula_1_kimi_antonelli_brasile-15791521/",
+      "excerpt": "In Brasile Kimi approfitta della penalità di Russell. Retrocessi in griglia anche Leclerc (14°) e Hamilton (20°) per sostituzioni di componenti nelle power unit",
       "publishedAt": "2026-11-07T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Rugby a Torino, troppo Sudafrica e nemmeno un pizzico d’Italia",
-      "url": "https://www.lastampa.it/sport/2026/11/07/news/rugby_a_torino_troppo_sudafrica_e_nemmeno_un_pizzico_d_italia-15791137/",
-      "excerpt": "Una sconfitta di proporzioni preoccupanti: 7-66",
+      "title": "MotoGp, Marquez vince la Sprint in Qatar: decimo Mondiale a un passo. Bagnaia cade e s’infortuna",
+      "url": "https://www.lastampa.it/sport/2026/11/07/news/motogp_marquez_vince_sprint_qatar_bagnaia_infortunio-15791357/",
+      "excerpt": "Lo spagnolo della Ducati trionfa in una gara ricca di colpi di scena e porta a 49 punti il vantaggio su Martin, terzo al traguardo dopo una rimonta dall'11ª posizione. Bezzecchi cade dopo un contatto con Marquez",
       "publishedAt": "2026-11-07T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -67,37 +95,9 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Così lo scontro in Polonia rischia di spezzare l’asse tra il Ppe e i Conservatori di Meloni",
-      "url": "https://www.lastampa.it/rubriche/condominio-europa/2026/11/07/news/cosi_lo_scontro_in_polonia_rischia_di_spezzare_l_asse_tra_il_ppe_e_i_conservatori_di_meloni-15790992/",
-      "excerpt": "BRUXELLES. È difficile trovare in Europa un Paese più polarizzato della Polonia, dove lo scontro non è soltanto politico tra la maggioranza di governo e l’opposizione. È in corso un vero e ...",
-      "publishedAt": "2026-11-07T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "“No a guerre e carovita”, “Calpestiamo le bollette e il sistema”, tremila in corteo a Torino",
-      "url": "https://www.lastampa.it/torino/2026/11/07/diretta/corteo_carovita_rugby_calcio_torino_lecce_oggi_strade_bus_deviati_orari-15790903/",
-      "excerpt": "Dopo il raduno in piazza Castello la manifestazione si dirige verso piazza Vittorio e piazza Crispi",
-      "publishedAt": "2026-11-07T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Il gioco dell’oca dell’Anac, la Lega cerca un nuovo nome: la carta dell’ex M5s Urraro",
-      "url": "https://www.lastampa.it/politica/2026/11/07/news/il_gioco_dell_oca_dell_anac_la_lega_cerca_un_nuovo_nome_la_carta_dell_ex_m5s_urraro-15791045/",
-      "excerpt": "La rinuncia di Altieri ha rimesso tutto in discussione. E adesso Matteo Salvini vuole riprovarci",
-      "publishedAt": "2026-11-07T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Il trullo, il sassofono e le poltrone: Altieri, l'ex azzurro folgorato da Salvini",
-      "url": "https://www.lastampa.it/politica/2026/11/07/news/il_trullo_il_sassofono_e_le_poltrone_l_ex_azzurro_folgorato_da_matteo-15791005/",
-      "excerpt": "Chi è il politico al centro del braccio di ferro sull’Anticorruzione",
-      "publishedAt": "2026-11-07T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Perché Trump ha ceduto ai Maga, e ha nominato l’ultranazionalista Miller",
-      "url": "https://www.lastampa.it/esteri/speciali/elezioni-midterm-2026/2026/11/07/news/trump_maga_wiles_usa_miller-15790846/",
-      "excerpt": "Cade la prima testa nell’amministrazione dopo le elezioni, ma l’ex capa dello staff ora potrà aiutare Rubio. Sprofonda JD Vance, mentre si fanno avanti i repubblicani che in questi anni hanno preso le distanze",
+      "title": "Trump minaccia i dem: “Vogliono l’impeachment, farò indagini su di loro”",
+      "url": "https://www.lastampa.it/esteri/2026/11/07/news/trump_minaccia_i_democratici_impeachment-15791518/",
+      "excerpt": "La proposta al patron delle arti marziali Dana White di fargli da portavoce. E difende il segretario alla Difesa Hegseth: «È saldo, ha vinto due guerre»",
       "publishedAt": "2026-11-07T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -109,23 +109,16 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Texas, i dem alla guerra dei data center: “Blocchiamoli tutti”. Trump: “Sono strategici”",
-      "url": "https://www.lastampa.it/esteri/2026/11/07/news/texas_usa_data_center_trump-15790835/",
-      "excerpt": "La futura governatrice Hinojosa stoppa il mega impianto. Tre elettori su quattro sono contrari",
+      "title": "“No a guerre e carovita” e in piazza bruciate le bollette: tremila al corteo a Torino",
+      "url": "https://www.lastampa.it/torino/2026/11/07/diretta/corteo_carovita_rugby_calcio_torino_lecce_oggi_strade_bus_deviati_orari-15790903/",
+      "excerpt": "Dopo il raduno in piazza Castello la manifestazione si è svolta nelle vie del centro. Alla protesta tanti ragazzi, studenti universitari e anche gli agricoltori",
       "publishedAt": "2026-11-07T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Velo, preghiera e causa pro-Pal, l’orgoglio dei musulmani vincitori",
-      "url": "https://www.lastampa.it/esteri/2026/11/07/news/musulmani_elezioni_midterm_usavelo_preghiera_e_causa_pro-pal_l_orgoglio_dei_musulmani_vincitori-15790842/",
-      "excerpt": "L’ondata della diversità ha prevalso sull’islamofobia: la destra li odia, loro parlano di carovita",
-      "publishedAt": "2026-11-07T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "“Sono Jasmine, non devo dimostrarlo a un medico”: il tribunale riconosce il genere senza perizie",
-      "url": "https://www.lastampa.it/cronaca/2026/11/07/news/jasmine_piattelli_transgender_arezzo_rettifica_anagrafica_senza_certificati_medici-15791119/",
-      "excerpt": "Jasmine Piattelli, 68 anni, ha ottenuto la rettifica del nome e del sesso anagrafico sulla base del suo vissuto, senza documentazione clinica.",
+      "title": "“Lascio la Rai ma non escludo un ritorno. La lottizzazione vanifica le competenze”",
+      "url": "https://www.lastampa.it/politica/2026/11/07/news/roberto_sergio_lascio_la_rai_ma_non_escludo_un_ritorno_la_lottizzazione_vanifica_le_competenze-15790780/",
+      "excerpt": "L’ex ad di viale Mazzini: «Il taglio del canone mette a rischio i progetti industriali, per l’azienda serve stabilità»",
       "publishedAt": "2026-11-07T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -158,6 +151,20 @@
       "dateEvidence": "feed:published"
     },
     {
+      "title": "Il gioco dell’oca dell’Anac, la Lega cerca un nuovo nome: la carta dell’ex M5s Urraro",
+      "url": "https://www.lastampa.it/politica/2026/11/07/news/il_gioco_dell_oca_dell_anac_la_lega_cerca_un_nuovo_nome_la_carta_dell_ex_m5s_urraro-15791045/",
+      "excerpt": "La rinuncia di Altieri ha rimesso tutto in discussione. E adesso Matteo Salvini vuole riprovarci",
+      "publishedAt": "2026-11-07T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Il trullo, il sassofono e le poltrone: Altieri, l'ex azzurro folgorato da Salvini",
+      "url": "https://www.lastampa.it/politica/2026/11/07/news/il_trullo_il_sassofono_e_le_poltrone_l_ex_azzurro_folgorato_da_matteo-15791005/",
+      "excerpt": "Chi è il politico al centro del braccio di ferro sull’Anticorruzione",
+      "publishedAt": "2026-11-07T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
       "title": "Per due volte a un punto dall’eliminazione: la rimonta pazzesca di Alcaraz contro Fritz",
       "url": "https://www.lastampa.it/sport/2026/11/07/video/alcaraz-rimonta-fritz-due-match-point-masters-parigi-15791198/",
       "excerpt": "Carlos Alcaraz ha rimontato Taylor Fritz nei quarti del Masters di Parigi dopo aver perso un combattutissimo primo set al tie-break. Nel secondo parziale lo spagnolo ha annullato due match point con altrettanti vincenti di diritto, imponendosi poi per 7-5 prima di dominare il set decisivo. Il numero due del mondo ha ch",
@@ -186,9 +193,9 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "“Lascio la Rai ma non escludo un ritorno. La lottizzazione vanifica le competenze”",
-      "url": "https://www.lastampa.it/politica/2026/11/07/news/roberto_sergio_lascio_la_rai_ma_non_escludo_un_ritorno_la_lottizzazione_vanifica_le_competenze-15790780/",
-      "excerpt": "L’ex ad di viale Mazzini: «Il taglio del canone mette a rischio i progetti industriali, per l’azienda serve stabilità»",
+      "title": "Rally di Scandicci, pilota muore durante la gara: ferito il navigatore, annullata la competizione",
+      "url": "https://www.lastampa.it/cronaca/2026/11/07/news/rally_morto_scandicci_firenze_gara_annullat-15791299/",
+      "excerpt": "La tragedia nel Fiorentino, niente da fare per Andrea Bartarelli, 50 anni, tornato a correre dopo due anni: chi era la vittima",
       "publishedAt": "2026-11-07T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -221,7 +228,7 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Precipita dalla vetta della montagna: si aggrappa e sporgenza rocciosa e viene salvata",
+      "title": "Precipita dalla vetta della montagna: si aggrappa a sporgenza rocciosa e viene salvata",
       "url": "https://www.lastampa.it/video/socialnews/2026/11/07/video/utah-escursionista-cade-monte-timpanogos-salvataggio-elicottero-15791084/",
       "excerpt": "L’escursionista è scivolata dal sentiero nei pressi della vetta del monte Timpanogos, che raggiunge i 3.566 metri nello Utah, Usa, precipitando per diverse centinaia di metri. La caduta si è arrestata su una piccola cengia, una stretta sporgenza della parete rocciosa. Individuata dall’aereo del soccorso della contea, l",
       "publishedAt": "2026-11-07T00:00:00Z",
@@ -235,16 +242,9 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Canelli: “Silicon Box non farà decollare solo Novara, progetto strategico per l’industria europea”",
-      "url": "https://www.lastampa.it/novara/2026/11/07/news/silicon_box_novara_canelli_progetto_strategico-15790658/",
-      "excerpt": "Il sindaco è anche commissario straordinario per l’insediamento della fabbrica di chiplet ad Agognate",
-      "publishedAt": "2026-11-07T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Wall Street tenta il recupero ma i timori sull’Ai crescono: “Troppi debiti sui mercati”",
-      "url": "https://www.lastampa.it/economia/2026/11/07/news/wall_street_recupero_timori_ai_troppo_debito_mercati-15790774/",
-      "excerpt": "L’indice Nasdaq chiude in positivo dopo la girandola di vendite di giovedì. Gli investitori sono preoccupati per i futuri cantieri dei data center negli Usa",
+      "title": "Al raduno dei Babbi Natale al Regina Margherita ci sarà la sfilata dei motociclisti",
+      "url": "https://www.lastampa.it/torino/2026/11/07/news/al_raduno_dei_babbi_natale_al_regina_margherita_ci_sara_la_sfilata_dei_motociclisti-15791412/",
+      "excerpt": "Contrordine sul programma annunciato: il cantiere a Torino sarà aggirato chiudendo al traffico corso Unità d’Italia",
       "publishedAt": "2026-11-07T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -256,16 +256,23 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Orbassano, da lunedì 9 novembre attivi due nuovi autovelox lungo la circonvallazione esterna",
-      "url": "https://www.lastampa.it/torino/2026/11/07/news/orbassano_nuovi_autovelox_circonvallazione_esterna_provinciale_6-15790960/",
-      "excerpt": "Occhi elettronici puntati in entrambe le direzioni, verso Beinasco e Piossasco",
+      "title": "Canelli: “Silicon Box non farà decollare solo Novara, progetto strategico per l’industria europea”",
+      "url": "https://www.lastampa.it/novara/2026/11/07/news/silicon_box_novara_canelli_progetto_strategico-15790658/",
+      "excerpt": "Il sindaco è anche commissario straordinario per l’insediamento della fabbrica di chiplet ad Agognate",
       "publishedAt": "2026-11-07T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Addio a Cesare Balbis, pioniere del volo in montagna",
-      "url": "https://www.lastampa.it/aosta/2026/11/07/news/addio_cesare_balbis_pioniere_volo_montagna-15791023/",
-      "excerpt": "Pilota, imprenditore e fotografo, aveva 92 anni. Lunedì i funerali",
+      "title": "Ex centrale nucleare, a fuoco la palazzina uffici: “Nessun pericolo di natura radiologica”",
+      "url": "https://www.lastampa.it/vercelli/2026/11/07/news/nucleare_trino_centrale_fuoco_vigili_del_fuoco-15791444/",
+      "excerpt": "Trino, l’ipotesi di un corto circuito. Le rassicurazioni di Sogin e Comune: “L’area controllata del reattore è salva”",
+      "publishedAt": "2026-11-07T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Orbassano, da lunedì 9 novembre attivi due nuovi autovelox lungo la circonvallazione esterna",
+      "url": "https://www.lastampa.it/torino/2026/11/07/news/orbassano_nuovi_autovelox_circonvallazione_esterna_provinciale_6-15790960/",
+      "excerpt": "Occhi elettronici puntati in entrambe le direzioni, verso Beinasco e Piossasco",
       "publishedAt": "2026-11-07T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -282,13 +289,6 @@
       "excerpt": "Putin conferma i colloqui trilaterali ad Abu Dhabi il 10 novembre. Kallas: «Senza Ue nessun accordo»",
       "publishedAt": "2026-11-06T00:00:00Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "I fast food del pollo fritto sulle piste da sci: “Ennesimo sfregio alle nostre montagne”",
-      "url": "https://www.lastampa.it/cronaca/2026/11/06/news/i_fast_food_del_pollo_fritto_sulle_piste_da_sci_ennesimo_sfregio_alle_nostre_montagne-15790849/",
-      "excerpt": "KFC sbarca a Madonna di Campiglio e a Cortina d’Ampezzo. I dubbi dei sindaci e la protesta del Cai",
-      "publishedAt": "2026-11-06T00:00:00Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -302,5 +302,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 0.95
+  "durationSeconds": 1.04
 }
