@@ -4,7 +4,7 @@
   "sourceId": "comune-bollate",
   "originUrl": "https://comune.bollate.mi.it/it/news",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-08T01:52:24.318504Z",
+  "collectedAt": "2026-11-08T09:30:35.110327Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -85,5 +85,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://comune.bollate.mi.it/it/news",
-  "durationSeconds": 4.72
+  "durationSeconds": 4.97
 }

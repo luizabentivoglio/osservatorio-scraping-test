@@ -4,7 +4,7 @@
   "sourceId": "iss",
   "originUrl": "https://www.iss.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-08T01:52:51.414236Z",
+  "collectedAt": "2026-11-08T09:31:06.347041Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -49,5 +49,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.iss.it/comunicati-stampa",
-  "durationSeconds": 7.95
+  "durationSeconds": 8.88
 }

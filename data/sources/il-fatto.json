@@ -4,7 +4,7 @@
   "sourceId": "il-fatto",
   "originUrl": "https://www.ilfattoquotidiano.it/",
   "configuredFeedUrl": "https://www.ilfattoquotidiano.it/feed/",
-  "collectedAt": "2026-11-07T22:20:40.670331Z",
+  "collectedAt": "2026-11-08T09:31:04.590933Z",
   "status": "blocked",
   "diagnosticCode": "robots_disallowed",
   "method": "html",
@@ -16,8 +16,8 @@
       "status": 200
     }
   ],
-  "message": "Percorso escluso da robots.txt; prossimo controllo dopo quattro ore.",
+  "message": "Percorso escluso da robots.txt",
   "httpStatus": null,
   "failedUrl": "https://www.ilfattoquotidiano.it/feed/",
-  "durationSeconds": 0.41
+  "durationSeconds": 0.42
 }

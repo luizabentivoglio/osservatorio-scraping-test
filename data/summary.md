@@ -43,7 +43,7 @@
 | istituto-bruno-leoni | ok | trafilatura | 5 | — |
 | italia-domani-rizzo | ok | trafilatura | 3 | — |
 | italia-viva | blocked | html | 0 | access_restricted |
-| la-stampa | ok | rss | 40 | — |
+| la-stampa | blocked | html | 0 | access_restricted |
 | legambiente | ok | trafilatura | 0 | — |
 | libera | ok | html | 1 | — |
 | mef | ok | trafilatura | 2 | — |
@@ -67,7 +67,7 @@
 | senato | no_feed | crawl4ai | 0 | parsing_error |
 | sud-chiama-nord | blocked | html | 0 | access_restricted |
 | svp | ok | trafilatura | 1 | — |
-| tgr-lombardia | ok | crawl4ai | 0 | — |
+| tgr-lombardia | no_feed | crawl4ai | 0 | parsing_error |
 | wwf | ok | trafilatura | 6 | — |
 
 Le date sono verificate nei feed o nei metadati di pubblicazione dei singoli articoli. Nessun dato personale dell’archivio è letto o pubblicato.

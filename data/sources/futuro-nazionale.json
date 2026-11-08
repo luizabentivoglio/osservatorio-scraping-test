@@ -4,7 +4,7 @@
   "sourceId": "futuro-nazionale",
   "originUrl": "https://futuronazionale.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-08T01:52:45.298017Z",
+  "collectedAt": "2026-11-08T09:30:59.699769Z",
   "status": "error",
   "diagnosticCode": "robots_unavailable",
   "method": "html",
@@ -19,5 +19,5 @@
   "message": "robots.txt non verificabile",
   "httpStatus": null,
   "failedUrl": "https://futuronazionale.it/",
-  "durationSeconds": 0.7
+  "durationSeconds": 0.82
 }

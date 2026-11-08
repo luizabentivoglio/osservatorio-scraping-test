@@ -4,7 +4,7 @@
   "sourceId": "confcommercio",
   "originUrl": "https://www.confcommercio.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-07T22:20:06.756370Z",
+  "collectedAt": "2026-11-08T09:30:37.377019Z",
   "status": "blocked",
   "diagnosticCode": "access_restricted",
   "method": "html",
@@ -16,8 +16,8 @@
       "status": 403
     }
   ],
-  "message": "HTTP 403: accesso limitato dalla fonte; prossimo controllo dopo quattro ore.",
+  "message": "HTTP 403: accesso limitato dalla fonte",
   "httpStatus": 403,
   "failedUrl": "https://www.confcommercio.it/robots.txt",
-  "durationSeconds": 0.91
+  "durationSeconds": 1.04
 }

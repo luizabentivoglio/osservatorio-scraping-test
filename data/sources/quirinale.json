@@ -4,7 +4,7 @@
   "sourceId": "quirinale",
   "originUrl": "https://www.quirinale.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-07T22:21:10.098650Z",
+  "collectedAt": "2026-11-08T09:31:31.774927Z",
   "status": "blocked",
   "diagnosticCode": "access_restricted",
   "method": "html",
@@ -44,7 +44,7 @@
       "status": 200
     }
   ],
-  "message": "Verifica interattiva richiesta; prossimo controllo dopo quattro ore.",
+  "message": "Verifica interattiva richiesta",
   "candidateSamples": [
     {
       "url": "https://www.quirinale.it/it/notizie/presidente-mattarella-ha-ricevuto-delegazione-fondazione-nizami-ganjavi",
@@ -332,5 +332,5 @@
   "candidateCount": 12,
   "datedCount": 0,
   "listingUrl": "https://www.quirinale.it/",
-  "durationSeconds": 4.13
+  "durationSeconds": 4.3
 }

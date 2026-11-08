@@ -4,7 +4,7 @@
   "sourceId": "banca-italia",
   "originUrl": "https://www.bancaditalia.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-07T22:19:58.020808Z",
+  "collectedAt": "2026-11-08T09:30:28.529670Z",
   "status": "blocked",
   "diagnosticCode": "robots_disallowed",
   "method": "html",
@@ -20,8 +20,8 @@
       "status": 200
     }
   ],
-  "message": "Percorso escluso da robots.txt; prossimo controllo dopo quattro ore.",
+  "message": "Percorso escluso da robots.txt",
   "httpStatus": null,
   "failedUrl": "https://www.bancaditalia.it/util/index.rss.html?lingua=it&sezione=%2Fmedia%2Fnotizia",
-  "durationSeconds": 0.96
+  "durationSeconds": 1.06
 }

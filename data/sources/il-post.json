@@ -4,52 +4,52 @@
   "sourceId": "il-post",
   "originUrl": "https://www.ilpost.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-08T01:52:50.660022Z",
+  "collectedAt": "2026-11-08T09:31:05.082267Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
-      "title": "È morto a 75 anni Richard Lloyd, chitarrista della band post punk dei Television",
-      "url": "https://www.ilpost.it/2026/11/07/richard-lloyd-television-band-morto/?bitPosition=1",
-      "excerpt": "È morto a 75 anni Richard Lloyd, chitarrista della band post punk dei Television - Condividi - X - Regala il Post Richard Lloyd, chitarrista della storica band statunitense dei Television, una delle più influenti nella scena post punk, è morto sabato nella sua casa nel Tennessee a causa di complicazioni legate a un can",
+      "title": "Più di 50 persone sono state uccise nelle ultime 24 ore nella guerra civile in Yemen",
+      "url": "https://www.ilpost.it/2026/11/08/50-persone-uccise-guerra-civile-yemen-houthi/?bitPosition=1",
+      "excerpt": "Più di 50 persone sono state uccise nelle ultime 24 ore nella guerra civile in Yemen - Condividi - X - Regala il Post Più di 50 persone, fra cui molte donne e bambini, sono state uccise nelle ultime 24 ore nella guerra civile in Yemen, in una delle giornate con il maggior numero di morti negli ultimi mesi: dall’inizio ",
+      "publishedAt": "2026-11-08T08:11:14Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "Un gruppo di esponenti di CasaPound si è scontrato con la polizia durante un corteo antifascista a Gorizia",
+      "url": "https://www.ilpost.it/2026/11/08/gorizia-casa-pound-corteo/?bitPosition=2",
+      "excerpt": "Un gruppo di esponenti di CasaPound si è scontrato con la polizia durante un corteo antifascista a Gorizia - Condividi - X - Regala il Post Sabato pomeriggio a Gorizia, in Friuli Venezia Giulia, un gruppo di esponenti del movimento politico di estrema destra CasaPound ha cercato di forzare un blocco di polizia durante ",
+      "publishedAt": "2026-11-08T07:22:46Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "Cosa sappiamo dell’attacco a Cracovia",
+      "url": "https://www.ilpost.it/2026/11/08/cosa-sappiamo-attentato-cracovia/?homepagePosition=0",
+      "excerpt": "Un uomo descritto come «ultranazionalista» ha ucciso sei persone, e a casa sua sono stati trovati altri tre corpi",
+      "publishedAt": "2026-11-08T07:10:31Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "È morto a 75 anni Richard Lloyd, chitarrista della band punk rock dei Television",
+      "url": "https://www.ilpost.it/2026/11/07/richard-lloyd-television-band-morto/?bitPosition=3",
+      "excerpt": "È morto a 75 anni Richard Lloyd, chitarrista della band punk rock dei Television - Condividi - X - Regala il Post Richard Lloyd, chitarrista della storica band statunitense dei Television, una delle band protagonsite della scena punk newyorkese degli anni Settanta, che aveva fondato con Tom Verlaine, è morto sabato nel",
       "publishedAt": "2026-11-07T21:22:00Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
       "title": "Trump ha offerto il ruolo di portavoce della Casa Bianca a Dana White, il presidente della lega di arti marziali miste UFC",
-      "url": "https://www.ilpost.it/2026/11/07/donald-trump-portavoce-casa-bianca-dana-white/?bitPosition=2",
+      "url": "https://www.ilpost.it/2026/11/07/donald-trump-portavoce-casa-bianca-dana-white/?bitPosition=4",
       "excerpt": "Trump ha offerto il ruolo di portavoce della Casa Bianca a Dana White, il presidente della lega di arti marziali miste UFC - Condividi - X - Regala il Post Il presidente degli Stati Uniti Donald Trump ha offerto il ruolo di portavoce della Casa Bianca a Dana White, il presidente della Ultimate Fighting Championship (UF",
       "publishedAt": "2026-11-07T18:45:37Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
       "title": "Francesco Bagnaia ha fatto una brutta caduta nella gara sprint del Gran Premio di MotoGP del Qatar",
-      "url": "https://www.ilpost.it/2026/11/07/francesco-bagnaia-incidente-sprint-race-gran-premio-motogp-qatar/?bitPosition=3",
+      "url": "https://www.ilpost.it/2026/11/07/francesco-bagnaia-incidente-sprint-race-gran-premio-motogp-qatar/?bitPosition=5",
       "excerpt": "Francesco Bagnaia ha fatto una brutta caduta nella gara sprint del Gran Premio di MotoGP del Qatar - Condividi - X - Regala il Post Alla fine del primo giro della gara sprint del Gran Premio di MotoGP in Qatar il pilota della Ducati Francesco “Pecco” Bagnaia ha fatto una brutta caduta dopo essere stato toccato dallo sp",
       "publishedAt": "2026-11-07T16:47:40Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "C’è stato un grave attacco nella piazza principale di Cracovia",
-      "url": "https://www.ilpost.it/2026/11/07/sparatoria-piazza-del-mercato-cracovia-morti/?homepagePosition=0",
-      "excerpt": "Un uomo ha ucciso almeno sei persone sparando dalla sua auto: a casa sua sono stati trovati altri tre corpi",
-      "publishedAt": "2026-11-07T14:32:52Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Ad Amsterdam un gruppo di attivisti ha invaso il cantiere di un data center di Microsoft",
-      "url": "https://www.ilpost.it/2026/11/07/attivisti-protesta-data-center-amsterdam-paesi-bassi/?bitPosition=4",
-      "excerpt": "Ad Amsterdam un gruppo di attivisti ha invaso il cantiere di un data center di Microsoft - Condividi - X - Regala il Post Venerdì un gruppo di attivisti del collettivo Geef Tegengas (“Fai resistenza”, in italiano) si è introdotto nel cantiere di un data center Microsoft ad Amsterdam, nei Paesi Bassi, per protestare con",
-      "publishedAt": "2026-11-07T11:02:36Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "I servizi segreti europei hanno aperto un’indagine coordinata per individuare chi c’è dietro ai falsi allarmi bomba",
-      "url": "https://www.ilpost.it/2026/11/07/agenzie-intelligence-europa-falsi-allarmi-bomba-aerei-russia/?bitPosition=5",
-      "excerpt": "I servizi segreti europei hanno aperto un’indagine coordinata per individuare chi c’è dietro ai falsi allarmi bomba - Condividi - X - Regala il Post Diverse agenzie di intelligence europee hanno aperto un’indagine coordinata per capire se ci sia la Russia dietro ai numerosi falsi allarmi bomba segnalati negli ultimi gi",
-      "publishedAt": "2026-11-07T10:24:35Z",
       "dateEvidence": "jsonld:datePublished"
     }
   ],
@@ -63,27 +63,27 @@
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/07/sparatoria-piazza-del-mercato-cracovia-morti/?homepagePosition=0",
+      "url": "https://www.ilpost.it/2026/11/08/cosa-sappiamo-attentato-cracovia/?homepagePosition=0",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/07/richard-lloyd-television-band-morto/?bitPosition=1",
+      "url": "https://www.ilpost.it/2026/11/08/50-persone-uccise-guerra-civile-yemen-houthi/?bitPosition=1",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/07/donald-trump-portavoce-casa-bianca-dana-white/?bitPosition=2",
+      "url": "https://www.ilpost.it/2026/11/08/gorizia-casa-pound-corteo/?bitPosition=2",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/07/francesco-bagnaia-incidente-sprint-race-gran-premio-motogp-qatar/?bitPosition=3",
+      "url": "https://www.ilpost.it/2026/11/07/richard-lloyd-television-band-morto/?bitPosition=3",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/07/attivisti-protesta-data-center-amsterdam-paesi-bassi/?bitPosition=4",
+      "url": "https://www.ilpost.it/2026/11/07/donald-trump-portavoce-casa-bianca-dana-white/?bitPosition=4",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/07/agenzie-intelligence-europa-falsi-allarmi-bomba-aerei-russia/?bitPosition=5",
+      "url": "https://www.ilpost.it/2026/11/07/francesco-bagnaia-incidente-sprint-race-gran-premio-motogp-qatar/?bitPosition=5",
       "status": 200
     }
   ],
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.ilpost.it/",
-  "durationSeconds": 3.53
+  "durationSeconds": 3.52
 }
