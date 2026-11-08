@@ -4,23 +4,23 @@
   "sourceId": "camera",
   "originUrl": "https://www.camera.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-08T16:48:55.327710Z",
+  "collectedAt": "2026-11-08T22:30:45.998223Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
-      "title": "Legge di bilancio, audizioni lunedì, martedì, mercoledì e giovedì in diretta webtv - Cavallari e Giorgetti il 12 alle 15 e alle 16 con lis",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63928",
-      "excerpt": "Lunedì 9 novembre, presso la Sala del Mappamondo di Montecitorio, le Commissioni riunite Bilancio d...",
+      "title": "Audizioni Commissione Politiche Ue – Mercoledì, alle 15.30 Casellati, e giovedì diretta webtv",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63926",
+      "excerpt": "La Commissione Politiche Ue svolge le seguenti audizioni: mercoledì 11 novembre, nell’ambi...",
       "publishedAt": "2026-11-06T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "Audizioni Commissione Politiche Ue – Mercoledì, alle 15.30 Casellati, e giovedì diretta webtv",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63926",
-      "excerpt": "La Commissione Politiche Ue svolge le seguenti audizioni: mercoledì 11 novembre, nell’ambi...",
+      "title": "Legge di bilancio, audizioni lunedì, martedì, mercoledì e giovedì in diretta webtv - Cavallari e Giorgetti il 12 alle 15 e alle 16 con lis",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63928",
+      "excerpt": "Lunedì 9 novembre, presso la Sala del Mappamondo di Montecitorio, le Commissioni riunite Bilancio d...",
       "publishedAt": "2026-11-06T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
@@ -39,16 +39,16 @@
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "Il valore della coesione - Rapporto Svimez - Martedì alle 11 diretta webtv - Presente Mattarella - Saluto di Fontana",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63912",
-      "excerpt": "Martedì 10 novembre, alle ore 11, presso l'Aula dei Gruppi parlamentari della Camera si svolge la p...",
+      "title": "Dal fango del 1994 al modello nazionale: 25 anni del Coordinamento Territoriale del Volontariato di Protezione Civile di Alessandria - Lunedì alle 15 diretta webtv - Messaggio di Fontana",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63913",
+      "excerpt": "Lunedì 9 novembre, alle ore 15, presso la Sala Matteotti di Palazzo Theodoli - Bianchelli si svolge...",
       "publishedAt": "2026-11-06T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "L'ecosistema della sicurezza integrata - Lunedì alle 9.30 diretta webtv - Messaggio di Ascani",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63915",
-      "excerpt": "Lunedì 9 novembre, alle ore 9.30, presso l'Aula dei Gruppi parlamentari della Camera si svolge il c...",
+      "title": "Decreto circolazione veicoli diesel Euro 5",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63914",
+      "excerpt": "La Camera è convocata lunedì 9 novembre alle ore 15 per le seguenti discussioni generali: disegno ...",
       "publishedAt": "2026-11-06T00:00:00Z",
       "dateEvidence": "html:publication-label"
     }
@@ -63,11 +63,11 @@
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63928",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63926",
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63926",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63928",
       "status": 200
     },
     {
@@ -79,11 +79,11 @@
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63912",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63913",
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63915",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63914",
       "status": 200
     }
   ],
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://comunicazione.camera.it/archivio-prima-pagina",
-  "durationSeconds": 4.35
+  "durationSeconds": 4.19
 }

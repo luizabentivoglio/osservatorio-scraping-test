@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-08T16:50:26.132949+00:00",
+  "generatedAt": "2026-11-08T22:32:21.813587+00:00",
   "sourceCount": 67,
-  "ok": 37,
-  "items": 144,
+  "ok": 34,
+  "items": 134,
   "results": [
     {
       "sourceId": "amnesty",
@@ -112,7 +112,7 @@
       "diagnosticCode": null,
       "message": "5 notizie recenti con data verificata; copertura parziale.",
       "candidateCount": 12,
-      "datedCount": 6,
+      "datedCount": 5,
       "itemCount": 5
     },
     {
@@ -377,13 +377,13 @@
     },
     {
       "sourceId": "istat",
-      "status": "ok",
-      "method": "rss",
-      "diagnosticCode": null,
-      "message": "Feed ufficiale letto; date di pubblicazione verificate.",
+      "status": "error",
+      "method": "html",
+      "diagnosticCode": "timeout",
+      "message": "Timeout della fonte",
       "candidateCount": null,
       "datedCount": null,
-      "itemCount": 10
+      "itemCount": 0
     },
     {
       "sourceId": "istituto-bruno-leoni",
@@ -427,12 +427,12 @@
     },
     {
       "sourceId": "legambiente",
-      "status": "ok",
-      "method": "trafilatura",
-      "diagnosticCode": null,
-      "message": "0 notizie recenti con data verificata; copertura parziale.",
-      "candidateCount": 12,
-      "datedCount": 2,
+      "status": "error",
+      "method": "html",
+      "diagnosticCode": "timeout",
+      "message": "Timeout della fonte",
+      "candidateCount": null,
+      "datedCount": null,
       "itemCount": 0
     },
     {
@@ -590,7 +590,7 @@
       "status": "blocked",
       "method": "html",
       "diagnosticCode": "access_restricted",
-      "message": "Verifica interattiva richiesta",
+      "message": "Browser HTTP 403",
       "candidateCount": 12,
       "datedCount": 0,
       "itemCount": 0
@@ -631,7 +631,7 @@
       "method": "crawl4ai",
       "diagnosticCode": "parsing_error",
       "message": "Pagina accessibile, ma nessuna notizia con data di pubblicazione verificabile.",
-      "candidateCount": 0,
+      "candidateCount": 2,
       "datedCount": 0,
       "itemCount": 0
     },
@@ -657,12 +657,12 @@
     },
     {
       "sourceId": "tgr-lombardia",
-      "status": "ok",
+      "status": "no_feed",
       "method": "crawl4ai",
-      "diagnosticCode": null,
-      "message": "Pagina resa con Crawl4AI; metadati degli articoli e date verificati.",
-      "candidateCount": 10,
-      "datedCount": 6,
+      "diagnosticCode": "parsing_error",
+      "message": "Pagina accessibile, ma nessuna notizia con data di pubblicazione verificabile.",
+      "candidateCount": 0,
+      "datedCount": 0,
       "itemCount": 0
     },
     {

@@ -4,12 +4,40 @@
   "sourceId": "la-stampa",
   "originUrl": "https://www.lastampa.it/",
   "configuredFeedUrl": "https://www.lastampa.it/rss/copertina.xml",
-  "collectedAt": "2026-11-08T16:49:38.615519Z",
+  "collectedAt": "2026-11-08T22:31:30.734666Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.lastampa.it/rss/copertina.xml",
   "items": [
+    {
+      "title": "Juve e Fiorentina ci provano fino alla fine, ma al Franchi finisce in parità: 2-2",
+      "url": "https://www.lastampa.it/sport/2026/11/08/news/juve_e_fiorentina_ci_provano_fino_alla_fine_ma_al_franchi_finisce_in_parita_2-2-15792239/",
+      "excerpt": "Bianconeri sotto due volte recuperano prima con Woltemade e poi Bremer. Dubbi su un rigore non dato alla Juve e per un gol annullato ai viola",
+      "publishedAt": "2026-11-08T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Esposito e Thuram affondano il Como, l’Inter vince 2-0",
+      "url": "https://www.lastampa.it/sport/2026/11/08/news/esposito_thuram_inter_como_2-0-15792081/",
+      "excerpt": "La partita decisa nel primo tempo",
+      "publishedAt": "2026-11-08T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Vince Bezzecchi, Marquez rinvia la festa del Mondiale",
+      "url": "https://www.lastampa.it/sport/2026/11/08/news/motociclismo_marquez_bezzecchi_mondiale_qatar-15792004/",
+      "excerpt": "In Qatar si impone l’italiano (alla sua sesta vittoria stagionale), nulla di compromesso per il pilota spagnolo",
+      "publishedAt": "2026-11-08T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Gp San Paolo: trionfa Norris, le Ferrari affondano",
+      "url": "https://www.lastampa.it/sport/2026/11/08/news/formula_1_gp_san_paolo_trionfa_norris-15792090/",
+      "excerpt": "Sul podio in Brasile anche Verstappen (da 21° a 2°) e Hadjar, Russell 4° davanti ad Antonelli alle prese con problemi sulla macchina: la Mercedes conquista comunque il 9° titolo costruttori. Leclerc 7° e Hamilton 9° senza mai avere ritmo: Lewis brilla solo al via",
+      "publishedAt": "2026-11-08T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "Israele, Eisenkot: “Pronto a governare un esecutivo di emergenza, serve una nuova leadership”/ Il discorso integrale",
       "url": "https://www.lastampa.it/esteri/2026/11/08/news/israele_eisenkot_apre_a_likud_e_ultradestra_governo_di_unita_nazionale_serve_una_nuova_leadership-15791841/",
@@ -25,16 +53,23 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Il Milan si impone a Marassi: Cissé e Pulisic bastano per i tre punti: Genoa battuto 2-1",
-      "url": "https://www.lastampa.it/sport/2026/11/08/news/il_milan_si_impone_a_marassi_cisse_e_pulisic_bastano_per_i_tre_punti_genoa_battuto_2-1-15791875/",
-      "excerpt": "Grazie a questa vittoria la squadra di Amorim supera il Como, impegnato alle 18 contro l'Inter, e si prende il quarto posto a 24 punti",
+      "title": "Trump chiama il re della UFC alla Casa Bianca, Hegseth rischia l’impeachment: terremoto a Washington",
+      "url": "https://www.lastampa.it/esteri/2026/11/08/news/trump_dana_white_casa_bianca_hegseth_rischio_impeachment-15792109/",
+      "excerpt": "Dana White è uno dei sostenitori più convinti del presidente",
       "publishedAt": "2026-11-08T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Valentino Rossi: “Schumi sapeva ridere e bere, un figo. Kimi in gara è una bestia”",
-      "url": "https://www.lastampa.it/sport/2026/11/08/news/valentino_rossi_autobiografia-15791469/",
-      "excerpt": "L’autobiografia di uno dei piloti più amati e vincenti della MotoGp. Racconto di una carriera leggendaria e dell'uomo fuori dalle piste",
+      "title": "Sinistra Usa, tre anime e molti dubbi. “L’impeachment non è una buona idea”",
+      "url": "https://www.lastampa.it/esteri/speciali/elezioni-midterm-2026/2026/11/08/news/usa_elezioni_sinistra_impeachment_obama-15791549/",
+      "excerpt": "Centristi, liberal e socialisti discutono su come arrivare alla Casa Bianca. A unirli solo Obama",
+      "publishedAt": "2026-11-08T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Padre Albanese: “Trump alza muri, Leone costruisce la pace”",
+      "url": "https://www.lastampa.it/esteri/2026/11/08/news/padre_albanese_trump_alza_muri_leone_costruisce_la_pace-15791650/",
+      "excerpt": "Il viaggio, secondo il consigliere della Segreteria di Stato, «dimostra che Prevost è il portavoce dei popoli oppressi dal colonialismo che non hanno voce»",
       "publishedAt": "2026-11-08T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -46,23 +81,23 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Cracovia, il racconto dell’italiano a pochi metri dalla sparatoria: \"Ho pensato di morire\"",
-      "url": "https://www.lastampa.it/esteri/2026/11/08/video/cracovia-sparatoria-testimonianza-italiano-ho-pensato-di-morire-15791794/",
-      "excerpt": "Roberto Di Matteo, modenese, si trovava con alcuni amici in piazza del Mercato quando l’attentatore ha aperto il fuoco sulla folla, uccidendo sei persone e ferendone 16. \"Abbiamo sentito gli spari e visto la gente correre. Ci siamo rifugiati in un bar, perdendoci di vista nel fuggi-fuggi\", racconta. \"In pochi secondi c",
+      "title": "Uccisa a coltellate, fermato il figlio. I vicini: “Non rispondeva da giorni”",
+      "url": "https://www.lastampa.it/cronaca/2026/11/08/news/bergamo_donna_uccisa_fermato_figlio-15791814/",
+      "excerpt": "Ad aprire la porta di casa il 47enne in stato di choc. Emilia Bianchi, 70 anni, era sul letto. Il sindaco: «Aveva lasciato il lavoro per seguire i figli»",
       "publishedAt": "2026-11-08T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Quel braccio di ferro europeisti-sovranisti che ha trasformato la Polonia in polveriera",
-      "url": "https://www.lastampa.it/esteri/2026/11/08/news/cracovia_braccio_di_ferro_europeisti_sovranisti_polonia_polveriera-15791511/",
-      "excerpt": "La sparatoria scuote un Paese attraversato da una grave crisi istituzionale",
+      "title": "Vercelli, il paracadute non si apre correttamente: morto un uomo di 35 anni",
+      "url": "https://www.lastampa.it/vercelli/2026/11/08/news/morto_paracadutista-15791817/",
+      "excerpt": "Si tratta di Vincenzo Criscuolo, originario di Napoli e residente a Milano. Ha effettuato un lancio da un Pilatus Porter aereo da dieci posti partito della scuola di paracadutismo Vzone Skyline",
       "publishedAt": "2026-11-08T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Caro-neve, nuovi aumenti per le tariffe skipass: in 5 anni impennata del 43%",
-      "url": "https://www.lastampa.it/cronaca/2026/11/08/news/caro_neve_aumenti_tariffe_skipass_in_5_anni_impennata_43-15791710/",
-      "excerpt": "I prezzi degli skipass continuano a salire e in alcune località gli incrementi raggiungono il 43% nell'arco di cinque anni",
+      "title": "Lele Mora grave in ospedale, ictus durante una tournée: “Mi hanno strappato alla morte”",
+      "url": "https://www.lastampa.it/cronaca/2026/11/08/news/lele_mora_ictus_grave_ospedale_malore_teatro_l_aquila_roma-15791728/",
+      "excerpt": "A L’Aquila per uno spettacolo teatrale, stava rientrando a Roma quando si è sentito male",
       "publishedAt": "2026-11-08T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -84,55 +119,6 @@
       "title": "Allarmi bomba, l’intelligence Ue indaga sulla pista russa. Vertice Europol-polizie nazionali",
       "url": "https://www.lastampa.it/cronaca/2026/11/08/news/sicurezza_ue_intelligence_pista_russa_vertice_europol-15791432/",
       "excerpt": "Parigi apre un’inchiesta: «Coinvolta una superpotenza». Sospetti sempre più radicati su una regia da Mosca",
-      "publishedAt": "2026-11-08T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Vercelli, il paracadute non si apre. Morto un uomo di 35 anni",
-      "url": "https://www.lastampa.it/vercelli/2026/11/08/news/morto_paracadutista-15791817/",
-      "excerpt": "Incidente mortale nel pomeriggio di oggi, domenica 8 novembre, presso il campo volo in via Lamporo, a Vercelli. A perdere la vita un uomo di 35 anni, deceduto sul posto durante un’attività di ...",
-      "publishedAt": "2026-11-08T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Bergamo, trovata morta in casa con ferite di arma da taglio: fermato il figlio",
-      "url": "https://www.lastampa.it/cronaca/2026/11/08/news/bergamo_donna_uccisa_fermato_figlio-15791814/",
-      "excerpt": "A dare l'allarme un parente della donna, che non riusciva a mettersi in contatto con lei. Indagini in corso",
-      "publishedAt": "2026-11-08T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Muore dopo esser stato travolto da un monopattino il fisico Roberto Cervellati. Caccia al pirata",
-      "url": "https://www.lastampa.it/cronaca/2026/11/08/news/muore_fisico_roberto_cervellati_travolto_monopattino_pirata_roma-15791768/",
-      "excerpt": "L’incidente a Roma: niente da fare per lo scienziato: aveva partecipato a missioni in Antartide anche per l’Enea",
-      "publishedAt": "2026-11-08T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Lele Mora grave in ospedale, ictus durante una tournée: “Mi hanno strappato alla morte”",
-      "url": "https://www.lastampa.it/cronaca/2026/11/08/news/lele_mora_ictus_grave_ospedale_malore_teatro_l_aquila_roma-15791728/",
-      "excerpt": "A L’Aquila per uno spettacolo teatrale, stava rientrando a Roma quando si è sentito male",
-      "publishedAt": "2026-11-08T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "“Infezioni sempre più gravi”, l'allarme si estende ai funghi",
-      "url": "https://www.lastampa.it/torino/2026/11/08/news/infezioni_sempre_piu_gravi_l_allarme_si_estende_ai_funghi-15791456/",
-      "excerpt": "A Torino il punto degli esperti nel congresso della Società di Terapia Antinfettiva. Il 75% delle donne ha sofferto almeno un episodio di candidosi nel corso della vita",
-      "publishedAt": "2026-11-08T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Sinistra Usa, tre anime e molti dubbi. “L’impeachment non è una buona idea”",
-      "url": "https://www.lastampa.it/esteri/speciali/elezioni-midterm-2026/2026/11/08/news/usa_elezioni_sinistra_impeachment_obama-15791549/",
-      "excerpt": "Centristi, liberal e socialisti discutono su come arrivare alla Casa Bianca. A unirli solo Obama",
-      "publishedAt": "2026-11-08T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Padre Albanese: “Trump alza muri, Leone costruisce la pace”",
-      "url": "https://www.lastampa.it/esteri/2026/11/08/news/padre_albanese_trump_alza_muri_leone_costruisce_la_pace-15791650/",
-      "excerpt": "Il viaggio, secondo il consigliere della Segreteria di Stato, «dimostra che Prevost è il portavoce dei popoli oppressi dal colonialismo che non hanno voce»",
       "publishedAt": "2026-11-08T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -179,13 +165,6 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Gualtieri, perfezionista che ha domato il caos. Ora apre anche al “nemico” Cinque stelle",
-      "url": "https://www.lastampa.it/politica/2026/11/08/news/gualtieri_perfezionista_che_ha_domato_il_caos_ora_apre_anche_al_nemico_cinque_stelle-15791481/",
-      "excerpt": "Il sindaco di Roma dai super cantieri alle battute al mercato. Oggi per il Censis il 73% dei romani è soddisfatto",
-      "publishedAt": "2026-11-08T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
       "title": "Raccolgono lava incandescente mentre il vulcano erutta alle loro spalle",
       "url": "https://www.lastampa.it/esteri/2026/11/08/video/kilauea-hawaii-scienziati-raccolta-lava-eruzione-15791766/",
       "excerpt": "Prelevano lava incandescente e raffreddano i campioni nell’acqua, mentre alle loro spalle si alzano le fontane del Kilauea. Le immagini diffuse dal Dipartimento dell’Interno statunitense mostrano i ricercatori dell’osservatorio vulcanologico delle Hawaii al lavoro: i campioni aiutano a studiare i processi che avvengono",
@@ -203,27 +182,6 @@
       "title": "Pretende che cancellino 2.500 dollari di debito: si presenta in banca con fucile e inizia a sparare",
       "url": "https://www.lastampa.it/video/socialnews/2026/11/08/video/florida-sparatoria-sede-citibank-debito-2500-dollari-15791718/",
       "excerpt": "L’uomo, furioso per una causa relativa a un debito di 2.500 dollari, aveva minacciato di presentarsi armato se il procedimento non fosse stato annullato. Poco dopo ha sfondato con l’auto la recinzione del campus Citibank di Tampa ed è entrato con un fucile, uccidendo una dipendente. Quando l’arma si è inceppata, è torn",
-      "publishedAt": "2026-11-08T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Distrusse con l’auto il santuario: perché ora deve pagare 132 mila euro alla parrocchia",
-      "url": "https://www.lastampa.it/torino/2026/11/08/news/levone_risarcimento_santuario_incidente_stradale-15791676/",
-      "excerpt": "Levone, in seguito a un incidente nel 2023 un’auto finì contro il porticato che crollò. La compagnia assicuratrice contesta l’importo del risarcimento, ma il giudice conferma",
-      "publishedAt": "2026-11-08T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Mangi bene e spendi il giusto: ecco i nuovi ristoranti con il miglior rapporto qualità/prezzo",
-      "url": "https://www.lastampa.it/cronaca/2026/11/08/news/guida_michelin_italia_2026_nuovi_bib_gourmand_ristoranti_qualita_prezzo-15791735/",
-      "excerpt": "In tutto nella Guida Michelin Italia, sono 276 (con 37 new entry) i Bib Gourmand, locali in Italia dove la qualità è buona e il conto contenuto: Emilia Romagna, Piemonte e Toscana la top tre delle regioni",
-      "publishedAt": "2026-11-08T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Michele Placido: “Il giudice Livatino, martire contemporaneo che guardava la Piovra”",
-      "url": "https://www.lastampa.it/spettacoli/2026/11/08/news/michele_placido_il_giudice_livatino_martire_contemporaneo_che_guardava_la_piovra-15791436/",
-      "excerpt": "Su Rai 1 la fiction sul magistrato ucciso dalla mafia",
       "publishedAt": "2026-11-08T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -284,9 +242,51 @@
       "dateEvidence": "feed:published"
     },
     {
+      "title": "Azzurra Gallo: “Il calcio non è uno sport da uomini, superiamo i pregiudizi”",
+      "url": "https://www.lastampa.it/asti/2026/11/08/news/gallo_sullo_calcio_femminile_si_crede_sia_uno_sport_da_uomini_bisogna_superare_gli_stereotipi-15791248/",
+      "excerpt": "La calciatrice del Tolosa tra le candidate dell’European Golden Girl: “Facciamo il doppio della fatica per raggiungere gli stessi obiettivi di carriera”",
+      "publishedAt": "2026-11-08T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Novara diventerà il grande polo del silicio, industriali pronti a vincere la sfida",
+      "url": "https://www.lastampa.it/novara/2026/11/08/news/polo_silicio_novara_industriali-15791351/",
+      "excerpt": "Con l’arrivo di Silicon Box si potenzia un settore che in città è già presente con lo stabilimento di GlobalWafers Memc",
+      "publishedAt": "2026-11-08T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
       "title": "Spintoni in classe tra studenti dell’istituto Zerboni, professore cade a terra e finisce in ospedale",
       "url": "https://www.lastampa.it/torino/2026/11/08/news/spintoni_in_classe_tra_studenti_dell_istituto_zerboni_professore_cade_a_terra_e_finisce_in_ospedale-15791579/",
       "excerpt": "Nessuna denuncia, non è stato aggredito. Il dirigente: “Siamo un presidio dello Stato. I ragazzi portano a scuola la loro quotidianità”",
+      "publishedAt": "2026-11-08T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Anticipare il futuro per decidere oggi, sbarca a Torino il Radar della scienza internazionale",
+      "url": "https://www.lastampa.it/economia/2026/11/08/news/anticipare_il_futuro_per_decidere_oggi_sbarca_a_torino_radar-15790883/",
+      "excerpt": "Dal calcolo quantistico alla medicina, lo strumento è usato da governi e grandi enti filantropici ed è stato portato in Italia dalla Fondazione Compagnia di San Paolo",
+      "publishedAt": "2026-11-08T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "L'Ungheria svela i documenti della polizia segreta comunista: dentro gli archivi delle spie",
+      "url": "https://www.lastampa.it/esteri/2026/11/08/video/lungheria_svela_i_documenti_della_polizia_segreta_comunista_dentro_gli_archivi_delle_spie-15791721/",
+      "excerpt": "L’Ungheria rende consultabili online decine di migliaia di documenti della polizia segreta comunista, compresi i nomi di informatori e collaboratori. Tra il 1956 e il 1989 furono registrate circa 55mila persone incaricate di sorvegliare amici, familiari, colleghi e ambienti considerati sovversivi, come la scena rock un",
+      "publishedAt": "2026-11-08T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Un abete di 11 tonnellate vola tra i grattacieli: è il nuovo albero del Rockefeller Center",
+      "url": "https://www.lastampa.it/video/socialnews/2026/11/08/video/new-york-albero-natale-2026-rockefeller-center-arrivo-video-15791744/",
+      "excerpt": "Una gru solleva tra i palazzi di Manhattan il nuovo albero di Natale del Rockefeller Center: è un abete rosso di Norvegia alto oltre 23 metri, largo circa 15, pesante 11 tonnellate e vecchio di 75 anni. Arriva da West Edmeston, nello Stato di New York, dopo un viaggio di oltre 300 chilometri, ed era stato individuato s",
+      "publishedAt": "2026-11-08T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "La difficile arte di svuotare la casa dei propri genitori",
+      "url": "https://www.lastampa.it/specchio/rubriche/societa/2026/11/08/news/la_difficile_arte_di_svuotare_la_casa_dei_propri_genitori-15789244/",
+      "excerpt": "In un mondo occidentale ipercapitalista, contrassegnato da una crescente scomparsa dei rituali collettivi come teorizza il filosofo Byung-Chul Han, esiste qualcosa che ci appare come un ...",
       "publishedAt": "2026-11-08T00:00:00Z",
       "dateEvidence": "feed:published"
     }
@@ -302,5 +302,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 1.04
+  "durationSeconds": 0.83
 }

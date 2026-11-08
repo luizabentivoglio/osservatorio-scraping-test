@@ -4,7 +4,7 @@
   "sourceId": "comune-bollate",
   "originUrl": "https://comune.bollate.mi.it/it/news",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-08T16:49:00.931218Z",
+  "collectedAt": "2026-11-08T22:30:51.906900Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -77,13 +77,19 @@
     },
     {
       "url": "https://comune.bollate.mi.it/it/news/avviso-pubblico-misura-nidi-gratis-plus",
-      "status": 200
+      "status": 500
     }
   ],
   "message": "5 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [],
   "candidateCount": 12,
-  "datedCount": 6,
+  "datedCount": 5,
   "listingUrl": "https://comune.bollate.mi.it/it/news",
-  "durationSeconds": 4.96
+  "durationSeconds": 5.39,
+  "attemptErrors": [
+    {
+      "url": "https://comune.bollate.mi.it/it/news/avviso-pubblico-misura-nidi-gratis-plus",
+      "code": "http_error"
+    }
+  ]
 }

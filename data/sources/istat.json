@@ -4,93 +4,21 @@
   "sourceId": "istat",
   "originUrl": "https://www.istat.it/",
   "configuredFeedUrl": "https://www.istat.it/feed/",
-  "collectedAt": "2026-11-08T16:49:33.621428Z",
-  "status": "ok",
-  "diagnosticCode": null,
-  "method": "rss",
-  "feedUrl": "https://www.istat.it/feed/",
-  "items": [
-    {
-      "title": "Manifestazione d’interesse per progetto interistituzionale su politiche di coesione",
-      "url": "https://www.istat.it/notizia/raccolta-manifestazione-interesse-per-accordo-collaborazione-progetto-informazione-statistica-territoriale-e-settoriale-politiche-di-coesione-2027-29/",
-      "excerpt": "Online le risposte ai quesiti pervenuti",
-      "publishedAt": "2026-11-06T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "L’Istat partecipa alla XL edizione di Futuro Remoto",
-      "url": "https://www.istat.it/evento-territoriale/listat-partecipa-alla-xl-edizione-di-futuro-remoto/",
-      "excerpt": "L’Istat partecipa a Futuro Remoto, festival della cultura scientifica, con laboratori interattivi di promozione della cultura statistica rivolti a grandi e piccini",
-      "publishedAt": "2026-11-06T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Rilevazione sulle piccole e medie imprese e sull’esercizio di arti e professioni",
-      "url": "https://www.istat.it/informazioni-sulla-rilevazione/pmi/",
-      "excerpt": "La Rilevazione sulle piccole e medie imprese (PMI) si rivolge alle imprese italiane con meno di 250 addetti",
-      "publishedAt": "2026-11-05T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Commercio al dettaglio – Settembre 2026",
-      "url": "https://www.istat.it/comunicato-stampa/commercio-al-dettaglio-settembre-2026/",
-      "excerpt": "A settembre 2026 le vendite al dettaglio aumentano dello 0,1% su agosto e dell'1,6% su base annua",
-      "publishedAt": "2026-11-05T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Adesione Convenzione Telefonia Mobile 9 – Dipendenti",
-      "url": "https://www.istat.it/bando-di-gara/cig-b24981d16e-adesione-convenzione-telefonia-mobile-9-dipendenti/",
-      "excerpt": "Online la delibera di proroga tecnica del contratto",
-      "publishedAt": "2026-11-04T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Indagine su bambini e ragazzi: comportamenti, atteggiamenti e progetti futuri",
-      "url": "https://www.istat.it/informazioni-sulla-rilevazione/indagine-su-bambini-e-ragazzi-comportamenti-atteggiamenti-e-progetti-futuri/",
-      "excerpt": "Indagine condotta per raccogliere informazioni su alcuni aspetti della vita quotidiana degli 11-19enni anni",
-      "publishedAt": "2026-11-03T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Livelli di istruzione e ritorni occupazionali – Anno 2025",
-      "url": "https://www.istat.it/comunicato-stampa/livelli-di-istruzione-e-ritorni-occupazionali-anno-2025/",
-      "excerpt": "Nel 2025 il tasso di occupazione dei neodiplomati sale al 62,9% e quello dei neolaureati al 78,7%; si tratta dei 20-34enni, non più inseriti in un percorso di formazione, che hanno conseguito il titolo di studio da almeno un anno e da non più di tre anni",
-      "publishedAt": "2026-11-03T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "#IstatNewsletter",
-      "url": "https://www.istat.it/newsletter/online-istatnewsletter-la-newsletter-dellistat/",
-      "excerpt": "Online il numero 40 del 2026. Lascia la tua email e riceverai ogni lunedì tutti gli aggiornamenti del sito Istat",
-      "publishedAt": "2026-11-02T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Censimento permanente delle Istituzioni pubbliche: prorogato il termine per partecipare",
-      "url": "https://www.istat.it/notizia/censimento-permanente-delle-istituzioni-pubbliche-2026-prorogato-il-termine-per-partecipare-alla-rilevazione/",
-      "excerpt": "È stato prorogato al 13 novembre 2026 il termine per partecipare alla quinta edizione del Censimento permanente delle Istituzioni pubbliche",
-      "publishedAt": "2026-11-02T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Retribuzioni contrattuali – Luglio-settembre 2026",
-      "url": "https://www.istat.it/comunicato-stampa/retribuzioni-contrattuali-luglio-settembre-2026/",
-      "excerpt": "L’indice delle retribuzioni contrattuali orarie, a settembre 2026, rimane invariato rispetto al mese precedente e aumenta del 2,5% rispetto a settembre 2025",
-      "publishedAt": "2026-10-30T11:00:15Z",
-      "dateEvidence": "feed:published"
-    }
-  ],
-  "attempts": [
-    {
-      "url": "https://www.istat.it/robots.txt",
-      "status": 200
-    },
+  "collectedAt": "2026-11-08T22:31:20.880152Z",
+  "status": "error",
+  "diagnosticCode": "timeout",
+  "method": "html",
+  "feedUrl": null,
+  "items": [],
+  "attempts": [],
+  "message": "Timeout della fonte",
+  "httpStatus": null,
+  "failedUrl": "https://www.istat.it/robots.txt",
+  "durationSeconds": 31.77,
+  "attemptErrors": [
     {
       "url": "https://www.istat.it/feed/",
-      "status": 200
+      "code": "timeout"
     }
-  ],
-  "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 3.1
+  ]
 }
