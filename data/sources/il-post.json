@@ -4,52 +4,52 @@
   "sourceId": "il-post",
   "originUrl": "https://www.ilpost.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-07T22:20:41.604660Z",
+  "collectedAt": "2026-11-08T01:52:50.660022Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
-      "title": "Il presidente di Israele ha scelto Gadi Eisenkot per formare un governo",
-      "url": "https://www.ilpost.it/2026/11/07/isaac-herzog-nomina-gadi-eisenkot-incarico-formare-governo/?homepagePosition=0",
-      "excerpt": "Cioè il principale oppositore di Benjamin Netanyahu: era una decisione prevista, e l'incarico gli verrà dato formalmente domenica",
-      "publishedAt": "2026-11-07T18:51:14Z",
+      "title": "È morto a 75 anni Richard Lloyd, chitarrista della band post punk dei Television",
+      "url": "https://www.ilpost.it/2026/11/07/richard-lloyd-television-band-morto/?bitPosition=1",
+      "excerpt": "È morto a 75 anni Richard Lloyd, chitarrista della band post punk dei Television - Condividi - X - Regala il Post Richard Lloyd, chitarrista della storica band statunitense dei Television, una delle più influenti nella scena post punk, è morto sabato nella sua casa nel Tennessee a causa di complicazioni legate a un can",
+      "publishedAt": "2026-11-07T21:22:00Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
       "title": "Trump ha offerto il ruolo di portavoce della Casa Bianca a Dana White, il presidente della lega di arti marziali miste UFC",
-      "url": "https://www.ilpost.it/2026/11/07/donald-trump-portavoce-casa-bianca-dana-white/?bitPosition=1",
+      "url": "https://www.ilpost.it/2026/11/07/donald-trump-portavoce-casa-bianca-dana-white/?bitPosition=2",
       "excerpt": "Trump ha offerto il ruolo di portavoce della Casa Bianca a Dana White, il presidente della lega di arti marziali miste UFC - Condividi - X - Regala il Post Il presidente degli Stati Uniti Donald Trump ha offerto il ruolo di portavoce della Casa Bianca a Dana White, il presidente della Ultimate Fighting Championship (UF",
       "publishedAt": "2026-11-07T18:45:37Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
       "title": "Francesco Bagnaia ha fatto una brutta caduta nella gara sprint del Gran Premio di MotoGP del Qatar",
-      "url": "https://www.ilpost.it/2026/11/07/francesco-bagnaia-incidente-sprint-race-gran-premio-motogp-qatar/?bitPosition=2",
+      "url": "https://www.ilpost.it/2026/11/07/francesco-bagnaia-incidente-sprint-race-gran-premio-motogp-qatar/?bitPosition=3",
       "excerpt": "Francesco Bagnaia ha fatto una brutta caduta nella gara sprint del Gran Premio di MotoGP del Qatar - Condividi - X - Regala il Post Alla fine del primo giro della gara sprint del Gran Premio di MotoGP in Qatar il pilota della Ducati Francesco “Pecco” Bagnaia ha fatto una brutta caduta dopo essere stato toccato dallo sp",
       "publishedAt": "2026-11-07T16:47:40Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
+      "title": "C’è stato un grave attacco nella piazza principale di Cracovia",
+      "url": "https://www.ilpost.it/2026/11/07/sparatoria-piazza-del-mercato-cracovia-morti/?homepagePosition=0",
+      "excerpt": "Un uomo ha ucciso almeno sei persone sparando dalla sua auto: a casa sua sono stati trovati altri tre corpi",
+      "publishedAt": "2026-11-07T14:32:52Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
       "title": "Ad Amsterdam un gruppo di attivisti ha invaso il cantiere di un data center di Microsoft",
-      "url": "https://www.ilpost.it/2026/11/07/attivisti-protesta-data-center-amsterdam-paesi-bassi/?bitPosition=3",
+      "url": "https://www.ilpost.it/2026/11/07/attivisti-protesta-data-center-amsterdam-paesi-bassi/?bitPosition=4",
       "excerpt": "Ad Amsterdam un gruppo di attivisti ha invaso il cantiere di un data center di Microsoft - Condividi - X - Regala il Post Venerdì un gruppo di attivisti del collettivo Geef Tegengas (“Fai resistenza”, in italiano) si è introdotto nel cantiere di un data center Microsoft ad Amsterdam, nei Paesi Bassi, per protestare con",
       "publishedAt": "2026-11-07T11:02:36Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "Chi è Gadi Eisenkot, l’ex generale che vuole chiudere l’era Netanyahu",
-      "url": "https://www.ilpost.it/2026/10/31/gadi-eisenkot-elezioni-israele/?homepagePosition=0.1&referrerPost=3727819",
-      "excerpt": "Sulle guerre di Israele ha idee simili al primo ministro, ma su altri temi – come le colonie – sta un po’ più al centro",
-      "publishedAt": "2026-10-31T07:44:05Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "E adesso cosa succede in Israele?",
-      "url": "https://www.ilpost.it/2026/10/28/cosa-succede-dopo-elezioni-israele/?homepagePosition=0.2&referrerPost=3727819",
-      "excerpt": "Se non ci sarà una maggioranza chiara, come sembra, il presidente Isaac Herzog dovrà scegliere chi nominare come primo ministro, e non sarà facile",
-      "publishedAt": "2026-10-28T12:40:49Z",
+      "title": "I servizi segreti europei hanno aperto un’indagine coordinata per individuare chi c’è dietro ai falsi allarmi bomba",
+      "url": "https://www.ilpost.it/2026/11/07/agenzie-intelligence-europa-falsi-allarmi-bomba-aerei-russia/?bitPosition=5",
+      "excerpt": "I servizi segreti europei hanno aperto un’indagine coordinata per individuare chi c’è dietro ai falsi allarmi bomba - Condividi - X - Regala il Post Diverse agenzie di intelligence europee hanno aperto un’indagine coordinata per capire se ci sia la Russia dietro ai numerosi falsi allarmi bomba segnalati negli ultimi gi",
+      "publishedAt": "2026-11-07T10:24:35Z",
       "dateEvidence": "jsonld:datePublished"
     }
   ],
@@ -63,27 +63,27 @@
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/07/isaac-herzog-nomina-gadi-eisenkot-incarico-formare-governo/?homepagePosition=0",
+      "url": "https://www.ilpost.it/2026/11/07/sparatoria-piazza-del-mercato-cracovia-morti/?homepagePosition=0",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/10/31/gadi-eisenkot-elezioni-israele/?homepagePosition=0.1&referrerPost=3727819",
+      "url": "https://www.ilpost.it/2026/11/07/richard-lloyd-television-band-morto/?bitPosition=1",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/10/28/cosa-succede-dopo-elezioni-israele/?homepagePosition=0.2&referrerPost=3727819",
+      "url": "https://www.ilpost.it/2026/11/07/donald-trump-portavoce-casa-bianca-dana-white/?bitPosition=2",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/07/donald-trump-portavoce-casa-bianca-dana-white/?bitPosition=1",
+      "url": "https://www.ilpost.it/2026/11/07/francesco-bagnaia-incidente-sprint-race-gran-premio-motogp-qatar/?bitPosition=3",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/07/francesco-bagnaia-incidente-sprint-race-gran-premio-motogp-qatar/?bitPosition=2",
+      "url": "https://www.ilpost.it/2026/11/07/attivisti-protesta-data-center-amsterdam-paesi-bassi/?bitPosition=4",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/07/attivisti-protesta-data-center-amsterdam-paesi-bassi/?bitPosition=3",
+      "url": "https://www.ilpost.it/2026/11/07/agenzie-intelligence-europa-falsi-allarmi-bomba-aerei-russia/?bitPosition=5",
       "status": 200
     }
   ],
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.ilpost.it/",
-  "durationSeconds": 3.58
+  "durationSeconds": 3.53
 }

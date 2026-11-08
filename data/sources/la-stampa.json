@@ -4,12 +4,54 @@
   "sourceId": "la-stampa",
   "originUrl": "https://www.lastampa.it/",
   "configuredFeedUrl": "https://www.lastampa.it/rss/copertina.xml",
-  "collectedAt": "2026-11-07T22:20:45.708958Z",
+  "collectedAt": "2026-11-08T01:52:54.196551Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.lastampa.it/rss/copertina.xml",
   "items": [
+    {
+      "title": "Tesi, ansiosi e irritabili di giorno, a caccia di carboidrati di notte: chi sono gli adulti non diagnosticati",
+      "url": "https://www.lastampa.it/specchio/temi/2026/11/08/news/tesi_ansiosi_e_irritabili_di_giorno_a_caccia_di_carboidrati_di_notte_chi_sono_gli_adulti_non_diagnosticati-15790518/",
+      "excerpt": "Cause e rimedi dell’Adhd, un disturbo sempre più diffuso",
+      "publishedAt": "2026-11-08T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Quanta ansia quando il medico diventa digitale",
+      "url": "https://www.lastampa.it/specchio/rubriche/scienza-e-salute/2026/11/08/news/quanta_ansia_quando_il_medico_diventa_digitale-15790460/",
+      "excerpt": "Un universo di sensori, app e monitor: luci e ombre di una rivoluzione",
+      "publishedAt": "2026-11-08T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Il delitto dei Murazzi: “L’ho sgozzato perché era giovane e felice”",
+      "url": "https://www.lastampa.it/specchio/rubriche/i-grandi-gialli/2026/11/08/news/il_delitto_dei_murazzi_l_ho_sgozzato_perche_era_giovane_e_felice-15790423/",
+      "excerpt": "Nel 2019, a Torino, Stefano Leo venne ucciso per strada senza una ragione",
+      "publishedAt": "2026-11-08T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "“Così dopo 20 anni mio marito mi ha confessato che pensava di essere gay”",
+      "url": "https://www.lastampa.it/specchio/rubriche/amore-moderno/2026/11/08/news/l_amore_moderno-15790385/",
+      "excerpt": "Buongiorno Maria,le scrivo in merito alla lettera del 25 ottobre scorso. La mia storia è simile a quella della Signora Lucilla, ma il finale è diverso. Le scrivo non perché venga ...",
+      "publishedAt": "2026-11-08T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Gualtieri, perfezionista che ha domato il caos. Ora apre anche al “nemico” Cinque stelle",
+      "url": "https://www.lastampa.it/politica/2026/11/08/news/gualtieri_perfezionista_che_ha_domato_il_caos_ora_apre_anche_al_nemico_cinque_stelle-15791481/",
+      "excerpt": "Il sindaco di Roma dai super cantieri alle battute al mercato. Oggi per il Censis il 73% dei romani è soddisfatto",
+      "publishedAt": "2026-11-08T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "La love story del capo di Nvidia finisce sotto la lente dei Servizi: “Quella donna è una spia cinese”",
+      "url": "https://www.lastampa.it/cronaca/2026/11/08/news/love_story_capo_nvidia_stati_uniti_spia-15791502/",
+      "excerpt": "La rivelazione del New York Times: «Lei è una manager di data center»",
+      "publishedAt": "2026-11-08T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "Svolta in Israele, Herzog affida il mandato a Gadi Eisenkot",
       "url": "https://www.lastampa.it/esteri/2026/11/07/news/israele_herzog_governo_eisenkot-15791450/",
@@ -95,9 +137,16 @@
       "dateEvidence": "feed:published"
     },
     {
+      "title": "Berlino frena sui Patriot. Zelensky: “A causa della carenza abbiamo subìto duri raid”. Kiev al buio",
+      "url": "https://www.lastampa.it/esteri/2026/11/08/diretta/guerra_russia_ucraina_news_oggi-15791597/",
+      "excerpt": "Il ministro della Difesa tedesco, Pistorius: «Per ora non riusciamo a darne altri». Il leader ucraino: «Ecco come Mosca si prepara al trilaterale»",
+      "publishedAt": "2026-11-07T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
       "title": "Trump minaccia i dem: “Vogliono l’impeachment, farò indagini su di loro”",
       "url": "https://www.lastampa.it/esteri/2026/11/07/news/trump_minaccia_i_democratici_impeachment-15791518/",
-      "excerpt": "La proposta al patron delle arti marziali Dana White di fargli da portavoce. E difende il segretario alla Difesa Hegseth: «È saldo, ha vinto due guerre»",
+      "excerpt": "Donald vuole Dana White come portavoce, il patron delle arti marziali rifiuta. E difende il segretario alla Difesa Hegseth: «È saldo, ha vinto due guerre»",
       "publishedAt": "2026-11-07T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -119,34 +168,6 @@
       "title": "“Lascio la Rai ma non escludo un ritorno. La lottizzazione vanifica le competenze”",
       "url": "https://www.lastampa.it/politica/2026/11/07/news/roberto_sergio_lascio_la_rai_ma_non_escludo_un_ritorno_la_lottizzazione_vanifica_le_competenze-15790780/",
       "excerpt": "L’ex ad di viale Mazzini: «Il taglio del canone mette a rischio i progetti industriali, per l’azienda serve stabilità»",
-      "publishedAt": "2026-11-07T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Dopo nove anni di promesse, il Museo Egizio sarà un ente di ricerca",
-      "url": "https://www.lastampa.it/cultura/2026/11/07/news/dopo_nove_anni_di_promesse_il_museo_egizio_sara_un_ente_di_ricerca-15790823/",
-      "excerpt": "L’annuncio durante la visita della Ministra Bernini: sarà vigilato dai dicasteri di Università e Cultura",
-      "publishedAt": "2026-11-07T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Fare cinema è un lusso, a Londra una casa gratis per i giovani talenti",
-      "url": "https://www.lastampa.it/spettacoli/2026/11/07/news/fare_cinema_e_un_lusso_a_londra_una_casa_gratis_per_i_giovani_talenti-15791012/",
-      "excerpt": "La sceneggiatrice britannica Phoebe Waller-Bridge ha donato un immobile per sostenerli. In Italia, intanto, metà degli sceneggiatori under 35 guadagna meno di 5mila euro l’anno, mentre il lavoro si concentra nelle città più costose",
-      "publishedAt": "2026-11-07T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Da Guadagnino a Pieraccioni, il ciclone artificiale",
-      "url": "https://www.lastampa.it/spettacoli/2026/11/07/news/da_guadagnino_a_pieraccioni_il_ciclone_artificiale-15790704/",
-      "excerpt": "Non solo fantascienza, ma un filone trasversale ai generi",
-      "publishedAt": "2026-11-07T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Le frequenze ribelli di Alice. Così è partita la rivoluzione delle radio libere italiane",
-      "url": "https://www.lastampa.it/cultura/2026/11/07/news/radio_alice_bologna_1977-15790786/",
-      "excerpt": "Un documentario racconta l’emittente bolognese, voce del Movimento ’77",
       "publishedAt": "2026-11-07T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -268,27 +289,6 @@
       "excerpt": "Trino, l’ipotesi di un corto circuito. Le rassicurazioni di Sogin e Comune: “L’area controllata del reattore è salva”",
       "publishedAt": "2026-11-07T00:00:00Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Orbassano, da lunedì 9 novembre attivi due nuovi autovelox lungo la circonvallazione esterna",
-      "url": "https://www.lastampa.it/torino/2026/11/07/news/orbassano_nuovi_autovelox_circonvallazione_esterna_provinciale_6-15790960/",
-      "excerpt": "Occhi elettronici puntati in entrambe le direzioni, verso Beinasco e Piossasco",
-      "publishedAt": "2026-11-07T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Riecco la banda della marmotta: a segno nella notte un colpo alla Bper Banca di Borgaro",
-      "url": "https://www.lastampa.it/torino/2026/11/07/news/banda_della_marmotta_furto_bper_banca_borgaro-15791027/",
-      "excerpt": "Alle 4 in via Caselle l’esplosione del bancomat ha svegliato di soprassalto numerosi residenti. Bottino da quantificare",
-      "publishedAt": "2026-11-07T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Berlino: “Non possiamo più fornire Patriot all'Ucraina”. Blackout a Kiev dopo gli attacchi russi",
-      "url": "https://www.lastampa.it/esteri/2026/11/07/diretta/guerra_russia_ucraina_news_oggi-15790879/",
-      "excerpt": "Putin conferma i colloqui trilaterali ad Abu Dhabi il 10 novembre. Kallas: «Senza Ue nessun accordo»",
-      "publishedAt": "2026-11-06T00:00:00Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -302,5 +302,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 1.04
+  "durationSeconds": 1.01
 }

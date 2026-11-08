@@ -44,7 +44,7 @@
       "status": 200
     }
   ],
-  "message": "Verifica interattiva richiesta",
+  "message": "Verifica interattiva richiesta; prossimo controllo dopo quattro ore.",
   "candidateSamples": [
     {
       "url": "https://www.quirinale.it/it/notizie/presidente-mattarella-ha-ricevuto-delegazione-fondazione-nizami-ganjavi",
