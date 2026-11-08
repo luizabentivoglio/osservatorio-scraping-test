@@ -4,52 +4,52 @@
   "sourceId": "il-post",
   "originUrl": "https://www.ilpost.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-08T09:31:05.082267Z",
+  "collectedAt": "2026-11-08T16:49:34.416796Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
+      "title": "Marco Bezzecchi ha vinto il Gran Premio del Qatar di MotoGP",
+      "url": "https://www.ilpost.it/2026/11/08/marco-bezzecchi-vince-gran-premio-motogp-qatar/?bitPosition=1",
+      "excerpt": "Marco Bezzecchi ha vinto il Gran Premio del Qatar di MotoGP - Condividi - X - Regala il Post Il pilota dell’Aprilia Marco Bezzecchi ha vinto il Gran Premio di MotoGP che si è corso domenica pomeriggio nel circuito di Lusail, in Qatar. Bezzecchi ha dominato quasi tutta la gara, e alla fine si è piazzato davanti agli spa",
+      "publishedAt": "2026-11-08T15:44:47Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "Sono stati rimpatriati sei italiani che erano stati arrestati in Cisgiordania",
+      "url": "https://www.ilpost.it/2026/11/08/rimpatriati-sei-attivisti-italiani-arrestati-cisgiordania/?bitPosition=2",
+      "excerpt": "Sono stati rimpatriati sei italiani che erano stati arrestati in Cisgiordania - Condividi - X - Regala il Post Sono stati rimpatriati sei italiani che erano stati arrestati venerdì dalle forze armate israeliane in Cisgiordania, dove si trovavano come volontari per affiancare i contadini palestinesi durante la raccolta ",
+      "publishedAt": "2026-11-08T14:35:41Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "Perché il Perù è così importante per papa Leone XIV",
+      "url": "https://www.ilpost.it/2026/11/08/papa-leone-xiv-viaggio-sudamerica-peru/?homepagePosition=0",
+      "excerpt": "Ci tornerà mercoledì per una visita ufficiale dopo averci vissuto per più di vent'anni: è un po' come tornare a casa",
+      "publishedAt": "2026-11-08T14:11:57Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "Il ministro dell’Interno Matteo Piantedosi ha convocato una riunione con le forze dell’ordine per i recenti attacchi informatici",
+      "url": "https://www.ilpost.it/2026/11/08/riunione-comitato-nazionale-pubblica-sicurezza-e-ordine-pubblico/?bitPosition=3",
+      "excerpt": "Il ministro dell’Interno Matteo Piantedosi ha convocato una riunione con le forze dell’ordine per i recenti attacchi informatici - Condividi - X - Regala il Post Il ministro dell’Interno Matteo Piantedosi ha convocato per martedì 10 novembre una riunione del Comitato nazionale dell’ordine e della sicurezza pubblica, un",
+      "publishedAt": "2026-11-08T10:37:02Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
       "title": "Più di 50 persone sono state uccise nelle ultime 24 ore nella guerra civile in Yemen",
-      "url": "https://www.ilpost.it/2026/11/08/50-persone-uccise-guerra-civile-yemen-houthi/?bitPosition=1",
+      "url": "https://www.ilpost.it/2026/11/08/50-persone-uccise-guerra-civile-yemen-houthi/?bitPosition=4",
       "excerpt": "Più di 50 persone sono state uccise nelle ultime 24 ore nella guerra civile in Yemen - Condividi - X - Regala il Post Più di 50 persone, fra cui molte donne e bambini, sono state uccise nelle ultime 24 ore nella guerra civile in Yemen, in una delle giornate con il maggior numero di morti negli ultimi mesi: dall’inizio ",
       "publishedAt": "2026-11-08T08:11:14Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
       "title": "Un gruppo di esponenti di CasaPound si è scontrato con la polizia durante un corteo antifascista a Gorizia",
-      "url": "https://www.ilpost.it/2026/11/08/gorizia-casa-pound-corteo/?bitPosition=2",
+      "url": "https://www.ilpost.it/2026/11/08/gorizia-casa-pound-corteo/?bitPosition=5",
       "excerpt": "Un gruppo di esponenti di CasaPound si è scontrato con la polizia durante un corteo antifascista a Gorizia - Condividi - X - Regala il Post Sabato pomeriggio a Gorizia, in Friuli Venezia Giulia, un gruppo di esponenti del movimento politico di estrema destra CasaPound ha cercato di forzare un blocco di polizia durante ",
       "publishedAt": "2026-11-08T07:22:46Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Cosa sappiamo dell’attacco a Cracovia",
-      "url": "https://www.ilpost.it/2026/11/08/cosa-sappiamo-attentato-cracovia/?homepagePosition=0",
-      "excerpt": "Un uomo descritto come «ultranazionalista» ha ucciso sei persone, e a casa sua sono stati trovati altri tre corpi",
-      "publishedAt": "2026-11-08T07:10:31Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "È morto a 75 anni Richard Lloyd, chitarrista della band punk rock dei Television",
-      "url": "https://www.ilpost.it/2026/11/07/richard-lloyd-television-band-morto/?bitPosition=3",
-      "excerpt": "È morto a 75 anni Richard Lloyd, chitarrista della band punk rock dei Television - Condividi - X - Regala il Post Richard Lloyd, chitarrista della storica band statunitense dei Television, una delle band protagonsite della scena punk newyorkese degli anni Settanta, che aveva fondato con Tom Verlaine, è morto sabato nel",
-      "publishedAt": "2026-11-07T21:22:00Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Trump ha offerto il ruolo di portavoce della Casa Bianca a Dana White, il presidente della lega di arti marziali miste UFC",
-      "url": "https://www.ilpost.it/2026/11/07/donald-trump-portavoce-casa-bianca-dana-white/?bitPosition=4",
-      "excerpt": "Trump ha offerto il ruolo di portavoce della Casa Bianca a Dana White, il presidente della lega di arti marziali miste UFC - Condividi - X - Regala il Post Il presidente degli Stati Uniti Donald Trump ha offerto il ruolo di portavoce della Casa Bianca a Dana White, il presidente della Ultimate Fighting Championship (UF",
-      "publishedAt": "2026-11-07T18:45:37Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Francesco Bagnaia ha fatto una brutta caduta nella gara sprint del Gran Premio di MotoGP del Qatar",
-      "url": "https://www.ilpost.it/2026/11/07/francesco-bagnaia-incidente-sprint-race-gran-premio-motogp-qatar/?bitPosition=5",
-      "excerpt": "Francesco Bagnaia ha fatto una brutta caduta nella gara sprint del Gran Premio di MotoGP del Qatar - Condividi - X - Regala il Post Alla fine del primo giro della gara sprint del Gran Premio di MotoGP in Qatar il pilota della Ducati Francesco “Pecco” Bagnaia ha fatto una brutta caduta dopo essere stato toccato dallo sp",
-      "publishedAt": "2026-11-07T16:47:40Z",
       "dateEvidence": "jsonld:datePublished"
     }
   ],
@@ -63,27 +63,27 @@
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/08/cosa-sappiamo-attentato-cracovia/?homepagePosition=0",
+      "url": "https://www.ilpost.it/2026/11/08/papa-leone-xiv-viaggio-sudamerica-peru/?homepagePosition=0",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/08/50-persone-uccise-guerra-civile-yemen-houthi/?bitPosition=1",
+      "url": "https://www.ilpost.it/2026/11/08/marco-bezzecchi-vince-gran-premio-motogp-qatar/?bitPosition=1",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/08/gorizia-casa-pound-corteo/?bitPosition=2",
+      "url": "https://www.ilpost.it/2026/11/08/rimpatriati-sei-attivisti-italiani-arrestati-cisgiordania/?bitPosition=2",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/07/richard-lloyd-television-band-morto/?bitPosition=3",
+      "url": "https://www.ilpost.it/2026/11/08/riunione-comitato-nazionale-pubblica-sicurezza-e-ordine-pubblico/?bitPosition=3",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/07/donald-trump-portavoce-casa-bianca-dana-white/?bitPosition=4",
+      "url": "https://www.ilpost.it/2026/11/08/50-persone-uccise-guerra-civile-yemen-houthi/?bitPosition=4",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/07/francesco-bagnaia-incidente-sprint-race-gran-premio-motogp-qatar/?bitPosition=5",
+      "url": "https://www.ilpost.it/2026/11/08/gorizia-casa-pound-corteo/?bitPosition=5",
       "status": 200
     }
   ],
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.ilpost.it/",
-  "durationSeconds": 3.52
+  "durationSeconds": 3.53
 }

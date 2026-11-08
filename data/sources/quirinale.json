@@ -4,7 +4,7 @@
   "sourceId": "quirinale",
   "originUrl": "https://www.quirinale.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-08T09:31:31.774927Z",
+  "collectedAt": "2026-11-08T16:50:07.803153Z",
   "status": "blocked",
   "diagnosticCode": "access_restricted",
   "method": "html",
@@ -24,6 +24,10 @@
       "status": 200
     },
     {
+      "url": "https://www.quirinale.it/it/notizie/mattarella-concerto-cappella-paolina-1",
+      "status": 200
+    },
+    {
       "url": "https://www.quirinale.it/it/notizie/mattarella-complesso-donnaregina-per-20-anniversario-fondazione-sud",
       "status": 200
     },
@@ -33,10 +37,6 @@
     },
     {
       "url": "https://www.quirinale.it/it/notizie/firenze-celebrazione-giornata-unita-nazionale-forze-armate",
-      "status": 200
-    },
-    {
-      "url": "https://www.quirinale.it/it/notizie/mattarella-visita-istituto-geografico-militare-firenze",
       "status": 200
     },
     {
@@ -57,6 +57,21 @@
             "date-label"
           ],
           "text": "Roma, 06/11/2026 (II mandato)",
+          "datetime": null
+        }
+      ]
+    },
+    {
+      "url": "https://www.quirinale.it/it/notizie/mattarella-concerto-cappella-paolina-1",
+      "title": "Il Presidente della Repubblica Sergio Mattarella in occasione del concerto per il 100° anno della fondazione del Coro della Sezione Operaia della Società degli Alpinisti Tridentini (SOSAT)",
+      "h1": "Mattarella al concerto alla Cappella Paolina",
+      "dates": [
+        {
+          "tag": "p",
+          "class": [
+            "date-label"
+          ],
+          "text": "Roma, 08/11/2026 (II mandato)",
           "datetime": null
         }
       ]
@@ -291,29 +306,6 @@
       ]
     },
     {
-      "url": "https://www.quirinale.it/it/notizie/mattarella-visita-istituto-geografico-militare-firenze",
-      "title": "Il Presidente Mattarella visita l'Istituto Geografico Militare",
-      "h1": "Mattarella visita l'Istituto Geografico Militare di Firenze",
-      "dates": [
-        {
-          "tag": "span",
-          "class": [
-            "data-luogo"
-          ],
-          "text": "Firenze, 04/11/2026",
-          "datetime": null
-        },
-        {
-          "tag": "p",
-          "class": [
-            "date-label"
-          ],
-          "text": "Firenze, 04/11/2026 (II mandato)",
-          "datetime": null
-        }
-      ]
-    },
-    {
       "url": "https://www.quirinale.it/it/notizie/nostra-repubblica-compie-ottant-anni-1",
       "title": "I Volti della Repubblica",
       "h1": "La nostra Repubblica compie Ottant’anni",
@@ -332,5 +324,5 @@
   "candidateCount": 12,
   "datedCount": 0,
   "listingUrl": "https://www.quirinale.it/",
-  "durationSeconds": 4.3
+  "durationSeconds": 4.25
 }

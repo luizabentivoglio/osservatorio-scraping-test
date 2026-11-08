@@ -4,12 +4,19 @@
   "sourceId": "ingv",
   "originUrl": "https://www.ingv.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-08T09:31:01.337887Z",
+  "collectedAt": "2026-11-08T16:49:30.081399Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.ingv.it/stampa-urp/ufficio-stampa/comunicati-stampa?format=feed&type=rss",
   "items": [
+    {
+      "title": "L’INGV ricorda Roberto Cervellati",
+      "url": "https://www.ingv.it/stampa-urp/ufficio-stampa/comunicati-stampa/l-ingv-ricorda-roberto-cervellati",
+      "excerpt": "",
+      "publishedAt": "2026-11-08T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "EINSTEIN TELESCOPE: I MINISTRI BERNINI E GEMKOW E LA PRESIDENTE TODDE A SOS ENATTOS PER RAFFORZARE LA CANDIDATURA ITALIA-SASSONIA",
       "url": "https://www.ingv.it/stampa-urp/ufficio-stampa/comunicati-stampa/einstein-telescope-i-ministri-bernini-e-gemkow-e-la-presidente-todde-a-sos-enattos-per-rafforzare-la-candidatura-italia-sassonia",
@@ -54,5 +61,5 @@
     }
   ],
   "message": "Feed dichiarato dalla fonte; date di pubblicazione verificate.",
-  "durationSeconds": 1.82
+  "durationSeconds": 1.91
 }

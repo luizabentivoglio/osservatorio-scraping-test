@@ -27,7 +27,7 @@
 | factanza | blocked | html | 0 | access_restricted |
 | fanpage | blocked | html | 0 | access_restricted |
 | forza-italia | ok | trafilatura | 0 | — |
-| futuro-nazionale | error | html | 0 | robots_unavailable |
+| futuro-nazionale | ok | rss | 0 | — |
 | good-morning-italia | blocked | html | 0 | access_restricted |
 | greenpeace | ok | trafilatura | 2 | — |
 | hrw | blocked | html | 0 | access_restricted |
@@ -35,7 +35,7 @@
 | il-fatto | blocked | html | 0 | robots_disallowed |
 | il-notiziario | blocked | html | 0 | access_restricted |
 | il-post | ok | trafilatura | 6 | — |
-| ingv | ok | rss | 4 | — |
+| ingv | ok | rss | 5 | — |
 | ispi | blocked | html | 0 | robots_disallowed |
 | ispra | ok | rss | 0 | — |
 | iss | ok | trafilatura | 0 | — |
@@ -43,7 +43,7 @@
 | istituto-bruno-leoni | ok | trafilatura | 5 | — |
 | italia-domani-rizzo | ok | trafilatura | 3 | — |
 | italia-viva | blocked | html | 0 | access_restricted |
-| la-stampa | blocked | html | 0 | access_restricted |
+| la-stampa | ok | rss | 40 | — |
 | legambiente | ok | trafilatura | 0 | — |
 | libera | ok | html | 1 | — |
 | mef | ok | trafilatura | 2 | — |
@@ -67,7 +67,7 @@
 | senato | no_feed | crawl4ai | 0 | parsing_error |
 | sud-chiama-nord | blocked | html | 0 | access_restricted |
 | svp | ok | trafilatura | 1 | — |
-| tgr-lombardia | no_feed | crawl4ai | 0 | parsing_error |
+| tgr-lombardia | ok | crawl4ai | 0 | — |
 | wwf | ok | trafilatura | 6 | — |
 
 Le date sono verificate nei feed o nei metadati di pubblicazione dei singoli articoli. Nessun dato personale dell’archivio è letto o pubblicato.

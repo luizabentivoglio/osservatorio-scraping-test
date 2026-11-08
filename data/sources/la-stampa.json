@@ -4,20 +4,303 @@
   "sourceId": "la-stampa",
   "originUrl": "https://www.lastampa.it/",
   "configuredFeedUrl": "https://www.lastampa.it/rss/copertina.xml",
-  "collectedAt": "2026-11-08T09:31:09.282997Z",
-  "status": "blocked",
-  "diagnosticCode": "access_restricted",
-  "method": "html",
-  "feedUrl": null,
-  "items": [],
+  "collectedAt": "2026-11-08T16:49:38.615519Z",
+  "status": "ok",
+  "diagnosticCode": null,
+  "method": "rss",
+  "feedUrl": "https://www.lastampa.it/rss/copertina.xml",
+  "items": [
+    {
+      "title": "Israele, Eisenkot: “Pronto a governare un esecutivo di emergenza, serve una nuova leadership”/ Il discorso integrale",
+      "url": "https://www.lastampa.it/esteri/2026/11/08/news/israele_eisenkot_apre_a_likud_e_ultradestra_governo_di_unita_nazionale_serve_una_nuova_leadership-15791841/",
+      "excerpt": "Dopo l'incarico ricevuto da Herzog, il leader lancia un appello a tutti i partiti della Knesset e ai singoli parlamentari: «La democrazia israeliana è in uno dei suoi momenti più fragili. Servono soluzioni creative». E infine: «Se vogliono l’unità, Netanyahu mi sostenga»",
+      "publishedAt": "2026-11-08T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "L’affondo dell’Idf: “Armi di Hezbollah a 100 metri dai caschi blu. Unifil ha fallito”",
+      "url": "https://www.lastampa.it/esteri/2026/11/08/news/israele_idf_hezbollah_unifil-15791868/",
+      "excerpt": "La replica: «Non è nostro compito disarmarli con la forza». L'esercito israeliano consegna a La Stampa le fotografie di tre siti nel Sud del Libano. Nel mirino la missione delle Nazioni Unite a guida italiana, il cui mandato scade il 31 dicembre",
+      "publishedAt": "2026-11-08T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Il Milan si impone a Marassi: Cissé e Pulisic bastano per i tre punti: Genoa battuto 2-1",
+      "url": "https://www.lastampa.it/sport/2026/11/08/news/il_milan_si_impone_a_marassi_cisse_e_pulisic_bastano_per_i_tre_punti_genoa_battuto_2-1-15791875/",
+      "excerpt": "Grazie a questa vittoria la squadra di Amorim supera il Como, impegnato alle 18 contro l'Inter, e si prende il quarto posto a 24 punti",
+      "publishedAt": "2026-11-08T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Valentino Rossi: “Schumi sapeva ridere e bere, un figo. Kimi in gara è una bestia”",
+      "url": "https://www.lastampa.it/sport/2026/11/08/news/valentino_rossi_autobiografia-15791469/",
+      "excerpt": "L’autobiografia di uno dei piloti più amati e vincenti della MotoGp. Racconto di una carriera leggendaria e dell'uomo fuori dalle piste",
+      "publishedAt": "2026-11-08T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Chi è Michal Oksinski, il killer di Cracovia che disegnava impiccati e andava al poligono col padre",
+      "url": "https://www.lastampa.it/esteri/2026/11/08/news/chi_e_michal_oksinski_il_killer_di_cracovia_che_disegnava_impiccati_e_andava_al_poligono_col_padre-15791755/",
+      "excerpt": "I compagni di scuola del tornitore di 24 anni: «Non socializzava facilmente»",
+      "publishedAt": "2026-11-08T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Cracovia, il racconto dell’italiano a pochi metri dalla sparatoria: \"Ho pensato di morire\"",
+      "url": "https://www.lastampa.it/esteri/2026/11/08/video/cracovia-sparatoria-testimonianza-italiano-ho-pensato-di-morire-15791794/",
+      "excerpt": "Roberto Di Matteo, modenese, si trovava con alcuni amici in piazza del Mercato quando l’attentatore ha aperto il fuoco sulla folla, uccidendo sei persone e ferendone 16. \"Abbiamo sentito gli spari e visto la gente correre. Ci siamo rifugiati in un bar, perdendoci di vista nel fuggi-fuggi\", racconta. \"In pochi secondi c",
+      "publishedAt": "2026-11-08T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Quel braccio di ferro europeisti-sovranisti che ha trasformato la Polonia in polveriera",
+      "url": "https://www.lastampa.it/esteri/2026/11/08/news/cracovia_braccio_di_ferro_europeisti_sovranisti_polonia_polveriera-15791511/",
+      "excerpt": "La sparatoria scuote un Paese attraversato da una grave crisi istituzionale",
+      "publishedAt": "2026-11-08T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Caro-neve, nuovi aumenti per le tariffe skipass: in 5 anni impennata del 43%",
+      "url": "https://www.lastampa.it/cronaca/2026/11/08/news/caro_neve_aumenti_tariffe_skipass_in_5_anni_impennata_43-15791710/",
+      "excerpt": "I prezzi degli skipass continuano a salire e in alcune località gli incrementi raggiungono il 43% nell'arco di cinque anni",
+      "publishedAt": "2026-11-08T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "“Consumano energia ma non portano lavoro”. Ora i data center sono un caso anche in Italia",
+      "url": "https://www.lastampa.it/economia/2026/11/08/news/ora_i_data_center_sono_un_caso_anche_in_italia-15791507/",
+      "excerpt": "Sono oltre 200 le strutture nel Paese, 83 progetti in agenda. In Piemonte e Lombardia cittadini in piazza",
+      "publishedAt": "2026-11-08T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Il conto dei cyberattacchi: “Il turismo rischia danni per 200 milioni di euro”",
+      "url": "https://www.lastampa.it/economia/2026/11/08/news/conto_cyberattacchi_turismo_danni_200_milioni-15791540/",
+      "excerpt": "Aerei, vacanze e grande distribuzione i settori nel mirino",
+      "publishedAt": "2026-11-08T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Allarmi bomba, l’intelligence Ue indaga sulla pista russa. Vertice Europol-polizie nazionali",
+      "url": "https://www.lastampa.it/cronaca/2026/11/08/news/sicurezza_ue_intelligence_pista_russa_vertice_europol-15791432/",
+      "excerpt": "Parigi apre un’inchiesta: «Coinvolta una superpotenza». Sospetti sempre più radicati su una regia da Mosca",
+      "publishedAt": "2026-11-08T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Vercelli, il paracadute non si apre. Morto un uomo di 35 anni",
+      "url": "https://www.lastampa.it/vercelli/2026/11/08/news/morto_paracadutista-15791817/",
+      "excerpt": "Incidente mortale nel pomeriggio di oggi, domenica 8 novembre, presso il campo volo in via Lamporo, a Vercelli. A perdere la vita un uomo di 35 anni, deceduto sul posto durante un’attività di ...",
+      "publishedAt": "2026-11-08T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Bergamo, trovata morta in casa con ferite di arma da taglio: fermato il figlio",
+      "url": "https://www.lastampa.it/cronaca/2026/11/08/news/bergamo_donna_uccisa_fermato_figlio-15791814/",
+      "excerpt": "A dare l'allarme un parente della donna, che non riusciva a mettersi in contatto con lei. Indagini in corso",
+      "publishedAt": "2026-11-08T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Muore dopo esser stato travolto da un monopattino il fisico Roberto Cervellati. Caccia al pirata",
+      "url": "https://www.lastampa.it/cronaca/2026/11/08/news/muore_fisico_roberto_cervellati_travolto_monopattino_pirata_roma-15791768/",
+      "excerpt": "L’incidente a Roma: niente da fare per lo scienziato: aveva partecipato a missioni in Antartide anche per l’Enea",
+      "publishedAt": "2026-11-08T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Lele Mora grave in ospedale, ictus durante una tournée: “Mi hanno strappato alla morte”",
+      "url": "https://www.lastampa.it/cronaca/2026/11/08/news/lele_mora_ictus_grave_ospedale_malore_teatro_l_aquila_roma-15791728/",
+      "excerpt": "A L’Aquila per uno spettacolo teatrale, stava rientrando a Roma quando si è sentito male",
+      "publishedAt": "2026-11-08T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "“Infezioni sempre più gravi”, l'allarme si estende ai funghi",
+      "url": "https://www.lastampa.it/torino/2026/11/08/news/infezioni_sempre_piu_gravi_l_allarme_si_estende_ai_funghi-15791456/",
+      "excerpt": "A Torino il punto degli esperti nel congresso della Società di Terapia Antinfettiva. Il 75% delle donne ha sofferto almeno un episodio di candidosi nel corso della vita",
+      "publishedAt": "2026-11-08T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Sinistra Usa, tre anime e molti dubbi. “L’impeachment non è una buona idea”",
+      "url": "https://www.lastampa.it/esteri/speciali/elezioni-midterm-2026/2026/11/08/news/usa_elezioni_sinistra_impeachment_obama-15791549/",
+      "excerpt": "Centristi, liberal e socialisti discutono su come arrivare alla Casa Bianca. A unirli solo Obama",
+      "publishedAt": "2026-11-08T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Padre Albanese: “Trump alza muri, Leone costruisce la pace”",
+      "url": "https://www.lastampa.it/esteri/2026/11/08/news/padre_albanese_trump_alza_muri_leone_costruisce_la_pace-15791650/",
+      "excerpt": "Il viaggio, secondo il consigliere della Segreteria di Stato, «dimostra che Prevost è il portavoce dei popoli oppressi dal colonialismo che non hanno voce»",
+      "publishedAt": "2026-11-08T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Amo il jazz grazie ai miei. Trafugavano le partiture vietate dai fascisti",
+      "url": "https://www.lastampa.it/spettacoli/2026/11/08/news/paolo_conte_amo_jazz_grazie_ai_miei_trafugavano_partiture_vietate_da_fascisti-15791488/",
+      "excerpt": "L’incontro con il cantautore alla Fondazione Ferrero di Alba: «Ho scelto di ispirarmi al dandy: elegante, sintetico, mai retorico»",
+      "publishedAt": "2026-11-08T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Tesi, ansiosi e irritabili di giorno, a caccia di carboidrati di notte: chi sono gli adulti non diagnosticati",
+      "url": "https://www.lastampa.it/specchio/temi/2026/11/08/news/tesi_ansiosi_e_irritabili_di_giorno_a_caccia_di_carboidrati_di_notte_chi_sono_gli_adulti_non_diagnosticati-15790518/",
+      "excerpt": "Cause e rimedi dell’Adhd, un disturbo sempre più diffuso",
+      "publishedAt": "2026-11-08T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Quanta ansia quando il medico diventa digitale",
+      "url": "https://www.lastampa.it/specchio/rubriche/scienza-e-salute/2026/11/08/news/quanta_ansia_quando_il_medico_diventa_digitale-15790460/",
+      "excerpt": "Un universo di sensori, app e monitor: luci e ombre di una rivoluzione",
+      "publishedAt": "2026-11-08T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Il delitto dei Murazzi: “L’ho sgozzato perché era giovane e felice”",
+      "url": "https://www.lastampa.it/specchio/rubriche/i-grandi-gialli/2026/11/08/news/il_delitto_dei_murazzi_l_ho_sgozzato_perche_era_giovane_e_felice-15790423/",
+      "excerpt": "Nel 2019, a Torino, Stefano Leo venne ucciso per strada senza una ragione",
+      "publishedAt": "2026-11-08T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "“Così dopo 20 anni mio marito mi ha confessato che pensava di essere gay”",
+      "url": "https://www.lastampa.it/specchio/rubriche/amore-moderno/2026/11/08/news/l_amore_moderno-15790385/",
+      "excerpt": "Buongiorno Maria,le scrivo in merito alla lettera del 25 ottobre scorso. La mia storia è simile a quella della Signora Lucilla, ma il finale è diverso. Le scrivo non perché venga ...",
+      "publishedAt": "2026-11-08T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Schlein: “Non faremo alle destre il favore di dividerci”. A Meloni: “Accordo sul consenso”",
+      "url": "https://www.lastampa.it/politica/2026/11/08/news/schlein_milano_manovra_legge_consenso-15791804/",
+      "excerpt": "La leader dem al Forum di “Elle Active!”: «A Milano bene le primarie, condivido il percorso del Pd»",
+      "publishedAt": "2026-11-08T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Gualtieri, perfezionista che ha domato il caos. Ora apre anche al “nemico” Cinque stelle",
+      "url": "https://www.lastampa.it/politica/2026/11/08/news/gualtieri_perfezionista_che_ha_domato_il_caos_ora_apre_anche_al_nemico_cinque_stelle-15791481/",
+      "excerpt": "Il sindaco di Roma dai super cantieri alle battute al mercato. Oggi per il Censis il 73% dei romani è soddisfatto",
+      "publishedAt": "2026-11-08T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Raccolgono lava incandescente mentre il vulcano erutta alle loro spalle",
+      "url": "https://www.lastampa.it/esteri/2026/11/08/video/kilauea-hawaii-scienziati-raccolta-lava-eruzione-15791766/",
+      "excerpt": "Prelevano lava incandescente e raffreddano i campioni nell’acqua, mentre alle loro spalle si alzano le fontane del Kilauea. Le immagini diffuse dal Dipartimento dell’Interno statunitense mostrano i ricercatori dell’osservatorio vulcanologico delle Hawaii al lavoro: i campioni aiutano a studiare i processi che avvengono",
+      "publishedAt": "2026-11-08T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "La disperazione degli sfollati che affrontano l'inverno a Gaza: \"Le tende sono già allagate. Abbiate pietà di noi\"",
+      "url": "https://www.lastampa.it/esteri/2026/11/08/video/gaza-pioggia-allagamenti-tende-sfollati-campo-mina-15791741/",
+      "excerpt": "È bastata meno di un’ora di pioggia per allagare le tende e inzuppare materassi e coperte nel campo di Mina, a Gaza City, dove vivono circa 1.700 famiglie sfollate. Adulti e bambini cercano di liberare dal fango i loro ripari, privi di teloni e protezioni adeguate. Per molti palestinesi è il terzo inverno trascorso nei",
+      "publishedAt": "2026-11-08T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Pretende che cancellino 2.500 dollari di debito: si presenta in banca con fucile e inizia a sparare",
+      "url": "https://www.lastampa.it/video/socialnews/2026/11/08/video/florida-sparatoria-sede-citibank-debito-2500-dollari-15791718/",
+      "excerpt": "L’uomo, furioso per una causa relativa a un debito di 2.500 dollari, aveva minacciato di presentarsi armato se il procedimento non fosse stato annullato. Poco dopo ha sfondato con l’auto la recinzione del campus Citibank di Tampa ed è entrato con un fucile, uccidendo una dipendente. Quando l’arma si è inceppata, è torn",
+      "publishedAt": "2026-11-08T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Distrusse con l’auto il santuario: perché ora deve pagare 132 mila euro alla parrocchia",
+      "url": "https://www.lastampa.it/torino/2026/11/08/news/levone_risarcimento_santuario_incidente_stradale-15791676/",
+      "excerpt": "Levone, in seguito a un incidente nel 2023 un’auto finì contro il porticato che crollò. La compagnia assicuratrice contesta l’importo del risarcimento, ma il giudice conferma",
+      "publishedAt": "2026-11-08T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Mangi bene e spendi il giusto: ecco i nuovi ristoranti con il miglior rapporto qualità/prezzo",
+      "url": "https://www.lastampa.it/cronaca/2026/11/08/news/guida_michelin_italia_2026_nuovi_bib_gourmand_ristoranti_qualita_prezzo-15791735/",
+      "excerpt": "In tutto nella Guida Michelin Italia, sono 276 (con 37 new entry) i Bib Gourmand, locali in Italia dove la qualità è buona e il conto contenuto: Emilia Romagna, Piemonte e Toscana la top tre delle regioni",
+      "publishedAt": "2026-11-08T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Michele Placido: “Il giudice Livatino, martire contemporaneo che guardava la Piovra”",
+      "url": "https://www.lastampa.it/spettacoli/2026/11/08/news/michele_placido_il_giudice_livatino_martire_contemporaneo_che_guardava_la_piovra-15791436/",
+      "excerpt": "Su Rai 1 la fiction sul magistrato ucciso dalla mafia",
+      "publishedAt": "2026-11-08T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Il fiume in piena travolge l'auto: il salvataggio dall'elicottero",
+      "url": "https://www.lastampa.it/esteri/2026/11/08/video/corsica-piena-fiume-auto-salvataggio-elicottero-15791753/",
+      "excerpt": "Un soccorritore si cala dall’elicottero verso un’auto gialla circondata dall’acqua: le immagini diffuse dalla protezione civile francese documentano il recupero di due persone rimaste isolate per l’improvvisa piena di un fiume. L’intervento è avvenuto il 5 novembre in Corsica, con il supporto dei vigili del fuoco.",
+      "publishedAt": "2026-11-08T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Scoppia incendio ma la casa è inaccessibile perché ingombra di oggetti: il difficile salvataggio",
+      "url": "https://www.lastampa.it/video/socialnews/2026/11/08/video/fredericksburg-incendio-casa-piena-oggetti-donna-salvata-15791750/",
+      "excerpt": "Due agenti attraversano stanze invase dal fumo e ingombre di oggetti per raggiungere una donna e trascinarla all’esterno: il salvataggio, ripreso dalle bodycam, è avvenuto il 3 novembre a Fredericksburg, in Virginia. La donna e un altro residente sono stati portati in ospedale; anche i poliziotti sono stati soccorsi pe",
+      "publishedAt": "2026-11-08T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "La lite tra sub a 20 metri di profondità: calci, strattoni e maschere strappate",
+      "url": "https://www.lastampa.it/video/socialnews/2026/11/08/video/maldive-rissa-sub-18-metri-profondita-guida-sospesa-video-15791787/",
+      "excerpt": "Spinte, colpi di pinna e strattoni a circa 18 metri di profondità: la colluttazione è avvenuta il 28 ottobre nel sito di Kuda Rah Thila, alle Maldive. Secondo l’istruttore cinese Xiao Du, che si trovava in immersione con un amico, lo scontro sarebbe iniziato in un tratto affollato della barriera e avrebbe coinvolto alt",
+      "publishedAt": "2026-11-08T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Minaccia di morte papa Leone XIV, arrestato un uomo: in casa cellulari e un drone",
+      "url": "https://www.lastampa.it/esteri/2026/11/08/video/argentina-arrestato-minacce-morte-papa-leone-xiv-drone-15791830/",
+      "excerpt": "La Polizia federale argentina ha arrestato a Villa Rosa, nella provincia di Buenos Aires, un operaio di 49 anni accusato di aver minacciato di morte papa Leone XIV alla vigilia del suo arrivo nel Paese. L’indagine sarebbe partita da una segnalazione anonima al numero di emergenza e, attraverso intercettazioni e il trac",
+      "publishedAt": "2026-11-08T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Il Campus verso la fine dell’occupazione: “Puliremo lasciando meglio di come l’abbiamo trovato”",
+      "url": "https://www.lastampa.it/torino/2026/11/08/news/campus_einaudi_occupazione_finita_pulizie-15791699/",
+      "excerpt": "L’annuncio sulla pagina Instagram di uno dei collettivi: domenica ultima notte nei locali, lunedì pronti a sgomberare dopo l’incontro con la rettrice",
+      "publishedAt": "2026-11-08T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Aifa al bivio sui super farmaci oncologici. Al servizio sanitario costerebbero 10 miliardi",
+      "url": "https://www.lastampa.it/cronaca/2026/11/08/news/aifa_al_bivio_sui_super_farmaci_oncologici_al_servizio_sanitario_costerebbero_10_miliardi-15791553/",
+      "excerpt": "I nuovi medicinali approvati negli Usa al vaglio dell’agenzia italiana. Fino a 500 mila dollari per una cura annuale",
+      "publishedAt": "2026-11-08T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "È finita un’epoca del femminismo. Emma chiude dopo mezzo secolo",
+      "url": "https://www.lastampa.it/cultura/2026/11/08/news/femminismo_rivista_emma_chiude_dopo_mezzo_secolo-15791632/",
+      "excerpt": "La rivista era nata in Germania nel 1987 intestandosi battaglie talvolta divisive",
+      "publishedAt": "2026-11-08T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "“Hai la gonna troppo corta”. Il lato nascosto dello sport femminile tra molestie e pochi soldi",
+      "url": "https://www.lastampa.it/asti/2026/11/08/news/hai_la_gonna_troppo_corta_il_lato_nascosto_dello_sport_femminile_tra_molestie_e_pochi_soldi-15791239/",
+      "excerpt": "Le storie delle atlete astigiane che cercano di andare avanti nonostante le difficoltà economiche e la scarsa visibilità all’esterno. L’ex pattinatrice: “Quando vinci quasi nessuno lo racconta”",
+      "publishedAt": "2026-11-08T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Spintoni in classe tra studenti dell’istituto Zerboni, professore cade a terra e finisce in ospedale",
+      "url": "https://www.lastampa.it/torino/2026/11/08/news/spintoni_in_classe_tra_studenti_dell_istituto_zerboni_professore_cade_a_terra_e_finisce_in_ospedale-15791579/",
+      "excerpt": "Nessuna denuncia, non è stato aggredito. Il dirigente: “Siamo un presidio dello Stato. I ragazzi portano a scuola la loro quotidianità”",
+      "publishedAt": "2026-11-08T00:00:00Z",
+      "dateEvidence": "feed:published"
+    }
+  ],
   "attempts": [
     {
       "url": "https://www.lastampa.it/robots.txt",
-      "status": 403
+      "status": 200
+    },
+    {
+      "url": "https://www.lastampa.it/rss/copertina.xml",
+      "status": 200
     }
   ],
-  "message": "HTTP 403: accesso limitato dalla fonte",
-  "httpStatus": 403,
-  "failedUrl": "https://www.lastampa.it/robots.txt",
-  "durationSeconds": 0.27
+  "message": "Feed ufficiale letto; date di pubblicazione verificate.",
+  "durationSeconds": 1.04
 }
