@@ -48,7 +48,7 @@
       "status": 200
     }
   ],
-  "message": "Browser HTTP 403",
+  "message": "Browser HTTP 403; prossimo controllo dopo quattro ore.",
   "candidateSamples": [
     {
       "url": "https://www.quirinale.it/it/notizie/presidente-mattarella-ha-ricevuto-delegazione-fondazione-nizami-ganjavi",

@@ -4,7 +4,7 @@
   "sourceId": "comune-bollate",
   "originUrl": "https://comune.bollate.mi.it/it/news",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-08T22:30:51.906900Z",
+  "collectedAt": "2026-11-09T02:00:57.517483Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -37,13 +37,6 @@
       "excerpt": "Sito ufficiale Comune di Bollate",
       "publishedAt": "2026-11-03T00:00:00Z",
       "dateEvidence": "html:news-date-label"
-    },
-    {
-      "title": "A LaBolla Teatro, i festeggiamenti civili di San Martino",
-      "url": "https://comune.bollate.mi.it/it/news/san-martino-2072994",
-      "excerpt": "Sito ufficiale Comune di Bollate",
-      "publishedAt": "2026-11-03T00:00:00Z",
-      "dateEvidence": "html:news-date-label"
     }
   ],
   "attempts": [
@@ -72,24 +65,18 @@
       "status": 200
     },
     {
-      "url": "https://comune.bollate.mi.it/it/news/san-martino-2072994",
+      "url": "https://comune.bollate.mi.it/it/news/avviso-pubblico-misura-nidi-gratis-plus",
       "status": 200
     },
     {
-      "url": "https://comune.bollate.mi.it/it/news/avviso-pubblico-misura-nidi-gratis-plus",
-      "status": 500
+      "url": "https://comune.bollate.mi.it/it/news/orari-2059632",
+      "status": 200
     }
   ],
-  "message": "5 notizie recenti con data verificata; copertura parziale.",
+  "message": "4 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [],
   "candidateCount": 12,
-  "datedCount": 5,
+  "datedCount": 6,
   "listingUrl": "https://comune.bollate.mi.it/it/news",
-  "durationSeconds": 5.39,
-  "attemptErrors": [
-    {
-      "url": "https://comune.bollate.mi.it/it/news/avviso-pubblico-misura-nidi-gratis-plus",
-      "code": "http_error"
-    }
-  ]
+  "durationSeconds": 5.23
 }

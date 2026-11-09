@@ -4,12 +4,19 @@
   "sourceId": "la-stampa",
   "originUrl": "https://www.lastampa.it/",
   "configuredFeedUrl": "https://www.lastampa.it/rss/copertina.xml",
-  "collectedAt": "2026-11-08T22:31:30.734666Z",
+  "collectedAt": "2026-11-09T02:01:31.081205Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.lastampa.it/rss/copertina.xml",
   "items": [
+    {
+      "title": "Ora anche Trump scarica l’amico Netanyahu",
+      "url": "https://www.lastampa.it/esteri/2026/11/09/news/trump_netanyahu_usa_israele_gaza-15792228/",
+      "excerpt": "Il presidente Usa: “Si occupi della pace a Gaza, improbabile una guerra con l’Iran”. Poi il mea culpa sui migranti: “Siamo stati troppo duri”",
+      "publishedAt": "2026-11-09T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "Juve e Fiorentina ci provano fino alla fine, ma al Franchi finisce in parità: 2-2",
       "url": "https://www.lastampa.it/sport/2026/11/08/news/juve_e_fiorentina_ci_provano_fino_alla_fine_ma_al_franchi_finisce_in_parita_2-2-15792239/",
@@ -70,6 +77,13 @@
       "title": "Padre Albanese: “Trump alza muri, Leone costruisce la pace”",
       "url": "https://www.lastampa.it/esteri/2026/11/08/news/padre_albanese_trump_alza_muri_leone_costruisce_la_pace-15791650/",
       "excerpt": "Il viaggio, secondo il consigliere della Segreteria di Stato, «dimostra che Prevost è il portavoce dei popoli oppressi dal colonialismo che non hanno voce»",
+      "publishedAt": "2026-11-08T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Berlino: “Non possiamo più fornire Patriot all'Ucraina”. Blackout a Kiev dopo gli attacchi russi",
+      "url": "https://www.lastampa.it/esteri/2026/11/09/diretta/guerra_russia_ucraina_news_oggi-15792259/",
+      "excerpt": "La Germania per ora annuncia di fermare gli aiuti militari all’Ucraina: non fornirà più i Patriot, perché deve pensare a preservare le proprie scorte, per la difesa. Mentre gli attacchi ...",
       "publishedAt": "2026-11-08T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -275,20 +289,6 @@
       "excerpt": "L’Ungheria rende consultabili online decine di migliaia di documenti della polizia segreta comunista, compresi i nomi di informatori e collaboratori. Tra il 1956 e il 1989 furono registrate circa 55mila persone incaricate di sorvegliare amici, familiari, colleghi e ambienti considerati sovversivi, come la scena rock un",
       "publishedAt": "2026-11-08T00:00:00Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Un abete di 11 tonnellate vola tra i grattacieli: è il nuovo albero del Rockefeller Center",
-      "url": "https://www.lastampa.it/video/socialnews/2026/11/08/video/new-york-albero-natale-2026-rockefeller-center-arrivo-video-15791744/",
-      "excerpt": "Una gru solleva tra i palazzi di Manhattan il nuovo albero di Natale del Rockefeller Center: è un abete rosso di Norvegia alto oltre 23 metri, largo circa 15, pesante 11 tonnellate e vecchio di 75 anni. Arriva da West Edmeston, nello Stato di New York, dopo un viaggio di oltre 300 chilometri, ed era stato individuato s",
-      "publishedAt": "2026-11-08T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "La difficile arte di svuotare la casa dei propri genitori",
-      "url": "https://www.lastampa.it/specchio/rubriche/societa/2026/11/08/news/la_difficile_arte_di_svuotare_la_casa_dei_propri_genitori-15789244/",
-      "excerpt": "In un mondo occidentale ipercapitalista, contrassegnato da una crescente scomparsa dei rituali collettivi come teorizza il filosofo Byung-Chul Han, esiste qualcosa che ci appare come un ...",
-      "publishedAt": "2026-11-08T00:00:00Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -302,5 +302,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 0.83
+  "durationSeconds": 0.89
 }

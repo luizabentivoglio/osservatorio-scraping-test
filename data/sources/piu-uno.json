@@ -4,7 +4,7 @@
   "sourceId": "piu-uno",
   "originUrl": "https://piu.uno/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-08T22:31:58.376988Z",
+  "collectedAt": "2026-11-09T02:02:00.494187Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -22,13 +22,6 @@
       "url": "https://piu.uno/notizie/i-soldi-non-bastano-e-le-famiglie-pagano-il-conto",
       "excerpt": "I conti dello Stato devono tornare. Ma devono tornare anche quelli delle famiglie. Il governo rivendica l’ordine dei conti pubblici, mentre per milioni di italiani fare la spesa è diventato sempre più difficile. E ora, tra promesse elettorali e bandierine di partito, le risorse non bastano per mantenere gli impegni di ",
       "publishedAt": "2026-10-28T00:00:00Z",
-      "dateEvidence": "html:publication-time"
-    },
-    {
-      "title": "Dario Nanni racconta la scelta di Più Uno · Più Uno",
-      "url": "https://piu.uno/notizie/dario-nanni-entra-in-piu-uno",
-      "excerpt": "«Sono praticamente cinque anni che sto da solo. Ho fatto quasi tutta la consiliatura senza una struttura politica alle spalle e questo, a volte, è stato un limite». Dario Nanni racconta così il percorso che lo ha portato ad aderire a Più Uno, la nuova formazione politica fondata da Ernesto Maria Ruffini e Franco Gabrie",
-      "publishedAt": "2026-10-26T00:00:00Z",
       "dateEvidence": "html:publication-time"
     }
   ],
@@ -66,7 +59,7 @@
       "status": 200
     }
   ],
-  "message": "3 notizie recenti con data verificata; copertura parziale.",
+  "message": "2 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [],
   "candidateCount": 12,
   "datedCount": 6,
