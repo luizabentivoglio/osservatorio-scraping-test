@@ -4,12 +4,19 @@
   "sourceId": "piu-uno",
   "originUrl": "https://piu.uno/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-09T10:24:37.655939Z",
+  "collectedAt": "2026-11-09T21:08:20.599443Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "Appuntamento a Chieti con Franco Gabrielli · Eventi · Più Uno",
+      "url": "https://piu.uno/partecipa/eventi/9-novembre-appuntamento-a-chieti-con-franco-gabrielli",
+      "excerpt": "Appuntamento a Chieti con Franco Gabrielli. Lunedì 9 novembre alle ore 17:30 presso la Sala Consiliare della Provincia di Chieti in Corso Marrucino, 97. Appuntamento a Chieti con Franco Gabrielli. Lunedì 9 novembre alle ore 17:30 presso la Sala Consiliare della Provincia di Chieti in Corso Marrucino, 97.",
+      "publishedAt": "2026-11-09T17:30:00Z",
+      "dateEvidence": "html:publication-time"
+    },
     {
       "title": "Prima la targa, poi la salute · Più Uno",
       "url": "https://piu.uno/notizie/prima-la-targa-poi-la-salute",
@@ -59,10 +66,10 @@
       "status": 200
     }
   ],
-  "message": "2 notizie recenti con data verificata; copertura parziale.",
+  "message": "3 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [],
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://piu.uno/",
-  "durationSeconds": 3.59
+  "durationSeconds": 3.69
 }

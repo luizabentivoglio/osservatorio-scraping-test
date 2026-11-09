@@ -4,7 +4,7 @@
   "sourceId": "greenpeace",
   "originUrl": "https://www.greenpeace.org/italy/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-09T10:24:05.497452Z",
+  "collectedAt": "2026-11-09T21:07:46.814315Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -15,13 +15,6 @@
       "url": "https://www.greenpeace.org/italy/storia/32098/il-ddl-caccia-andra-al-voto-il-27-novembre-dobbiamo-fermarlo/",
       "excerpt": "Ancora una volta il Governo sceglie di dedicare tempo e risorse a una legge nata per compiacere le lobby della caccia. Questa riforma sbagliata e pericolosa va fermata!",
       "publishedAt": "2026-10-29T15:26:21Z",
-      "dateEvidence": "html:publication-time"
-    },
-    {
-      "title": "Ikea si rifornisce da chi distrugge le foreste - Greenpeace Italia",
-      "url": "https://www.greenpeace.org/italy/storia/31989/ikea-si-rifornisce-da-chi-distrugge-le-foreste/",
-      "excerpt": "IIKEA si presenta come un’azienda sostenibile, ma le nostre indagini hanno rilevato che i suoi fornitori ricavano legname da foreste preziose nei Carpazi rumeni.",
-      "publishedAt": "2026-10-26T10:40:12Z",
       "dateEvidence": "html:publication-time"
     }
   ],
@@ -35,6 +28,10 @@
       "status": 200
     },
     {
+      "url": "https://www.greenpeace.org/italy/storia/25276/regali-solidali-natale/",
+      "status": 200
+    },
+    {
       "url": "https://www.greenpeace.org/italy/storia/32098/il-ddl-caccia-andra-al-voto-il-27-novembre-dobbiamo-fermarlo/",
       "status": 200
     },
@@ -44,10 +41,6 @@
     },
     {
       "url": "https://www.greenpeace.org/italy/storia/31989/ikea-si-rifornisce-da-chi-distrugge-le-foreste/",
-      "status": 200
-    },
-    {
-      "url": "https://www.greenpeace.org/italy/storia/31932/in-azione-in-croazia-per-bloccare-un-allevamento-intensivo-di-polli/",
       "status": 200
     },
     {
@@ -67,7 +60,7 @@
       "status": 200
     }
   ],
-  "message": "2 notizie recenti con data verificata; copertura parziale.",
+  "message": "1 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [
     {
       "url": "https://www.greenpeace.org/italy/cosa-puoi-fare-tu/firma-le-petizioni/",
@@ -79,5 +72,5 @@
   "candidateCount": 12,
   "datedCount": 5,
   "listingUrl": "https://www.greenpeace.org/italy/",
-  "durationSeconds": 4.75
+  "durationSeconds": 4.65
 }

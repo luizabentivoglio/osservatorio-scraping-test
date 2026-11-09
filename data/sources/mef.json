@@ -4,12 +4,19 @@
   "sourceId": "mef",
   "originUrl": "https://www.mef.gov.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-09T10:24:19.736605Z",
+  "collectedAt": "2026-11-09T21:08:02.242455Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "Giorgetti: salutiamo con soddisfazione attivazione Nec Italia",
+      "url": "https://www.mef.gov.it/inevidenza/Giorgetti-salutiamo-con-soddisfazione-attivazione-Nec-Italia/",
+      "excerpt": "Così il ministro durante la discussione all’Ecofin sull’attivazione della Clausola di salvaguardia nazionale per energia e difesa",
+      "publishedAt": "2026-11-09T17:47:01Z",
+      "dateEvidence": "meta:datepublished"
+    },
     {
       "title": "TrovaTU, il motore di ricerca dei nuovi Testi Unici",
       "url": "https://www.mef.gov.it/focus/TrovaTU-il-motore-di-ricerca-dei-nuovi-Testi-Unici/",
@@ -39,15 +46,15 @@
       "status": 200
     },
     {
+      "url": "https://www.mef.gov.it/inevidenza/Giorgetti-salutiamo-con-soddisfazione-attivazione-Nec-Italia/",
+      "status": 200
+    },
+    {
       "url": "https://www.mef.gov.it/inevidenza/Giorgetti-prudenza-prima-forma-di-liberta-risparmiare-il-modo-piu-concreto-di-credere-nel-domani/",
       "status": 200
     },
     {
       "url": "https://www.mef.gov.it/inevidenza/BTP-Valore-oltre-165-miliardi-raccolti-nella-prima-doppia-emissione-tassi-cedolari-rivisti-al-rialzo/",
-      "status": 200
-    },
-    {
-      "url": "https://www.mef.gov.it/inevidenza/Dpb-inviato-a-Commissione-e-Parlamento/",
       "status": 200
     },
     {
@@ -63,10 +70,10 @@
       "status": 200
     }
   ],
-  "message": "2 notizie recenti con data verificata; copertura parziale.",
+  "message": "3 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [],
   "candidateCount": 11,
   "datedCount": 6,
   "listingUrl": "https://www.mef.gov.it/",
-  "durationSeconds": 5.24
+  "durationSeconds": 5.03
 }

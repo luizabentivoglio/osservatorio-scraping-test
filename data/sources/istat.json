@@ -4,12 +4,33 @@
   "sourceId": "istat",
   "originUrl": "https://www.istat.it/",
   "configuredFeedUrl": "https://www.istat.it/feed/",
-  "collectedAt": "2026-11-09T10:24:10.249435Z",
+  "collectedAt": "2026-11-09T21:07:51.032455Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.istat.it/feed/",
   "items": [
+    {
+      "title": "Sedicesima Conferenza Nazionale di Statistica",
+      "url": "https://www.istat.it/evento/sedicesima-conferenza-nazionale-di-statistica/",
+      "excerpt": "Un’occasione di confronto tra produttori e utilizzatori di dati per dialogare sul ruolo strategico e le prospettive di sviluppo della statistica ufficiale",
+      "publishedAt": "2026-11-09T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Gettito delle imposte ambientali – 2008-2025",
+      "url": "https://www.istat.it/sistema-informativo-6/gettito-delle-imposte-ambientali-2008-2025/",
+      "excerpt": "Istat rende disponibili nella banca dati IstatData i dati sul gettito delle imposte ambientali articolato per categoria e unità",
+      "publishedAt": "2026-11-09T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "#IstatNewsletter",
+      "url": "https://www.istat.it/newsletter/online-istatnewsletter-la-newsletter-dellistat/",
+      "excerpt": "Online il numero 41 del 2026. Lascia la tua email e riceverai ogni lunedì tutti gli aggiornamenti del sito Istat",
+      "publishedAt": "2026-11-09T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "Infografiche – Discipline e competenze STEM",
       "url": "https://www.istat.it/infografiche/infografiche-discipline-e-competenze-stem/",
@@ -58,27 +79,6 @@
       "excerpt": "Online la delibera di proroga tecnica del contratto",
       "publishedAt": "2026-11-04T00:00:00Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Indagine su bambini e ragazzi: comportamenti, atteggiamenti e progetti futuri",
-      "url": "https://www.istat.it/informazioni-sulla-rilevazione/indagine-su-bambini-e-ragazzi-comportamenti-atteggiamenti-e-progetti-futuri/",
-      "excerpt": "Indagine condotta per raccogliere informazioni su alcuni aspetti della vita quotidiana degli 11-19enni anni",
-      "publishedAt": "2026-11-03T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Livelli di istruzione e ritorni occupazionali – Anno 2025",
-      "url": "https://www.istat.it/comunicato-stampa/livelli-di-istruzione-e-ritorni-occupazionali-anno-2025/",
-      "excerpt": "Nel 2025 il tasso di occupazione dei neodiplomati sale al 62,9% e quello dei neolaureati al 78,7%; si tratta dei 20-34enni, non più inseriti in un percorso di formazione, che hanno conseguito il titolo di studio da almeno un anno e da non più di tre anni",
-      "publishedAt": "2026-11-03T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "#IstatNewsletter",
-      "url": "https://www.istat.it/newsletter/online-istatnewsletter-la-newsletter-dellistat/",
-      "excerpt": "Online il numero 40 del 2026. Lascia la tua email e riceverai ogni lunedì tutti gli aggiornamenti del sito Istat",
-      "publishedAt": "2026-11-02T00:00:00Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -92,5 +92,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 3.03
+  "durationSeconds": 3.46
 }

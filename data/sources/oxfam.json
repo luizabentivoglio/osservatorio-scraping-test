@@ -4,12 +4,19 @@
   "sourceId": "oxfam",
   "originUrl": "https://www.oxfamitalia.org/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-09T10:24:23.194920Z",
+  "collectedAt": "2026-11-09T21:08:04.777390Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "Webinar: contrastare le disuguaglianze a partire dalla scuola",
+      "url": "https://www.oxfamitalia.org/webinar-contrastare-le-disuguaglianze-a-partire-dalla-scuola/",
+      "excerpt": "Partecipa al webinar “Contrastare le disuguaglianze a partire dalla scuola” il 16 novembre dalle 17.00 alle 18.30",
+      "publishedAt": "2026-11-09T11:28:41Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
     {
       "title": "IL BILANCIO SOCIALE 2025-26: IL CAMBIAMENTO È UN LAVORO COLLETTIVO",
       "url": "https://www.oxfamitalia.org/il-bilancio-sociale-2025-26-il-cambiamento-e-un-lavoro-collettivo/",
@@ -49,6 +56,10 @@
       "status": 200
     },
     {
+      "url": "https://www.oxfamitalia.org/webinar-contrastare-le-disuguaglianze-a-partire-dalla-scuola/",
+      "status": 200
+    },
+    {
       "url": "https://www.oxfamitalia.org/il-bilancio-sociale-2025-26-il-cambiamento-e-un-lavoro-collettivo/",
       "status": 200
     },
@@ -67,16 +78,12 @@
     {
       "url": "https://www.oxfamitalia.org/il-24-ottobre-scendiamo-in-piazza-contro-i-centri-di-permanenza-per-il-rimpatrio/",
       "status": 200
-    },
-    {
-      "url": "https://www.oxfamitalia.org/cisgiordania-senza-giustizi-economica-non-ce-futuro-per-3-milioni-di-palestinesi/",
-      "status": 200
     }
   ],
-  "message": "4 notizie recenti con data verificata; copertura parziale.",
+  "message": "5 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [],
   "candidateCount": 8,
   "datedCount": 6,
   "listingUrl": "https://www.oxfamitalia.org/news/",
-  "durationSeconds": 6.36
+  "durationSeconds": 4.23
 }

@@ -4,50 +4,50 @@
   "sourceId": "il-post",
   "originUrl": "https://www.ilpost.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-09T10:24:10.946466Z",
+  "collectedAt": "2026-11-09T21:07:52.046421Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
-      "title": "La Consob ha approvato l’offerta di Intesa Sanpaolo per Monte dei Paschi di Siena",
-      "url": "https://www.ilpost.it/2026/11/09/consob-offerta-intesa-sanpaolo-monte-dei-paschi-di-siena/?bitPosition=1",
-      "excerpt": "La Consob ha approvato l’offerta di Intesa Sanpaolo per Monte dei Paschi di Siena - Condividi - X - Regala il Post La Consob, cioè l’autorità che vigila sui mercati finanziari, ha approvato il documento con cui Intesa Sanpaolo aveva presentato un’Offerta Pubblica di Acquisto e Scambio (OPAS) da 35 miliardi di euro per ",
-      "publishedAt": "2026-11-09T08:10:57Z",
+      "title": "Il valore di Nvidia in borsa è sceso molto, dopo la notizia della relazione tra il suo CEO e una presunta spia cinese",
+      "url": "https://www.ilpost.it/2026/11/09/nvidia-risultato-borsa-notizia-relazione-ceo-presunta-spia-cinese/?bitPosition=1",
+      "excerpt": "Il valore di Nvidia in borsa è sceso molto, dopo la notizia della relazione tra il suo CEO e una presunta spia cinese - Condividi - X - Regala il Post All’apertura della borsa di New York il valore delle azioni di Nvidia – una delle società più importanti nel settore dei chip – è diminuito di oltre il 7 per cento, ridu",
+      "publishedAt": "2026-11-09T15:26:14Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "L’Unione Europea ha fatto causa a Leonardo, IBM e Atos per il discusso sistema EES, usato per i controlli dei passeggeri extra europei",
+      "url": "https://www.ilpost.it/2026/11/09/ue-causa-ess-leonardo-ibm-atos/?bitPosition=2",
+      "excerpt": "L’Unione Europea ha fatto causa a Leonardo, IBM e Atos per il discusso sistema EES, usato per i controlli dei passeggeri extra europei - Condividi - X - Regala il Post Eu-LISA, l’agenzia dell’Unione Europea che gestisce i grandi sistemi informatici usati per i controlli alle frontiere e per la sicurezza, ha fatto causa",
+      "publishedAt": "2026-11-09T15:12:01Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "Perché l’Italia fatica a trovare esperti di sicurezza informatica",
+      "url": "https://www.ilpost.it/2026/11/09/mancanza-esperti-sicurezza-informatica-italia/?homepagePosition=0",
+      "excerpt": "Il ministro Zangrillo ha detto che hanno stipendi troppo alti per la pubblica amministrazione, ma i problemi sono altri",
+      "publishedAt": "2026-11-09T14:30:13Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "L’infettivologo Massimo Galli è stato assolto in appello dall’accusa di aver pilotato un concorso alla Statale di Milano",
+      "url": "https://www.ilpost.it/2026/11/09/massimo-galli-assolto-accuse-inchiesta-concorsi-universitari/?bitPosition=3",
+      "excerpt": "L’infettivologo Massimo Galli è stato assolto in appello dall’accusa di aver pilotato un concorso alla Statale di Milano - Condividi - X - Regala il Post L’infettivologo Massimo Galli, ex primario dell’ospedale Sacco di Milano, è stato assolto in appello da tutte le accuse nel processo sulle presunte irregolarità in un",
+      "publishedAt": "2026-11-09T14:25:00Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
       "title": "Una settimana di attacchi hacker e allarmi bomba in Italia e in Europa, in ordine",
-      "url": "https://www.ilpost.it/2026/11/09/attacchi-hacker-allarmi-bomba-italia-europa-in-ordine/?homepagePosition=0",
+      "url": "https://www.ilpost.it/2026/11/09/attacchi-hacker-allarmi-bomba-italia-europa-in-ordine/?homepagePosition=0.1&referrerPost=3728761",
       "excerpt": "I frigoriferi, gli aerei, i dati del ministro Tajani sul dark web: ancora non si sa se ci sia un collegamento",
       "publishedAt": "2026-11-09T07:17:08Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "Il fisico italiano Roberto Cervellati, noto per lo studio dell’Antartide, è morto dopo essere stato investito da un monopattino",
-      "url": "https://www.ilpost.it/2026/11/09/fisico-italiano-roberto-cervellati-antartide-morto-monopattino-roma/?bitPosition=2",
-      "excerpt": "Il fisico italiano Roberto Cervellati, noto per lo studio dell’Antartide, è morto dopo essere stato investito da un monopattino - Condividi - X - Regala il Post Sabato all’ospedale Gemelli di Roma è morto il fisico italiano Roberto Cervellati: aveva 92 anni ed era noto per lo studio dell’Antartide, dove aveva condotto ",
-      "publishedAt": "2026-11-09T07:14:38Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Trump ha detto che stava scherzando quando ha offerto a Dana White il ruolo di portavoce della Casa Bianca",
-      "url": "https://www.ilpost.it/2026/11/09/trump-scherzo-dana-white-portavoce-casa-bianca/?bitPosition=3",
-      "excerpt": "Trump ha detto che stava scherzando quando ha offerto a Dana White il ruolo di portavoce della Casa Bianca - Condividi - X - Regala il Post Il presidente statunitense Donald Trump ha detto che stava scherzando quando sabato aveva offerto il ruolo di portavoce della Casa Bianca a Dana White, il presidente della Ultimate",
-      "publishedAt": "2026-11-09T05:51:01Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Se tutto è connesso, tutto può essere hackerato",
-      "url": "https://www.ilpost.it/2026/11/06/tutto-connesso-tutto-hackerato/?homepagePosition=0.1&referrerPost=3728415",
-      "excerpt": "Colleghiamo a Internet dispositivi d’ogni tipo ma non sempre pensiamo ad aggiornare i loro sistemi di sicurezza, e a volte non basta comunque",
-      "publishedAt": "2026-11-06T16:01:35Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
       "title": "Ci sono davvero hacker filorussi dietro gli attacchi ai frigoriferi dei supermercati?",
-      "url": "https://www.ilpost.it/2026/11/06/hacker-russi-attacchi-frigoriferi-supermercati/?homepagePosition=0.2&referrerPost=3728415",
+      "url": "https://www.ilpost.it/2026/11/06/hacker-russi-attacchi-frigoriferi-supermercati/?homepagePosition=0.2&referrerPost=3728761",
       "excerpt": "Nella rivendicazione diffusa da due gruppi ci sono alcune cose che non tornano",
       "publishedAt": "2026-11-06T06:14:10Z",
       "dateEvidence": "jsonld:datePublished"
@@ -63,27 +63,27 @@
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/09/attacchi-hacker-allarmi-bomba-italia-europa-in-ordine/?homepagePosition=0",
+      "url": "https://www.ilpost.it/2026/11/09/mancanza-esperti-sicurezza-informatica-italia/?homepagePosition=0",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/06/tutto-connesso-tutto-hackerato/?homepagePosition=0.1&referrerPost=3728415",
+      "url": "https://www.ilpost.it/2026/11/09/attacchi-hacker-allarmi-bomba-italia-europa-in-ordine/?homepagePosition=0.1&referrerPost=3728761",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/06/hacker-russi-attacchi-frigoriferi-supermercati/?homepagePosition=0.2&referrerPost=3728415",
+      "url": "https://www.ilpost.it/2026/11/06/hacker-russi-attacchi-frigoriferi-supermercati/?homepagePosition=0.2&referrerPost=3728761",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/09/consob-offerta-intesa-sanpaolo-monte-dei-paschi-di-siena/?bitPosition=1",
+      "url": "https://www.ilpost.it/2026/11/09/nvidia-risultato-borsa-notizia-relazione-ceo-presunta-spia-cinese/?bitPosition=1",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/09/fisico-italiano-roberto-cervellati-antartide-morto-monopattino-roma/?bitPosition=2",
+      "url": "https://www.ilpost.it/2026/11/09/ue-causa-ess-leonardo-ibm-atos/?bitPosition=2",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/09/trump-scherzo-dana-white-portavoce-casa-bianca/?bitPosition=3",
+      "url": "https://www.ilpost.it/2026/11/09/massimo-galli-assolto-accuse-inchiesta-concorsi-universitari/?bitPosition=3",
       "status": 200
     }
   ],
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.ilpost.it/",
-  "durationSeconds": 3.53
+  "durationSeconds": 3.52
 }

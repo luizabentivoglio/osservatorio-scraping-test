@@ -4,12 +4,26 @@
   "sourceId": "wwf",
   "originUrl": "https://www.wwf.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-09T10:24:48.775208Z",
+  "collectedAt": "2026-11-09T21:08:30.924216Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "Premiati i vincitori dei concorsi per i 60 anni WWF",
+      "url": "https://www.wwf.it/pandanews/ambiente/premiati-i-vincitori-dei-concorsi-per-i-60-anni-wwf/",
+      "excerpt": "La cerimonia si è svolta nell'ambito di una giornata dedicata ai sostenitori del WWF, che da sessant'anni rappresentano il cuore pulsante dell'associazione",
+      "publishedAt": "2026-11-09T11:24:18Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "Clima, il 14 novembre il Climate Pride torna in piazza a Roma",
+      "url": "https://www.wwf.it/pandanews/clima/clima-il-14-novembre-il-climate-pride-torna-in-piazza-a-roma/",
+      "excerpt": "Torna a Roma la street parade per la giustizia climatica e sociale e per un futuro di pace, fuori dai combustibili fossili",
+      "publishedAt": "2026-11-09T10:46:03Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
     {
       "title": "COP31: la crisi climatica accelera, il mondo non può permettersi di arretrare",
       "url": "https://www.wwf.it/pandanews/clima/cop31-la-crisi-climatica-accelera-il-mondo-non-puo-permettersi-di-arretrare/",
@@ -37,20 +51,6 @@
       "excerpt": "Presentato al pubblico il nuovo charm ispirato al “fantasma delle montagne” per sensibilizzare sulle specie a rischio",
       "publishedAt": "2026-11-04T13:00:00Z",
       "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "“5 per mille ma per davvero”, la Legge di bilancio 2027 superi il tetto di spesa",
-      "url": "https://www.wwf.it/pandanews/wwf-life/5-per-mille-ma-per-davvero-la-legge-di-bilancio-2027-superi-il-tetto-di-spesa/",
-      "excerpt": "La richiesta a Governo e Parlamento della campagna \"5 per mille, ma per davvero\" di cui WWF Italia fa parte",
-      "publishedAt": "2026-11-03T13:56:56Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Al MedFilm Festival il Premio speciale 60 anni di WWF Italia",
-      "url": "https://www.wwf.it/pandanews/wwf-life/al-medfilm-festival-il-premio-speciale-60-anni-di-wwf-italia/",
-      "excerpt": "Il WWF affianca per il sesto anno il MedFilm Festival, la rassegna cinematografica che raccoglie le produzioni di 40 paesi",
-      "publishedAt": "2026-11-03T10:01:17Z",
-      "dateEvidence": "jsonld:datePublished"
     }
   ],
   "attempts": [
@@ -60,6 +60,14 @@
     },
     {
       "url": "https://www.wwf.it/",
+      "status": 200
+    },
+    {
+      "url": "https://www.wwf.it/pandanews/ambiente/premiati-i-vincitori-dei-concorsi-per-i-60-anni-wwf/",
+      "status": 200
+    },
+    {
+      "url": "https://www.wwf.it/pandanews/clima/clima-il-14-novembre-il-climate-pride-torna-in-piazza-a-roma/",
       "status": 200
     },
     {
@@ -77,14 +85,6 @@
     {
       "url": "https://www.wwf.it/pandanews/ambiente/dodo-al-fianco-del-wwf-italia-per-il-leopardo-delle-nevi/",
       "status": 200
-    },
-    {
-      "url": "https://www.wwf.it/pandanews/wwf-life/5-per-mille-ma-per-davvero-la-legge-di-bilancio-2027-superi-il-tetto-di-spesa/",
-      "status": 200
-    },
-    {
-      "url": "https://www.wwf.it/pandanews/wwf-life/al-medfilm-festival-il-premio-speciale-60-anni-di-wwf-italia/",
-      "status": 200
     }
   ],
   "message": "6 notizie recenti con data verificata; copertura parziale.",
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.wwf.it/",
-  "durationSeconds": 5.49
+  "durationSeconds": 6.75
 }

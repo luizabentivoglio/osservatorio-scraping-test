@@ -4,12 +4,26 @@
   "sourceId": "pagella-politica",
   "originUrl": "https://pagellapolitica.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-09T10:24:25.651126Z",
+  "collectedAt": "2026-11-09T21:08:07.275495Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "Che cosa sta succedendo sulla legge sul fine vita del Veneto",
+      "url": "https://pagellapolitica.it/articoli/fine-vita-veneto-governo-meloni",
+      "excerpt": "Il governo vuole fare ricorso alla Corte Costituzionale contro il testo approvato dalla regione guidata dalla Lega,...",
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "dateEvidence": "html:post-date"
+    },
+    {
+      "title": "Ma l’Italia ha davvero un problema con le “classi pollaio”?",
+      "url": "https://pagellapolitica.it/articoli/italia-problema-classi-pollaio",
+      "excerpt": "Il numero medio di alunni per classe è sotto la media OCSE ed è diminuito negli anni. Ma ci sono ancora differenze...",
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "dateEvidence": "html:post-date"
+    },
     {
       "title": "Il vecchio Salvini se la prenderebbe con Meloni per le tasse sulle sigarette elettroniche",
       "url": "https://pagellapolitica.it/articoli/salvini-sigarette-elettroniche-meloni",
@@ -37,20 +51,6 @@
       "excerpt": "Al contrario di quanto ha sostenuto il presidente del Movimento 5 Stelle, durante i suoi governi sono state...",
       "publishedAt": "2026-11-05T00:00:00Z",
       "dateEvidence": "html:post-date"
-    },
-    {
-      "title": "Perché in Italia gli sponsor delle scommesse possono ancora comparire sulle maglie da calcio",
-      "url": "https://pagellapolitica.it/articoli/italia-sponsor-scommesse-maglie-calcio",
-      "excerpt": "Il recente caso dell’Inter ha mostrato i limiti del divieto introdotto nel 2018, che non ha impedito la presenza di...",
-      "publishedAt": "2026-11-05T00:00:00Z",
-      "dateEvidence": "html:post-date"
-    },
-    {
-      "title": "Per capire le elezioni di midterm bisogna guardare a Campobasso",
-      "url": "https://pagellapolitica.it/articoli/trump-sconfitto-midterm",
-      "excerpt": "Dopo la vittoria dei democratici, Trump si trova in una situazione che in gergo si chiama “anatra zoppa”, che in...",
-      "publishedAt": "2026-11-04T00:00:00Z",
-      "dateEvidence": "html:post-date"
     }
   ],
   "attempts": [
@@ -60,6 +60,14 @@
     },
     {
       "url": "https://pagellapolitica.it/articoli",
+      "status": 200
+    },
+    {
+      "url": "https://pagellapolitica.it/articoli/fine-vita-veneto-governo-meloni",
+      "status": 200
+    },
+    {
+      "url": "https://pagellapolitica.it/articoli/italia-problema-classi-pollaio",
       "status": 200
     },
     {
@@ -77,14 +85,6 @@
     {
       "url": "https://pagellapolitica.it/articoli/conte-stop-export-armi-paesi-arabi",
       "status": 200
-    },
-    {
-      "url": "https://pagellapolitica.it/articoli/italia-sponsor-scommesse-maglie-calcio",
-      "status": 200
-    },
-    {
-      "url": "https://pagellapolitica.it/articoli/trump-sconfitto-midterm",
-      "status": 200
     }
   ],
   "message": "6 notizie recenti con data verificata; copertura parziale.",
@@ -92,5 +92,5 @@
   "candidateCount": 6,
   "datedCount": 6,
   "listingUrl": "https://pagellapolitica.it/articoli",
-  "durationSeconds": 9.83
+  "durationSeconds": 10.77
 }

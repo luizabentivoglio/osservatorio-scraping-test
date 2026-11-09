@@ -4,23 +4,100 @@
   "sourceId": "la-stampa",
   "originUrl": "https://www.lastampa.it/",
   "configuredFeedUrl": "https://www.lastampa.it/rss/copertina.xml",
-  "collectedAt": "2026-11-09T10:24:14.996940Z",
+  "collectedAt": "2026-11-09T21:07:56.351394Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.lastampa.it/rss/copertina.xml",
   "items": [
     {
-      "title": "Attacco hacker alla Direzione investigativa antimafia. Sul darkweb: “Dati in cambio di Bitcoin”",
-      "url": "https://www.lastampa.it/cronaca/2026/11/09/news/attacco_hacker_alla_direzione_investigativa_antimafia_sul_darkweb_dati_in_cambio_di_bitcoin-15792496/",
-      "excerpt": "In corso le indagini per capire quando è avvenuto l’attaccato e quali documenti sarebbero stati scaricati",
+      "title": "Il deputato repubblicano Massie chiede di avviare l’impeachment per Hegseth",
+      "url": "https://www.lastampa.it/esteri/2026/11/09/news/repubblicano_massie_chiede_impeachment_hegseth-15793121/",
+      "excerpt": "In agosto aveva perso le primarie contro un candidato di Trump",
       "publishedAt": "2026-11-09T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Tagli alle pensioni. I sindacati: “In 10 anni un assegno medio ha perso 10 mila euro”",
-      "url": "https://www.lastampa.it/economia/2026/11/09/news/pensioni_ecco_quanto_pesano_10_anni_di_tagli-15792468/",
-      "excerpt": "Dal 2012 a oggi le regole sul recupero dell’inflazione sono cambiate 15 volte. Blocchi e riduzione delle rivalutazioni hanno effetti che si trascinano negli anni. La Uil: in 10 anni quasi 10 mila euro di perdita per chi ha un assegno lordo di 3500 euro",
+      "title": "Parigi: i Pasdaran dietro l’attacco hacker ai frigoriferi. Convocato l’ambasciatore dell’Iran",
+      "url": "https://www.lastampa.it/esteri/2026/11/09/news/attacchi_hacker_ai_supermercati_la_francia_indaga_un_gruppo_legato_ai_pasdaran_iraniani-15792957/",
+      "excerpt": "Aperta un'indagine contro il capo del gruppo iraniano Shahid Kaveh, una cellula informatica affiliata al Centro Elettronico e Cibernetico del Corpo delle Guardie Rivoluzionarie Islamiche. Convocato l'ambasciatore iraniano per protestare",
+      "publishedAt": "2026-11-09T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Meloni: bollette, scontentiamo i produttori di elettricità ma difendiamo cittadini",
+      "url": "https://www.lastampa.it/politica/2026/11/09/news/meloni_bollette_scontentiamo_i_produttori_di_elettricita_ma_difendiamo_cittadini-15793123/",
+      "excerpt": "«Se l'Italia produce più rinnovabili l'energia deve essere più conveniente»",
+      "publishedAt": "2026-11-09T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Anac, fumata grigia: non c’è l’accordo sulle nomine",
+      "url": "https://www.lastampa.it/politica/2026/11/09/news/anac_riparte_il_gioco_dell_oca_salvini_gioca_la_nuova_carta-15792500/",
+      "excerpt": "Non è più previsto per il Consiglio dei ministri di oggi pomeriggio l'avvio della procedura di nomina del nuovo presidente dell'Autorità nazionale anticorruzione",
+      "publishedAt": "2026-11-09T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Anac, le opposizioni fanno muro: “Nome condiviso o finisce come in Vigilanza Rai”",
+      "url": "https://www.lastampa.it/politica/2026/11/09/news/anac_nomina_opposizioni_nome_condiviso_vigilanza_rai-15792708/",
+      "excerpt": "Il Pd: \"Se la maggioranza intende forzare, senza un accordo, rischia di bloccare tutto”",
+      "publishedAt": "2026-11-09T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Il fratello di Orbán è stato arrestato in Ungheria per traffico di essere umani",
+      "url": "https://www.lastampa.it/esteri/2026/11/09/news/aron_orban_fratello_viktor_arrestato_ungheria_traffico_essere_umani-15792541/",
+      "excerpt": "L'inchiesta riguarda un presunto sistema di intermediazione per il rilascio di visti e permessi di soggiorno a cittadini stranieri, in particolare vietnamiti e nepalesi",
+      "publishedAt": "2026-11-09T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Il grande abbraccio di Buenos Aires a Papa Leone: 2,5 milioni in piazza",
+      "url": "https://www.lastampa.it/esteri/2026/11/09/news/papa_leone_messa_buenos_aires_2_milioni_persone-15792796/",
+      "excerpt": "Anche il presidente Milei tra i presenti. Il ricordo di Francesco",
+      "publishedAt": "2026-11-09T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Padre Albanese: “A Buenos Aires Leone XIV è il manifesto anti-sovranista”",
+      "url": "https://www.lastampa.it/esteri/2026/11/09/news/papa_leone_argentina_buenos_aires-15792779/",
+      "excerpt": "«Nell’Argentina dell'ultraliberista Milei, il Papa testimonia che è disumano togliere alle famiglie i servizi essenziali per risanare i conti pubblici», dice il consigliere della Segreteria di Stato",
+      "publishedAt": "2026-11-09T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Università occupata, ora gli studenti si prendono Palazzo Nuovo e chiedono sostegno ai prof",
+      "url": "https://www.lastampa.it/torino/2026/11/09/news/palazzo_nuovo_occupato-15793059/",
+      "excerpt": "Assemblea domani, martedì 10 novembre: «Luogo di formazione alternativa»",
+      "publishedAt": "2026-11-09T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Mistero sull’attacco hacker alla Direzione investigativa antimafia. Le verifiche: “Presi solo dati pubblici”",
+      "url": "https://www.lastampa.it/cronaca/2026/11/09/news/attacco_hacker_alla_direzione_investigativa_antimafia_sul_darkweb_dati_in_cambio_di_bitcoin-15792496/",
+      "excerpt": "Secondo fonti vicine al dossier, nessun dato protetto è stato esfiltrato",
+      "publishedAt": "2026-11-09T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Massimo Galli assolto anche dall’ultima accusa sulla Concorsopoli milanese.“Cinque anni pesanti”",
+      "url": "https://www.lastampa.it/cronaca/2026/11/09/news/massimo_galli_assolto_concorsi_pilotati_universita_statale_milano-15792834/",
+      "excerpt": "Il virologo era stato condannato a un anno e 4 mesi per falso per il verbale con i punteggi che vedono vincitore il candidato-allievo",
+      "publishedAt": "2026-11-09T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Si costituisce l'uomo che con il monopattino ha investito e ucciso il fisico Cervellati: è un 51enne",
+      "url": "https://www.lastampa.it/cronaca/2026/11/09/news/roma_fisico_cervellati_investito_monopattino_conducente_si_costituisce-15792741/",
+      "excerpt": "L’uomo si è presentato oggi ai carabinieri. La Procura di Roma indaga per omicidio stradale con fuga e omissione di soccorso e ha disposto il sequestro del mezzo",
+      "publishedAt": "2026-11-09T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Borse europee positive, a Milano Banco Bpm vola oltre il 10%",
+      "url": "https://www.lastampa.it/economia/2026/11/09/news/borse_europee_positive_a_milano_banco_bpm_vola_oltre_il_10-15792901/",
+      "excerpt": "Avio è in crescita del 7,71%, Unicredit guadagna il 6,28%",
       "publishedAt": "2026-11-09T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -32,79 +109,51 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Comuni e Regioni alzano le tasse: addizionali, batosta fino a 1.500 euro",
-      "url": "https://www.lastampa.it/economia/2026/11/09/news/comuni_regioni_alzano_tasse_batosta_1500_euro-15792217/",
-      "excerpt": "Le simulazioni della Uil su redditi da 20 mila e 40 mila euro nei primi sei mesi del 2026",
+      "title": "L’attore britannico Russell Brand giudicato colpevole di stupri: sconterà 10 anni e mezzo di carcere",
+      "url": "https://www.lastampa.it/spettacoli/2026/11/09/news/russell_brand_condanna_10_anni_stupro-15792854/",
+      "excerpt": "Ed è indagato per altri due episodi. I reati risalenti al periodo tra il 1999 e il 2009",
       "publishedAt": "2026-11-09T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "La sfida di Eisenkot: un mese per dare un governo a Israele e archiviare Netanyahu",
-      "url": "https://www.lastampa.it/esteri/2026/11/09/news/eisenkot_governo_israele_knesset_netanyahu_herzog-15792449/",
-      "excerpt": "Domani si insedia la Knesset: servono 61 voti per la fiducia. L’ex premier Netanyahu promette battaglia",
+      "title": "Il giallo del pagliaccio di \"It” avvistato per le strade di un borgo veneto, liti e querele con il sindaco",
+      "url": "https://www.lastampa.it/cronaca/2026/11/09/news/borgo_veneto_avvistato_clown_it_polemiche-15792576/",
+      "excerpt": "La foto diventa virale tra i residenti, il sindaco minaccia una denuncia per procurato allarme: è un fake",
       "publishedAt": "2026-11-09T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Stretta sulle recensioni online: cosa cambia con le nuove regole",
-      "url": "https://www.lastampa.it/tuttosoldi/2026/11/09/news/recensioni_online_cosa_cambia_con_le_nuove_regole-15791515/",
-      "excerpt": "Verifiche sull’identità dei clienti e possibile ricorso all’Ai contro gli inganni. Valutazioni pubblicabili entro 30 giorni, facoltà di rimuoverle dopo due anni. Ma resta il nodo di incentivi e omaggi",
+      "title": "Femminista, conservatrice. Chi è Ilse Aigner, la probabile prima donna Presidente della Germania",
+      "url": "https://www.lastampa.it/esteri/2026/11/09/news/ilse_aigner_futura_presidente_germania_ritratto-15792826/",
+      "excerpt": "Il cancelliere Merz l’ha proposta all’Assemblea federale per succedere al Presidente Steinmeier nel 2027. Ha un ampio sostegno dai partiti. Sarebbe la prima donna nel ruolo più alto, dopo 12 uomini in 78 anni. Il suo motto? “Ti dicono che non puoi farlo, dimostra che lo fai”",
       "publishedAt": "2026-11-09T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Trump, passo indietro sulle deportazioni: “Una politica troppo dura”",
-      "url": "https://www.lastampa.it/esteri/2026/11/09/news/trump_passo_indietro_sulle_deportazioni_una_politica_troppo_dura-15792280/",
-      "excerpt": "Durante un'intervista alla CBS, parlando del futuro, il tycoon ha parlato anche di rimpasti, successione e perdoni di massa: «Userò la grazia presidenziale in modo ampio»",
+      "title": "Angèle Metzger, l’attrice francese morta a 27 anni: mistero sulla caduta nel parcheggio sotterraneo",
+      "url": "https://www.lastampa.it/spettacoli/2026/11/09/news/angele_metzger_morta_indagini-15792550/",
+      "excerpt": "Scavalca una barriera e poi precipita nel vuoto, s’indaga per chiarire le cause",
       "publishedAt": "2026-11-09T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Nvidia apre un’indagine sull’ad Huang dopo l’ammissione di una relazione con una spia cinese",
-      "url": "https://www.lastampa.it/esteri/2026/11/09/news/nvidia_huang_indagine_ammissione_spia_cinese-15792293/",
-      "excerpt": "Una figura di spicco nella rivoluzione dell'Ai e un consulente informale del presidente Trump: «Le mie azioni hanno ferito lei e i nostri figli. Non ci sono scuse per ciò che ho fatto. Me ne rammarico profondamente»",
+      "title": "Viaggio nella crisi Ferrari: lotta di potere Hamilton-Leclerc e poca fiducia nel team",
+      "url": "https://www.lastampa.it/sport/2026/11/09/news/crisi_ferrari_f1_hamilton_leclerc_strategia-15792655/",
+      "excerpt": "Strategia sempre in discussione. Nessuna vittoria nelle ultime 11 gare contro le 5 della Mercedes e le 3 di Red Bull e McLaren. Il 2027 sembra già in salita",
       "publishedAt": "2026-11-09T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Leone nella cattedrale di Francesco: così la visita di Prevost completa il pontificato di Bergoglio",
-      "url": "https://www.lastampa.it/esteri/2026/11/09/news/papa_leone_buenos_aires_cattedrale_francesco-15792297/",
-      "excerpt": "Resta un mistero il mancato ritorno in patria del Pontefice argentino: a Buenos Aires il suo successore gli rende omaggio",
+      "title": "Dalle sbarre al lusso a 4 stelle: la metamorfosi dell’ex prigione di Alkmaar che ospitò i rapitori di Heineken",
+      "url": "https://www.lastampa.it/esteri/2026/11/09/news/schutterswei_prigione_hotel_lusso-15792520/",
+      "excerpt": "Lo storico penitenziario olandese \"Schutterswei\" è oggi un boutique hotel. Un viaggio dove la storia del crimine internazionale incontra il design contemporaneo",
       "publishedAt": "2026-11-09T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Strage di Cracovia: è morto in ospedale l'attentatore Michal Oksinski",
-      "url": "https://www.lastampa.it/esteri/2026/11/09/news/strage_di_cracovia_e_morto_in_ospedale_l_attentatore-15792282/",
-      "excerpt": "Lo ha comunicato la polizia locale. Il ventiquattrenne era rimasto gravemente ferito",
-      "publishedAt": "2026-11-09T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Mercalli: “Senza azioni concrete fra vent’anni la Pianura Padana sarà peggio di Tunisi”",
-      "url": "https://www.lastampa.it/cronaca/2026/11/09/news/cop_31_clima_mercalli_italia_semi_tropicale_intervista-15792485/",
-      "excerpt": "Al via la Cop31 di Antalya. Il climatologo avverte: «Serve agire e in fretta. Con la lentezza della decarbonizzazione sarà molto difficile evitare di superare i due gradi, consegnando ai giovani un pianeta ostile»",
-      "publishedAt": "2026-11-09T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Cop 31 al via in Turchia: cosa aspettarsi e perché l’intesa sul clima è lontana",
-      "url": "https://www.lastampa.it/energie/2026/11/08/news/cop31_turchia_clima_programma_intesa_lontana-15792200/",
-      "excerpt": "Al via il vertice ad Antalya: pochi leader, veti incrociati e le tante contraddizioni dei legami con le fonti fossili. Ma intanto le rinnovabili corrono",
-      "publishedAt": "2026-11-09T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Così il riscaldamento climatico ha cancellato i nostri ghiacciai: sulle Alpi temperature su di 3° C",
-      "url": "https://www.lastampa.it/rubriche/il-respiro-delle-alpi/2026/11/09/news/cosi_il_riscaldamento_climatico_ha_cancellato_i_nostri_ghiacciai_sulle_alpi_temperature_su_di_3-15791714/",
-      "excerpt": "Dal oggi al 20 novembre, la città di Antalya (Turchia) ospita la COP31, il principale appuntamento internazionale dedicato ai negoziati sul clima",
-      "publishedAt": "2026-11-09T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Godzilla, meno effetti speciali e più emozioni: record al botteghino",
-      "url": "https://www.lastampa.it/spettacoli/2026/11/09/news/godzilla_minus_one_film_successo_critica_pubblico-15792472/",
-      "excerpt": "Godzilla Minus One conquista critica e pubblico con una storia coinvolgente",
+      "title": "Il viaggio di Bianca, content creator sulle tracce di Terzani: “Attraverso l’Asia senza aerei”",
+      "url": "https://www.lastampa.it/cronaca/2026/11/09/news/bianca_content_creator_viaggio_asia_senza_aerei_terzani-15792574/",
+      "excerpt": "La ventottenne di Caserta porta su Instagram la sua versione moderna di “Un indovino mi disse”: «La lentezza del viaggio mi ha insegnato a prendermi il mio tempo, anche in un mondo virtuale che va così veloce»",
       "publishedAt": "2026-11-09T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -116,121 +165,79 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Case di comunità, la scommessa vinta a Torino: oltre 92 mila visite in cinque mesi",
-      "url": "https://www.lastampa.it/torino/rubriche/un-mondo-di-salute/2026/11/09/news/case_di_comunita_un_mondo_di_salute-15791068/",
-      "excerpt": "Primo bilancio positivo: oltre alle visite specialistiche si contano quasi 81 mila prestazioni infermieristiche da giugno",
+      "title": "Mercalli: “Senza azioni concrete fra vent’anni il clima della Pianura Padana sarà peggio di Tunisi”",
+      "url": "https://www.lastampa.it/cronaca/2026/11/09/news/cop_31_clima_mercalli_italia_semi_tropicale_intervista-15792485/",
+      "excerpt": "Al via la Cop31 di Antalya. Il climatologo avverte: «Serve agire e in fretta. Con la lentezza della decarbonizzazione sarà molto difficile evitare di superare i due gradi, consegnando ai giovani un pianeta ostile»",
       "publishedAt": "2026-11-09T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Natalia Re, World Kindness Movement: “L’indifferenza è il veleno e la gentilezza la sua cura”",
-      "url": "https://www.lastampa.it/cronaca/2026/11/09/news/natalia_re_world_kindness_movement_gentilezza_giornata_13_novembre-15791965/",
-      "excerpt": "Venerdì 13 novembre 178 paesi celebrano «l’energia trasformativa della cura per l’altro capace di cambiare relazioni, comunità e persino intere città»",
+      "title": "Singles Day 2026, l’11 novembre arrivano gli sconti prima del Black Friday",
+      "url": "https://www.lastampa.it/tech/2026/11/09/news/singles_day_2026_l_11_novembre_arrivano_gli_sconti_prima_del_black_friday-15792800/",
+      "excerpt": "Nata in Cina come festa dei single, la ricorrenza è diventata uno dei maggiori appuntamenti dello shopping online. Anche in Italia arrivano promozioni su tecnologia, elettronica e prodotti per la casa",
       "publishedAt": "2026-11-09T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Anac, riparte il gioco dell’oca: Salvini gioca la nuova carta dopo il pasticcio Altieris",
-      "url": "https://www.lastampa.it/politica/2026/11/09/news/anac_riparte_il_gioco_dell_oca_salvini_gioca_la_nuova_carta-15792500/",
-      "excerpt": "Al tavolo del Consiglio dei ministri, oggi pomeriggio alle 17.30, il leader della Lega farà un nome per la presidenza dell'Autorità anticorruzione",
+      "title": "Testacoda da brividi in tangenziale: scontro evitato per un soffio",
+      "url": "https://www.lastampa.it/torino/2026/11/09/video/testacoda_da_brividi_in_tangenziale_a_torino_scontro_evitato_per_un_soffio-15792648/",
+      "excerpt": "Tragedia sfiorata in tangenziale a Torino. È immortalata da un video, pubblicato sul gruppo Facebook dedicato a quest’arteria di Torino, teatro troppo spesso - secondo chi la frequenta - di scontri per l’alta velocità e le manovre azzardate. «Attenzione - scrive chi posta il filmato - macchina girata in terza corsia, s",
       "publishedAt": "2026-11-09T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Busia in uscita dall’Anac, l’idea di Conte è candidarlo con il M5s",
-      "url": "https://www.lastampa.it/politica/2026/11/09/news/conte_e_l_idea_busia_candidato_m5s-15792466/",
-      "excerpt": "Il leader 5 stelle pensa a un posto da capolista per il presidente uscente dell’Autorità anticorruzione, da lui nominato sei anni fa",
+      "title": "Schianto mortale alle porte di Cuneo: un camion prende fuoco",
+      "url": "https://www.lastampa.it/cuneo/2026/11/09/video/schianto_mortale_alle_porte_di_cuneo_un_camion_prende_fuoco-15792620/",
+      "excerpt": "Una persona è morta nello scontro frontale tra un'auto e un camion avvenuto oggi alle porte di Cuneo, lungo la statale Bovesana. Nello schianto il camion ha preso fuoco. È in gravi condizioni una donna di 42 anni che viaggiava a bordo dell'auto, mentre il conducente del camion è in codice giallo. Entrambi sono stati tr",
       "publishedAt": "2026-11-09T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Decreto Bollette, il rischio di un altro rinvio: oggi la decisione in Cdm",
-      "url": "https://www.lastampa.it/politica/2026/11/09/news/decreto_bollette_appeso_alla_bollinatura_della_ragioneria_oggi_la_decisione_sul_cdm-15792358/",
-      "excerpt": "Il via libera è l'ultimo ostacolo per il provvedimento. Intanto prendono il via le audizioni sulla manovra: dal superbonus alla sanità, fino al prelievo sul settore finanziario",
+      "title": "Caso Nvidia, il video del ceo Huang con la spia cinese",
+      "url": "https://www.lastampa.it/esteri/2026/11/09/video/caso_nvidia_ceo_spia_cinese_relazione-15792659/",
+      "excerpt": "Un abbraccio davanti a un ristorante, una cena a Taipei e poi la partenza nella stessa auto: il video del 22 maggio 2025 mostra il ceo di Nvidia Jensen Huang accanto ad Alice Huang, la donna che un’inchiesta del New York Times indica come presunta risorsa dell’intelligence cinese. Ora il consiglio di Nvidia indaga per ",
       "publishedAt": "2026-11-09T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Perché in Italia il 70% della popolazione teme di invecchiare senza aiuti",
-      "url": "https://www.lastampa.it/cronaca/2026/11/09/news/in_italia_il_70_teme_di_invecchiare_senza_aiuti_la_meta_dei_caregiver_ha_problemi_con_il_lavoro-15792064/",
-      "excerpt": "La società è diventata più longeva, ma i servizi e il modello di welfare non si sono ancora adeguati",
+      "title": "Littizzetto caustica con Trump: \"Travolto dalla marea blu, e caduto nel liquido marrone\"",
+      "url": "https://www.lastampa.it/spettacoli/2026/11/09/video/luciana_littizzetto_trump_midterm_usa_marea_blu-15792598/",
+      "excerpt": "Nella sua ormai tradizionale “letterina” a Che tempo che fa, in onda sul Nove, Luciana Littizzetto si rivolge questa volta a Donald Trump dopo la sconfitta dei Repubblicani alle elezioni di metà mandato. La comica ripercorre con la consueta ironia il risultato delle urne e le reazioni del presidente americano.",
       "publishedAt": "2026-11-09T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Femminicidio Torzullo, minaccia di morte dai detenuti al marito in carcere: “A lui ora pensiamo noi”",
-      "url": "https://www.lastampa.it/cronaca/2026/11/09/news/femminicidio_torzullo_funerale_minacce_detenuti_marito-15792463/",
-      "excerpt": "«È stato segnalato. Tempo una settimana. Messaggio dei detenuti». Poche parole, pronunciate da uno sconosciuto durante i funerali di Federica Torzullo, che nascondevano una minaccia di morte nei confronti di Claudio Carlomagno. Lui è il marito della donna accusato di avere ucciso la donna con 23 coltellate ad Anguillar",
+      "title": "Dopo Cobolli c’è Vavassori: gli italiani delle Finals già a Torino. E si attende Jannik Sinner",
+      "url": "https://www.lastampa.it/torino/2026/11/09/news/andrea_vavassori_atp_finals_jannik_sinner-15792677/",
+      "excerpt": "Il numero uno al mondo non scenderà in campo ma presenterà qui la sua nuova racchetta in edizione limitata",
       "publishedAt": "2026-11-09T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Sofia Stefani uccisa dall’ex comandante dei vigili, via all’Appello. I familiari: “Fu femminicidio”",
-      "url": "https://www.lastampa.it/cronaca/2026/11/09/news/sofia_stefani_uccisa_ex_comandante_vigili_appello-15792386/",
-      "excerpt": "Bologna, Giampiero Gualandi in primo grado è stato condannato all’ergastolo. Per la difesa il colpo di pistola che il 16 maggio 2024 ha ucciso la vigilessa è partito accidentalmente: “È omicidio colposo”",
+      "title": "Italia, Mancini: “Tresoldi? Sono ottimista”. Poi punge il calcio italiano",
+      "url": "https://www.lastampa.it/sport/2026/11/09/news/italia_mancini_tresoldi_convocazioni_francia_belgio-15792729/",
+      "excerpt": "Il ct spiega le convocazioni in vista della doppia sfida con Francia e Belgio: “Ho bisogno di giovani, non mi pare che la situazione sia cambiata molto da Zenica. Storicamente Juve, Inter e Milan davano un blocco alla Nazionale e questo rendeva il lavoro del ct un po' più semplice. Per questo motivo noi andiamo a cerca",
       "publishedAt": "2026-11-09T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "“Il mio airbag per ciclisti inventato dopo aver perso un amico in bicicletta”",
-      "url": "https://www.lastampa.it/cronaca/2026/11/09/news/airbag_ciclisti_lavinia_romani_biorobotica-15792305/",
-      "excerpt": "Lavinia Romani, 23 anni, studentessa toscana, ha realizzato una protezione con l’istituto di Biorobotica: “Andrò a proporlo alle imprese. La fortuna devi cercartela, non ti bussa alla porta”",
+      "title": "Antonelli insaziabile: “In Brasile potevo vincere”. Così prepara il duello con Verstappen nel 2027",
+      "url": "https://www.lastampa.it/speciale/sport/formula-1/2026/11/09/news/kimi_antonelli_brasile_verstappen_mondiale_f1_2027-15792726/",
+      "excerpt": "Dopo la pausa estiva l’olandese ha conquistato un solo punto in meno, l’anno prossimo potrebbero giocarsi il titolo. Kimi: “Devo chiudere questa stagione alla grande per presentarmi carico”",
       "publishedAt": "2026-11-09T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Dal balletto di Gasperini al primo gol di Woltemade: il nostro pagellone (con playlist)",
-      "url": "https://www.lastampa.it/sport/calcio/2026/11/09/news/serie_a_pagellone_gasperini_woltemade_playlist-15792424/",
-      "excerpt": "Il Toro ha problemi con la porta e la classifica. Gattuso e Allegri; silenzi con significati diversi. Si passa dai Depeche Mode ai No Doubt. Ecco i voti, i protagonisti e i consigli musicali della 11a giornata di campionato",
+      "title": "Valentino Rossi incontra Sinner in hotel: “Il ginocchio gli dà ancora fastidio”",
+      "url": "https://www.lastampa.it/sport/tennis/2026/11/09/news/valentino_rossi_incontra_jannik_sinner-15792689/",
+      "excerpt": "Il racconto del motociclista: «Non ci eravamo mai visti di persona, era sorridente, mi ha fatto una bella impressione»",
       "publishedAt": "2026-11-09T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Raidue: “La Domenica Sportiva” stronca la Juve",
-      "url": "https://www.lastampa.it/sport/2026/11/09/news/raidue_la_domenica_sportiva_stronca_la_juve-15792267/",
-      "excerpt": "Intanto Spalletti chiede in trasmissione a Graziani una delle sue giacche sgargianti",
-      "publishedAt": "2026-11-09T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Cobolli lancia la festa Finals: primo allenamento allo Sporting e fan scatenati",
-      "url": "https://www.lastampa.it/torino/2026/11/09/news/atp_finals_torino_flavio_cobolli_tennis_week_eventi_musica-15792399/",
-      "excerpt": "Il tennista tra gli otto Maestri del torneo: «Contento di essere a Torino». Pronta la “bolla” in centro. Non solo tennis: grandi nomi della musica tra le partite serali",
-      "publishedAt": "2026-11-09T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Ex Ilva, è corsa a due per Taranto tra Jindal e Arvedi: nessuna offerta da Federacciai",
-      "url": "https://www.lastampa.it/economia/2026/11/09/news/ex_ilva_taranto_offerte_jindal_arvedi_federacciai-15792415/",
-      "excerpt": "Il gruppo italiano oggi è il primo produttore di acciaio da minerale, si presenta per la prima volta a una gara per l’impianto pugliese",
-      "publishedAt": "2026-11-09T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Credit Agricole lancia offerta “amichevole” a Bpm: 1 miliardo agli azionisti",
-      "url": "https://www.lastampa.it/economia/2026/11/09/news/credit_agricole_offerta_a_bpm_1_miliardo_agli_azionisti_per_salire_al_45-15792285/",
-      "excerpt": "Salirà al 45%, attese sinergie per 800 milioni e utile in crescita del 24% al 2027. Castagna resterebbe Ad. A poche ore dall’annuncio, Bpm vola del 10% in apertura di Piazza Affari",
-      "publishedAt": "2026-11-09T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Unicredit ai soci 4,5 miliardi di anticipo, dopo utile di 9,4 miliardi in 9 mesi",
-      "url": "https://www.lastampa.it/economia/2026/11/09/news/unicredit_ai_soci_45_miliardi_utile_di_94_miliardi_in_9_mesi-15792349/",
-      "excerpt": "Orcel: «Chiuso il miglior trimestre del settore». Avanti su Commerz: «Combinazione con Hvb sbloccherebbe valore». Il titolo sale del 5% a Piazza Affari",
-      "publishedAt": "2026-11-09T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Botte ai giornalisti e offese a Michelle Obama: l'ultimo video Ai pubblicato da Trump",
-      "url": "https://www.lastampa.it/video/socialnews/2026/11/09/video/trump_video_ai_offese_michelle_obama-15792404/",
-      "excerpt": "Dana White sul podio della Casa Bianca e i lottatori che picchiano, trascinano via e mettono in fuga i giornalisti: è la finta conferenza stampa al centro del video generato con l’intelligenza artificiale e pubblicato da Donald Trump su Truth. Dana White è il presidente della UFC, la principale organizzazione di arti m",
-      "publishedAt": "2026-11-09T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Valentino Rossi incorona Antonelli: “È un fuoriclasse, prima di lui noi italiani soffrivamo”",
-      "url": "https://www.lastampa.it/sport/2026/11/09/video/valentino_rossi_kimi_antonelli_fuoriclasse-15792380/",
-      "excerpt": "Ospite di Fabio Fazio a “Che tempo che fa”, Valentino Rossi celebra Kimi Antonelli, diventato il primo italiano campione del mondo di Formula 1 dai tempi di Alberto Ascari, nel 1953. Il nove volte campione del Motomondiale racconta di aver sofferto a lungo per l’assenza di piloti italiani capaci di vincere in Formula 1",
+      "title": "Si copre i polpastrelli di colla per non lasciare impronte: il trucco tradisce il rapinatore",
+      "url": "https://www.lastampa.it/cronaca/2026/11/09/video/si_copre_i_polpastrelli_di_colla_per_non_lasciare_impronte_il_trucco_tradisce_il_rapinatore-15792548/",
+      "excerpt": "Si ricopriva i polpastrelli di colla per non lasciare impronte durante le rapine, ma proprio questo espediente ha permesso alla polizia di riconoscerlo. Un romano di 53 anni è stato arrestato in flagranza dopo un colpo all’ufficio postale di via Boccea: secondo gli investigatori, aveva adottato lo stesso stratagemma in",
       "publishedAt": "2026-11-09T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -242,9 +249,9 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "La \"macchina del tempo\" della Nasa mostra il riscaldamento globale dal 1880 al 2025",
-      "url": "https://www.lastampa.it/cronaca/2026/11/09/video/nasa_macchina_del_tempo_riscaldamento_globale-15792460/",
-      "excerpt": "La “macchina del tempo” climatica della Nasa condensa in pochi secondi i cambiamenti registrati sul pianeta: l’aumento delle temperature globali dal 1880 al 2025, la crescente concentrazione di anidride carbonica nell’atmosfera e la riduzione dei ghiacci marini artici. Il 2024 rimane l’anno più caldo mai misurato, ment",
+      "title": "Botte ai giornalisti e offese a Michelle Obama: l'ultimo video Ai pubblicato da Trump",
+      "url": "https://www.lastampa.it/video/socialnews/2026/11/09/video/trump_video_ai_offese_michelle_obama-15792404/",
+      "excerpt": "Dana White sul podio della Casa Bianca e i lottatori che picchiano, trascinano via e mettono in fuga i giornalisti: è la finta conferenza stampa al centro del video generato con l’intelligenza artificiale e pubblicato da Donald Trump su Truth. Dana White è il presidente della UFC, la principale organizzazione di arti m",
       "publishedAt": "2026-11-09T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -256,37 +263,30 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Trump: “In Cina vedrò Putin e Xi. Vogliamo chiudere la guerra in Iran”",
-      "url": "https://www.lastampa.it/esteri/2026/11/09/news/trump_xi_putin_summit_guerra_iran-15792318/",
-      "excerpt": "Il presidente americano dice di aspettarsi un incontro con i due leader a margine del summit Asia-Pacifico del 18-19 novembre a Shenzhen",
+      "title": "Se si cerca una bomba non c’è bisogno di smontare tutto l’aereo",
+      "url": "https://www.lastampa.it/cronaca/2026/11/09/news/allarmi_aerei_bomba_fiumicino_polizia_aeroporto-15791953/",
+      "excerpt": "Il Commissario La Greca della polizia dell’aeroporto di Fiumicino: «In azione artificieri e cani da fiuto. I passeggeri dell’aereo minacciato da allarme bomba non possono andarsene senza essere controllati, fra loro potrebbe esserci il colpevole»",
       "publishedAt": "2026-11-09T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "“Fondi per le aule e i precari”: ecco le sei richieste per liberare il Campus Einaudi",
-      "url": "https://www.lastampa.it/torino/2026/11/09/news/occupazione_campus_einaudi_proposte_studenti_rettrice_prandi-15792308/",
-      "excerpt": "Oggi gli occupanti saranno ascoltati dalla rettrice Prandi e dal Senato accademico. L’apertura dei professori: «Noi pronti al dialogo, non saranno trattati da bambini»",
+      "title": "Il cardinale Zuppi racconta a Fazio il mancato papato: la risposta che spiazza il conduttore",
+      "url": "https://www.lastampa.it/cronaca/2026/11/09/video/bio_fazio_intervista_cardinale_zuppi_mancato_papato-15792664/",
+      "excerpt": "Ospite di Fabio Fazio a Che tempo che fa, il cardinale Matteo Zuppi è tornato con ironia sul conclave del 2025, quando il suo nome circolava tra quelli dei possibili successori di papa Francesco. Una domanda sul mancato papato ha dato il via a una battuta che ha sorpreso il conduttore. Nel corso della puntata, il presi",
       "publishedAt": "2026-11-09T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Piemonte, carceri al collasso: “Una polveriera pronta a esplodere”",
-      "url": "https://www.lastampa.it/vercelli/2026/11/09/news/carceri_sovraffollamento_piemonte-15792150/",
-      "excerpt": "Il sovraffollamento negli istituti penitenziari registra numeri record a Torino, Vercelli e Verbania. Valle d’Aosta unica regione in controtendenza, ma manca il personale",
+      "title": "Camion della raccolta fuori rotta: così ritiravano rifiuti in cambio di denaro e regali",
+      "url": "https://www.lastampa.it/cronaca/2026/11/09/video/camion_della_raccolta_fuori_rotta_cosi_ritiravano_rifiuti_in_cambio_di_denaro_e_regali-15792945/",
+      "excerpt": "Deviano i percorsi di servizio per ritirare i rifiuti di attività commerciali senza contratto, ricevendo in cambio, secondo l’accusa, denaro, assunzioni in nero, cene e regali. È il sistema ricostruito nell’operazione «Fuori Giro»: il Nucleo operativo ecologico dei Carabinieri ha notificato la conclusione delle indagin",
       "publishedAt": "2026-11-09T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "La Ferrero di Alba amplia il servizio bus per i 4 mila dipendenti",
-      "url": "https://www.lastampa.it/cuneo/2026/11/09/news/la_ferrero_di_alba_amplia_il_servizio_bus_per_i_4_mila_dipendenti-15792244/",
-      "excerpt": "Sarà esteso a sette nuovi comuni (3 nell’Astigiano)",
-      "publishedAt": "2026-11-09T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Silicon Box, ecco il maxi-polo da 6000 posti",
-      "url": "https://www.lastampa.it/economia/2026/11/09/news/novara_silicon_box_ecco_il_maxi-polo_da_6000_posti-15792139/",
-      "excerpt": "Joon Han, ad del big di Singapore presenta il progetto con Cirio e Urso. Nel 2029 l’avvio dei “chiplet” per auto e Ai, 1.600 gli impiegati diretti",
+      "title": "Godzilla, meno effetti speciali e più emozioni: record al botteghino",
+      "url": "https://www.lastampa.it/spettacoli/2026/11/09/news/godzilla_minus_one_film_successo_critica_pubblico-15792472/",
+      "excerpt": "Godzilla Minus One conquista critica e pubblico con una storia coinvolgente",
       "publishedAt": "2026-11-09T00:00:00Z",
       "dateEvidence": "feed:published"
     }
@@ -302,5 +302,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 0.79
+  "durationSeconds": 1.26
 }

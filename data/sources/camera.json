@@ -4,52 +4,52 @@
   "sourceId": "camera",
   "originUrl": "https://www.camera.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-09T10:23:33.540425Z",
+  "collectedAt": "2026-11-09T21:07:14.484124Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
-      "title": "Audizioni Commissione Politiche Ue – Mercoledì, alle 15.30 Casellati, e giovedì diretta webtv",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63926",
-      "excerpt": "La Commissione Politiche Ue svolge le seguenti audizioni: mercoledì 11 novembre, nell’ambi...",
-      "publishedAt": "2026-11-06T00:00:00Z",
+      "title": "Femminicidio, martedì dalle 10 audizioni in diretta webtv",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63931",
+      "excerpt": "Martedì 10 novembre, presso l'Aula del I piano di Palazzo San Macuto, la Commissione parlamentare d...",
+      "publishedAt": "2026-11-09T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "Legge di bilancio, audizioni lunedì, martedì, mercoledì e giovedì in diretta webtv - Cavallari e Giorgetti il 12 alle 15 e alle 16 con lis",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63928",
-      "excerpt": "Lunedì 9 novembre, presso la Sala del Mappamondo di Montecitorio, le Commissioni riunite Bilancio d...",
-      "publishedAt": "2026-11-06T00:00:00Z",
+      "title": "Salute bene da difendere - Diritto da promuovere - Cancer policy forum - Martedì alle 10 diretta webtv - Saluto di Mulè",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63932",
+      "excerpt": "Martedì 10 novembre, alle ore 10, presso la Sala della Regina di Montecitorio si svolge il convegno...",
+      "publishedAt": "2026-11-09T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "Elezione Csm, mercoledì Parlamento in seduta comune",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63903",
-      "excerpt": "La Camera ed il Senato sono convocati, in seduta comune, mercoledì 11 novembre alle ore 9,30, per...",
-      "publishedAt": "2026-11-06T00:00:00Z",
+      "title": "Audizioni Commissione David Rossi – Martedì alle 10.30 diretta webtv",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63933",
+      "excerpt": "Martedì 10 novembre, alle ore 10.30, presso l’aula del II piano di Palazzo San Macuto, la Commiss...",
+      "publishedAt": "2026-11-09T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "National endowment for the humanities - Lunedì e martedì diretta webtv - Interviene Fontana",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63925",
-      "excerpt": "Lunedì 9, con inizio alle ore 9, e martedì 10, a partire dalle 10, presso la Sala del Refettorio d...",
-      "publishedAt": "2026-11-06T00:00:00Z",
+      "title": "Audizioni su decreto sicurezza - Martedì dalle 12 diretta webtv",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63934",
+      "excerpt": "Martedì 10 novembre, la Commissione Giustizia della Camera svolge le seguenti audizioni nell’ambi...",
+      "publishedAt": "2026-11-09T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "Dal fango del 1994 al modello nazionale: 25 anni del Coordinamento Territoriale del Volontariato di Protezione Civile di Alessandria - Lunedì alle 15 diretta webtv - Messaggio di Fontana",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63913",
-      "excerpt": "Lunedì 9 novembre, alle ore 15, presso la Sala Matteotti di Palazzo Theodoli - Bianchelli si svolge...",
-      "publishedAt": "2026-11-06T00:00:00Z",
+      "title": "Transizione demografica, audizione Giulia Marchese, GEEN.AI – Martedì alle 12 diretta webtv",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63935",
+      "excerpt": "Martedì 10 novembre, alle ore 12, presso l’aula del IV piano di Palazzo San Macuto, la Commission...",
+      "publishedAt": "2026-11-09T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "Onorevole Sindaca - Biografia politica di Ada Natali - Giovedì alle 11 diretta webtv - Saluto di Ascani",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63910",
-      "excerpt": "Giovedì 12 novembre, alle ore 11, presso la Sala Matteotti di Palazzo Theodoli - Bianchelli si svol...",
-      "publishedAt": "2026-11-06T00:00:00Z",
+      "title": "Forteto, audizione martedì in diretta webtv",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63936",
+      "excerpt": "Martedì 10 novembre, alle ore 12, presso l'Aula del III piano di Palazzo San Macuto, la Commissione...",
+      "publishedAt": "2026-11-09T00:00:00Z",
       "dateEvidence": "html:publication-label"
     }
   ],
@@ -63,27 +63,27 @@
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63926",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63931",
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63928",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63932",
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63903",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63933",
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63925",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63934",
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63913",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63935",
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63910",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63936",
       "status": 200
     }
   ],
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://comunicazione.camera.it/archivio-prima-pagina",
-  "durationSeconds": 4.16
+  "durationSeconds": 4.48
 }

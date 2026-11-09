@@ -4,7 +4,7 @@
   "sourceId": "cnr",
   "originUrl": "https://www.cnr.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-09T10:23:42.619972Z",
+  "collectedAt": "2026-11-09T21:07:24.950542Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
@@ -18,6 +18,27 @@
       "dateEvidence": "feed:published"
     },
     {
+      "title": "HR-DTM-5m, online la nuova versione del modello digitale del terreno ad alta risoluzione dell'Italia",
+      "url": "https://www.cnr.it/it/news/14789/hr-dtm-5m-online-la-nuova-versione-del-modello-digitale-del-terreno-ad-alta-risoluzione-dell-italia",
+      "excerpt": "09/11/2026 . È online su Zenodo la nuova versione dell’HR-DTM-5m, il modello digitale del terreno che descrive l’intero territorio italiano con una risoluzione di 5 metri, realizzato dai ricercatori del Cnr-Geo di Perugia e Cosenza. L’aggiornamento introduce correzioni al modello e una nuova mappa che indica l’origine ",
+      "publishedAt": "2026-11-09T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "La ricerca CNR torna sull'Everest: riparte la Piramide, osservatorio italiano sul cambiamento climatico dell'Himalaya",
+      "url": "https://www.cnr.it/it/news/14792/la-ricerca-cnr-torna-sull-everest-riparte-la-piramide-osservatorio-italiano-sul-cambiamento-climatico-dell-himalaya",
+      "excerpt": "09/11/2026 . Due missioni, a novembre 2026 e aprile 2027, riattiveranno il monitoraggio dell’atmosfera, del clima, dei ghiacciai, delle acque e della stabilità dei versanti a oltre 5.000 metri di quota",
+      "publishedAt": "2026-11-09T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Building innovation systems: CNR hosts a training day for a delegation from Zhongguancun Science Park",
+      "url": "https://www.cnr.it/it/news/14791/building-innovation-systems-cnr-hosts-a-training-day-for-a-delegation-from-zhongguancun-science-park",
+      "excerpt": "03/11/2026 . On 3 November 2026, the National Research Council of Italy (CNR) welcomed a delegation of officials from the Beijing Science and Technology Commission, Administrative Commission of Zhongguancun Science Park (Bejing), for a training day at the Department of Philosophy of the University La Sapienza in the sp",
+      "publishedAt": "2026-11-09T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
       "title": "Progetto EU \"ReLION\": nuova generazione di materiali multifunzionali espansi innovativi e sostenibili",
       "url": "https://www.cnr.it/it/news/14785/progetto-eu-relion-nuova-generazione-di-materiali-multifunzionali-espansi-innovativi-e-sostenibili",
       "excerpt": "06/11/2026 . Con \"ReLION - Renewable-non-isocyanate poLyurethanes for sustaInable biO-based innovatioN\", il Cnr contribuisce allo sviluppo di una nuova generazione di materiali polimerici sostenibili innovativi, trasformando la ricerca sui materiali avanzati in soluzioni tecnologiche concrete per la transizione ecologi",
@@ -25,16 +46,16 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Diplomazia scientifica, a Reggio Calabria la firma dell'accordo tra MAECI e CNR",
-      "url": "https://www.cnr.it/it/news/14782/diplomazia-scientifica-a-reggio-calabria-la-firma-dell-accordo-tra-maeci-e-cnr",
-      "excerpt": "05/11/2026 . Il ministro degli Affari Esteri e della Cooperazione Internazionale Antonio Tajani e il presidente del CNR Andrea Lenzi hanno sottoscritto un’intesa per rafforzare l’internazionalizzazione della ricerca italiana e promuovere la cooperazione scientifica internazionale",
+      "title": "ENEA sviluppa con Cnr e ISPRA strumento per stimare impatto erosione costiera",
+      "url": "https://www.cnr.it/it/news/14753/enea-sviluppa-con-cnr-e-ispra-strumento-per-stimare-impatto-erosione-costiera",
+      "excerpt": "05/11/2026 . ENEA, in collaborazione con ISPRA e Cnr, ha sviluppato CoDeC (Calcolo del Degrado Costiero), uno strumento innovativo che consente di stimare gli impatti economici e ambientali dell’erosione costiera, prendendo in considerazione l’evoluzione delle spiagge, la presenza di infrastrutture e le dinamiche di tr",
       "publishedAt": "2026-11-05T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "ENEA sviluppa con Cnr e ISPRA strumento per stimare impatto erosione costiera",
-      "url": "https://www.cnr.it/it/news/14753/enea-sviluppa-con-cnr-e-ispra-strumento-per-stimare-impatto-erosione-costiera",
-      "excerpt": "05/11/2026 . ENEA, in collaborazione con ISPRA e Cnr, ha sviluppato CoDeC (Calcolo del Degrado Costiero), uno strumento innovativo che consente di stimare gli impatti economici e ambientali dell’erosione costiera, prendendo in considerazione l’evoluzione delle spiagge, la presenza di infrastrutture e le dinamiche di tr",
+      "title": "Diplomazia scientifica, a Reggio Calabria la firma dell'accordo tra MAECI e CNR",
+      "url": "https://www.cnr.it/it/news/14782/diplomazia-scientifica-a-reggio-calabria-la-firma-dell-accordo-tra-maeci-e-cnr",
+      "excerpt": "05/11/2026 . Il ministro degli Affari Esteri e della Cooperazione Internazionale Antonio Tajani e il presidente del CNR Andrea Lenzi hanno sottoscritto un’intesa per rafforzare l’internazionalizzazione della ricerca italiana e promuovere la cooperazione scientifica internazionale",
       "publishedAt": "2026-11-05T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -46,16 +67,16 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Al via le iscrizioni alla 9ª edizione della Scuola TEM \"Pier Giorgio Merli\"",
-      "url": "https://www.cnr.it/it/news/14774/al-via-le-iscrizioni-alla-9ª-edizione-della-scuola-tem-pier-giorgio-merli",
-      "excerpt": "03/11/2026 . Dal 18 al 29 gennaio 2027, all'Istituto per lo Studio dei Materiali Nanostrutturati del Consiglio Nazionale delle Ricerche a Bologna, due settimane di lezioni e dimostrazioni pratiche di microscopia elettronica in trasmissione per la scienza dei materiali",
+      "title": "R/V Gaia Blu: conclusa la campagna MARSiCo-2026_II",
+      "url": "https://www.cnr.it/it/news/14775/r-v-gaia-blu-conclusa-la-campagna-marsico-2026-ii",
+      "excerpt": "03/11/2026 . Dal 12 al 29 ottobre 2026 la nave da ricerca R/V Gaia Blu è stata impegnata nella campagna oceanografica MARSiCo-2026_II (MAnagement and Retrieval of SubmergedInfrastructures in the Sicily and Corsica Channel), coordinata dal CNR-ISMAR nell'ambito delle attività nazionali e internazionali di osservazione a",
       "publishedAt": "2026-11-03T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "R/V Gaia Blu: conclusa la campagna MARSiCo-2026_II",
-      "url": "https://www.cnr.it/it/news/14775/r-v-gaia-blu-conclusa-la-campagna-marsico-2026-ii",
-      "excerpt": "03/11/2026 . Dal 12 al 29 ottobre 2026 la nave da ricerca R/V Gaia Blu è stata impegnata nella campagna oceanografica MARSiCo-2026_II (MAnagement and Retrieval of SubmergedInfrastructures in the Sicily and Corsica Channel), coordinata dal CNR-ISMAR nell'ambito delle attività nazionali e internazionali di osservazione a",
+      "title": "Al via le iscrizioni alla 9ª edizione della Scuola TEM \"Pier Giorgio Merli\"",
+      "url": "https://www.cnr.it/it/news/14774/al-via-le-iscrizioni-alla-9ª-edizione-della-scuola-tem-pier-giorgio-merli",
+      "excerpt": "03/11/2026 . Dal 18 al 29 gennaio 2027, all'Istituto per lo Studio dei Materiali Nanostrutturati del Consiglio Nazionale delle Ricerche a Bologna, due settimane di lezioni e dimostrazioni pratiche di microscopia elettronica in trasmissione per la scienza dei materiali",
       "publishedAt": "2026-11-03T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -81,16 +102,16 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "\"Voci dal Pleistocene\": il tempo profondo di Casal de' Pazzi diventa un podcast a firma CNR ISPC",
-      "url": "https://www.cnr.it/it/news/14771/voci-dal-pleistocene-il-tempo-profondo-di-casal-de-pazzi-diventa-un-podcast-a-firma-cnr-ispc",
-      "excerpt": "02/11/2026 . La narrazione del tempo profondo abbandona i confini dell'accademia per diventare un racconto accessibile a tutti: nasce 'Voci dal Pleistocene', il podcast ufficiale del Museo di Casal de' Pazzi. L'opera è pensata sia per l'ascolto remoto da casa sia come sussidio interattivo per arricchire la visita guida",
+      "title": "Ciclone Harry, onde record nel Mediterraneo: uno studio coordinato da UniBa e Università di Catania svela i fattori che amplificano il rischio costiero",
+      "url": "https://www.cnr.it/it/news/14773/ciclone-harry-onde-record-nel-mediterraneo-uno-studio-coordinato-da-uniba-e-universita-di-catania-svela-i-fattori-che-amplificano-il-rischio-costiero",
+      "excerpt": "02/11/2026 . Il Cnr ha contribuito con gli Istituti IRBIM e ISAC alla ricerca internazionale pubblicata su Communications Earth & Environment che ha integrato analisi atmosferiche, oceanografiche, geomorfologiche e sismologiche relative al fenomeno. Identificati i fattori locali che possono amplificare gli effetti dell",
       "publishedAt": "2026-11-02T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Ciclone Harry, onde record nel Mediterraneo: uno studio coordinato da UniBa e Università di Catania svela i fattori che amplificano il rischio costiero",
-      "url": "https://www.cnr.it/it/news/14773/ciclone-harry-onde-record-nel-mediterraneo-uno-studio-coordinato-da-uniba-e-universita-di-catania-svela-i-fattori-che-amplificano-il-rischio-costiero",
-      "excerpt": "02/11/2026 . Il Cnr ha contribuito con gli Istituti IRBIM e ISAC alla ricerca internazionale pubblicata su Communications Earth & Environment che ha integrato analisi atmosferiche, oceanografiche, geomorfologiche e sismologiche relative al fenomeno. Identificati i fattori locali che possono amplificare gli effetti dell",
+      "title": "\"Voci dal Pleistocene\": il tempo profondo di Casal de' Pazzi diventa un podcast a firma CNR ISPC",
+      "url": "https://www.cnr.it/it/news/14771/voci-dal-pleistocene-il-tempo-profondo-di-casal-de-pazzi-diventa-un-podcast-a-firma-cnr-ispc",
+      "excerpt": "02/11/2026 . La narrazione del tempo profondo abbandona i confini dell'accademia per diventare un racconto accessibile a tutti: nasce 'Voci dal Pleistocene', il podcast ufficiale del Museo di Casal de' Pazzi. L'opera è pensata sia per l'ascolto remoto da casa sia come sussidio interattivo per arricchire la visita guida",
       "publishedAt": "2026-11-02T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -128,27 +149,6 @@
       "excerpt": "29/10/2026 . Il progetto \"ORMA2 Alta fORMAzione e ricerca” presentato dall'Istituto di fisica applicata \"Nello Carrara\" (Cnr-Ifac) di Firenze, è stato premiato, al Maker Faire Rome, con il Maker of Merit per essersi contraddistinto per “l’originalità delle proprie idee, il potenziale dei progetti presentati, la creativ",
       "publishedAt": "2026-10-29T12:33:10Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Il Cnr nella Top2% scientists 2025",
-      "url": "https://www.cnr.it/it/news/14758/il-cnr-nella-top2-scientists-2025",
-      "excerpt": "29/10/2026 . E' pubblicata sul sito Elsevier la classifica Stanford University-Elsevier - Top2% scientists 2025: https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/8?utm_source=chatgpt.com Tale analisi, basata sul database Elsevier-Scopus, fornisce informazioni standardizzate secondo due classificazioni princi",
-      "publishedAt": "2026-10-29T11:02:54Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "ASV-MADRO,il drone marino di Cnr-Inm che naviga in autonomia",
-      "url": "https://www.cnr.it/it/news/14757/asv-madro-il-drone-marino-di-cnr-inm-che-naviga-in-autonomia",
-      "excerpt": "29/10/2026 . Sviluppato da Cnr-Inm di Roma con Laser Navigation srl, nell’ambito del progetto MADRO, il drone marino autonomo è destinato a missioni di ricerca e monitoraggio in ambienti marini e in acque interne. Sarà presentato alla conferenza Sea Drone Tech Summit di Ostia (Roma), in programma il 5 e il 6 novembre",
-      "publishedAt": "2026-10-29T11:00:23Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Miriam Serena Vitiello eletta Optica Fellow per il 2027",
-      "url": "https://www.cnr.it/it/news/14756/miriam-serena-vitiello-eletta-optica-fellow-per-il-2027",
-      "excerpt": "28/10/2026 . Un nuovo riconoscimento internazionale per la ricercatrice di Cnr Nano eletta Optica Fellow 2027 per i suoi studi pionieristici sulle interazioni tra luce e materia alle frequenze terahertz e per lo sviluppo di dispositivi e sistemi innovativi che contribuiscono al progresso delle tecnologie terahertz",
-      "publishedAt": "2026-10-28T16:17:47Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -162,5 +162,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 10.18
+  "durationSeconds": 10.19
 }

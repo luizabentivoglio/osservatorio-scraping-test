@@ -4,12 +4,47 @@
   "sourceId": "palazzo-chigi",
   "originUrl": "https://www.governo.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-09T10:24:27.953321Z",
+  "collectedAt": "2026-11-09T21:08:08.733722Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.governo.it/feed/rss",
   "items": [
+    {
+      "title": "Comunicato stampa del Consiglio dei Ministri n. 197",
+      "url": "https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-197/33070",
+      "excerpt": "Il Consiglio dei Ministri si è riunito lunedì 9 novembre 2026, alle ore 18.01 a Palazzo Chigi, sotto la presidenza del Presidente Giorgia Meloni. Segretario, il Sottosegretario alla Presidenza Alfredo Mantovano. ٠٠٠٠٠",
+      "publishedAt": "2026-11-09T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Decreto Bollette, dichiarazione del Presidente Meloni",
+      "url": "https://www.governo.it/it/articolo/decreto-bollette-dichiarazione-del-presidente-meloni/33069",
+      "excerpt": "Il Consiglio dei Ministri ha approvato il nuovo Decreto Bollette. Abbiamo scelto di affrontare uno dei nodi più difficili del caro energia: il meccanismo che fa salire il prezzo dell’elettricità a causa del costo del gas e pesa sui conti delle famiglie e delle imprese. Il decreto interviene su questo punto, con tre sce",
+      "publishedAt": "2026-11-09T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Consiglio dei Ministri n. 197",
+      "url": "https://www.governo.it/it/articolo/consiglio-dei-ministri-n-197/33065",
+      "excerpt": "Si è svolta a Palazzo Chigi la riunione del Consiglio dei Ministri. Nel comunicato stampa i provvedimenti approvati.",
+      "publishedAt": "2026-11-09T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Convocazione del Consiglio dei Ministri n. 197",
+      "url": "https://www.governo.it/it/articolo/convocazione-del-consiglio-dei-ministri-n-197/33064",
+      "excerpt": "Il Consiglio dei ministri è convocato oggi, lunedì 9 novembre 2026, alle ore 17:30 a Palazzo Chigi, per l'esame del seguente ordine del giorno:",
+      "publishedAt": "2026-11-09T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Giorno della Libertà, dichiarazione del Presidente Meloni",
+      "url": "https://www.governo.it/it/articolo/giorno-della-libert-dichiarazione-del-presidente-meloni/33061",
+      "excerpt": "Trentasette anni fa cadeva il Muro di Berlino. Non soltanto una barriera di cemento, ma il simbolo di un sistema che per anni aveva negato a milioni di persone la libertà, la dignità e il diritto di scegliere il proprio futuro. Il 9 novembre 1989 ha segnato una svolta nella storia dell’Europa, affermando la forza di ch",
+      "publishedAt": "2026-11-09T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "Le condoglianze del Presidente Meloni alla Polonia",
       "url": "https://www.governo.it/it/articolo/le-condoglianze-del-presidente-meloni-alla-polonia/33052",
@@ -43,41 +78,6 @@
       "url": "https://www.governo.it/it/articolo/adozione-delle-specifiche-tecniche-del-sistema-it-wallet/33045",
       "excerpt": "Decreto del Capo del Dipartimento per la trasformazione digitale del 24 settembre 2026 di adozione delle Specifiche Tecniche del Sistema IT-Wallet durante la Sperimentazione.",
       "publishedAt": "2026-11-06T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Comunicato stampa del Consiglio dei Ministri n. 196",
-      "url": "https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-196/33042",
-      "excerpt": "Il Consiglio dei Ministri si è riunito giovedì 5 novembre 2026, alle ore 17.14 a Palazzo Chigi, sotto la presidenza del Presidente Giorgia Meloni. Segretario, il Sottosegretario alla Presidenza Alfredo Mantovano. ٠٠٠٠٠",
-      "publishedAt": "2026-11-05T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Consiglio dei Ministri n. 196",
-      "url": "https://www.governo.it/it/articolo/consiglio-dei-ministri-n-196/33040",
-      "excerpt": "Si è svolta a Palazzo Chigi la riunione del Consiglio dei Ministri. Nel comunicato stampa i provvedimenti approvati.",
-      "publishedAt": "2026-11-05T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Convocazione del Consiglio dei Ministri n. 196",
-      "url": "https://www.governo.it/it/articolo/convocazione-del-consiglio-dei-ministri-n-196/33039",
-      "excerpt": "Il Consiglio dei Ministri è convocato giovedì 5 novembre 2026 alle ore 17:00 a Palazzo Chigi, per l’esame del seguente ordine del giorno:",
-      "publishedAt": "2026-11-05T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Definizione delle misure tecniche e organizzative del Sistema IT-Wallet",
-      "url": "https://www.governo.it/it/articolo/definizione-delle-misure-tecniche-e-organizzative-del-sistema-it-wallet/33033",
-      "excerpt": "Pubblicato il Decreto del Capo del dipartimento per la trasformazione digitale del 29 settembre 2026 di definizione delle misure tecniche e organizzative da adottarsi con riferimento ai trattamenti di dati personali effettuati nell’ambito del Sistema IT-Wallet, ai sensi dell’articolo 8, comma 5, del Dpcm 19 marzo 2026.",
-      "publishedAt": "2026-11-04T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Giornata dell’Unità Nazionale e delle Forze armate, Palazzo Chigi si illumina con il Tricolore",
-      "url": "https://www.governo.it/it/articolo/giornata-dell-unit-nazionale-e-delle-forze-armate-palazzo-chigi-si-illumina-con-il",
-      "excerpt": "In occasione della “Giornata dell’Unità Nazionale e delle Forze armate”, dall’imbrunire della giornata odierna fino all’alba del 5 novembre 2026, la facciata principale di Palazzo Chigi sarà illuminata con il Tricolore italiano: verde, bianco e rosso, a bande verticali.",
-      "publishedAt": "2026-11-04T00:00:00Z",
       "dateEvidence": "feed:published"
     }
   ],

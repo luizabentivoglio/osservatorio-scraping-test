@@ -4,12 +4,19 @@
   "sourceId": "confindustria",
   "originUrl": "https://www.confindustria.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-09T10:23:41.790051Z",
+  "collectedAt": "2026-11-09T21:07:22.867198Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "AL VIA OGGI LA XXV SETTIMANA DELLA CULTURA D’IMPRESA",
+      "url": "https://www.confindustria.it/comunicati-stampa/al-via-oggi-la-xxv-settimana-della-cultura-dimpresa",
+      "excerpt": "Roma, 9 novembre 2026 – Oggi prende il via la XXV Settimana della Cultura d’Impresa, l’iniziativa nazionale promossa da Confindustria e Museimpresa che ogni anno celebra e valorizza il patrimonio culturale, sociale e creativo custodito nelle imprese italiane. Un appuntamento diffuso, volto a raccontare la storia, l’ide",
+      "publishedAt": "2026-11-09T00:00:00Z",
+      "dateEvidence": "html:press-release-header"
+    },
     {
       "title": "ARTIGIANATO, ORSINI: “LE ASSOCIAZIONI DI CATEGORIA NON DIFENDANO I PROPRI INTERESSI A SPESE DEI LAVORATORI E DELLE IMPRESE”",
       "url": "https://www.confindustria.it/comunicati-stampa/artigianato-orsini-le-associazioni-di-categoria-non-difendano-i-propri-interessi-a-spese-dei-lavoratori-e-delle-imprese",
@@ -25,6 +32,10 @@
     },
     {
       "url": "https://www.confindustria.it/comunicati-stampa",
+      "status": 200
+    },
+    {
+      "url": "https://www.confindustria.it/comunicati-stampa/al-via-oggi-la-xxv-settimana-della-cultura-dimpresa",
       "status": 200
     },
     {
@@ -46,16 +57,12 @@
     {
       "url": "https://www.confindustria.it/comunicati-stampa/ddl-nucleare-confindustria-svolta-storica-per-il-futuro-del-paese",
       "status": 200
-    },
-    {
-      "url": "https://www.confindustria.it/comunicati-stampa/luiss-guido-carli-e-confindustria-imprese-estere-insieme-per-il-corso-di-international-business",
-      "status": 200
     }
   ],
-  "message": "1 notizie recenti con data verificata; copertura parziale.",
+  "message": "2 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [],
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.confindustria.it/comunicati-stampa",
-  "durationSeconds": 4.86
+  "durationSeconds": 3.97
 }
