@@ -9,9 +9,9 @@
 | breaking-italy | ok | trafilatura | 1 | — |
 | camera | ok | trafilatura | 6 | — |
 | cisl | blocked | html | 0 | robots_disallowed |
-| cnr | error | html | 0 | connection_error |
+| cnr | ok | rss | 20 | — |
 | coldiretti | ok | trafilatura | 3 | — |
-| commissione-europea | ok | trafilatura | 1 | — |
+| commissione-europea | blocked | html | 0 | rate_limited |
 | comune-bollate | ok | trafilatura | 4 | — |
 | confcommercio | blocked | html | 0 | access_restricted |
 | confindustria | ok | trafilatura | 1 | — |

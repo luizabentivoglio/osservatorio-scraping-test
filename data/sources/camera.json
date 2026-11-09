@@ -4,7 +4,7 @@
   "sourceId": "camera",
   "originUrl": "https://www.camera.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-09T02:00:52.002488Z",
+  "collectedAt": "2026-11-09T10:23:33.540425Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -46,9 +46,9 @@
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "Decreto circolazione veicoli diesel Euro 5",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63914",
-      "excerpt": "La Camera è convocata lunedì 9 novembre alle ore 15 per le seguenti discussioni generali: disegno ...",
+      "title": "Onorevole Sindaca - Biografia politica di Ada Natali - Giovedì alle 11 diretta webtv - Saluto di Ascani",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63910",
+      "excerpt": "Giovedì 12 novembre, alle ore 11, presso la Sala Matteotti di Palazzo Theodoli - Bianchelli si svol...",
       "publishedAt": "2026-11-06T00:00:00Z",
       "dateEvidence": "html:publication-label"
     }
@@ -83,7 +83,7 @@
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63914",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63910",
       "status": 200
     }
   ],
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://comunicazione.camera.it/archivio-prima-pagina",
-  "durationSeconds": 4.38
+  "durationSeconds": 4.16
 }

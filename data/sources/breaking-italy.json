@@ -4,17 +4,17 @@
   "sourceId": "breaking-italy",
   "originUrl": "https://breakingitaly.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-09T02:00:52.000579Z",
+  "collectedAt": "2026-11-09T10:23:32.533844Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
-      "title": "Ci sono stati 25 allarmi bomba su diversi voli europei, coinvolta anche l’Italia",
-      "url": "https://breakingitaly.it/newsletter/ci-sono-stati-25-allarmi-bomba-su-diversi-voli-europei-coinvolta-anche-litalia",
-      "excerpt": "Ci sono stati 25 allarmi bomba su diversi voli europei, coinvolta anche l’Italia",
-      "publishedAt": "2026-11-06T00:00:00Z",
+      "title": "L’incarico di formare il nuovo governo di Israele è stato conferito a Gadi Eisenkot",
+      "url": "https://breakingitaly.it/newsletter/lincarico-di-formare-il-nuovo-governo-di-israele-e-stato-conferito-a-gadi-eisenkot",
+      "excerpt": "L’incarico di formare il nuovo governo di Israele è stato conferito a Gadi Eisenkot",
+      "publishedAt": "2026-11-09T00:00:00Z",
       "dateEvidence": "html:newsletter-publication"
     }
   ],
@@ -32,7 +32,7 @@
       "status": 200
     },
     {
-      "url": "https://breakingitaly.it/newsletter/ci-sono-stati-25-allarmi-bomba-su-diversi-voli-europei-coinvolta-anche-litalia",
+      "url": "https://breakingitaly.it/newsletter/lincarico-di-formare-il-nuovo-governo-di-israele-e-stato-conferito-a-gadi-eisenkot",
       "status": 200
     },
     {
@@ -96,5 +96,5 @@
   "candidateCount": 12,
   "datedCount": 1,
   "listingUrl": "https://breakingitaly.it/",
-  "durationSeconds": 5.38
+  "durationSeconds": 5.15
 }

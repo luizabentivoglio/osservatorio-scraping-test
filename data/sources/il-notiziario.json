@@ -4,7 +4,7 @@
   "sourceId": "il-notiziario",
   "originUrl": "https://www.ilnotiziario.net/",
   "configuredFeedUrl": "https://www.ilnotiziario.net/feed/",
-  "collectedAt": "2026-11-08T22:31:22.514090Z",
+  "collectedAt": "2026-11-09T10:24:10.617639Z",
   "status": "blocked",
   "diagnosticCode": "access_restricted",
   "method": "html",
@@ -20,8 +20,8 @@
       "status": 403
     }
   ],
-  "message": "HTTP 403: accesso limitato dalla fonte; prossimo controllo dopo quattro ore.",
+  "message": "HTTP 403: accesso limitato dalla fonte",
   "httpStatus": 403,
   "failedUrl": "https://www.ilnotiziario.net/feed/",
-  "durationSeconds": 0.52
+  "durationSeconds": 0.72
 }

@@ -4,12 +4,26 @@
   "sourceId": "pagella-politica",
   "originUrl": "https://pagellapolitica.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-09T02:01:48.401098Z",
+  "collectedAt": "2026-11-09T10:24:25.651126Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "Il vecchio Salvini se la prenderebbe con Meloni per le tasse sulle sigarette elettroniche",
+      "url": "https://pagellapolitica.it/articoli/salvini-sigarette-elettroniche-meloni",
+      "excerpt": "Anni fa il leader della Lega prometteva addirittura di azzerarle, mentre ora il governo che sostiene vuole...",
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "dateEvidence": "html:post-date"
+    },
+    {
+      "title": "I tagli al personale scolastico hanno una lunga storia in Italia",
+      "url": "https://pagellapolitica.it/articoli/tagli-scuola-legge-di-bilancio",
+      "excerpt": "La nuova legge di Bilancio prevede tagli agli organici scolastici. Negli ultimi trent’anni, però, governi di...",
+      "publishedAt": "2026-11-05T00:00:00Z",
+      "dateEvidence": "html:post-date"
+    },
     {
       "title": "La sconfitta di Trump alle midterm mette alla prova la destra italiana",
       "url": "https://pagellapolitica.it/articoli/sconfitta-trump-midterm-destra-italiana",
@@ -37,20 +51,6 @@
       "excerpt": "Dopo la vittoria dei democratici, Trump si trova in una situazione che in gergo si chiama “anatra zoppa”, che in...",
       "publishedAt": "2026-11-04T00:00:00Z",
       "dateEvidence": "html:post-date"
-    },
-    {
-      "title": "La “exit tax” sarebbe una patrimoniale molto particolare",
-      "url": "https://pagellapolitica.it/articoli/exit-tax-patrimoniale-particolare",
-      "excerpt": "Il governo ha inserito un’imposta sulla ricchezza delle persone più ricche che decidono di trasferirsi...",
-      "publishedAt": "2026-11-04T00:00:00Z",
-      "dateEvidence": "html:post-date"
-    },
-    {
-      "title": "Il governo Meloni è tornato a fare ritardi sulla legge di Bilancio",
-      "url": "https://pagellapolitica.it/articoli/legge-di-bilancio-ritardi-governo-meloni",
-      "excerpt": "La manovra per il 2027 è stata presentata alla Camera con undici giorni di ritardo: un peggioramento rispetto alla...",
-      "publishedAt": "2026-11-04T00:00:00Z",
-      "dateEvidence": "html:post-date"
     }
   ],
   "attempts": [
@@ -60,6 +60,14 @@
     },
     {
       "url": "https://pagellapolitica.it/articoli",
+      "status": 200
+    },
+    {
+      "url": "https://pagellapolitica.it/articoli/salvini-sigarette-elettroniche-meloni",
+      "status": 200
+    },
+    {
+      "url": "https://pagellapolitica.it/articoli/tagli-scuola-legge-di-bilancio",
       "status": 200
     },
     {
@@ -77,14 +85,6 @@
     {
       "url": "https://pagellapolitica.it/articoli/trump-sconfitto-midterm",
       "status": 200
-    },
-    {
-      "url": "https://pagellapolitica.it/articoli/exit-tax-patrimoniale-particolare",
-      "status": 200
-    },
-    {
-      "url": "https://pagellapolitica.it/articoli/legge-di-bilancio-ritardi-governo-meloni",
-      "status": 200
     }
   ],
   "message": "6 notizie recenti con data verificata; copertura parziale.",
@@ -92,5 +92,5 @@
   "candidateCount": 6,
   "datedCount": 6,
   "listingUrl": "https://pagellapolitica.it/articoli",
-  "durationSeconds": 6.48
+  "durationSeconds": 9.83
 }

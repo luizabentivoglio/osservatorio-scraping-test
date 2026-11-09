@@ -4,12 +4,19 @@
   "sourceId": "amnesty",
   "originUrl": "https://www.amnesty.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-09T02:00:51.996947Z",
+  "collectedAt": "2026-11-09T10:23:31.787665Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "Cop31: basta con l’industria del fossile",
+      "url": "https://www.amnesty.it/cop31-basta-con-industria-del-fossile/",
+      "excerpt": "I leader del mondo si riuniranno da domani per la Conferenza annuale sul clima (Cop31): devono cessare di sostenere l’industria del fossile.",
+      "publishedAt": "2026-11-09T10:15:51Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
     {
       "title": "Israele e Tpo: in carcere l’attivista Ghassan Najjar",
       "url": "https://www.amnesty.it/israele-tpo-carcere-attivista-ghassan-najjar/",
@@ -23,13 +30,6 @@
       "excerpt": "Gli attacchi della Russia contro le infrastrutture energetiche in Ucraina, rischiano di creare una nuova catastrofe umanitaria.",
       "publishedAt": "2026-11-02T09:16:34Z",
       "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Ue: riforma di Frontex rischia complicità in violazioni dei diritti umani",
-      "url": "https://www.amnesty.it/ue-riforma-frontex-rischia-complicita-violazioni-diritti-umani/",
-      "excerpt": "Le proposte della Commissione europea per riformare Frontex potrebbero aumentarne i poteri senza aumentare salvaguardie per i diritti umani.",
-      "publishedAt": "2026-10-28T16:08:18Z",
-      "dateEvidence": "jsonld:datePublished"
     }
   ],
   "attempts": [
@@ -42,6 +42,10 @@
       "status": 200
     },
     {
+      "url": "https://www.amnesty.it/appelli/egitto-lina-attalah-rischia-il-carcere/",
+      "status": 200
+    },
+    {
       "url": "https://www.amnesty.it/appelli/gaza-liberta-per-il-dottor-hussam-abu-safiya/",
       "status": 200
     },
@@ -50,7 +54,7 @@
       "status": 200
     },
     {
-      "url": "https://www.amnesty.it/appelli/iran-ricercatore-universitario-rischia-la-pena-morte/",
+      "url": "https://www.amnesty.it/cop31-basta-con-industria-del-fossile/",
       "status": 200
     },
     {
@@ -60,14 +64,16 @@
     {
       "url": "https://www.amnesty.it/ucraina-pericolosi-attacchi-russi-alle-infrastrutture/",
       "status": 200
-    },
-    {
-      "url": "https://www.amnesty.it/ue-riforma-frontex-rischia-complicita-violazioni-diritti-umani/",
-      "status": 200
     }
   ],
   "message": "3 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [
+    {
+      "url": "https://www.amnesty.it/appelli/egitto-lina-attalah-rischia-il-carcere/",
+      "title": "Egitto: Lina Attalah rischia il carcere Firma ora",
+      "h1": "Egitto: Lina Attalah rischia il carcere",
+      "dates": []
+    },
     {
       "url": "https://www.amnesty.it/appelli/gaza-liberta-per-il-dottor-hussam-abu-safiya/",
       "title": "Gaza: libertà per il dottor Hussam Abu Safiya Firma ora",
@@ -79,16 +85,10 @@
       "title": "Il sesso senza consenso è stupro! Firma ora",
       "h1": "Il sesso senza consenso è stupro!",
       "dates": []
-    },
-    {
-      "url": "https://www.amnesty.it/appelli/iran-ricercatore-universitario-rischia-la-pena-morte/",
-      "title": "Salviamo Ahmad dalla pena di morte Firma ora",
-      "h1": "Salviamo Ahmad dalla pena di morte",
-      "dates": []
     }
   ],
   "candidateCount": 12,
   "datedCount": 3,
   "listingUrl": "https://www.amnesty.it/",
-  "durationSeconds": 6.25
+  "durationSeconds": 5.6
 }

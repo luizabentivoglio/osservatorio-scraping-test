@@ -4,7 +4,7 @@
   "sourceId": "good-morning-italia",
   "originUrl": "https://goodmorningitalia.substack.com/",
   "configuredFeedUrl": "https://goodmorningitalia.substack.com/feed",
-  "collectedAt": "2026-11-08T22:31:17.171926Z",
+  "collectedAt": "2026-11-09T10:24:05.434199Z",
   "status": "blocked",
   "diagnosticCode": "access_restricted",
   "method": "html",
@@ -16,7 +16,7 @@
       "status": 403
     }
   ],
-  "message": "HTTP 403: accesso limitato dalla fonte; prossimo controllo dopo quattro ore.",
+  "message": "HTTP 403: accesso limitato dalla fonte",
   "httpStatus": 403,
   "failedUrl": "https://goodmorningitalia.substack.com/robots.txt",
   "durationSeconds": 0.06

@@ -4,21 +4,163 @@
   "sourceId": "cnr",
   "originUrl": "https://www.cnr.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-09T02:00:59.888841Z",
-  "status": "error",
-  "diagnosticCode": "connection_error",
-  "method": "html",
-  "feedUrl": null,
-  "items": [],
-  "attempts": [],
-  "message": "SSLError",
-  "httpStatus": null,
-  "failedUrl": "https://www.cnr.it/robots.txt",
-  "durationSeconds": 1.16,
-  "attemptErrors": [
+  "collectedAt": "2026-11-09T10:23:42.619972Z",
+  "status": "ok",
+  "diagnosticCode": null,
+  "method": "rss",
+  "feedUrl": "https://www.cnr.it/it/news/rss",
+  "items": [
+    {
+      "title": "Osservazione della Terra e trasparenza climatica: il CNR-IBE alla COP31 con l'esperienza di Flood Early Warning nel Sahel",
+      "url": "https://www.cnr.it/it/news/14787/osservazione-della-terra-e-trasparenza-climatica-il-cnr-ibe-alla-cop31-con-l-esperienza-di-flood-early-warning-nel-sahel",
+      "excerpt": "11/11/2026 . L'11 novembre, al Padiglione Italia della COP31 di Antalya, il side event organizzato da ISPRA \"Earth Observation for Climate Transparency: Copernicus Services and IRIDE for climate reporting\" mette a confronto servizi satellitari, inventari climatici e sistemi di allerta precoce. Per il Consiglio Nazional",
+      "publishedAt": "2026-11-09T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Progetto EU \"ReLION\": nuova generazione di materiali multifunzionali espansi innovativi e sostenibili",
+      "url": "https://www.cnr.it/it/news/14785/progetto-eu-relion-nuova-generazione-di-materiali-multifunzionali-espansi-innovativi-e-sostenibili",
+      "excerpt": "06/11/2026 . Con \"ReLION - Renewable-non-isocyanate poLyurethanes for sustaInable biO-based innovatioN\", il Cnr contribuisce allo sviluppo di una nuova generazione di materiali polimerici sostenibili innovativi, trasformando la ricerca sui materiali avanzati in soluzioni tecnologiche concrete per la transizione ecologi",
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Diplomazia scientifica, a Reggio Calabria la firma dell'accordo tra MAECI e CNR",
+      "url": "https://www.cnr.it/it/news/14782/diplomazia-scientifica-a-reggio-calabria-la-firma-dell-accordo-tra-maeci-e-cnr",
+      "excerpt": "05/11/2026 . Il ministro degli Affari Esteri e della Cooperazione Internazionale Antonio Tajani e il presidente del CNR Andrea Lenzi hanno sottoscritto un’intesa per rafforzare l’internazionalizzazione della ricerca italiana e promuovere la cooperazione scientifica internazionale",
+      "publishedAt": "2026-11-05T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "ENEA sviluppa con Cnr e ISPRA strumento per stimare impatto erosione costiera",
+      "url": "https://www.cnr.it/it/news/14753/enea-sviluppa-con-cnr-e-ispra-strumento-per-stimare-impatto-erosione-costiera",
+      "excerpt": "05/11/2026 . ENEA, in collaborazione con ISPRA e Cnr, ha sviluppato CoDeC (Calcolo del Degrado Costiero), uno strumento innovativo che consente di stimare gli impatti economici e ambientali dell’erosione costiera, prendendo in considerazione l’evoluzione delle spiagge, la presenza di infrastrutture e le dinamiche di tr",
+      "publishedAt": "2026-11-05T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Opportunità di tirocinio formativo per laureandi",
+      "url": "https://www.cnr.it/it/news/14780/opportunita-di-tirocinio-formativo-per-laureandi",
+      "excerpt": "04/11/2026 . Un’occasione per arricchire il proprio percorso universitario e avvicinarsi al mondo del lavoro attraverso un’esperienza formativa sul campo. I laureandi interessati potranno manifestare il proprio interesse a svolgere uno dei seguenti tirocini formativi presso la Sede di Napoli dell’Istituto per le Tecnol",
+      "publishedAt": "2026-11-04T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Al via le iscrizioni alla 9ª edizione della Scuola TEM \"Pier Giorgio Merli\"",
+      "url": "https://www.cnr.it/it/news/14774/al-via-le-iscrizioni-alla-9ª-edizione-della-scuola-tem-pier-giorgio-merli",
+      "excerpt": "03/11/2026 . Dal 18 al 29 gennaio 2027, all'Istituto per lo Studio dei Materiali Nanostrutturati del Consiglio Nazionale delle Ricerche a Bologna, due settimane di lezioni e dimostrazioni pratiche di microscopia elettronica in trasmissione per la scienza dei materiali",
+      "publishedAt": "2026-11-03T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "R/V Gaia Blu: conclusa la campagna MARSiCo-2026_II",
+      "url": "https://www.cnr.it/it/news/14775/r-v-gaia-blu-conclusa-la-campagna-marsico-2026-ii",
+      "excerpt": "03/11/2026 . Dal 12 al 29 ottobre 2026 la nave da ricerca R/V Gaia Blu è stata impegnata nella campagna oceanografica MARSiCo-2026_II (MAnagement and Retrieval of SubmergedInfrastructures in the Sicily and Corsica Channel), coordinata dal CNR-ISMAR nell'ambito delle attività nazionali e internazionali di osservazione a",
+      "publishedAt": "2026-11-03T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "I Data Steward del CNR si incontrano a Roma il 1° e 2 dicembre",
+      "url": "https://www.cnr.it/it/news/14778/i-data-steward-del-cnr-si-incontrano-a-roma-il-1-e-2-dicembre",
+      "excerpt": "03/11/2026 . Il 1° e 2 dicembre 2026, a Roma, si terrà un incontro in presenza della comunità dei Data Steward del CNR (DS@CNR), nell'ambito delle iniziative per il Centenario della Biblioteca Centrale “Guglielmo Marconi” (1927–2027). L’evento prevede due mezze giornate dedicate alla formazione e al confronto sulle att",
+      "publishedAt": "2026-11-03T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Il CISC CNR allo Smart City Expo World Congress 2026 di Barcellona: Urban Intelligence e Gemelli Digitali per le città e i territori del futuro",
+      "url": "https://www.cnr.it/it/news/14768/il-cisc-cnr-allo-smart-city-expo-world-congress-2026-di-barcellona-urban-intelligence-e-gemelli-digitali-per-le-citta-e-i-territori-del-futuro",
+      "excerpt": "03/11/2026 . Dal 3 al 5 novembre 2026, il Centro Interdipartimentale Scienza delle Città (CISC) del Consiglio Nazionale delle Ricerche parteciperà allo Smart City Expo World Congress di Barcellona, uno dei più importanti appuntamenti internazionali dedicati all'innovazione urbana, alla trasformazione digitale, alla sos",
+      "publishedAt": "2026-11-02T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Isole di luce nei mari europei: il CNR individua hotspot notturni persistenti",
+      "url": "https://www.cnr.it/it/news/14769/isole-di-luce-nei-mari-europei-il-cnr-individua-hotspot-notturni-persistenti",
+      "excerpt": "03/11/2026 . Uno studio del CNR-IRBIM pubblicato su Environmental Pollution identifica le “ALAN islands”: aree di mare aperto in cui elevata radianza notturna e intensa presenza marittima si associano in modo ricorrente. Tra il 2017 e il 2023 sono stati individuati 10.092 km² di hotspot persistenti, con una radianza me",
+      "publishedAt": "2026-11-02T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "\"Voci dal Pleistocene\": il tempo profondo di Casal de' Pazzi diventa un podcast a firma CNR ISPC",
+      "url": "https://www.cnr.it/it/news/14771/voci-dal-pleistocene-il-tempo-profondo-di-casal-de-pazzi-diventa-un-podcast-a-firma-cnr-ispc",
+      "excerpt": "02/11/2026 . La narrazione del tempo profondo abbandona i confini dell'accademia per diventare un racconto accessibile a tutti: nasce 'Voci dal Pleistocene', il podcast ufficiale del Museo di Casal de' Pazzi. L'opera è pensata sia per l'ascolto remoto da casa sia come sussidio interattivo per arricchire la visita guida",
+      "publishedAt": "2026-11-02T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Ciclone Harry, onde record nel Mediterraneo: uno studio coordinato da UniBa e Università di Catania svela i fattori che amplificano il rischio costiero",
+      "url": "https://www.cnr.it/it/news/14773/ciclone-harry-onde-record-nel-mediterraneo-uno-studio-coordinato-da-uniba-e-universita-di-catania-svela-i-fattori-che-amplificano-il-rischio-costiero",
+      "excerpt": "02/11/2026 . Il Cnr ha contribuito con gli Istituti IRBIM e ISAC alla ricerca internazionale pubblicata su Communications Earth & Environment che ha integrato analisi atmosferiche, oceanografiche, geomorfologiche e sismologiche relative al fenomeno. Identificati i fattori locali che possono amplificare gli effetti dell",
+      "publishedAt": "2026-11-02T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "San Francesco e la rivoluzione del volgare: il Cantico delle Creature raccontato dal CNR-DSU",
+      "url": "https://www.cnr.it/it/news/14764/san-francesco-e-la-rivoluzione-del-volgare-il-cantico-delle-creature-raccontato-dal-cnr-dsu",
+      "excerpt": "30/10/2026 . È online una nuova videointervista di \"Conversazioni con la Scienza\", la rubrica mensile del Dipartimento Scienze Umane e Sociali, Patrimonio Culturale (CNR-DSU). In occasione degli ottocento anni dalla morte di San Francesco d’Assisi, Paolo Squillacioti, direttore dell’Istituto Opera del Vocabolario Itali",
+      "publishedAt": "2026-10-30T11:25:24Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Artico e Antartide: il Sistema Paese nello scenario internazionale e le nuove sfide della competizione globale",
+      "url": "https://www.cnr.it/it/news/14763/artico-e-antartide-il-sistema-paese-nello-scenario-internazionale-e-le-nuove-sfide-della-competizione-globale",
+      "excerpt": "30/10/2026 . A poco meno di un mese dalla I Conferenza Nazionale Polare, il Cnr ha partecipato a un nuovo confronto sulle sfide dell’Artico e dell’Antartide, il ruolo dell’Italia e le prospettive di cooperazione internazionale, organizzato a Roma dal Sottosegretariato di Stato per la Difesa",
+      "publishedAt": "2026-10-30T09:43:39Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Cooperazione scientifica Italia-Europa-Giappone: il CNR ospita gli incontri del Programma EIG CONCERT-Japan su Robotica e Intelligenza Artificiale",
+      "url": "https://www.cnr.it/it/news/14762/cooperazione-scientifica-italia-europa-giappone-il-cnr-ospita-gli-incontri-del-programma-eig-concert-japan-su-robotica-e-intelligenza-artificiale",
+      "excerpt": "30/10/2026 . Il Consiglio Nazionale delle Ricerche ha ospitato presso la propria sede centrale di Roma, nei giorni 27 e 28 ottobre 2026, gli incontri internazionali del programma di cooperazione scientifica e tecnologica EIG CONCERT-Japan",
+      "publishedAt": "2026-10-30T09:37:02Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Matera: sottoscritto il Piano Città degli immobili pubblici",
+      "url": "https://www.cnr.it/it/news/14759/matera-sottoscritto-il-piano-citta-degli-immobili-pubblici",
+      "excerpt": "29/10/2026 . Il Cnr, assieme ad Agenzia del Demanio, Regione Basilicata, Comune di Matera e Centro Euro-Mediterraneo sui Cambiamenti Climatici, è tra gli enti che hanno sottoscritto l'accordo per rigenerare il patrimonio immobiliare pubblico. Cultura, servizi, sostenibilità e innovazione al centro della strategia per l",
+      "publishedAt": "2026-10-29T13:35:28Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Maker Faire 2026: premiato il progetto \"ORMA2 Alta fORMAzione e ricerca\"",
+      "url": "https://www.cnr.it/it/news/14761/maker-faire-2026-premiato-il-progetto-orma2-alta-formazione-e-ricerca",
+      "excerpt": "29/10/2026 . Il progetto \"ORMA2 Alta fORMAzione e ricerca” presentato dall'Istituto di fisica applicata \"Nello Carrara\" (Cnr-Ifac) di Firenze, è stato premiato, al Maker Faire Rome, con il Maker of Merit per essersi contraddistinto per “l’originalità delle proprie idee, il potenziale dei progetti presentati, la creativ",
+      "publishedAt": "2026-10-29T12:33:10Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Il Cnr nella Top2% scientists 2025",
+      "url": "https://www.cnr.it/it/news/14758/il-cnr-nella-top2-scientists-2025",
+      "excerpt": "29/10/2026 . E' pubblicata sul sito Elsevier la classifica Stanford University-Elsevier - Top2% scientists 2025: https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/8?utm_source=chatgpt.com Tale analisi, basata sul database Elsevier-Scopus, fornisce informazioni standardizzate secondo due classificazioni princi",
+      "publishedAt": "2026-10-29T11:02:54Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "ASV-MADRO,il drone marino di Cnr-Inm che naviga in autonomia",
+      "url": "https://www.cnr.it/it/news/14757/asv-madro-il-drone-marino-di-cnr-inm-che-naviga-in-autonomia",
+      "excerpt": "29/10/2026 . Sviluppato da Cnr-Inm di Roma con Laser Navigation srl, nell’ambito del progetto MADRO, il drone marino autonomo è destinato a missioni di ricerca e monitoraggio in ambienti marini e in acque interne. Sarà presentato alla conferenza Sea Drone Tech Summit di Ostia (Roma), in programma il 5 e il 6 novembre",
+      "publishedAt": "2026-10-29T11:00:23Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Miriam Serena Vitiello eletta Optica Fellow per il 2027",
+      "url": "https://www.cnr.it/it/news/14756/miriam-serena-vitiello-eletta-optica-fellow-per-il-2027",
+      "excerpt": "28/10/2026 . Un nuovo riconoscimento internazionale per la ricercatrice di Cnr Nano eletta Optica Fellow 2027 per i suoi studi pionieristici sulle interazioni tra luce e materia alle frequenze terahertz e per lo sviluppo di dispositivi e sistemi innovativi che contribuiscono al progresso delle tecnologie terahertz",
+      "publishedAt": "2026-10-28T16:17:47Z",
+      "dateEvidence": "feed:published"
+    }
+  ],
+  "attempts": [
+    {
+      "url": "https://www.cnr.it/robots.txt",
+      "status": 200
+    },
     {
       "url": "https://www.cnr.it/it/news/rss",
-      "code": "connection_error"
+      "status": 200
     }
-  ]
+  ],
+  "message": "Feed ufficiale letto; date di pubblicazione verificate.",
+  "durationSeconds": 10.18
 }
