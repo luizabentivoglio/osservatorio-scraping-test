@@ -4,7 +4,7 @@
   "sourceId": "commissione-europea",
   "originUrl": "https://commission.europa.eu/news-and-media_en",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-09T21:07:18.968215Z",
+  "collectedAt": "2026-11-10T04:21:43.744755Z",
   "status": "blocked",
   "diagnosticCode": "rate_limited",
   "method": "html",
@@ -157,5 +157,5 @@
   ],
   "httpStatus": 429,
   "failedUrl": "https://commission.europa.eu/about/contact/press-services_en",
-  "durationSeconds": 2.73
+  "durationSeconds": 2.67
 }

@@ -4,7 +4,7 @@
   "sourceId": "coraggio-italia",
   "originUrl": "https://www.coraggioitalia.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-09T21:07:26.838369Z",
+  "collectedAt": "2026-11-10T04:21:51.319096Z",
   "status": "no_feed",
   "diagnosticCode": "parsing_error",
   "method": "crawl4ai",
@@ -45,7 +45,7 @@
   "candidateCount": 2,
   "datedCount": 0,
   "listingUrl": "https://www.coraggioitalia.it/",
-  "durationSeconds": 5.43,
+  "durationSeconds": 4.66,
   "attemptErrors": [
     {
       "url": "https://www.coraggioitalia.it/politiche-2022/candidati/",

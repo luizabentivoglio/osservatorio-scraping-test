@@ -4,7 +4,7 @@
   "sourceId": "emergency",
   "originUrl": "https://www.emergency.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-09T21:07:40.268476Z",
+  "collectedAt": "2026-11-10T04:22:03.799654Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -101,5 +101,5 @@
   "candidateCount": 8,
   "datedCount": 3,
   "listingUrl": "https://www.emergency.it/",
-  "durationSeconds": 7.12
+  "durationSeconds": 9.15
 }

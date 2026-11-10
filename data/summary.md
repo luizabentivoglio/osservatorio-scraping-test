@@ -9,7 +9,7 @@
 | breaking-italy | ok | trafilatura | 1 | — |
 | camera | ok | trafilatura | 6 | — |
 | cisl | blocked | html | 0 | robots_disallowed |
-| cnr | ok | rss | 20 | — |
+| cnr | error | html | 0 | connection_error |
 | coldiretti | ok | trafilatura | 3 | — |
 | commissione-europea | blocked | html | 0 | rate_limited |
 | comune-bollate | ok | trafilatura | 4 | — |
@@ -34,7 +34,7 @@
 | iai | ok | trafilatura | 3 | — |
 | il-fatto | blocked | html | 0 | robots_disallowed |
 | il-notiziario | blocked | html | 0 | access_restricted |
-| il-post | ok | trafilatura | 6 | — |
+| il-post | ok | trafilatura | 4 | — |
 | ingv | ok | rss | 5 | — |
 | ispi | blocked | html | 0 | robots_disallowed |
 | ispra | ok | rss | 0 | — |

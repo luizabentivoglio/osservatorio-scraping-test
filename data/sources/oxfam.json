@@ -4,7 +4,7 @@
   "sourceId": "oxfam",
   "originUrl": "https://www.oxfamitalia.org/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-09T21:08:04.777390Z",
+  "collectedAt": "2026-11-10T04:22:30.080653Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -85,5 +85,5 @@
   "candidateCount": 8,
   "datedCount": 6,
   "listingUrl": "https://www.oxfamitalia.org/news/",
-  "durationSeconds": 4.23
+  "durationSeconds": 4.3
 }

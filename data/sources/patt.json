@@ -4,7 +4,7 @@
   "sourceId": "patt",
   "originUrl": "https://patt.tn.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-09T21:08:06.552331Z",
+  "collectedAt": "2026-11-10T04:22:32.259687Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -56,5 +56,5 @@
   "candidateCount": 8,
   "datedCount": 5,
   "listingUrl": "https://patt.tn.it/",
-  "durationSeconds": 4.29
+  "durationSeconds": 4.23
 }
