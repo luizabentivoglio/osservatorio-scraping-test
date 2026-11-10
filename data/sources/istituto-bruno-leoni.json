@@ -4,12 +4,19 @@
   "sourceId": "istituto-bruno-leoni",
   "originUrl": "https://www.brunoleoni.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-10T15:16:59.714259Z",
+  "collectedAt": "2026-11-10T23:45:51.948359Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "Il mondo multipolare e una proposta di pace",
+      "url": "https://www.brunoleoni.it/il-mondo-multipolare-e-una-proposta-di-pace/",
+      "excerpt": "Le federazioni di Stati possono essere un argine all'uso delle armi",
+      "publishedAt": "2026-11-10T16:35:43Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
     {
       "title": "Cosa c’è nella manovra",
       "url": "https://www.brunoleoni.it/cosa-ce-nella-manovra/",
@@ -29,20 +36,6 @@
       "url": "https://www.brunoleoni.it/exit-tax-una-patrimoniale-mascherata/",
       "excerpt": "Non è una tassa sulle persone che abbandonano l’Italia ma una patrimoniale implicita su quelle che arrivano",
       "publishedAt": "2026-11-02T21:05:00Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "L’AI e i rischi di una bolla",
-      "url": "https://www.brunoleoni.it/lai-e-i-rischi-di-una-bolla/",
-      "excerpt": "Non sarebbe la prima volta che un'infrastruttura utile nel lungo periodo provochi un massacro tra gli investitori",
-      "publishedAt": "2026-10-30T11:27:46Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Se il governo vuole fare qualcosa di concreto per il caro energia, sblocchi le trivelle",
-      "url": "https://www.brunoleoni.it/se-il-governo-vuole-fare-qualcosa-di-concreto-per-il-caro-energia-sblocchi-le-trivelle/",
-      "excerpt": "E risparmiarci le paternali sugli extraprofitti, le lamentele sul caro energia e la vana promessa di un nuovo futuro energetico",
-      "publishedAt": "2026-10-27T21:00:00Z",
       "dateEvidence": "jsonld:datePublished"
     }
   ],
@@ -68,19 +61,19 @@
       "status": 200
     },
     {
+      "url": "https://www.brunoleoni.it/il-mondo-multipolare-e-una-proposta-di-pace/",
+      "status": 200
+    },
+    {
       "url": "https://www.brunoleoni.it/cosa-ce-nella-manovra/",
       "status": 200
     },
     {
       "url": "https://www.brunoleoni.it/la-prudenza-e-un-merito-pnrr-occasione-persa/",
       "status": 200
-    },
-    {
-      "url": "https://www.brunoleoni.it/lai-e-i-rischi-di-una-bolla/",
-      "status": 200
     }
   ],
-  "message": "5 notizie recenti con data verificata; copertura parziale.",
+  "message": "4 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [
     {
       "url": "https://www.brunoleoni.it/articoli/",
@@ -92,5 +85,5 @@
   "candidateCount": 12,
   "datedCount": 5,
   "listingUrl": "https://www.brunoleoni.it/",
-  "durationSeconds": 6.01
+  "durationSeconds": 5.45
 }

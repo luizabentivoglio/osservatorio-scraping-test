@@ -4,7 +4,7 @@
   "sourceId": "sud-chiama-nord",
   "originUrl": "https://www.sud-chiamanord.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-10T15:17:33.112855Z",
+  "collectedAt": "2026-11-10T23:46:23.758273Z",
   "status": "blocked",
   "diagnosticCode": "access_restricted",
   "method": "html",
@@ -27,5 +27,5 @@
   "message": "HTTP 403: accesso limitato dalla fonte",
   "httpStatus": 403,
   "failedUrl": "https://www.sud-chiamanord.it/blog/",
-  "durationSeconds": 1.34
+  "durationSeconds": 1.19
 }

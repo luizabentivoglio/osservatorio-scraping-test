@@ -4,12 +4,19 @@
   "sourceId": "istat",
   "originUrl": "https://www.istat.it/",
   "configuredFeedUrl": "https://www.istat.it/feed/",
-  "collectedAt": "2026-11-10T15:16:58.646402Z",
+  "collectedAt": "2026-11-10T23:45:50.977695Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.istat.it/feed/",
   "items": [
+    {
+      "title": "Programma e Relatori 16a Conferenza nazionale di statistica",
+      "url": "https://www.istat.it/notizia/programma-e-relatori-cns16/",
+      "excerpt": "La pagina del programma e dei relatori della Conferenza Nazionale di Statistica 2026",
+      "publishedAt": "2026-11-10T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "Valutazione partecipativa sul Valore Pubblico generato dall’Istat",
       "url": "https://www.istat.it/notizia/valutazione-partecipativa-sul-valore-pubblico-generato-dallistat/",
@@ -53,7 +60,7 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Infografiche – Discipline e competenze STEM",
+      "title": "Giornata mondiale dell’acqua 2024",
       "url": "https://www.istat.it/infografiche/infografiche-discipline-e-competenze-stem/",
       "excerpt": "Un flash statistico su formazione e lavoro in ambito scientifico, tecnologico, ingegneristico e matematico",
       "publishedAt": "2026-11-09T00:00:00Z",
@@ -72,13 +79,6 @@
       "excerpt": "Online le risposte ai quesiti pervenuti",
       "publishedAt": "2026-11-06T00:00:00Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "L’Istat partecipa alla XL edizione di Futuro Remoto",
-      "url": "https://www.istat.it/evento-territoriale/listat-partecipa-alla-xl-edizione-di-futuro-remoto/",
-      "excerpt": "L’Istat partecipa a Futuro Remoto, festival della cultura scientifica, con laboratori interattivi di promozione della cultura statistica rivolti a grandi e piccini",
-      "publishedAt": "2026-11-06T00:00:00Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -92,5 +92,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 2.99
+  "durationSeconds": 2.67
 }

@@ -4,38 +4,45 @@
   "sourceId": "il-post",
   "originUrl": "https://www.ilpost.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-10T15:16:59.694888Z",
+  "collectedAt": "2026-11-10T23:45:51.550631Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
-      "title": "In Bulgaria almeno 11 persone sono morte in due incidenti stradali che hanno coinvolto più di 70 veicoli",
-      "url": "https://www.ilpost.it/2026/11/10/bulgaria-incidente-decine-auto-coinvolte/?bitPosition=1",
-      "excerpt": "In Bulgaria almeno 11 persone sono morte in due incidenti stradali che hanno coinvolto più di 70 veicoli In Bulgaria almeno 11 persone sono morte e più di 40 sono state ferite in due incidenti stradali che hanno coinvolto decine di veicoli. Secondo Mihail Kasherov, governatore di Sliven, che si trova a pochi chilometri",
-      "publishedAt": "2026-11-10T12:42:55Z",
+      "title": "Gli Stati Uniti hanno incriminato tre uomini per il presunto piano per attaccare la base inglese RAF Fairford",
+      "url": "https://www.ilpost.it/2026/11/11/stati-uniti-incriminazione-raf-fairford/?bitPosition=1",
+      "excerpt": "Gli Stati Uniti hanno incriminato tre uomini per il presunto piano per attaccare la base inglese RAF Fairford Il Dipartimento di Giustizia degli Stati Uniti ha incriminato tre uomini, che ha detto essere agenti vicini all’Iran, accusandoli di essere stati coinvolti in diversi attacchi terroristici, tra cui il presunto ",
+      "publishedAt": "2026-11-10T22:10:00Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "È stata chiesta l’archiviazione per Beppe Sala e i principali indagati nell’inchiesta sull’urbanistica a Milano",
-      "url": "https://www.ilpost.it/2026/11/10/inchiesta-urbanistica-milano-procura-chiede-archiviazione-sala-tancredi-boeri/?homepagePosition=0",
-      "excerpt": "Dopo più di un anno la procura ritiene che non ci siano gli elementi per dimostrare il vasto sistema corruttivo ipotizzato",
-      "publishedAt": "2026-11-10T12:25:36Z",
+      "title": "L’ex brigatista Leonardo Bertulazzi è scappato dagli arresti domiciliari in Argentina: doveva essere estradato in Italia",
+      "url": "https://www.ilpost.it/2026/11/10/leonardo-bertulazzi-scappato-argentina-estradizione/?bitPosition=2",
+      "excerpt": "L’ex brigatista Leonardo Bertulazzi è scappato dagli arresti domiciliari in Argentina: doveva essere estradato in Italia L’ex brigatista Leonardo Bertulazzi è scappato dall’abitazione a Buenos Aires, in Argentina, dove si trovava agli arresti domiciliari. Lo ha comunicato all’ANSA il suo avvocato, Rodolfo Yanzon. L’int",
+      "publishedAt": "2026-11-10T21:23:04Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "262 persone sono state arrestate in vari paesi in un’operazione contro la tratta di migranti coordinata dall’Interpol",
-      "url": "https://www.ilpost.it/2026/11/10/interpol-arresti-262-traffico-migranti-tratta-essere-umani/?bitPosition=2",
-      "excerpt": "262 persone sono state arrestate in vari paesi in un’operazione contro la tratta di migranti coordinata dall’Interpol L’Interpol ha annunciato di aver coordinato una vasta operazione contro le organizzazioni criminali che gestiscono la tratta di migranti nel Mediterraneo e lungo la rotta atlantica dell’Africa occidenta",
-      "publishedAt": "2026-11-10T10:50:46Z",
+      "title": "Un soldato dell’esercito statunitense è stato arrestato nel Regno Unito con l’accusa di spionaggio a favore della Russia",
+      "url": "https://www.ilpost.it/2026/11/10/soldato-esercito-stati-uniti-arresto-regno-unito-spionaggio-russia/?bitPosition=3",
+      "excerpt": "Un soldato dell’esercito statunitense è stato arrestato nel Regno Unito con l’accusa di spionaggio a favore della Russia Martedì un soldato dell’esercito statunitense di 41 anni è stato arrestato vicino a Gloucester, nel Regno Unito, con l’accusa di spionaggio. Il sospetto di chi indaga è che abbia fornito assistenza a",
+      "publishedAt": "2026-11-10T20:08:17Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "Secondo il Wall Street Journal, gli Stati Uniti hanno trasferito alcuni aerei da una base britannica per una minaccia iraniana",
-      "url": "https://www.ilpost.it/2026/11/10/stati-uniti-aerei-evacuati-base-raf-mildenhall-regno-unito/?bitPosition=3",
-      "excerpt": "Secondo il Wall Street Journal, gli Stati Uniti hanno trasferito alcuni aerei da una base britannica per una minaccia iraniana Lunedì gli Stati Uniti hanno evacuato alcuni dei loro aerei da Mildenhall, una base dell’aeronautica militare britannica nel Suffolk, circa 110 chilometri a nord-est di Londra, utilizzata anche",
-      "publishedAt": "2026-11-10T10:48:09Z",
+      "title": "Lo scrittore Kamel Daoud è stato condannato a 5 anni di carcere in Algeria per aver usato in un libro la storia di una donna senza il suo consenso",
+      "url": "https://www.ilpost.it/2026/11/10/kamel-daoud-condanna-algeria-libro-houris/?bitPosition=4",
+      "excerpt": "Lo scrittore Kamel Daoud è stato condannato a 5 anni di carcere in Algeria per aver usato in un libro la storia di una donna senza il suo consenso Lo scrittore algerino naturalizzato francese Kamel Daoud è stato condannato in contumacia (cioè senza essere presente in aula) a cinque anni di carcere da un tribunale in Al",
+      "publishedAt": "2026-11-10T17:26:05Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "Gli effetti della guerra in Ucraina su Piombino",
+      "url": "https://www.ilpost.it/2026/11/10/effetti-guerra-ucraina-piombino-acciaieria-metinvest-adria/?homepagePosition=0",
+      "excerpt": "Il gruppo ucraino Metinvest doveva costruirci una nuova acciaieria, ma si è tirato indietro",
+      "publishedAt": "2026-11-10T16:15:59Z",
       "dateEvidence": "jsonld:datePublished"
     }
   ],
@@ -49,34 +56,34 @@
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/10/inchiesta-urbanistica-milano-procura-chiede-archiviazione-sala-tancredi-boeri/?homepagePosition=0",
+      "url": "https://www.ilpost.it/2026/11/10/effetti-guerra-ucraina-piombino-acciaieria-metinvest-adria/?homepagePosition=0",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/09/12/motivazioni-sentenza-assoluzione-processo-urbanistica-milano/?homepagePosition=0.1&referrerPost=3729563",
+      "url": "https://www.ilpost.it/2025/12/10/piombino-acciaio-metinvest-adria-lavoro-investimenti/?homepagePosition=0.1&referrerPost=3729068",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2025/07/23/come-cambiata-milano-15-anni/?homepagePosition=0.2&referrerPost=3729563",
+      "url": "https://www.ilpost.it/2026/11/11/stati-uniti-incriminazione-raf-fairford/?bitPosition=1",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/10/bulgaria-incidente-decine-auto-coinvolte/?bitPosition=1",
+      "url": "https://www.ilpost.it/2026/11/10/leonardo-bertulazzi-scappato-argentina-estradizione/?bitPosition=2",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/10/interpol-arresti-262-traffico-migranti-tratta-essere-umani/?bitPosition=2",
+      "url": "https://www.ilpost.it/2026/11/10/soldato-esercito-stati-uniti-arresto-regno-unito-spionaggio-russia/?bitPosition=3",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/10/stati-uniti-aerei-evacuati-base-raf-mildenhall-regno-unito/?bitPosition=3",
+      "url": "https://www.ilpost.it/2026/11/10/kamel-daoud-condanna-algeria-libro-houris/?bitPosition=4",
       "status": 200
     }
   ],
-  "message": "4 notizie recenti con data verificata; copertura parziale.",
+  "message": "5 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [],
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.ilpost.it/",
-  "durationSeconds": 3.63
+  "durationSeconds": 3.53
 }

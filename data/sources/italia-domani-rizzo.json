@@ -4,31 +4,31 @@
   "sourceId": "italia-domani-rizzo",
   "originUrl": "https://www.italiadomanirizzo.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-10T15:17:01.637284Z",
+  "collectedAt": "2026-11-10T23:45:53.649763Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
+      "title": "Carburanti: la Slovenia taglia le accise e la benzina scende a 1,50 euro al litro - Italia Domani",
+      "url": "https://www.italiadomanirizzo.it/carburanti-la-slovenia-taglia-le-accise-e-la-benzina-scende/",
+      "excerpt": "Mentre in Italia il costo dei carburanti pesa su famiglie e lavoratori, la Slovenia interviene con un taglio alle accise portando la benzina a 1,50 euro al litro.",
+      "publishedAt": "2026-11-10T00:00:00Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "Carburanti: il gasolio torna a salire dopo lo stop al taglio delle accise - Italia Domani",
+      "url": "https://www.italiadomanirizzo.it/carburanti-il-gasolio-torna-a-salire-dopo-lo-stop-al-taglio/",
+      "excerpt": "I dati aggiornati sui prezzi dei carburanti registrano un rincaro per il diesel a causa della fine del taglio delle accise, mentre la benzina si mantiene stabile.",
+      "publishedAt": "2026-11-09T00:00:00Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
       "title": "Carrara: il dirigente nazionale Andrea Romiti in prima linea per Italia Domani - Italia Domani",
       "url": "https://www.italiadomanirizzo.it/grande-partecipazione-a-carrara-con-italia-domani-e-il-salut/",
       "excerpt": "Grande successo a Marina di Carrara con Andrea Romiti protagonista alla presentazione del libro di Tommaso Cerno e alla partecipata cena del movimento con la videochiamata di Marco Rizzo.",
       "publishedAt": "2026-11-07T00:00:00Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Suppletive Chieti: Ranieri propone fondo immediato contro il dissesto - Italia Domani",
-      "url": "https://www.italiadomanirizzo.it/suppletive-chieti-ranieri-propone-fondo-immediato-contro-il/",
-      "excerpt": "In vista del voto del 15 e 16 novembre, il candidato di Italia Domani Danilo Ranieri lancia la proposta di un fondo rapido per sindaci e cittadini colpiti da allagamenti.",
-      "publishedAt": "2026-11-05T00:00:00Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Criscuolo (Italia Domani): sanità campana in affanno, servono strutture efficienti - Italia Domani",
-      "url": "https://www.italiadomanirizzo.it/criscuolo-italia-domani-sanita-campana-in-affanno-servono-st/",
-      "excerpt": "Il coordinatore regionale di Italia Domani Marco Rizzo, Criscuolo, denuncia le difficoltà della sanità in Campania e i sacrifici imposti ai cittadini per il risanamento dei conti.",
-      "publishedAt": "2026-11-05T00:00:00Z",
       "dateEvidence": "jsonld:datePublished"
     }
   ],
@@ -42,15 +42,15 @@
       "status": 200
     },
     {
+      "url": "https://www.italiadomanirizzo.it/carburanti-la-slovenia-taglia-le-accise-e-la-benzina-scende/",
+      "status": 200
+    },
+    {
+      "url": "https://www.italiadomanirizzo.it/carburanti-il-gasolio-torna-a-salire-dopo-lo-stop-al-taglio/",
+      "status": 200
+    },
+    {
       "url": "https://www.italiadomanirizzo.it/grande-partecipazione-a-carrara-con-italia-domani-e-il-salut/",
-      "status": 200
-    },
-    {
-      "url": "https://www.italiadomanirizzo.it/suppletive-chieti-ranieri-propone-fondo-immediato-contro-il/",
-      "status": 200
-    },
-    {
-      "url": "https://www.italiadomanirizzo.it/criscuolo-italia-domani-sanita-campana-in-affanno-servono-st/",
       "status": 200
     },
     {
@@ -94,5 +94,5 @@
   "candidateCount": 8,
   "datedCount": 3,
   "listingUrl": "https://www.italiadomanirizzo.it/",
-  "durationSeconds": 5.48
+  "durationSeconds": 5.51
 }

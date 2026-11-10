@@ -4,12 +4,19 @@
   "sourceId": "palazzo-chigi",
   "originUrl": "https://www.governo.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-10T15:17:16.787876Z",
+  "collectedAt": "2026-11-10T23:46:07.071614Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.governo.it/feed/rss",
   "items": [
+    {
+      "title": "Il Presidente Meloni a Bologna e San Lazzaro di Savena",
+      "url": "https://www.governo.it/it/articolo/il-presidente-meloni-bologna-e-san-lazzaro-di-savena/33077",
+      "excerpt": "Il Presidente del Consiglio, Giorgia Meloni, ha visitato questo pomeriggio l’Esposizione Internazionale di Macchine per l'Agricoltura e il Giardinaggio (EIMA), presso BolognaFiere. A seguire il Presidente ha visitato Conserve Italia, in occasione del cinquantesimo anniversario del Gruppo aderente a Confcooperative, a S",
+      "publishedAt": "2026-11-10T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "XXII edizione del Premio Giacomo Matteotti, la cerimonia di premiazione",
       "url": "https://www.governo.it/it/articolo/xxii-edizione-del-premio-giacomo-matteotti-la-cerimonia-di-premiazione/33074",
@@ -72,13 +79,6 @@
       "excerpt": "Esprimo la mia piena solidarietà al Vice Presidente del Consiglio Antonio Tajani per quanto emerso sull’attività di hacker filorussi e sulla diffusione sul dark web di dati personali che lo riguardano. La messa in vendita di informazioni riservate su esponenti delle istituzioni desta grande preoccupazione e va affronta",
       "publishedAt": "2026-11-07T00:00:00Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Visita del Presidente Meloni alla 128ª edizione di Fieracavalli",
-      "url": "https://www.governo.it/it/articolo/visita-del-presidente-meloni-alla-128-edizione-di-fieracavalli/33049",
-      "excerpt": "Il Presidente del Consiglio, Giorgia Meloni, ha visitato a Verona la 128ª edizione di Fieracavalli.",
-      "publishedAt": "2026-11-06T00:00:00Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -100,5 +100,5 @@
     }
   ],
   "message": "Feed dichiarato dalla fonte; date di pubblicazione verificate.",
-  "durationSeconds": 30.12
+  "durationSeconds": 30.11
 }

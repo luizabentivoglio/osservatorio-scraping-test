@@ -4,52 +4,52 @@
   "sourceId": "camera",
   "originUrl": "https://www.camera.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-10T15:16:22.102037Z",
+  "collectedAt": "2026-11-10T23:45:13.269236Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
-      "title": "Decreto circolazione veicoli diesel Euro 5",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63971",
-      "excerpt": "In Aula, dalle ore 14, prosegue l'esame dei seguenti provvedimenti: Conversione in legge del decreto...",
-      "publishedAt": "2026-11-09T00:00:00Z",
+      "title": "Dalle politiche al sistema - Costruire risposte integrate per giovani, lavoro e sviluppo - Mercoledì alle 10 diretta webtv - Saluto di Mulè",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63979",
+      "excerpt": "Mercoledì 11 novembre, alle ore 10, presso l'Aula dei Gruppi parlamentari della Camera si svolge il...",
+      "publishedAt": "2026-11-10T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "Femminicidio, audizioni",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63931",
-      "excerpt": "Martedì 10 novembre, presso l'Aula del I piano di Palazzo San Macuto, la Commissione parlamentare d...",
-      "publishedAt": "2026-11-09T00:00:00Z",
+      "title": "Salvare vite - Mercoledì alle 11 diretta webtv - Interviene Trancassini",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63981",
+      "excerpt": "Mercoledì 11 novembre, alle ore 11, presso la Sala della Regina di Montecitorio si svolge la presen...",
+      "publishedAt": "2026-11-10T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "Salute bene da difendere - Diritto da promuovere - Cancer policy forum - Saluto di Mulè",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63932",
-      "excerpt": "Martedì 10 novembre, alle ore 10, presso la Sala della Regina di Montecitorio si è svolto il conv...",
-      "publishedAt": "2026-11-09T00:00:00Z",
+      "title": "Lavoro, interrogazioni a risposta immediata – Ministero del Lavoro e delle Politiche sociali – Mercoledì alle 14 diretta webtv",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63982",
+      "excerpt": "Mercoledì 11 novembre, alle ore 14, la Commissione Lavoro svolge interrogazioni a risposta immediat...",
+      "publishedAt": "2026-11-10T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "Audizioni Commissione David Rossi",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63933",
-      "excerpt": "Martedì 10 novembre, alle ore 10.30, presso l’aula del II piano di Palazzo San Macuto, la Commiss...",
-      "publishedAt": "2026-11-09T00:00:00Z",
+      "title": "Periferie, audizione Russo, coordinatrice Garanti dei detenuti – Mercoledì alle 15 diretta webtv",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63983",
+      "excerpt": "Mercoledì 11 novembre, alle ore 15, presso l’aula del IV piano di Palazzo San Macuto, la Commissi...",
+      "publishedAt": "2026-11-10T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "Audizioni su decreto sicurezza - Martedì dalle 12 e mercoledì dalle 9.15 diretta webtv",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63934",
-      "excerpt": "Martedì 10 novembre, la Commissione Giustizia della Camera ha svolto le seguenti audizioni nell’a...",
-      "publishedAt": "2026-11-09T00:00:00Z",
+      "title": "Rapporto 2026 – Verso la competitività sostenibile - Mercoledì alle 15 diretta webtv",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63984",
+      "excerpt": "Mercoledì 11 novembre, alle ore 15, presso la Sala della Regina di Montecitorio si svolge il conveg...",
+      "publishedAt": "2026-11-10T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "Transizione demografica, audizione Giulia Marchese, GEEN.AI",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63935",
-      "excerpt": "Martedì 10 novembre, alle ore 12, presso l’aula del IV piano di Palazzo San Macuto, la Commission...",
-      "publishedAt": "2026-11-09T00:00:00Z",
+      "title": "Audizione Federazione Esuli Istriani, Fiumani e Dalmati",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63985",
+      "excerpt": "Mercoledì 11 novembre, alle ore 15.45, la Commissione Esteri della Camera ha svolto l’audizione d...",
+      "publishedAt": "2026-11-10T00:00:00Z",
       "dateEvidence": "html:publication-label"
     }
   ],
@@ -63,27 +63,27 @@
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63971",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63979",
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63931",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63981",
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63932",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63982",
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63933",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63983",
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63934",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63984",
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63935",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63985",
       "status": 200
     }
   ],
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://comunicazione.camera.it/archivio-prima-pagina",
-  "durationSeconds": 4.24
+  "durationSeconds": 4.43
 }
