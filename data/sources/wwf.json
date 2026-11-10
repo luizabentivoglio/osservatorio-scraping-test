@@ -4,12 +4,33 @@
   "sourceId": "wwf",
   "originUrl": "https://www.wwf.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-10T04:22:59.126420Z",
+  "collectedAt": "2026-11-10T15:17:36.331179Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "La legge di bilancio non fa gli interessi della natura e delle persone",
+      "url": "https://www.wwf.it/pandanews/societa/politica/la-legge-di-bilancio-non-fa-gli-interessi-della-natura-e-delle-persone/",
+      "excerpt": "Il WWF propone fondi per ripristino natura, aree protette, decarbonizzazione e adattamento, transizione agroecologica dell'agricoltura",
+      "publishedAt": "2026-11-10T14:29:44Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "Saline di Trapani protagoniste del podcast WWF Viaggio in Oasi",
+      "url": "https://www.wwf.it/pandanews/wwf-life/saline-trapani-protagoniste-podcast/",
+      "excerpt": "Le Saline si caratterizzano per il felice connubio tra produzione del sale marino con metodi tradizionali e tutela della biodiversità",
+      "publishedAt": "2026-11-10T09:31:39Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "Mediterraneo: WWF e Guardia Costiera rinnovano l’alleanza per difendere biodiversità e legalità",
+      "url": "https://www.wwf.it/pandanews/wwf-life/mediterraneo-wwf-e-guardia-costiera-rinnovano-lalleanza-per-difendere-biodiversita-e-legalita/",
+      "excerpt": "Firmato il nuovo accordo triennale per rafforzare la tutela delle specie marine, promuovere una pesca sostenibile e contrastare gli illeciti",
+      "publishedAt": "2026-11-10T09:09:41Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
     {
       "title": "Premiati i vincitori dei concorsi per i 60 anni WWF",
       "url": "https://www.wwf.it/pandanews/ambiente/premiati-i-vincitori-dei-concorsi-per-i-60-anni-wwf/",
@@ -30,27 +51,6 @@
       "excerpt": "La COP31 deve trasformare le promesse in cambiamenti tangibili e continuare a portare avanti l’azione per il clima",
       "publishedAt": "2026-11-06T11:07:02Z",
       "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "I cittadini europei e italiani contro la deregulation UE sui pesticidi",
-      "url": "https://www.wwf.it/pandanews/ambiente/i-cittadini-europei-e-italiani-contro-la-deregulation-ue-sui-pesticidi/",
-      "excerpt": "Appello di PanEUROPE, Lipu, Greenpeace e WWF agli Eurodeputati: «Bocciate la proposta Omnibus»",
-      "publishedAt": "2026-11-05T10:23:50Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Il 21 e 22 novembre su tutto il territorio nazionale l’iniziativa “Incontri con il lupo”",
-      "url": "https://www.wwf.it/pandanews/ambiente/il-21-e-22-novembre-su-tutto-il-territorio-nazionale-liniziativa-incontri-con-il-lupo/",
-      "excerpt": "Il WWF punta a promuovere una conoscenza della specie basata su dati scientifici, dialogo e partecipazione dei cittadini",
-      "publishedAt": "2026-11-05T10:00:00Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "DoDo al fianco del WWF Italia per il leopardo delle nevi",
-      "url": "https://www.wwf.it/pandanews/ambiente/dodo-al-fianco-del-wwf-italia-per-il-leopardo-delle-nevi/",
-      "excerpt": "Presentato al pubblico il nuovo charm ispirato al “fantasma delle montagne” per sensibilizzare sulle specie a rischio",
-      "publishedAt": "2026-11-04T13:00:00Z",
-      "dateEvidence": "jsonld:datePublished"
     }
   ],
   "attempts": [
@@ -60,6 +60,18 @@
     },
     {
       "url": "https://www.wwf.it/",
+      "status": 200
+    },
+    {
+      "url": "https://www.wwf.it/pandanews/societa/politica/la-legge-di-bilancio-non-fa-gli-interessi-della-natura-e-delle-persone/",
+      "status": 200
+    },
+    {
+      "url": "https://www.wwf.it/pandanews/wwf-life/saline-trapani-protagoniste-podcast/",
+      "status": 200
+    },
+    {
+      "url": "https://www.wwf.it/pandanews/wwf-life/mediterraneo-wwf-e-guardia-costiera-rinnovano-lalleanza-per-difendere-biodiversita-e-legalita/",
       "status": 200
     },
     {
@@ -73,18 +85,6 @@
     {
       "url": "https://www.wwf.it/pandanews/clima/cop31-la-crisi-climatica-accelera-il-mondo-non-puo-permettersi-di-arretrare/",
       "status": 200
-    },
-    {
-      "url": "https://www.wwf.it/pandanews/ambiente/i-cittadini-europei-e-italiani-contro-la-deregulation-ue-sui-pesticidi/",
-      "status": 200
-    },
-    {
-      "url": "https://www.wwf.it/pandanews/ambiente/il-21-e-22-novembre-su-tutto-il-territorio-nazionale-liniziativa-incontri-con-il-lupo/",
-      "status": 200
-    },
-    {
-      "url": "https://www.wwf.it/pandanews/ambiente/dodo-al-fianco-del-wwf-italia-per-il-leopardo-delle-nevi/",
-      "status": 200
     }
   ],
   "message": "6 notizie recenti con data verificata; copertura parziale.",
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.wwf.it/",
-  "durationSeconds": 4.57
+  "durationSeconds": 4.08
 }

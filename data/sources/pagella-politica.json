@@ -4,12 +4,40 @@
   "sourceId": "pagella-politica",
   "originUrl": "https://pagellapolitica.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-10T04:22:34.387491Z",
+  "collectedAt": "2026-11-10T15:17:15.849374Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "Bonaccini ha pubblicato una foto falsa di Tajani con il cappellino MAGA",
+      "url": "https://pagellapolitica.it/articoli/bonaccini-foto-falsa-tajani-maga",
+      "excerpt": "Dopo le proteste di Forza Italia il presidente del PD ha rimosso l’immagine. Il suo partito però si era impegnato a...",
+      "publishedAt": "2026-11-09T00:00:00Z",
+      "dateEvidence": "html:post-date"
+    },
+    {
+      "title": "Che cosa ha deciso la Corte costituzionale su Giusi Bartolozzi",
+      "url": "https://pagellapolitica.it/articoli/corte-costituzionale-giusi-bartolozzi",
+      "excerpt": "È stato accolto solo in parte il conflitto di attribuzione sollevato dalla Camera, e ora l’ex capa di gabinetto di...",
+      "publishedAt": "2026-11-09T00:00:00Z",
+      "dateEvidence": "html:post-date"
+    },
+    {
+      "title": "Come funziona il voto fuorisede, e quali sono le scadenze da rispettare",
+      "url": "https://pagellapolitica.it/articoli/voto-fuorisede-scadenze-procedura",
+      "excerpt": "La possibilità è stata introdotta dalla nuova legge elettorale, c’è tempo fino al 31 dicembre 2026 per presentare i...",
+      "publishedAt": "2026-11-09T00:00:00Z",
+      "dateEvidence": "html:post-date"
+    },
+    {
+      "title": "Il fact-checking di Schlein e Conte a Piazzapulita",
+      "url": "https://pagellapolitica.it/articoli/fact-checking-schlein-conte-piazzapulita",
+      "excerpt": "Dal costo delle bollette ai decreti “Sicurezza” del governo Meloni, abbiamo verificato sette dichiarazioni dei due...",
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "dateEvidence": "html:post-date"
+    },
     {
       "title": "Che cosa sta succedendo sulla legge sul fine vita del Veneto",
       "url": "https://pagellapolitica.it/articoli/fine-vita-veneto-governo-meloni",
@@ -23,34 +51,6 @@
       "excerpt": "Il numero medio di alunni per classe è sotto la media OCSE ed è diminuito negli anni. Ma ci sono ancora differenze...",
       "publishedAt": "2026-11-06T00:00:00Z",
       "dateEvidence": "html:post-date"
-    },
-    {
-      "title": "Il vecchio Salvini se la prenderebbe con Meloni per le tasse sulle sigarette elettroniche",
-      "url": "https://pagellapolitica.it/articoli/salvini-sigarette-elettroniche-meloni",
-      "excerpt": "Anni fa il leader della Lega prometteva addirittura di azzerarle, mentre ora il governo che sostiene vuole...",
-      "publishedAt": "2026-11-06T00:00:00Z",
-      "dateEvidence": "html:post-date"
-    },
-    {
-      "title": "I tagli al personale scolastico hanno una lunga storia in Italia",
-      "url": "https://pagellapolitica.it/articoli/tagli-scuola-legge-di-bilancio",
-      "excerpt": "La nuova legge di Bilancio prevede tagli agli organici scolastici. Negli ultimi trent’anni, però, governi di...",
-      "publishedAt": "2026-11-05T00:00:00Z",
-      "dateEvidence": "html:post-date"
-    },
-    {
-      "title": "La sconfitta di Trump alle midterm mette alla prova la destra italiana",
-      "url": "https://pagellapolitica.it/articoli/sconfitta-trump-midterm-destra-italiana",
-      "excerpt": "Dalle cautele di Meloni alle dichiarazioni di Salvini e Tajani, fino agli attacchi di Vannacci, abbiamo raccolto le...",
-      "publishedAt": "2026-11-05T00:00:00Z",
-      "dateEvidence": "html:post-date"
-    },
-    {
-      "title": "Conte non la racconta tutta sullo stop all’export di armi verso i Paesi arabi",
-      "url": "https://pagellapolitica.it/articoli/conte-stop-export-armi-paesi-arabi",
-      "excerpt": "Al contrario di quanto ha sostenuto il presidente del Movimento 5 Stelle, durante i suoi governi sono state...",
-      "publishedAt": "2026-11-05T00:00:00Z",
-      "dateEvidence": "html:post-date"
     }
   ],
   "attempts": [
@@ -63,27 +63,27 @@
       "status": 200
     },
     {
+      "url": "https://pagellapolitica.it/articoli/bonaccini-foto-falsa-tajani-maga",
+      "status": 200
+    },
+    {
+      "url": "https://pagellapolitica.it/articoli/corte-costituzionale-giusi-bartolozzi",
+      "status": 200
+    },
+    {
+      "url": "https://pagellapolitica.it/articoli/voto-fuorisede-scadenze-procedura",
+      "status": 200
+    },
+    {
+      "url": "https://pagellapolitica.it/articoli/fact-checking-schlein-conte-piazzapulita",
+      "status": 200
+    },
+    {
       "url": "https://pagellapolitica.it/articoli/fine-vita-veneto-governo-meloni",
       "status": 200
     },
     {
       "url": "https://pagellapolitica.it/articoli/italia-problema-classi-pollaio",
-      "status": 200
-    },
-    {
-      "url": "https://pagellapolitica.it/articoli/salvini-sigarette-elettroniche-meloni",
-      "status": 200
-    },
-    {
-      "url": "https://pagellapolitica.it/articoli/tagli-scuola-legge-di-bilancio",
-      "status": 200
-    },
-    {
-      "url": "https://pagellapolitica.it/articoli/sconfitta-trump-midterm-destra-italiana",
-      "status": 200
-    },
-    {
-      "url": "https://pagellapolitica.it/articoli/conte-stop-export-armi-paesi-arabi",
       "status": 200
     }
   ],
@@ -92,5 +92,5 @@
   "candidateCount": 6,
   "datedCount": 6,
   "listingUrl": "https://pagellapolitica.it/articoli",
-  "durationSeconds": 6.52
+  "durationSeconds": 9.73
 }

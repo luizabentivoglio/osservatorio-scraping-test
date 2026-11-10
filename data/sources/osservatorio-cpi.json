@@ -4,12 +4,19 @@
   "sourceId": "osservatorio-cpi",
   "originUrl": "https://osservatoriocpi.unicatt.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-10T04:22:27.509085Z",
+  "collectedAt": "2026-11-10T15:17:11.604756Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "Le differenze territoriali nell’istruzione, seppur ancora presenti, si sono ridotte negli anni",
+      "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/le-differenze-territoriali-nell-istruzione-seppur-ancora-presenti-si-sono-ridotte-negli-anni.html",
+      "excerpt": "Il Rapporto sul benessere equo e sostenibile dell’Istat permette di valutare se il divario tra macroaree nel livello di benessere si stia riducendo. Per l’istruzione, il divario territoriale si è ridotto per 7 indicatori su 14 tra il 2005 e il 2025 e per 10 dal 2020. Il calo è dovuto soprattutto a una riduzione delle d",
+      "publishedAt": "2026-11-10T00:00:00Z",
+      "dateEvidence": "html:article-header"
+    },
     {
       "title": "L’ulteriore espansione del regime forfettario a 100.000 euro",
       "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/l-ulteriore-espansione-del-regime-forfettario-a-100000-euro.html",
@@ -44,13 +51,6 @@
       "excerpt": "Il disegno di Legge di Bilancio per il 2027 prevede un “Fondo Valore nuovi nati”, nel quale lo Stato verserà 100 euro all’anno fino al compimento dei 18 anni. Misure simili non sono nuove, ma non sono molto diffuse nel mondo. In Italia il fondo sarà aperto a tutti e arriverà a costare 630 milioni all’anno.",
       "publishedAt": "2026-10-30T00:00:00Z",
       "dateEvidence": "html:article-header"
-    },
-    {
-      "title": "Rapporto PISA 2025: la scuola italiana va meglio della media OCSE, ma restano forti divari interni",
-      "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/rapporto-pisa-2025-la-scuola-italiana-va-meglio-della-media-ocse-ma-restano-forti-divari-interni.html",
-      "excerpt": "I risultati dei test PISA 2025 confermano il calo delle competenze degli studenti nei Paesi OCSE. In Italia, il dato nazionale nasconde realtà molto diverse: persistono forti divari territoriali e tra indirizzi scolastici, legati anche alle condizioni economiche e sociali delle famiglie.",
-      "publishedAt": "2026-10-28T00:00:00Z",
-      "dateEvidence": "html:article-header"
     }
   ],
   "attempts": [
@@ -60,6 +60,10 @@
     },
     {
       "url": "https://osservatoriocpi.unicatt.it/pubblicazioni.html",
+      "status": 200
+    },
+    {
+      "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/le-differenze-territoriali-nell-istruzione-seppur-ancora-presenti-si-sono-ridotte-negli-anni.html",
       "status": 200
     },
     {
@@ -81,10 +85,6 @@
     {
       "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/100-euro-all-anno-per-i-nuovi-nati-in-quali-altri-stati-e-stato-fatto.html",
       "status": 200
-    },
-    {
-      "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/rapporto-pisa-2025-la-scuola-italiana-va-meglio-della-media-ocse-ma-restano-forti-divari-interni.html",
-      "status": 200
     }
   ],
   "message": "6 notizie recenti con data verificata; copertura parziale.",
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://osservatoriocpi.unicatt.it/pubblicazioni.html",
-  "durationSeconds": 7.61
+  "durationSeconds": 6.16
 }

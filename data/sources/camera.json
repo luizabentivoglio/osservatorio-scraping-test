@@ -4,51 +4,51 @@
   "sourceId": "camera",
   "originUrl": "https://www.camera.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-10T04:21:39.416577Z",
+  "collectedAt": "2026-11-10T15:16:22.102037Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
-      "title": "Femminicidio, martedì dalle 10 audizioni in diretta webtv",
+      "title": "Decreto circolazione veicoli diesel Euro 5",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63971",
+      "excerpt": "In Aula, dalle ore 14, prosegue l'esame dei seguenti provvedimenti: Conversione in legge del decreto...",
+      "publishedAt": "2026-11-09T00:00:00Z",
+      "dateEvidence": "html:publication-label"
+    },
+    {
+      "title": "Femminicidio, audizioni",
       "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63931",
       "excerpt": "Martedì 10 novembre, presso l'Aula del I piano di Palazzo San Macuto, la Commissione parlamentare d...",
       "publishedAt": "2026-11-09T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "Salute bene da difendere - Diritto da promuovere - Cancer policy forum - Martedì alle 10 diretta webtv - Saluto di Mulè",
+      "title": "Salute bene da difendere - Diritto da promuovere - Cancer policy forum - Saluto di Mulè",
       "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63932",
-      "excerpt": "Martedì 10 novembre, alle ore 10, presso la Sala della Regina di Montecitorio si svolge il convegno...",
+      "excerpt": "Martedì 10 novembre, alle ore 10, presso la Sala della Regina di Montecitorio si è svolto il conv...",
       "publishedAt": "2026-11-09T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "Audizioni Commissione David Rossi – Martedì alle 10.30 diretta webtv",
+      "title": "Audizioni Commissione David Rossi",
       "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63933",
       "excerpt": "Martedì 10 novembre, alle ore 10.30, presso l’aula del II piano di Palazzo San Macuto, la Commiss...",
       "publishedAt": "2026-11-09T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "Audizioni su decreto sicurezza - Martedì dalle 12 diretta webtv",
+      "title": "Audizioni su decreto sicurezza - Martedì dalle 12 e mercoledì dalle 9.15 diretta webtv",
       "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63934",
-      "excerpt": "Martedì 10 novembre, la Commissione Giustizia della Camera svolge le seguenti audizioni nell’ambi...",
+      "excerpt": "Martedì 10 novembre, la Commissione Giustizia della Camera ha svolto le seguenti audizioni nell’a...",
       "publishedAt": "2026-11-09T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "Transizione demografica, audizione Giulia Marchese, GEEN.AI – Martedì alle 12 diretta webtv",
+      "title": "Transizione demografica, audizione Giulia Marchese, GEEN.AI",
       "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63935",
       "excerpt": "Martedì 10 novembre, alle ore 12, presso l’aula del IV piano di Palazzo San Macuto, la Commission...",
-      "publishedAt": "2026-11-09T00:00:00Z",
-      "dateEvidence": "html:publication-label"
-    },
-    {
-      "title": "Forteto, audizione martedì in diretta webtv",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63936",
-      "excerpt": "Martedì 10 novembre, alle ore 12, presso l'Aula del III piano di Palazzo San Macuto, la Commissione...",
       "publishedAt": "2026-11-09T00:00:00Z",
       "dateEvidence": "html:publication-label"
     }
@@ -63,6 +63,10 @@
       "status": 200
     },
     {
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63971",
+      "status": 200
+    },
+    {
       "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63931",
       "status": 200
     },
@@ -81,10 +85,6 @@
     {
       "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63935",
       "status": 200
-    },
-    {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63936",
-      "status": 200
     }
   ],
   "message": "6 notizie recenti con data verificata; copertura parziale.",
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://comunicazione.camera.it/archivio-prima-pagina",
-  "durationSeconds": 4.1
+  "durationSeconds": 4.24
 }

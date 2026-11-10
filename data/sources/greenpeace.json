@@ -4,12 +4,19 @@
   "sourceId": "greenpeace",
   "originUrl": "https://www.greenpeace.org/italy/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-10T04:22:10.627190Z",
+  "collectedAt": "2026-11-10T15:16:53.901657Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "Google ha abbattuto 400mila alberi in Finlandia per costruire due data center - Greenpeace Italia",
+      "url": "https://www.greenpeace.org/italy/storia/32167/google-ha-abbattuto-400mila-alberi-in-finlandia-per-costruire-due-data-center/",
+      "excerpt": "In Finlandia Google ha abbattuto 400mila alberi per fare spazio a due data center. E c’è di più: non aveva neanche i permessi per farlo.",
+      "publishedAt": "2026-11-06T09:25:48Z",
+      "dateEvidence": "html:publication-time"
+    },
     {
       "title": "Il DDL Caccia andrà al voto il 27 novembre - Greenpeace Italia",
       "url": "https://www.greenpeace.org/italy/storia/32098/il-ddl-caccia-andra-al-voto-il-27-novembre-dobbiamo-fermarlo/",
@@ -28,6 +35,10 @@
       "status": 200
     },
     {
+      "url": "https://www.greenpeace.org/italy/storia/32167/google-ha-abbattuto-400mila-alberi-in-finlandia-per-costruire-due-data-center/",
+      "status": 200
+    },
+    {
       "url": "https://www.greenpeace.org/italy/storia/25276/regali-solidali-natale/",
       "status": 200
     },
@@ -37,10 +48,6 @@
     },
     {
       "url": "https://www.greenpeace.org/italy/storia/32061/gaza-voci-di-resistenza-contro-il-genocidio-l-occupazione-e-la-colonizzazione/",
-      "status": 200
-    },
-    {
-      "url": "https://www.greenpeace.org/italy/storia/31989/ikea-si-rifornisce-da-chi-distrugge-le-foreste/",
       "status": 200
     },
     {
@@ -60,7 +67,7 @@
       "status": 200
     }
   ],
-  "message": "1 notizie recenti con data verificata; copertura parziale.",
+  "message": "2 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [
     {
       "url": "https://www.greenpeace.org/italy/cosa-puoi-fare-tu/firma-le-petizioni/",

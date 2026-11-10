@@ -4,7 +4,7 @@
   "sourceId": "quirinale",
   "originUrl": "https://www.quirinale.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-10T04:22:48.129659Z",
+  "collectedAt": "2026-11-10T15:17:26.510394Z",
   "status": "blocked",
   "diagnosticCode": "access_restricted",
   "method": "html",
@@ -17,6 +17,10 @@
     },
     {
       "url": "https://www.quirinale.it/",
+      "status": 200
+    },
+    {
+      "url": "https://www.quirinale.it/it/notizie/presidente-mattarella-presentazione-rapporto-svimez-2026",
       "status": 200
     },
     {
@@ -36,27 +40,30 @@
       "status": 200
     },
     {
-      "url": "https://www.quirinale.it/it/notizie/60-anni-alluvione-firenze-mattarella-interviene-cerimonia",
-      "status": 200
-    },
-    {
       "url": "https://www.quirinale.it/it/notizie/nostra-repubblica-compie-ottant-anni-1",
-      "status": 200
-    },
-    {
-      "url": "https://www.quirinale.it/it/notizie/mattarella-incontra-presidente-repubblica-albania-delegazione-comuni-tradizione-arbereshe",
-      "status": 200
-    },
-    {
-      "url": "https://www.quirinale.it/it/notizie/presidente-mattarella-ha-ricevuto-delegazione-fondazione-nizami-ganjavi",
       "status": 200
     }
   ],
-  "message": "Browser HTTP 403",
+  "message": "Verifica interattiva richiesta",
   "candidateSamples": [
     {
+      "url": "https://www.quirinale.it/it/notizie/presidente-mattarella-presentazione-rapporto-svimez-2026",
+      "title": "Il Presidente Mattarella alla presentazione del Rapporto Svimez 2026 Il Presidente della Repubblica, Sergio Mattarella, ha partecipato alla presentazione del Rapporto Svimez 2026 – L’economia e la società del Mezzogiorno “Il valore della coesione”, nella Nuova Aula del Palazzo dei Gruppi Parlamentar",
+      "h1": "Il Presidente Mattarella alla presentazione del Rapporto Svimez 2026",
+      "dates": [
+        {
+          "tag": "p",
+          "class": [
+            "date-label"
+          ],
+          "text": "Roma, 10/11/2026 (II mandato)",
+          "datetime": null
+        }
+      ]
+    },
+    {
       "url": "https://www.quirinale.it/it/notizie/mattarella-incontra-presidente-repubblica-albania-delegazione-comuni-tradizione-arbereshe",
-      "title": "Mattarella incontra il Presidente della Repubblica di Albania e una delegazione dei Comuni di tradizione arbëreshë Il Presidente della Repubblica, Sergio Mattarella, ha ricevuto al Quirinale il Presidente della Repubblica d’Albania, Bajram Begaj. I due Capi di Stato hanno incontrato una delegazione ",
+      "title": "Il Presidente della Repubblica Sergio Mattarella rivolge il suo indirizzo di saluto in occasione dell'incontro con una delegazione di sindaci dei comuni italiani nei cui territori sono presenti comunità arbëreshë",
       "h1": "Mattarella incontra il Presidente della Repubblica di Albania e una delegazione dei Comuni di tradizione arbëreshë",
       "dates": [
         {
@@ -291,29 +298,6 @@
       ]
     },
     {
-      "url": "https://www.quirinale.it/it/notizie/60-anni-alluvione-firenze-mattarella-interviene-cerimonia",
-      "title": "Il Presidente della Repubblica Sergio Mattarella in occasione della celebrazione del 60° anniversario dell'alluvione di Firenze",
-      "h1": "60 anni dall'alluvione di Firenze: Mattarella interviene alla cerimonia",
-      "dates": [
-        {
-          "tag": "span",
-          "class": [
-            "data-luogo"
-          ],
-          "text": "Firenze, 04/11/2026",
-          "datetime": null
-        },
-        {
-          "tag": "p",
-          "class": [
-            "date-label"
-          ],
-          "text": "Firenze, 04/11/2026 (II mandato)",
-          "datetime": null
-        }
-      ]
-    },
-    {
       "url": "https://www.quirinale.it/it/notizie/nostra-repubblica-compie-ottant-anni-1",
       "title": "I Volti della Repubblica",
       "h1": "La nostra Repubblica compie Ottant’anni",
@@ -332,5 +316,5 @@
   "candidateCount": 12,
   "datedCount": 0,
   "listingUrl": "https://www.quirinale.it/",
-  "durationSeconds": 4.17
+  "durationSeconds": 4.25
 }

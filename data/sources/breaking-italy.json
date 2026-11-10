@@ -4,17 +4,17 @@
   "sourceId": "breaking-italy",
   "originUrl": "https://breakingitaly.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-10T04:21:38.309768Z",
+  "collectedAt": "2026-11-10T15:16:21.290567Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
-      "title": "L’incarico di formare il nuovo governo di Israele è stato conferito a Gadi Eisenkot",
-      "url": "https://breakingitaly.it/newsletter/lincarico-di-formare-il-nuovo-governo-di-israele-e-stato-conferito-a-gadi-eisenkot",
-      "excerpt": "L’incarico di formare il nuovo governo di Israele è stato conferito a Gadi Eisenkot",
-      "publishedAt": "2026-11-09T00:00:00Z",
+      "title": "È stato chiesto l'impeachment per il segretario statunitense alla Difesa Pete Hegseth",
+      "url": "https://breakingitaly.it/newsletter/e-stato-chiesto-limpeachment-per-il-segretario-statunitense-alla-difesa-pete-hegseth",
+      "excerpt": "È stato chiesto l'impeachment per il segretario statunitense alla Difesa Pete Hegseth",
+      "publishedAt": "2026-11-10T00:00:00Z",
       "dateEvidence": "html:newsletter-publication"
     }
   ],
@@ -32,7 +32,7 @@
       "status": 200
     },
     {
-      "url": "https://breakingitaly.it/newsletter/lincarico-di-formare-il-nuovo-governo-di-israele-e-stato-conferito-a-gadi-eisenkot",
+      "url": "https://breakingitaly.it/newsletter/e-stato-chiesto-limpeachment-per-il-segretario-statunitense-alla-difesa-pete-hegseth",
       "status": 200
     },
     {
@@ -96,5 +96,5 @@
   "candidateCount": 12,
   "datedCount": 1,
   "listingUrl": "https://breakingitaly.it/",
-  "durationSeconds": 5.43
+  "durationSeconds": 5.31
 }

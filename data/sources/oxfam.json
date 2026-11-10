@@ -4,7 +4,7 @@
   "sourceId": "oxfam",
   "originUrl": "https://www.oxfamitalia.org/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-10T04:22:30.080653Z",
+  "collectedAt": "2026-11-10T15:17:12.600540Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -36,13 +36,6 @@
       "url": "https://www.oxfamitalia.org/gaza-la-storia-di-bilal-sopravvivere-senza-poter-tornare-a-vivere/",
       "excerpt": "A Gaza, scarsità di contanti, banconote danneggiate e difficoltà nei pagamenti rendono ancora più difficile la vita delle famiglie sfollate.",
       "publishedAt": "2026-10-30T07:00:17Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "I SUPER-RICCHI SONO ANCORA PIÙ RICCHI GRAZIE ALLA CRISI CLIMATICA",
-      "url": "https://www.oxfamitalia.org/i-super-ricchi-sono-ancora-piu-ricchi-grazie-alla-crisi-climatica/",
-      "excerpt": "Chi inquina meno paga il prezzo più alto, mentre chi inquina di più può proteggersi e persino guadagnare dalla crisi climatica",
-      "publishedAt": "2026-10-27T08:32:12Z",
       "dateEvidence": "jsonld:datePublished"
     }
   ],
@@ -80,10 +73,10 @@
       "status": 200
     }
   ],
-  "message": "5 notizie recenti con data verificata; copertura parziale.",
+  "message": "4 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [],
   "candidateCount": 8,
   "datedCount": 6,
   "listingUrl": "https://www.oxfamitalia.org/news/",
-  "durationSeconds": 4.3
+  "durationSeconds": 4.17
 }

@@ -4,38 +4,38 @@
   "sourceId": "il-post",
   "originUrl": "https://www.ilpost.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-10T04:22:16.334830Z",
+  "collectedAt": "2026-11-10T15:16:59.694888Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
-      "title": "È stato arrestato il fratello dell’ex primo ministro ungherese Viktor Orbán, con accuse di tratta di esseri umani",
-      "url": "https://www.ilpost.it/2026/11/09/fratello-viktor-orban-arresto/?bitPosition=1",
-      "excerpt": "È stato arrestato il fratello dell’ex primo ministro ungherese Viktor Orbán, con accuse di tratta di esseri umani - Condividi - X - Regala il Post È stato arrestato in Ungheria Áron Orbán, fratello dell’ex primo ministro ungherese Viktor Orbán. La polizia non ha reso noti i nomi degli arrestati, che in tutto sono quatt",
-      "publishedAt": "2026-11-09T21:47:42Z",
+      "title": "In Bulgaria almeno 11 persone sono morte in due incidenti stradali che hanno coinvolto più di 70 veicoli",
+      "url": "https://www.ilpost.it/2026/11/10/bulgaria-incidente-decine-auto-coinvolte/?bitPosition=1",
+      "excerpt": "In Bulgaria almeno 11 persone sono morte in due incidenti stradali che hanno coinvolto più di 70 veicoli In Bulgaria almeno 11 persone sono morte e più di 40 sono state ferite in due incidenti stradali che hanno coinvolto decine di veicoli. Secondo Mihail Kasherov, governatore di Sliven, che si trova a pochi chilometri",
+      "publishedAt": "2026-11-10T12:42:55Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "Negli Stati Uniti un deputato Repubblicano ha avviato una procedura di impeachment contro il segretario alla Difesa Pete Hegseth",
-      "url": "https://www.ilpost.it/2026/11/09/impeachment-hegseth-massie/?bitPosition=2",
-      "excerpt": "Negli Stati Uniti un deputato Repubblicano ha avviato una procedura di impeachment contro il segretario alla Difesa Pete Hegseth - Condividi - X - Regala il Post Il deputato Repubblicano del Kentucky Thomas Massie ha avviato una procedura di impeachment contro il segretario alla Difesa Pete Hegseth. Lo accusa di aver v",
-      "publishedAt": "2026-11-09T20:52:37Z",
+      "title": "È stata chiesta l’archiviazione per Beppe Sala e i principali indagati nell’inchiesta sull’urbanistica a Milano",
+      "url": "https://www.ilpost.it/2026/11/10/inchiesta-urbanistica-milano-procura-chiede-archiviazione-sala-tancredi-boeri/?homepagePosition=0",
+      "excerpt": "Dopo più di un anno la procura ritiene che non ci siano gli elementi per dimostrare il vasto sistema corruttivo ipotizzato",
+      "publishedAt": "2026-11-10T12:25:36Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "Il governo ha approvato una piccola riduzione al prezzo dell’energia elettrica",
-      "url": "https://www.ilpost.it/2026/11/09/decreto-bollette-governo-tetto-gas/?homepagePosition=0",
-      "excerpt": "Il ministro dell'Ambiente Pichetto Fratin ha detto che con il decreto bollette le famiglie risparmieranno circa 30 euro all'anno",
-      "publishedAt": "2026-11-09T17:30:45Z",
+      "title": "262 persone sono state arrestate in vari paesi in un’operazione contro la tratta di migranti coordinata dall’Interpol",
+      "url": "https://www.ilpost.it/2026/11/10/interpol-arresti-262-traffico-migranti-tratta-essere-umani/?bitPosition=2",
+      "excerpt": "262 persone sono state arrestate in vari paesi in un’operazione contro la tratta di migranti coordinata dall’Interpol L’Interpol ha annunciato di aver coordinato una vasta operazione contro le organizzazioni criminali che gestiscono la tratta di migranti nel Mediterraneo e lungo la rotta atlantica dell’Africa occidenta",
+      "publishedAt": "2026-11-10T10:50:46Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "Nvidia è crollata in borsa dopo la notizia della relazione tra il suo CEO e una presunta spia cinese",
-      "url": "https://www.ilpost.it/2026/11/09/nvidia-risultato-borsa-notizia-relazione-ceo-presunta-spia-cinese/?bitPosition=3",
-      "excerpt": "Nvidia è crollata in borsa dopo la notizia della relazione tra il suo CEO e una presunta spia cinese - Condividi - X - Regala il Post Alla chiusura di Wall Street di lunedì le azioni della società di microchip Nvidia avevano perso il 4,27 per cento del loro valore, quasi 8 dollari ad azione. Il calo è legato alla notiz",
-      "publishedAt": "2026-11-09T15:26:14Z",
+      "title": "Secondo il Wall Street Journal, gli Stati Uniti hanno trasferito alcuni aerei da una base britannica per una minaccia iraniana",
+      "url": "https://www.ilpost.it/2026/11/10/stati-uniti-aerei-evacuati-base-raf-mildenhall-regno-unito/?bitPosition=3",
+      "excerpt": "Secondo il Wall Street Journal, gli Stati Uniti hanno trasferito alcuni aerei da una base britannica per una minaccia iraniana Lunedì gli Stati Uniti hanno evacuato alcuni dei loro aerei da Mildenhall, una base dell’aeronautica militare britannica nel Suffolk, circa 110 chilometri a nord-est di Londra, utilizzata anche",
+      "publishedAt": "2026-11-10T10:48:09Z",
       "dateEvidence": "jsonld:datePublished"
     }
   ],
@@ -49,27 +49,27 @@
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/09/decreto-bollette-governo-tetto-gas/?homepagePosition=0",
+      "url": "https://www.ilpost.it/2026/11/10/inchiesta-urbanistica-milano-procura-chiede-archiviazione-sala-tancredi-boeri/?homepagePosition=0",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/10/01/bollette-gas-elettricita-inverno-rincari-crisi-energetica/?homepagePosition=0.1&referrerPost=3728991",
+      "url": "https://www.ilpost.it/2026/09/12/motivazioni-sentenza-assoluzione-processo-urbanistica-milano/?homepagePosition=0.1&referrerPost=3729563",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2022/11/07/mercato-energia-elettricita-gas-fornitore/?homepagePosition=0.2&referrerPost=3728991",
+      "url": "https://www.ilpost.it/2025/07/23/come-cambiata-milano-15-anni/?homepagePosition=0.2&referrerPost=3729563",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/09/fratello-viktor-orban-arresto/?bitPosition=1",
+      "url": "https://www.ilpost.it/2026/11/10/bulgaria-incidente-decine-auto-coinvolte/?bitPosition=1",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/09/impeachment-hegseth-massie/?bitPosition=2",
+      "url": "https://www.ilpost.it/2026/11/10/interpol-arresti-262-traffico-migranti-tratta-essere-umani/?bitPosition=2",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/09/nvidia-risultato-borsa-notizia-relazione-ceo-presunta-spia-cinese/?bitPosition=3",
+      "url": "https://www.ilpost.it/2026/11/10/stati-uniti-aerei-evacuati-base-raf-mildenhall-regno-unito/?bitPosition=3",
       "status": 200
     }
   ],
@@ -78,5 +78,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.ilpost.it/",
-  "durationSeconds": 3.53
+  "durationSeconds": 3.63
 }

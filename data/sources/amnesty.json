@@ -4,7 +4,7 @@
   "sourceId": "amnesty",
   "originUrl": "https://www.amnesty.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-10T04:21:37.798364Z",
+  "collectedAt": "2026-11-10T15:16:20.673071Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -42,15 +42,15 @@
       "status": 200
     },
     {
-      "url": "https://www.amnesty.it/appelli/egitto-lina-attalah-rischia-il-carcere/",
-      "status": 200
-    },
-    {
       "url": "https://www.amnesty.it/appelli/gaza-liberta-per-il-dottor-hussam-abu-safiya/",
       "status": 200
     },
     {
       "url": "https://www.amnesty.it/appelli/il-sesso-senza-consenso-e-stupro/",
+      "status": 200
+    },
+    {
+      "url": "https://www.amnesty.it/appelli/iran-ricercatore-universitario-rischia-la-pena-morte/",
       "status": 200
     },
     {
@@ -69,12 +69,6 @@
   "message": "3 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [
     {
-      "url": "https://www.amnesty.it/appelli/egitto-lina-attalah-rischia-il-carcere/",
-      "title": "Egitto: Lina Attalah rischia il carcere Firma ora",
-      "h1": "Egitto: Lina Attalah rischia il carcere",
-      "dates": []
-    },
-    {
       "url": "https://www.amnesty.it/appelli/gaza-liberta-per-il-dottor-hussam-abu-safiya/",
       "title": "Gaza: libertà per il dottor Hussam Abu Safiya Firma ora",
       "h1": "Gaza: libertà per il dottor Hussam Abu Safiya",
@@ -85,10 +79,16 @@
       "title": "Il sesso senza consenso è stupro! Firma ora",
       "h1": "Il sesso senza consenso è stupro!",
       "dates": []
+    },
+    {
+      "url": "https://www.amnesty.it/appelli/iran-ricercatore-universitario-rischia-la-pena-morte/",
+      "title": "Salviamo Ahmad dalla pena di morte Firma ora",
+      "h1": "Salviamo Ahmad dalla pena di morte",
+      "dates": []
     }
   ],
   "candidateCount": 12,
   "datedCount": 3,
   "listingUrl": "https://www.amnesty.it/",
-  "durationSeconds": 6.49
+  "durationSeconds": 5.97
 }

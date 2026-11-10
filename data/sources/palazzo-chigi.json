@@ -4,12 +4,26 @@
   "sourceId": "palazzo-chigi",
   "originUrl": "https://www.governo.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-10T04:22:35.122918Z",
+  "collectedAt": "2026-11-10T15:17:16.787876Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.governo.it/feed/rss",
   "items": [
+    {
+      "title": "XXII edizione del Premio Giacomo Matteotti, la cerimonia di premiazione",
+      "url": "https://www.governo.it/it/articolo/xxii-edizione-del-premio-giacomo-matteotti-la-cerimonia-di-premiazione/33074",
+      "excerpt": "Alla cerimonia hanno preso parte il Segretario generale della Presidenza del Consiglio e Presidente della Commissione esaminatrice, Carlo Deodato, i componenti della Commissione (Alberto Aghemo, Giovanni Belardelli, Ernesto Galli Della Loggia, Adriano Monti Buzzetti Colella, Tommaso Piffer e Gianpaolo Romanato), docent",
+      "publishedAt": "2026-11-10T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Statement on today's meeting in Abu Dhabi between the EU, France, Germany, Italy, United Kingdom, Ukraine, United States and NATO",
+      "url": "https://www.governo.it/it/articolo/statement-todays-meeting-abu-dhabi-between-eu-france-germany-italy-united-kingdom-ukraine",
+      "excerpt": "Dichiarazione sull’incontro odierno ad Abu Dhabi tra l’Unione europea, la Francia, la Germania, l’Italia, il Regno Unito, l’Ucraina, gli Stati Uniti e la NATO.",
+      "publishedAt": "2026-11-10T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "Comunicato stampa del Consiglio dei Ministri n. 197",
       "url": "https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-197/33070",
@@ -65,20 +79,6 @@
       "excerpt": "Il Presidente del Consiglio, Giorgia Meloni, ha visitato a Verona la 128ª edizione di Fieracavalli.",
       "publishedAt": "2026-11-06T00:00:00Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Il Presidente Meloni alla 83ª edizione di EICMA",
-      "url": "https://www.governo.it/it/articolo/il-presidente-meloni-alla-83-edizione-di-eicma/33047",
-      "excerpt": "Il Presidente Meloni questa mattina, a Milano, ha visitato l'83ª edizione dell'Esposizione Internazionale Ciclo Motociclo e Accessori (EICMA).",
-      "publishedAt": "2026-11-06T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Adozione delle Specifiche Tecniche del Sistema IT-Wallet",
-      "url": "https://www.governo.it/it/articolo/adozione-delle-specifiche-tecniche-del-sistema-it-wallet/33045",
-      "excerpt": "Decreto del Capo del Dipartimento per la trasformazione digitale del 24 settembre 2026 di adozione delle Specifiche Tecniche del Sistema IT-Wallet durante la Sperimentazione.",
-      "publishedAt": "2026-11-06T00:00:00Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -100,5 +100,5 @@
     }
   ],
   "message": "Feed dichiarato dalla fonte; date di pubblicazione verificate.",
-  "durationSeconds": 30.16
+  "durationSeconds": 30.12
 }

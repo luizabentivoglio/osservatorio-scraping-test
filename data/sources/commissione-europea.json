@@ -4,7 +4,7 @@
   "sourceId": "commissione-europea",
   "originUrl": "https://commission.europa.eu/news-and-media_en",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-10T04:21:43.744755Z",
+  "collectedAt": "2026-11-10T15:16:26.605210Z",
   "status": "blocked",
   "diagnosticCode": "rate_limited",
   "method": "html",
@@ -46,8 +46,26 @@
         {
           "tag": "time",
           "class": [],
-          "text": "29 January 2025",
-          "datetime": "2025-01-29T12:00:00Z"
+          "text": "6 November 2026",
+          "datetime": "2026-11-06T12:00:00Z"
+        },
+        {
+          "tag": "time",
+          "class": [],
+          "text": "5 November 2026",
+          "datetime": "2026-11-05T12:00:00Z"
+        },
+        {
+          "tag": "time",
+          "class": [],
+          "text": "4 November 2026",
+          "datetime": "2026-11-04T12:00:00Z"
+        },
+        {
+          "tag": "time",
+          "class": [],
+          "text": "4 November 2026",
+          "datetime": "2026-11-04T12:00:00Z"
         },
         {
           "tag": "div",
@@ -113,38 +131,20 @@
         {
           "tag": "time",
           "class": [],
-          "text": "9 November 2026",
-          "datetime": "2026-11-09T12:00:00Z"
+          "text": "10 November 2026",
+          "datetime": "2026-11-10T12:00:00Z"
         },
         {
           "tag": "time",
           "class": [],
-          "text": "9 November 2026",
-          "datetime": "2026-11-09T12:00:00Z"
+          "text": "10 November 2026",
+          "datetime": "2026-11-10T12:00:00Z"
         },
         {
           "tag": "time",
           "class": [],
-          "text": "9 November 2026",
-          "datetime": "2026-11-09T12:00:00Z"
-        },
-        {
-          "tag": "time",
-          "class": [],
-          "text": "9 November 2026",
-          "datetime": "2026-11-09T12:00:00Z"
-        },
-        {
-          "tag": "time",
-          "class": [],
-          "text": "9 November 2026",
-          "datetime": "2026-11-09T12:00:00Z"
-        },
-        {
-          "tag": "time",
-          "class": [],
-          "text": "9 November 2026",
-          "datetime": "2026-11-09T12:00:00Z"
+          "text": "10 November 2026",
+          "datetime": "2026-11-10T12:00:00Z"
         }
       ]
     },
@@ -157,5 +157,5 @@
   ],
   "httpStatus": 429,
   "failedUrl": "https://commission.europa.eu/about/contact/press-services_en",
-  "durationSeconds": 2.67
+  "durationSeconds": 2.66
 }

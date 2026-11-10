@@ -4,38 +4,52 @@
   "sourceId": "comune-bollate",
   "originUrl": "https://comune.bollate.mi.it/it/news",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-10T04:21:44.293068Z",
+  "collectedAt": "2026-11-10T15:16:26.650566Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
+      "title": "Bollate contro la violenza sulle donne",
+      "url": "https://comune.bollate.mi.it/it/news/bollate-contro-la-violenza-sulle-donne",
+      "excerpt": "Sito ufficiale Comune di Bollate",
+      "publishedAt": "2026-11-10T00:00:00Z",
+      "dateEvidence": "html:news-date-label"
+    },
+    {
+      "title": "Open day. Le scuole si presentano.",
+      "url": "https://comune.bollate.mi.it/it/news/open-day-2075461",
+      "excerpt": "Sito ufficiale Comune di Bollate",
+      "publishedAt": "2026-11-10T00:00:00Z",
+      "dateEvidence": "html:news-date-label"
+    },
+    {
+      "title": "Sciopero generale proclamato per il 20 novembre",
+      "url": "https://comune.bollate.mi.it/it/news/sciopero-2046496-2059402-2075560",
+      "excerpt": "Sito ufficiale Comune di Bollate",
+      "publishedAt": "2026-11-10T00:00:00Z",
+      "dateEvidence": "html:news-date-label"
+    },
+    {
+      "title": "Avviso pubblico indagine mercato Centro scolastico via Varalli",
+      "url": "https://comune.bollate.mi.it/it/news/avviso-pubblico-2056751-2075513",
+      "excerpt": "Sito ufficiale Comune di Bollate",
+      "publishedAt": "2026-11-10T00:00:00Z",
+      "dateEvidence": "html:news-date-label"
+    },
+    {
+      "title": "Nasce il Distretto energetico territoriale: Bollate capofila",
+      "url": "https://comune.bollate.mi.it/it/news/deti",
+      "excerpt": "Sito ufficiale Comune di Bollate",
+      "publishedAt": "2026-11-10T00:00:00Z",
+      "dateEvidence": "html:news-date-label"
+    },
+    {
       "title": "Polizia locale e presidio del territorio. Ecco il bilancio di una settimana di attività",
       "url": "https://comune.bollate.mi.it/it/news/polizia-locale-2074608",
       "excerpt": "Sito ufficiale Comune di Bollate",
       "publishedAt": "2026-11-06T00:00:00Z",
-      "dateEvidence": "html:news-date-label"
-    },
-    {
-      "title": "Raccolta scarti vegetali. Al via rinnovi e nuove sottoscrizioni",
-      "url": "https://comune.bollate.mi.it/it/news/raccolta-scarti-verdi-2074146",
-      "excerpt": "Sito ufficiale Comune di Bollate",
-      "publishedAt": "2026-11-05T00:00:00Z",
-      "dateEvidence": "html:news-date-label"
-    },
-    {
-      "title": "Comune chiuso per formazione il 10 e 17 novembre",
-      "url": "https://comune.bollate.mi.it/it/news/comune-chiuso",
-      "excerpt": "Sito ufficiale Comune di Bollate",
-      "publishedAt": "2026-11-03T00:00:00Z",
-      "dateEvidence": "html:news-date-label"
-    },
-    {
-      "title": "Carta “Dedicata a te: pubblicata la graduatoria dei benificiari",
-      "url": "https://comune.bollate.mi.it/it/news/carta-dedicata-a-te-2051258-2072550",
-      "excerpt": "Sito ufficiale Comune di Bollate",
-      "publishedAt": "2026-11-03T00:00:00Z",
       "dateEvidence": "html:news-date-label"
     }
   ],
@@ -49,34 +63,34 @@
       "status": 200
     },
     {
+      "url": "https://comune.bollate.mi.it/it/news/bollate-contro-la-violenza-sulle-donne",
+      "status": 200
+    },
+    {
+      "url": "https://comune.bollate.mi.it/it/news/open-day-2075461",
+      "status": 200
+    },
+    {
+      "url": "https://comune.bollate.mi.it/it/news/sciopero-2046496-2059402-2075560",
+      "status": 200
+    },
+    {
+      "url": "https://comune.bollate.mi.it/it/news/avviso-pubblico-2056751-2075513",
+      "status": 200
+    },
+    {
+      "url": "https://comune.bollate.mi.it/it/news/deti",
+      "status": 200
+    },
+    {
       "url": "https://comune.bollate.mi.it/it/news/polizia-locale-2074608",
-      "status": 200
-    },
-    {
-      "url": "https://comune.bollate.mi.it/it/news/raccolta-scarti-verdi-2074146",
-      "status": 200
-    },
-    {
-      "url": "https://comune.bollate.mi.it/it/news/comune-chiuso",
-      "status": 200
-    },
-    {
-      "url": "https://comune.bollate.mi.it/it/news/carta-dedicata-a-te-2051258-2072550",
-      "status": 200
-    },
-    {
-      "url": "https://comune.bollate.mi.it/it/news/avviso-pubblico-misura-nidi-gratis-plus",
-      "status": 200
-    },
-    {
-      "url": "https://comune.bollate.mi.it/it/news/orari-2059632",
       "status": 200
     }
   ],
-  "message": "4 notizie recenti con data verificata; copertura parziale.",
+  "message": "6 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [],
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://comune.bollate.mi.it/it/news",
-  "durationSeconds": 5.1
+  "durationSeconds": 5.51
 }

@@ -4,7 +4,7 @@
   "sourceId": "reuters",
   "originUrl": "https://www.reuters.com/world/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-10T04:22:51.983193Z",
+  "collectedAt": "2026-11-10T15:17:30.102224Z",
   "status": "blocked",
   "diagnosticCode": "robots_disallowed",
   "method": "html",
@@ -19,5 +19,5 @@
   "message": "Percorso escluso da robots.txt",
   "httpStatus": null,
   "failedUrl": "https://www.reuters.com/world/",
-  "durationSeconds": 0.31
+  "durationSeconds": 0.32
 }
