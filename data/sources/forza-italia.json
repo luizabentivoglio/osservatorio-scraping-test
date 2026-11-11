@@ -4,15 +4,38 @@
   "sourceId": "forza-italia",
   "originUrl": "https://forzaitalia.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-11T09:52:49.845429Z",
-  "status": "error",
-  "diagnosticCode": "timeout",
-  "method": "html",
+  "collectedAt": "2026-11-11T18:05:32.903957Z",
+  "status": "ok",
+  "diagnosticCode": null,
+  "method": "trafilatura",
   "feedUrl": null,
   "items": [],
-  "attempts": [],
-  "message": "Timeout della fonte",
-  "httpStatus": null,
-  "failedUrl": "https://forzaitalia.it/robots.txt",
-  "durationSeconds": 8.51
+  "attempts": [
+    {
+      "url": "https://forzaitalia.it/robots.txt",
+      "status": 200
+    },
+    {
+      "url": "https://forzaitalia.it/",
+      "status": 200
+    },
+    {
+      "url": "https://forzaitalia.it/il-22-e-23-marzo-votiamo-si-al-referendum-sulla-giustizia-votiamo-si-per-cambiare-litalia/",
+      "status": 200
+    },
+    {
+      "url": "https://forzaitalia.it/dichiarazione-del-vertice-del-ppe/",
+      "status": 200
+    },
+    {
+      "url": "https://forzaitalia.it/io-voto-si/",
+      "status": 200
+    }
+  ],
+  "message": "0 notizie recenti con data verificata; copertura parziale.",
+  "candidateSamples": [],
+  "candidateCount": 3,
+  "datedCount": 3,
+  "listingUrl": "https://forzaitalia.it/",
+  "durationSeconds": 2.86
 }

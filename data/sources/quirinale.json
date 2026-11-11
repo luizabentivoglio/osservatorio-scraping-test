@@ -4,7 +4,7 @@
   "sourceId": "quirinale",
   "originUrl": "https://www.quirinale.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-11T09:53:31.348608Z",
+  "collectedAt": "2026-11-11T18:06:08.649267Z",
   "status": "blocked",
   "diagnosticCode": "access_restricted",
   "method": "html",
@@ -42,17 +42,9 @@
     {
       "url": "https://www.quirinale.it/it/notizie/nostra-repubblica-compie-ottant-anni-1",
       "status": 200
-    },
-    {
-      "url": "https://www.quirinale.it/it/notizie/mattarella-incontra-magistrati-ordinari-tirocinio-nominati-decreto-ministeriale-3-settembre-2025",
-      "status": 200
-    },
-    {
-      "url": "https://www.quirinale.it/it/notizie/presidente-mattarella-presentazione-rapporto-svimez-2026",
-      "status": 200
     }
   ],
-  "message": "Browser HTTP 403",
+  "message": "Verifica interattiva richiesta",
   "candidateSamples": [
     {
       "url": "https://www.quirinale.it/it/notizie/mattarella-incontra-magistrati-ordinari-tirocinio-nominati-decreto-ministeriale-3-settembre-2025",
@@ -244,5 +236,5 @@
   "candidateCount": 12,
   "datedCount": 0,
   "listingUrl": "https://www.quirinale.it/",
-  "durationSeconds": 3.94
+  "durationSeconds": 4.62
 }

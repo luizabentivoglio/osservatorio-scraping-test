@@ -4,12 +4,19 @@
   "sourceId": "wwf",
   "originUrl": "https://www.wwf.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-11T09:53:37.216953Z",
+  "collectedAt": "2026-11-11T18:06:17.049288Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "Cosa accade alla COP31 giorno per giorno",
+      "url": "https://www.wwf.it/pandanews/clima/cosa-accade-alla-cop31-giorno-per-giorno/",
+      "excerpt": "Dal 9 al 21 novembre è in corso ad Antalya il più importante evento per la lotta alla crisi climatica. Qui il nostro racconto giornaliero",
+      "publishedAt": "2026-11-11T11:34:16Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
     {
       "title": "Progetto ReMaRe e WWF SUB custodi del mare",
       "url": "https://www.wwf.it/pandanews/ambiente/progetto-remare-wwf-sub-custodi-mare/",
@@ -44,13 +51,6 @@
       "excerpt": "La cerimonia si è svolta nell'ambito di una giornata dedicata ai sostenitori del WWF, che da sessant'anni rappresentano il cuore pulsante dell'associazione",
       "publishedAt": "2026-11-09T11:24:18Z",
       "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Clima, il 14 novembre il Climate Pride torna in piazza a Roma",
-      "url": "https://www.wwf.it/pandanews/clima/clima-il-14-novembre-il-climate-pride-torna-in-piazza-a-roma/",
-      "excerpt": "Torna a Roma la street parade per la giustizia climatica e sociale e per un futuro di pace, fuori dai combustibili fossili",
-      "publishedAt": "2026-11-09T10:46:03Z",
-      "dateEvidence": "jsonld:datePublished"
     }
   ],
   "attempts": [
@@ -60,6 +60,10 @@
     },
     {
       "url": "https://www.wwf.it/",
+      "status": 200
+    },
+    {
+      "url": "https://www.wwf.it/pandanews/clima/cosa-accade-alla-cop31-giorno-per-giorno/",
       "status": 200
     },
     {
@@ -81,10 +85,6 @@
     {
       "url": "https://www.wwf.it/pandanews/ambiente/premiati-i-vincitori-dei-concorsi-per-i-60-anni-wwf/",
       "status": 200
-    },
-    {
-      "url": "https://www.wwf.it/pandanews/clima/clima-il-14-novembre-il-climate-pride-torna-in-piazza-a-roma/",
-      "status": 200
     }
   ],
   "message": "6 notizie recenti con data verificata; copertura parziale.",
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.wwf.it/",
-  "durationSeconds": 5.43
+  "durationSeconds": 4.42
 }

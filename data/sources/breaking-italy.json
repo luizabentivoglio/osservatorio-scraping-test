@@ -4,17 +4,17 @@
   "sourceId": "breaking-italy",
   "originUrl": "https://breakingitaly.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-11T09:52:21.999752Z",
+  "collectedAt": "2026-11-11T18:05:06.511598Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
-      "title": "È stato chiesto l'impeachment per il segretario statunitense alla Difesa Pete Hegseth",
-      "url": "https://breakingitaly.it/newsletter/e-stato-chiesto-limpeachment-per-il-segretario-statunitense-alla-difesa-pete-hegseth",
-      "excerpt": "È stato chiesto l'impeachment per il segretario statunitense alla Difesa Pete Hegseth",
-      "publishedAt": "2026-11-10T00:00:00Z",
+      "title": "La Procura di Milano ha chiesto l’archiviazione per Beppe Sala",
+      "url": "https://breakingitaly.it/newsletter/la-procura-di-milano-ha-chiesto-larchiviazione-per-beppe-sala",
+      "excerpt": "La Procura di Milano ha chiesto l’archiviazione per Beppe Sala",
+      "publishedAt": "2026-11-11T00:00:00Z",
       "dateEvidence": "html:newsletter-publication"
     }
   ],
@@ -32,7 +32,7 @@
       "status": 200
     },
     {
-      "url": "https://breakingitaly.it/newsletter/e-stato-chiesto-limpeachment-per-il-segretario-statunitense-alla-difesa-pete-hegseth",
+      "url": "https://breakingitaly.it/newsletter/la-procura-di-milano-ha-chiesto-larchiviazione-per-beppe-sala",
       "status": 200
     },
     {
@@ -96,5 +96,5 @@
   "candidateCount": 12,
   "datedCount": 1,
   "listingUrl": "https://breakingitaly.it/",
-  "durationSeconds": 5.35
+  "durationSeconds": 5.25
 }

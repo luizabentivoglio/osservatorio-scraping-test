@@ -4,12 +4,26 @@
   "sourceId": "palazzo-chigi",
   "originUrl": "https://www.governo.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-11T09:53:17.566877Z",
+  "collectedAt": "2026-11-11T18:05:57.916318Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.governo.it/feed/rss",
   "items": [
+    {
+      "title": "Progressioni verticali 2025, nomina membri supplenti",
+      "url": "https://www.governo.it/it/articolo/progressioni-verticali-2025-nomina-membri-supplenti/33083",
+      "excerpt": "Procedura di selezione indetta con decreto del Segretario Generale del 10 dicembre 2025 per il passaggio dalla Categoria “B” al parametro retributivo iniziale della Categoria “A” per 27 unità riservato al personale appartenente al ruolo non dirigenziale della Presidenza del Consiglio dei Ministri. NOMINA MEMBRI SUPPLEN",
+      "publishedAt": "2026-11-11T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Dipendenze, a Palazzo Chigi il tavolo per il nuovo Piano d'azione nazionale",
+      "url": "https://www.governo.it/it/articolo/dipendenze-al-palazzo-chigi-il-tavolo-il-nuovo-piano-dazione-nazionale/33081",
+      "excerpt": "Si è svolta nella Sala Verde di Palazzo Chigi la riunione del tavolo sulle dipendenze presieduta dal Sottosegretario alla Presidenza del Consiglio con delega alle politiche contro la droga e le altre dipendenze, Alfredo Mantovano.",
+      "publishedAt": "2026-11-11T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "Il Presidente Meloni a Bologna e San Lazzaro di Savena",
       "url": "https://www.governo.it/it/articolo/il-presidente-meloni-bologna-e-san-lazzaro-di-savena/33077",
@@ -65,20 +79,6 @@
       "excerpt": "Trentasette anni fa cadeva il Muro di Berlino. Non soltanto una barriera di cemento, ma il simbolo di un sistema che per anni aveva negato a milioni di persone la libertà, la dignità e il diritto di scegliere il proprio futuro. Il 9 novembre 1989 ha segnato una svolta nella storia dell’Europa, affermando la forza di ch",
       "publishedAt": "2026-11-09T00:00:00Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Le condoglianze del Presidente Meloni alla Polonia",
-      "url": "https://www.governo.it/it/articolo/le-condoglianze-del-presidente-meloni-alla-polonia/33052",
-      "excerpt": "Esprimo profondo dolore e le mie più sentite condoglianze alla Polonia per il vile e inaccettabile atto di violenza che ha colpito la città di Cracovia. Il mio pensiero, e quello del Governo italiano, va alle famiglie delle vittime innocenti, ai feriti, ai quali auguro una pronta e totale guarigione, e all’intero popol",
-      "publishedAt": "2026-11-07T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Dichiarazione del Presidente del Consiglio Meloni",
-      "url": "https://www.governo.it/it/articolo/dichiarazione-del-presidente-del-consiglio-meloni/33050",
-      "excerpt": "Esprimo la mia piena solidarietà al Vice Presidente del Consiglio Antonio Tajani per quanto emerso sull’attività di hacker filorussi e sulla diffusione sul dark web di dati personali che lo riguardano. La messa in vendita di informazioni riservate su esponenti delle istituzioni desta grande preoccupazione e va affronta",
-      "publishedAt": "2026-11-07T00:00:00Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -100,5 +100,5 @@
     }
   ],
   "message": "Feed dichiarato dalla fonte; date di pubblicazione verificate.",
-  "durationSeconds": 30.15
+  "durationSeconds": 30.13
 }

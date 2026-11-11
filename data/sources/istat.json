@@ -4,12 +4,40 @@
   "sourceId": "istat",
   "originUrl": "https://www.istat.it/",
   "configuredFeedUrl": "https://www.istat.it/feed/",
-  "collectedAt": "2026-11-11T09:52:59.001904Z",
+  "collectedAt": "2026-11-11T18:05:40.356088Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.istat.it/feed/",
   "items": [
+    {
+      "title": "Manifestazione d’interesse per progetto interistituzionale su politiche di coesione",
+      "url": "https://www.istat.it/notizia/raccolta-manifestazione-interesse-per-accordo-collaborazione-progetto-informazione-statistica-territoriale-e-settoriale-politiche-di-coesione-2027-29/",
+      "excerpt": "Online le risposte ai quesiti pervenuti",
+      "publishedAt": "2026-11-11T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "CIG A032D8FF79 – Accordo quadro avente ad oggetto l’affidamento di servizi di system management per le pubbliche amministrazioni",
+      "url": "https://www.istat.it/bando-di-gara/cig-a032d8ff79-contratto-esecutivo-relativo-allaccordo-quadro-avente-ad-oggetto-laffidamento-di-servizi-di-system-management-per-le-pubbliche-amministrazioni-ai-sensi-dell/",
+      "excerpt": "Pubblicata la delibera di proroga",
+      "publishedAt": "2026-11-11T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Produzione libraria – Anni 2023-2025",
+      "url": "https://www.istat.it/tavole-di-dati/produzione-libraria-anni-2023-2025/",
+      "excerpt": "Online le tavole di dati sui libri pubblicati in Italia riferiti agli anni 2023-2025 che costituiscono la prima uscita delle nuove statistiche multi-fonte sull’editoria libraria",
+      "publishedAt": "2026-11-11T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Nota sull’andamento e prospettive dell’economia italiana – Anni 2026-2027",
+      "url": "https://www.istat.it/comunicato-stampa/nota-sullandamento-e-prospettive-delleconomia-italiana-anni-2026-2027-aggiornamento-novembre/",
+      "excerpt": "Nel 2026 e nel 2027 si prevede che il Pil italiano cresca, rispettivamente, dello 0,9% e dello 0,6%, dopo l’incremento dello 0,6% nel 2025",
+      "publishedAt": "2026-11-11T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "Produzione industriale – Settembre 2026",
       "url": "https://www.istat.it/comunicato-stampa/produzione-industriale-settembre-2026/",
@@ -51,34 +79,6 @@
       "excerpt": "Un’occasione di confronto tra produttori e utilizzatori di dati per dialogare sul ruolo strategico e le prospettive di sviluppo della statistica ufficiale",
       "publishedAt": "2026-11-09T00:00:00Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Gettito delle imposte ambientali – 2008-2025",
-      "url": "https://www.istat.it/sistema-informativo-6/gettito-delle-imposte-ambientali-2008-2025/",
-      "excerpt": "Istat rende disponibili nella banca dati IstatData i dati sul gettito delle imposte ambientali articolato per categoria e unità",
-      "publishedAt": "2026-11-09T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "#IstatNewsletter",
-      "url": "https://www.istat.it/newsletter/online-istatnewsletter-la-newsletter-dellistat/",
-      "excerpt": "Online il numero 41 del 2026. Lascia la tua email e riceverai ogni lunedì tutti gli aggiornamenti del sito Istat",
-      "publishedAt": "2026-11-09T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Giornata mondiale dell’acqua 2024",
-      "url": "https://www.istat.it/infografiche/infografiche-discipline-e-competenze-stem/",
-      "excerpt": "Un flash statistico su formazione e lavoro in ambito scientifico, tecnologico, ingegneristico e matematico",
-      "publishedAt": "2026-11-09T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Uomini e donne: tempi diversi",
-      "url": "https://www.istat.it/news-dati-alla-mano/uomini-e-donne-tempi-diversi/",
-      "excerpt": "Un video per scoprire quanta parte del lavoro domestico ricade ancora sulle donne",
-      "publishedAt": "2026-11-09T00:00:00Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -92,5 +92,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 3.46
+  "durationSeconds": 2.65
 }

@@ -4,7 +4,7 @@
   "sourceId": "iai",
   "originUrl": "https://www.iai.it/it",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-11T09:52:55.315522Z",
+  "collectedAt": "2026-11-11T18:05:38.008046Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -22,13 +22,6 @@
       "url": "https://www.iai.it/it/pubblicazioni/c05/la-germania-e-le-regole-del-mercato-europeo-della-difesa",
       "excerpt": "La nuova legge tedesca sugli acquisti militari amplia il riconoscimento degli interessi essenziali di sicurezza nazionale, aprendo la strada a un possibile più frequente ricorso a deroghe alle regole europee.La legge non autorizza automaticamente le deroghe: la loro necessità dovrà essere verificata caso per caso, alla",
       "publishedAt": "2026-11-04T12:00:00Z",
-      "dateEvidence": "html:publication-time"
-    },
-    {
-      "title": "Why Economic Security Must Be at the Heart of EU Enlargement",
-      "url": "https://www.iai.it/it/pubblicazioni/c05/why-economic-security-must-be-heart-eu-enlargement",
-      "excerpt": "Economic security raises the stakes of enlargement: deeper market integration must be matched by strategic alignment on the policies needed to protect an increasingly integrated European market.A credible path to full membership provides the leverage for this deeper transformation, while gradual integration should be u",
-      "publishedAt": "2026-10-28T12:00:00Z",
       "dateEvidence": "html:publication-time"
     }
   ],
@@ -66,10 +59,10 @@
       "status": 200
     }
   ],
-  "message": "3 notizie recenti con data verificata; copertura parziale.",
+  "message": "2 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [],
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.iai.it/it/pubblicazioni/lista/iai-commentaries",
-  "durationSeconds": 4.94
+  "durationSeconds": 6.25
 }

@@ -4,52 +4,52 @@
   "sourceId": "camera",
   "originUrl": "https://www.camera.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-11T09:52:23.023824Z",
+  "collectedAt": "2026-11-11T18:05:07.364162Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
-      "title": "Oggi question time con i ministri Tajani, Ciriani, Giuli e Abodi",
+      "title": "La cultura conservatrice - Mercoledì 18 alle 11 diretta webtv con lis - Intervengono Fini, Ungaro, Terranova - Aperte le prenotazioni",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64040",
+      "excerpt": "Mercoledì 18 novembre, alle ore 11, presso la Sala della Regina di Montecitorio si svolge il semina...",
+      "publishedAt": "2026-11-11T00:00:00Z",
+      "dateEvidence": "html:publication-label"
+    },
+    {
+      "title": "Question time con i ministri Tajani, Ciriani, Giuli e Abodi",
       "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64019",
-      "excerpt": "Si svolge oggi, mercoledì 11 novembre, alle 15, il question time trasmesso dalla Rai in diretta tel...",
+      "excerpt": "Alle ore 15 ha avuto luogo lo svolgimento di interrogazioni a risposta immediata, trasmesse in diret...",
+      "publishedAt": "2026-11-11T00:00:00Z",
+      "dateEvidence": "html:publication-label"
+    },
+    {
+      "title": "Le nuove frontiere della consulenza finanziaria dal 2016 al 2026: la storia di una evoluzione a tutela del risparmio - Giovedì alle 10 diretta webtv – Messaggio di Fontana",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64044",
+      "excerpt": "Giovedì 12 novembre, alle ore 10, presso l'Aula dei Gruppi parlamentari della Camera si svolge il c...",
+      "publishedAt": "2026-11-11T00:00:00Z",
+      "dateEvidence": "html:publication-label"
+    },
+    {
+      "title": "Autonomia differenziata, audizione Decaro – Giovedì alle 14 diretta webtv",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64026",
+      "excerpt": "Giovedì 12 novembre, alle ore 14, la Commissione Affari costituzionali svolge l’audizione di Anto...",
+      "publishedAt": "2026-11-11T00:00:00Z",
+      "dateEvidence": "html:publication-label"
+    },
+    {
+      "title": "Poteri digitali, intelligenza artificiale e sviluppo umano integrale - Giovedì alle 17 diretta webtv - Messaggio di Fontana",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64027",
+      "excerpt": "Giovedì 12 novembre, alle ore 17, presso la Sala Matteotti di Palazzo Theodoli-Bianchelli si svolge...",
       "publishedAt": "2026-11-11T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
     {
       "title": "Decreto Giustizia - Interno - impianti strategici",
       "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64020",
-      "excerpt": "Alle ore 9.30 il Parlamento in seduta comune è convocato per l'elezione di 10 componenti del Consig...",
+      "excerpt": "Alle ore 16.15, l'esame del seguente provvedimento: conversione in legge, con modificazioni, del de...",
       "publishedAt": "2026-11-11T00:00:00Z",
-      "dateEvidence": "html:publication-label"
-    },
-    {
-      "title": "Dalle politiche al sistema - Costruire risposte integrate per giovani, lavoro e sviluppo - Mercoledì alle 10 diretta webtv - Saluto di Mulè",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63979",
-      "excerpt": "Mercoledì 11 novembre, alle ore 10, presso l'Aula dei Gruppi parlamentari della Camera si svolge il...",
-      "publishedAt": "2026-11-10T00:00:00Z",
-      "dateEvidence": "html:publication-label"
-    },
-    {
-      "title": "Salvare vite - Mercoledì alle 11 diretta webtv - Interviene Trancassini",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63981",
-      "excerpt": "Mercoledì 11 novembre, alle ore 11, presso la Sala della Regina di Montecitorio si svolge la presen...",
-      "publishedAt": "2026-11-10T00:00:00Z",
-      "dateEvidence": "html:publication-label"
-    },
-    {
-      "title": "Lavoro, interrogazioni a risposta immediata – Ministero del Lavoro e delle Politiche sociali – Mercoledì alle 14 diretta webtv",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63982",
-      "excerpt": "Mercoledì 11 novembre, alle ore 14, la Commissione Lavoro svolge interrogazioni a risposta immediat...",
-      "publishedAt": "2026-11-10T00:00:00Z",
-      "dateEvidence": "html:publication-label"
-    },
-    {
-      "title": "Periferie, audizione Russo, coordinatrice Garanti dei detenuti – Mercoledì alle 15 diretta webtv",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63983",
-      "excerpt": "Mercoledì 11 novembre, alle ore 15, presso l’aula del IV piano di Palazzo San Macuto, la Commissi...",
-      "publishedAt": "2026-11-10T00:00:00Z",
       "dateEvidence": "html:publication-label"
     }
   ],
@@ -63,27 +63,27 @@
       "status": 200
     },
     {
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64040",
+      "status": 200
+    },
+    {
       "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64019",
       "status": 200
     },
     {
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64044",
+      "status": 200
+    },
+    {
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64026",
+      "status": 200
+    },
+    {
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64027",
+      "status": 200
+    },
+    {
       "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64020",
-      "status": 200
-    },
-    {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63979",
-      "status": 200
-    },
-    {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63981",
-      "status": 200
-    },
-    {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63982",
-      "status": 200
-    },
-    {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63983",
       "status": 200
     }
   ],
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://comunicazione.camera.it/archivio-prima-pagina",
-  "durationSeconds": 4.4
+  "durationSeconds": 4.09
 }

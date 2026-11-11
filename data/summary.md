@@ -9,9 +9,9 @@
 | breaking-italy | ok | trafilatura | 1 | — |
 | camera | ok | trafilatura | 6 | — |
 | cisl | blocked | html | 0 | robots_disallowed |
-| cnr | ok | rss | 20 | — |
+| cnr | error | html | 0 | connection_error |
 | coldiretti | ok | trafilatura | 4 | — |
-| commissione-europea | blocked | html | 0 | rate_limited |
+| commissione-europea | ok | trafilatura | 1 | — |
 | comune-bollate | ok | trafilatura | 6 | — |
 | confcommercio | blocked | html | 0 | access_restricted |
 | confindustria | ok | trafilatura | 2 | — |
@@ -26,12 +26,12 @@
 | eurostat | blocked | html | 0 | robots_disallowed |
 | factanza | blocked | html | 0 | access_restricted |
 | fanpage | blocked | html | 0 | access_restricted |
-| forza-italia | error | html | 0 | timeout |
+| forza-italia | ok | trafilatura | 0 | — |
 | futuro-nazionale | ok | rss | 0 | — |
 | good-morning-italia | blocked | html | 0 | access_restricted |
 | greenpeace | ok | trafilatura | 2 | — |
 | hrw | blocked | html | 0 | access_restricted |
-| iai | ok | trafilatura | 3 | — |
+| iai | ok | trafilatura | 2 | — |
 | il-fatto | blocked | html | 0 | robots_disallowed |
 | il-notiziario | blocked | html | 0 | access_restricted |
 | il-post | ok | trafilatura | 6 | — |
@@ -43,8 +43,8 @@
 | istituto-bruno-leoni | ok | trafilatura | 5 | — |
 | italia-domani-rizzo | ok | trafilatura | 3 | — |
 | italia-viva | blocked | html | 0 | access_restricted |
-| la-stampa | blocked | html | 0 | access_restricted |
-| legambiente | ok | trafilatura | 0 | — |
+| la-stampa | ok | rss | 40 | — |
+| legambiente | error | html | 0 | timeout |
 | libera | ok | html | 1 | — |
 | mef | ok | trafilatura | 3 | — |
 | msf | ok | trafilatura | 6 | — |

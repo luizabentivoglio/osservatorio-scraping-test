@@ -4,12 +4,26 @@
   "sourceId": "msf",
   "originUrl": "https://www.medicisenzafrontiere.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-11T09:53:09.354532Z",
+  "collectedAt": "2026-11-11T18:05:49.937460Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "Piogge a Gaza, MSF: “Serve una vera soluzione e l’ingresso di forniture”",
+      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/piogge-gaza-msf-serve-vera-soluzione-ingresso-forniture/",
+      "excerpt": "Per il quarto anno consecutivo, la popolazione sfollata di Gaza si ritrova a vivere un altro inverno in tende e rifugi di fortuna nonostante il freddo e le piogge. Il quarto inverno in condizioni disumane Chiediamo alle autorità israeliane di revocare con urgenza le restrizioni e consentire l’ingresso senza ostacoli de",
+      "publishedAt": "2026-11-11T11:18:56Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "Gaza. Un giorno ancora. Il genocidio del popolo palestinese visto dagli occhi di chi cura",
+      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/gaza-un-giorno-ancora-genocidio-popolo-palestinese-visto-da-occhi-di-chi-cura/",
+      "excerpt": "Un libro di Valerio la Martire, con le illustrazioni di Baraa Awoor, Mauro Biani, Gianluca Costantini, Laika, Elisa Macellari, Alice Pasquini, Sara Pichelli, Francesca Protopapa e Anna Zampatti. A cura di Medici Senza Frontiere, prefazione di Maurizio de Giovanni Piccoli gesti quotidiani Due datteri, del cioccolato in ",
+      "publishedAt": "2026-11-10T13:56:23Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
     {
       "title": "Sudan, MSF chiede interventi urgenti per garantire le vaccinazioni di routine e prevenire nuove epidemie",
       "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/sudan-msf-chiede-interventi-urgenti-garantire-vaccinazioni-routine-prevenire-nuove-epidemie/",
@@ -37,20 +51,6 @@
       "excerpt": "Vuoi donare in sicurezza? Scopri come verificare i bilanci no profit, scegliere i canali di pagamento giusti ed evitare le truffe",
       "publishedAt": "2026-11-05T09:29:09Z",
       "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Ucraina, attacco a Dnipro: danneggiato un ospedale, MSF evacua 2 pazienti",
-      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/ucraina-attacco-dnipro-danneggiato-ospedale-msf-evacua-2-pazienti/",
-      "excerpt": "Questa mattina le forze russe hanno attaccato Dnipro, causando, secondo quanto riportato, la morte di almeno 2 persone e il ferimento di altre 20. Attacchi agli edifici civili Continuano gli attacchi nella regione di Dnipropetrovsk. Quello odierno a Dnipro ha danneggiato edifici residenziali, una centrale termica, un c",
-      "publishedAt": "2026-11-03T14:03:26Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Gaza: MSF chiede rilascio immediato del dott. Obeid dopo 2 anni di detenzione arbitraria",
-      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/gaza-msf-chiede-rilascio-immediato-dott-obeid-dopo-2-anni-detenzione-arbitraria/",
-      "excerpt": "Medici Senza Frontiere chiede il rilascio immediato e incondizionato del dottor Mohammed Obeid, che dal 26 ottobre 2024 è detenuto dalle forze israeliane senza alcuna accusa. Il caso del dottor Obeid Il dottor Obeid, chirurgo ortopedico della nostra organizzazione, è stato arrestato mentre era in servizio presso l’ospe",
-      "publishedAt": "2026-11-02T15:28:04Z",
-      "dateEvidence": "jsonld:datePublished"
     }
   ],
   "attempts": [
@@ -60,6 +60,14 @@
     },
     {
       "url": "https://www.medicisenzafrontiere.it/",
+      "status": 200
+    },
+    {
+      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/piogge-gaza-msf-serve-vera-soluzione-ingresso-forniture/",
+      "status": 200
+    },
+    {
+      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/gaza-un-giorno-ancora-genocidio-popolo-palestinese-visto-da-occhi-di-chi-cura/",
       "status": 200
     },
     {
@@ -77,14 +85,6 @@
     {
       "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/donazioni-sicure/",
       "status": 200
-    },
-    {
-      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/ucraina-attacco-dnipro-danneggiato-ospedale-msf-evacua-2-pazienti/",
-      "status": 200
-    },
-    {
-      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/gaza-msf-chiede-rilascio-immediato-dott-obeid-dopo-2-anni-detenzione-arbitraria/",
-      "status": 200
     }
   ],
   "message": "6 notizie recenti con data verificata; copertura parziale.",
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.medicisenzafrontiere.it/",
-  "durationSeconds": 4.04
+  "durationSeconds": 4.02
 }
