@@ -4,12 +4,19 @@
   "sourceId": "amnesty",
   "originUrl": "https://www.amnesty.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-10T23:45:11.989854Z",
+  "collectedAt": "2026-11-11T09:52:21.473596Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "La storia di Gabriele Sandri",
+      "url": "https://www.amnesty.it/la-storia-di-gabriele-sandri/",
+      "excerpt": "Gabriele Sandri è stato ucciso l'11 novembre 2007 dallo sparo di un agente di polizia. A 19 anni dall'accaduto, ricordiamo la sua storia.",
+      "publishedAt": "2026-11-11T06:30:20Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
     {
       "title": "Cop31: basta con l’industria del fossile",
       "url": "https://www.amnesty.it/cop31-basta-con-industria-del-fossile/",
@@ -22,13 +29,6 @@
       "url": "https://www.amnesty.it/israele-tpo-carcere-attivista-ghassan-najjar/",
       "excerpt": "L’esercito israeliano ha effettuato un raid nel nord della Cisgiordania occupata arrestando Ghassan Najjar difensore delle terre palestinesi.",
       "publishedAt": "2026-11-05T14:13:08Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Ucraina: pericolosi attacchi russi alle infrastrutture",
-      "url": "https://www.amnesty.it/ucraina-pericolosi-attacchi-russi-alle-infrastrutture/",
-      "excerpt": "Gli attacchi della Russia contro le infrastrutture energetiche in Ucraina, rischiano di creare una nuova catastrofe umanitaria.",
-      "publishedAt": "2026-11-02T09:16:34Z",
       "dateEvidence": "jsonld:datePublished"
     }
   ],
@@ -54,15 +54,15 @@
       "status": 200
     },
     {
+      "url": "https://www.amnesty.it/la-storia-di-gabriele-sandri/",
+      "status": 200
+    },
+    {
       "url": "https://www.amnesty.it/cop31-basta-con-industria-del-fossile/",
       "status": 200
     },
     {
       "url": "https://www.amnesty.it/israele-tpo-carcere-attivista-ghassan-najjar/",
-      "status": 200
-    },
-    {
-      "url": "https://www.amnesty.it/ucraina-pericolosi-attacchi-russi-alle-infrastrutture/",
       "status": 200
     }
   ],
@@ -90,5 +90,5 @@
   "candidateCount": 12,
   "datedCount": 3,
   "listingUrl": "https://www.amnesty.it/",
-  "durationSeconds": 6.33
+  "durationSeconds": 6.95
 }

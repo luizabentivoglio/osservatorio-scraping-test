@@ -4,12 +4,19 @@
   "sourceId": "istituto-bruno-leoni",
   "originUrl": "https://www.brunoleoni.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-10T23:45:51.948359Z",
+  "collectedAt": "2026-11-11T09:53:00.256658Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "Liberalizzazione elettrica: vale più la concorrenza di qualsiasi tutela",
+      "url": "https://www.brunoleoni.it/liberalizzazione-elettrica-vale-piu-la-concorrenza-di-qualsiasi-tutela/",
+      "excerpt": "L’unico effetto è che sull’altare di regole incerte saranno sacrificati i consumatori",
+      "publishedAt": "2026-11-11T06:37:59Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
     {
       "title": "Il mondo multipolare e una proposta di pace",
       "url": "https://www.brunoleoni.it/il-mondo-multipolare-e-una-proposta-di-pace/",
@@ -53,11 +60,11 @@
       "status": 200
     },
     {
-      "url": "https://www.brunoleoni.it/exit-tax-una-patrimoniale-mascherata/",
+      "url": "https://www.brunoleoni.it/liberalizzazione-elettrica-vale-piu-la-concorrenza-di-qualsiasi-tutela/",
       "status": 200
     },
     {
-      "url": "https://www.brunoleoni.it/se-il-governo-vuole-fare-qualcosa-di-concreto-per-il-caro-energia-sblocchi-le-trivelle/",
+      "url": "https://www.brunoleoni.it/exit-tax-una-patrimoniale-mascherata/",
       "status": 200
     },
     {
@@ -73,7 +80,7 @@
       "status": 200
     }
   ],
-  "message": "4 notizie recenti con data verificata; copertura parziale.",
+  "message": "5 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [
     {
       "url": "https://www.brunoleoni.it/articoli/",
@@ -85,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 5,
   "listingUrl": "https://www.brunoleoni.it/",
-  "durationSeconds": 5.45
+  "durationSeconds": 6.14
 }

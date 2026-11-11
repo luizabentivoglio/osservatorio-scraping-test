@@ -4,12 +4,19 @@
   "sourceId": "coldiretti",
   "originUrl": "https://www.coldiretti.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-10T23:45:17.703827Z",
+  "collectedAt": "2026-11-11T09:52:27.348386Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "Lavoro: dalla farmacista agricoltrice bio all'apicoltrice archeologa. Ecco le Amiche della Terra che fanno rinascere i territori",
+      "url": "https://www.coldiretti.it/economia/lavoro-dalla-farmacista-agricoltrice-bio-allapicoltrice-archeologa-ecco-le-amiche-della-terra-che-fanno-rinascere-i-territori",
+      "excerpt": "Il premio di Donne Coldiretti valorizza le esperienze femminili che uniscono tradizione, sostenibilità e inclusione",
+      "publishedAt": "2026-11-11T09:33:40Z",
+      "dateEvidence": "meta:article:published_time"
+    },
     {
       "title": "Made in Italy, Gesmundo: Trump e Ursula giù le mani dal nostro cibo. L'Europa difenda gli agricoltori, non le multinazionali",
       "url": "https://www.coldiretti.it/economia/made-in-italy-gesmundo-trump-e-ursula-giu-le-mani-dal-nostro-cibo-leuropa-difenda-gli-agricoltori-non-le-multinazionali",
@@ -42,6 +49,10 @@
       "status": 200
     },
     {
+      "url": "https://www.coldiretti.it/economia/lavoro-dalla-farmacista-agricoltrice-bio-allapicoltrice-archeologa-ecco-le-amiche-della-terra-che-fanno-rinascere-i-territori",
+      "status": 200
+    },
+    {
       "url": "https://www.coldiretti.it/economia/made-in-italy-gesmundo-trump-e-ursula-giu-le-mani-dal-nostro-cibo-leuropa-difenda-gli-agricoltori-non-le-multinazionali",
       "status": 200
     },
@@ -60,16 +71,12 @@
     {
       "url": "https://www.coldiretti.it/economia/salute-al-forum-lo-scaffale-del-vero-made-in-italy-e-la-fabbrica-dei-malati",
       "status": 200
-    },
-    {
-      "url": "https://www.coldiretti.it/economia/salute-non-fermare-i-cibi-ultraformulati-e-un-crimine-contro-lumanita",
-      "status": 200
     }
   ],
-  "message": "3 notizie recenti con data verificata; copertura parziale.",
+  "message": "4 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [],
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.coldiretti.it/",
-  "durationSeconds": 8.95
+  "durationSeconds": 9.19
 }

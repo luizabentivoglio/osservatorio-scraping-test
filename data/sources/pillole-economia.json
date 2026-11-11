@@ -4,7 +4,7 @@
   "sourceId": "pillole-economia",
   "originUrl": "https://pilloledieconomia.substack.com/",
   "configuredFeedUrl": "https://pilloledieconomia.substack.com/feed",
-  "collectedAt": "2026-11-10T23:46:18.152934Z",
+  "collectedAt": "2026-11-11T09:53:28.864849Z",
   "status": "blocked",
   "diagnosticCode": "access_restricted",
   "method": "html",
@@ -19,5 +19,5 @@
   "message": "HTTP 403: accesso limitato dalla fonte",
   "httpStatus": 403,
   "failedUrl": "https://pilloledieconomia.substack.com/robots.txt",
-  "durationSeconds": 0.06
+  "durationSeconds": 0.14
 }

@@ -4,7 +4,7 @@
   "sourceId": "corte-conti",
   "originUrl": "https://www.corteconti.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-10T23:45:27.232181Z",
+  "collectedAt": "2026-11-11T09:52:36.538816Z",
   "status": "no_feed",
   "diagnosticCode": "parsing_error",
   "method": "crawl4ai",
@@ -20,39 +20,15 @@
       "status": 200
     },
     {
-      "url": "https://www.corteconti.it/HOME/StampaMedia/Notizie/DettaglioNotizia?Id=b0608c3b-ec30-40e4-a0d1-9517716097fc",
+      "url": "https://www.corteconti.it/HOME/StampaMedia/Notizie/DettaglioNotizia?Id=491743a4-5ad3-49a3-8f10-9e15b51110fb",
       "status": 200
     },
     {
-      "url": "https://www.corteconti.it/HOME/StampaMedia/Notizie/DettaglioNotizia?Id=01e97862-4f5b-48e0-bf4d-7d50a5407ff5",
+      "url": "https://www.corteconti.it/HOME/StampaMedia/Notizie/DettaglioNotizia?Id=07a4f3b8-b707-47f0-aeb5-c09b5cf89dcc",
       "status": 200
     },
     {
-      "url": "https://www.corteconti.it/HOME/StampaMedia/Notizie/DettaglioNotizia?Id=619e65b0-a960-45c0-a2c8-b6efa92c8e99",
-      "status": 200
-    },
-    {
-      "url": "https://www.corteconti.it/HOME/StampaMedia/Notizie/DettaglioNotizia?Id=89692fb9-8dee-4121-b796-288cd3767608",
-      "status": 200
-    },
-    {
-      "url": "https://www.corteconti.it/HOME/StampaMedia/Notizie/DettaglioNotizia?Id=04a4b7cd-d77f-49e7-b9b7-e24fe8edac7f",
-      "status": 200
-    },
-    {
-      "url": "https://www.corteconti.it/HOME/StampaMedia/Notizie/DettaglioNotizia?Id=4d81507c-dc7a-4326-af9f-8e45a27569a4",
-      "status": 200
-    },
-    {
-      "url": "https://www.corteconti.it/HOME/StampaMedia/Notizie/DettaglioNotizia?Id=b0608c3b-ec30-40e4-a0d1-9517716097fc",
-      "status": 200
-    },
-    {
-      "url": "https://www.corteconti.it/HOME/StampaMedia/Notizie/DettaglioNotizia?Id=01e97862-4f5b-48e0-bf4d-7d50a5407ff5",
-      "status": 200
-    },
-    {
-      "url": "https://www.corteconti.it/HOME/StampaMedia/Notizie/DettaglioNotizia?Id=619e65b0-a960-45c0-a2c8-b6efa92c8e99",
+      "url": "https://www.corteconti.it/HOME/StampaMedia/Notizie/DettaglioNotizia?Id=daa7cb63-077d-4596-9642-43b34fb52ff1",
       "status": 200
     },
     {
@@ -64,26 +40,50 @@
       "status": 200
     },
     {
-      "url": "https://www.corteconti.it/HOME/StampaMedia/Notizie/DettaglioNotizia?Id=4d81507c-dc7a-4326-af9f-8e45a27569a4",
+      "url": "https://www.corteconti.it/HOME/StampaMedia/Notizie/DettaglioNotizia?Id=bed145af-7430-4e5a-b00e-33726077d4d0",
+      "status": 200
+    },
+    {
+      "url": "https://www.corteconti.it/HOME/StampaMedia/Notizie/DettaglioNotizia?Id=491743a4-5ad3-49a3-8f10-9e15b51110fb",
+      "status": 200
+    },
+    {
+      "url": "https://www.corteconti.it/HOME/StampaMedia/Notizie/DettaglioNotizia?Id=07a4f3b8-b707-47f0-aeb5-c09b5cf89dcc",
+      "status": 200
+    },
+    {
+      "url": "https://www.corteconti.it/HOME/StampaMedia/Notizie/DettaglioNotizia?Id=daa7cb63-077d-4596-9642-43b34fb52ff1",
+      "status": 200
+    },
+    {
+      "url": "https://www.corteconti.it/HOME/StampaMedia/Notizie/DettaglioNotizia?Id=89692fb9-8dee-4121-b796-288cd3767608",
+      "status": 200
+    },
+    {
+      "url": "https://www.corteconti.it/HOME/StampaMedia/Notizie/DettaglioNotizia?Id=04a4b7cd-d77f-49e7-b9b7-e24fe8edac7f",
+      "status": 200
+    },
+    {
+      "url": "https://www.corteconti.it/HOME/StampaMedia/Notizie/DettaglioNotizia?Id=bed145af-7430-4e5a-b00e-33726077d4d0",
       "status": 200
     }
   ],
   "message": "Pagina accessibile, ma nessuna notizia con data di pubblicazione verificabile.",
   "candidateSamples": [
     {
-      "url": "https://www.corteconti.it/HOME/StampaMedia/Notizie/DettaglioNotizia?Id=b0608c3b-ec30-40e4-a0d1-9517716097fc",
-      "title": "09/11 AUDIZIONE DELLA CORTE DEI CONTI NELL’AMBITO DELL’ATTIVITÀ CONOSCITIVA PRELIMINARE ALL’ESAME DEL DISEGNO DI LEGGE DI BILANCIO 2027 Leggi di più",
-      "h1": "Corte dei conti",
-      "dates": []
-    },
-    {
-      "url": "https://www.corteconti.it/HOME/StampaMedia/Notizie/DettaglioNotizia?Id=01e97862-4f5b-48e0-bf4d-7d50a5407ff5",
+      "url": "https://www.corteconti.it/HOME/StampaMedia/Notizie/DettaglioNotizia?Id=491743a4-5ad3-49a3-8f10-9e15b51110fb",
       "title": "11-13/11 CONVEGNO DI STUDI “GIUSTIZIA AL SERVIZIO DEL PAESE - STATO COSTITUZIONALE E ISTITUZIONI DI GARANZIA” Leggi di più",
       "h1": "Corte dei conti",
       "dates": []
     },
     {
-      "url": "https://www.corteconti.it/HOME/StampaMedia/Notizie/DettaglioNotizia?Id=619e65b0-a960-45c0-a2c8-b6efa92c8e99",
+      "url": "https://www.corteconti.it/HOME/StampaMedia/Notizie/DettaglioNotizia?Id=07a4f3b8-b707-47f0-aeb5-c09b5cf89dcc",
+      "title": "09/11 AUDIZIONE DELLA CORTE DEI CONTI NELL’AMBITO DELL’ATTIVITÀ CONOSCITIVA PRELIMINARE ALL’ESAME DEL DISEGNO DI LEGGE DI BILANCIO 2027 Leggi di più",
+      "h1": "Corte dei conti",
+      "dates": []
+    },
+    {
+      "url": "https://www.corteconti.it/HOME/StampaMedia/Notizie/DettaglioNotizia?Id=daa7cb63-077d-4596-9642-43b34fb52ff1",
       "title": "12/10 AUDIZIONE PARLAMENTARE DELLA CORTE DEI CONTI NELL’AMBITO DELL’ATTIVITÀ CONOSCITIVA PRELIMINARE ALL’ESAME DEL DOCUMENTO PROGRAMMATICO DI FINANZA PUBBLICA 2026 Leggi di più",
       "h1": "Corte dei conti",
       "dates": []
@@ -101,8 +101,8 @@
       "dates": []
     },
     {
-      "url": "https://www.corteconti.it/HOME/StampaMedia/Notizie/DettaglioNotizia?Id=4d81507c-dc7a-4326-af9f-8e45a27569a4",
-      "title": "03/11 RINNOVATO IL PROTOCOLLO D’INTESA TRA MIM E CORTE DEI CONTI SULL’EDUCAZIONE FINANZIARIA E LA CULTURA DELLA LEGALITÀ Leggi di più",
+      "url": "https://www.corteconti.it/HOME/StampaMedia/Notizie/DettaglioNotizia?Id=bed145af-7430-4e5a-b00e-33726077d4d0",
+      "title": "CORTE CONTI: MAURO OREFICE NUOVO PRESIDENTE AGGIUNTO Leggi di più",
       "h1": "Corte dei conti",
       "dates": []
     }
@@ -110,5 +110,5 @@
   "candidateCount": 12,
   "datedCount": 0,
   "listingUrl": "https://www.corteconti.it/",
-  "durationSeconds": 4.06
+  "durationSeconds": 4.55
 }

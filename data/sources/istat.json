@@ -4,12 +4,19 @@
   "sourceId": "istat",
   "originUrl": "https://www.istat.it/",
   "configuredFeedUrl": "https://www.istat.it/feed/",
-  "collectedAt": "2026-11-10T23:45:50.977695Z",
+  "collectedAt": "2026-11-11T09:52:59.001904Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.istat.it/feed/",
   "items": [
+    {
+      "title": "Produzione industriale – Settembre 2026",
+      "url": "https://www.istat.it/comunicato-stampa/produzione-industriale-settembre-2026/",
+      "excerpt": "A settembre 2026 l’indice della produzione industriale aumenta dell'1,2% su agosto e diminuisce dello 0,1% su base annua",
+      "publishedAt": "2026-11-11T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "Programma e Relatori 16a Conferenza nazionale di statistica",
       "url": "https://www.istat.it/notizia/programma-e-relatori-cns16/",
@@ -72,13 +79,6 @@
       "excerpt": "Un video per scoprire quanta parte del lavoro domestico ricade ancora sulle donne",
       "publishedAt": "2026-11-09T00:00:00Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Manifestazione d’interesse per progetto interistituzionale su politiche di coesione",
-      "url": "https://www.istat.it/notizia/raccolta-manifestazione-interesse-per-accordo-collaborazione-progetto-informazione-statistica-territoriale-e-settoriale-politiche-di-coesione-2027-29/",
-      "excerpt": "Online le risposte ai quesiti pervenuti",
-      "publishedAt": "2026-11-06T00:00:00Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -92,5 +92,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 2.67
+  "durationSeconds": 3.46
 }

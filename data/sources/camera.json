@@ -4,12 +4,26 @@
   "sourceId": "camera",
   "originUrl": "https://www.camera.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-10T23:45:13.269236Z",
+  "collectedAt": "2026-11-11T09:52:23.023824Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "Oggi question time con i ministri Tajani, Ciriani, Giuli e Abodi",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64019",
+      "excerpt": "Si svolge oggi, mercoledì 11 novembre, alle 15, il question time trasmesso dalla Rai in diretta tel...",
+      "publishedAt": "2026-11-11T00:00:00Z",
+      "dateEvidence": "html:publication-label"
+    },
+    {
+      "title": "Decreto Giustizia - Interno - impianti strategici",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64020",
+      "excerpt": "Alle ore 9.30 il Parlamento in seduta comune è convocato per l'elezione di 10 componenti del Consig...",
+      "publishedAt": "2026-11-11T00:00:00Z",
+      "dateEvidence": "html:publication-label"
+    },
     {
       "title": "Dalle politiche al sistema - Costruire risposte integrate per giovani, lavoro e sviluppo - Mercoledì alle 10 diretta webtv - Saluto di Mulè",
       "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63979",
@@ -37,20 +51,6 @@
       "excerpt": "Mercoledì 11 novembre, alle ore 15, presso l’aula del IV piano di Palazzo San Macuto, la Commissi...",
       "publishedAt": "2026-11-10T00:00:00Z",
       "dateEvidence": "html:publication-label"
-    },
-    {
-      "title": "Rapporto 2026 – Verso la competitività sostenibile - Mercoledì alle 15 diretta webtv",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63984",
-      "excerpt": "Mercoledì 11 novembre, alle ore 15, presso la Sala della Regina di Montecitorio si svolge il conveg...",
-      "publishedAt": "2026-11-10T00:00:00Z",
-      "dateEvidence": "html:publication-label"
-    },
-    {
-      "title": "Audizione Federazione Esuli Istriani, Fiumani e Dalmati",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63985",
-      "excerpt": "Mercoledì 11 novembre, alle ore 15.45, la Commissione Esteri della Camera ha svolto l’audizione d...",
-      "publishedAt": "2026-11-10T00:00:00Z",
-      "dateEvidence": "html:publication-label"
     }
   ],
   "attempts": [
@@ -60,6 +60,14 @@
     },
     {
       "url": "https://comunicazione.camera.it/archivio-prima-pagina",
+      "status": 200
+    },
+    {
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64019",
+      "status": 200
+    },
+    {
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64020",
       "status": 200
     },
     {
@@ -77,14 +85,6 @@
     {
       "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63983",
       "status": 200
-    },
-    {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63984",
-      "status": 200
-    },
-    {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63985",
-      "status": 200
     }
   ],
   "message": "6 notizie recenti con data verificata; copertura parziale.",
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://comunicazione.camera.it/archivio-prima-pagina",
-  "durationSeconds": 4.43
+  "durationSeconds": 4.4
 }

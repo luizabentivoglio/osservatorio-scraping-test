@@ -4,7 +4,7 @@
   "sourceId": "piu-uno",
   "originUrl": "https://piu.uno/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-10T23:46:18.212562Z",
+  "collectedAt": "2026-11-11T09:53:29.002194Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -22,13 +22,6 @@
       "url": "https://piu.uno/notizie/prima-la-targa-poi-la-salute",
       "excerpt": "Finalmente abbiamo capito la gerarchia dei valori del governo Meloni. Prima l'auto, poi la targa, e solo dopo, se avanza qualcosa, la salute degli italiani. Del resto è logico, un'automobile, a differenza di un paziente, non si mette in lista d'attesa. Le Regioni hanno chiesto circa 6,8 miliardi per il 2027, e oltre 18",
       "publishedAt": "2026-11-01T00:00:00Z",
-      "dateEvidence": "html:publication-time"
-    },
-    {
-      "title": "I soldi non bastano e le famiglie pagano il conto · Più Uno",
-      "url": "https://piu.uno/notizie/i-soldi-non-bastano-e-le-famiglie-pagano-il-conto",
-      "excerpt": "I conti dello Stato devono tornare. Ma devono tornare anche quelli delle famiglie. Il governo rivendica l’ordine dei conti pubblici, mentre per milioni di italiani fare la spesa è diventato sempre più difficile. E ora, tra promesse elettorali e bandierine di partito, le risorse non bastano per mantenere gli impegni di ",
-      "publishedAt": "2026-10-28T00:00:00Z",
       "dateEvidence": "html:publication-time"
     }
   ],
@@ -66,10 +59,10 @@
       "status": 200
     }
   ],
-  "message": "3 notizie recenti con data verificata; copertura parziale.",
+  "message": "2 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [],
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://piu.uno/",
-  "durationSeconds": 3.63
+  "durationSeconds": 3.64
 }

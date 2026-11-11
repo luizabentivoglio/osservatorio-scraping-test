@@ -4,12 +4,19 @@
   "sourceId": "wwf",
   "originUrl": "https://www.wwf.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-10T23:46:29.725460Z",
+  "collectedAt": "2026-11-11T09:53:37.216953Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "Progetto ReMaRe e WWF SUB custodi del mare",
+      "url": "https://www.wwf.it/pandanews/ambiente/progetto-remare-wwf-sub-custodi-mare/",
+      "excerpt": "Per la settima edizione, WWF SUB ha incontrato il progetto ReMaRe impegnato nella rigenerazione dei fondali della Puglia Meridionale",
+      "publishedAt": "2026-11-11T09:47:07Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
     {
       "title": "La legge di bilancio non fa gli interessi della natura e delle persone",
       "url": "https://www.wwf.it/pandanews/societa/politica/la-legge-di-bilancio-non-fa-gli-interessi-della-natura-e-delle-persone/",
@@ -44,13 +51,6 @@
       "excerpt": "Torna a Roma la street parade per la giustizia climatica e sociale e per un futuro di pace, fuori dai combustibili fossili",
       "publishedAt": "2026-11-09T10:46:03Z",
       "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "COP31: la crisi climatica accelera, il mondo non può permettersi di arretrare",
-      "url": "https://www.wwf.it/pandanews/clima/cop31-la-crisi-climatica-accelera-il-mondo-non-puo-permettersi-di-arretrare/",
-      "excerpt": "La COP31 deve trasformare le promesse in cambiamenti tangibili e continuare a portare avanti l’azione per il clima",
-      "publishedAt": "2026-11-06T11:07:02Z",
-      "dateEvidence": "jsonld:datePublished"
     }
   ],
   "attempts": [
@@ -60,6 +60,10 @@
     },
     {
       "url": "https://www.wwf.it/",
+      "status": 200
+    },
+    {
+      "url": "https://www.wwf.it/pandanews/ambiente/progetto-remare-wwf-sub-custodi-mare/",
       "status": 200
     },
     {
@@ -81,10 +85,6 @@
     {
       "url": "https://www.wwf.it/pandanews/clima/clima-il-14-novembre-il-climate-pride-torna-in-piazza-a-roma/",
       "status": 200
-    },
-    {
-      "url": "https://www.wwf.it/pandanews/clima/cop31-la-crisi-climatica-accelera-il-mondo-non-puo-permettersi-di-arretrare/",
-      "status": 200
     }
   ],
   "message": "6 notizie recenti con data verificata; copertura parziale.",
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.wwf.it/",
-  "durationSeconds": 5.39
+  "durationSeconds": 5.43
 }
