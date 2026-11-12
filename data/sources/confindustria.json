@@ -4,12 +4,19 @@
   "sourceId": "confindustria",
   "originUrl": "https://www.confindustria.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-12T10:21:56.730638Z",
+  "collectedAt": "2026-11-12T18:37:46.298436Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "INTESA IMPRESE-SINDACATI, MARCHESINI (CONFINDUSTRIA): “UN RISULTATO DI GRANDE RESPONSABILITÀ, RAFFORZIAMO CONTRATTAZIONE E RELAZIONI INDUSTRIALI”",
+      "url": "https://www.confindustria.it/comunicati-stampa/intesa-imprese-sindacati-marchesini-confindustria-un-risultato-di-grande-responsabilita-rafforziamo-contrattazione-e-relazioni-industriali",
+      "excerpt": "Roma, 12 novembre 2026 – “L’intesa sull’Accordo quadro è un risultato di grande responsabilità, maturato al termine di un confronto lungo e complesso, che conferma la capacità delle parti sociali di trovare autonomamente soluzioni condivise sulle grandi questioni del lavoro”, ha dichiarato Maurizio Marchesini, Vice Pre",
+      "publishedAt": "2026-11-12T00:00:00Z",
+      "dateEvidence": "html:press-release-header"
+    },
     {
       "title": "AL VIA OGGI LA XXV SETTIMANA DELLA CULTURA D’IMPRESA",
       "url": "https://www.confindustria.it/comunicati-stampa/al-via-oggi-la-xxv-settimana-della-cultura-dimpresa",
@@ -25,6 +32,10 @@
     },
     {
       "url": "https://www.confindustria.it/comunicati-stampa",
+      "status": 200
+    },
+    {
+      "url": "https://www.confindustria.it/comunicati-stampa/intesa-imprese-sindacati-marchesini-confindustria-un-risultato-di-grande-responsabilita-rafforziamo-contrattazione-e-relazioni-industriali",
       "status": 200
     },
     {
@@ -46,16 +57,12 @@
     {
       "url": "https://www.confindustria.it/comunicati-stampa/artigianato-somma-confindustria-no-a-riforme-che-sprecano-soldi-pubblici-danneggiano-i-giovani-lindustria-e-la-rappresentanza",
       "status": 200
-    },
-    {
-      "url": "https://www.confindustria.it/comunicati-stampa/ddl-nucleare-confindustria-svolta-storica-per-il-futuro-del-paese",
-      "status": 200
     }
   ],
-  "message": "1 notizie recenti con data verificata; copertura parziale.",
+  "message": "2 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [],
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.confindustria.it/comunicati-stampa",
-  "durationSeconds": 4.75
+  "durationSeconds": 4.18
 }

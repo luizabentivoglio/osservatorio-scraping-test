@@ -4,7 +4,7 @@
   "sourceId": "emergency",
   "originUrl": "https://www.emergency.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-12T10:22:14.375745Z",
+  "collectedAt": "2026-11-12T18:38:05.067986Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -68,7 +68,7 @@
           "class": [
             "entry-date"
           ],
-          "text": "11 Novembre 2026",
+          "text": "12 Novembre 2026",
           "datetime": null
         },
         {
@@ -101,5 +101,5 @@
   "candidateCount": 8,
   "datedCount": 3,
   "listingUrl": "https://www.emergency.it/",
-  "durationSeconds": 7.26
+  "durationSeconds": 14.36
 }

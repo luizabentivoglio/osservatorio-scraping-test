@@ -4,12 +4,19 @@
   "sourceId": "ingv",
   "originUrl": "https://www.ingv.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-12T10:22:23.766104Z",
+  "collectedAt": "2026-11-12T18:38:13.038352Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.ingv.it/stampa-urp/ufficio-stampa/comunicati-stampa?format=feed&type=rss",
   "items": [
+    {
+      "title": "CATANIA | INGV presente all’evento “Oltre l’emergenza: governare il dissesto, dalle crisi alla prevenzione”",
+      "url": "https://www.ingv.it/stampa-urp/ufficio-stampa/comunicati-stampa/catania-ingv-presente-all-evento-oltre-l-emergenza-governare-il-dissesto-dalle-crisi-alla-prevenzione",
+      "excerpt": "",
+      "publishedAt": "2026-11-12T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "CAMPI FLEGREI | Uno studio INGV riscrive la storia dell’eruzione che contribuì a costruire Napoli",
       "url": "https://www.ingv.it/stampa-urp/ufficio-stampa/comunicati-stampa/campi-flegrei-uno-studio-ingv-riscrive-la-storia-dell-eruzione-che-contribui-a-costruire-napoli",
@@ -75,5 +82,5 @@
     }
   ],
   "message": "Feed dichiarato dalla fonte; date di pubblicazione verificate.",
-  "durationSeconds": 1.72
+  "durationSeconds": 1.11
 }

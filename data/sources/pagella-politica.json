@@ -4,12 +4,33 @@
   "sourceId": "pagella-politica",
   "originUrl": "https://pagellapolitica.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-12T10:22:43.248815Z",
+  "collectedAt": "2026-11-12T18:38:31.891924Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "Che cosa sta facendo l’Italia per difendersi dagli attacchi informatici",
+      "url": "https://pagellapolitica.it/articoli/italia-difesa-attacchi-informatici",
+      "excerpt": "I numeri sono in aumento e negli ultimi anni sono state introdotte nuove regole e stanziate risorse per prevenire e...",
+      "publishedAt": "2026-11-11T00:00:00Z",
+      "dateEvidence": "html:post-date"
+    },
+    {
+      "title": "Che cosa prevede il nuovo decreto sulle bollette",
+      "url": "https://pagellapolitica.it/articoli/nuovo-decreto-bollette-cosa-prevede",
+      "excerpt": "Il governo vuole ridurre il prezzo dell’elettricità attraverso un rimborso alle centrali, ma resta da capire quanto...",
+      "publishedAt": "2026-11-10T00:00:00Z",
+      "dateEvidence": "html:post-date"
+    },
+    {
+      "title": "Il governo vuole dare più poteri alle province che Meloni voleva abolire",
+      "url": "https://pagellapolitica.it/articoli/governo-meloni-province",
+      "excerpt": "L’esecutivo vuole reintrodurre l’elezione diretta dei presidenti e dei consigli provinciali, un sistema che...",
+      "publishedAt": "2026-11-10T00:00:00Z",
+      "dateEvidence": "html:post-date"
+    },
     {
       "title": "Cosa resta del Green Deal?",
       "url": "https://pagellapolitica.it/articoli/cosa-resta-del-green-deal",
@@ -30,27 +51,6 @@
       "excerpt": "Negli anni dietro la scelta del presidente dell’organismo, oggi al centro di polemiche tra governo e opposizioni...",
       "publishedAt": "2026-11-09T00:00:00Z",
       "dateEvidence": "html:post-date"
-    },
-    {
-      "title": "Bonaccini ha pubblicato una foto falsa di Tajani con il cappellino MAGA",
-      "url": "https://pagellapolitica.it/articoli/bonaccini-foto-falsa-tajani-maga",
-      "excerpt": "Dopo le proteste di Forza Italia il presidente del PD ha rimosso l’immagine. Il suo partito però si era impegnato a...",
-      "publishedAt": "2026-11-09T00:00:00Z",
-      "dateEvidence": "html:post-date"
-    },
-    {
-      "title": "Che cosa ha deciso la Corte costituzionale su Giusi Bartolozzi",
-      "url": "https://pagellapolitica.it/articoli/corte-costituzionale-giusi-bartolozzi",
-      "excerpt": "È stato accolto solo in parte il conflitto di attribuzione sollevato dalla Camera, e ora l’ex capa di gabinetto di...",
-      "publishedAt": "2026-11-09T00:00:00Z",
-      "dateEvidence": "html:post-date"
-    },
-    {
-      "title": "Come funziona il voto fuorisede, e quali sono le scadenze da rispettare",
-      "url": "https://pagellapolitica.it/articoli/voto-fuorisede-scadenze-procedura",
-      "excerpt": "La possibilità è stata introdotta dalla nuova legge elettorale, c’è tempo fino al 31 dicembre 2026 per presentare i...",
-      "publishedAt": "2026-11-09T00:00:00Z",
-      "dateEvidence": "html:post-date"
     }
   ],
   "attempts": [
@@ -60,6 +60,18 @@
     },
     {
       "url": "https://pagellapolitica.it/articoli",
+      "status": 200
+    },
+    {
+      "url": "https://pagellapolitica.it/articoli/italia-difesa-attacchi-informatici",
+      "status": 200
+    },
+    {
+      "url": "https://pagellapolitica.it/articoli/nuovo-decreto-bollette-cosa-prevede",
+      "status": 200
+    },
+    {
+      "url": "https://pagellapolitica.it/articoli/governo-meloni-province",
       "status": 200
     },
     {
@@ -73,18 +85,6 @@
     {
       "url": "https://pagellapolitica.it/articoli/governo-meloni-nomine-anac-affare-politico",
       "status": 200
-    },
-    {
-      "url": "https://pagellapolitica.it/articoli/bonaccini-foto-falsa-tajani-maga",
-      "status": 200
-    },
-    {
-      "url": "https://pagellapolitica.it/articoli/corte-costituzionale-giusi-bartolozzi",
-      "status": 200
-    },
-    {
-      "url": "https://pagellapolitica.it/articoli/voto-fuorisede-scadenze-procedura",
-      "status": 200
     }
   ],
   "message": "6 notizie recenti con data verificata; copertura parziale.",
@@ -92,5 +92,5 @@
   "candidateCount": 6,
   "datedCount": 6,
   "listingUrl": "https://pagellapolitica.it/articoli",
-  "durationSeconds": 5.9
+  "durationSeconds": 6.2
 }

@@ -4,52 +4,52 @@
   "sourceId": "il-post",
   "originUrl": "https://www.ilpost.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-12T10:22:26.777971Z",
+  "collectedAt": "2026-11-12T18:38:17.453031Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
-      "title": "Il compagno di Ramona Rinaldi, trovata morta nel febbraio del 2025 in provincia di Como, ha confessato in aula di averla uccisa",
-      "url": "https://www.ilpost.it/2026/11/12/ramona-rinaldi-confessione-femminicidio/?bitPosition=1",
-      "excerpt": "Il compagno di Ramona Rinaldi, trovata morta nel febbraio del 2025 in provincia di Como, ha confessato in aula di averla uccisa Daniele Re, il compagno di Ramona Rinaldi, ha confessato in tribunale di aver ucciso la donna, che era stata trovata morta impiccata nel bagno di casa il 21 febbraio del 2025 a Veniano, in pro",
-      "publishedAt": "2026-11-12T07:25:57Z",
+      "title": "Chi sono davvero gli hacker, spiegato bene",
+      "url": "https://www.ilpost.it/2026/11/12/gruppi-hacker-attacchi/?homepagePosition=0",
+      "excerpt": "L’articolo da leggere se siete confusi dallo stereotipo del ragazzaccio incappucciato davanti al pc, e dalle dichiarazioni di certi politici",
+      "publishedAt": "2026-11-12T17:30:36Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "Come ha fatto l’allarme bomba a raggiungere tutte le scuole",
-      "url": "https://www.ilpost.it/2026/11/12/allarme-bomba-mail-scuole/?homepagePosition=0",
-      "excerpt": "È partito dall’account violato di un’università di Taiwan ed è arrivato a indirizzi mail che erano in un elenco pubblico",
-      "publishedAt": "2026-11-12T06:28:02Z",
+      "title": "Nvidia è tornata a perdere parecchio in borsa",
+      "url": "https://www.ilpost.it/2026/11/12/nvidia-valore-borsa-diminuzione/?homepagePosition=2.2&referrerPost=3731138",
+      "excerpt": "Il prezzo delle azioni è arrivato a perdere più del 10 per cento, a causa delle dimissioni del suo capo e delle conseguenze su tutto il settore tecnologico",
+      "publishedAt": "2026-11-12T13:35:53Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "Israele ha attaccato di nuovo l’ospedale Nasser, nel sud della Striscia di Gaza, uccidendo almeno sei persone",
-      "url": "https://www.ilpost.it/2026/11/12/israele-attacco-ospedale-nasser-sei-persone-uccise/?bitPosition=2",
-      "excerpt": "Israele ha attaccato di nuovo l’ospedale Nasser, nel sud della Striscia di Gaza, uccidendo almeno sei persone Almeno sei persone palestinesi sono state uccise da un attacco aereo israeliano sull’ospedale Nasser, che si trova a Khan Yunis, nel sud della Striscia di Gaza, ed è il più grande ancora funzionante nel territo",
-      "publishedAt": "2026-11-12T05:08:40Z",
+      "title": "Il caso che ha portato alle dimissioni del capo di Nvidia, dall’inizio",
+      "url": "https://www.ilpost.it/2026/11/12/riassunto-huang-nvidia/?homepagePosition=2.1&referrerPost=3731138",
+      "excerpt": "Come Jensen Huang è passato dall’essere uno dei CEO più influenti dell’industria tecnologica globale a lasciare l'azienda che ha cofondato e guidato per oltre trent’anni",
+      "publishedAt": "2026-11-12T13:32:27Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "Almeno due persone sono morte a causa del crollo di un edificio a Brooklyn",
-      "url": "https://www.ilpost.it/2026/11/12/crollo-edificio-brooklyn-new-york/?bitPosition=3",
-      "excerpt": "Almeno due persone sono morte a causa del crollo di un edificio a Brooklyn Mercoledì pomeriggio, quando in Italia erano più o meno le 22, è crollato un edificio di tre piani a Brooklyn, uno dei quartieri più noti di New York: almeno due persone sono morte e altre 17 sono ferite, di cui quattro in condizioni gravi. L’ed",
-      "publishedAt": "2026-11-12T04:29:31Z",
+      "title": "Jensen Huang si è dimesso da amministratore delegato di Nvidia",
+      "url": "https://www.ilpost.it/2026/11/12/nvidia-dimissioni-jensen-huang/?homepagePosition=2",
+      "excerpt": "La notizia della sua relazione con una presunta spia cinese aveva provocato un netto calo in borsa, e un grave scandalo per l'azienda",
+      "publishedAt": "2026-11-12T12:57:10Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "Cosa sappiamo degli allarmi bomba nelle scuole",
-      "url": "https://www.ilpost.it/2026/11/11/allarmi-bomba-scuole-cosa-e-successo-chi-e-stato/?homepagePosition=0.1&referrerPost=3730985",
-      "excerpt": "Che erano infondati, innanzitutto: un po' di risposte su cosa è successo",
-      "publishedAt": "2026-11-11T18:47:15Z",
+      "title": "Se tutto è connesso, tutto può essere hackerato",
+      "url": "https://www.ilpost.it/2026/11/06/tutto-connesso-tutto-hackerato/?homepagePosition=0.2&referrerPost=3731562",
+      "excerpt": "Colleghiamo a Internet dispositivi d’ogni tipo ma non sempre pensiamo ad aggiornare i loro sistemi di sicurezza, e a volte non basta comunque",
+      "publishedAt": "2026-11-06T16:01:35Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "Il ministro dell’Istruzione Giuseppe Valditara ha detto che domani le scuole saranno aperte",
-      "url": "https://www.ilpost.it/2026/11/11/valditara-scuole-aperte-allarmi-bomba/?bitPosition=4",
-      "excerpt": "Il ministro dell’Istruzione Giuseppe Valditara ha detto che domani le scuole saranno aperte Il ministro dell’Istruzione Giuseppe Valditara ha detto che domani, giovedì 12 novembre, le scuole saranno regolarmente aperte, nonostante gli allarmi bomba che nella giornata di mercoledì hanno costretto a evacuazioni e interro",
-      "publishedAt": "2026-11-11T18:15:32Z",
+      "title": "Ci sono davvero hacker filorussi dietro gli attacchi ai frigoriferi dei supermercati?",
+      "url": "https://www.ilpost.it/2026/11/06/hacker-russi-attacchi-frigoriferi-supermercati/?homepagePosition=0.1&referrerPost=3731562",
+      "excerpt": "Nella rivendicazione diffusa da due gruppi ci sono alcune cose che non tornano",
+      "publishedAt": "2026-11-06T06:14:10Z",
       "dateEvidence": "jsonld:datePublished"
     }
   ],
@@ -63,27 +63,27 @@
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/12/allarme-bomba-mail-scuole/?homepagePosition=0",
+      "url": "https://www.ilpost.it/2026/11/12/gruppi-hacker-attacchi/?homepagePosition=0",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/11/allarmi-bomba-scuole-cosa-e-successo-chi-e-stato/?homepagePosition=0.1&referrerPost=3730985",
+      "url": "https://www.ilpost.it/2026/11/06/hacker-russi-attacchi-frigoriferi-supermercati/?homepagePosition=0.1&referrerPost=3731562",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/12/ramona-rinaldi-confessione-femminicidio/?bitPosition=1",
+      "url": "https://www.ilpost.it/2026/11/06/tutto-connesso-tutto-hackerato/?homepagePosition=0.2&referrerPost=3731562",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/12/israele-attacco-ospedale-nasser-sei-persone-uccise/?bitPosition=2",
+      "url": "https://www.ilpost.it/2026/11/12/nvidia-dimissioni-jensen-huang/?homepagePosition=2",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/12/crollo-edificio-brooklyn-new-york/?bitPosition=3",
+      "url": "https://www.ilpost.it/2026/11/12/riassunto-huang-nvidia/?homepagePosition=2.1&referrerPost=3731138",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/11/valditara-scuole-aperte-allarmi-bomba/?bitPosition=4",
+      "url": "https://www.ilpost.it/2026/11/12/nvidia-valore-borsa-diminuzione/?homepagePosition=2.2&referrerPost=3731138",
       "status": 200
     }
   ],
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.ilpost.it/",
-  "durationSeconds": 4.12
+  "durationSeconds": 3.52
 }

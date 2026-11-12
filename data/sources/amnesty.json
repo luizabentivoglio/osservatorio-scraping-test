@@ -4,31 +4,31 @@
   "sourceId": "amnesty",
   "originUrl": "https://www.amnesty.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-12T10:21:48.468260Z",
+  "collectedAt": "2026-11-12T18:37:38.286128Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
-      "title": "La storia di Gabriele Sandri",
-      "url": "https://www.amnesty.it/la-storia-di-gabriele-sandri/",
-      "excerpt": "Gabriele Sandri è stato ucciso l'11 novembre 2007 dallo sparo di un agente di polizia. A 19 anni dall'accaduto, ricordiamo la sua storia.",
-      "publishedAt": "2026-11-11T06:30:20Z",
+      "title": "Spagna: dallo sfratto di Maricarmen allo sciopero generale",
+      "url": "https://www.amnesty.it/spagna-dallo-sfratto-di-maricarmen-allo-sciopero-generale/",
+      "excerpt": "Tre studenti universitari che hanno partecipato all'accampamento di Siviglia, raccontano il movimento per il diritto alla casa.",
+      "publishedAt": "2026-11-12T12:20:39Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "Cop31: basta con l’industria del fossile",
-      "url": "https://www.amnesty.it/cop31-basta-con-industria-del-fossile/",
-      "excerpt": "I leader del mondo si riuniranno da domani per la Conferenza annuale sul clima (Cop31): devono cessare di sostenere l’industria del fossile.",
-      "publishedAt": "2026-11-09T10:15:51Z",
+      "title": "Italia: discussioni sullo stop al commercio con gli insediamenti illegali in Cisgiordania",
+      "url": "https://www.amnesty.it/italia-discussioni-stop-commercio-insediamenti-illegali-cisgiordania/",
+      "excerpt": "La discussione sullo stop al commercio italiano con gli insediamenti illegali in Cisgiordania è stata rinviata alla Camera il 16 novembre.",
+      "publishedAt": "2026-11-12T12:08:31Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "Israele e Tpo: in carcere l’attivista Ghassan Najjar",
-      "url": "https://www.amnesty.it/israele-tpo-carcere-attivista-ghassan-najjar/",
-      "excerpt": "L’esercito israeliano ha effettuato un raid nel nord della Cisgiordania occupata arrestando Ghassan Najjar difensore delle terre palestinesi.",
-      "publishedAt": "2026-11-05T14:13:08Z",
+      "title": "Il massacro di Abiemnom: inazione e impunità in Sud Sudan",
+      "url": "https://www.amnesty.it/il-massacro-abiemnom-inazione-impunita-sud-sudan/",
+      "excerpt": "La mattina del 1° marzo 2026 la città di Abiemnom in Sud Sudan è stata attaccata, un massacro di oltre 200 persone.",
+      "publishedAt": "2026-11-12T07:00:44Z",
       "dateEvidence": "jsonld:datePublished"
     }
   ],
@@ -39,6 +39,10 @@
     },
     {
       "url": "https://www.amnesty.it/",
+      "status": 200
+    },
+    {
+      "url": "https://www.amnesty.it/il-massacro-abiemnom-inazione-impunita-sud-sudan/",
       "status": 200
     },
     {
@@ -54,15 +58,11 @@
       "status": 200
     },
     {
-      "url": "https://www.amnesty.it/la-storia-di-gabriele-sandri/",
+      "url": "https://www.amnesty.it/spagna-dallo-sfratto-di-maricarmen-allo-sciopero-generale/",
       "status": 200
     },
     {
-      "url": "https://www.amnesty.it/cop31-basta-con-industria-del-fossile/",
-      "status": 200
-    },
-    {
-      "url": "https://www.amnesty.it/israele-tpo-carcere-attivista-ghassan-najjar/",
+      "url": "https://www.amnesty.it/italia-discussioni-stop-commercio-insediamenti-illegali-cisgiordania/",
       "status": 200
     }
   ],
@@ -90,5 +90,5 @@
   "candidateCount": 12,
   "datedCount": 3,
   "listingUrl": "https://www.amnesty.it/",
-  "durationSeconds": 6.76
+  "durationSeconds": 6.2
 }

@@ -4,12 +4,89 @@
   "sourceId": "il-notiziario",
   "originUrl": "https://www.ilnotiziario.net/",
   "configuredFeedUrl": "https://www.ilnotiziario.net/feed/",
-  "collectedAt": "2026-11-12T10:22:26.422408Z",
+  "collectedAt": "2026-11-12T18:38:16.446156Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.ilnotiziario.net/feed/",
   "items": [
+    {
+      "title": "Sesto San Giovanni, sospetto spaccio durante le consegne da rider: arrestato",
+      "url": "https://www.ilnotiziario.net/sesto-san-giovanni-sospetto-spaccio-durante-le-consegne-da-rider-arrestato/",
+      "excerpt": "Sesto San Giovanni, sospetto spaccio durante le consegne da rider: arrestato Un’attività di consegna a domicilio utilizzata...",
+      "publishedAt": "2026-11-12T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Acqua “rubata” alle casette di Caronno: arriva la tessera sanitaria",
+      "url": "https://www.ilnotiziario.net/acqua-rubata-alle-casette-di-caronno-arriva-la-tessera-sanitaria/",
+      "excerpt": "E’ deciso: delle casette dell’acqua di Caronno non potranno più servirsi i non residenti. A breve ci si potrà rifornire solo con...",
+      "publishedAt": "2026-11-12T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Desio, fugge dai carabinieri con la cocaina, arrestato 31enne",
+      "url": "https://www.ilnotiziario.net/desio-fugge-dai-carabinieri-con-la-cocaina-arrestato-31enne/",
+      "excerpt": "Desio, fugge dai carabinieri con la cocaina, arrestato 31enne Ha cercato di scappare alla vista dei carabinieri, lanciando un...",
+      "publishedAt": "2026-11-12T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Cesate, incidente sul confine con Solaro, Suv esce di strada e abbatte palo della luce",
+      "url": "https://www.ilnotiziario.net/cesate-incidente-sul-confine-con-solaro-suv-esce-di-strada-e-abbatte-palo-della-luce/",
+      "excerpt": "A Cesate un incidente stradale sul confine con Solaro dove un Suv è uscito di strada e ha abbattuto un palo della luce. Paura nel...",
+      "publishedAt": "2026-11-12T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Guasto ferroviario a Garbagnate Milanese, treni in ritardo sulla linea",
+      "url": "https://www.ilnotiziario.net/guasto-ferroviario-a-garbagnate-milanese-treni-in-ritardo-sulla-linea/",
+      "excerpt": "Guasto ferroviario a Garbagnate Milanese, treni in ritardo sulla linea Un guasto alla linea ferroviaria ha rallentato la...",
+      "publishedAt": "2026-11-12T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Rho, incidente con auto rovesciata, due donne ferite",
+      "url": "https://www.ilnotiziario.net/rho-incidente-con-auto-rovesciata-due-donne-ferite/",
+      "excerpt": "Incidente stradale a Rho con auto rovesciata nella tarda mattinata di oggi, giovedì 12 novembre. Intorno alle 12.41 due auto si...",
+      "publishedAt": "2026-11-12T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Nuova mail con minacce alle scuole, segnalazioni da Varese alla Brianza",
+      "url": "https://www.ilnotiziario.net/nuova-mail-con-minacce-alle-scuole-segnalazioni-da-varese-alla-brianza/",
+      "excerpt": "Nuova mail con minacce alle scuole, segnalazioni da Varese alla Brianza Una nuova serie di email con minacce di attentati ha...",
+      "publishedAt": "2026-11-12T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Paura sulla SS36 tra Lissone e Muggiò: bobine di metallo travolgono un’auto",
+      "url": "https://www.ilnotiziario.net/paura-sulla-ss36-tra-lissone-e-muggio-bobine-di-metallo-travolgono-unauto/",
+      "excerpt": "Paura sulla SS36 tra Lissone e Muggiò: bobine di metallo travolgono un’auto Un incidente stradale ha coinvolto...",
+      "publishedAt": "2026-11-12T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Spaccio nei boschi, blitz dei Carabinieri, smantellati 17 bivacchi tra Milano, Monza e Varesotto",
+      "url": "https://www.ilnotiziario.net/spaccio-nei-boschi-blitz-dei-carabinieri-smantellati-17-bivacchi-tra-milano-monza-e-varesotto/",
+      "excerpt": "Spaccio nei boschi, blitz dei Carabinieri, smantellati 17 bivacchi tra Milano, Monza e Varesotto Una vasta operazione dei...",
+      "publishedAt": "2026-11-12T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Milano, ronde contro gli extracomunitari, due indagati e armi sequestrate",
+      "url": "https://www.ilnotiziario.net/milano-ronde-contro-gli-extracomunitari-due-indagati-e-armi-sequestrate/",
+      "excerpt": "Milano, ronde contro gli extracomunitari, due indagati e armi sequestrate La Polizia di Stato ha eseguito due perquisizioni a...",
+      "publishedAt": "2026-11-12T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Nasce la nuova Farmacia Comunale di Terrazzano",
+      "url": "https://www.ilnotiziario.net/nasce-la-nuova-farmacia-comunale-di-terrazzano/",
+      "excerpt": "Tutto pronto per il taglio del nastro ufficiale della nuova farmacia comunale della frazione rhodense di Terrazzano che sarà...",
+      "publishedAt": "2026-11-12T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "Monza, rapine ai danni di due sedicenni, arrestato anche il secondo responsabile",
       "url": "https://www.ilnotiziario.net/monza-rapine-ai-danni-di-due-sedicenni-arrestato-anche-il-secondo-responsabile/",
@@ -37,83 +114,6 @@
       "excerpt": "Incidente tra due Tir in Tangenziale, 3 persone ferite, lunghe code in orario di punta Mattinata difficile per chi si è messo in...",
       "publishedAt": "2026-11-12T00:00:00Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Sicurezza a Milano, blitz della Polfer nelle stazioni, quattro persone finiscono in manette",
-      "url": "https://www.ilnotiziario.net/sicurezza-a-milano-blitz-della-polfer-nelle-stazioni-quattro-persone-finiscono-in-manette/",
-      "excerpt": "Sicurezza a Milano, blitz della Polfer nelle stazioni, quattro persone finiscono in manette Fine settimana di controlli nelle...",
-      "publishedAt": "2026-11-11T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Incidente a Misinto, scontro auto-moto, 4 feriti, anche due bambini",
-      "url": "https://www.ilnotiziario.net/incidente-a-misinto-scontro-auto-moto-4-feriti-anche-due-bambini/",
-      "excerpt": "Incidente a Misinto, 4 feriti tra cui due bambini in uno scontro auto-moto. Momenti di apprensione nel pomeriggio di mercoledì 11...",
-      "publishedAt": "2026-11-11T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Sesto San Giovanni, 2 kg di droga nel sacchetto della spesa, arrestato un 48enne",
-      "url": "https://www.ilnotiziario.net/sesto-san-giovanni-2-kg-di-droga-nel-sacchetto-della-spesa-arrestato-un-48enne/",
-      "excerpt": "Sesto San Giovanni, 2 kg di droga nel sacchetto della spesa, arrestato un 48enne Un normale sacchetto della spesa nascondeva un...",
-      "publishedAt": "2026-11-11T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Rho, furti e accattonaggio a EICMA: interviene la Polizia, arrestato un 15enne",
-      "url": "https://www.ilnotiziario.net/rho-furti-e-accattonaggio-a-eicma-interviene-la-polizia-arrestato-un-15enne/",
-      "excerpt": "Rho, furti e accattonaggio a EICMA: interviene la Polizia, arrestato un 15enne Controlli più intensi durante EICMA, la fiera...",
-      "publishedAt": "2026-11-11T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Stazione Centrale, nuovo servizio interforze a Milano, controlli nelle strade del quartiere",
-      "url": "https://www.ilnotiziario.net/stazione-centrale-nuovo-servizio-interforze-a-milano-controlli-nelle-strade-del-quartiere/",
-      "excerpt": "Stazione Centrale, nuovo servizio interforze a Milano, controlli nelle strade del quartiere Nuovi controlli delle forze...",
-      "publishedAt": "2026-11-11T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Saronno, ex Isotta Fraschini e sanità, doppio appuntamento questa sera in Consiglio comunale",
-      "url": "https://www.ilnotiziario.net/saronno-ex-isotta-fraschini-e-sanita-doppio-appuntamento-questa-sera-in-consiglio-comunale/",
-      "excerpt": "Saronno, ex Isotta Fraschini e sanità, doppio appuntamento questa sera in Consiglio comunale Il futuro dell’ex Isotta Fraschini e...",
-      "publishedAt": "2026-11-11T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Protezione civile, esercitazione nelle Groane, coinvolti 86 volontari",
-      "url": "https://www.ilnotiziario.net/protezione-civile-esercitazione-nelle-groane-coinvolti-86-volontari/",
-      "excerpt": "Protezione civile, esercitazione nelle Groane, coinvolti 86 volontari Un fine settimana dedicato alla formazione e alla...",
-      "publishedAt": "2026-11-11T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Da Saronno a Paderno Dugnano, da Rho a Bollate, decine di scuole evacuate: ecco il testo della mail di minacce",
-      "url": "https://www.ilnotiziario.net/da-saronno-a-paderno-dugnano-da-rho-a-bollate-decine-di-scuole-evacuate-ecco-il-testo-della-mail-di-minacce/",
-      "excerpt": "Una mattinata di paura e di corse dei genitori davanti ai cancelli ha coinvolto, mercoledì 11 novembre, le scuole del Nord Ovest...",
-      "publishedAt": "2026-11-11T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Rho si ferma per non dimenticare i caduti di Nassiriya",
-      "url": "https://www.ilnotiziario.net/rho-si-ferma-per-non-dimenticare-i-caduti-di-nassiriya/",
-      "excerpt": "La città si ferma per non dimenticare. Domani, giovedì alle 14, la Sala Consiliare del Municipio di piazza Visconti ospiterà la...",
-      "publishedAt": "2026-11-11T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Allarme bomba nelle scuole: evacuato il Gadda di Paderno Dugnano e diversi istituti di Saronno",
-      "url": "https://www.ilnotiziario.net/allarme-bomba-nelle-scuole-evacuato-il-gadda-di-paderno-dugnano-e-diversi-istituti-di-saronno/",
-      "excerpt": "Mattinata di tensione, mercoledì 11 novembre, in diversi istituti superiori della zona, dove sarebbero scattati allarmi per...",
-      "publishedAt": "2026-11-11T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Saronno, ancora ferme alcune scale mobili della stazione, slitta la riapertura",
-      "url": "https://www.ilnotiziario.net/saronno-ancora-ferme-alcune-scale-mobili-della-stazione-slitta-la-riapertura/",
-      "excerpt": "Saronno, ancora ferme alcune scale mobili della stazione, slitta la riapertura Non c’è ancora una data ravvicinata per il ritorno...",
-      "publishedAt": "2026-11-11T00:00:00Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -127,5 +127,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 1.5
+  "durationSeconds": 1.01
 }

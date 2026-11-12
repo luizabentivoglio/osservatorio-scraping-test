@@ -10,11 +10,11 @@
 | camera | ok | trafilatura | 6 | — |
 | cisl | blocked | html | 0 | robots_disallowed |
 | cnr | ok | rss | 20 | — |
-| coldiretti | ok | trafilatura | 4 | — |
-| commissione-europea | blocked | html | 0 | rate_limited |
+| coldiretti | ok | trafilatura | 5 | — |
+| commissione-europea | ok | trafilatura | 1 | — |
 | comune-bollate | error | html | 0 | http_error |
 | confcommercio | blocked | html | 0 | access_restricted |
-| confindustria | ok | trafilatura | 1 | — |
+| confindustria | ok | trafilatura | 2 | — |
 | consiglio-ue | blocked | html | 0 | access_restricted |
 | copernicus | no_feed | crawl4ai | 0 | parsing_error |
 | coraggio-italia | no_feed | crawl4ai | 0 | parsing_error |
@@ -35,7 +35,7 @@
 | il-fatto | blocked | html | 0 | robots_disallowed |
 | il-notiziario | ok | rss | 15 | — |
 | il-post | ok | trafilatura | 6 | — |
-| ingv | ok | rss | 7 | — |
+| ingv | ok | rss | 8 | — |
 | ispi | blocked | html | 0 | robots_disallowed |
 | ispra | ok | rss | 0 | — |
 | iss | ok | trafilatura | 0 | — |

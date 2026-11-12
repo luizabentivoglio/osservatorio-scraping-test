@@ -4,52 +4,52 @@
   "sourceId": "camera",
   "originUrl": "https://www.camera.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-12T10:21:49.978262Z",
+  "collectedAt": "2026-11-12T18:37:39.567071Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
-      "title": "Piazza Montecitorio, domani alle 10 al via il progetto “Borghi in carrozza” per un turismo accessibile. Partecipa Traversi",
+      "title": "Manifestazione di interesse per la nomina dell'organismo per la parità",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64083",
+      "excerpt": "Ai sensi dell'articolo 3 del decreto legislativo 7 maggio 2026, n. 91, il Presidente e i quattro com...",
+      "publishedAt": "2026-11-12T00:00:00Z",
+      "dateEvidence": "html:publication-label"
+    },
+    {
+      "title": "Femminicidi, il 25 novembre alla Camera la proiezione di \"Se domani non torno\", con Gino Cecchettin. Introduce Ascani: \"In Parlamento per costruire il cambiamento che serve\". Diretta webtv, con lis",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64082",
+      "excerpt": "Il film \"Se domani non torno\", diretto da Paola Randi e prodotto da Notorious Pictures, che racconta...",
+      "publishedAt": "2026-11-12T00:00:00Z",
+      "dateEvidence": "html:publication-label"
+    },
+    {
+      "title": "Piazza Montecitorio, venerdì alle 10 al via il progetto “Borghi in carrozza” per un turismo accessibile. Partecipa Traversi",
       "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64073",
       "excerpt": "Piazza Montecitorio ospiterà domani, venerdì 13 novembre, alle 10, la partenza di “Borghi in car...",
       "publishedAt": "2026-11-12T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "Decreto Giustizia - Interno - impianti strategici",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64070",
-      "excerpt": "La Camera è convocata alle ore 9.30 per il seguito dell'esame dei seguenti provvedimenti: Conversi...",
+      "title": "Giornata mondiale del diabete - Venerdì alle 15 diretta webtv - Saluto di Mulè",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64074",
+      "excerpt": "Venerdì 13 novembre, alle ore 15, presso la Sala della Regina di Montecitorio si svolge il convegno...",
       "publishedAt": "2026-11-12T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "La cultura conservatrice - Mercoledì 18 alle 11 diretta webtv con lis - Intervengono Fini, Ungaro, Terranova - Aperte le prenotazioni",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64040",
-      "excerpt": "Mercoledì 18 novembre, alle ore 11, presso la Sala della Regina di Montecitorio si svolge il semina...",
-      "publishedAt": "2026-11-11T00:00:00Z",
+      "title": "Parlamento dei Giovani - Venerdì alle 15.30 diretta webtv",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64075",
+      "excerpt": "Venerdì 13 novembre, alle ore 15.30, presso l'Aula dei Gruppi parlamentari della Camera si svolge l...",
+      "publishedAt": "2026-11-12T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "Le nuove frontiere della consulenza finanziaria dal 2016 al 2026: la storia di una evoluzione a tutela del risparmio - Giovedì alle 10 diretta webtv – Messaggio di Fontana",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64044",
-      "excerpt": "Giovedì 12 novembre, alle ore 10, presso l'Aula dei Gruppi parlamentari della Camera si svolge il c...",
-      "publishedAt": "2026-11-11T00:00:00Z",
-      "dateEvidence": "html:publication-label"
-    },
-    {
-      "title": "Autonomia differenziata, audizione Decaro – Giovedì alle 14 diretta webtv",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64026",
-      "excerpt": "Giovedì 12 novembre, alle ore 14, la Commissione Affari costituzionali svolge l’audizione di Anto...",
-      "publishedAt": "2026-11-11T00:00:00Z",
-      "dateEvidence": "html:publication-label"
-    },
-    {
-      "title": "Poteri digitali, intelligenza artificiale e sviluppo umano integrale - Giovedì alle 17 diretta webtv - Messaggio di Fontana",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64027",
-      "excerpt": "Giovedì 12 novembre, alle ore 17, presso la Sala Matteotti di Palazzo Theodoli-Bianchelli si svolge...",
-      "publishedAt": "2026-11-11T00:00:00Z",
+      "title": "Via libera al Decreto Giustizia - Interno - impianti strategici",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64070",
+      "excerpt": "La Camera è convocata venerdì 13 novembre alle ore 9.30 per lo svolgimento di interpellanze urgent...",
+      "publishedAt": "2026-11-12T00:00:00Z",
       "dateEvidence": "html:publication-label"
     }
   ],
@@ -63,27 +63,27 @@
       "status": 200
     },
     {
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64083",
+      "status": 200
+    },
+    {
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64082",
+      "status": 200
+    },
+    {
       "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64073",
       "status": 200
     },
     {
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64074",
+      "status": 200
+    },
+    {
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64075",
+      "status": 200
+    },
+    {
       "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64070",
-      "status": 200
-    },
-    {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64040",
-      "status": 200
-    },
-    {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64044",
-      "status": 200
-    },
-    {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64026",
-      "status": 200
-    },
-    {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64027",
       "status": 200
     }
   ],
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://comunicazione.camera.it/archivio-prima-pagina",
-  "durationSeconds": 4.1
+  "durationSeconds": 3.98
 }

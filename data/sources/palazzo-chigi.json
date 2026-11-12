@@ -4,12 +4,33 @@
   "sourceId": "palazzo-chigi",
   "originUrl": "https://www.governo.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-12T10:22:44.097632Z",
+  "collectedAt": "2026-11-12T18:38:33.330335Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.governo.it/feed/rss",
   "items": [
+    {
+      "title": "Riunione del Comitato interministeriale per la sicurezza della Repubblica",
+      "url": "https://www.governo.it/it/articolo/riunione-del-comitato-interministeriale-la-sicurezza-della-repubblica/33098",
+      "excerpt": "Si è riunito questo pomeriggio, a Palazzo Chigi, il Comitato interministeriale per la sicurezza della Repubblica (CISR) in sede tecnica, alla presenza del Sottosegretario alla Presidenza del Consiglio e Autorità delegata per la sicurezza della Repubblica, Alfredo Mantovano, del Ministro dell’interno Matteo Piantedosi, ",
+      "publishedAt": "2026-11-12T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Incontro con il Primo Ministro del Regno Unito Burnham",
+      "url": "https://www.governo.it/it/articolo/incontro-con-il-primo-ministro-del-regno-unito-burnham/33097",
+      "excerpt": "A margine del Vertice della Comunità politica europea di Dublino, il Presidente del Consiglio, Giorgia Meloni, ha incontrato il Primo Ministro del Regno Unito, Andy Burnham. Il colloquio ha consentito di confermare la solidità delle relazioni bilaterali e la volontà condivisa di rafforzare ulteriormente la cooperazione",
+      "publishedAt": "2026-11-12T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Lavoro, la dichiarazione del Presidente Meloni sull'intesa raggiunta tra le parti sociali",
+      "url": "https://www.governo.it/it/articolo/lavoro-la-dichiarazione-del-presidente-meloni-sullintesa-raggiunta-tra-le-parti-sociali",
+      "excerpt": "L’intesa raggiunta questa mattina tra le parti sociali sulla qualità del lavoro e sulla rappresentanza segna un traguardo storico per innovare le relazioni sindacali e industriali in Italia. È un passo decisivo, per rafforzare le retribuzioni dei lavoratori e per rendere il nostro sistema economico e produttivo più com",
+      "publishedAt": "2026-11-12T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "Definizione del protocollo operativo comune per la gestione delle segnalazioni di allarme",
       "url": "https://www.governo.it/it/articolo/definizione-del-protocollo-operativo-comune-la-gestione-delle-segnalazioni-di-allarme/33090",
@@ -20,7 +41,7 @@
     {
       "title": "Vertice della Comunità Politica Europea",
       "url": "https://www.governo.it/it/articolo/vertice-della-comunit-politica-europea/33089",
-      "excerpt": "Il Presidente del Consiglio, Giorgia Meloni, parteciperà oggi al nono Vertice della Comunità Politica Europea (CPE), ospitato dall’Irlanda a Dublino.",
+      "excerpt": "Il Presidente del Consiglio, Giorgia Meloni, partecipa al nono Vertice della Comunità Politica Europea (CPE), ospitato dall’Irlanda a Dublino.",
       "publishedAt": "2026-11-12T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -58,27 +79,6 @@
       "excerpt": "Dichiarazione sull’incontro odierno ad Abu Dhabi tra l’Unione europea, la Francia, la Germania, l’Italia, il Regno Unito, l’Ucraina, gli Stati Uniti e la NATO.",
       "publishedAt": "2026-11-10T00:00:00Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Comunicato stampa del Consiglio dei Ministri n. 197",
-      "url": "https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-197/33070",
-      "excerpt": "Il Consiglio dei Ministri si è riunito lunedì 9 novembre 2026, alle ore 18.01 a Palazzo Chigi, sotto la presidenza del Presidente Giorgia Meloni. Segretario, il Sottosegretario alla Presidenza Alfredo Mantovano. ٠٠٠٠٠",
-      "publishedAt": "2026-11-09T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Decreto Bollette, dichiarazione del Presidente Meloni",
-      "url": "https://www.governo.it/it/articolo/decreto-bollette-dichiarazione-del-presidente-meloni/33069",
-      "excerpt": "Il Consiglio dei Ministri ha approvato il nuovo Decreto Bollette. Abbiamo scelto di affrontare uno dei nodi più difficili del caro energia: il meccanismo che fa salire il prezzo dell’elettricità a causa del costo del gas e pesa sui conti delle famiglie e delle imprese. Il decreto interviene su questo punto, con tre sce",
-      "publishedAt": "2026-11-09T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Consiglio dei Ministri n. 197",
-      "url": "https://www.governo.it/it/articolo/consiglio-dei-ministri-n-197/33065",
-      "excerpt": "Si è svolta a Palazzo Chigi la riunione del Consiglio dei Ministri. Nel comunicato stampa i provvedimenti approvati.",
-      "publishedAt": "2026-11-09T00:00:00Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -100,5 +100,5 @@
     }
   ],
   "message": "Feed dichiarato dalla fonte; date di pubblicazione verificate.",
-  "durationSeconds": 30.14
+  "durationSeconds": 30.12
 }

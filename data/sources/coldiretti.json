@@ -4,12 +4,19 @@
   "sourceId": "coldiretti",
   "originUrl": "https://www.coldiretti.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-12T10:21:54.081988Z",
+  "collectedAt": "2026-11-12T18:37:43.547788Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "Giornata Dieta Mediterranea, cibo sano negli ospedali con nuovi mercati contadini da Nord a Sud",
+      "url": "https://www.coldiretti.it/economia/giornata-dieta-mediterranea-cibo-sano-negli-ospedali-con-nuovi-mercati-contadini-da-nord-a-sud",
+      "excerpt": "Da Bari e Varese, nuovi appuntamenti. Si rafforza il patto tra medici e agricoltori per la prevenzione contro il cibo che ammala",
+      "publishedAt": "2026-11-12T13:56:57Z",
+      "dateEvidence": "meta:article:published_time"
+    },
     {
       "title": "Lavoro: dalla farmacista agricoltrice bio all'apicoltrice archeologa. Ecco le Amiche della Terra che fanno rinascere i territori",
       "url": "https://www.coldiretti.it/economia/lavoro-dalla-farmacista-agricoltrice-bio-allapicoltrice-archeologa-ecco-le-amiche-della-terra-che-fanno-rinascere-i-territori",
@@ -49,6 +56,10 @@
       "status": 200
     },
     {
+      "url": "https://www.coldiretti.it/economia/giornata-dieta-mediterranea-cibo-sano-negli-ospedali-con-nuovi-mercati-contadini-da-nord-a-sud",
+      "status": 200
+    },
+    {
       "url": "https://www.coldiretti.it/economia/lavoro-dalla-farmacista-agricoltrice-bio-allapicoltrice-archeologa-ecco-le-amiche-della-terra-che-fanno-rinascere-i-territori",
       "status": 200
     },
@@ -67,16 +78,12 @@
     {
       "url": "https://www.coldiretti.it/economia/forum-coldiretti-arriva-farmcraft-con-minecraft-leducazione-al-cibo-sano-entra-nel-mondo-dei-ragazzi",
       "status": 200
-    },
-    {
-      "url": "https://www.coldiretti.it/economia/salute-al-forum-lo-scaffale-del-vero-made-in-italy-e-la-fabbrica-dei-malati",
-      "status": 200
     }
   ],
-  "message": "4 notizie recenti con data verificata; copertura parziale.",
+  "message": "5 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [],
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.coldiretti.it/",
-  "durationSeconds": 10.69
+  "durationSeconds": 7.66
 }

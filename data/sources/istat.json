@@ -4,12 +4,33 @@
   "sourceId": "istat",
   "originUrl": "https://www.istat.it/",
   "configuredFeedUrl": "https://www.istat.it/feed/",
-  "collectedAt": "2026-11-12T10:22:26.371748Z",
+  "collectedAt": "2026-11-12T18:38:15.951687Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.istat.it/feed/",
   "items": [
+    {
+      "title": "CIG B5FC335862 – Convenzione Consip “Energia elettrica 22 – lotto 14 (Puglia e Basilicata)",
+      "url": "https://www.istat.it/bando-di-gara/cig-b5fc335862-convenzione-consip-energia-elettrica-22-lotto-14-puglia-e-basilicata/",
+      "excerpt": "Pubblicata la delibera di adesione",
+      "publishedAt": "2026-11-12T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Manifestazione d’interesse per progetto interistituzionale su politiche di coesione",
+      "url": "https://www.istat.it/notizia/raccolta-manifestazione-interesse-per-accordo-collaborazione-progetto-informazione-statistica-territoriale-e-settoriale-politiche-di-coesione-2027-29/",
+      "excerpt": "Online le risposte ai quesiti pervenuti",
+      "publishedAt": "2026-11-12T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Esame del disegno di legge recante Bilancio di previsione dello Stato per l’anno finanziario 2027 e bilancio pluriennale per il triennio 2027-2029",
+      "url": "https://www.istat.it/audizioni/esame-del-disegno-di-legge-recante-bilancio-di-previsione-dello-stato-per-lanno-finanziario-2027-e-bilancio-pluriennale-per-il-triennio-2027-2029/",
+      "excerpt": "Audizione del Presidente dell’Istituto nazionale di statistica Prof. Francesco Maria Chelli",
+      "publishedAt": "2026-11-12T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "Soddisfazione dei cittadini – Anno 2025",
       "url": "https://www.istat.it/comunicato-stampa/soddisfazione-dei-cittadini-anno-2025/",
@@ -29,13 +50,6 @@
       "url": "https://www.istat.it/microdati/rilevazione-sulle-forze-di-lavoro-dati-trasversali-trimestrali/",
       "excerpt": "Online il file con i dati del II trimestre 2026",
       "publishedAt": "2026-11-12T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Manifestazione d’interesse per progetto interistituzionale su politiche di coesione",
-      "url": "https://www.istat.it/notizia/raccolta-manifestazione-interesse-per-accordo-collaborazione-progetto-informazione-statistica-territoriale-e-settoriale-politiche-di-coesione-2027-29/",
-      "excerpt": "Online le risposte ai quesiti pervenuti",
-      "publishedAt": "2026-11-11T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
@@ -65,20 +79,6 @@
       "excerpt": "A settembre 2026 l’indice della produzione industriale aumenta dell'1,2% su agosto e diminuisce dello 0,1% su base annua",
       "publishedAt": "2026-11-11T00:00:00Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Programma e Relatori 16a Conferenza nazionale di statistica",
-      "url": "https://www.istat.it/notizia/programma-e-relatori-cns16/",
-      "excerpt": "La pagina del programma e dei relatori della Conferenza Nazionale di Statistica 2026",
-      "publishedAt": "2026-11-10T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Valutazione partecipativa sul Valore Pubblico generato dall’Istat",
-      "url": "https://www.istat.it/notizia/valutazione-partecipativa-sul-valore-pubblico-generato-dallistat/",
-      "excerpt": "Prorogata la scadenza al 15 dicembre",
-      "publishedAt": "2026-11-10T00:00:00Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -92,5 +92,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 2.95
+  "durationSeconds": 2.29
 }

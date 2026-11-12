@@ -4,7 +4,7 @@
   "sourceId": "libera",
   "originUrl": "https://www.libera.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-12T10:22:33.284089Z",
+  "collectedAt": "2026-11-12T18:38:23.396283Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "html",
@@ -31,5 +31,5 @@
   "message": "Titoli, link e date di pubblicazione verificati nelle schede ufficiali delle notizie.",
   "datedCount": 4,
   "listingUrl": "https://www.libera.it/",
-  "durationSeconds": 2.69
+  "durationSeconds": 2.42
 }
