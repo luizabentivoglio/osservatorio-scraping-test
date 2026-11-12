@@ -4,7 +4,7 @@
   "sourceId": "legambiente",
   "originUrl": "https://www.legambiente.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-12T18:38:22.219616Z",
+  "collectedAt": "2026-11-12T23:55:02.039094Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -21,10 +21,6 @@
     },
     {
       "url": "https://www.legambiente.it/campagne-e-progetti/festa-dell-albero/",
-      "status": 200
-    },
-    {
-      "url": "https://www.legambiente.it/campagne-e-progetti/la-terra-chiamo/",
       "status": 200
     },
     {
@@ -53,12 +49,6 @@
       "dates": []
     },
     {
-      "url": "https://www.legambiente.it/campagne-e-progetti/la-terra-chiamo/",
-      "title": "Rispondi ora",
-      "h1": "La Terra chiamò",
-      "dates": []
-    },
-    {
       "url": "https://www.legambiente.it/campagne-e-progetti/change-climate-change",
       "title": "Scopri di più",
       "h1": "Change Climate Change",
@@ -74,5 +64,11 @@
   "candidateCount": 12,
   "datedCount": 2,
   "listingUrl": "https://www.legambiente.it/",
-  "durationSeconds": 6.41
+  "durationSeconds": 37.38,
+  "attemptErrors": [
+    {
+      "url": "https://www.legambiente.it/campagne-e-progetti/la-terra-chiamo/",
+      "code": "timeout"
+    }
+  ]
 }

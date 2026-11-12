@@ -4,12 +4,55 @@
   "sourceId": "wwf",
   "originUrl": "https://www.wwf.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-12T18:38:52.087537Z",
-  "status": "blocked",
-  "diagnosticCode": "access_restricted",
-  "method": "html",
+  "collectedAt": "2026-11-12T23:55:40.952345Z",
+  "status": "ok",
+  "diagnosticCode": null,
+  "method": "trafilatura",
   "feedUrl": null,
-  "items": [],
+  "items": [
+    {
+      "title": "COP31, l’Italia assente al vertice dei leader e in ritardo sul clima",
+      "url": "https://www.wwf.it/pandanews/clima/cop31-litalia-assente-al-vertice-dei-leader-e-in-ritardo-sul-clima/",
+      "excerpt": "Antonio Tajani, ha annullato il suo viaggio. Un segnale politico preoccupante che si aggiunge ai ritardi nelle politiche nazionali",
+      "publishedAt": "2026-11-12T15:02:00Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "Cosa accade alla COP31 giorno per giorno",
+      "url": "https://www.wwf.it/pandanews/clima/cosa-accade-alla-cop31-giorno-per-giorno/",
+      "excerpt": "Dal 9 al 21 novembre è in corso ad Antalya il più importante evento per la lotta alla crisi climatica. Qui il nostro racconto giornaliero",
+      "publishedAt": "2026-11-12T11:34:00Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "Donne e pesca: dare voce a chi, nonostante le difficoltà, già contribuisce al settore",
+      "url": "https://www.wwf.it/pandanews/societa/donne-e-pesca-dare-voce-a-chi-nonostante-le-difficolta-gia-contribuisce-al-settore/",
+      "excerpt": "Dal lavoro nelle comunità costiere alla costruzione di una rete mediterranea di pescatrici: l'impegno del WWF per il ruolo delle donne",
+      "publishedAt": "2026-11-12T10:00:00Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "Progetto ReMaRe e WWF SUB custodi del mare",
+      "url": "https://www.wwf.it/pandanews/ambiente/progetto-remare-wwf-sub-custodi-mare/",
+      "excerpt": "Per la settima edizione, WWF SUB ha incontrato il progetto ReMaRe impegnato nella rigenerazione dei fondali della Puglia Meridionale",
+      "publishedAt": "2026-11-11T09:47:07Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "La legge di bilancio non fa gli interessi della natura e delle persone",
+      "url": "https://www.wwf.it/pandanews/societa/politica/la-legge-di-bilancio-non-fa-gli-interessi-della-natura-e-delle-persone/",
+      "excerpt": "Il WWF propone fondi per ripristino natura, aree protette, decarbonizzazione e adattamento, transizione agroecologica dell'agricoltura",
+      "publishedAt": "2026-11-10T14:29:44Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "Saline di Trapani protagoniste del podcast WWF Viaggio in Oasi",
+      "url": "https://www.wwf.it/pandanews/wwf-life/saline-trapani-protagoniste-podcast/",
+      "excerpt": "Le Saline si caratterizzano per il felice connubio tra produzione del sale marino con metodi tradizionali e tutela della biodiversità",
+      "publishedAt": "2026-11-10T09:31:39Z",
+      "dateEvidence": "jsonld:datePublished"
+    }
+  ],
   "attempts": [
     {
       "url": "https://www.wwf.it/robots.txt",
@@ -17,11 +60,37 @@
     },
     {
       "url": "https://www.wwf.it/",
-      "status": 403
+      "status": 200
+    },
+    {
+      "url": "https://www.wwf.it/pandanews/clima/cop31-litalia-assente-al-vertice-dei-leader-e-in-ritardo-sul-clima/",
+      "status": 200
+    },
+    {
+      "url": "https://www.wwf.it/pandanews/clima/cosa-accade-alla-cop31-giorno-per-giorno/",
+      "status": 200
+    },
+    {
+      "url": "https://www.wwf.it/pandanews/societa/donne-e-pesca-dare-voce-a-chi-nonostante-le-difficolta-gia-contribuisce-al-settore/",
+      "status": 200
+    },
+    {
+      "url": "https://www.wwf.it/pandanews/ambiente/progetto-remare-wwf-sub-custodi-mare/",
+      "status": 200
+    },
+    {
+      "url": "https://www.wwf.it/pandanews/societa/politica/la-legge-di-bilancio-non-fa-gli-interessi-della-natura-e-delle-persone/",
+      "status": 200
+    },
+    {
+      "url": "https://www.wwf.it/pandanews/wwf-life/saline-trapani-protagoniste-podcast/",
+      "status": 200
     }
   ],
-  "message": "HTTP 403: accesso limitato dalla fonte",
-  "httpStatus": 403,
-  "failedUrl": "https://www.wwf.it/",
-  "durationSeconds": 0.83
+  "message": "6 notizie recenti con data verificata; copertura parziale.",
+  "candidateSamples": [],
+  "candidateCount": 12,
+  "datedCount": 6,
+  "listingUrl": "https://www.wwf.it/",
+  "durationSeconds": 6.83
 }

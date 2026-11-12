@@ -4,12 +4,26 @@
   "sourceId": "palazzo-chigi",
   "originUrl": "https://www.governo.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-12T18:38:33.330335Z",
+  "collectedAt": "2026-11-12T23:55:13.604318Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.governo.it/feed/rss",
   "items": [
+    {
+      "title": "Riunione sull'Ucraina del \"Formato di Berlino\" e incontro con il Presidente Zelensky",
+      "url": "https://www.governo.it/it/articolo/riunione-sullucraina-del-formato-di-berlino-e-incontro-con-il-presidente-zelensky/33105",
+      "excerpt": "Il Presidente del Consiglio, Giorgia Meloni, ha partecipato oggi a Dublino, a margine del Vertice della Comunità politica europea, alla riunione sull'Ucraina del \"Formato di Berlino\". L'incontro è stata l’occasione per riaffermare il pieno sostegno all'Ucraina, anche alla luce dei recenti colloqui trilaterali di Abu Dh",
+      "publishedAt": "2026-11-12T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Riunione della Coalizione europea contro le droghe",
+      "url": "https://www.governo.it/it/articolo/riunione-della-coalizione-europea-contro-le-droghe/33102",
+      "excerpt": "A margine del Vertice della Comunità politica europea di Dublino, il Presidente del Consiglio, Giorgia Meloni, e il Presidente della Repubblica francese, Emmanuel Macron, hanno presieduto una nuova riunione dei leader della Coalizione europea contro le droghe (ECAD), iniziativa promossa congiuntamente da Italia e Franc",
+      "publishedAt": "2026-11-12T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "Riunione del Comitato interministeriale per la sicurezza della Repubblica",
       "url": "https://www.governo.it/it/articolo/riunione-del-comitato-interministeriale-la-sicurezza-della-repubblica/33098",
@@ -41,7 +55,7 @@
     {
       "title": "Vertice della Comunità Politica Europea",
       "url": "https://www.governo.it/it/articolo/vertice-della-comunit-politica-europea/33089",
-      "excerpt": "Il Presidente del Consiglio, Giorgia Meloni, partecipa al nono Vertice della Comunità Politica Europea (CPE), ospitato dall’Irlanda a Dublino.",
+      "excerpt": "Il Presidente del Consiglio, Giorgia Meloni, ha partecipato al nono Vertice della Comunità Politica Europea (CPE), ospitato dall’Irlanda a Dublino.",
       "publishedAt": "2026-11-12T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -65,20 +79,6 @@
       "excerpt": "Il Presidente del Consiglio, Giorgia Meloni, ha visitato questo pomeriggio l’Esposizione Internazionale di Macchine per l'Agricoltura e il Giardinaggio (EIMA), presso BolognaFiere. A seguire il Presidente ha visitato Conserve Italia, in occasione del cinquantesimo anniversario del Gruppo aderente a Confcooperative, a S",
       "publishedAt": "2026-11-10T00:00:00Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "XXII edizione del Premio Giacomo Matteotti, la cerimonia di premiazione",
-      "url": "https://www.governo.it/it/articolo/xxii-edizione-del-premio-giacomo-matteotti-la-cerimonia-di-premiazione/33074",
-      "excerpt": "Alla cerimonia hanno preso parte il Segretario generale della Presidenza del Consiglio e Presidente della Commissione esaminatrice, Carlo Deodato, i componenti della Commissione (Alberto Aghemo, Giovanni Belardelli, Ernesto Galli Della Loggia, Adriano Monti Buzzetti Colella, Tommaso Piffer e Gianpaolo Romanato), docent",
-      "publishedAt": "2026-11-10T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Statement on today's meeting in Abu Dhabi between the EU, France, Germany, Italy, United Kingdom, Ukraine, United States and NATO",
-      "url": "https://www.governo.it/it/articolo/statement-todays-meeting-abu-dhabi-between-eu-france-germany-italy-united-kingdom-ukraine",
-      "excerpt": "Dichiarazione sull’incontro odierno ad Abu Dhabi tra l’Unione europea, la Francia, la Germania, l’Italia, il Regno Unito, l’Ucraina, gli Stati Uniti e la NATO.",
-      "publishedAt": "2026-11-10T00:00:00Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -100,5 +100,5 @@
     }
   ],
   "message": "Feed dichiarato dalla fonte; date di pubblicazione verificate.",
-  "durationSeconds": 30.12
+  "durationSeconds": 30.18
 }

@@ -4,52 +4,52 @@
   "sourceId": "il-post",
   "originUrl": "https://www.ilpost.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-12T18:38:17.453031Z",
+  "collectedAt": "2026-11-12T23:54:57.002491Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
-      "title": "Chi sono davvero gli hacker, spiegato bene",
-      "url": "https://www.ilpost.it/2026/11/12/gruppi-hacker-attacchi/?homepagePosition=0",
-      "excerpt": "L’articolo da leggere se siete confusi dallo stereotipo del ragazzaccio incappucciato davanti al pc, e dalle dichiarazioni di certi politici",
-      "publishedAt": "2026-11-12T17:30:36Z",
+      "title": "Una nave da guerra russa è stata attaccata da un drone ucraino nel Golfo di Finlandia, in un’area aperta al traffico civile",
+      "url": "https://www.ilpost.it/2026/11/12/nave-guerra-russa-attaccata-golfo-finlandia-area-aperta-traffico-civile/?bitPosition=1",
+      "excerpt": "Una nave da guerra russa è stata attaccata da un drone ucraino nel Golfo di Finlandia, in un’area aperta al traffico civile Una nave da guerra russa è stata attaccata da un drone ucraino nel Golfo di Finlandia. Il Servizio di sicurezza dell’Ucraina (Sbu), l’agenzia dei servizi segreti che si occupa di controspionaggio ",
+      "publishedAt": "2026-11-12T19:46:19Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "Ci sono problemi di accesso ai servizi Microsoft, compreso il sistema di posta elettronica Outlook, in diverse parti del mondo",
+      "url": "https://www.ilpost.it/2026/11/12/problemi-accesso-microsof-outlook/?bitPosition=2",
+      "excerpt": "Ci sono problemi di accesso ai servizi Microsoft, compreso il sistema di posta elettronica Outlook, in diverse parti del mondo Ci sono problemi di accesso ai servizi Microsoft, compreso il sistema di posta elettronica Outlook, in diverse parti del mondo. «Mentre lavoriamo per mitigare l’impatto» ha fatto sapere l’azien",
+      "publishedAt": "2026-11-12T18:50:17Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "La Finlandia bloccherà i visti delle atlete e degli atleti russi per i Mondiali di pattinaggio di figura",
+      "url": "https://www.ilpost.it/2026/11/12/finlandia-atlete-atleti-russi-blocco-visti-mondiali-pattinaggio-figura/?bitPosition=3",
+      "excerpt": "La Finlandia bloccherà i visti delle atlete e degli atleti russi per i Mondiali di pattinaggio di figura La Finlandia bloccherà i visti delle atlete e degli atleti russi in vista dei Campionati mondiali di pattinaggio di figura che si terranno a Tampere nel marzo del 2027. La ministra degli Esteri finlandese Elina Valt",
+      "publishedAt": "2026-11-12T18:42:36Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
       "title": "Nvidia è tornata a perdere parecchio in borsa",
-      "url": "https://www.ilpost.it/2026/11/12/nvidia-valore-borsa-diminuzione/?homepagePosition=2.2&referrerPost=3731138",
-      "excerpt": "Il prezzo delle azioni è arrivato a perdere più del 10 per cento, a causa delle dimissioni del suo capo e delle conseguenze su tutto il settore tecnologico",
+      "url": "https://www.ilpost.it/2026/11/12/nvidia-valore-borsa-diminuzione/?homepagePosition=0.2&referrerPost=3731133",
+      "excerpt": "A causa delle dimissioni del suo capo e delle conseguenze del calo su tutto il settore tecnologico",
       "publishedAt": "2026-11-12T13:35:53Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
       "title": "Il caso che ha portato alle dimissioni del capo di Nvidia, dall’inizio",
-      "url": "https://www.ilpost.it/2026/11/12/riassunto-huang-nvidia/?homepagePosition=2.1&referrerPost=3731138",
-      "excerpt": "Come Jensen Huang è passato dall’essere uno dei CEO più influenti dell’industria tecnologica globale a lasciare l'azienda che ha cofondato e guidato per oltre trent’anni",
+      "url": "https://www.ilpost.it/2026/11/12/riassunto-huang-nvidia/?homepagePosition=0",
+      "excerpt": "Come Jensen Huang è passato dall’essere uno dei CEO più influenti al mondo a lasciare l'azienda che ha guidato per oltre trent’anni",
       "publishedAt": "2026-11-12T13:32:27Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
       "title": "Jensen Huang si è dimesso da amministratore delegato di Nvidia",
-      "url": "https://www.ilpost.it/2026/11/12/nvidia-dimissioni-jensen-huang/?homepagePosition=2",
-      "excerpt": "La notizia della sua relazione con una presunta spia cinese aveva provocato un netto calo in borsa, e un grave scandalo per l'azienda",
+      "url": "https://www.ilpost.it/2026/11/12/nvidia-dimissioni-jensen-huang/?homepagePosition=0.1&referrerPost=3731133",
+      "excerpt": "Dopo la notizia della sua relazione con una presunta spia cinese, e forse un'altra con una dirigente dell'azienda",
       "publishedAt": "2026-11-12T12:57:10Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Se tutto è connesso, tutto può essere hackerato",
-      "url": "https://www.ilpost.it/2026/11/06/tutto-connesso-tutto-hackerato/?homepagePosition=0.2&referrerPost=3731562",
-      "excerpt": "Colleghiamo a Internet dispositivi d’ogni tipo ma non sempre pensiamo ad aggiornare i loro sistemi di sicurezza, e a volte non basta comunque",
-      "publishedAt": "2026-11-06T16:01:35Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Ci sono davvero hacker filorussi dietro gli attacchi ai frigoriferi dei supermercati?",
-      "url": "https://www.ilpost.it/2026/11/06/hacker-russi-attacchi-frigoriferi-supermercati/?homepagePosition=0.1&referrerPost=3731562",
-      "excerpt": "Nella rivendicazione diffusa da due gruppi ci sono alcune cose che non tornano",
-      "publishedAt": "2026-11-06T06:14:10Z",
       "dateEvidence": "jsonld:datePublished"
     }
   ],
@@ -63,27 +63,27 @@
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/12/gruppi-hacker-attacchi/?homepagePosition=0",
+      "url": "https://www.ilpost.it/2026/11/12/riassunto-huang-nvidia/?homepagePosition=0",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/06/hacker-russi-attacchi-frigoriferi-supermercati/?homepagePosition=0.1&referrerPost=3731562",
+      "url": "https://www.ilpost.it/2026/11/12/nvidia-dimissioni-jensen-huang/?homepagePosition=0.1&referrerPost=3731133",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/06/tutto-connesso-tutto-hackerato/?homepagePosition=0.2&referrerPost=3731562",
+      "url": "https://www.ilpost.it/2026/11/12/nvidia-valore-borsa-diminuzione/?homepagePosition=0.2&referrerPost=3731133",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/12/nvidia-dimissioni-jensen-huang/?homepagePosition=2",
+      "url": "https://www.ilpost.it/2026/11/12/nave-guerra-russa-attaccata-golfo-finlandia-area-aperta-traffico-civile/?bitPosition=1",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/12/riassunto-huang-nvidia/?homepagePosition=2.1&referrerPost=3731138",
+      "url": "https://www.ilpost.it/2026/11/12/problemi-accesso-microsof-outlook/?bitPosition=2",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/12/nvidia-valore-borsa-diminuzione/?homepagePosition=2.2&referrerPost=3731138",
+      "url": "https://www.ilpost.it/2026/11/12/finlandia-atlete-atleti-russi-blocco-visti-mondiali-pattinaggio-figura/?bitPosition=3",
       "status": 200
     }
   ],
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.ilpost.it/",
-  "durationSeconds": 3.52
+  "durationSeconds": 3.54
 }

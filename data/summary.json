@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-12T18:39:03.454549+00:00",
+  "generatedAt": "2026-11-12T23:55:47.784714+00:00",
   "sourceCount": 67,
-  "ok": 36,
-  "items": 172,
+  "ok": 38,
+  "items": 185,
   "results": [
     {
       "sourceId": "amnesty",
@@ -107,13 +107,13 @@
     },
     {
       "sourceId": "comune-bollate",
-      "status": "error",
-      "method": "html",
-      "diagnosticCode": "http_error",
-      "message": "HTTP 500",
-      "candidateCount": null,
-      "datedCount": null,
-      "itemCount": 0
+      "status": "ok",
+      "method": "trafilatura",
+      "diagnosticCode": null,
+      "message": "6 notizie recenti con data verificata; copertura parziale.",
+      "candidateCount": 12,
+      "datedCount": 6,
+      "itemCount": 6
     },
     {
       "sourceId": "confcommercio",
@@ -161,7 +161,7 @@
       "method": "crawl4ai",
       "diagnosticCode": "parsing_error",
       "message": "Pagina accessibile, ma nessuna notizia con data di pubblicazione verificabile.",
-      "candidateCount": 2,
+      "candidateCount": 1,
       "datedCount": 0,
       "itemCount": 0
     },
@@ -450,10 +450,10 @@
       "status": "ok",
       "method": "trafilatura",
       "diagnosticCode": null,
-      "message": "3 notizie recenti con data verificata; copertura parziale.",
+      "message": "4 notizie recenti con data verificata; copertura parziale.",
       "candidateCount": 11,
       "datedCount": 6,
-      "itemCount": 3
+      "itemCount": 4
     },
     {
       "sourceId": "msf",
@@ -667,13 +667,13 @@
     },
     {
       "sourceId": "wwf",
-      "status": "blocked",
-      "method": "html",
-      "diagnosticCode": "access_restricted",
-      "message": "HTTP 403: accesso limitato dalla fonte",
-      "candidateCount": null,
-      "datedCount": null,
-      "itemCount": 0
+      "status": "ok",
+      "method": "trafilatura",
+      "diagnosticCode": null,
+      "message": "6 notizie recenti con data verificata; copertura parziale.",
+      "candidateCount": 12,
+      "datedCount": 6,
+      "itemCount": 6
     }
   ]
 }

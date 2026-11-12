@@ -4,12 +4,19 @@
   "sourceId": "mef",
   "originUrl": "https://www.mef.gov.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-12T18:38:25.822536Z",
+  "collectedAt": "2026-11-12T23:55:06.324783Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "Giorgetti: rivendico approccio asburgico, manovra investe sui giovani, sostiene lavoro, famiglie e imprese",
+      "url": "https://www.mef.gov.it/inevidenza/Giorgetti-rivendico-approccio-asburgico-manovra-investe-sui-giovani-sostiene-lavoro-famiglie-e-imprese/",
+      "excerpt": "Ministro in audizione su ddl bilancio: confermato percorso di riduzione pressione fiscale, rafforzati interventi per sanità e stabilità conti pubblici",
+      "publishedAt": "2026-11-12T19:58:18Z",
+      "dateEvidence": "meta:datepublished"
+    },
     {
       "title": "Giorgetti: salutiamo con soddisfazione attivazione Nec Italia",
       "url": "https://www.mef.gov.it/inevidenza/Giorgetti-salutiamo-con-soddisfazione-attivazione-Nec-Italia/",
@@ -46,15 +53,15 @@
       "status": 200
     },
     {
+      "url": "https://www.mef.gov.it/inevidenza/Giorgetti-rivendico-approccio-asburgico-manovra-investe-sui-giovani-sostiene-lavoro-famiglie-e-imprese/",
+      "status": 200
+    },
+    {
       "url": "https://www.mef.gov.it/inevidenza/Giorgetti-salutiamo-con-soddisfazione-attivazione-Nec-Italia/",
       "status": 200
     },
     {
       "url": "https://www.mef.gov.it/inevidenza/Giorgetti-prudenza-prima-forma-di-liberta-risparmiare-il-modo-piu-concreto-di-credere-nel-domani/",
-      "status": 200
-    },
-    {
-      "url": "https://www.mef.gov.it/inevidenza/BTP-Valore-oltre-165-miliardi-raccolti-nella-prima-doppia-emissione-tassi-cedolari-rivisti-al-rialzo/",
       "status": 200
     },
     {
@@ -70,10 +77,10 @@
       "status": 200
     }
   ],
-  "message": "3 notizie recenti con data verificata; copertura parziale.",
+  "message": "4 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [],
   "candidateCount": 11,
   "datedCount": 6,
   "listingUrl": "https://www.mef.gov.it/",
-  "durationSeconds": 5.06
+  "durationSeconds": 4.73
 }

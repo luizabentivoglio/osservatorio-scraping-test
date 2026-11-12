@@ -4,20 +4,93 @@
   "sourceId": "comune-bollate",
   "originUrl": "https://comune.bollate.mi.it/it/news",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-12T18:37:44.491904Z",
-  "status": "error",
-  "diagnosticCode": "http_error",
-  "method": "html",
+  "collectedAt": "2026-11-12T23:54:23.999135Z",
+  "status": "ok",
+  "diagnosticCode": null,
+  "method": "trafilatura",
   "feedUrl": null,
-  "items": [],
+  "items": [
+    {
+      "title": "TARI 2026: promemoria scadenza",
+      "url": "https://comune.bollate.mi.it/it/news/tari-2026-promemoria-scadenza",
+      "excerpt": "Sito ufficiale Comune di Bollate",
+      "publishedAt": "2026-11-12T00:00:00Z",
+      "dateEvidence": "html:news-date-label"
+    },
+    {
+      "title": "Bollate contro la violenza sulle donne",
+      "url": "https://comune.bollate.mi.it/it/news/bollate-contro-la-violenza-sulle-donne",
+      "excerpt": "Sito ufficiale Comune di Bollate",
+      "publishedAt": "2026-11-10T00:00:00Z",
+      "dateEvidence": "html:news-date-label"
+    },
+    {
+      "title": "Open day. Le scuole si presentano.",
+      "url": "https://comune.bollate.mi.it/it/news/open-day-2075461",
+      "excerpt": "Sito ufficiale Comune di Bollate",
+      "publishedAt": "2026-11-10T00:00:00Z",
+      "dateEvidence": "html:news-date-label"
+    },
+    {
+      "title": "Sciopero generale proclamato per il 20 novembre",
+      "url": "https://comune.bollate.mi.it/it/news/sciopero-2046496-2059402-2075560",
+      "excerpt": "Sito ufficiale Comune di Bollate",
+      "publishedAt": "2026-11-10T00:00:00Z",
+      "dateEvidence": "html:news-date-label"
+    },
+    {
+      "title": "Avviso pubblico indagine mercato Centro scolastico via Varalli",
+      "url": "https://comune.bollate.mi.it/it/news/avviso-pubblico-2056751-2075513",
+      "excerpt": "Sito ufficiale Comune di Bollate",
+      "publishedAt": "2026-11-10T00:00:00Z",
+      "dateEvidence": "html:news-date-label"
+    },
+    {
+      "title": "Nasce il Distretto energetico territoriale: Bollate capofila",
+      "url": "https://comune.bollate.mi.it/it/news/deti",
+      "excerpt": "Sito ufficiale Comune di Bollate",
+      "publishedAt": "2026-11-10T00:00:00Z",
+      "dateEvidence": "html:news-date-label"
+    }
+  ],
   "attempts": [
     {
       "url": "https://comune.bollate.mi.it/robots.txt",
-      "status": 500
+      "status": 200
+    },
+    {
+      "url": "https://comune.bollate.mi.it/it/news",
+      "status": 200
+    },
+    {
+      "url": "https://comune.bollate.mi.it/it/news/tari-2026-promemoria-scadenza",
+      "status": 200
+    },
+    {
+      "url": "https://comune.bollate.mi.it/it/news/bollate-contro-la-violenza-sulle-donne",
+      "status": 200
+    },
+    {
+      "url": "https://comune.bollate.mi.it/it/news/open-day-2075461",
+      "status": 200
+    },
+    {
+      "url": "https://comune.bollate.mi.it/it/news/sciopero-2046496-2059402-2075560",
+      "status": 200
+    },
+    {
+      "url": "https://comune.bollate.mi.it/it/news/avviso-pubblico-2056751-2075513",
+      "status": 200
+    },
+    {
+      "url": "https://comune.bollate.mi.it/it/news/deti",
+      "status": 200
     }
   ],
-  "message": "HTTP 500",
-  "httpStatus": 500,
-  "failedUrl": "https://comune.bollate.mi.it/robots.txt",
-  "durationSeconds": 1.08
+  "message": "6 notizie recenti con data verificata; copertura parziale.",
+  "candidateSamples": [],
+  "candidateCount": 12,
+  "datedCount": 6,
+  "listingUrl": "https://comune.bollate.mi.it/it/news",
+  "durationSeconds": 4.49
 }

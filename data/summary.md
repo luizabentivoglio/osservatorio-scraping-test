@@ -12,7 +12,7 @@
 | cnr | ok | rss | 20 | — |
 | coldiretti | ok | trafilatura | 5 | — |
 | commissione-europea | ok | trafilatura | 1 | — |
-| comune-bollate | error | html | 0 | http_error |
+| comune-bollate | ok | trafilatura | 6 | — |
 | confcommercio | blocked | html | 0 | access_restricted |
 | confindustria | ok | trafilatura | 2 | — |
 | consiglio-ue | blocked | html | 0 | access_restricted |
@@ -46,7 +46,7 @@
 | la-stampa | ok | rss | 40 | — |
 | legambiente | ok | trafilatura | 0 | — |
 | libera | ok | html | 1 | — |
-| mef | ok | trafilatura | 3 | — |
+| mef | ok | trafilatura | 4 | — |
 | msf | ok | trafilatura | 6 | — |
 | osservatorio-cpi | ok | trafilatura | 6 | — |
 | oxfam | ok | trafilatura | 4 | — |
@@ -68,6 +68,6 @@
 | sud-chiama-nord | blocked | html | 0 | access_restricted |
 | svp | ok | trafilatura | 0 | — |
 | tgr-lombardia | no_feed | crawl4ai | 0 | parsing_error |
-| wwf | blocked | html | 0 | access_restricted |
+| wwf | ok | trafilatura | 6 | — |
 
 Le date sono verificate nei feed o nei metadati di pubblicazione dei singoli articoli. Nessun dato personale dell’archivio è letto o pubblicato.

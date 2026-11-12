@@ -4,12 +4,61 @@
   "sourceId": "la-stampa",
   "originUrl": "https://www.lastampa.it/",
   "configuredFeedUrl": "https://www.lastampa.it/rss/copertina.xml",
-  "collectedAt": "2026-11-12T18:38:21.493651Z",
+  "collectedAt": "2026-11-12T23:55:01.164676Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.lastampa.it/rss/copertina.xml",
   "items": [
+    {
+      "title": "La notte di Pio Esposito, doppietta e l'Italia batte 3-1 la Francia: Azzurri in vetta",
+      "url": "https://www.lastampa.it/sport/2026/11/12/news/pio_esposito_trascina_l_italia_doppietta_nel_3-1_alla_francia_azzurri_primi-15796751/",
+      "excerpt": "Gli azzurri rimontano il gol iniziale di Olise con Esposito, autore di due reti, e Frattesi. La Nazionale di Mancini sale in testa al girone a pari punti con i francesi",
+      "publishedAt": "2026-11-12T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "I muscoli degli Esposito con i sogni portati dalla cameretta tra rigori sbagliati e segnati",
+      "url": "https://www.lastampa.it/sport/2026/11/12/news/i_muscoli_degli_esposito_con_i_sogni_portati_dalla_cameretta_tra_rigori_sbagliati_e_segnati-15796769/",
+      "excerpt": "Pio record: 9 gol in 14 partite. Centro dal dischetto che tradisce Seba",
+      "publishedAt": "2026-11-12T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Kimi Antonelli si prende San Siro: “Ho ancora fame”, il campione di F1 festeggiato a Italia-Francia",
+      "url": "https://www.lastampa.it/sport/2026/11/13/news/kimi_antonelli_si_prende_san_siro_ho_ancora_fame_il_campione_di_f1_festeggiato_a_italia-francia-15796772/",
+      "excerpt": "Antonelli a San Siro: «È la prima volta. Ho dovuto togliere il tricolore dai capelli, ma tornerà»",
+      "publishedAt": "2026-11-12T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Achille Lauro incendia le Finals col concertone inaugurale. Cobolli: \"Ho avuto paura di non essere qui\"",
+      "url": "https://www.lastampa.it/sport/speciali/atp-finals-2026/2026/11/12/news/achille_lauro_concerto_atp_finals_torino-15796732/",
+      "excerpt": "Il cantante romano dà il via alle seste Nitto Atp Finals di Torino. Cobolli a sorpresa sul palco",
+      "publishedAt": "2026-11-12T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Finals, Zverev-Jodar primo singolo: domenica alle 14. Cobolli lunedì con Medvedev alle 20,30",
+      "url": "https://www.lastampa.it/sport/speciali/atp-finals-2026/2026/11/12/news/atp_finals_sorteggio_gironi_cobolli_alcaraz_bolelli_vavassori-15795950/",
+      "excerpt": "Gli incontri delle prime due giornate, il via domenica 15 novembre. Lunedì 16 (alle 11,30) gli azzurri Bolelli-Vavassori contro Granollers-Zeballos; in serata Flavio, all’esordio nell’evento di fine stagione. La cerimonia dei sorteggi all’Inalpi Arena di Torino",
+      "publishedAt": "2026-11-12T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "L’arena e come arrivarci, i biglietti e il Fan Village. Guida completa alle Atp Finals di Torino",
+      "url": "https://www.lastampa.it/torino/2026/11/12/news/atp_finals_2026_torino_guida_biglietti_trasporti_eventi-15795618/",
+      "excerpt": "Giovedì 12 novembre il “Grand Opening Show” con il concerto di Achille Lauro",
+      "publishedAt": "2026-11-12T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Outlook in tilt, migliaia senza email: blackout globale per Microsoft, colpiti anche Teams e Copilot",
+      "url": "https://www.lastampa.it/tech/2026/11/12/news/outlook_mail_blackout_microsoft_copilot-15796495/",
+      "excerpt": "Caselle di posta inaccessibili e schermate bloccate",
+      "publishedAt": "2026-11-12T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "È morto Toni Capuozzo, il giornalista che ha raccontato le guerre in prima linea: aveva 77 anni",
       "url": "https://www.lastampa.it/cronaca/2026/11/12/news/toni_capuozzo_morto_giornalista_77_anni-15796217/",
@@ -18,9 +67,9 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Roma, ragazza si uccide a 15 anni: voleva cambiare sesso. Si indaga sull’ipotesi bullismo",
+      "title": "Trans a quindici anni si toglie la vita: “Era vittima dei bulli”",
       "url": "https://www.lastampa.it/cronaca/2026/11/12/news/roma_ragazza_suicida_15_anni_cambio_sesso-15796420/",
-      "excerpt": "Il percorso di transizione accettato dai genitori, ma forse incompreso a scuola: tra i compagni si cercano eventuali episodi di bullismo. Il fascicolo è aperto, per ora senza indagati",
+      "excerpt": "Roma, s’indaga per istigazione al suicidio: disposta l’autopsia. L’adolescente aveva intrapreso il percorso di affermazione di genere",
       "publishedAt": "2026-11-12T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -74,23 +123,9 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Dopo i frigoriferi, le lampadine: quando la casa intelligente finisce nelle mani degli hacker",
-      "url": "https://www.lastampa.it/tech/2026/11/12/news/attacchi_hacker_casa_dispositivi_smart_rischi_come_proteggersi-15795030/",
-      "excerpt": "Telecamere, televisori, termostati, aspirapolvere robot, prese intelligenti: sempre più oggetti domestici sono collegati a internet e possono diventare bersagli di attacchi informatici. Ecco come proteggersi",
-      "publishedAt": "2026-11-12T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Allarmi bomba nelle scuole di Torino, la lunga fila dei bambini evacuati sotto la pioggia",
-      "url": "https://www.lastampa.it/torino/2026/11/12/video/allarmi_bomba_nelle_scuole_di_torino_la_lunga_fila_dei_bambini_evacuati_sotto_la_pioggia-15796096/",
-      "excerpt": "I bambini escono da scuola e percorrono in fila via Nizza, sotto la pioggia. È il secondo giorno consecutivo di allarmi bomba nelle scuole di Torino. Dopo le oltre 190 segnalazioni arrivate in città l’11 novembre, nuove minacce, che secondo le prime informazioni sarebbero state inviate via mail, hanno portato all’evacu",
-      "publishedAt": "2026-11-12T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "“Scene viste nei film Usa. Mi sono angosciato”",
-      "url": "https://www.lastampa.it/speciale/cultura/fuoriclasse/2026/11/12/news/scene_viste_nei_film_usa_mi_sono_angosciato-15795519/",
-      "excerpt": "La voce dell’altoparlante della scuola non l’avevo mai sentita, oggi per la prima volta sì. Un professore con cui parliamo tutti i giorni e che ci spiega argomenti come storia ...",
+      "title": "Isaac Ben-Israel: “Il vero rischio è la dipendenza dall’AI. Il cyber crimine si può solo contenere”",
+      "url": "https://www.lastampa.it/esteri/2026/11/12/news/isaac_ben-israel_il_vero_rischio_e_la_dipendenza_dall_ai_il_cyber_crimine_si_puo_solo_contenere-15796631/",
+      "excerpt": "L’esperto israeliano: «L’Europa è stata troppo ottimista sul futuro della pace»",
       "publishedAt": "2026-11-12T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -123,51 +158,9 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Cesare Grandi, il segreto della nuova stella Michelin di Torino: \"Puntiamo su cotture e sensibilità\"",
-      "url": "https://www.lastampa.it/torino/2026/11/12/video/cesare_grandi_il_segreto_della_nuova_stella_michelin_di_torino_puntiamo_su_cotture_e_sensibilita-15796271/",
-      "excerpt": "«Era il sogno fin da quando abbiamo incominciato». Cesare Grandi festeggia la prima stella Michelin conquistata dal suo ristorante La Limonaia di Torino, tra i nuovi ingressi della Guida Michelin Italia 2027, presentata a Piacenza. «Rappresenta tantissimo per me, come per tutti i miei ragazzi, per tutto il ristorante»,",
-      "publishedAt": "2026-11-12T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Finals, Zverev-Jodar primo singolo: domenica alle 14. Cobolli lunedì con Medvedev alle 20,30",
-      "url": "https://www.lastampa.it/sport/speciali/atp-finals-2026/2026/11/12/news/atp_finals_sorteggio_gironi_cobolli_alcaraz_bolelli_vavassori-15795950/",
-      "excerpt": "Gli incontri delle prime due giornate, il via domenica 15 novembre. Lunedì 16 (alle 11,30) gli azzurri Bolelli-Vavassori contro Granollers-Zeballos; in serata Flavio, all’esordio nell’evento di fine stagione. La cerimonia dei sorteggi all’Inalpi Arena di Torino",
-      "publishedAt": "2026-11-12T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Autografi in centro e primi allenamenti: così Torino aspetta (sotto la pioggia) le ATP Finals",
-      "url": "https://www.lastampa.it/sport/tennis/2026/11/12/video/atp_finals_autografi_allenamenti_pioggia-15796091/",
-      "excerpt": "È iniziato il conto alla rovescia per l'inizio delle attesissime ATP Finals che fino al 22 novembre accenderanno i riflettori del tennis mondiale su Torino. A tre giorni dal primo match (in programma per domenica) siamo andati alla Inalpi Arena a vedere che aria si respira al Fan Village e sotto l'hotel Principe di Pie",
-      "publishedAt": "2026-11-12T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "L’arena e come arrivarci, i biglietti e il Fan Village. Guida completa alle Atp Finals di Torino",
-      "url": "https://www.lastampa.it/torino/2026/11/12/news/atp_finals_2026_torino_guida_biglietti_trasporti_eventi-15795618/",
-      "excerpt": "Giovedì 12 novembre il “Grand Opening Show” con il concerto di Achille Lauro",
-      "publishedAt": "2026-11-12T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Francesca Lavazza: “Palline di zucchero e caffè i regali d’infanzia di papà. Con Sinner pizza e risate”",
-      "url": "https://www.lastampa.it/cronaca/2026/11/12/news/francesca_lavazza_palline_di_zucchero_e_caffe_i_regali_d_infanzia_di_papa_con_sinner_pizza_e_risate-15795313/",
-      "excerpt": "Domani al Guggenheim di New York la presentazione del Calendario “Finiti i tempi delle donne nude, non bisogna scandalizzare per forza”",
-      "publishedAt": "2026-11-12T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Manovra, Messina: “Sulle banche proposte non costituzionali. Ecobonus, formula sudamericana”",
-      "url": "https://www.lastampa.it/economia/2026/11/12/news/manovra_messina_proposte_non_costituzionali-15795923/",
-      "excerpt": "L’ad di Ca’ de Sass in Senato: “Le contrapposizioni potranno arrivare davanti alla Corte, misure sudamericane”",
-      "publishedAt": "2026-11-12T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Storico accordo sindacati-imprese. Dall'inflazione ai rinnovi dei contratti: ecco che cosa cambia",
-      "url": "https://www.lastampa.it/economia/2026/11/12/news/accordo_sindacati-imprese_ecco_come_cambiano_rappresentanza_contratti_e_salari-15795681/",
-      "excerpt": "Siglata all’alba l’intesa tra Cgil, Cisl e Uil e 13 associazioni d’impresa. Verrà misurato il peso delle sigle, previste verifiche periodiche sul valore dei salari",
+      "title": "Crippa e Mammoliti, sei stelle Michelin nelle Langhe: \"Così il nostro territorio fa la differenza\"",
+      "url": "https://www.lastampa.it/cuneo/2026/11/12/video/enrico_crippa_michelangelo_mammoliti_tre_stelle_michelin_alba-15796652/",
+      "excerpt": "Enrico Crippa conferma le tre stelle Michelin con Piazza Duomo ad Alba, così come La Rei Natura di Michelangelo Mammoliti, a Serralunga d'Alba. Sono così sei le stelle complessive dei due ristoranti tristellati delle Langhe, confermate nella Guida Michelin Italia 2027. «Viviamo in una regione straordinaria, il Piemonte",
       "publishedAt": "2026-11-12T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -242,6 +235,13 @@
       "dateEvidence": "feed:published"
     },
     {
+      "title": "Putin avverte l'Europa: “Decida se vuole la pace o la guerra”. Zelensky: “L’Ue sarà al tavolo”",
+      "url": "https://www.lastampa.it/esteri/2026/11/13/diretta/guerra_russia_ucraina_news_oggi-15796797/",
+      "excerpt": "Al Cremlino il leader russo boccia l'ipotesi di truppe straniere a Kiev dopo il conflitto. A Dublino Zelensky annuncia il coinvolgimento europeo nei negoziati e punta al più grande scambio di prigionieri dall'inizio della guerra",
+      "publishedAt": "2026-11-12T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
       "title": "A Málaga tra i fantasmi dei desaparecidos della dittatura di Franco",
       "url": "https://www.lastampa.it/esteri/2026/11/12/news/malaga_spagna_franco_desaparecidos_scavi-15795973/",
       "excerpt": "Gli scavi a Campillos nelle fosse della repressione franchista hanno rilevato che il 20% dei resti appartiene a donne",
@@ -270,13 +270,6 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Noi in trincea contro le tre mafie di Milano. Un mostro a più teste che fa impresa",
-      "url": "https://www.lastampa.it/cronaca/2026/11/12/news/in_trincea_contro_le_tre_mafie_di_milano_un_mostro_a_piu_teste_che_fa_impresa-15795454/",
-      "excerpt": "Il procuratore: «Boss meno violenti e con un approccio più finanziario. Boom delle banche cinesi parallele»",
-      "publishedAt": "2026-11-12T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
       "title": "La Grande Muraglia diventa uno scivolo di ghiaccio: turisti aggrappati ai corrimano",
       "url": "https://www.lastampa.it/video/socialnews/2026/11/12/video/la_grande_muraglia_diventa_uno_scivolo_di_ghiaccio_turisti_aggrappati_ai_corrimano-15796024/",
       "excerpt": "Neve e ghiaccio hanno reso scivoloso un tratto in pendenza della Grande Muraglia cinese, nei pressi di Pechino. Nelle immagini diffuse in questi giorni si vedono visitatori avanzare a piccoli passi e aggrapparsi ai corrimano, mentre altri perdono l’equilibrio e scivolano. A Badaling, una delle sezioni più visitate del ",
@@ -284,10 +277,17 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Terminati i colloqui di Witkoff e Kushner al Cremlino. “Al prossimo incontro anche gli europei”",
-      "url": "https://www.lastampa.it/esteri/2026/11/12/diretta/guerra_russia_ucraina_news_oggi-15795478/",
-      "excerpt": "Via al tredicesimo pacchetto di aiuti italiani per Kiev. Zelensky: «Progressi nei negoziati entro fine anno, ma impossibile senza la partecipazione dell’Europa». Putin: «Visioni diverse su questioni territoriali»",
-      "publishedAt": "2026-11-11T00:00:00Z",
+      "title": "Adolescente scompare durante il campeggio: sopravvive 6 giorni nei boschi australiani",
+      "url": "https://www.lastampa.it/esteri/2026/11/12/video/australia_adolescente_scomparso_campeggio_ritrovato_vivo-15795960/",
+      "excerpt": "William, 17 anni, era scomparso il 6 novembre durante un campeggio con un amico nella boscaglia dello Stato di Victoria, circa 180 chilometri a est di Melbourne. Sei giorni dopo, l’equipaggio di un elicottero della polizia ha avvistato una scatola da pesca e, poco distante, il ragazzo disteso su una roccia accanto a un",
+      "publishedAt": "2026-11-12T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Manovra, Messina: “Sulle banche proposte non costituzionali. Ecobonus, formula sudamericana”",
+      "url": "https://www.lastampa.it/economia/2026/11/12/news/manovra_messina_proposte_non_costituzionali-15795923/",
+      "excerpt": "L’ad di Ca’ de Sass in Senato: “Le contrapposizioni potranno arrivare davanti alla Corte, misure sudamericane”",
+      "publishedAt": "2026-11-12T00:00:00Z",
       "dateEvidence": "feed:published"
     }
   ],
@@ -302,5 +302,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 0.72
+  "durationSeconds": 0.76
 }

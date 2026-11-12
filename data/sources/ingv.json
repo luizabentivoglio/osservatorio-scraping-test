@@ -4,7 +4,7 @@
   "sourceId": "ingv",
   "originUrl": "https://www.ingv.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-12T18:38:13.038352Z",
+  "collectedAt": "2026-11-12T23:54:53.464444Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
@@ -82,5 +82,5 @@
     }
   ],
   "message": "Feed dichiarato dalla fonte; date di pubblicazione verificate.",
-  "durationSeconds": 1.11
+  "durationSeconds": 1.18
 }
