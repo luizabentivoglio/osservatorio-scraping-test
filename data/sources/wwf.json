@@ -4,55 +4,12 @@
   "sourceId": "wwf",
   "originUrl": "https://www.wwf.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-12T01:03:08.510372Z",
-  "status": "ok",
-  "diagnosticCode": null,
-  "method": "trafilatura",
+  "collectedAt": "2026-11-12T10:23:06.833188Z",
+  "status": "blocked",
+  "diagnosticCode": "access_restricted",
+  "method": "html",
   "feedUrl": null,
-  "items": [
-    {
-      "title": "Cosa accade alla COP31 giorno per giorno",
-      "url": "https://www.wwf.it/pandanews/clima/cosa-accade-alla-cop31-giorno-per-giorno/",
-      "excerpt": "Dal 9 al 21 novembre è in corso ad Antalya il più importante evento per la lotta alla crisi climatica. Qui il nostro racconto giornaliero",
-      "publishedAt": "2026-11-11T11:34:16Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Progetto ReMaRe e WWF SUB custodi del mare",
-      "url": "https://www.wwf.it/pandanews/ambiente/progetto-remare-wwf-sub-custodi-mare/",
-      "excerpt": "Per la settima edizione, WWF SUB ha incontrato il progetto ReMaRe impegnato nella rigenerazione dei fondali della Puglia Meridionale",
-      "publishedAt": "2026-11-11T09:47:07Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "La legge di bilancio non fa gli interessi della natura e delle persone",
-      "url": "https://www.wwf.it/pandanews/societa/politica/la-legge-di-bilancio-non-fa-gli-interessi-della-natura-e-delle-persone/",
-      "excerpt": "Il WWF propone fondi per ripristino natura, aree protette, decarbonizzazione e adattamento, transizione agroecologica dell'agricoltura",
-      "publishedAt": "2026-11-10T14:29:44Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Saline di Trapani protagoniste del podcast WWF Viaggio in Oasi",
-      "url": "https://www.wwf.it/pandanews/wwf-life/saline-trapani-protagoniste-podcast/",
-      "excerpt": "Le Saline si caratterizzano per il felice connubio tra produzione del sale marino con metodi tradizionali e tutela della biodiversità",
-      "publishedAt": "2026-11-10T09:31:39Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Mediterraneo: WWF e Guardia Costiera rinnovano l’alleanza per difendere biodiversità e legalità",
-      "url": "https://www.wwf.it/pandanews/wwf-life/mediterraneo-wwf-e-guardia-costiera-rinnovano-lalleanza-per-difendere-biodiversita-e-legalita/",
-      "excerpt": "Firmato il nuovo accordo triennale per rafforzare la tutela delle specie marine, promuovere una pesca sostenibile e contrastare gli illeciti",
-      "publishedAt": "2026-11-10T09:09:41Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Premiati i vincitori dei concorsi per i 60 anni WWF",
-      "url": "https://www.wwf.it/pandanews/ambiente/premiati-i-vincitori-dei-concorsi-per-i-60-anni-wwf/",
-      "excerpt": "La cerimonia si è svolta nell'ambito di una giornata dedicata ai sostenitori del WWF, che da sessant'anni rappresentano il cuore pulsante dell'associazione",
-      "publishedAt": "2026-11-09T11:24:18Z",
-      "dateEvidence": "jsonld:datePublished"
-    }
-  ],
+  "items": [],
   "attempts": [
     {
       "url": "https://www.wwf.it/robots.txt",
@@ -60,37 +17,11 @@
     },
     {
       "url": "https://www.wwf.it/",
-      "status": 200
-    },
-    {
-      "url": "https://www.wwf.it/pandanews/clima/cosa-accade-alla-cop31-giorno-per-giorno/",
-      "status": 200
-    },
-    {
-      "url": "https://www.wwf.it/pandanews/ambiente/progetto-remare-wwf-sub-custodi-mare/",
-      "status": 200
-    },
-    {
-      "url": "https://www.wwf.it/pandanews/societa/politica/la-legge-di-bilancio-non-fa-gli-interessi-della-natura-e-delle-persone/",
-      "status": 200
-    },
-    {
-      "url": "https://www.wwf.it/pandanews/wwf-life/saline-trapani-protagoniste-podcast/",
-      "status": 200
-    },
-    {
-      "url": "https://www.wwf.it/pandanews/wwf-life/mediterraneo-wwf-e-guardia-costiera-rinnovano-lalleanza-per-difendere-biodiversita-e-legalita/",
-      "status": 200
-    },
-    {
-      "url": "https://www.wwf.it/pandanews/ambiente/premiati-i-vincitori-dei-concorsi-per-i-60-anni-wwf/",
-      "status": 200
+      "status": 403
     }
   ],
-  "message": "6 notizie recenti con data verificata; copertura parziale.",
-  "candidateSamples": [],
-  "candidateCount": 12,
-  "datedCount": 6,
-  "listingUrl": "https://www.wwf.it/",
-  "durationSeconds": 7.29
+  "message": "HTTP 403: accesso limitato dalla fonte",
+  "httpStatus": 403,
+  "failedUrl": "https://www.wwf.it/",
+  "durationSeconds": 1.04
 }

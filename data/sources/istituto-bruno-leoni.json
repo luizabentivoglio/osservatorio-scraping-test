@@ -4,7 +4,7 @@
   "sourceId": "istituto-bruno-leoni",
   "originUrl": "https://www.brunoleoni.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-12T01:02:26.075108Z",
+  "collectedAt": "2026-11-12T10:22:27.293779Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 5,
   "listingUrl": "https://www.brunoleoni.it/",
-  "durationSeconds": 6.42
+  "durationSeconds": 5.94
 }

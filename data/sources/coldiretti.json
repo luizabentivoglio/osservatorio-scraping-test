@@ -4,7 +4,7 @@
   "sourceId": "coldiretti",
   "originUrl": "https://www.coldiretti.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-12T01:01:50.784991Z",
+  "collectedAt": "2026-11-12T10:21:54.081988Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -78,5 +78,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.coldiretti.it/",
-  "durationSeconds": 11.41
+  "durationSeconds": 10.69
 }

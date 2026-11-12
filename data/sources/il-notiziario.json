@@ -4,12 +4,118 @@
   "sourceId": "il-notiziario",
   "originUrl": "https://www.ilnotiziario.net/",
   "configuredFeedUrl": "https://www.ilnotiziario.net/feed/",
-  "collectedAt": "2026-11-12T01:02:25.878320Z",
-  "status": "blocked",
-  "diagnosticCode": "access_restricted",
-  "method": "html",
-  "feedUrl": null,
-  "items": [],
+  "collectedAt": "2026-11-12T10:22:26.422408Z",
+  "status": "ok",
+  "diagnosticCode": null,
+  "method": "rss",
+  "feedUrl": "https://www.ilnotiziario.net/feed/",
+  "items": [
+    {
+      "title": "Monza, rapine ai danni di due sedicenni, arrestato anche il secondo responsabile",
+      "url": "https://www.ilnotiziario.net/monza-rapine-ai-danni-di-due-sedicenni-arrestato-anche-il-secondo-responsabile/",
+      "excerpt": "Monza, rapine ai danni di due sedicenni, arrestato anche il secondo responsabile Un altro arresto per due rapine commesse nel...",
+      "publishedAt": "2026-11-12T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "La Polizia piange Oscar Zanoncini, morto a Tradate in un incidente: il ricordo dei colleghi",
+      "url": "https://www.ilnotiziario.net/la-polizia-piange-oscar-zanoncini-morto-a-tradate-in-un-incidente-il-ricordo-dei-colleghi/",
+      "excerpt": "La Polizia piange Oscar Zanoncini, morto a Tradate in un incidente: il ricordo dei colleghi La Polizia di Stato di Varese perde...",
+      "publishedAt": "2026-11-12T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Sei miliardi in 20 minuti",
+      "url": "https://www.ilnotiziario.net/sei-miliardi-in-20-minuti/",
+      "excerpt": "Venti minuti. Alcuni pirati informatici l’altro giorno hanno sottratto ben sei miliardi di dollari in cryptovalute nel giro...",
+      "publishedAt": "2026-11-12T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Incidente tra due Tir sulla Tangenziale, 3 feriti e lunghe code",
+      "url": "https://www.ilnotiziario.net/incidente-tra-due-tir-sulla-tangenziale-3-feriti-e-lunghe-code/",
+      "excerpt": "Incidente tra due Tir in Tangenziale, 3 persone ferite, lunghe code in orario di punta Mattinata difficile per chi si è messo in...",
+      "publishedAt": "2026-11-12T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Sicurezza a Milano, blitz della Polfer nelle stazioni, quattro persone finiscono in manette",
+      "url": "https://www.ilnotiziario.net/sicurezza-a-milano-blitz-della-polfer-nelle-stazioni-quattro-persone-finiscono-in-manette/",
+      "excerpt": "Sicurezza a Milano, blitz della Polfer nelle stazioni, quattro persone finiscono in manette Fine settimana di controlli nelle...",
+      "publishedAt": "2026-11-11T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Incidente a Misinto, scontro auto-moto, 4 feriti, anche due bambini",
+      "url": "https://www.ilnotiziario.net/incidente-a-misinto-scontro-auto-moto-4-feriti-anche-due-bambini/",
+      "excerpt": "Incidente a Misinto, 4 feriti tra cui due bambini in uno scontro auto-moto. Momenti di apprensione nel pomeriggio di mercoledì 11...",
+      "publishedAt": "2026-11-11T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Sesto San Giovanni, 2 kg di droga nel sacchetto della spesa, arrestato un 48enne",
+      "url": "https://www.ilnotiziario.net/sesto-san-giovanni-2-kg-di-droga-nel-sacchetto-della-spesa-arrestato-un-48enne/",
+      "excerpt": "Sesto San Giovanni, 2 kg di droga nel sacchetto della spesa, arrestato un 48enne Un normale sacchetto della spesa nascondeva un...",
+      "publishedAt": "2026-11-11T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Rho, furti e accattonaggio a EICMA: interviene la Polizia, arrestato un 15enne",
+      "url": "https://www.ilnotiziario.net/rho-furti-e-accattonaggio-a-eicma-interviene-la-polizia-arrestato-un-15enne/",
+      "excerpt": "Rho, furti e accattonaggio a EICMA: interviene la Polizia, arrestato un 15enne Controlli più intensi durante EICMA, la fiera...",
+      "publishedAt": "2026-11-11T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Stazione Centrale, nuovo servizio interforze a Milano, controlli nelle strade del quartiere",
+      "url": "https://www.ilnotiziario.net/stazione-centrale-nuovo-servizio-interforze-a-milano-controlli-nelle-strade-del-quartiere/",
+      "excerpt": "Stazione Centrale, nuovo servizio interforze a Milano, controlli nelle strade del quartiere Nuovi controlli delle forze...",
+      "publishedAt": "2026-11-11T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Saronno, ex Isotta Fraschini e sanità, doppio appuntamento questa sera in Consiglio comunale",
+      "url": "https://www.ilnotiziario.net/saronno-ex-isotta-fraschini-e-sanita-doppio-appuntamento-questa-sera-in-consiglio-comunale/",
+      "excerpt": "Saronno, ex Isotta Fraschini e sanità, doppio appuntamento questa sera in Consiglio comunale Il futuro dell’ex Isotta Fraschini e...",
+      "publishedAt": "2026-11-11T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Protezione civile, esercitazione nelle Groane, coinvolti 86 volontari",
+      "url": "https://www.ilnotiziario.net/protezione-civile-esercitazione-nelle-groane-coinvolti-86-volontari/",
+      "excerpt": "Protezione civile, esercitazione nelle Groane, coinvolti 86 volontari Un fine settimana dedicato alla formazione e alla...",
+      "publishedAt": "2026-11-11T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Da Saronno a Paderno Dugnano, da Rho a Bollate, decine di scuole evacuate: ecco il testo della mail di minacce",
+      "url": "https://www.ilnotiziario.net/da-saronno-a-paderno-dugnano-da-rho-a-bollate-decine-di-scuole-evacuate-ecco-il-testo-della-mail-di-minacce/",
+      "excerpt": "Una mattinata di paura e di corse dei genitori davanti ai cancelli ha coinvolto, mercoledì 11 novembre, le scuole del Nord Ovest...",
+      "publishedAt": "2026-11-11T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Rho si ferma per non dimenticare i caduti di Nassiriya",
+      "url": "https://www.ilnotiziario.net/rho-si-ferma-per-non-dimenticare-i-caduti-di-nassiriya/",
+      "excerpt": "La città si ferma per non dimenticare. Domani, giovedì alle 14, la Sala Consiliare del Municipio di piazza Visconti ospiterà la...",
+      "publishedAt": "2026-11-11T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Allarme bomba nelle scuole: evacuato il Gadda di Paderno Dugnano e diversi istituti di Saronno",
+      "url": "https://www.ilnotiziario.net/allarme-bomba-nelle-scuole-evacuato-il-gadda-di-paderno-dugnano-e-diversi-istituti-di-saronno/",
+      "excerpt": "Mattinata di tensione, mercoledì 11 novembre, in diversi istituti superiori della zona, dove sarebbero scattati allarmi per...",
+      "publishedAt": "2026-11-11T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Saronno, ancora ferme alcune scale mobili della stazione, slitta la riapertura",
+      "url": "https://www.ilnotiziario.net/saronno-ancora-ferme-alcune-scale-mobili-della-stazione-slitta-la-riapertura/",
+      "excerpt": "Saronno, ancora ferme alcune scale mobili della stazione, slitta la riapertura Non c’è ancora una data ravvicinata per il ritorno...",
+      "publishedAt": "2026-11-11T00:00:00Z",
+      "dateEvidence": "feed:published"
+    }
+  ],
   "attempts": [
     {
       "url": "https://www.ilnotiziario.net/robots.txt",
@@ -17,11 +123,9 @@
     },
     {
       "url": "https://www.ilnotiziario.net/feed/",
-      "status": 403
+      "status": 200
     }
   ],
-  "message": "HTTP 403: accesso limitato dalla fonte",
-  "httpStatus": 403,
-  "failedUrl": "https://www.ilnotiziario.net/feed/",
-  "durationSeconds": 0.87
+  "message": "Feed ufficiale letto; date di pubblicazione verificate.",
+  "durationSeconds": 1.5
 }

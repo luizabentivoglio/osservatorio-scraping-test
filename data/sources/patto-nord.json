@@ -4,7 +4,7 @@
   "sourceId": "patto-nord",
   "originUrl": "https://www.pattoperilnord.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-12T01:02:51.394850Z",
+  "collectedAt": "2026-11-12T10:22:49.154516Z",
   "status": "no_feed",
   "diagnosticCode": "parsing_error",
   "method": "crawl4ai",
@@ -20,26 +20,34 @@
       "status": 200
     },
     {
-      "url": "https://www.pattoperilnord.it/Manifesti",
+      "url": "https://www.pattoperilnord.it/LineeProgrammatiche",
       "status": 200
     },
     {
-      "url": "https://www.pattoperilnord.it/Materiali di Propaganda",
+      "url": "https://www.pattoperilnord.it/elezioni-trasparenti",
       "status": 200
     },
     {
-      "url": "https://www.pattoperilnord.it/eventi",
+      "url": "https://www.pattoperilnord.it/organigramma",
       "status": 200
     },
     {
-      "url": "https://www.pattoperilnord.it/Elezioni-Trasparenti",
+      "url": "https://www.pattoperilnord.it/consulte",
+      "status": 200
+    },
+    {
+      "url": "https://www.pattoperilnord.it/donne",
+      "status": 200
+    },
+    {
+      "url": "https://www.pattoperilnord.it/news",
       "status": 200
     }
   ],
   "message": "Pagina accessibile, ma nessuna notizia con data di pubblicazione verificabile.",
   "candidateSamples": [],
-  "candidateCount": 4,
+  "candidateCount": 11,
   "datedCount": 0,
   "listingUrl": "https://www.pattoperilnord.it/",
-  "durationSeconds": 1.01
+  "durationSeconds": 0.87
 }

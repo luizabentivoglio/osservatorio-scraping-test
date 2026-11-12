@@ -11,8 +11,8 @@
 | cisl | blocked | html | 0 | robots_disallowed |
 | cnr | ok | rss | 20 | — |
 | coldiretti | ok | trafilatura | 4 | — |
-| commissione-europea | ok | trafilatura | 1 | — |
-| comune-bollate | ok | trafilatura | 4 | — |
+| commissione-europea | blocked | html | 0 | rate_limited |
+| comune-bollate | error | html | 0 | http_error |
 | confcommercio | blocked | html | 0 | access_restricted |
 | confindustria | ok | trafilatura | 1 | — |
 | consiglio-ue | blocked | html | 0 | access_restricted |
@@ -29,16 +29,16 @@
 | forza-italia | ok | trafilatura | 0 | — |
 | futuro-nazionale | ok | rss | 0 | — |
 | good-morning-italia | blocked | html | 0 | access_restricted |
-| greenpeace | ok | trafilatura | 2 | — |
+| greenpeace | ok | trafilatura | 3 | — |
 | hrw | blocked | html | 0 | access_restricted |
 | iai | ok | trafilatura | 2 | — |
 | il-fatto | blocked | html | 0 | robots_disallowed |
-| il-notiziario | blocked | html | 0 | access_restricted |
+| il-notiziario | ok | rss | 15 | — |
 | il-post | ok | trafilatura | 6 | — |
-| ingv | ok | rss | 6 | — |
+| ingv | ok | rss | 7 | — |
 | ispi | blocked | html | 0 | robots_disallowed |
 | ispra | ok | rss | 0 | — |
-| iss | error | html | 0 | timeout |
+| iss | ok | trafilatura | 0 | — |
 | istat | ok | rss | 10 | — |
 | istituto-bruno-leoni | ok | trafilatura | 5 | — |
 | italia-domani-rizzo | ok | trafilatura | 3 | — |
@@ -68,6 +68,6 @@
 | sud-chiama-nord | blocked | html | 0 | access_restricted |
 | svp | ok | trafilatura | 0 | — |
 | tgr-lombardia | no_feed | crawl4ai | 0 | parsing_error |
-| wwf | ok | trafilatura | 6 | — |
+| wwf | blocked | html | 0 | access_restricted |
 
 Le date sono verificate nei feed o nei metadati di pubblicazione dei singoli articoli. Nessun dato personale dell’archivio è letto o pubblicato.

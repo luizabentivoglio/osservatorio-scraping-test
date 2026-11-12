@@ -4,7 +4,7 @@
   "sourceId": "quirinale",
   "originUrl": "https://www.quirinale.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-12T01:02:57.383529Z",
+  "collectedAt": "2026-11-12T10:22:58.019177Z",
   "status": "blocked",
   "diagnosticCode": "access_restricted",
   "method": "html",
@@ -17,6 +17,10 @@
     },
     {
       "url": "https://www.quirinale.it/",
+      "status": 200
+    },
+    {
+      "url": "https://www.quirinale.it/it/notizie/23-anniversario-strage-nassiriya-messaggio-presidente-mattarella",
       "status": 200
     },
     {
@@ -36,27 +40,30 @@
       "status": 200
     },
     {
-      "url": "https://www.quirinale.it/it/notizie/mattarella-concerto-cappella-paolina-1",
-      "status": 200
-    },
-    {
       "url": "https://www.quirinale.it/it/notizie/nostra-repubblica-compie-ottant-anni-1",
-      "status": 200
-    },
-    {
-      "url": "https://www.quirinale.it/it/notizie/mattarella-incontra-magistrati-ordinari-tirocinio-nominati-decreto-ministeriale-3-settembre-2025",
-      "status": 200
-    },
-    {
-      "url": "https://www.quirinale.it/it/notizie/presidente-mattarella-presentazione-rapporto-svimez-2026",
       "status": 200
     }
   ],
-  "message": "Browser HTTP 403",
+  "message": "Verifica interattiva richiesta",
   "candidateSamples": [
     {
+      "url": "https://www.quirinale.it/it/notizie/23-anniversario-strage-nassiriya-messaggio-presidente-mattarella",
+      "title": "23° anniversario della strage di Nassiriya: messaggio del Presidente Mattarella «Nella ricorrenza della Giornata del ricordo dei Caduti militari e civili nelle missioni internazionali per la pace, ventitreesimo anniversario della strage di Nassiriya, rinnovo l’omaggio della Repubblica alla memoria d",
+      "h1": "23° anniversario della strage di Nassiriya: messaggio del Presidente Mattarella",
+      "dates": [
+        {
+          "tag": "p",
+          "class": [
+            "date-label"
+          ],
+          "text": "Roma, 12/11/2026 (II mandato)",
+          "datetime": null
+        }
+      ]
+    },
+    {
       "url": "https://www.quirinale.it/it/notizie/mattarella-incontra-magistrati-ordinari-tirocinio-nominati-decreto-ministeriale-3-settembre-2025",
-      "title": "Mattarella incontra i magistrati ordinari in tirocinio nominati con decreto ministeriale del 3 settembre 2025 Il Presidente della Repubblica, Sergio Mattarella, ha ricevuto al Quirinale i Magistrati ordinari in tirocinio nominati con decreto ministeriale del 3 settembre 2025. Dopo gli interventi del",
+      "title": "Il Presidente Sergio Mattarella saluta i Magistrati ordinari in tirocinio nominati con D.M. 03 settembre 2025",
       "h1": "Mattarella incontra i magistrati ordinari in tirocinio nominati con decreto ministeriale del 3 settembre 2025",
       "dates": [
         {
@@ -211,21 +218,6 @@
       ]
     },
     {
-      "url": "https://www.quirinale.it/it/notizie/mattarella-concerto-cappella-paolina-1",
-      "title": "Il Presidente della Repubblica Sergio Mattarella in occasione del concerto per il 100° anno della fondazione del Coro della Sezione Operaia della Società degli Alpinisti Tridentini (SOSAT)",
-      "h1": "Mattarella al concerto alla Cappella Paolina",
-      "dates": [
-        {
-          "tag": "p",
-          "class": [
-            "date-label"
-          ],
-          "text": "Roma, 08/11/2026 (II mandato)",
-          "datetime": null
-        }
-      ]
-    },
-    {
       "url": "https://www.quirinale.it/it/notizie/nostra-repubblica-compie-ottant-anni-1",
       "title": "I Volti della Repubblica",
       "h1": "La nostra Repubblica compie Ottant’anni",
@@ -244,5 +236,5 @@
   "candidateCount": 12,
   "datedCount": 0,
   "listingUrl": "https://www.quirinale.it/",
-  "durationSeconds": 4.41
+  "durationSeconds": 4.33
 }

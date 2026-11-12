@@ -4,7 +4,7 @@
   "sourceId": "amnesty",
   "originUrl": "https://www.amnesty.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-12T01:01:44.754641Z",
+  "collectedAt": "2026-11-12T10:21:48.468260Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -90,5 +90,5 @@
   "candidateCount": 12,
   "datedCount": 3,
   "listingUrl": "https://www.amnesty.it/",
-  "durationSeconds": 6.56
+  "durationSeconds": 6.76
 }

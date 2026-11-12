@@ -4,7 +4,7 @@
   "sourceId": "corte-conti",
   "originUrl": "https://www.corteconti.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-12T01:02:02.195838Z",
+  "collectedAt": "2026-11-12T10:22:04.778772Z",
   "status": "no_feed",
   "diagnosticCode": "parsing_error",
   "method": "crawl4ai",
@@ -20,11 +20,11 @@
       "status": 200
     },
     {
-      "url": "https://www.corteconti.it/HOME/StampaMedia/Notizie/DettaglioNotizia?Id=491743a4-5ad3-49a3-8f10-9e15b51110fb",
+      "url": "https://www.corteconti.it/HOME/StampaMedia/Notizie/DettaglioNotizia?Id=3f04d8d2-cf80-4223-9f3e-0c7c6f3bd922",
       "status": 200
     },
     {
-      "url": "https://www.corteconti.it/HOME/StampaMedia/Notizie/DettaglioNotizia?Id=07a4f3b8-b707-47f0-aeb5-c09b5cf89dcc",
+      "url": "https://www.corteconti.it/HOME/StampaMedia/Notizie/DettaglioNotizia?Id=a4974ef1-efc3-423a-bdd7-72f7c2478465",
       "status": 200
     },
     {
@@ -44,11 +44,11 @@
       "status": 200
     },
     {
-      "url": "https://www.corteconti.it/HOME/StampaMedia/Notizie/DettaglioNotizia?Id=491743a4-5ad3-49a3-8f10-9e15b51110fb",
+      "url": "https://www.corteconti.it/HOME/StampaMedia/Notizie/DettaglioNotizia?Id=3f04d8d2-cf80-4223-9f3e-0c7c6f3bd922",
       "status": 200
     },
     {
-      "url": "https://www.corteconti.it/HOME/StampaMedia/Notizie/DettaglioNotizia?Id=07a4f3b8-b707-47f0-aeb5-c09b5cf89dcc",
+      "url": "https://www.corteconti.it/HOME/StampaMedia/Notizie/DettaglioNotizia?Id=a4974ef1-efc3-423a-bdd7-72f7c2478465",
       "status": 200
     },
     {
@@ -71,13 +71,13 @@
   "message": "Pagina accessibile, ma nessuna notizia con data di pubblicazione verificabile.",
   "candidateSamples": [
     {
-      "url": "https://www.corteconti.it/HOME/StampaMedia/Notizie/DettaglioNotizia?Id=491743a4-5ad3-49a3-8f10-9e15b51110fb",
+      "url": "https://www.corteconti.it/HOME/StampaMedia/Notizie/DettaglioNotizia?Id=3f04d8d2-cf80-4223-9f3e-0c7c6f3bd922",
       "title": "11-13/11 CONVEGNO DI STUDI “GIUSTIZIA AL SERVIZIO DEL PAESE - STATO COSTITUZIONALE E ISTITUZIONI DI GARANZIA” Leggi di più",
       "h1": "Corte dei conti",
       "dates": []
     },
     {
-      "url": "https://www.corteconti.it/HOME/StampaMedia/Notizie/DettaglioNotizia?Id=07a4f3b8-b707-47f0-aeb5-c09b5cf89dcc",
+      "url": "https://www.corteconti.it/HOME/StampaMedia/Notizie/DettaglioNotizia?Id=a4974ef1-efc3-423a-bdd7-72f7c2478465",
       "title": "09/11 AUDIZIONE DELLA CORTE DEI CONTI NELL’AMBITO DELL’ATTIVITÀ CONOSCITIVA PRELIMINARE ALL’ESAME DEL DISEGNO DI LEGGE DI BILANCIO 2027 Leggi di più",
       "h1": "Corte dei conti",
       "dates": []
@@ -110,5 +110,5 @@
   "candidateCount": 12,
   "datedCount": 0,
   "listingUrl": "https://www.corteconti.it/",
-  "durationSeconds": 5.13
+  "durationSeconds": 4.95
 }

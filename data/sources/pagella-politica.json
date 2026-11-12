@@ -4,12 +4,19 @@
   "sourceId": "pagella-politica",
   "originUrl": "https://pagellapolitica.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-12T01:02:42.558626Z",
+  "collectedAt": "2026-11-12T10:22:43.248815Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "Cosa resta del Green Deal?",
+      "url": "https://pagellapolitica.it/articoli/cosa-resta-del-green-deal",
+      "excerpt": "La revisione dell’accordo ridurrebbe gli obblighi sulle emissioni per avvantaggiare il settore automobilistico, ma...",
+      "publishedAt": "2026-11-10T00:00:00Z",
+      "dateEvidence": "html:post-date"
+    },
     {
       "title": "Il governo non ha ancora chiarito come spenderà i nuovi soldi per energia e difesa",
       "url": "https://pagellapolitica.it/articoli/governo-soldi-energia-difesa",
@@ -44,13 +51,6 @@
       "excerpt": "La possibilità è stata introdotta dalla nuova legge elettorale, c’è tempo fino al 31 dicembre 2026 per presentare i...",
       "publishedAt": "2026-11-09T00:00:00Z",
       "dateEvidence": "html:post-date"
-    },
-    {
-      "title": "Il fact-checking di Schlein e Conte a Piazzapulita",
-      "url": "https://pagellapolitica.it/articoli/fact-checking-schlein-conte-piazzapulita",
-      "excerpt": "Dal costo delle bollette ai decreti “Sicurezza” del governo Meloni, abbiamo verificato sette dichiarazioni dei due...",
-      "publishedAt": "2026-11-06T00:00:00Z",
-      "dateEvidence": "html:post-date"
     }
   ],
   "attempts": [
@@ -60,6 +60,10 @@
     },
     {
       "url": "https://pagellapolitica.it/articoli",
+      "status": 200
+    },
+    {
+      "url": "https://pagellapolitica.it/articoli/cosa-resta-del-green-deal",
       "status": 200
     },
     {
@@ -81,10 +85,6 @@
     {
       "url": "https://pagellapolitica.it/articoli/voto-fuorisede-scadenze-procedura",
       "status": 200
-    },
-    {
-      "url": "https://pagellapolitica.it/articoli/fact-checking-schlein-conte-piazzapulita",
-      "status": 200
     }
   ],
   "message": "6 notizie recenti con data verificata; copertura parziale.",
@@ -92,5 +92,5 @@
   "candidateCount": 6,
   "datedCount": 6,
   "listingUrl": "https://pagellapolitica.it/articoli",
-  "durationSeconds": 8.8
+  "durationSeconds": 5.9
 }

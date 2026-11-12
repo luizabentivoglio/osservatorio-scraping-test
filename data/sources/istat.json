@@ -4,12 +4,33 @@
   "sourceId": "istat",
   "originUrl": "https://www.istat.it/",
   "configuredFeedUrl": "https://www.istat.it/feed/",
-  "collectedAt": "2026-11-12T01:02:25.394169Z",
+  "collectedAt": "2026-11-12T10:22:26.371748Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.istat.it/feed/",
   "items": [
+    {
+      "title": "Soddisfazione dei cittadini – Anno 2025",
+      "url": "https://www.istat.it/comunicato-stampa/soddisfazione-dei-cittadini-anno-2025/",
+      "excerpt": "Nel 2025, la quota di persone soddisfatte della vita cresce al 47,6% (era il 46,3% nel 2024)",
+      "publishedAt": "2026-11-12T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Rilevazione sulle forze di lavoro – dati trasversali trimestrali: file per la ricerca",
+      "url": "https://www.istat.it/microdati/rilevazione-sulle-forze-di-lavoro-dati-trasversali-trimestrali-file-per-la-ricerca/",
+      "excerpt": "Disponibili i metadati secondo trimestre 2026 e i dati trasversali 'Moduli ad Hoc' anno 2024",
+      "publishedAt": "2026-11-12T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Forze di lavoro – dati trasversali trimestrali",
+      "url": "https://www.istat.it/microdati/rilevazione-sulle-forze-di-lavoro-dati-trasversali-trimestrali/",
+      "excerpt": "Online il file con i dati del II trimestre 2026",
+      "publishedAt": "2026-11-12T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "Manifestazione d’interesse per progetto interistituzionale su politiche di coesione",
       "url": "https://www.istat.it/notizia/raccolta-manifestazione-interesse-per-accordo-collaborazione-progetto-informazione-statistica-territoriale-e-settoriale-politiche-di-coesione-2027-29/",
@@ -58,27 +79,6 @@
       "excerpt": "Prorogata la scadenza al 15 dicembre",
       "publishedAt": "2026-11-10T00:00:00Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Catene globali del valore delle medie e grandi imprese – Anni 2021/2023",
-      "url": "https://www.istat.it/comunicato-stampa/catene-globali-del-valore-delle-medie-e-grandi-imprese-anni-2021-2023/",
-      "excerpt": "Limitata (2,0%) e in calo rispetto al triennio precedente (-0,4 punti percentuali) è la quota di medie e grandi imprese che nel periodo 2021-2023 ha dichiarato di aver trasferito all’estero attività o funzioni aziendali",
-      "publishedAt": "2026-11-10T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Struttura e competitività delle imprese multinazionali – Anno 2024",
-      "url": "https://www.istat.it/comunicato-stampa/struttura-e-competitivita-delle-imprese-multinazionali-anno-2024/",
-      "excerpt": "Nel 2024 il valore aggiunto delle imprese a controllo estero raggiunge i 196 miliardi di euro (+4,1% rispetto all’anno precedente).",
-      "publishedAt": "2026-11-10T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Sedicesima Conferenza Nazionale di Statistica",
-      "url": "https://www.istat.it/evento/sedicesima-conferenza-nazionale-di-statistica/",
-      "excerpt": "Un’occasione di confronto tra produttori e utilizzatori di dati per dialogare sul ruolo strategico e le prospettive di sviluppo della statistica ufficiale",
-      "publishedAt": "2026-11-09T00:00:00Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -92,5 +92,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 3.72
+  "durationSeconds": 2.95
 }

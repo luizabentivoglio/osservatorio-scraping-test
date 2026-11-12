@@ -4,23 +4,30 @@
   "sourceId": "camera",
   "originUrl": "https://www.camera.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-12T01:01:46.557718Z",
+  "collectedAt": "2026-11-12T10:21:49.978262Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
-      "title": "La cultura conservatrice - Mercoledì 18 alle 11 diretta webtv con lis - Intervengono Fini, Ungaro, Terranova - Aperte le prenotazioni",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64040",
-      "excerpt": "Mercoledì 18 novembre, alle ore 11, presso la Sala della Regina di Montecitorio si svolge il semina...",
-      "publishedAt": "2026-11-11T00:00:00Z",
+      "title": "Piazza Montecitorio, domani alle 10 al via il progetto “Borghi in carrozza” per un turismo accessibile. Partecipa Traversi",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64073",
+      "excerpt": "Piazza Montecitorio ospiterà domani, venerdì 13 novembre, alle 10, la partenza di “Borghi in car...",
+      "publishedAt": "2026-11-12T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "Question time con i ministri Tajani, Ciriani, Giuli e Abodi",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64019",
-      "excerpt": "Alle ore 15 ha avuto luogo lo svolgimento di interrogazioni a risposta immediata, trasmesse in diret...",
+      "title": "Decreto Giustizia - Interno - impianti strategici",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64070",
+      "excerpt": "La Camera è convocata alle ore 9.30 per il seguito dell'esame dei seguenti provvedimenti: Conversi...",
+      "publishedAt": "2026-11-12T00:00:00Z",
+      "dateEvidence": "html:publication-label"
+    },
+    {
+      "title": "La cultura conservatrice - Mercoledì 18 alle 11 diretta webtv con lis - Intervengono Fini, Ungaro, Terranova - Aperte le prenotazioni",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64040",
+      "excerpt": "Mercoledì 18 novembre, alle ore 11, presso la Sala della Regina di Montecitorio si svolge il semina...",
       "publishedAt": "2026-11-11T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
@@ -44,13 +51,6 @@
       "excerpt": "Giovedì 12 novembre, alle ore 17, presso la Sala Matteotti di Palazzo Theodoli-Bianchelli si svolge...",
       "publishedAt": "2026-11-11T00:00:00Z",
       "dateEvidence": "html:publication-label"
-    },
-    {
-      "title": "Decreto Giustizia - Interno - impianti strategici",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64020",
-      "excerpt": "La Camera è convocata giovedì 12 novembre alle ore 9.30. Nella seduta di mercoledì 11 novembre...",
-      "publishedAt": "2026-11-11T00:00:00Z",
-      "dateEvidence": "html:publication-label"
     }
   ],
   "attempts": [
@@ -63,11 +63,15 @@
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64040",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64073",
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64019",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64070",
+      "status": 200
+    },
+    {
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64040",
       "status": 200
     },
     {
@@ -81,10 +85,6 @@
     {
       "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64027",
       "status": 200
-    },
-    {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64020",
-      "status": 200
     }
   ],
   "message": "6 notizie recenti con data verificata; copertura parziale.",
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://comunicazione.camera.it/archivio-prima-pagina",
-  "durationSeconds": 4.64
+  "durationSeconds": 4.1
 }

@@ -4,89 +4,20 @@
   "sourceId": "comune-bollate",
   "originUrl": "https://comune.bollate.mi.it/it/news",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-12T01:01:51.319318Z",
-  "status": "ok",
-  "diagnosticCode": null,
-  "method": "trafilatura",
+  "collectedAt": "2026-11-12T10:21:55.231950Z",
+  "status": "error",
+  "diagnosticCode": "http_error",
+  "method": "html",
   "feedUrl": null,
-  "items": [
-    {
-      "title": "Open day. Le scuole si presentano.",
-      "url": "https://comune.bollate.mi.it/it/news/open-day-2075461",
-      "excerpt": "Sito ufficiale Comune di Bollate",
-      "publishedAt": "2026-11-10T00:00:00Z",
-      "dateEvidence": "html:news-date-label"
-    },
-    {
-      "title": "Sciopero generale proclamato per il 20 novembre",
-      "url": "https://comune.bollate.mi.it/it/news/sciopero-2046496-2059402-2075560",
-      "excerpt": "Sito ufficiale Comune di Bollate",
-      "publishedAt": "2026-11-10T00:00:00Z",
-      "dateEvidence": "html:news-date-label"
-    },
-    {
-      "title": "Avviso pubblico indagine mercato Centro scolastico via Varalli",
-      "url": "https://comune.bollate.mi.it/it/news/avviso-pubblico-2056751-2075513",
-      "excerpt": "Sito ufficiale Comune di Bollate",
-      "publishedAt": "2026-11-10T00:00:00Z",
-      "dateEvidence": "html:news-date-label"
-    },
-    {
-      "title": "Polizia locale e presidio del territorio. Ecco il bilancio di una settimana di attività",
-      "url": "https://comune.bollate.mi.it/it/news/polizia-locale-2074608",
-      "excerpt": "Sito ufficiale Comune di Bollate",
-      "publishedAt": "2026-11-06T00:00:00Z",
-      "dateEvidence": "html:news-date-label"
-    }
-  ],
+  "items": [],
   "attempts": [
     {
       "url": "https://comune.bollate.mi.it/robots.txt",
-      "status": 200
-    },
-    {
-      "url": "https://comune.bollate.mi.it/it/news",
-      "status": 200
-    },
-    {
-      "url": "https://comune.bollate.mi.it/it/news/bollate-contro-la-violenza-sulle-donne",
-      "status": 404
-    },
-    {
-      "url": "https://comune.bollate.mi.it/it/news/open-day-2075461",
-      "status": 200
-    },
-    {
-      "url": "https://comune.bollate.mi.it/it/news/sciopero-2046496-2059402-2075560",
-      "status": 200
-    },
-    {
-      "url": "https://comune.bollate.mi.it/it/news/avviso-pubblico-2056751-2075513",
-      "status": 200
-    },
-    {
-      "url": "https://comune.bollate.mi.it/it/news/deti",
-      "status": 410
-    },
-    {
-      "url": "https://comune.bollate.mi.it/it/news/polizia-locale-2074608",
-      "status": 200
+      "status": 500
     }
   ],
-  "message": "4 notizie recenti con data verificata; copertura parziale.",
-  "candidateSamples": [],
-  "candidateCount": 12,
-  "datedCount": 4,
-  "listingUrl": "https://comune.bollate.mi.it/it/news",
-  "durationSeconds": 7.1,
-  "attemptErrors": [
-    {
-      "url": "https://comune.bollate.mi.it/it/news/bollate-contro-la-violenza-sulle-donne",
-      "code": "invalid_url"
-    },
-    {
-      "url": "https://comune.bollate.mi.it/it/news/deti",
-      "code": "invalid_url"
-    }
-  ]
+  "message": "HTTP 500",
+  "httpStatus": 500,
+  "failedUrl": "https://comune.bollate.mi.it/robots.txt",
+  "durationSeconds": 3.61
 }

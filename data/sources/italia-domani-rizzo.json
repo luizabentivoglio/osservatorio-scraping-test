@@ -4,7 +4,7 @@
   "sourceId": "italia-domani-rizzo",
   "originUrl": "https://www.italiadomanirizzo.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-12T01:02:29.115299Z",
+  "collectedAt": "2026-11-12T10:22:29.321875Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -94,5 +94,5 @@
   "candidateCount": 8,
   "datedCount": 3,
   "listingUrl": "https://www.italiadomanirizzo.it/",
-  "durationSeconds": 6.85
+  "durationSeconds": 6.53
 }
