@@ -4,7 +4,7 @@
   "sourceId": "camera",
   "originUrl": "https://www.camera.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-11T18:05:07.364162Z",
+  "collectedAt": "2026-11-12T01:01:46.557718Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -48,7 +48,7 @@
     {
       "title": "Decreto Giustizia - Interno - impianti strategici",
       "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64020",
-      "excerpt": "Alle ore 16.15, l'esame del seguente provvedimento: conversione in legge, con modificazioni, del de...",
+      "excerpt": "La Camera è convocata giovedì 12 novembre alle ore 9.30. Nella seduta di mercoledì 11 novembre...",
       "publishedAt": "2026-11-11T00:00:00Z",
       "dateEvidence": "html:publication-label"
     }
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://comunicazione.camera.it/archivio-prima-pagina",
-  "durationSeconds": 4.09
+  "durationSeconds": 4.64
 }

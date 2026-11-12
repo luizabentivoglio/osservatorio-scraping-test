@@ -4,7 +4,7 @@
   "sourceId": "senato",
   "originUrl": "https://www.senato.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-11T18:06:12.815380Z",
+  "collectedAt": "2026-11-12T01:02:59.600110Z",
   "status": "no_feed",
   "diagnosticCode": "parsing_error",
   "method": "crawl4ai",

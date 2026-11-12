@@ -4,24 +4,24 @@
   "sourceId": "greenpeace",
   "originUrl": "https://www.greenpeace.org/italy/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-11T18:05:36.782100Z",
+  "collectedAt": "2026-11-12T01:02:19.264303Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
+      "title": "Il DDL Caccia andrà al voto il 27 novembre - Greenpeace Italia",
+      "url": "https://www.greenpeace.org/italy/storia/32098/il-ddl-caccia-andra-al-voto-il-27-novembre-dobbiamo-fermarlo/",
+      "excerpt": "Ancora una volta il Governo sceglie di dedicare tempo e risorse a una legge nata per compiacere le lobby della caccia. Questa riforma sbagliata e pericolosa va fermata!",
+      "publishedAt": "2026-11-10T11:14:58Z",
+      "dateEvidence": "html:publication-time"
+    },
+    {
       "title": "Google ha abbattuto 400mila alberi in Finlandia per costruire due data center - Greenpeace Italia",
       "url": "https://www.greenpeace.org/italy/storia/32167/google-ha-abbattuto-400mila-alberi-in-finlandia-per-costruire-due-data-center/",
       "excerpt": "In Finlandia Google ha abbattuto 400mila alberi per fare spazio a due data center. E c’è di più: non aveva neanche i permessi per farlo.",
       "publishedAt": "2026-11-06T09:25:48Z",
-      "dateEvidence": "html:publication-time"
-    },
-    {
-      "title": "Il DDL Caccia andrà al voto il 27 novembre - Greenpeace Italia",
-      "url": "https://www.greenpeace.org/italy/storia/32098/il-ddl-caccia-andra-al-voto-il-27-novembre-dobbiamo-fermarlo/",
-      "excerpt": "Ancora una volta il Governo sceglie di dedicare tempo e risorse a una legge nata per compiacere le lobby della caccia. Questa riforma sbagliata e pericolosa va fermata!",
-      "publishedAt": "2026-10-29T15:26:21Z",
       "dateEvidence": "html:publication-time"
     }
   ],
@@ -79,5 +79,5 @@
   "candidateCount": 12,
   "datedCount": 5,
   "listingUrl": "https://www.greenpeace.org/italy/",
-  "durationSeconds": 4.73
+  "durationSeconds": 5.21
 }

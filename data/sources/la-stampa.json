@@ -4,28 +4,28 @@
   "sourceId": "la-stampa",
   "originUrl": "https://www.lastampa.it/",
   "configuredFeedUrl": "https://www.lastampa.it/rss/copertina.xml",
-  "collectedAt": "2026-11-11T18:05:45.781392Z",
+  "collectedAt": "2026-11-12T01:02:30.216407Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.lastampa.it/rss/copertina.xml",
   "items": [
     {
-      "title": "Crollo in un cantiere nell’Aquilano, morti due operai: un terzo estratto vivo dalle macerie",
-      "url": "https://www.lastampa.it/cronaca/2026/11/11/news/crollo_cantiere_l_aquila_morti_operai_macerie_palazzo-15795157/",
-      "excerpt": "Il cedimento a Palazzo Paolini, edificio storico interessato dai lavori di ricostruzione post-sisma del 2009. Il sindaco: «Un muro è crollato all’improvviso». Edificio sotto sequestro",
-      "publishedAt": "2026-11-11T00:00:00Z",
+      "title": "Segregata in casa dall’ex violento, viene licenziata per le assenze: l’azienda costretta a risarcirla",
+      "url": "https://www.lastampa.it/cronaca/2026/11/12/news/segregata_dall_ex_violento_l_azienda_la_licenzia_decisione_illegittima-15795432/",
+      "excerpt": "Milano, l’uomo non la lasciava andare al lavoro e minacciò un collega. Poi, l’aiuto di un centro antiviolenza e della Cgil: ora il risarcimento",
+      "publishedAt": "2026-11-12T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Allarme bomba in più di seimila scuole italiane: cosa sta succedendo e cosa sappiamo",
+      "title": "Allarme bomba in più di seimila scuole italiane: evacuazioni e controlli. Domani istituti aperti",
       "url": "https://www.lastampa.it/cronaca/2026/11/11/news/mail_allarme_bomba_scuole-15794670/",
       "excerpt": "In corso la riunione a Palazzo Chigi con i vertici del governo e dell'intelligence. Domani alle 9 l’incontro con le opposizioni",
       "publishedAt": "2026-11-11T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Meloni, vertice a Palazzo Chigi: “Non ci sono pericoli concreti”. Valditara: no allarmismi",
+      "title": "Meloni: “Mail anonime non decideranno il calendario scolastico”",
       "url": "https://www.lastampa.it/cronaca/2026/11/11/news/allarmi_bomba_nelle_scuole_e_attacchi_hacker_meloni_convoca_un_vertice_a_palazzo_chigi-15794769/",
       "excerpt": "Vertice di due ore, domani la premier vede le opposizioni alle 8,30. Piantedosi denuncia una strategia per destabilizzare il Paese, ma esclude un’unica regia. Crosetto avverte sui rischi per le infrastrutture civili. Nuove minacce degli hacker filorussi al ministro Tajani",
       "publishedAt": "2026-11-11T00:00:00Z",
@@ -46,20 +46,6 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Margelletti: “Dietro agli allarmi bomba c’è la Russia, e se il prossimo attacco fossero le banche?”",
-      "url": "https://www.lastampa.it/cronaca/2026/11/11/news/margelletti_allarmi_bomba_russia_rischio_banche-15794875/",
-      "excerpt": "Il presidente del Centro Studi Internazionali di Roma ed esperto di geopolitica: «È in corso una guerra ibrida, devono avere paura della risposta dell’Europa»",
-      "publishedAt": "2026-11-11T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "“Mikhail Andropov”, la stessa firma usata nella guerra ibrida contro l’Irlanda e Lituania",
-      "url": "https://www.lastampa.it/esteri/2026/11/11/news/mikhail_andropov_la_stessa_firma_usata_nella_guerra_ibrida_contro_l_irlanda_e_lituania-15794811/",
-      "excerpt": "L’intelligence irlandese, proprio commentando gli attacchi alle redazioni di Dublino con lo stesso nome russo degli allarmi alle scuole italiana, ha spiegato: «Il modus operandi suggerisce che si sia trattato della Russia»",
-      "publishedAt": "2026-11-11T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
       "title": "Allarme bombe nelle scuole, il giallo delle mail da Taiwan: chi c'è dietro la strategia del caos?",
       "url": "https://www.lastampa.it/cronaca/2026/11/11/news/allarme-bombe-scuole-mail-taiwan-mistero-intelligence-strategia-caos-15795139/",
       "excerpt": "Le minacce firmate Mikhail Andropov arrivano da un indirizzo riconducibile a un'università asiatica. Ma gli investigatori sospettano un depistaggio. Intelligence al lavoro per individuare una possibile regia internazionale",
@@ -67,16 +53,23 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Come si spiega l’attacco hacker ai bimbi? Parla la psicologa",
-      "url": "https://www.lastampa.it/cronaca/2026/11/11/news/attacco_hacker_scuole_bomba_bambini_psicologo-15794831/",
-      "excerpt": "Paura in centinaia di istituti dopo le email anonime. «Il genitore non faccia una conferenza stampa: parta dalle domande e poi dica la verità, con parole adatte all’età»",
+      "title": "Margelletti: “Dietro agli allarmi bomba c’è la Russia, e se il prossimo attacco fossero le banche?”",
+      "url": "https://www.lastampa.it/cronaca/2026/11/11/news/margelletti_allarmi_bomba_russia_rischio_banche-15794875/",
+      "excerpt": "Il presidente del Centro Studi Internazionali di Roma ed esperto di geopolitica: «È in corso una guerra ibrida, devono avere paura della risposta dell’Europa»",
       "publishedAt": "2026-11-11T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "I NoName a Tajani: “Sappiamo dove vive la tua famiglia”. E pubblicano informazioni su moglie e figli",
-      "url": "https://www.lastampa.it/politica/2026/11/11/news/i_noname_a_tajani_sappiamo_dove_vive_la_tua_famiglia-15794839/",
-      "excerpt": "Ieri, dopo che gli hacker avevano rilanciato le minacce, Tajani aveva ribadito: «Non mi faccio intimorire»",
+      "title": "Crolla un palazzo di 3 piani a Brooklyn: almeno un morto e 10 feriti, 4 sono gravi",
+      "url": "https://www.lastampa.it/esteri/2026/11/11/news/crolla_palazzo_brooklyn_macerie_vittime-15795471/",
+      "excerpt": "Le operazioni di soccorso anche con i droni",
+      "publishedAt": "2026-11-11T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Scontri a Barcellona: incappucciati distruggono negozi e palazzi. Tensioni a Madrid",
+      "url": "https://www.lastampa.it/esteri/2026/11/11/news/scontri_barcellona_incappucciati_negozi_distrutti_madrid-15795419/",
+      "excerpt": "Gruppi di giovani hanno preso di mira vetrine e arredi urbani dopo il corteo per la casa. In tutto il Paese 60 arresti e circa 1.500 incidenti",
       "publishedAt": "2026-11-11T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -88,16 +81,16 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Pensioni, la rivalutazione arriva nel cedolino di gennaio: aumenti anche senza le regole definitive",
-      "url": "https://www.lastampa.it/economia/2026/11/11/news/pensioni_rivalutazione_aumenti_cedolino_gennaio_2027-15794821/",
-      "excerpt": "Il cedolino dell’anno nuovo porterà l’adeguamento al costo della vita, senza aspettare che il Parlamento chiuda la discussione sulle nuove norme",
+      "title": "Meloni spiega la manovra: “Con il taglio del bollo auto gli italiani risparmiano 2,3 miliardi”",
+      "url": "https://www.lastampa.it/economia/2026/11/11/news/meloni_video_manovra_taglio_bollo_auto-15794667/",
+      "excerpt": "La premier lancia una serie di videoclip sulla legge di bilancio: «A sinistra c'è chi continua a proporre patrimoniali, noi le tasse sulla proprietà le tagliamo»",
       "publishedAt": "2026-11-11T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Meloni spiega la manovra: “Con il taglio del bollo auto gli italiani risparmiano 2,3 miliardi”",
-      "url": "https://www.lastampa.it/economia/2026/11/11/news/meloni_video_manovra_taglio_bollo_auto-15794667/",
-      "excerpt": "La premier lancia una serie di videoclip sulla legge di bilancio: «A sinistra c'è chi continua a proporre patrimoniali, noi le tasse sulla proprietà le tagliamo»",
+      "title": "Pensioni, la rivalutazione arriva nel cedolino di gennaio: aumenti anche senza le regole definitive",
+      "url": "https://www.lastampa.it/economia/2026/11/11/news/pensioni_rivalutazione_aumenti_cedolino_gennaio_2027-15794821/",
+      "excerpt": "Il cedolino dell’anno nuovo porterà l’adeguamento al costo della vita, senza aspettare che il Parlamento chiuda la discussione sulle nuove norme",
       "publishedAt": "2026-11-11T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -112,13 +105,6 @@
       "title": "“Bestie, vi faccio neri”: gli audio choc di Diaco, la Rai apre un’indagine interna",
       "url": "https://www.lastampa.it/spettacoli/2026/11/11/news/rai_accertamenti_bellama_diaco_cosa_e_successo-15794952/",
       "excerpt": "La decisione di accertamenti su BellaMa’ è stata presa dopo l’inchiesta di Selvaggia Lucarelli. Il conduttore: «Giornata più difficile della mia vita». E il Codacons chiede la sospensione del programma",
-      "publishedAt": "2026-11-11T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Francia, Houellebecq indagato per odio contro i musulmani. Le sue scuse non chiudono il caso",
-      "url": "https://www.lastampa.it/esteri/2026/11/11/news/francia_houellebecq_indagato_per_odio_contro_i_musulmani-15794581/",
-      "excerpt": "Al centro dell’inchiesta un’intervista del 2022 in cui lo scrittore evocava futuri “Bataclan al contrario”. La difesa: “Nessun incitamento, è libertà d’espressione”",
       "publishedAt": "2026-11-11T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -144,93 +130,23 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "“Per l’amianto ho perso mio marito 30 anni fa, ucciso da chi pensava al profitto”",
-      "url": "https://www.lastampa.it/alessandria/2026/11/11/news/per_l_amianto_ho_perso_mio_marito_30_anni_fa_ucciso_da_chi_pensava_al_profitto-15794322/",
-      "excerpt": "Assunta Prato è la vedova dell’assessore all’Ambiente che lottò per la bonifica dei magazzini",
+      "title": "Netanyahu ordina all’esercito: “Prepararsi per attaccare l’Iran”",
+      "url": "https://www.lastampa.it/esteri/2026/11/11/news/netanyahu_israele_attacco_iran-15795392/",
+      "excerpt": "Lo riferisce l’emittente pubblica israeliana Kan, sottolineando che le forze armate sono state messe in massima allerta. Ma Eisenkot frena",
       "publishedAt": "2026-11-11T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "L’oncologa Degiovanni: “Ho conosciuto la sofferenza dei malati. Questi giudici ignorano la medicina”",
-      "url": "https://www.lastampa.it/alessandria/2026/11/11/news/oncologa_degiovanni_eternit_cassazione-15794297/",
-      "excerpt": "La prima specialista di tumori a diagnosticare il mesotelioma: «È disgustoso»",
+      "title": "Zelensky: “Progressi nei negoziati entro fine anno, ma impossibile senza l’Europa”",
+      "url": "https://www.lastampa.it/esteri/2026/11/12/diretta/guerra_russia_ucraina_news_oggi-15795478/",
+      "excerpt": "Via al tredicesimo pacchetto di aiuti italiani per Kiev",
       "publishedAt": "2026-11-11T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Il genero ex sciatore svizzero in pole per la successione a Nvidia. Chi è il Kushner di Jensen Huang",
-      "url": "https://www.lastampa.it/esteri/2026/11/11/news/il_genero_ex_sciatore_svizzero_in_pole_per_la_successione_a_nvidia_chi_e_il_kushner_di_jensen_huang-15794696/",
-      "excerpt": "Nico Caprez, 35 anni, marito della figlia Madison Huang, assunto nel 2024 e saltato, nel 2026, ai vertici. Non senza malumori interni",
-      "publishedAt": "2026-11-11T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "I potenti Usa preda di honeytrap, da Alice e le cinesi alle russe attorno a Gates, Musk, BlackRock",
-      "url": "https://www.lastampa.it/esteri/2026/11/11/news/spie_donna_cina_russia_fbi-15794341/",
-      "excerpt": "La sospetta compromissione del capo di Nvidia Jensen Huang compie un trend ormai ventennale: Pechino ha seguito i maestri russi, centrando uno dei tre più grossi bersagli delle storie delle “trappole al miele”",
-      "publishedAt": "2026-11-11T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Perché per Nvidia è difficile rimuovere Jensen Huang",
-      "url": "https://www.lastampa.it/economia/2026/11/11/news/nvidia_jensen_huang_troppo_potente_per_essere_rimosso-15793893/",
-      "excerpt": "Troppo potente per essere sostituito, troppo centrale per avere un sostituto in grado di reggere l’azienda al centro della rivoluzione dell’Ai. Ma anche troppo debole ora.",
-      "publishedAt": "2026-11-11T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "A Gaza solo tende allagate e famiglie sepolte dalla sabbia: “Qui nessun posto è sicuro”",
-      "url": "https://www.lastampa.it/esteri/2026/11/11/news/gaza_tende_allagate_cinque_morti-15794368/",
-      "excerpt": "La tempesta e l’alluvione hanno fatto strage di bambini, almeno 5 morti",
-      "publishedAt": "2026-11-11T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "L’ombra di Trump sulla tomba di JFK, i Kennedy portano l’arco di trionfo in tribunale",
-      "url": "https://www.lastampa.it/esteri/2026/11/11/news/l_ombra_di_trump_sulla_tomba_di_jfk_i_kennedy_portano_l_arco_di_trionfo_in_tribunale-15794498/",
-      "excerpt": "Il monumento voluto dal presidente degli Stati Uniti oscurerebbe i memoriali di Arlington per molti giorni l’anno. Lavori sospesi fino al 20 novembre",
-      "publishedAt": "2026-11-11T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Alla COP31 si rivede Greta Thunberg. “Siamo tutti in pericolo”",
-      "url": "https://www.lastampa.it/esteri/2026/11/11/news/greta_thunberg_cop31_antalya_tutto_e_tutti_in_pericolo-15794646/",
-      "excerpt": "La giovane attivista è arrivata oggi in Turchia. Non partecipava a un vertice delle Nazioni Unite sul clima dal 2021. «Smettiamo di sacrificare la popolazione mondiale per garantire i profitti di pochi»",
-      "publishedAt": "2026-11-11T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "La tastiera dell’iPhone ha una lista segreta di 100mila parole che non suggerisce",
-      "url": "https://www.lastampa.it/tech/2026/11/11/news/iphone_parole_frasi_escluse_completamento_automatico_italiano-15794742/",
-      "excerpt": "Da “Trump dittatore” a “Babbo Natale non esiste”, un ricercatore ha scoperto le espressioni escluse dal completamento automatico di iOS. Apple conferma i filtri contro i suggerimenti offensivi, ma non spiega i criteri utilizzati.",
-      "publishedAt": "2026-11-11T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Talento, destino e romanticismo: è Alex Fontana la vera star di X Factor",
-      "url": "https://www.lastampa.it/spettacoli/2026/11/11/news/talento_destino_e_romanticismo_e_alex_fontana_la_vera_star_di_x_factor-15793758/",
-      "excerpt": "Il cantante di Secondigliano ha già conquistato tutti con la sua storia e la sua voce: ma la sfida è farcela anche fuori dalla bolla della tv",
-      "publishedAt": "2026-11-11T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Dal tennis panoramico alle lampade opere d’arte: cinque cose da fare a Torino e dintorni",
-      "url": "https://www.lastampa.it/torino/2026/11/11/news/dal_tennis_panoramico_alle_lampade_opere_d_arte_cinque_cose_da_fare_a_torino_e_dintorni-15793968/",
-      "excerpt": "Al Mao la straordinaria (e prima) mostra di Song Dong, Alessandria omaggia il suo jazzista Gianni Coscia, il Circolo dei lettori riflette sulle “Radici”, sull’Isola Bella si gioca a tennis, e al Mauto il party è con Saetta McQueen",
-      "publishedAt": "2026-11-11T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "I Subsonica come non li avete mai visti: annunciato il tour a teatro",
-      "url": "https://www.lastampa.it/spettacoli/2026/11/11/news/subsonica_concerti_teatro_marzo_2027-15794691/",
-      "excerpt": "Appuntamento a marzo 2027: prima tappa l’8 al Politeama di Genova e ultima il 31 al Colosseo di Torino",
-      "publishedAt": "2026-11-11T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Sentono un neonato piangere sotto terra: era stato sepolto vivo in una gabbia per cani",
-      "url": "https://www.lastampa.it/esteri/2026/11/11/video/south-carolina-neonato-sepolto-vivo-gabbia-cani-salvato-15795136/",
-      "excerpt": "L’allarme è scattato lunedì quando la nonna del piccolo Koah Sharpe, che lo aveva affidato temporaneamente al padre Michael Comer, ha scoperto che entrambi erano scomparsi prima dell’arrivo di un’altra persona incaricata di accudirlo. Alcune telecamere hanno poi ripreso Comer mentre si spostava nella contea di Lexingto",
+      "title": "Milano, 14 arresti per le rapine in metropolitana: la polizia svela la tecnica delle aggressioni",
+      "url": "https://www.lastampa.it/cronaca/2026/11/11/video/milano_arresti_rapine_metro_svelata_tecnica_aggressioni-15794608/",
+      "excerpt": "Quattordici giovani sono stati arrestati a Milano con l’accusa di aver commesso otto rapine sui mezzi pubblici tra agosto 2025 e giugno 2026. L’ordinanza di custodia cautelare in carcere è stata emessa nei confronti di un cittadino tunisino di 20 anni e di 13 cittadini egiziani di età compresa tra i 19 e i 25 anni. Le ",
       "publishedAt": "2026-11-11T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -263,16 +179,30 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "La morte del piccolo Domenico: indagati due sanitari dell'ospedale di Bolzano",
-      "url": "https://www.lastampa.it/cronaca/2026/11/11/news/morte_domenico_caliendo_cuore_bruciato_trapianto_medici_indagati-15794681/",
-      "excerpt": "Il bimbo rimase vittima di un trapianto eseguito con un cuore danneggiato nel trasporto. I nuovi indagati saranno ascoltati dagli inquirenti nei prossimi giorni a Napoli. I sanitari indagati ora sono nove",
+      "title": "“Restituite i fondi pubblici versati per errore”: così la banda truffava preti e suore",
+      "url": "https://www.lastampa.it/torino/2026/11/11/news/truffe_telefoniche_preti_suore_finti_funzionari_fondi_pubblici-15794676/",
+      "excerpt": "Si fingevano funzionari pubblici per ottenere bonifici dagli enti religiosi: la Guardia di finanza ricostruisce oltre 250 raggiri in tutta Italia",
       "publishedAt": "2026-11-11T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "“Restituite i fondi pubblici versati per errore”: così la banda truffava preti e suore",
-      "url": "https://www.lastampa.it/torino/2026/11/11/news/truffe_telefoniche_preti_suore_finti_funzionari_fondi_pubblici-15794676/",
-      "excerpt": "Si fingevano funzionari pubblici per ottenere bonifici dagli enti religiosi: la Guardia di finanza ricostruisce oltre 250 raggiri in tutta Italia",
+      "title": "Ufficiale la reunion dei Måneskin, suoneranno al Coachella 2027 dopo il ritorno insieme a Sanremo",
+      "url": "https://www.lastampa.it/spettacoli/2026/11/11/news/maneskin_coachella_2027-15794851/",
+      "excerpt": "Dovrebbero esibirsi sabato 10 e 17 aprile, nelle due giornate del festival che si terranno a Indio, in California",
+      "publishedAt": "2026-11-11T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Treviso, spara e uccide il gallo del vicino perché canta troppo forte: a processo dopo 5 anni",
+      "url": "https://www.lastampa.it/cronaca/2026/11/11/news/treviso_uccide_gallo_denunciato_vicino-15795010/",
+      "excerpt": "Nei guai un uomo che se l’è presa con l’animale di un vicino. Incastrato dalle immagini della video sorveglianza",
+      "publishedAt": "2026-11-11T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "La morte del piccolo Domenico: indagati due sanitari dell'ospedale di Bolzano",
+      "url": "https://www.lastampa.it/cronaca/2026/11/11/news/morte_domenico_caliendo_cuore_bruciato_trapianto_medici_indagati-15794681/",
+      "excerpt": "Il bimbo rimase vittima di un trapianto eseguito con un cuore danneggiato nel trasporto. I nuovi indagati saranno ascoltati dagli inquirenti nei prossimi giorni a Napoli. I sanitari indagati ora sono nove",
       "publishedAt": "2026-11-11T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -284,10 +214,80 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Treviso, spara e uccide il gallo del vicino perché canta troppo forte: a processo dopo 5 anni",
-      "url": "https://www.lastampa.it/cronaca/2026/11/11/news/treviso_uccide_gallo_denunciato_vicino-15795010/",
-      "excerpt": "Nei guai un uomo che se l’è presa con l’animale di un vicino. Incastrato dalle immagini della video sorveglianza",
+      "title": "Kimi Antonelli mantiene la promessa e si tinge i capelli tricolore: la reazione incredula",
+      "url": "https://www.lastampa.it/sport/2026/11/11/video/imi_antonelli_capelli_tricolore_reazione_mercedes-15794878/",
+      "excerpt": "Andrea Kimi Antonelli si è presentato nella sede Mercedes di Brackley con i capelli tinti di verde, bianco e rosso, sorprendendo il team principal Toto Wolff e gli altri componenti della squadra. Il pilota italiano aveva promesso il cambio di look per festeggiare la conquista del Mondiale di Formula 1; Mercedes ha pubb",
       "publishedAt": "2026-11-11T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Prima i botti, poi la fuga: il mortaio esplode davanti allo studente. È panico nel liceo francese",
+      "url": "https://www.lastampa.it/esteri/2026/11/11/video/francia_liceo_mortaio_esplosione_panico_immagini-15794535/",
+      "excerpt": "Due ragazzi sono rimasti feriti dai frammenti di alcuni fuochi d’artificio esplosi all’interno di un liceo alle porte di Parigi. È successo lunedì 9 novembre al liceo Louis-Lumière di Chelles. Le immagini, riprese dallo studente Enez Aras, mostrano i momenti di panico vissuti nell’istituto mentre alcuni mortai pirotecn",
+      "publishedAt": "2026-11-11T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Iran, la base segreta è nascosta sottoterra: ecco com'è fatta la \"città dei missili\" dei Pasdaran",
+      "url": "https://www.lastampa.it/esteri/2026/11/11/video/iran_pasdaran_base_sotterranea_citta_missili-15794492/",
+      "excerpt": "L'Iran ha svelato una nuova base missilistica segreta sotterranea dei Guardiani della Rivoluzione: come si vede nelle immagini diffuse dalla televisione di Stato IRIB, la struttura ospiterebbe missili balistici a propellente solido e liquido, missili da crociera e sistemi di lancio. Alla presentazione hanno partecipato",
+      "publishedAt": "2026-11-11T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Sentono un neonato piangere sotto terra: era stato sepolto vivo in una gabbia per cani",
+      "url": "https://www.lastampa.it/esteri/2026/11/11/video/south-carolina-neonato-sepolto-vivo-gabbia-cani-salvato-15795136/",
+      "excerpt": "L’allarme è scattato lunedì quando la nonna del piccolo Koah Sharpe, che lo aveva affidato temporaneamente al padre Michael Comer, ha scoperto che entrambi erano scomparsi prima dell’arrivo di un’altra persona incaricata di accudirlo. Alcune telecamere hanno poi ripreso Comer mentre si spostava nella contea di Lexingto",
+      "publishedAt": "2026-11-11T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "In Parlamento il grande trasloco delle casacche, la corsa alla ricandidatura agita i partiti",
+      "url": "https://www.lastampa.it/politica/2026/11/11/news/cambi_casacca_partiti_parlamentari_ricandidature-15794614/",
+      "excerpt": "De Rosa sceglie Sud chiama Nord di Cateno De Luca, Silvestro approda alla Lega, Guidi fonda la componente Italia Domani-Marco Rizzo e Crisanti saluta i dem per il gruppo riconducibile a Rifondazione comunista, ecco tutti i «movimenti»",
+      "publishedAt": "2026-11-11T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Vannacci, i soldi dei gadget di partito alla fondazione della moglie",
+      "url": "https://www.lastampa.it/politica/2026/11/11/news/vannacci_i_soldi_dei_gadget_di_partito_alla_fondazione_della_moglie-15794417/",
+      "excerpt": "Come associazione culturale non ha obblighi di trasparenza sui finanziamenti",
+      "publishedAt": "2026-11-11T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Papa Leone in Perù, il significato del ritorno nella sua seconda patria",
+      "url": "https://www.lastampa.it/esteri/2026/11/11/news/papa_leone_viaggio_peru-15794597/",
+      "excerpt": "Da Karol Wojtyla a Robert Prevost il profondo significato simbolico del ritorno in patria dei pontefici. Oggi l’accoglienza del popolo e delle autorità a Lima",
+      "publishedAt": "2026-11-11T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Un Paese alla ricerca del suo Principe in equilibrio tra partiti e Quirinale",
+      "url": "https://www.lastampa.it/cultura/2026/11/11/news/saggio_quagliariello_castellani_un_paese_alla_ricerca_del_suo_principe_in_equilibrio_tra_partiti_e_quirinale-15794205/",
+      "excerpt": "La visione storico-politica nel saggio di Gaetano Quagliariello e Lorenzo Castellani",
+      "publishedAt": "2026-11-11T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "La terribile storia di una trentenne monregalese: in due anni stuprata quattro volte dal compagno",
+      "url": "https://www.lastampa.it/cuneo/2026/11/11/news/mondovi_donna_stuprata_compagno_processo-15794956/",
+      "excerpt": "L’uomo imputato per violenza sessuale, maltrattamenti e stalking. La tempestava di telefonate e anche convinta a ritirare una denuncia. Il supporto di servizi sociali e centro antiviolenza",
+      "publishedAt": "2026-11-11T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Cresce la raccolta differenziata in Piemonte (69,4%), ma Torino e Alessandria restano indietro",
+      "url": "https://www.lastampa.it/nord-ovest/2026/11/11/news/raccolta_differenziata_piemonte_2025_dati_territori-15794515/",
+      "excerpt": "Dieci anni fa la quota si fermava al 54% anche se la regione resta dieci punti sotto Veneto ed Emilia-Romagna. A trainare la crescita Novara, Biella, Vco e il Cuneese. Tutti i dati provincia per provincia",
+      "publishedAt": "2026-11-11T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Cara spensieratezza",
+      "url": "https://www.lastampa.it/speciale/cultura/fuoriclasse/",
+      "excerpt": "Fino a un paio di anni fa la sequenza, almeno per me, era quasi automatica: finiva la scuola il venerdì, ci si trovava sul muretto dietro la fermata dell’autobus e qualcuno pronunciava la frase ...",
+      "publishedAt": "2026-11-10T00:00:00Z",
       "dateEvidence": "feed:published"
     }
   ],
@@ -302,5 +302,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 0.75
+  "durationSeconds": 0.8
 }

@@ -4,7 +4,7 @@
   "sourceId": "commissione-europea",
   "originUrl": "https://commission.europa.eu/news-and-media_en",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-11T18:05:11.767270Z",
+  "collectedAt": "2026-11-12T01:01:51.198014Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -51,6 +51,24 @@
       "title": "News from Commission Departments",
       "h1": "News",
       "dates": [
+        {
+          "tag": "time",
+          "class": [],
+          "text": "13 February 2026",
+          "datetime": "2026-02-13T12:00:00Z"
+        },
+        {
+          "tag": "time",
+          "class": [],
+          "text": "19 March 2025",
+          "datetime": "2025-03-19T12:00:00Z"
+        },
+        {
+          "tag": "time",
+          "class": [],
+          "text": "10 December 2024",
+          "datetime": "2024-12-10T12:00:00Z"
+        },
         {
           "tag": "div",
           "class": [
@@ -135,24 +153,6 @@
           "class": [],
           "text": "11 November 2026",
           "datetime": "2026-11-11T12:00:00Z"
-        },
-        {
-          "tag": "time",
-          "class": [],
-          "text": "11 November 2026",
-          "datetime": "2026-11-11T12:00:00Z"
-        },
-        {
-          "tag": "time",
-          "class": [],
-          "text": "11 November 2026",
-          "datetime": "2026-11-11T12:00:00Z"
-        },
-        {
-          "tag": "time",
-          "class": [],
-          "text": "11 November 2026",
-          "datetime": "2026-11-11T12:00:00Z"
         }
       ]
     },
@@ -172,5 +172,5 @@
   "candidateCount": 4,
   "datedCount": 1,
   "listingUrl": "https://commission.europa.eu/news-and-media_en",
-  "durationSeconds": 2.81
+  "durationSeconds": 2.64
 }

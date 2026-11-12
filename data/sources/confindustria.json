@@ -4,7 +4,7 @@
   "sourceId": "confindustria",
   "originUrl": "https://www.confindustria.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-11T18:05:15.545555Z",
+  "collectedAt": "2026-11-12T01:01:55.042843Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -15,13 +15,6 @@
       "url": "https://www.confindustria.it/comunicati-stampa/al-via-oggi-la-xxv-settimana-della-cultura-dimpresa",
       "excerpt": "Roma, 9 novembre 2026 – Oggi prende il via la XXV Settimana della Cultura d’Impresa, l’iniziativa nazionale promossa da Confindustria e Museimpresa che ogni anno celebra e valorizza il patrimonio culturale, sociale e creativo custodito nelle imprese italiane. Un appuntamento diffuso, volto a raccontare la storia, l’ide",
       "publishedAt": "2026-11-09T00:00:00Z",
-      "dateEvidence": "html:press-release-header"
-    },
-    {
-      "title": "ARTIGIANATO, ORSINI: “LE ASSOCIAZIONI DI CATEGORIA NON DIFENDANO I PROPRI INTERESSI A SPESE DEI LAVORATORI E DELLE IMPRESE”",
-      "url": "https://www.confindustria.it/comunicati-stampa/artigianato-orsini-le-associazioni-di-categoria-non-difendano-i-propri-interessi-a-spese-dei-lavoratori-e-delle-imprese",
-      "excerpt": "Roma, 29 ottobre 2026 – “La revisione della legge quadro sull’artigianato pone una questione fondamentale che non possiamo ignorare: la tutela dei lavoratori, la concorrenza leale tra imprese e la necessità di favorire la crescita del nostro sistema produttivo. Come Presidente di Confindustria, a nome delle oltre 140mi",
-      "publishedAt": "2026-10-29T00:00:00Z",
       "dateEvidence": "html:press-release-header"
     }
   ],
@@ -59,10 +52,10 @@
       "status": 200
     }
   ],
-  "message": "2 notizie recenti con data verificata; copertura parziale.",
+  "message": "1 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [],
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.confindustria.it/comunicati-stampa",
-  "durationSeconds": 4.05
+  "durationSeconds": 4.59
 }

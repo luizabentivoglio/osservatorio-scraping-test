@@ -4,19 +4,12 @@
   "sourceId": "comune-bollate",
   "originUrl": "https://comune.bollate.mi.it/it/news",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-11T18:05:11.909391Z",
+  "collectedAt": "2026-11-12T01:01:51.319318Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
-    {
-      "title": "Bollate contro la violenza sulle donne",
-      "url": "https://comune.bollate.mi.it/it/news/bollate-contro-la-violenza-sulle-donne",
-      "excerpt": "Sito ufficiale Comune di Bollate",
-      "publishedAt": "2026-11-10T00:00:00Z",
-      "dateEvidence": "html:news-date-label"
-    },
     {
       "title": "Open day. Le scuole si presentano.",
       "url": "https://comune.bollate.mi.it/it/news/open-day-2075461",
@@ -34,13 +27,6 @@
     {
       "title": "Avviso pubblico indagine mercato Centro scolastico via Varalli",
       "url": "https://comune.bollate.mi.it/it/news/avviso-pubblico-2056751-2075513",
-      "excerpt": "Sito ufficiale Comune di Bollate",
-      "publishedAt": "2026-11-10T00:00:00Z",
-      "dateEvidence": "html:news-date-label"
-    },
-    {
-      "title": "Nasce il Distretto energetico territoriale: Bollate capofila",
-      "url": "https://comune.bollate.mi.it/it/news/deti",
       "excerpt": "Sito ufficiale Comune di Bollate",
       "publishedAt": "2026-11-10T00:00:00Z",
       "dateEvidence": "html:news-date-label"
@@ -64,7 +50,7 @@
     },
     {
       "url": "https://comune.bollate.mi.it/it/news/bollate-contro-la-violenza-sulle-donne",
-      "status": 200
+      "status": 404
     },
     {
       "url": "https://comune.bollate.mi.it/it/news/open-day-2075461",
@@ -80,17 +66,27 @@
     },
     {
       "url": "https://comune.bollate.mi.it/it/news/deti",
-      "status": 200
+      "status": 410
     },
     {
       "url": "https://comune.bollate.mi.it/it/news/polizia-locale-2074608",
       "status": 200
     }
   ],
-  "message": "6 notizie recenti con data verificata; copertura parziale.",
+  "message": "4 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [],
   "candidateCount": 12,
-  "datedCount": 6,
+  "datedCount": 4,
   "listingUrl": "https://comune.bollate.mi.it/it/news",
-  "durationSeconds": 4.79
+  "durationSeconds": 7.1,
+  "attemptErrors": [
+    {
+      "url": "https://comune.bollate.mi.it/it/news/bollate-contro-la-violenza-sulle-donne",
+      "code": "invalid_url"
+    },
+    {
+      "url": "https://comune.bollate.mi.it/it/news/deti",
+      "code": "invalid_url"
+    }
+  ]
 }

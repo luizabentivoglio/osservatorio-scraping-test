@@ -4,51 +4,51 @@
   "sourceId": "il-post",
   "originUrl": "https://www.ilpost.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-11T18:05:41.718863Z",
+  "collectedAt": "2026-11-12T01:02:25.966362Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
+      "title": "Cosa sappiamo degli allarmi bomba nelle scuole",
+      "url": "https://www.ilpost.it/2026/11/11/allarmi-bomba-scuole-cosa-e-successo-chi-e-stato/?homepagePosition=0",
+      "excerpt": "Che erano infondati, innanzitutto: un po' di risposte su cosa è successo",
+      "publishedAt": "2026-11-11T18:47:15Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "Il ministro dell’Istruzione Giuseppe Valditara ha detto che domani le scuole saranno aperte",
+      "url": "https://www.ilpost.it/2026/11/11/valditara-scuole-aperte-allarmi-bomba/?bitPosition=1",
+      "excerpt": "Il ministro dell’Istruzione Giuseppe Valditara ha detto che domani le scuole saranno aperte Il ministro dell’Istruzione Giuseppe Valditara ha detto che domani, giovedì 12 novembre, le scuole saranno regolarmente aperte, nonostante gli allarmi bomba che nella giornata di mercoledì hanno costretto a evacuazioni e interro",
+      "publishedAt": "2026-11-11T18:15:32Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "In provincia dell’Aquila due operai sono morti in un crollo di un palazzo in ristrutturazione",
+      "url": "https://www.ilpost.it/2026/11/11/san-pio-laquila-operai-morti-ristrutturazione/?bitPosition=2",
+      "excerpt": "In provincia dell’Aquila due operai sono morti in un crollo di un palazzo in ristrutturazione A San Pio di Fontecchio, in provincia dell’Aquila, due operai sono morti a causa del crollo di un palazzo in ristrutturazione. Un terzo operaio è stato tirato fuori dalle macerie dai soccorritori ed è stato ricoverato in osped",
+      "publishedAt": "2026-11-11T17:50:41Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "Sono indagate anche due infermiere dell’ospedale da cui proveniva il cuore trapiantato nel bambino morto all’ospedale Monaldi di Napoli",
+      "url": "https://www.ilpost.it/2026/11/11/indagate-infermiere-ospedale-bolzano-trapianto-cuore-sbagliato-monaldi-napoli-bambino/?bitPosition=3",
+      "excerpt": "Sono indagate anche due infermiere dell’ospedale da cui proveniva il cuore trapiantato nel bambino morto all’ospedale Monaldi di Napoli La procura di Napoli ha deciso di indagare anche due infermiere dell’ospedale di Bolzano per la morte del bambino di due anni all’ospedale Monaldi di Napoli, avvenuta lo scorso febbrai",
+      "publishedAt": "2026-11-11T17:08:30Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
       "title": "L’uomo che uccise Martina Scialdone è stato condannato all’ergastolo nell’appello bis, in cui è stata riconosciuta la premeditazione",
-      "url": "https://www.ilpost.it/2026/11/11/condanna-ergastolo-bonaiuti-femminicidio-scialdone/?bitPosition=1",
+      "url": "https://www.ilpost.it/2026/11/11/condanna-ergastolo-bonaiuti-femminicidio-scialdone/?bitPosition=4",
       "excerpt": "L’uomo che uccise Martina Scialdone è stato condannato all’ergastolo nell’appello bis, in cui è stata riconosciuta la premeditazione La Corte d’assise d’appello di Roma ha condannato all’ergastolo Costantino Bonaiuti per il femminicidio dell’ex compagna Martina Scialdone, commesso il 13 gennaio del 2023 a Roma. I giudi",
       "publishedAt": "2026-11-11T15:55:51Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "Marco Cappato è indagato dalla procura di Trieste per aver aiutato una donna ad accedere al suicidio assistito in Svizzera",
-      "url": "https://www.ilpost.it/2026/11/11/marco-cappato-indagine-trieste-aiuto-suicidio-assistito/?bitPosition=2",
-      "excerpt": "Marco Cappato è indagato dalla procura di Trieste per aver aiutato una donna ad accedere al suicidio assistito in Svizzera La procura di Trieste ha aperto un’indagine su Marco Cappato, responsabile dell’associazione Soccorso civile, per aver aiutato una donna di Trieste di 80 anni e affetta da una grave malattia neurod",
-      "publishedAt": "2026-11-11T13:05:01Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Ci sono stati allarmi bomba anche in molte scuole di Scozia, Irlanda e Irlanda del Nord",
-      "url": "https://www.ilpost.it/2026/11/11/allarmi-bomba-scuole-irlanda/?bitPosition=3",
-      "excerpt": "Ci sono stati allarmi bomba anche in molte scuole di Scozia, Irlanda e Irlanda del Nord Dopo le migliaia di falsi allarmi bomba nelle scuole italiane, mercoledì mattina episodi analoghi si sono verificati anche in diversi istituti di Scozia, Irlanda e Irlanda del Nord. Le informazioni al momento sono poche: come accadu",
-      "publishedAt": "2026-11-11T12:42:37Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "In Portogallo le scuole sono state chiuse e ci sono più di 360 voli cancellati a causa della tempesta Charles",
-      "url": "https://www.ilpost.it/2026/11/11/portogallo-scuole-chiuse-voli-cancellati-tempesta-charles/?bitPosition=4",
-      "excerpt": "In Portogallo le scuole sono state chiuse e ci sono più di 360 voli cancellati a causa della tempesta Charles In Portogallo sono state chiuse tutte le scuole e i servizi pubblici non essenziali a causa dell’arrivo della tempesta Charles, che ha portato piogge abbondanti e forti raffiche di vento sull’isola di Madeira, ",
-      "publishedAt": "2026-11-11T10:32:15Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Com’è fatto, concretamente, un allarme bomba",
-      "url": "https://www.ilpost.it/2026/11/11/scuole-mail-allarme-bomba/?homepagePosition=0.1&referrerPost=3730223",
-      "excerpt": "Nella mail ricevuta da centinaia di scuole in tutta Italia il responsabile si firma Mikhail Andropov, leader di un inventato «Vilayat di Misoginistan»",
-      "publishedAt": "2026-11-11T10:13:04Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
       "title": "Ci sono stati allarmi bomba in quasi tutte le scuole statali italiane",
-      "url": "https://www.ilpost.it/2026/11/11/allarmi-bomba-scuole/?homepagePosition=0",
-      "excerpt": "Tutti infondati, fin qui: il ministro Valditara ha detto che visti i numeri, oltre seimila scuole su circa settemila, il rischio concreto di una bomba è inesistente",
+      "url": "https://www.ilpost.it/2026/11/11/allarmi-bomba-scuole/?homepagePosition=0.1&referrerPost=3730673",
+      "excerpt": "Tutti infondati: il ministro Valditara ha detto che le scuole riapriranno domani",
       "publishedAt": "2026-11-11T09:07:57Z",
       "dateEvidence": "jsonld:datePublished"
     }
@@ -63,27 +63,27 @@
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/11/allarmi-bomba-scuole/?homepagePosition=0",
+      "url": "https://www.ilpost.it/2026/11/11/allarmi-bomba-scuole-cosa-e-successo-chi-e-stato/?homepagePosition=0",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/11/scuole-mail-allarme-bomba/?homepagePosition=0.1&referrerPost=3730223",
+      "url": "https://www.ilpost.it/2026/11/11/allarmi-bomba-scuole/?homepagePosition=0.1&referrerPost=3730673",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/11/condanna-ergastolo-bonaiuti-femminicidio-scialdone/?bitPosition=1",
+      "url": "https://www.ilpost.it/2026/11/11/valditara-scuole-aperte-allarmi-bomba/?bitPosition=1",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/11/marco-cappato-indagine-trieste-aiuto-suicidio-assistito/?bitPosition=2",
+      "url": "https://www.ilpost.it/2026/11/11/san-pio-laquila-operai-morti-ristrutturazione/?bitPosition=2",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/11/allarmi-bomba-scuole-irlanda/?bitPosition=3",
+      "url": "https://www.ilpost.it/2026/11/11/indagate-infermiere-ospedale-bolzano-trapianto-cuore-sbagliato-monaldi-napoli-bambino/?bitPosition=3",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/11/portogallo-scuole-chiuse-voli-cancellati-tempesta-charles/?bitPosition=4",
+      "url": "https://www.ilpost.it/2026/11/11/condanna-ergastolo-bonaiuti-femminicidio-scialdone/?bitPosition=4",
       "status": 200
     }
   ],
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.ilpost.it/",
-  "durationSeconds": 3.53
+  "durationSeconds": 3.66
 }
