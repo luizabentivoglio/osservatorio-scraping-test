@@ -4,7 +4,7 @@
   "sourceId": "quirinale",
   "originUrl": "https://www.quirinale.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-13T10:03:24.177451Z",
+  "collectedAt": "2026-11-13T18:07:47.012341Z",
   "status": "blocked",
   "diagnosticCode": "access_restricted",
   "method": "html",
@@ -17,6 +17,10 @@
     },
     {
       "url": "https://www.quirinale.it/",
+      "status": 200
+    },
+    {
+      "url": "https://www.quirinale.it/it/notizie/mattarella-inaugura-mostra-ispirazione-europa-italia-germania-pittura-scultura-ottocento-novecento-canova-kiefer",
       "status": 200
     },
     {
@@ -36,10 +40,6 @@
       "status": 200
     },
     {
-      "url": "https://www.quirinale.it/it/notizie/presidente-mattarella-presentazione-rapporto-svimez-2026",
-      "status": 200
-    },
-    {
       "url": "https://www.quirinale.it/it/notizie/nostra-repubblica-compie-ottant-anni-1",
       "status": 200
     }
@@ -47,8 +47,79 @@
   "message": "Verifica interattiva richiesta",
   "candidateSamples": [
     {
+      "url": "https://www.quirinale.it/it/notizie/mattarella-inaugura-mostra-ispirazione-europa-italia-germania-pittura-scultura-ottocento-novecento-canova-kiefer",
+      "title": "Mattarella inaugura la mostra “Ispirazione Europa - Italia e Germania - Pittura e scultura tra Ottocento e Novecento. Da Canova a Kiefer” Il Presidente della Repubblica, Sergio Mattarella, ha partecipato al Teatro Olimpico di Vicenza all’inaugurazione della mostra “Ispirazione Europa - Italia e Germ",
+      "h1": "Mattarella inaugura la mostra “Ispirazione Europa - Italia e Germania - Pittura e scultura tra Ottocento e Novecento. Da Canova a Kiefer”",
+      "dates": [
+        {
+          "tag": "span",
+          "class": [
+            "data-luogo"
+          ],
+          "text": "Vicenza, 13/11/2026 (II mandato)",
+          "datetime": null
+        },
+        {
+          "tag": "span",
+          "class": [
+            "data-luogo"
+          ],
+          "text": "Vicenza, 13/11/2026 (II mandato)",
+          "datetime": null
+        },
+        {
+          "tag": "span",
+          "class": [
+            "data-luogo"
+          ],
+          "text": "Vicenza, 13/11/2026 (II mandato)",
+          "datetime": null
+        },
+        {
+          "tag": "span",
+          "class": [
+            "data-luogo"
+          ],
+          "text": "Vicenza, 13/11/2026 (II mandato)",
+          "datetime": null
+        },
+        {
+          "tag": "span",
+          "class": [
+            "data-luogo"
+          ],
+          "text": "Vicenza, 13/11/2026 (II mandato)",
+          "datetime": null
+        },
+        {
+          "tag": "span",
+          "class": [
+            "data-luogo"
+          ],
+          "text": "Vicenza, 13/11/2026 (II mandato)",
+          "datetime": null
+        },
+        {
+          "tag": "span",
+          "class": [
+            "data-luogo"
+          ],
+          "text": "Vicenza, 13/11/2026 (II mandato)",
+          "datetime": null
+        },
+        {
+          "tag": "p",
+          "class": [
+            "date-label"
+          ],
+          "text": "Vicenza, 13/11/2026 (II mandato)",
+          "datetime": null
+        }
+      ]
+    },
+    {
       "url": "https://www.quirinale.it/it/notizie/mattarella-promulga-legge-recante-disposizioni-materia-protezione-civile-invia-lettera-presidenti-camere-presidente-consiglio-ministri",
-      "title": "Mattarella promulga la legge recante Disposizioni in materia di protezione civile e invia una lettera ai Presidenti delle Camere e al Presidente del Consiglio dei Ministri Il Presidente della Repubblica, Sergio Mattarella, ha promulgato il 12 novembre 2026 la legge recante “Disposizioni in materia d",
+      "title": "(foto d'archivio)",
       "h1": "Mattarella promulga la legge recante Disposizioni in materia di protezione civile e invia una lettera ai Presidenti delle Camere e al Presidente del C",
       "dates": [
         {
@@ -115,21 +186,6 @@
       ]
     },
     {
-      "url": "https://www.quirinale.it/it/notizie/presidente-mattarella-presentazione-rapporto-svimez-2026",
-      "title": "Il Presidente della Repubblica Sergio Mattarella con Lorenzo Fontana, Presidente della Camera dei deputati,Gian Paolo Manzella, Vicepresidente dell’Associazione per lo sviluppo dell’industria nel Mezzogiorno – Svimez, Luca Bianchi, Direttore generale dell’Associazione per lo sviluppo dell’industria ",
-      "h1": "Il Presidente Mattarella alla presentazione del Rapporto Svimez 2026",
-      "dates": [
-        {
-          "tag": "p",
-          "class": [
-            "date-label"
-          ],
-          "text": "Roma, 10/11/2026 (II mandato)",
-          "datetime": null
-        }
-      ]
-    },
-    {
       "url": "https://www.quirinale.it/it/notizie/nostra-repubblica-compie-ottant-anni-1",
       "title": "I Volti della Repubblica",
       "h1": "La nostra Repubblica compie Ottant’anni",
@@ -148,5 +204,5 @@
   "candidateCount": 12,
   "datedCount": 0,
   "listingUrl": "https://www.quirinale.it/",
-  "durationSeconds": 4.95
+  "durationSeconds": 4.23
 }

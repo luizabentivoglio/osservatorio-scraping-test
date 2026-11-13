@@ -4,12 +4,33 @@
   "sourceId": "istat",
   "originUrl": "https://www.istat.it/",
   "configuredFeedUrl": "https://www.istat.it/feed/",
-  "collectedAt": "2026-11-13T10:02:52.540149Z",
+  "collectedAt": "2026-11-13T18:07:16.339944Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.istat.it/feed/",
   "items": [
+    {
+      "title": "CIG B72ACC2827 – Sostituzione Sistemi Raffrescamento Sale CED e NET",
+      "url": "https://www.istat.it/bando-di-gara/cig-b72acc2827-sostituzione-sistemi-raffrescamento-sale-ced-e-net/",
+      "excerpt": "Online la delibera di affidamento",
+      "publishedAt": "2026-11-13T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "CIG BA4319AB53 – Convenzione Consip “Gas Naturale 17 – lotto 10 (Basilicata)”",
+      "url": "https://www.istat.it/bando-di-gara/cig-ba4319ab53-convenzione-consip-gas-naturale-17-lotto-10-basilicata/",
+      "excerpt": "Online la delibera di adesione",
+      "publishedAt": "2026-11-13T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "CIG B897DDB216 – Convenzione Consip “Energia Elettrica 22 – lotto 7 (Sardegna, Liguria)",
+      "url": "https://www.istat.it/bando-di-gara/cig-b897ddb216-convenzione-consip-energia-elettrica-22-lotto-7-sardegna-liguria/",
+      "excerpt": "Online la delibera di adesione",
+      "publishedAt": "2026-11-13T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "Commercio con l’estero e prezzi all’import – Settembre 2026",
       "url": "https://www.istat.it/comunicato-stampa/commercio-con-lestero-e-prezzi-allimport-settembre-2026/",
@@ -58,27 +79,6 @@
       "excerpt": "Disponibili i metadati secondo trimestre 2026 e i dati trasversali 'Moduli ad Hoc' anno 2024",
       "publishedAt": "2026-11-12T00:00:00Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Forze di lavoro – dati trasversali trimestrali",
-      "url": "https://www.istat.it/microdati/rilevazione-sulle-forze-di-lavoro-dati-trasversali-trimestrali/",
-      "excerpt": "Online il file con i dati del II trimestre 2026",
-      "publishedAt": "2026-11-12T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "CIG A032D8FF79 – Accordo quadro avente ad oggetto l’affidamento di servizi di system management per le pubbliche amministrazioni",
-      "url": "https://www.istat.it/bando-di-gara/cig-a032d8ff79-contratto-esecutivo-relativo-allaccordo-quadro-avente-ad-oggetto-laffidamento-di-servizi-di-system-management-per-le-pubbliche-amministrazioni-ai-sensi-dell/",
-      "excerpt": "Pubblicata la delibera di proroga",
-      "publishedAt": "2026-11-11T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Produzione libraria – Anni 2023-2025",
-      "url": "https://www.istat.it/tavole-di-dati/produzione-libraria-anni-2023-2025/",
-      "excerpt": "Online le tavole di dati sui libri pubblicati in Italia riferiti agli anni 2023-2025 che costituiscono la prima uscita delle nuove statistiche multi-fonte sull’editoria libraria",
-      "publishedAt": "2026-11-11T00:00:00Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -92,5 +92,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 3.87
+  "durationSeconds": 2.31
 }

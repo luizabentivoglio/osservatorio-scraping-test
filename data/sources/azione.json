@@ -4,7 +4,7 @@
   "sourceId": "azione",
   "originUrl": "https://www.azione.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-13T10:02:16.680532Z",
+  "collectedAt": "2026-11-13T18:06:40.887294Z",
   "status": "blocked",
   "diagnosticCode": "access_restricted",
   "method": "html",
@@ -13,11 +13,15 @@
   "attempts": [
     {
       "url": "https://www.azione.it/robots.txt",
+      "status": 200
+    },
+    {
+      "url": "https://www.azione.it/",
       "status": 403
     }
   ],
   "message": "HTTP 403: accesso limitato dalla fonte",
   "httpStatus": 403,
-  "failedUrl": "https://www.azione.it/robots.txt",
-  "durationSeconds": 0.41
+  "failedUrl": "https://www.azione.it/",
+  "durationSeconds": 4.01
 }

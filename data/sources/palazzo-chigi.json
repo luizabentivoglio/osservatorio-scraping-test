@@ -4,16 +4,23 @@
   "sourceId": "palazzo-chigi",
   "originUrl": "https://www.governo.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-13T10:03:08.941787Z",
+  "collectedAt": "2026-11-13T18:07:30.996869Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.governo.it/feed/rss",
   "items": [
     {
+      "title": "Legge di Bilancio 2027, a Palazzo Chigi il tavolo di confronto tra Governo e parti sociali",
+      "url": "https://www.governo.it/it/articolo/legge-di-bilancio-2027-palazzo-chigi-il-tavolo-di-confronto-tra-governo-e-parti-sociali",
+      "excerpt": "Si è tenuto oggi a Palazzo Chigi il tavolo di confronto tra il Governo e le parti sociali sulla Legge di Bilancio 2027, presieduto dal Sottosegretario alla Presidenza del Consiglio, Alfredo Mantovano. Nella mattinata si sono svolti gli incontri con le associazioni imprenditoriali, delle categorie produttive e le altre ",
+      "publishedAt": "2026-11-13T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
       "title": "Consiglio europeo informale di Dublino",
       "url": "https://www.governo.it/it/articolo/consiglio-europeo-informale-di-dublino/33111",
-      "excerpt": "Il Presidente del Consiglio, Giorgia Meloni, partecipa a Dublino al Consiglio europeo informale.",
+      "excerpt": "Il Presidente del Consiglio, Giorgia Meloni, ha partecipato oggi a Dublino alla riunione informale dei Capi di Stato e di Governo del Consiglio europeo.",
       "publishedAt": "2026-11-13T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -72,13 +79,6 @@
       "excerpt": "Il Presidente del Consiglio, Giorgia Meloni, ha partecipato al nono Vertice della Comunità Politica Europea (CPE), ospitato dall’Irlanda a Dublino.",
       "publishedAt": "2026-11-12T00:00:00Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Progressioni verticali 2025, nomina membri supplenti",
-      "url": "https://www.governo.it/it/articolo/progressioni-verticali-2025-nomina-membri-supplenti/33083",
-      "excerpt": "Procedura di selezione indetta con decreto del Segretario Generale del 10 dicembre 2025 per il passaggio dalla Categoria “B” al parametro retributivo iniziale della Categoria “A” per 27 unità riservato al personale appartenente al ruolo non dirigenziale della Presidenza del Consiglio dei Ministri. NOMINA MEMBRI SUPPLEN",
-      "publishedAt": "2026-11-11T00:00:00Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -100,5 +100,5 @@
     }
   ],
   "message": "Feed dichiarato dalla fonte; date di pubblicazione verificate.",
-  "durationSeconds": 30.23
+  "durationSeconds": 30.12
 }

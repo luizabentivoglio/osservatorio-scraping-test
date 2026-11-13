@@ -4,12 +4,54 @@
   "sourceId": "il-notiziario",
   "originUrl": "https://www.ilnotiziario.net/",
   "configuredFeedUrl": "https://www.ilnotiziario.net/feed/",
-  "collectedAt": "2026-11-13T10:02:53.609935Z",
+  "collectedAt": "2026-11-13T18:07:17.356196Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.ilnotiziario.net/feed/",
   "items": [
+    {
+      "title": "Milano-Meda gratis con Pedemontana? Ecco la possibile soluzione",
+      "url": "https://www.ilnotiziario.net/milano-meda-gratis-con-pedemontana-ecco-la-possibile-soluzione/",
+      "excerpt": "Mantenere il tratto di Milano-Meda gratis anche dopo il passaggio a Pedemontana? Una possibile soluzione c’è ed è legata...",
+      "publishedAt": "2026-11-13T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Treno fermo a Paderno, ritardi fino a 78 minuti",
+      "url": "https://www.ilnotiziario.net/treno-fermo-a-paderno-ritardi-fino-a-78-minuti/",
+      "excerpt": "Treno fermo a Paderno Dugnano (Palazzolo), ritardi su tutta la linea e disagi per i pendolari. Un guasto al sistema di chiusura...",
+      "publishedAt": "2026-11-13T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Tranvia Milano-Seregno, da Associazione Utenti del Trasporto Pubblico appello per la ripresa dei lavori",
+      "url": "https://www.ilnotiziario.net/tranvia-milano-seregno-da-associazione-utenti-del-trasporto-pubblico-appello-per-la-ripresa-dei-lavori/",
+      "excerpt": "Per la Tranvia Milano-Seregno, dall’Associazione Utenti trasporto pubblico arriva l’appello per la ripresa dei...",
+      "publishedAt": "2026-11-13T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Perché tutelare la corrispondenza online è diventata un’emergenza anche per i privati cittadini",
+      "url": "https://www.ilnotiziario.net/perche-tutelare-la-corrispondenza-online-e-diventata-unemergenza-anche-per-i-privati-cittadini/",
+      "excerpt": "Chiudiamo la porta di casa a doppia mandata. Inseriamo l’allarme, controlliamo lo spioncino. E poi, con una disinvoltura a...",
+      "publishedAt": "2026-11-13T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Incidente sulla Milano-Meda, auto si ribalta, paura tra gli automobilisti",
+      "url": "https://www.ilnotiziario.net/incidente-sulla-milano-meda-auto-si-ribalta-paura-tra-gli-automobilisti/",
+      "excerpt": "Incidente sulla Milano-Meda, auto si ribalta, paura tra gli automobilisti Momenti di paura nella mattinata odierna lungo la...",
+      "publishedAt": "2026-11-13T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Onoriamo chi è caduto, Rho ricorda la strage di Nassiriya",
+      "url": "https://www.ilnotiziario.net/244053-2/",
+      "excerpt": "La città di Rho ha reso omaggio nel pomeriggio di ieri, giovedì, alle vittime della strage di Nassiriya del 12 novembre 2003 e a...",
+      "publishedAt": "2026-11-13T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "Saronno, scontro tra due auto davanti all’ospedale, tre persone coinvolte",
       "url": "https://www.ilnotiziario.net/saronno-scontro-tra-due-auto-davanti-allospedale-tre-persone-coinvolte/",
@@ -72,48 +114,6 @@
       "excerpt": "A Cesate un incidente stradale sul confine con Solaro dove un Suv è uscito di strada e ha abbattuto un palo della luce. Paura nel...",
       "publishedAt": "2026-11-12T00:00:00Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Guasto ferroviario a Garbagnate Milanese, treni in ritardo sulla linea",
-      "url": "https://www.ilnotiziario.net/guasto-ferroviario-a-garbagnate-milanese-treni-in-ritardo-sulla-linea/",
-      "excerpt": "Guasto ferroviario a Garbagnate Milanese, treni in ritardo sulla linea Un guasto alla linea ferroviaria ha rallentato la...",
-      "publishedAt": "2026-11-12T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Rho, incidente con auto rovesciata, due donne ferite",
-      "url": "https://www.ilnotiziario.net/rho-incidente-con-auto-rovesciata-due-donne-ferite/",
-      "excerpt": "Incidente stradale a Rho con auto rovesciata nella tarda mattinata di oggi, giovedì 12 novembre. Intorno alle 12.41 due auto si...",
-      "publishedAt": "2026-11-12T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Nuova mail con minacce alle scuole, segnalazioni da Varese alla Brianza",
-      "url": "https://www.ilnotiziario.net/nuova-mail-con-minacce-alle-scuole-segnalazioni-da-varese-alla-brianza/",
-      "excerpt": "Nuova mail con minacce alle scuole, segnalazioni da Varese alla Brianza Una nuova serie di email con minacce di attentati ha...",
-      "publishedAt": "2026-11-12T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Paura sulla SS36 tra Lissone e Muggiò: bobine di metallo travolgono un’auto",
-      "url": "https://www.ilnotiziario.net/paura-sulla-ss36-tra-lissone-e-muggio-bobine-di-metallo-travolgono-unauto/",
-      "excerpt": "Paura sulla SS36 tra Lissone e Muggiò: bobine di metallo travolgono un’auto Un incidente stradale ha coinvolto...",
-      "publishedAt": "2026-11-12T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Spaccio nei boschi, blitz dei Carabinieri, smantellati 17 bivacchi tra Milano, Monza e Varesotto",
-      "url": "https://www.ilnotiziario.net/spaccio-nei-boschi-blitz-dei-carabinieri-smantellati-17-bivacchi-tra-milano-monza-e-varesotto/",
-      "excerpt": "Spaccio nei boschi, blitz dei Carabinieri, smantellati 17 bivacchi tra Milano, Monza e Varesotto Una vasta operazione dei...",
-      "publishedAt": "2026-11-12T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Milano, ronde contro gli extracomunitari, due indagati e armi sequestrate",
-      "url": "https://www.ilnotiziario.net/milano-ronde-contro-gli-extracomunitari-due-indagati-e-armi-sequestrate/",
-      "excerpt": "Milano, ronde contro gli extracomunitari, due indagati e armi sequestrate La Polizia di Stato ha eseguito due perquisizioni a...",
-      "publishedAt": "2026-11-12T00:00:00Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -127,5 +127,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 2.66
+  "durationSeconds": 1.76
 }

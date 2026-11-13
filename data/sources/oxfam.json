@@ -4,12 +4,19 @@
   "sourceId": "oxfam",
   "originUrl": "https://www.oxfamitalia.org/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-13T10:03:04.179081Z",
+  "collectedAt": "2026-11-13T18:07:27.941444Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "Pace nel mondo: sogno utopico o responsabilità collettiva?",
+      "url": "https://www.oxfamitalia.org/pace-nel-mondo/",
+      "excerpt": "Cosa significa pace oggi, perché l’ONU fatica a garantirla e cosa possono fare governi e cittadini. Il punto di vista di Oxfam.",
+      "publishedAt": "2026-11-10T17:09:38Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
     {
       "title": "Webinar: contrastare le disuguaglianze a partire dalla scuola",
       "url": "https://www.oxfamitalia.org/webinar-contrastare-le-disuguaglianze-a-partire-dalla-scuola/",
@@ -42,6 +49,10 @@
       "status": 200
     },
     {
+      "url": "https://www.oxfamitalia.org/pace-nel-mondo/",
+      "status": 200
+    },
+    {
       "url": "https://www.oxfamitalia.org/webinar-contrastare-le-disuguaglianze-a-partire-dalla-scuola/",
       "status": 200
     },
@@ -60,16 +71,12 @@
     {
       "url": "https://www.oxfamitalia.org/i-super-ricchi-sono-ancora-piu-ricchi-grazie-alla-crisi-climatica/",
       "status": 200
-    },
-    {
-      "url": "https://www.oxfamitalia.org/il-24-ottobre-scendiamo-in-piazza-contro-i-centri-di-permanenza-per-il-rimpatrio/",
-      "status": 200
     }
   ],
-  "message": "3 notizie recenti con data verificata; copertura parziale.",
+  "message": "4 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [],
   "candidateCount": 8,
   "datedCount": 6,
   "listingUrl": "https://www.oxfamitalia.org/news/",
-  "durationSeconds": 4.76
+  "durationSeconds": 4.33
 }

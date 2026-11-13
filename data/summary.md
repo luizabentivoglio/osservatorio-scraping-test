@@ -18,7 +18,7 @@
 | consiglio-ue | blocked | html | 0 | access_restricted |
 | copernicus | no_feed | crawl4ai | 0 | parsing_error |
 | coraggio-italia | no_feed | crawl4ai | 0 | parsing_error |
-| corte-conti | blocked | html | 0 | access_restricted |
+| corte-conti | no_feed | crawl4ai | 0 | parsing_error |
 | dc-rotondi | ok | rss | 0 | — |
 | demos-media | ok | trafilatura | 0 | — |
 | demos-partito | ok | rss | 0 | — |
@@ -43,13 +43,13 @@
 | istituto-bruno-leoni | ok | trafilatura | 5 | — |
 | italia-domani-rizzo | ok | trafilatura | 3 | — |
 | italia-viva | blocked | html | 0 | access_restricted |
-| la-stampa | ok | rss | 40 | — |
-| legambiente | error | html | 0 | timeout |
+| la-stampa | ok | rss | 37 | — |
+| legambiente | ok | trafilatura | 0 | — |
 | libera | ok | html | 1 | — |
-| mef | ok | trafilatura | 4 | — |
+| mef | ok | trafilatura | 3 | — |
 | msf | ok | trafilatura | 6 | — |
 | osservatorio-cpi | ok | trafilatura | 5 | — |
-| oxfam | ok | trafilatura | 3 | — |
+| oxfam | ok | trafilatura | 4 | — |
 | pagella-politica | ok | trafilatura | 6 | — |
 | palazzo-chigi | ok | rss | 10 | — |
 | parlamento-europeo | blocked | html | 0 | access_restricted |

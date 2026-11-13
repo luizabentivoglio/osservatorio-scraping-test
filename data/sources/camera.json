@@ -4,52 +4,52 @@
   "sourceId": "camera",
   "originUrl": "https://www.camera.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-13T10:02:18.306018Z",
+  "collectedAt": "2026-11-13T18:06:44.896734Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
-      "title": "Svolgimento di interpellanze urgenti",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64108",
-      "excerpt": "Nella seduta odierna ha avuto luogo lo svolgimento di interpellanze urgenti sui seguenti argomenti...",
+      "title": "Sabato 21 novembre Montecitorio a porte aperte – Prenotazioni online da lunedì 16",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64129",
+      "excerpt": "Sabato 21 novembre, in occasione dell'iniziativa \"Musei in Musica\", edizione speciale di “Montecit...",
       "publishedAt": "2026-11-13T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "Manifestazione di interesse per la nomina dell'organismo per la parità",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64083",
-      "excerpt": "Ai sensi dell'articolo 3 del decreto legislativo 7 maggio 2026, n. 91, il Presidente e i quattro com...",
-      "publishedAt": "2026-11-12T00:00:00Z",
+      "title": "Produzione di energia, sviluppo industriale, sicurezza nazionale - Lunedì alle 9.30 diretta webtv - Messaggio di Fontana",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64110",
+      "excerpt": "Lunedì 16 novembre, alle ore 9.30, presso la Sala della Regina di Montecitorio si svolge la presen...",
+      "publishedAt": "2026-11-13T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "Femminicidi, il 25 novembre alla Camera la proiezione di \"Se domani non torno\", con Gino Cecchettin. Introduce Ascani: \"In Parlamento per costruire il cambiamento che serve\". Diretta webtv, con lis",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64082",
-      "excerpt": "Il film \"Se domani non torno\", diretto da Paola Randi e prodotto da Notorious Pictures, che racconta...",
-      "publishedAt": "2026-11-12T00:00:00Z",
+      "title": "Città della conoscenza - Tecnopolo delle biotecnologie e dell'alimentazione - Lunedì alle 10.30 diretta webtv",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64111",
+      "excerpt": "Lunedì 16 novembre, alle ore 10.30, presso l'Aula dei Gruppi della Camera si svolge il convegno \"C...",
+      "publishedAt": "2026-11-13T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "Giornata mondiale del diabete - Sabato Montecitorio si illumina di blu",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64078",
-      "excerpt": "La Camera dei deputati aderisce alla Giornata Mondiale del Diabete. Pertanto, la facciata di Monteci...",
-      "publishedAt": "2026-11-12T00:00:00Z",
+      "title": "Divieto importazioni da insediamenti israeliani, circoscrizioni giudiziarie",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64125",
+      "excerpt": "La Camera è convocata lunedì 16 novembre, alle ore 14, per la discussione generale dei seguenti pr...",
+      "publishedAt": "2026-11-13T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "Piazza Montecitorio, venerdì alle 10 al via il progetto “Borghi in carrozza” per un turismo accessibile. Partecipa Traversi",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64073",
-      "excerpt": "Piazza Montecitorio ospiterà domani, venerdì 13 novembre, alle 10, la partenza di “Borghi in car...",
-      "publishedAt": "2026-11-12T00:00:00Z",
+      "title": "Albo d'oro dei cuochi - Lunedì alle 16 diretta webtv - Saluto di Trancassini",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64112",
+      "excerpt": "Lunedì 16 novembre, alle ore 16, presso l'Aula dei Gruppi parlamentari della Camera si svolge la ...",
+      "publishedAt": "2026-11-13T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "Giornata mondiale del diabete - Venerdì alle 15 diretta webtv - Saluto di Mulè",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64074",
-      "excerpt": "Venerdì 13 novembre, alle ore 15, presso la Sala della Regina di Montecitorio si svolge il convegno...",
-      "publishedAt": "2026-11-12T00:00:00Z",
+      "title": "39° anniversario della rivolta degli operai di Brasov - Lunedì alle 17 diretta webtv",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64126",
+      "excerpt": "Lunedì 16 novembre, alle ore 17, presso la Sala del Mappamondo di Montecitorio si svolge il convegn...",
+      "publishedAt": "2026-11-13T00:00:00Z",
       "dateEvidence": "html:publication-label"
     }
   ],
@@ -63,27 +63,27 @@
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64108",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64129",
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64083",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64110",
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64082",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64111",
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64078",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64125",
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64073",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64112",
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64074",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64126",
       "status": 200
     }
   ],
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://comunicazione.camera.it/archivio-prima-pagina",
-  "durationSeconds": 4.89
+  "durationSeconds": 7.12
 }

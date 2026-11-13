@@ -4,38 +4,38 @@
   "sourceId": "il-post",
   "originUrl": "https://www.ilpost.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-13T10:02:53.735900Z",
+  "collectedAt": "2026-11-13T18:07:17.356976Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
-      "title": "Chi rappresenta l’Unione Europea nei colloqui sull’Ucraina?",
+      "title": "Alla stazione di Roma Termini ci sono problemi alla circolazione dei treni: alcuni hanno più di 90 minuti di ritardo",
+      "url": "https://www.ilpost.it/2026/11/13/treni-problemi-roma-termini/?bitPosition=1",
+      "excerpt": "Alla stazione di Roma Termini ci sono problemi alla circolazione dei treni: alcuni hanno più di 90 minuti di ritardo Venerdì pomeriggio alla stazione ferroviaria di Roma Termini ci sono stati problemi alla circolazione dei treni, che stanno causando ritardi superiori ai 90 minuti. Trenitalia non ha spiegato la causa de",
+      "publishedAt": "2026-11-13T16:31:30Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "Nel 2027 il comune di Milano dovrà dimezzare la tassa di soggiorno e prevede di incassare 50 milioni in meno",
+      "url": "https://www.ilpost.it/2026/11/13/milano-tassa-soggiorno/?bitPosition=2",
+      "excerpt": "Nel 2027 il comune di Milano dovrà dimezzare la tassa di soggiorno e prevede di incassare 50 milioni in meno Il comune di Milano ha stabilito che nel 2027 le tariffe per la tassa di soggiorno (la piccola imposta che deve pagare chi soggiorna in una struttura ricettiva di una città) saranno molto più basse rispetto agli",
+      "publishedAt": "2026-11-13T15:47:24Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "La Corte d’appello dell’Aquila ha confermato che i figli della “famiglia nel bosco” non possono tornare subito a casa",
+      "url": "https://www.ilpost.it/2026/11/13/famiglia-nel-bosco-respinto-ricorso-genitori/?bitPosition=3",
+      "excerpt": "La Corte d’appello dell’Aquila ha confermato che i figli della “famiglia nel bosco” non possono tornare subito a casa La Corte d’appello dell’Aquila ha respinto il ricorso presentato dai genitori della cosiddetta “famiglia nel bosco” contro la sentenza che a settembre aveva stabilito che i tre figli non sarebbero potut",
+      "publishedAt": "2026-11-13T12:46:07Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "L’Unione Europea non avrà un unico rappresentante nei negoziati per l’Ucraina",
       "url": "https://www.ilpost.it/2026/11/13/scelta-rappresentate-europeo-negoziati-ucraina-dublino/?homepagePosition=0",
-      "excerpt": "I leader europei ne stanno discutendo senza trovare per ora un accordo: le opzioni sul tavolo sono tre",
+      "excerpt": "Ma cinque paesi: Italia, Francia, Germania, Polonia e Regno Unito, più Commissione e Consiglio Europeo",
       "publishedAt": "2026-11-13T08:58:48Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "In Argentina sono stati arrestati due presunti complici della fuga dell’ex brigatista Leonardo Bertulazzi",
-      "url": "https://www.ilpost.it/2026/11/13/bertulazzi-ex-brigatista-arrestati-complici-fuga/?bitPosition=1",
-      "excerpt": "In Argentina sono stati arrestati due presunti complici della fuga dell’ex brigatista Leonardo Bertulazzi In Argentina sono state arrestate due persone sospettate di aver aiutato l’ex brigatista Leonardo Bertulazzi a fuggire dagli arresti domiciliari: martedì era scappato dalla sua casa di Buenos Aires, mentre era in a",
-      "publishedAt": "2026-11-13T08:28:40Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "La spada laser usata da Darth Vader nella prima trilogia di Star Wars è stata venduta all’asta per quasi 5 milioni di dollari",
-      "url": "https://www.ilpost.it/2026/11/13/spada-laser-star-wars-darth-vader-asta/?bitPosition=2",
-      "excerpt": "La spada laser usata da Darth Vader nella prima trilogia di Star Wars è stata venduta all’asta per quasi 5 milioni di dollari L’elsa della spada laser usata dal personaggio di Darth Vader (noto anche come Dart Fener nella traduzione italiana) in due film della prima trilogia di Star Wars usciti all’inizio degli anni Ot",
-      "publishedAt": "2026-11-13T06:50:52Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Lionel Scaloni ha rinnovato il contratto da allenatore della nazionale di calcio maschile dell’Argentina fino al 2030",
-      "url": "https://www.ilpost.it/2026/11/13/lionel-scaloni-allenatore-argentina/?bitPosition=3",
-      "excerpt": "Lionel Scaloni ha rinnovato il contratto da allenatore della nazionale di calcio maschile dell’Argentina fino al 2030 Lionel Scaloni ha annunciato che continuerà ad allenare la nazionale di calcio maschile dell’Argentina. Diventerà così il primo allenatore della nazionale a guidarla in tre edizioni diverse dei Mondiali",
-      "publishedAt": "2026-11-13T06:44:21Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
@@ -75,15 +75,15 @@
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/13/bertulazzi-ex-brigatista-arrestati-complici-fuga/?bitPosition=1",
+      "url": "https://www.ilpost.it/2026/11/13/treni-problemi-roma-termini/?bitPosition=1",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/13/spada-laser-star-wars-darth-vader-asta/?bitPosition=2",
+      "url": "https://www.ilpost.it/2026/11/13/milano-tassa-soggiorno/?bitPosition=2",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/13/lionel-scaloni-allenatore-argentina/?bitPosition=3",
+      "url": "https://www.ilpost.it/2026/11/13/famiglia-nel-bosco-respinto-ricorso-genitori/?bitPosition=3",
       "status": 200
     }
   ],
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.ilpost.it/",
-  "durationSeconds": 3.81
+  "durationSeconds": 3.65
 }

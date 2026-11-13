@@ -4,12 +4,26 @@
   "sourceId": "msf",
   "originUrl": "https://www.medicisenzafrontiere.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-13T10:03:01.929267Z",
+  "collectedAt": "2026-11-13T18:07:23.551270Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "6 mesi di Ebola in RDC, MSF: il secondo focolaio più grande mai registrato è ancora fuori controllo",
+      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/6-mesi-ebola-rdc-msf-secondo-focolaio-piu-grande-mai-registrato-ancora-fuori-controllo/",
+      "excerpt": "A 6 mesi dalla dichiarazione dell’epidemia di Ebola nella Repubblica Democratica del Congo, Medici Senza Frontiere avverte che il secondo focolaio più grande mai registrato è ancora fuori controllo. Finanziamenti senza impatto Nonostante centinaia di milioni di dollari statunitensi siano stati erogati dalla comunità in",
+      "publishedAt": "2026-11-13T16:21:23Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "Gaza, MSF condanna l’attacco israeliano all’ospedale Nasser",
+      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/gaza-msf-condanna-attacco-israeliano-ospedale-nasser/",
+      "excerpt": "Medici Senza Frontiere è profondamente sconvolta e indignata per l’attacco aereo israeliano di ieri sera contro l’ospedale Nasser di Khan Younis, a Gaza. L’attacco ha colpito l’edificio di chirurgia dell’ospedale Nasser, uccidendo 6 persone, tra cui un bambino e un chirurgo, e ferendone altre 52. Non è stato dato alcun",
+      "publishedAt": "2026-11-12T19:16:04Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
     {
       "title": "Piogge a Gaza, MSF: “Serve una vera soluzione e l’ingresso di forniture”",
       "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/piogge-gaza-msf-serve-vera-soluzione-ingresso-forniture/",
@@ -37,20 +51,6 @@
       "excerpt": "La crisi climatica è una crisi sanitaria che minaccia la salute di milioni di persone in tutto il mondo. Per questo Medici Senza Frontiere chiede che la COP31 metta la salute al centro dell’azione climatica, trasformando negoziati e dichiarazioni in interventi concreti per le comunità più colpite. La crisi climatica è ",
       "publishedAt": "2026-11-06T14:18:45Z",
       "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "RDC/Nord Kivu, MSF: cure per sopravvissute a violenza sessuale ostacolate dalle nuove restrizioni delle autorità",
-      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/rdc-nord-kivu-msf-cure-sopravvissute-violenza-sessuale-ostacolate-nuove-restrizioni-autorita/",
-      "excerpt": "Le autorità de facto della provincia del Nord Kivu, nella parte orientale della Repubblica Democratica del Congo – il Front pour la Refondation de la Nation, precedentemente noto come AFC/M23 – stanno imponendo da mesi forti restrizioni che impediscono alle persone sopravvissute a violenze sessuali di accedere alle cur",
-      "publishedAt": "2026-11-05T15:26:45Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Donazioni sicure: come riconoscere un’associazione no profit affidabile e proteggersi dalle truffe",
-      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/donazioni-sicure/",
-      "excerpt": "Vuoi donare in sicurezza? Scopri come verificare i bilanci no profit, scegliere i canali di pagamento giusti ed evitare le truffe",
-      "publishedAt": "2026-11-05T09:29:09Z",
-      "dateEvidence": "jsonld:datePublished"
     }
   ],
   "attempts": [
@@ -60,6 +60,14 @@
     },
     {
       "url": "https://www.medicisenzafrontiere.it/",
+      "status": 200
+    },
+    {
+      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/6-mesi-ebola-rdc-msf-secondo-focolaio-piu-grande-mai-registrato-ancora-fuori-controllo/",
+      "status": 200
+    },
+    {
+      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/gaza-msf-condanna-attacco-israeliano-ospedale-nasser/",
       "status": 200
     },
     {
@@ -77,14 +85,6 @@
     {
       "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/cop31-msf-crisi-climatica-crisi-sanitaria-leader-agiscano-per-proteggere-salute/",
       "status": 200
-    },
-    {
-      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/rdc-nord-kivu-msf-cure-sopravvissute-violenza-sessuale-ostacolate-nuove-restrizioni-autorita/",
-      "status": 200
-    },
-    {
-      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/donazioni-sicure/",
-      "status": 200
     }
   ],
   "message": "6 notizie recenti con data verificata; copertura parziale.",
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.medicisenzafrontiere.it/",
-  "durationSeconds": 4.16
+  "durationSeconds": 4.28
 }

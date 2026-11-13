@@ -4,12 +4,26 @@
   "sourceId": "pagella-politica",
   "originUrl": "https://pagellapolitica.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-13T10:03:08.280779Z",
+  "collectedAt": "2026-11-13T18:07:29.242632Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "Che cosa torna e cosa no nell’intervista di Renzi a Otto e Mezzo",
+      "url": "https://pagellapolitica.it/articoli/cosa-non-torna-intervista-renzi-otto-e-mezzo",
+      "excerpt": "Dalla povertà all’inflazione, passando per la patrimoniale e i servizi segreti, il leader di Italia Viva in alcuni...",
+      "publishedAt": "2026-11-12T00:00:00Z",
+      "dateEvidence": "html:post-date"
+    },
+    {
+      "title": "Il fact-checking di Vannacci a Filorosso",
+      "url": "https://pagellapolitica.it/articoli/fact-checking-vannacci-filorosso-rai-tre",
+      "excerpt": "Dai soldi per la difesa al costo delle bollette, abbiamo verificato nove dichiarazioni del leader di Futuro...",
+      "publishedAt": "2026-11-11T00:00:00Z",
+      "dateEvidence": "html:post-date"
+    },
     {
       "title": "Che cosa sta facendo l’Italia per difendersi dagli attacchi informatici",
       "url": "https://pagellapolitica.it/articoli/italia-difesa-attacchi-informatici",
@@ -37,20 +51,6 @@
       "excerpt": "La revisione dell’accordo ridurrebbe gli obblighi sulle emissioni per avvantaggiare il settore automobilistico, ma...",
       "publishedAt": "2026-11-10T00:00:00Z",
       "dateEvidence": "html:post-date"
-    },
-    {
-      "title": "Il governo non ha ancora chiarito come spenderà i nuovi soldi per energia e difesa",
-      "url": "https://pagellapolitica.it/articoli/governo-soldi-energia-difesa",
-      "excerpt": "Nella manovra per il 2027 sono rintracciabili solo una parte delle risorse frutto della flessibilità europea",
-      "publishedAt": "2026-11-10T00:00:00Z",
-      "dateEvidence": "html:post-date"
-    },
-    {
-      "title": "Le nomine all’autorità anticorruzione sono da sempre un affare politico",
-      "url": "https://pagellapolitica.it/articoli/governo-meloni-nomine-anac-affare-politico",
-      "excerpt": "Negli anni dietro la scelta del presidente dell’organismo, oggi al centro di polemiche tra governo e opposizioni...",
-      "publishedAt": "2026-11-09T00:00:00Z",
-      "dateEvidence": "html:post-date"
     }
   ],
   "attempts": [
@@ -60,6 +60,14 @@
     },
     {
       "url": "https://pagellapolitica.it/articoli",
+      "status": 200
+    },
+    {
+      "url": "https://pagellapolitica.it/articoli/cosa-non-torna-intervista-renzi-otto-e-mezzo",
+      "status": 200
+    },
+    {
+      "url": "https://pagellapolitica.it/articoli/fact-checking-vannacci-filorosso-rai-tre",
       "status": 200
     },
     {
@@ -77,14 +85,6 @@
     {
       "url": "https://pagellapolitica.it/articoli/cosa-resta-del-green-deal",
       "status": 200
-    },
-    {
-      "url": "https://pagellapolitica.it/articoli/governo-soldi-energia-difesa",
-      "status": 200
-    },
-    {
-      "url": "https://pagellapolitica.it/articoli/governo-meloni-nomine-anac-affare-politico",
-      "status": 200
     }
   ],
   "message": "6 notizie recenti con data verificata; copertura parziale.",
@@ -92,5 +92,5 @@
   "candidateCount": 6,
   "datedCount": 6,
   "listingUrl": "https://pagellapolitica.it/articoli",
-  "durationSeconds": 8.49
+  "durationSeconds": 8.93
 }
