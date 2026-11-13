@@ -4,17 +4,17 @@
   "sourceId": "breaking-italy",
   "originUrl": "https://breakingitaly.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-12T23:54:18.672199Z",
+  "collectedAt": "2026-11-13T10:02:17.181852Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
-      "title": "Il Mississippi ha eletto al Senato Scott Colom, il suo primo senatore afroamericano da più di cent’anni",
-      "url": "https://breakingitaly.it/newsletter/il-mississippi-ha-eletto-al-senato-scott-colom-primo-senatore-afroamericano-da-piu-di-centanni",
-      "excerpt": "Il Mississippi ha eletto al Senato Scott Colom, il suo primo senatore afroamericano da più di cent’anni",
-      "publishedAt": "2026-11-12T00:00:00Z",
+      "title": "Jensen Huang ha rassegnato le dimissioni da Nvidia",
+      "url": "https://breakingitaly.it/newsletter/jensen-huang-ha-rassegnato-le-dimissioni-da-nvidia",
+      "excerpt": "Jensen Huang ha rassegnato le dimissioni da Nvidia",
+      "publishedAt": "2026-11-13T00:00:00Z",
       "dateEvidence": "html:newsletter-publication"
     }
   ],
@@ -32,7 +32,7 @@
       "status": 200
     },
     {
-      "url": "https://breakingitaly.it/newsletter/il-mississippi-ha-eletto-al-senato-scott-colom-primo-senatore-afroamericano-da-piu-di-centanni",
+      "url": "https://breakingitaly.it/newsletter/jensen-huang-ha-rassegnato-le-dimissioni-da-nvidia",
       "status": 200
     },
     {
@@ -96,5 +96,5 @@
   "candidateCount": 12,
   "datedCount": 1,
   "listingUrl": "https://breakingitaly.it/",
-  "durationSeconds": 5.33
+  "durationSeconds": 6.31
 }

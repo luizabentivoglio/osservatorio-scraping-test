@@ -4,12 +4,19 @@
   "sourceId": "camera",
   "originUrl": "https://www.camera.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-12T23:54:19.666704Z",
+  "collectedAt": "2026-11-13T10:02:18.306018Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "Svolgimento di interpellanze urgenti",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64108",
+      "excerpt": "Nella seduta odierna ha avuto luogo lo svolgimento di interpellanze urgenti sui seguenti argomenti...",
+      "publishedAt": "2026-11-13T00:00:00Z",
+      "dateEvidence": "html:publication-label"
+    },
     {
       "title": "Manifestazione di interesse per la nomina dell'organismo per la parità",
       "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64083",
@@ -21,6 +28,13 @@
       "title": "Femminicidi, il 25 novembre alla Camera la proiezione di \"Se domani non torno\", con Gino Cecchettin. Introduce Ascani: \"In Parlamento per costruire il cambiamento che serve\". Diretta webtv, con lis",
       "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64082",
       "excerpt": "Il film \"Se domani non torno\", diretto da Paola Randi e prodotto da Notorious Pictures, che racconta...",
+      "publishedAt": "2026-11-12T00:00:00Z",
+      "dateEvidence": "html:publication-label"
+    },
+    {
+      "title": "Giornata mondiale del diabete - Sabato Montecitorio si illumina di blu",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64078",
+      "excerpt": "La Camera dei deputati aderisce alla Giornata Mondiale del Diabete. Pertanto, la facciata di Monteci...",
       "publishedAt": "2026-11-12T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
@@ -37,20 +51,6 @@
       "excerpt": "Venerdì 13 novembre, alle ore 15, presso la Sala della Regina di Montecitorio si svolge il convegno...",
       "publishedAt": "2026-11-12T00:00:00Z",
       "dateEvidence": "html:publication-label"
-    },
-    {
-      "title": "Parlamento dei Giovani - Venerdì alle 15.30 diretta webtv",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64075",
-      "excerpt": "Venerdì 13 novembre, alle ore 15.30, presso l'Aula dei Gruppi parlamentari della Camera si svolge l...",
-      "publishedAt": "2026-11-12T00:00:00Z",
-      "dateEvidence": "html:publication-label"
-    },
-    {
-      "title": "Via libera al Decreto Giustizia - Interno - impianti strategici",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64070",
-      "excerpt": "La Camera è convocata venerdì 13 novembre alle ore 9.30 per lo svolgimento di interpellanze urgent...",
-      "publishedAt": "2026-11-12T00:00:00Z",
-      "dateEvidence": "html:publication-label"
     }
   ],
   "attempts": [
@@ -63,11 +63,19 @@
       "status": 200
     },
     {
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64108",
+      "status": 200
+    },
+    {
       "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64083",
       "status": 200
     },
     {
       "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64082",
+      "status": 200
+    },
+    {
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64078",
       "status": 200
     },
     {
@@ -77,14 +85,6 @@
     {
       "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64074",
       "status": 200
-    },
-    {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64075",
-      "status": 200
-    },
-    {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64070",
-      "status": 200
     }
   ],
   "message": "6 notizie recenti con data verificata; copertura parziale.",
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://comunicazione.camera.it/archivio-prima-pagina",
-  "durationSeconds": 4.19
+  "durationSeconds": 4.89
 }

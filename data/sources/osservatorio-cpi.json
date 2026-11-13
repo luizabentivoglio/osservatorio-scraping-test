@@ -4,7 +4,7 @@
   "sourceId": "osservatorio-cpi",
   "originUrl": "https://osservatoriocpi.unicatt.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-12T23:55:06.910721Z",
+  "collectedAt": "2026-11-13T10:03:03.903121Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -44,13 +44,6 @@
       "excerpt": "A quale livello, per un Paese, il rapporto tra debito pubblico e Pil diventa insostenibile, nel senso di richiedere, per evitare una sua esplosione, avanzi primari che il Paese avrebbe difficoltà a mantenere nel lungo periodo? Applicando una metodologia introdotta da alcuni economisti del FMI, si può rispondere a quest",
       "publishedAt": "2026-11-02T00:00:00Z",
       "dateEvidence": "html:article-header"
-    },
-    {
-      "title": "100 euro all’anno per i nuovi nati: in quali altri Stati è stato fatto?",
-      "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/100-euro-all-anno-per-i-nuovi-nati-in-quali-altri-stati-e-stato-fatto.html",
-      "excerpt": "Il disegno di Legge di Bilancio per il 2027 prevede un “Fondo Valore nuovi nati”, nel quale lo Stato verserà 100 euro all’anno fino al compimento dei 18 anni. Misure simili non sono nuove, ma non sono molto diffuse nel mondo. In Italia il fondo sarà aperto a tutti e arriverà a costare 630 milioni all’anno.",
-      "publishedAt": "2026-10-30T00:00:00Z",
-      "dateEvidence": "html:article-header"
     }
   ],
   "attempts": [
@@ -87,10 +80,10 @@
       "status": 200
     }
   ],
-  "message": "6 notizie recenti con data verificata; copertura parziale.",
+  "message": "5 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [],
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://osservatoriocpi.unicatt.it/pubblicazioni.html",
-  "durationSeconds": 6.69
+  "durationSeconds": 7.71
 }

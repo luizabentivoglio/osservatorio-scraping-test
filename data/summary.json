@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-12T23:55:47.784714+00:00",
+  "generatedAt": "2026-11-13T10:03:39.870730+00:00",
   "sourceCount": 67,
-  "ok": 38,
-  "items": 185,
+  "ok": 34,
+  "items": 161,
   "results": [
     {
       "sourceId": "amnesty",
@@ -77,13 +77,13 @@
     },
     {
       "sourceId": "cnr",
-      "status": "ok",
-      "method": "rss",
-      "diagnosticCode": null,
-      "message": "Feed ufficiale letto; date di pubblicazione verificate.",
+      "status": "error",
+      "method": "html",
+      "diagnosticCode": "connection_error",
+      "message": "SSLError",
       "candidateCount": null,
       "datedCount": null,
-      "itemCount": 20
+      "itemCount": 0
     },
     {
       "sourceId": "coldiretti",
@@ -97,13 +97,13 @@
     },
     {
       "sourceId": "commissione-europea",
-      "status": "ok",
-      "method": "trafilatura",
-      "diagnosticCode": null,
-      "message": "1 notizie recenti con data verificata; copertura parziale.",
-      "candidateCount": 4,
-      "datedCount": 1,
-      "itemCount": 1
+      "status": "blocked",
+      "method": "html",
+      "diagnosticCode": "rate_limited",
+      "message": "HTTP 429: accesso limitato dalla fonte",
+      "candidateCount": null,
+      "datedCount": null,
+      "itemCount": 0
     },
     {
       "sourceId": "comune-bollate",
@@ -167,12 +167,12 @@
     },
     {
       "sourceId": "corte-conti",
-      "status": "no_feed",
-      "method": "crawl4ai",
-      "diagnosticCode": "parsing_error",
-      "message": "Pagina accessibile, ma nessuna notizia con data di pubblicazione verificabile.",
-      "candidateCount": 12,
-      "datedCount": 0,
+      "status": "blocked",
+      "method": "html",
+      "diagnosticCode": "access_restricted",
+      "message": "HTTP 403: accesso limitato dalla fonte",
+      "candidateCount": null,
+      "datedCount": null,
       "itemCount": 0
     },
     {
@@ -343,7 +343,7 @@
       "message": "Feed dichiarato dalla fonte; date di pubblicazione verificate.",
       "candidateCount": null,
       "datedCount": null,
-      "itemCount": 8
+      "itemCount": 7
     },
     {
       "sourceId": "ispi",
@@ -367,12 +367,12 @@
     },
     {
       "sourceId": "iss",
-      "status": "ok",
-      "method": "trafilatura",
-      "diagnosticCode": null,
-      "message": "0 notizie recenti con data verificata; copertura parziale.",
-      "candidateCount": 12,
-      "datedCount": 6,
+      "status": "error",
+      "method": "html",
+      "diagnosticCode": "connection_error",
+      "message": "SSLError",
+      "candidateCount": null,
+      "datedCount": null,
       "itemCount": 0
     },
     {
@@ -427,12 +427,12 @@
     },
     {
       "sourceId": "legambiente",
-      "status": "ok",
-      "method": "trafilatura",
-      "diagnosticCode": null,
-      "message": "0 notizie recenti con data verificata; copertura parziale.",
-      "candidateCount": 12,
-      "datedCount": 2,
+      "status": "error",
+      "method": "html",
+      "diagnosticCode": "timeout",
+      "message": "Timeout della fonte",
+      "candidateCount": null,
+      "datedCount": null,
       "itemCount": 0
     },
     {
@@ -470,20 +470,20 @@
       "status": "ok",
       "method": "trafilatura",
       "diagnosticCode": null,
-      "message": "6 notizie recenti con data verificata; copertura parziale.",
+      "message": "5 notizie recenti con data verificata; copertura parziale.",
       "candidateCount": 12,
       "datedCount": 6,
-      "itemCount": 6
+      "itemCount": 5
     },
     {
       "sourceId": "oxfam",
       "status": "ok",
       "method": "trafilatura",
       "diagnosticCode": null,
-      "message": "4 notizie recenti con data verificata; copertura parziale.",
+      "message": "3 notizie recenti con data verificata; copertura parziale.",
       "candidateCount": 8,
       "datedCount": 6,
-      "itemCount": 4
+      "itemCount": 3
     },
     {
       "sourceId": "pagella-politica",

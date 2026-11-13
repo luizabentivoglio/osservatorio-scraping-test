@@ -4,7 +4,7 @@
   "sourceId": "oxfam",
   "originUrl": "https://www.oxfamitalia.org/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-12T23:55:08.703000Z",
+  "collectedAt": "2026-11-13T10:03:04.179081Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -29,13 +29,6 @@
       "url": "https://www.oxfamitalia.org/tassare-di-piu-i-grandi-patrimoni/",
       "excerpt": "Scopri la proposta di Oxfam per un’imposta sui grandi patrimoni e un sistema fiscale più equo. Leggi l'articolo.",
       "publishedAt": "2026-11-02T11:45:35Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Gaza, la storia di Bilal: sopravvivere senza poter tornare a vivere",
-      "url": "https://www.oxfamitalia.org/gaza-la-storia-di-bilal-sopravvivere-senza-poter-tornare-a-vivere/",
-      "excerpt": "A Gaza, scarsità di contanti, banconote danneggiate e difficoltà nei pagamenti rendono ancora più difficile la vita delle famiglie sfollate.",
-      "publishedAt": "2026-10-30T07:00:17Z",
       "dateEvidence": "jsonld:datePublished"
     }
   ],
@@ -73,10 +66,10 @@
       "status": 200
     }
   ],
-  "message": "4 notizie recenti con data verificata; copertura parziale.",
+  "message": "3 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [],
   "candidateCount": 8,
   "datedCount": 6,
   "listingUrl": "https://www.oxfamitalia.org/news/",
-  "durationSeconds": 4.04
+  "durationSeconds": 4.76
 }

@@ -4,12 +4,215 @@
   "sourceId": "la-stampa",
   "originUrl": "https://www.lastampa.it/",
   "configuredFeedUrl": "https://www.lastampa.it/rss/copertina.xml",
-  "collectedAt": "2026-11-12T23:55:01.164676Z",
+  "collectedAt": "2026-11-13T10:02:57.473049Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.lastampa.it/rss/copertina.xml",
   "items": [
+    {
+      "title": "Guasto globale a Microsoft: che cosa è successo e quando tornerà tutto a funzionare?",
+      "url": "https://www.lastampa.it/cronaca/2026/11/13/news/guasto_globale_microsoft_cause_tempi_ripristino_servizi-15797154/",
+      "excerpt": "L'interruzione ha colpito aziende, enti governativi e persino gli stessi dipendenti di Microsoft. Ecco cosa è successo secondo l’azienda",
+      "publishedAt": "2026-11-13T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Irpef, la beffa del taglio che privilegia i ricchi: “Meno tasse per l’89% dei dirigenti e l’1% degli operai”",
+      "url": "https://www.lastampa.it/economia/2026/11/13/news/allarme_upb_taglio_irpef_privilegi_ricchi-15796649/",
+      "excerpt": "L’Ufficio parlamentare di bilancio critica la misura della manovra. E ricorda che ci sono troppe disparità che possono amplificarsi a breve",
+      "publishedAt": "2026-11-13T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "L’affondo di Messina e la risposta di Giorgetti: “Sono un asburgico”. Ma il governo si corregge sul Superbonus",
+      "url": "https://www.lastampa.it/economia/2026/11/13/news/giorgetti_asburgico_norma_crediti_banche-15796671/",
+      "excerpt": "Il ministro dell'Economia apre sul rimborso contestato: «È un tramezzo della casa, non faccio barricate». Il governo vuole evitare una frattura insanabile con i banchieri: «Non li indeboliamo»",
+      "publishedAt": "2026-11-13T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Allarmi bomba, la stretta sulle evacuazioni: “Non decideranno più i presidi, spetterà ai prefetti”",
+      "url": "https://www.lastampa.it/cronaca/2026/11/13/news/arriva_la_stretta_sulle_evacuazioni_non_decideranno_piu_i_presidi_l_ultima_parola_spettera_ai_prefetti-15796700/",
+      "excerpt": "Oggi l’incontro per delineare nel dettaglio strumenti e procedure",
+      "publishedAt": "2026-11-13T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Allarmi bomba a scuola, la pista dell’emulazione: “Si scatenano i troll”",
+      "url": "https://www.lastampa.it/cronaca/2026/11/13/news/la_pista_dell_emulazione_hanno_acceso_la_miccia_adesso_si_scatenano_i_troll-15796729/",
+      "excerpt": "Gli indirizzi dei mittenti hackerati e comprati sul Dark Web. Appello dei presidi: “Serve un canale di allerta centralizzato”",
+      "publishedAt": "2026-11-13T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Vertice sulla cybersicurezza: baciamano di Calenda a Meloni, gelo da Conte",
+      "url": "https://www.lastampa.it/politica/2026/11/13/news/baciamano_da_calenda_gelo_da_conte_la_premier_basta_attacchi_sulla_difesa-15796692/",
+      "excerpt": "L’alert sulle elezioni politiche del 2027. E il governo valuta la sfida in Parlamento",
+      "publishedAt": "2026-11-13T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Mani diverse, russe e iraniane dietro gli allarmi bomba, c’è una strategia anti-democrazie",
+      "url": "https://www.lastampa.it/cronaca/2026/11/12/news/rischio_dipendenza_intelligenza_artificiale_cybercrimine-15796509/",
+      "excerpt": "Il direttore delle relazioni istituzionali della Fondazione Med-Or: «Attive anche gang giovanili locali reclutate»",
+      "publishedAt": "2026-11-13T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Nvidia, quel mese fatale per Jensen Huang tra donne sexy e miliardi in chip finiti al nemico in Cina",
+      "url": "https://www.lastampa.it/esteri/2026/11/13/news/nvidia_quell_intreccio_di_aziende_tra_singapore_e_pechino_per_aggirare_le_sanzioni_sui_chip-15796657/",
+      "excerpt": "Ottobre 2023 il momento decisivo della saga. La sospetta spia Alice Huang è a Tapei (e c’è anche l’altra amante). Riconfigura l’azienda, poi ne creano un’altra. Un front terzo per lavorare con Pechino. L’intreccio di aziende tra Singapore e Pechino per aggirare le sanzioni sui chip",
+      "publishedAt": "2026-11-13T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Numeri in discesa e spettro della bolla: cosa succede ora Nvidia e al mercato dell’Ai?",
+      "url": "https://www.lastampa.it/economia/2026/11/13/news/nvidia_dimissioni_jansen_huang_cosa_succede-15796413/",
+      "excerpt": "Gli effetti delle dimissioni di Jensen Huang potrebbero ridisegnare il mercato dell’Ai. Bolla o non bolla, i numeri sono in rapida discesa. In attesa di Anthropic",
+      "publishedAt": "2026-11-13T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "La visione mistica di Lele Adani e “Andy il calcio Diouf”",
+      "url": "https://www.lastampa.it/sport/2026/11/13/news/raiuno_la_visione_mistica_di_lele_adani-15796799/",
+      "excerpt": "Ieri sera in Italia-Francia ennesimo show del commentatore della tv di Stato",
+      "publishedAt": "2026-11-13T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "L’abbraccio di Torino ai Maestri del tennis: “Le Finals qui fino al 2030”",
+      "url": "https://www.lastampa.it/sport/speciali/atp-finals-2026/2026/11/13/news/l_abbraccio_di_torino_ai_maestri_del_tennis_le_finals_qui_fino_al_2030-15796724/",
+      "excerpt": "Via alla sesta edizione, sicura la settima: di più solo New York e Londra. Berrettini, Sinner, Musetti e ora Cobolli: campioni azzurri in prima fila",
+      "publishedAt": "2026-11-13T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Precipitano dal tetto di Palazzo Nuovo a Torino, gravi due writers. Bernini: “Riaprite l’ateneo”",
+      "url": "https://www.lastampa.it/torino/2026/11/13/news/tetto_palazzo_nuovo_writers_feriti-15797063/",
+      "excerpt": "L’incidente nella notte. L’ateneo è occupato dagli studenti",
+      "publishedAt": "2026-11-13T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Matteo, il neolaureato che ripulisce la strada dopo la festa: “I coriandoli andrebbero vietati”",
+      "url": "https://www.lastampa.it/cronaca/2026/11/13/news/matteo_cimitan_laurea_coriandoli_pulisce_strada-15796674/",
+      "excerpt": "Matteo Cimitan, giovane modenese ha chiesto scopa e paletta a un ristorante per raccogliere la plastica. «Gli amici mi guardavano straniti, ma festeggiare non dovrebbe significare danneggiare l’ambiente»",
+      "publishedAt": "2026-11-13T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Amanti e spie, come bloccare una trappola al miele? Romain Gary lo sapeva bene",
+      "url": "https://www.lastampa.it/cultura/2026/11/13/news/trappola_miele_nvidia_romain_gary_giornata_mondiale_gentilezza-15796302/",
+      "excerpt": "Lo scrittore francese, in un’intervista, raccontò un episodio boccaccesco accaduto a Sofia, dove i servizi segreti tentarono di ricattarlo mostrandogli la foto di un suo incontro amoroso con una affascinante spia. Reagì da grande commediante e l’ebbe vinta",
+      "publishedAt": "2026-11-13T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Delitto di Antonella Guarnero, dopo trent’anni la caccia al killer riparte dall’Alessandrino",
+      "url": "https://www.lastampa.it/alessandria/2026/11/13/news/delitto_antonella_guarnero_indagini_alessandria-15796949/",
+      "excerpt": "La svolta nelle indagini sulla morte della giovane centralinista, trovata senza vita in un campo e il giallo dell’auto cercata finora solo nell’Astigiano. E il caso resta aperto",
+      "publishedAt": "2026-11-13T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Lorenza Ghidini: “I 50 anni di Radio Popolare, prima di tutto siamo una comunità”",
+      "url": "https://www.lastampa.it/cronaca/2026/11/13/news/lorenza_ghidini_i_50_anni_di_radio_popolare_prima_di_tutto_siamo_una_comunita-15797057/",
+      "excerpt": "La direttrice della storica emittente milanese: «Ora l’ascolto in streaming ci dà la possibilità di arrivare ovunque»",
+      "publishedAt": "2026-11-13T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Sedili di legno e divise d’epoca: in Piemonte si viaggia come un secolo fa",
+      "url": "https://www.lastampa.it/torino/2026/11/13/video/treno_storico_centoporte_langhe_roero_monferrato_viaggio-15797092/",
+      "excerpt": "Sedili di legno, divise d’epoca e carrozze costruite tra la fine degli anni Venti e l’inizio degli anni Trenta. A bordo del “Centoporte”, uno dei treni più riconoscibili della storia ferroviaria italiana, i passeggeri ritrovano il modo di viaggiare di un secolo fa. Il convoglio attraversa il paesaggio vitivinicolo di L",
+      "publishedAt": "2026-11-13T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Perché le minacce all’Italia sono credibilissime: Mosca è in guerra ibrida contro l’Europa",
+      "url": "https://www.lastampa.it/esteri/2026/11/13/news/mosca_guerra_ibrida_europa_italia-15796746/",
+      "excerpt": "Il commissario europeo alla Difesa e allo Spazio: “La massima garanzia della sicurezza dell’Ue è una Russia non aggressiva”",
+      "publishedAt": "2026-11-13T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "La faida della Fenice: la prima salta per sciopero. Ma stavolta i veneziani scaricano l’orchestra",
+      "url": "https://www.lastampa.it/cronaca/2026/11/13/news/la_faida_della_fenice_la_prima_salta_per_sciopero_ma_stavolta_i_veneziani_scaricano_l_orchestra-15796830/",
+      "excerpt": "Ennesima protesta al teatro di Venezia. E gli abbonati protestano: «Si potevano trovare altre soluzioni»",
+      "publishedAt": "2026-11-13T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "L’asteroide 1998 KY26 accelera nel vuoto: il mistero che mette in difficoltà gli astronomi",
+      "url": "https://www.lastampa.it/scienza/2026/11/13/news/asteroide_1998_ky26-15797151/",
+      "excerpt": "Potrebbe non essere una cometa “travestita” da asteroide come era stato ipotizzato",
+      "publishedAt": "2026-11-13T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Adozioni forzate, Teresita riabbraccia 40 anni dopo i figli che le furono rubati: la storia",
+      "url": "https://www.lastampa.it/esteri/2026/11/13/video/adozioni_forzate_cile_teresita_padilla_abbraccia_figli_rubati-15797095/",
+      "excerpt": "Teresita Padilla si siede tra i suoi due figli, li abbraccia e bacia loro le mani. Nelle immagini girate da Reuters l’11 novembre a Santiago del Cile, la donna ritrova Tim Rolnick, 41 anni, e Travis Murdoch, 37, due dei tre figli che le furono sottratti quando erano piccoli, durante la dittatura militare di Augusto Pin",
+      "publishedAt": "2026-11-13T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Arriva l’atlante dei geni del tumore del cane: “Ci aiuterà a comprendere anche quelli umani”",
+      "url": "https://www.lastampa.it/scienza/2026/11/13/news/atlante_geni_tumori_cani_studio_universita_torino_luca_aresu-15796040/",
+      "excerpt": "Luca Aresu, coordinatore del Canine Comparative Oncology Lab dell’Università di Torino, spiega i risvolti del suo studio",
+      "publishedAt": "2026-11-13T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Castiglion del Bosco, tra Brunello e fondo del Qatar il nuovo corso del resort di lusso amato da Obama",
+      "url": "https://www.lastampa.it/cronaca/2026/11/13/news/castiglion_del_bosco_brunello_montalcino_vino_giuseppe_gorelli_enologo-15796259/",
+      "excerpt": "La struttura a Montalcino, dal 2022 guidata da un family office qatariota, è famosa per il resort di lusso. Ma ora vigne e bottiglie tornano al centro del progetto con l’enologo Giuseppe Gorelli",
+      "publishedAt": "2026-11-13T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Nuovo collegamento Aosta-Milano, dall’estate 2027 otto treni a settimana",
+      "url": "https://www.lastampa.it/aosta/2026/11/13/news/aosta-milano_ferrovia_trasporti-15796457/",
+      "excerpt": "Definiti i dettagli del nuovo servizio sperimentale che partirà con la riapertura della ferrovia. Entra in gioco anche il Piemonte nel test sulla tratta lombarda. Giovedì prossimo la firma a Milano",
+      "publishedAt": "2026-11-13T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Femminicidio di Roua Nabi, ergastolo definitivo per l'ex. La madre: “Ora la verità sul braccialetto”",
+      "url": "https://www.lastampa.it/torino/2026/11/12/news/femminicidio_roua_nabi_cassazione_ergastolo-15796682/",
+      "excerpt": "La famiglia della donna: «Causa civile contro il governo: spieghi perché non funzionò»",
+      "publishedAt": "2026-11-13T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Padre e figlio intossicati dal monossido in casa a Guarene: indagati i tecnici della caldaia",
+      "url": "https://www.lastampa.it/cuneo/2026/11/13/news/tre_indagati_per_la_tragedia_di_guarene-15796462/",
+      "excerpt": "La tragedia a gennaio: Paolo Foglino e il figlio Francesco di 17 anni morirono nel sonno nella loro abitazione di frazione Castelrotto",
+      "publishedAt": "2026-11-13T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "TorinoSette, Piovono palline sulla città",
+      "url": "https://www.lastampa.it/torino/2026/11/13/video/torinosette_piovono_palline_sulla_citta-15797123/",
+      "excerpt": "Le Nitto Atp Finals occupano l’Inalpi Arena con gli otto giganti del tennis mondiale e le piazze del centro con le iniziative che abbracciano l’evento sportivo: a Casa Tennis i talk con Carolina Morace, Matteo Giunta e Nicolò Martinenghi, Larissa Iapichino e numerosi altri protagonisti. E poi mostre, cibo, dj set sul t",
+      "publishedAt": "2026-11-13T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Auto-bomba a Mosca, ferito l’ex consigliere del premier ucraino che lavorò col filorusso Yanukovich",
+      "url": "https://www.lastampa.it/esteri/2026/11/13/diretta/guerra_russia_ucraina_news_oggi-15796797/",
+      "excerpt": "Putin avverte l’Europa: «Decida se vuole la pace o la guerra». Zelensky: «L’Ue sarà al tavolo»",
+      "publishedAt": "2026-11-12T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Outlook in tilt in tutto il mondo, Microsoft: “Non è un attacco hacker, primi segnali di ripartenza”",
+      "url": "https://www.lastampa.it/tech/2026/11/12/news/outlook_mail_blackout_microsoft_copilot-15796495/",
+      "excerpt": "Oltre 150 mila segnalazioni e ore di caos sul servizio di posta e altri sistemi di comunicazione",
+      "publishedAt": "2026-11-12T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "La notte di Pio Esposito, doppietta e l'Italia batte 3-1 la Francia: Azzurri in vetta",
       "url": "https://www.lastampa.it/sport/2026/11/12/news/pio_esposito_trascina_l_italia_doppietta_nel_3-1_alla_francia_azzurri_primi-15796751/",
@@ -25,44 +228,9 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Kimi Antonelli si prende San Siro: “Ho ancora fame”, il campione di F1 festeggiato a Italia-Francia",
-      "url": "https://www.lastampa.it/sport/2026/11/13/news/kimi_antonelli_si_prende_san_siro_ho_ancora_fame_il_campione_di_f1_festeggiato_a_italia-francia-15796772/",
-      "excerpt": "Antonelli a San Siro: «È la prima volta. Ho dovuto togliere il tricolore dai capelli, ma tornerà»",
-      "publishedAt": "2026-11-12T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Achille Lauro incendia le Finals col concertone inaugurale. Cobolli: \"Ho avuto paura di non essere qui\"",
+      "title": "Achille Lauro incendia le Finals col concertone inaugurale. Cobolli: “Ho avuto paura di non essere qui”",
       "url": "https://www.lastampa.it/sport/speciali/atp-finals-2026/2026/11/12/news/achille_lauro_concerto_atp_finals_torino-15796732/",
-      "excerpt": "Il cantante romano dà il via alle seste Nitto Atp Finals di Torino. Cobolli a sorpresa sul palco",
-      "publishedAt": "2026-11-12T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Finals, Zverev-Jodar primo singolo: domenica alle 14. Cobolli lunedì con Medvedev alle 20,30",
-      "url": "https://www.lastampa.it/sport/speciali/atp-finals-2026/2026/11/12/news/atp_finals_sorteggio_gironi_cobolli_alcaraz_bolelli_vavassori-15795950/",
-      "excerpt": "Gli incontri delle prime due giornate, il via domenica 15 novembre. Lunedì 16 (alle 11,30) gli azzurri Bolelli-Vavassori contro Granollers-Zeballos; in serata Flavio, all’esordio nell’evento di fine stagione. La cerimonia dei sorteggi all’Inalpi Arena di Torino",
-      "publishedAt": "2026-11-12T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "L’arena e come arrivarci, i biglietti e il Fan Village. Guida completa alle Atp Finals di Torino",
-      "url": "https://www.lastampa.it/torino/2026/11/12/news/atp_finals_2026_torino_guida_biglietti_trasporti_eventi-15795618/",
-      "excerpt": "Giovedì 12 novembre il “Grand Opening Show” con il concerto di Achille Lauro",
-      "publishedAt": "2026-11-12T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Outlook in tilt, migliaia senza email: blackout globale per Microsoft, colpiti anche Teams e Copilot",
-      "url": "https://www.lastampa.it/tech/2026/11/12/news/outlook_mail_blackout_microsoft_copilot-15796495/",
-      "excerpt": "Caselle di posta inaccessibili e schermate bloccate",
-      "publishedAt": "2026-11-12T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "È morto Toni Capuozzo, il giornalista che ha raccontato le guerre in prima linea: aveva 77 anni",
-      "url": "https://www.lastampa.it/cronaca/2026/11/12/news/toni_capuozzo_morto_giornalista_77_anni-15796217/",
-      "excerpt": "Dopo le esperienze a Reporter e Panorama, nei primi anni Novanta era arrivato a Mediaset. Dal 1992 aveva seguito da inviato i principali conflitti internazionali, diventando uno dei volti più riconoscibili dell'informazione televisiva italiana",
+      "excerpt": "Il cantante romano dà il via alle seste Nitto Atp Finals di Torino. Il tennista romano a sorpresa sul palco",
       "publishedAt": "2026-11-12T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -74,72 +242,9 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Nvidia, Jensen Huang rassegna le dimissioni dopo gli scandali sulle due amanti. Crolla il titolo",
-      "url": "https://www.lastampa.it/economia/2026/11/12/news/nvidia_jensen_huang_rassegna_le_dimissioni_da_ceo-15796046/",
-      "excerpt": "L’uscita dopo 33 anni nell’azienda, al suo posto la direttrice finanziaria Colette Kress con un incarico ad interim. Al Nasdaq il calo supera il 13%",
-      "publishedAt": "2026-11-12T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Chi è Kimberly Powell, la seconda amante del capo di Nvidia Huang: la manager e il video in hotel",
-      "url": "https://www.lastampa.it/esteri/2026/11/12/news/kimberly_powell_nvidia_jensen_huang_video-15795777/",
-      "excerpt": "Ha 48 anni, è ingegnere e lavora dal 2008 nel colosso americano dei chip. Guida il settore sanitario e risponde direttamente a Jensen Huang. La relazione sarebbe stata scoperta durante una conferenza in California",
-      "publishedAt": "2026-11-12T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "L’ex ceo di Apple Tim Cook in lizza per guidare Nvidia. Con il sostegno di Trump",
-      "url": "https://www.lastampa.it/tech/2026/11/12/news/nvidia_jensen_huang_uscita_tim_cook_nuovo_ceo-15795853/",
-      "excerpt": "Il fondatore e amministratore delegato lascia dopo le rivelazioni su presunte relazioni extraconiugali e spionaggio. Il titolo crolla in Borsa e si apre la questione della successione. Tra i possibili candidati anche l’ex Ceo di Apple, supportato dal presidente Usa",
-      "publishedAt": "2026-11-12T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Colette Kress, la donna dei conti nuova Ceo (ad interim) di Nvidia",
-      "url": "https://www.lastampa.it/tech/2026/11/12/news/colette_kress_nvidia_ceo_carriera_ruolo-15796305/",
-      "excerpt": "Forbes la colloca al 32esimo posto nella classifica del 2026 delle donne americane più ricche che si sono «fatte da sole»",
-      "publishedAt": "2026-11-12T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Allarmi bomba nelle scuole, il governo: “Non evacuate”. Adottati i protocolli sicurezza",
-      "url": "https://www.lastampa.it/cronaca/2026/11/12/diretta/allarme_bombe_scuole_oggi_aggiornamenti-15795824/",
-      "excerpt": "Palazzo Chigi: «Quelle raggiunte da minacce via e-mail sono state 3.778, le evacuazioni sono state 77»",
-      "publishedAt": "2026-11-12T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "L'allarme nelle scuole torinesi, studenti rifugiati in chiesa",
-      "url": "https://www.lastampa.it/torino/2026/11/12/news/nuovi_allarmi_bomba_scuole_torino_evacuazioni_oggi-15795945/",
-      "excerpt": "Bambini ospitati in chiesa, i genitori comprano acqua e cibo. Ieri c’erano state oltre 190 segnalazioni in città e 463 in Piemonte",
-      "publishedAt": "2026-11-12T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Tra Boris e sfottò, l’hacker delle scuole “Mikhail Andropov” diventa meme",
-      "url": "https://www.lastampa.it/cronaca/2026/11/12/news/tra_boris_e_sfotto_mikhail_andropov_diventa_meme-15795810/",
-      "excerpt": "Su Instragram e Tik Tok si vuole sdrammatizzare e l’Italia social “trolla” l’hacker delle scuole",
-      "publishedAt": "2026-11-12T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Isaac Ben-Israel: “Il vero rischio è la dipendenza dall’AI. Il cyber crimine si può solo contenere”",
-      "url": "https://www.lastampa.it/esteri/2026/11/12/news/isaac_ben-israel_il_vero_rischio_e_la_dipendenza_dall_ai_il_cyber_crimine_si_puo_solo_contenere-15796631/",
-      "excerpt": "L’esperto israeliano: «L’Europa è stata troppo ottimista sul futuro della pace»",
-      "publishedAt": "2026-11-12T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Perché le mail di Mikhail Andropov dimostrano che investire in difesa non è solo una questione di armi",
-      "url": "https://www.lastampa.it/rubriche/il-capitale/2026/11/12/news/il_colabrodo_della_sicurezza-15796063/",
-      "excerpt": "Le mail di Mikhail Andropov dimostrano che investire in difesa non è solo una questione di armi",
-      "publishedAt": "2026-11-12T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Guida Michelin 2027, Uliassi perde la terza stella. A Torino premiati La limonaia e Akoya",
-      "url": "https://www.lastampa.it/cronaca/2026/11/12/news/guida_michelin_2027_nadia_santini_lezzerini_giovane_chef_stella-15795859/",
-      "excerpt": "Due stelle a Jessica Rosval di Al Gatto Verde a Monica. Torino perde tre stelle e ne guadagna due",
+      "title": "Far west a Cameri, spara al ladro in fuga e lo spedisce in ospedale",
+      "url": "https://www.lastampa.it/novara/2026/11/12/news/sparatoria_cameri_persona_ferita_ladro_ospedale_carabinieri-15796487/",
+      "excerpt": "L’uomo è stato colpito alle gambe, non è in pericolo di vita",
       "publishedAt": "2026-11-12T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -158,62 +263,6 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Crippa e Mammoliti, sei stelle Michelin nelle Langhe: \"Così il nostro territorio fa la differenza\"",
-      "url": "https://www.lastampa.it/cuneo/2026/11/12/video/enrico_crippa_michelangelo_mammoliti_tre_stelle_michelin_alba-15796652/",
-      "excerpt": "Enrico Crippa conferma le tre stelle Michelin con Piazza Duomo ad Alba, così come La Rei Natura di Michelangelo Mammoliti, a Serralunga d'Alba. Sono così sei le stelle complessive dei due ristoranti tristellati delle Langhe, confermate nella Guida Michelin Italia 2027. «Viviamo in una regione straordinaria, il Piemonte",
-      "publishedAt": "2026-11-12T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Sigarette elettroniche e tabacco riscaldato, gli oncologi chiedono il divieto nei luoghi pubblici",
-      "url": "https://www.lastampa.it/cronaca/2026/11/12/news/fumo_divieto_sigarette_elettroniche_luoghi_pubblici-15796458/",
-      "excerpt": "Aiom e Fondazioni lanciano un manifesto e chiedono al Parlamento una legge nazionale per estendere le restrizioni, vietare pubblicità e sponsorizzazioni e proteggere i più giovani. Il 37% degli adolescenti tra 14 e 17 anni fuma più o meno regolarmente",
-      "publishedAt": "2026-11-12T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Tempesta atlantica sull'Italia: paura in Toscana e Liguria, esondano fiumi e torrenti",
-      "url": "https://www.lastampa.it/cronaca/2026/11/12/news/maltempo_allerta_rossa_toscana_emilia_romagna_liguria_scuole_chiuse-15795550/",
-      "excerpt": "Maltempo, allerta rossa in vigore fino alla mezzanotte di oggi. Fiumi esondati e centinaia di sfollati. Oltre 200 le operazioni dei Vigili del fuoco a La Spezia",
-      "publishedAt": "2026-11-12T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Depistaggio Borsellino, perquisizioni all'ex capo della Polizia De Gennaro e al pentito Contorno",
-      "url": "https://www.lastampa.it/cronaca/2026/11/12/news/depistaggio_borsellino_perquisizioni_de_gennaro_contorno-15796381/",
-      "excerpt": "Perquisiti dai Ros anche degli ex collaboratori per il depistaggio delle indagini sulla strage di via D'Amelio e della scomparsa dell'agenda rossa",
-      "publishedAt": "2026-11-12T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Viaggiare è il vero elisir anti-età: la scienza lo conferma",
-      "url": "https://www.lastampa.it/viaggi/2026/11/12/news/viaggiare_benefici_invecchiamento_creativita_studi-15795934/",
-      "excerpt": "Dall’Australia alla Columbia Business School, gli studi dimostrano che cambiare aria allunga la vita, rafforza le difese e aumenta la creatività. Ecco perché anche una vacanza breve batte le creme più costose, purché si viaggi davvero, senza l’ansia da prestazione dei social",
-      "publishedAt": "2026-11-12T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Torna “C'è posta per te”. Dalle email ai social come cambierà la storia del film cult degli anni ‘90",
-      "url": "https://www.lastampa.it/spettacoli/2026/11/12/news/c_e_posta_per_te_remake_film_warner_bros_social_media-15795790/",
-      "excerpt": "A 28 anni dall’uscita del celebre film con Tom Hanks e Meg Ryan, la Warner Bros. punta a riportare sul grande schermo la commedia romantica adattandola all'era della comunicazione digitale contemporanea. Alla regia ci sarà Jason Orley",
-      "publishedAt": "2026-11-12T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Trip Error, la techno clandestina nel cuore della guerra",
-      "url": "https://www.lastampa.it/spettacoli/2026/11/12/news/odessa_rave_partyzan_luigi_de_biase-15795717/",
-      "excerpt": "Luigi De Biase racconta la scena rave di Odessa: nata di giorno per aggirare il coprifuoco, cresciuta nei locali abbandonati e dispersa tra retate e droni",
-      "publishedAt": "2026-11-12T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Hegseth visita il milite ignoto, scoppia una risata e la sentinella urla: \"Silenzio e rispetto\"",
-      "url": "https://www.lastampa.it/esteri/2026/11/12/video/hegseth_milite_ignoto_risata_sentinella_rimprovero-15796032/",
-      "excerpt": "Al cimitero nazionale di Arlington, in Virginia, il segretario alla Difesa statunitense Pete Hegseth, la moglie e alcuni collaboratori posano per una foto dopo una cerimonia del Veterans Day. Mentre il gruppo risale la scalinata della Tomba del Milite Ignoto, nel video si sentono alcune risate. Subito dopo, la sentinel",
-      "publishedAt": "2026-11-12T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
       "title": "Affondato il transatlantico più veloce del mondo: diventerà una barriera artificiale",
       "url": "https://www.lastampa.it/esteri/2026/11/12/video/affondato_transatlantico_ss_united_states_barriera_corallina_artificiale-15795917/",
       "excerpt": "Nel 1952, al suo viaggio inaugurale, la SS United States attraversò l’Atlantico in 3 giorni, 10 ore e 40 minuti, un record tuttora imbattuto per un transatlantico. L’11 novembre la nave, lunga oltre 300 metri, è stata affondata deliberatamente a circa 40 chilometri al largo della Florida per creare la più grande barrie",
@@ -228,48 +277,6 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Antonio Ornano: \"Ecco perché ho lasciato GialappaShow: è bello ma la trasmissione ti fagocita\"",
-      "url": "https://www.lastampa.it/spettacoli/2026/11/12/video/antonio_ornano_perche_ha_lasciato_gialappas-15795503/",
-      "excerpt": "Con (In)Grato Antonio Ornano torna alla dimensione che sente più sua: il teatro. Nel nuovo spettacolo, arrivato al Teatro Colosseo di Torino con due date sold out, il comico mette da parte le ricette per la felicità e racconta con ironia la fatica di stare al passo con un mondo che chiede continuamente successo, equili",
-      "publishedAt": "2026-11-12T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Putin avverte l'Europa: “Decida se vuole la pace o la guerra”. Zelensky: “L’Ue sarà al tavolo”",
-      "url": "https://www.lastampa.it/esteri/2026/11/13/diretta/guerra_russia_ucraina_news_oggi-15796797/",
-      "excerpt": "Al Cremlino il leader russo boccia l'ipotesi di truppe straniere a Kiev dopo il conflitto. A Dublino Zelensky annuncia il coinvolgimento europeo nei negoziati e punta al più grande scambio di prigionieri dall'inizio della guerra",
-      "publishedAt": "2026-11-12T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "A Málaga tra i fantasmi dei desaparecidos della dittatura di Franco",
-      "url": "https://www.lastampa.it/esteri/2026/11/12/news/malaga_spagna_franco_desaparecidos_scavi-15795973/",
-      "excerpt": "Gli scavi a Campillos nelle fosse della repressione franchista hanno rilevato che il 20% dei resti appartiene a donne",
-      "publishedAt": "2026-11-12T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Scott Colom, ecco chi è il primo senatore afroamericano del Mississippi",
-      "url": "https://www.lastampa.it/esteri/2026/11/12/news/scott_colom_mississippi_usa_midterm_trump-15796072/",
-      "excerpt": "Dal 1982 un democratico non vinceva nello stato del Sud e il partito non credeva che ce l’avrebbe fatta",
-      "publishedAt": "2026-11-12T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "COP31, la parola ai giovani: cosa chiedete ai leader del mondo?",
-      "url": "https://www.lastampa.it/esteri/2026/11/12/news/cop31_giovani_richieste_leader_clima-15795606/",
-      "excerpt": "Se aveste due minuti davanti ai leader mondiali riuniti per discutere di cambiamento climatico, che cosa direste loro? È la domanda che vogliamo rivolgere alle ragazze ...",
-      "publishedAt": "2026-11-12T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "L'allarme di Greta Thunberg alla COP31: \"Stanno uccidendo il pianeta. E nessuno verrà a salvarci\"",
-      "url": "https://www.lastampa.it/esteri/2026/11/12/video/cop31_allarme_greta_thunberg_pianeta-15795955/",
-      "excerpt": "Alla COP31 di Antalya, in Turchia, Greta Thunberg è tornata a partecipare a una conferenza Onu sul clima dopo cinque anni. In conferenza stampa, accanto ad altri attivisti, ha avvertito che i beni di prima necessità rischiano di diventare un lusso e ha invitato chi ha più privilegi ad assumersi maggiori responsabilità ",
-      "publishedAt": "2026-11-12T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
       "title": "La Grande Muraglia diventa uno scivolo di ghiaccio: turisti aggrappati ai corrimano",
       "url": "https://www.lastampa.it/video/socialnews/2026/11/12/video/la_grande_muraglia_diventa_uno_scivolo_di_ghiaccio_turisti_aggrappati_ai_corrimano-15796024/",
       "excerpt": "Neve e ghiaccio hanno reso scivoloso un tratto in pendenza della Grande Muraglia cinese, nei pressi di Pechino. Nelle immagini diffuse in questi giorni si vedono visitatori avanzare a piccoli passi e aggrapparsi ai corrimano, mentre altri perdono l’equilibrio e scivolano. A Badaling, una delle sezioni più visitate del ",
@@ -277,16 +284,9 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Adolescente scompare durante il campeggio: sopravvive 6 giorni nei boschi australiani",
-      "url": "https://www.lastampa.it/esteri/2026/11/12/video/australia_adolescente_scomparso_campeggio_ritrovato_vivo-15795960/",
-      "excerpt": "William, 17 anni, era scomparso il 6 novembre durante un campeggio con un amico nella boscaglia dello Stato di Victoria, circa 180 chilometri a est di Melbourne. Sei giorni dopo, l’equipaggio di un elicottero della polizia ha avvistato una scatola da pesca e, poco distante, il ragazzo disteso su una roccia accanto a un",
-      "publishedAt": "2026-11-12T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Manovra, Messina: “Sulle banche proposte non costituzionali. Ecobonus, formula sudamericana”",
-      "url": "https://www.lastampa.it/economia/2026/11/12/news/manovra_messina_proposte_non_costituzionali-15795923/",
-      "excerpt": "L’ad di Ca’ de Sass in Senato: “Le contrapposizioni potranno arrivare davanti alla Corte, misure sudamericane”",
+      "title": "COP31, la parola ai giovani: cosa chiedete ai leader del mondo?",
+      "url": "https://www.lastampa.it/esteri/2026/11/12/news/cop31_giovani_richieste_leader_clima-15795606/",
+      "excerpt": "Se aveste due minuti davanti ai leader mondiali riuniti per discutere di cambiamento climatico, che cosa direste loro? È la domanda che vogliamo rivolgere alle ragazze ...",
       "publishedAt": "2026-11-12T00:00:00Z",
       "dateEvidence": "feed:published"
     }
@@ -302,5 +302,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 0.76
+  "durationSeconds": 1.39
 }

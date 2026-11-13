@@ -4,12 +4,47 @@
   "sourceId": "il-notiziario",
   "originUrl": "https://www.ilnotiziario.net/",
   "configuredFeedUrl": "https://www.ilnotiziario.net/feed/",
-  "collectedAt": "2026-11-12T23:54:56.754098Z",
+  "collectedAt": "2026-11-13T10:02:53.609935Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.ilnotiziario.net/feed/",
   "items": [
+    {
+      "title": "Saronno, scontro tra due auto davanti all’ospedale, tre persone coinvolte",
+      "url": "https://www.ilnotiziario.net/saronno-scontro-tra-due-auto-davanti-allospedale-tre-persone-coinvolte/",
+      "excerpt": "Saronno, scontro tra due auto davanti all’ospedale, tre persone coinvolte Un incidente stradale si è verificato nella tarda...",
+      "publishedAt": "2026-11-13T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Limbiate, a Luca Attanasio l’Ambrogino d’oro alla memoria dal Comune di Milano",
+      "url": "https://www.ilnotiziario.net/limbiate-a-luca-attanasio-lambrogino-doro-alla-memoria-dal-comune-di-milano/",
+      "excerpt": "Limbiate, a Luca Attanasio l’Ambrogino d’oro alla memoria dal Comune di Milano Milano si prepara a rendere omaggio a...",
+      "publishedAt": "2026-11-13T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Novate: consegna a domicilio di 13 kg di marijuana, ma il finto corriere è un poliziotto di Rho che lo arresta",
+      "url": "https://www.ilnotiziario.net/novate-consegna-a-domicilio-di-13-kg-di-marijuana-ma-il-finto-corriere-e-un-poliziotto-di-rho-che-lo-arresta/",
+      "excerpt": "A Novate la consegna a domicilio di un pacco contenente 13 kg di marijuana si è concluso con l’arresto del destinatario da...",
+      "publishedAt": "2026-11-13T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Cesate, donna investita da auto finisce in ospedale",
+      "url": "https://www.ilnotiziario.net/cesate-donna-investita-da-auto-finisce-in-ospedale/",
+      "excerpt": "Incidente ieri sera a Cesate, una donna è stata investita da un’auto ed è finita in ospedale in codice giallo, Un...",
+      "publishedAt": "2026-11-13T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Mail minatoria, panico nelle scuole; Rho, lutto per Francesco, morto a 19 anni – ANTEPRIMA",
+      "url": "https://www.ilnotiziario.net/mail-minatoria-panico-nelle-scuole-rho-lutto-per-francesco-morto-a-19-anni-anteprima/",
+      "excerpt": "📰 IL NOTIZIARIO È IN EDICOLA E ONLINE! 📰 Torna oggi in edicola e online il nuovo numero del nostro settimanale con fatti, notizie...",
+      "publishedAt": "2026-11-13T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "Sesto San Giovanni, sospetto spaccio durante le consegne da rider: arrestato",
       "url": "https://www.ilnotiziario.net/sesto-san-giovanni-sospetto-spaccio-durante-le-consegne-da-rider-arrestato/",
@@ -79,41 +114,6 @@
       "excerpt": "Milano, ronde contro gli extracomunitari, due indagati e armi sequestrate La Polizia di Stato ha eseguito due perquisizioni a...",
       "publishedAt": "2026-11-12T00:00:00Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Nasce la nuova Farmacia Comunale di Terrazzano",
-      "url": "https://www.ilnotiziario.net/nasce-la-nuova-farmacia-comunale-di-terrazzano/",
-      "excerpt": "Tutto pronto per il taglio del nastro ufficiale della nuova farmacia comunale della frazione rhodense di Terrazzano che sarà...",
-      "publishedAt": "2026-11-12T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Monza, rapine ai danni di due sedicenni, arrestato anche il secondo responsabile",
-      "url": "https://www.ilnotiziario.net/monza-rapine-ai-danni-di-due-sedicenni-arrestato-anche-il-secondo-responsabile/",
-      "excerpt": "Monza, rapine ai danni di due sedicenni, arrestato anche il secondo responsabile Un altro arresto per due rapine commesse nel...",
-      "publishedAt": "2026-11-12T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "La Polizia piange Oscar Zanoncini, morto a Tradate in un incidente: il ricordo dei colleghi",
-      "url": "https://www.ilnotiziario.net/la-polizia-piange-oscar-zanoncini-morto-a-tradate-in-un-incidente-il-ricordo-dei-colleghi/",
-      "excerpt": "La Polizia piange Oscar Zanoncini, morto a Tradate in un incidente: il ricordo dei colleghi La Polizia di Stato di Varese perde...",
-      "publishedAt": "2026-11-12T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Sei miliardi in 20 minuti",
-      "url": "https://www.ilnotiziario.net/sei-miliardi-in-20-minuti/",
-      "excerpt": "Venti minuti. Alcuni pirati informatici l’altro giorno hanno sottratto ben sei miliardi di dollari in cryptovalute nel giro...",
-      "publishedAt": "2026-11-12T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Incidente tra due Tir sulla Tangenziale, 3 feriti e lunghe code",
-      "url": "https://www.ilnotiziario.net/incidente-tra-due-tir-sulla-tangenziale-3-feriti-e-lunghe-code/",
-      "excerpt": "Incidente tra due Tir in Tangenziale, 3 persone ferite, lunghe code in orario di punta Mattinata difficile per chi si è messo in...",
-      "publishedAt": "2026-11-12T00:00:00Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -127,5 +127,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 1.43
+  "durationSeconds": 2.66
 }

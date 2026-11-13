@@ -4,12 +4,26 @@
   "sourceId": "palazzo-chigi",
   "originUrl": "https://www.governo.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-12T23:55:13.604318Z",
+  "collectedAt": "2026-11-13T10:03:08.941787Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.governo.it/feed/rss",
   "items": [
+    {
+      "title": "Consiglio europeo informale di Dublino",
+      "url": "https://www.governo.it/it/articolo/consiglio-europeo-informale-di-dublino/33111",
+      "excerpt": "Il Presidente del Consiglio, Giorgia Meloni, partecipa a Dublino al Consiglio europeo informale.",
+      "publishedAt": "2026-11-13T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Dichiarazione congiunta sul contrasto all’immigrazione irregolare",
+      "url": "https://www.governo.it/it/articolo/dichiarazione-congiunta-sul-contrasto-all-immigrazione-illegale/33107",
+      "excerpt": "In occasione del Vertice della Comunità Politica Europea, 41 Leader europei hanno aderito a una dichiarazione congiunta sul contrasto all’immigrazione irregolare, promossa da Italia, Regno Unito e Danimarca. La dichiarazione dà seguito alle analoghe iniziative promosse in occasione dei Vertici di Copenaghen (ottobre 20",
+      "publishedAt": "2026-11-13T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "Riunione sull'Ucraina del \"Formato di Berlino\" e incontro con il Presidente Zelensky",
       "url": "https://www.governo.it/it/articolo/riunione-sullucraina-del-formato-di-berlino-e-incontro-con-il-presidente-zelensky/33105",
@@ -65,20 +79,6 @@
       "excerpt": "Procedura di selezione indetta con decreto del Segretario Generale del 10 dicembre 2025 per il passaggio dalla Categoria “B” al parametro retributivo iniziale della Categoria “A” per 27 unità riservato al personale appartenente al ruolo non dirigenziale della Presidenza del Consiglio dei Ministri. NOMINA MEMBRI SUPPLEN",
       "publishedAt": "2026-11-11T00:00:00Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Dipendenze, a Palazzo Chigi il tavolo per il nuovo Piano d'azione nazionale",
-      "url": "https://www.governo.it/it/articolo/dipendenze-al-palazzo-chigi-il-tavolo-il-nuovo-piano-dazione-nazionale/33081",
-      "excerpt": "Si è svolta nella Sala Verde di Palazzo Chigi la riunione del tavolo sulle dipendenze presieduta dal Sottosegretario alla Presidenza del Consiglio con delega alle politiche contro la droga e le altre dipendenze, Alfredo Mantovano.",
-      "publishedAt": "2026-11-11T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Il Presidente Meloni a Bologna e San Lazzaro di Savena",
-      "url": "https://www.governo.it/it/articolo/il-presidente-meloni-bologna-e-san-lazzaro-di-savena/33077",
-      "excerpt": "Il Presidente del Consiglio, Giorgia Meloni, ha visitato questo pomeriggio l’Esposizione Internazionale di Macchine per l'Agricoltura e il Giardinaggio (EIMA), presso BolognaFiere. A seguire il Presidente ha visitato Conserve Italia, in occasione del cinquantesimo anniversario del Gruppo aderente a Confcooperative, a S",
-      "publishedAt": "2026-11-10T00:00:00Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -100,5 +100,5 @@
     }
   ],
   "message": "Feed dichiarato dalla fonte; date di pubblicazione verificate.",
-  "durationSeconds": 30.18
+  "durationSeconds": 30.23
 }

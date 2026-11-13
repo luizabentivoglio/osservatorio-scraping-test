@@ -4,7 +4,7 @@
   "sourceId": "msf",
   "originUrl": "https://www.medicisenzafrontiere.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-12T23:55:05.031663Z",
+  "collectedAt": "2026-11-13T10:03:01.929267Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.medicisenzafrontiere.it/",
-  "durationSeconds": 3.67
+  "durationSeconds": 4.16
 }

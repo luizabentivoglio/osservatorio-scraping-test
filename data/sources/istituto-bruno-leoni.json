@@ -4,12 +4,19 @@
   "sourceId": "istituto-bruno-leoni",
   "originUrl": "https://www.brunoleoni.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-12T23:54:57.357065Z",
+  "collectedAt": "2026-11-13T10:02:54.871800Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "Il “Bruno Leoni” che parla la lingua della Milano necessaria",
+      "url": "https://www.brunoleoni.it/il-bruno-leoni-che-parla-la-lingua-della-milano-necessaria/",
+      "excerpt": "Milano è cresciuta ogni volta che ha preferito il rischio alla rendita. L’Istituto Bruno Leoni parla a questa città",
+      "publishedAt": "2026-11-13T09:30:43Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
     {
       "title": "Liberalizzazione elettrica: vale più la concorrenza di qualsiasi tutela",
       "url": "https://www.brunoleoni.it/liberalizzazione-elettrica-vale-piu-la-concorrenza-di-qualsiasi-tutela/",
@@ -29,13 +36,6 @@
       "url": "https://www.brunoleoni.it/cosa-ce-nella-manovra/",
       "excerpt": "Che cosa c'è di buono nella legge finanziaria che comincia ora il suo percorso parlamentare?",
       "publishedAt": "2026-11-06T18:24:19Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "La prudenza è un merito. Pnrr? Occasione persa",
-      "url": "https://www.brunoleoni.it/la-prudenza-e-un-merito-pnrr-occasione-persa/",
-      "excerpt": "L’Italia deve puntare su concorrenza, innovazione e meno vincoli",
-      "publishedAt": "2026-11-06T16:35:48Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
@@ -68,15 +68,15 @@
       "status": 200
     },
     {
+      "url": "https://www.brunoleoni.it/il-bruno-leoni-che-parla-la-lingua-della-milano-necessaria/",
+      "status": 200
+    },
+    {
       "url": "https://www.brunoleoni.it/il-mondo-multipolare-e-una-proposta-di-pace/",
       "status": 200
     },
     {
       "url": "https://www.brunoleoni.it/cosa-ce-nella-manovra/",
-      "status": 200
-    },
-    {
-      "url": "https://www.brunoleoni.it/la-prudenza-e-un-merito-pnrr-occasione-persa/",
       "status": 200
     }
   ],
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 5,
   "listingUrl": "https://www.brunoleoni.it/",
-  "durationSeconds": 6.39
+  "durationSeconds": 7.91
 }

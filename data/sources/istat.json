@@ -4,12 +4,26 @@
   "sourceId": "istat",
   "originUrl": "https://www.istat.it/",
   "configuredFeedUrl": "https://www.istat.it/feed/",
-  "collectedAt": "2026-11-12T23:54:55.737833Z",
+  "collectedAt": "2026-11-13T10:02:52.540149Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.istat.it/feed/",
   "items": [
+    {
+      "title": "Commercio con l’estero e prezzi all’import – Settembre 2026",
+      "url": "https://www.istat.it/comunicato-stampa/commercio-con-lestero-e-prezzi-allimport-settembre-2026/",
+      "excerpt": "A settembre 2026 si stima una lieve flessione congiunturale delle esportazioni (-0,2%) e una crescita delle importazioni (+3,3%); prezzi all’importazione +1,9% su agosto",
+      "publishedAt": "2026-11-13T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "CIG B77D99E724- Convenzione Consip “Energia Elettrica 22 – lotto 17 (Italia)",
+      "url": "https://www.istat.it/bando-di-gara/cig-b77d99e724-convenzione-consip-energia-elettrica-22-lotto-17-italia/",
+      "excerpt": "Online la delibera di adesione",
+      "publishedAt": "2026-11-13T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "CIG B5FC335862 – Convenzione Consip “Energia elettrica 22 – lotto 14 (Puglia e Basilicata)",
       "url": "https://www.istat.it/bando-di-gara/cig-b5fc335862-convenzione-consip-energia-elettrica-22-lotto-14-puglia-e-basilicata/",
@@ -65,20 +79,6 @@
       "excerpt": "Online le tavole di dati sui libri pubblicati in Italia riferiti agli anni 2023-2025 che costituiscono la prima uscita delle nuove statistiche multi-fonte sull’editoria libraria",
       "publishedAt": "2026-11-11T00:00:00Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Nota sull’andamento e prospettive dell’economia italiana – Anni 2026-2027",
-      "url": "https://www.istat.it/comunicato-stampa/nota-sullandamento-e-prospettive-delleconomia-italiana-anni-2026-2027-aggiornamento-novembre/",
-      "excerpt": "Nel 2026 e nel 2027 si prevede che il Pil italiano cresca, rispettivamente, dello 0,9% e dello 0,6%, dopo l’incremento dello 0,6% nel 2025",
-      "publishedAt": "2026-11-11T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Produzione industriale – Settembre 2026",
-      "url": "https://www.istat.it/comunicato-stampa/produzione-industriale-settembre-2026/",
-      "excerpt": "A settembre 2026 l’indice della produzione industriale aumenta dell'1,2% su agosto e diminuisce dello 0,1% su base annua",
-      "publishedAt": "2026-11-11T00:00:00Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -92,5 +92,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 2.68
+  "durationSeconds": 3.87
 }

@@ -4,7 +4,7 @@
   "sourceId": "ingv",
   "originUrl": "https://www.ingv.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-12T23:54:53.464444Z",
+  "collectedAt": "2026-11-13T10:02:49.306736Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
@@ -58,13 +58,6 @@
       "excerpt": "",
       "publishedAt": "2026-11-02T00:00:00Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "TERREMOTI | Dieci anni dalla sequenza sismica in Italia centrale: l’INGV racconta il lavoro in emergenza attraverso una serie di Video Podcast",
-      "url": "https://www.ingv.it/stampa-urp/ufficio-stampa/comunicati-stampa/terremoti-dieci-anni-dalla-sequenza-sismica-in-italia-centrale-l-ingv-racconta-il-lavoro-in-emergenza-attraverso-una-serie-di-video-podcast",
-      "excerpt": "",
-      "publishedAt": "2026-10-30T09:00:00Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -82,5 +75,5 @@
     }
   ],
   "message": "Feed dichiarato dalla fonte; date di pubblicazione verificate.",
-  "durationSeconds": 1.18
+  "durationSeconds": 2.0
 }

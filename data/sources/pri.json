@@ -4,7 +4,7 @@
   "sourceId": "pri",
   "originUrl": "https://www.prinazionale.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-12T23:55:18.548278Z",
+  "collectedAt": "2026-11-13T10:03:11.660712Z",
   "status": "no_feed",
   "diagnosticCode": "parsing_error",
   "method": "crawl4ai",
@@ -17,10 +17,6 @@
     },
     {
       "url": "https://www.prinazionale.it/",
-      "status": 200
-    },
-    {
-      "url": "https://www.prinazionale.it/new/12 Aprile 2019/ARTICOLO MICHELE SALVATI SUL CORRIERE.htm",
       "status": 200
     },
     {
@@ -42,6 +38,10 @@
     {
       "url": "https://www.prinazionale.it/Elezioni Moduli/Elezioni.htm",
       "status": 404
+    },
+    {
+      "url": "https://www.prinazionale.it/Congressi Locali/congressi.htm",
+      "status": 404
     }
   ],
   "message": "Pagina accessibile, ma nessuna notizia con data di pubblicazione verificabile.",
@@ -49,5 +49,5 @@
   "candidateCount": 12,
   "datedCount": 0,
   "listingUrl": "https://www.prinazionale.it/",
-  "durationSeconds": 1.37
+  "durationSeconds": 2.23
 }
