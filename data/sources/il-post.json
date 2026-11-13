@@ -4,52 +4,52 @@
   "sourceId": "il-post",
   "originUrl": "https://www.ilpost.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-13T18:07:17.356976Z",
+  "collectedAt": "2026-11-13T23:55:12.791210Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
-      "title": "Alla stazione di Roma Termini ci sono problemi alla circolazione dei treni: alcuni hanno più di 90 minuti di ritardo",
-      "url": "https://www.ilpost.it/2026/11/13/treni-problemi-roma-termini/?bitPosition=1",
-      "excerpt": "Alla stazione di Roma Termini ci sono problemi alla circolazione dei treni: alcuni hanno più di 90 minuti di ritardo Venerdì pomeriggio alla stazione ferroviaria di Roma Termini ci sono stati problemi alla circolazione dei treni, che stanno causando ritardi superiori ai 90 minuti. Trenitalia non ha spiegato la causa de",
+      "title": "Gli Stati Uniti hanno bloccato tutti i voli in partenza",
+      "url": "https://www.ilpost.it/2026/11/13/faa-ordine-blocco-voli/?homepagePosition=0",
+      "excerpt": "Lo ha ordinato l'agenzia federale dell'aviazione civile, citando una «temporanea interruzione delle telecomunicazioni»",
+      "publishedAt": "2026-11-13T20:28:59Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "La società proprietaria di Tinder è stata multata per 11 milioni di euro per violazione delle norme europee sulla privacy",
+      "url": "https://www.ilpost.it/2026/11/13/tinder-multa-privacy/?bitPosition=1",
+      "excerpt": "La società proprietaria di Tinder è stata multata per 11 milioni di euro per violazione delle norme europee sulla privacy La società proprietaria dell’app di dating Tinder, Match Group, ha ricevuto una multa da 11 milioni di euro dall’ente per la protezione della privacy irlandese per non aver fornito agli utenti che l",
+      "publishedAt": "2026-11-13T19:10:16Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "Alla stazione di Roma Termini dei problemi alla circolazione dei treni hanno causato ritardi fino a 90 minuti",
+      "url": "https://www.ilpost.it/2026/11/13/treni-problemi-roma-termini/?bitPosition=2",
+      "excerpt": "Alla stazione di Roma Termini dei problemi alla circolazione dei treni hanno causato ritardi fino a 90 minuti Venerdì pomeriggio alla stazione ferroviaria di Roma Termini ci sono stati problemi alla circolazione dei treni, che hanno causato ritardi fino a 90 minuti. RFI, la società del gruppo Ferrovie dello Stato che g",
       "publishedAt": "2026-11-13T16:31:30Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
       "title": "Nel 2027 il comune di Milano dovrà dimezzare la tassa di soggiorno e prevede di incassare 50 milioni in meno",
-      "url": "https://www.ilpost.it/2026/11/13/milano-tassa-soggiorno/?bitPosition=2",
+      "url": "https://www.ilpost.it/2026/11/13/milano-tassa-soggiorno/?bitPosition=3",
       "excerpt": "Nel 2027 il comune di Milano dovrà dimezzare la tassa di soggiorno e prevede di incassare 50 milioni in meno Il comune di Milano ha stabilito che nel 2027 le tariffe per la tassa di soggiorno (la piccola imposta che deve pagare chi soggiorna in una struttura ricettiva di una città) saranno molto più basse rispetto agli",
       "publishedAt": "2026-11-13T15:47:24Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
       "title": "La Corte d’appello dell’Aquila ha confermato che i figli della “famiglia nel bosco” non possono tornare subito a casa",
-      "url": "https://www.ilpost.it/2026/11/13/famiglia-nel-bosco-respinto-ricorso-genitori/?bitPosition=3",
+      "url": "https://www.ilpost.it/2026/11/13/famiglia-nel-bosco-respinto-ricorso-genitori/?bitPosition=4",
       "excerpt": "La Corte d’appello dell’Aquila ha confermato che i figli della “famiglia nel bosco” non possono tornare subito a casa La Corte d’appello dell’Aquila ha respinto il ricorso presentato dai genitori della cosiddetta “famiglia nel bosco” contro la sentenza che a settembre aveva stabilito che i tre figli non sarebbero potut",
       "publishedAt": "2026-11-13T12:46:07Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "L’Unione Europea non avrà un unico rappresentante nei negoziati per l’Ucraina",
-      "url": "https://www.ilpost.it/2026/11/13/scelta-rappresentate-europeo-negoziati-ucraina-dublino/?homepagePosition=0",
-      "excerpt": "Ma cinque paesi: Italia, Francia, Germania, Polonia e Regno Unito, più Commissione e Consiglio Europeo",
-      "publishedAt": "2026-11-13T08:58:48Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Il problema vero sull’Ucraina, per Meloni, sarà nel 2027",
-      "url": "https://www.ilpost.it/2026/11/12/invio-armi-ucraina-copasir-borghi-lega-crosetto-giorgetti/?homepagePosition=0.1&referrerPost=3731409",
-      "excerpt": "Perché ci sarà la campagna elettorale, e un decreto-legge spinoso da approvare",
-      "publishedAt": "2026-11-12T11:03:02Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Friedrich Merz ha legato il bilancio europeo all’Ucraina",
-      "url": "https://www.ilpost.it/2026/11/11/friedrich-merz-germania-bilancio-europeo-fondi-ucraina/?homepagePosition=0.2&referrerPost=3731409",
-      "excerpt": "La Germania ha detto che lo terrà bloccato finché tutti i paesi non contribuiranno a un nuovo prestito: alcuni sono molto arrabbiati",
-      "publishedAt": "2026-11-11T09:59:28Z",
+      "title": "Mauricio Pochettino è il nuovo allenatore del Manchester United, e smetterà di allenare gli Stati Uniti",
+      "url": "https://www.ilpost.it/2026/11/13/mauricio-pochettino-allenatore-manchester-united-lascia-stati-uniti/?bitPosition=5",
+      "excerpt": "Mauricio Pochettino è il nuovo allenatore del Manchester United, e smetterà di allenare gli Stati Uniti L’allenatore Mauricio Pochettino lascerà il suo incarico nella nazionale maschile degli Stati Uniti per diventare il nuovo allenatore del Manchester United, che giovedì aveva esonerato Michael Carrick. Pochettino div",
+      "publishedAt": "2026-11-13T11:09:32Z",
       "dateEvidence": "jsonld:datePublished"
     }
   ],
@@ -63,27 +63,27 @@
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/13/scelta-rappresentate-europeo-negoziati-ucraina-dublino/?homepagePosition=0",
+      "url": "https://www.ilpost.it/2026/11/13/faa-ordine-blocco-voli/?homepagePosition=0",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/12/invio-armi-ucraina-copasir-borghi-lega-crosetto-giorgetti/?homepagePosition=0.1&referrerPost=3731409",
+      "url": "https://www.ilpost.it/2026/11/13/tinder-multa-privacy/?bitPosition=1",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/11/friedrich-merz-germania-bilancio-europeo-fondi-ucraina/?homepagePosition=0.2&referrerPost=3731409",
+      "url": "https://www.ilpost.it/2026/11/13/treni-problemi-roma-termini/?bitPosition=2",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/13/treni-problemi-roma-termini/?bitPosition=1",
+      "url": "https://www.ilpost.it/2026/11/13/milano-tassa-soggiorno/?bitPosition=3",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/13/milano-tassa-soggiorno/?bitPosition=2",
+      "url": "https://www.ilpost.it/2026/11/13/famiglia-nel-bosco-respinto-ricorso-genitori/?bitPosition=4",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/13/famiglia-nel-bosco-respinto-ricorso-genitori/?bitPosition=3",
+      "url": "https://www.ilpost.it/2026/11/13/mauricio-pochettino-allenatore-manchester-united-lascia-stati-uniti/?bitPosition=5",
       "status": 200
     }
   ],
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.ilpost.it/",
-  "durationSeconds": 3.65
+  "durationSeconds": 3.55
 }

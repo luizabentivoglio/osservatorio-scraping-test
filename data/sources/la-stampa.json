@@ -4,37 +4,44 @@
   "sourceId": "la-stampa",
   "originUrl": "https://www.lastampa.it/",
   "configuredFeedUrl": "https://www.lastampa.it/rss/copertina.xml",
-  "collectedAt": "2026-11-13T18:07:19.982529Z",
+  "collectedAt": "2026-11-13T23:55:15.976522Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.lastampa.it/rss/copertina.xml",
   "items": [
     {
-      "title": "Manovra, il governo apre a nuovi fondi per la sanità. Saltano i tagli alla scuola",
+      "title": "Bloccati tutti i decolli negli Stati Uniti per motivi di sicurezza. Cosa sappiamo",
+      "url": "https://www.lastampa.it/esteri/2026/11/13/news/usa-guasto-faa-aeroporti-blocco-decolli-aerei-terra_hacker-15797838/",
+      "excerpt": "Un ordine straordinario di sicurezza paralizza il traffico aereo negli Stati Uniti. Gli aerei già in volo possono proseguire, mentre resta da chiarire la natura del malfunzionamento. La Faa: circostanze eccezionali. In tilt il centro che gestisce le rotte. Problemi al software o malfunzionamento dell’AI",
+      "publishedAt": "2026-11-13T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Droni sospetti sulla base Usa in Gran Bretagna, intervengono i militari americani: è allerta",
+      "url": "https://www.lastampa.it/esteri/2026/11/13/news/droni-sospetti-base-militare-usa-gran-bretagna-lakenheath-intervento-americano-15797834/",
+      "excerpt": "L'episodio a Lakenheath, nel Suffolk, dove sono schierati i caccia statunitensi. Nessun danno a persone o velivoli. Rafforzate nei giorni scorsi le misure di sicurezza nelle installazioni americane",
+      "publishedAt": "2026-11-13T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Ue, c’è l’accordo sulla mediazione per l'Ucraina: un team a 5 con Costa e von der Leyen",
+      "url": "https://www.lastampa.it/esteri/2026/11/14/diretta/guerra_russia_ucraina_news_oggi-15797901/",
+      "excerpt": "I leader dell'Unione europea hanno concordato al Consiglio informale Ue che si è concluso a Dublino che l'Europa sarà rappresentata da Gran Bretagna, Francia, Germania, Italia, Polonia e dalle ...",
+      "publishedAt": "2026-11-13T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Manovra, il governo apre a nuovi fondi per la sanità. Saltano i tagli alla scuola. La Cgil: sciopero",
       "url": "https://www.lastampa.it/economia/2026/11/13/news/manovra-2027-governo-fondi-sanita-stop-tagli-scuola-cisl-uil-15797571/",
-      "excerpt": "Dopo l'incontro a Palazzo Chigi con Cisl e Uil, Giorgetti valuta ulteriori stanziamenti per la sanità. Fumarola: «Si cercano nuove risorse». Il leader della Uil annuncia lo stop ai tagli all'istruzione",
+      "excerpt": "Dopo l'incontro a Palazzo Chigi con Cisl e Uil, Giorgetti valuta ulteriori stanziamenti per la sanità. Fumarola: «Si cercano nuove risorse». Il leader della Uil annuncia lo stop ai tagli all'istruzione. Valditara: «Bene il superamento del taglio degli organici»",
       "publishedAt": "2026-11-13T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Tasse, la Cgil lancia la sua riforma: rivedere Irpef e Irap, tassare i grandi patrimoni",
-      "url": "https://www.lastampa.it/economia/2026/11/13/news/tasse_la_cgil_lancia_la_sua_riforma_rivedere_irpef_e_irap_tassare_i_grandi_patrimoni-15797295/",
-      "excerpt": "Per il sindacato guidato da Landini tutti i redditi vanno tassati allo stesso modo. Previsto un contributo di solidarità sopra 2 milioni di euro di patrimonio per ricavare 26 miliardi di gettito",
-      "publishedAt": "2026-11-13T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "I dipendenti pubblici e il miraggio del Tfr: “Migliaia di pensionati in attesa per anni”",
-      "url": "https://www.lastampa.it/nord-ovest/2026/11/13/news/dipendenti_pubblici_tfr_pensionati_piemonte-15797197/",
-      "excerpt": "Lo stop provvisorio al pagamento immediato della liquidazione fu deciso nel 1997 dal governo Prodi per esigenze di liquidità. L’ultimatum della Corte scade nel 2027, si rischia un’ondata di ricorsi per la violazione del diritto alla giusta retribuzione",
-      "publishedAt": "2026-11-13T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Irpef, la beffa del taglio che privilegia i ricchi: “Meno tasse per l’89% dei dirigenti e l’1% degli operai”",
-      "url": "https://www.lastampa.it/economia/2026/11/13/news/allarme_upb_taglio_irpef_privilegi_ricchi-15796649/",
-      "excerpt": "L’Ufficio parlamentare di bilancio critica la misura della manovra. E ricorda che ci sono troppe disparità che possono amplificarsi a breve",
+      "title": "La Russa agli studenti: “Il fascismo lo ha voluto il popolo italiano”",
+      "url": "https://www.lastampa.it/politica/2026/11/13/news/la_russa_fascismo_popolo_studenti_democrazia-15797629/",
+      "excerpt": "Bufera sul presidente del Senato: «È un analfabeta costituzionale»",
       "publishedAt": "2026-11-13T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -60,41 +67,6 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "La frecciatina di Zelensky a Meloni. Lei: “Non ci vediamo da tanto”. Lui “Sei tu che non volevi”",
-      "url": "https://www.lastampa.it/esteri/2026/11/13/video/zelensky_meloni_frecciatina_dublino-15797254/",
-      "excerpt": "“Non ci vediamo da tanto”, dice Giorgia Meloni salutando Volodymyr Zelensky. “Sei tu che non volevi”, ribatte il presidente ucraino. Lo scambio apre il video diffuso da Zelensky dopo il bilaterale del 12 novembre a Dublino, a margine del vertice della Comunità politica europea. Nel colloquio i due hanno fatto il punto ",
-      "publishedAt": "2026-11-13T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Il pressing di Netanyahu e le mosse tra Washington e Gerusalemme",
-      "url": "https://www.lastampa.it/esteri/2026/11/13/news/iran_netanyahu_pressioni_capo_mossad_cia_usa-15797488/",
-      "excerpt": "Il capo del Mossad incontra la Cia per discutere dell’Iran, il Likud rinvia la nomina di Lieberman alla commissione Difesa. Eisenkot teme nuovi raid.",
-      "publishedAt": "2026-11-13T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Guasto globale a Microsoft: che cosa è successo e quando tornerà tutto a funzionare?",
-      "url": "https://www.lastampa.it/cronaca/2026/11/13/news/guasto_globale_microsoft_cause_tempi_ripristino_servizi-15797154/",
-      "excerpt": "L'interruzione ha colpito aziende, enti governativi e persino gli stessi dipendenti di Microsoft. Ecco cosa è successo secondo l’azienda",
-      "publishedAt": "2026-11-13T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Monica Busetto torna libera dopo oltre 10 anni. La Corte d’Appello: “Non uccise la vicina”",
-      "url": "https://www.lastampa.it/cronaca/2026/11/13/news/monica_bussetto_assolta_torna_libera_revisione_processo_iene_trento-15797331/",
-      "excerpt": "L’infermiera, in carcere dal 2012, stava scontando la condanna in via definitiva a 25 anni. Decisiva la nuova prova acquisita da un giornalista delle “Iene”",
-      "publishedAt": "2026-11-13T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Garlasco, le 24 fonti di prova della Procura di Pavia nell'udienza di Sempio",
-      "url": "https://www.lastampa.it/cronaca/2026/11/13/news/lasco_fonti_prova_procura_pavia_udienza_sempio-15797395/",
-      "excerpt": "L'elenco è contenuto nella richiesta di rinvio a giudizio per il 38enne accusato dell’omicidio di Chiara Poggi",
-      "publishedAt": "2026-11-13T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
       "title": "Allarmi bomba, ecco che cosa prevede la circolare del Viminale: dai messaggi seriali alle evacuazioni",
       "url": "https://www.lastampa.it/cronaca/2026/11/13/news/allarmi_bomba_circolare_viminale_scuole_piantedosi-15797336/",
       "excerpt": "Piantedosi stabilisce quando considerare credibili le segnalazioni e come intervenire",
@@ -109,21 +81,35 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Precipitano dal tetto di Palazzo Nuovo a Torino, gravi due writers. Bernini: “Riaprite l’ateneo”",
+      "title": "Condannate in due per lo stesso omicidio, una collanina scagiona Monica Busetto dopo 10 anni",
+      "url": "https://www.lastampa.it/cronaca/2026/11/13/news/monica_bussetto_assolta_torna_libera_revisione_processo_iene_trento-15797331/",
+      "excerpt": "La Corte d’Appello: «Non uccise la vicina». L’infermiera, in carcere dal 2012, stava scontando la condanna in via definitiva a 25 anni. Decisiva la nuova prova acquisita da un giornalista delle “Iene”",
+      "publishedAt": "2026-11-13T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Precipitano dal tetto di Palazzo Nuovo a Torino, gravi 2 writers. L’università: “Basta occupazione”",
       "url": "https://www.lastampa.it/torino/2026/11/13/news/tetto_palazzo_nuovo_writers_feriti-15797063/",
-      "excerpt": "L’incidente nella notte. I due non sono in pericolo di vita: scatta la denuncia dei carabinieri",
+      "excerpt": "L’incidente nella notte. I due non sono in pericolo di vita: scatta la denuncia. La ministra Bernini: “Riaprite subito l’Ateneo”. I vertici universitari: “Diffidiamo dall’organizzare nuove iniziative che possano aggravare le condizioni di insicurezza”",
       "publishedAt": "2026-11-13T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "“Rigettato il ricorso della famiglia del bosco”: i bambini per ora non tornano a casa",
-      "url": "https://www.lastampa.it/cronaca/2026/11/13/news/rigettato_il_ricorso_della_famiglia_del_bosco_i_bambini_restano_in_casa_famiglia-15797291/",
-      "excerpt": "La Corte abruzzese ha deciso di confermare la validità della Consulente tecnica e di convalidare l'ordinanza del Tribunale minorile",
+      "title": "“Maicol bullizzato e isolato. Voleva studiare psicologia per poter aiutare gli altri”",
+      "url": "https://www.lastampa.it/cronaca/2026/11/13/news/maicol_bullizzato_e_isolato_voleva_studiare_psicologia_per_poter_aiutare_gli_altri-15797828/",
+      "excerpt": "La mamma del 15enne suicida a Roma: «Non voglio vendetta»",
       "publishedAt": "2026-11-13T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Kimi Antonelli regala il caso a Mattarella e lo invita a Monza. Il presidente: “L'idea mi attira”",
+      "title": "Garlasco, le 24 fonti di prova della Procura di Pavia nell'udienza di Sempio",
+      "url": "https://www.lastampa.it/cronaca/2026/11/13/news/lasco_fonti_prova_procura_pavia_udienza_sempio-15797395/",
+      "excerpt": "L'elenco è contenuto nella richiesta di rinvio a giudizio per il 38enne accusato dell’omicidio di Chiara Poggi",
+      "publishedAt": "2026-11-13T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Kimi Antonelli regala il casco a Mattarella e lo invita a Monza. Il presidente: “L'idea mi attira”",
       "url": "https://www.lastampa.it/cronaca/2026/11/13/news/kimi_antonelli_oggi_al_quirinale_da_mattarella-15797438/",
       "excerpt": "Il pilota è stato accompagnato all’incontro al Quirinale dalla sua famiglia",
       "publishedAt": "2026-11-13T00:00:00Z",
@@ -151,20 +137,6 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Nvidia, Shum: “Alice Huang? Più che una spia, un ‘guanto bianco’ degli affari di Pechino”",
-      "url": "https://www.lastampa.it/esteri/2026/11/13/news/nvidia_alice_huang_cina_trump_xi-15797276/",
-      "excerpt": "L'ex insider dell'élite politico-finanziaria cinese: la vicenda «non fa bene ai rapporti Trump-Xi, limiterà ciò che Donald potrà fare con Pechino in futuro»",
-      "publishedAt": "2026-11-13T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Nvidia, quel mese fatale per Jensen Huang tra donne sexy e miliardi in chip finiti al nemico in Cina",
-      "url": "https://www.lastampa.it/esteri/2026/11/13/news/nvidia_quell_intreccio_di_aziende_tra_singapore_e_pechino_per_aggirare_le_sanzioni_sui_chip-15796657/",
-      "excerpt": "Ottobre 2023 il momento decisivo della saga. La sospetta spia Alice Huang è a Tapei (e c’è anche l’altra amante). Riconfigura l’azienda, poi ne creano un’altra. Un front terzo per lavorare con Pechino. L’intreccio di aziende tra Singapore e Pechino per aggirare le sanzioni sui chip",
-      "publishedAt": "2026-11-13T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
       "title": "Amanti e spie, come bloccare una trappola al miele? Romain Gary lo sapeva bene",
       "url": "https://www.lastampa.it/cultura/2026/11/13/news/trappola_miele_nvidia_romain_gary_giornata_mondiale_gentilezza-15796302/",
       "excerpt": "Lo scrittore francese, in un’intervista, raccontò un episodio boccaccesco accaduto a Sofia, dove i servizi segreti tentarono di ricattarlo mostrandogli la foto di un suo incontro amoroso con una affascinante spia. Reagì da grande commediante e l’ebbe vinta",
@@ -186,9 +158,9 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Rissa tra campioni di MMA: Usman arriva alle spalle di Merab e lo colpisce durante un’intervista",
-      "url": "https://www.lastampa.it/sport/2026/11/13/video/rissa_mma_usman_aggredisce_merab_dvalishvili_intervista-15797226/",
-      "excerpt": "Merab Dvalishvili, ex campione UFC dei pesi gallo, sta rilasciando un’intervista nella hall di un hotel di Abu Dhabi quando Usman Nurmagomedov, ex campione PFL dei pesi leggeri, gli si avvicina alle spalle e lo colpisce al volto. In pochi secondi la colluttazione coinvolge altre persone. Nella seconda parte del video, ",
+      "title": "Il lapsus di Papa Leone a Lima: parla italiano invece che spagnolo e strappa una risata ai fedeli",
+      "url": "https://www.lastampa.it/esteri/2026/11/13/video/papa_leone_xiv_peru_lima_errore_italiano_spagnolo-15797566/",
+      "excerpt": "Un piccolo lapsus linguistico strappa un sorriso ai fedeli riuniti davanti alla nunziatura apostolica di Lima, in Perù. Papa Leone XIV si affaccia al balcone per salutare i presenti, ma inizia a parlare in italiano anziché in spagnolo. «Un breve saluto prima di partire per la prossima tappa di questo viaggio apostolico",
       "publishedAt": "2026-11-13T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -200,6 +172,13 @@
       "dateEvidence": "feed:published"
     },
     {
+      "title": "Rissa tra campioni di MMA: Usman arriva alle spalle di Merab e lo colpisce durante un’intervista",
+      "url": "https://www.lastampa.it/sport/2026/11/13/video/rissa_mma_usman_aggredisce_merab_dvalishvili_intervista-15797226/",
+      "excerpt": "Merab Dvalishvili, ex campione UFC dei pesi gallo, sta rilasciando un’intervista nella hall di un hotel di Abu Dhabi quando Usman Nurmagomedov, ex campione PFL dei pesi leggeri, gli si avvicina alle spalle e lo colpisce al volto. In pochi secondi la colluttazione coinvolge altre persone. Nella seconda parte del video, ",
+      "publishedAt": "2026-11-13T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
       "title": "Adozioni forzate, Teresita riabbraccia 40 anni dopo i figli che le furono rubati: la storia",
       "url": "https://www.lastampa.it/esteri/2026/11/13/video/adozioni_forzate_cile_teresita_padilla_abbraccia_figli_rubati-15797095/",
       "excerpt": "Teresita Padilla si siede tra i suoi due figli, li abbraccia e bacia loro le mani. Nelle immagini girate da Reuters l’11 novembre a Santiago del Cile, la donna ritrova Tim Rolnick, 41 anni, e Travis Murdoch, 37, due dei tre figli che le furono sottratti quando erano piccoli, durante la dittatura militare di Augusto Pin",
@@ -207,10 +186,66 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Bild: “Mosca vuole la Finlandia fuori dalla Nato e la Moldavia divisa”. Il Cremlino nega",
-      "url": "https://www.lastampa.it/esteri/2026/11/13/diretta/guerra_russia_ucraina_news_oggi-15796797/",
-      "excerpt": "Kallas: «Discutere ora di sicurezza europea significa cadere nella trappola russa. Mosca vuole distogliere attenzione dal cessate il fuoco»",
-      "publishedAt": "2026-11-12T00:00:00Z",
+      "title": "La frecciatina di Zelensky a Meloni. Lei: “Non ci vediamo da tanto”. Lui “Sei tu che non volevi”",
+      "url": "https://www.lastampa.it/esteri/2026/11/13/video/zelensky_meloni_frecciatina_dublino-15797254/",
+      "excerpt": "“Non ci vediamo da tanto”, dice Giorgia Meloni salutando Volodymyr Zelensky. “Sei tu che non volevi”, ribatte il presidente ucraino. Lo scambio apre il video diffuso da Zelensky dopo il bilaterale del 12 novembre a Dublino, a margine del vertice della Comunità politica europea. Nel colloquio i due hanno fatto il punto ",
+      "publishedAt": "2026-11-13T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Nico Acampora a Myrta Confidential: \"Le classi distinte? Vannacci non sa nulla di disabilità\"",
+      "url": "https://www.lastampa.it/cronaca/2026/11/13/video/nico_acampora_a_myrta_confidential_le_classi_distinte_vannacci_non_sa_nulla_di_disabilita-15797504/",
+      "excerpt": "Replicando alle parole di Vannacci sulle classi distinte dice: “Non posso giudicarlo come generale, non voglio giudicarlo come politico, ma sicuramente dice delle cazzate enormi quando parla di disabilità. Io l’ho invitato quando ha detto questa frase, a mangiare da PizzAut, a rendersi conto di cosa fa l’inclusione, no",
+      "publishedAt": "2026-11-13T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Kallas si auto-candida per il ruolo di inviato UE, ma i leader la snobbano: “È troppo anti-russa”",
+      "url": "https://www.lastampa.it/rubriche/condominio-europa/2026/11/13/news/kallas_si_auto-candida_per_il_ruolo_di_inviato_ue_ma_i_leader_la_snobbano_e_troppo_anti-russa-15797423/",
+      "excerpt": "Da due giorni, i leader europei riuniti qui a Dublino stanno discutendo di chi li dovrebbe rappresentare al tavolo con la Russia. Alle loro spalle, una figura ha alzato la mano in più occasioni ...",
+      "publishedAt": "2026-11-13T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "La faida della Fenice: la prima salta per sciopero. Ma stavolta i veneziani scaricano l’orchestra",
+      "url": "https://www.lastampa.it/cronaca/2026/11/13/news/la_faida_della_fenice_la_prima_salta_per_sciopero_ma_stavolta_i_veneziani_scaricano_l_orchestra-15796830/",
+      "excerpt": "Ennesima protesta al teatro di Venezia. E gli abbonati protestano: «Si potevano trovare altre soluzioni»",
+      "publishedAt": "2026-11-13T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Arriva l’atlante dei geni del tumore del cane: “Ci aiuterà a comprendere anche quelli umani”",
+      "url": "https://www.lastampa.it/scienza/2026/11/13/news/atlante_geni_tumori_cani_studio_universita_torino_luca_aresu-15796040/",
+      "excerpt": "Luca Aresu, coordinatore del Canine Comparative Oncology Lab dell’Università di Torino, spiega i risvolti del suo studio",
+      "publishedAt": "2026-11-13T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Nuovo collegamento Aosta-Milano, dall’estate 2027 otto treni a settimana",
+      "url": "https://www.lastampa.it/aosta/2026/11/13/news/aosta-milano_ferrovia_trasporti-15796457/",
+      "excerpt": "Definiti i dettagli del nuovo servizio sperimentale che partirà con la riapertura della ferrovia. Entra in gioco anche il Piemonte nel test sulla tratta lombarda. Giovedì prossimo la firma a Milano",
+      "publishedAt": "2026-11-13T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Femminicidio di Roua Nabi, ergastolo definitivo per l'ex. La madre: “Ora la verità sul braccialetto”",
+      "url": "https://www.lastampa.it/torino/2026/11/12/news/femminicidio_roua_nabi_cassazione_ergastolo-15796682/",
+      "excerpt": "La famiglia della donna: «Causa civile contro il governo: spieghi perché non funzionò»",
+      "publishedAt": "2026-11-13T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Padre e figlio intossicati dal monossido in casa a Guarene: indagati i tecnici della caldaia",
+      "url": "https://www.lastampa.it/cuneo/2026/11/13/news/tre_indagati_per_la_tragedia_di_guarene-15796462/",
+      "excerpt": "La tragedia a gennaio: Paolo Foglino e il figlio Francesco di 17 anni morirono nel sonno nella loro abitazione di frazione Castelrotto",
+      "publishedAt": "2026-11-13T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "TorinoSette, Piovono palline sulla città",
+      "url": "https://www.lastampa.it/torino/2026/11/13/video/torinosette_piovono_palline_sulla_citta-15797123/",
+      "excerpt": "Le Nitto Atp Finals occupano l’Inalpi Arena con gli otto giganti del tennis mondiale e le piazze del centro con le iniziative che abbracciano l’evento sportivo: a Casa Tennis i talk con Carolina Morace, Matteo Giunta e Nicolò Martinenghi, Larissa Iapichino e numerosi altri protagonisti. E poi mostre, cibo, dj set sul t",
+      "publishedAt": "2026-11-13T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
@@ -254,20 +289,6 @@
       "excerpt": "William, 17 anni, era scomparso il 6 novembre durante un campeggio con un amico nella boscaglia dello Stato di Victoria, circa 180 chilometri a est di Melbourne. Sei giorni dopo, l’equipaggio di un elicottero della polizia ha avvistato una scatola da pesca e, poco distante, il ragazzo disteso su una roccia accanto a un",
       "publishedAt": "2026-11-12T00:00:00Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "COP31, la parola ai giovani: cosa chiedete ai leader del mondo?",
-      "url": "https://www.lastampa.it/esteri/2026/11/12/news/cop31_giovani_richieste_leader_clima-15795606/",
-      "excerpt": "Se aveste due minuti davanti ai leader mondiali riuniti per discutere di cambiamento climatico, che cosa direste loro? È la domanda che vogliamo rivolgere alle ragazze ...",
-      "publishedAt": "2026-11-12T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Sentono un neonato piangere sotto terra: era stato sepolto vivo in una gabbia per cani",
-      "url": "https://www.lastampa.it/esteri/2026/11/11/video/south-carolina-neonato-sepolto-vivo-gabbia-cani-salvato-15795136/",
-      "excerpt": "L’allarme è scattato lunedì quando la nonna del piccolo Koah Sharpe, che lo aveva affidato temporaneamente al padre Michael Comer, ha scoperto che entrambi erano scomparsi prima dell’arrivo di un’altra persona incaricata di accudirlo. Alcune telecamere hanno poi ripreso Comer mentre si spostava nella contea di Lexingto",
-      "publishedAt": "2026-11-11T00:00:00Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -281,5 +302,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 0.84
+  "durationSeconds": 0.97
 }

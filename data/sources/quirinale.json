@@ -4,7 +4,7 @@
   "sourceId": "quirinale",
   "originUrl": "https://www.quirinale.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-13T18:07:47.012341Z",
+  "collectedAt": "2026-11-13T23:55:38.558265Z",
   "status": "blocked",
   "diagnosticCode": "access_restricted",
   "method": "html",
@@ -24,6 +24,10 @@
       "status": 200
     },
     {
+      "url": "https://www.quirinale.it/it/notizie/mattarella-ha-ricevuto-campione-mondo-formula-1-kimi-antonelli",
+      "status": 200
+    },
+    {
       "url": "https://www.quirinale.it/it/notizie/mattarella-promulga-legge-recante-disposizioni-materia-protezione-civile-invia-lettera-presidenti-camere-presidente-consiglio-ministri",
       "status": 200
     },
@@ -33,10 +37,6 @@
     },
     {
       "url": "https://www.quirinale.it/it/notizie/23-anniversario-strage-nassiriya-messaggio-presidente-mattarella",
-      "status": 200
-    },
-    {
-      "url": "https://www.quirinale.it/it/notizie/mattarella-incontra-magistrati-ordinari-tirocinio-nominati-decreto-ministeriale-3-settembre-2025",
       "status": 200
     },
     {
@@ -118,6 +118,21 @@
       ]
     },
     {
+      "url": "https://www.quirinale.it/it/notizie/mattarella-ha-ricevuto-campione-mondo-formula-1-kimi-antonelli",
+      "title": "Il Presidente Sergio Mattarella con Kimi Antonelli, Campione del mondo di Formula 1",
+      "h1": "Mattarella ha ricevuto il Campione del mondo di Formula 1, Kimi Antonelli",
+      "dates": [
+        {
+          "tag": "p",
+          "class": [
+            "date-label"
+          ],
+          "text": "Roma, 13/11/2026 (II mandato)",
+          "datetime": null
+        }
+      ]
+    },
+    {
       "url": "https://www.quirinale.it/it/notizie/mattarella-promulga-legge-recante-disposizioni-materia-protezione-civile-invia-lettera-presidenti-camere-presidente-consiglio-ministri",
       "title": "(foto d'archivio)",
       "h1": "Mattarella promulga la legge recante Disposizioni in materia di protezione civile e invia una lettera ai Presidenti delle Camere e al Presidente del C",
@@ -163,29 +178,6 @@
       ]
     },
     {
-      "url": "https://www.quirinale.it/it/notizie/mattarella-incontra-magistrati-ordinari-tirocinio-nominati-decreto-ministeriale-3-settembre-2025",
-      "title": "Il Presidente Sergio Mattarella saluta i Magistrati ordinari in tirocinio nominati con D.M. 03 settembre 2025",
-      "h1": "Mattarella incontra i magistrati ordinari in tirocinio nominati con decreto ministeriale del 3 settembre 2025",
-      "dates": [
-        {
-          "tag": "span",
-          "class": [
-            "data-luogo"
-          ],
-          "text": "Palazzo del Quirinale, 10/11/2026",
-          "datetime": null
-        },
-        {
-          "tag": "p",
-          "class": [
-            "date-label"
-          ],
-          "text": "Roma, 10/11/2026 (II mandato)",
-          "datetime": null
-        }
-      ]
-    },
-    {
       "url": "https://www.quirinale.it/it/notizie/nostra-repubblica-compie-ottant-anni-1",
       "title": "I Volti della Repubblica",
       "h1": "La nostra Repubblica compie Ottant’anni",
@@ -204,5 +196,5 @@
   "candidateCount": 12,
   "datedCount": 0,
   "listingUrl": "https://www.quirinale.it/",
-  "durationSeconds": 4.23
+  "durationSeconds": 3.91
 }

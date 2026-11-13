@@ -4,12 +4,19 @@
   "sourceId": "palazzo-chigi",
   "originUrl": "https://www.governo.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-13T18:07:30.996869Z",
+  "collectedAt": "2026-11-13T23:55:27.407243Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.governo.it/feed/rss",
   "items": [
+    {
+      "title": "Il Sottosegretario Mantovano alla presentazione del libro \"Cannabis. Il grande inganno\"",
+      "url": "https://www.governo.it/it/articolo/il-sottosegretario-mantovano-alla-presentazione-del-libro-cannabis-il-grande-inganno/33117",
+      "excerpt": "Il Sottosegretario alla Presidenza del Consiglio, Alfredo Mantovano, è intervenuto oggi a Roma, al Centro Studi Americani, alla presentazione del libro \"Cannabis. Il grande inganno\" del neurologo Rosario Sorrentino e della psicoterapeuta Francesca Weihs (Aliberti).",
+      "publishedAt": "2026-11-13T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "Legge di Bilancio 2027, a Palazzo Chigi il tavolo di confronto tra Governo e parti sociali",
       "url": "https://www.governo.it/it/articolo/legge-di-bilancio-2027-palazzo-chigi-il-tavolo-di-confronto-tra-governo-e-parti-sociali",
@@ -29,6 +36,13 @@
       "url": "https://www.governo.it/it/articolo/dichiarazione-congiunta-sul-contrasto-all-immigrazione-illegale/33107",
       "excerpt": "In occasione del Vertice della Comunità Politica Europea, 41 Leader europei hanno aderito a una dichiarazione congiunta sul contrasto all’immigrazione irregolare, promossa da Italia, Regno Unito e Danimarca. La dichiarazione dà seguito alle analoghe iniziative promosse in occasione dei Vertici di Copenaghen (ottobre 20",
       "publishedAt": "2026-11-13T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Incontro con i leader delle forze di opposizione sugli allarmi bomba nelle scuole",
+      "url": "https://www.governo.it/it/articolo/incontro-con-i-leader-delle-forze-di-opposizione-sugli-allarmi-bomba-nelle-scuole/33119",
+      "excerpt": "Il Presidente del Consiglio, Giorgia Meloni, ha invitato a Palazzo Chigi i leader delle forze di opposizione. La riunione è stata l’occasione per condividere le informazioni disponibili e fare il punto sul complesso quadro degli allarmi e delle segnalazioni registrati negli ultimi giorni, anche in relazione alle attivi",
+      "publishedAt": "2026-11-12T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
@@ -65,20 +79,6 @@
       "excerpt": "L’intesa raggiunta questa mattina tra le parti sociali sulla qualità del lavoro e sulla rappresentanza segna un traguardo storico per innovare le relazioni sindacali e industriali in Italia. È un passo decisivo, per rafforzare le retribuzioni dei lavoratori e per rendere il nostro sistema economico e produttivo più com",
       "publishedAt": "2026-11-12T00:00:00Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Definizione del protocollo operativo comune per la gestione delle segnalazioni di allarme",
-      "url": "https://www.governo.it/it/articolo/definizione-del-protocollo-operativo-comune-la-gestione-delle-segnalazioni-di-allarme/33090",
-      "excerpt": "Nel corso della riunione del Comitato interministeriale per la sicurezza della Repubblica (CISR), convocato per oggi pomeriggio a livello tecnico, sarà definito un protocollo operativo comune per la gestione delle segnalazioni di allarme.",
-      "publishedAt": "2026-11-12T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Vertice della Comunità Politica Europea",
-      "url": "https://www.governo.it/it/articolo/vertice-della-comunit-politica-europea/33089",
-      "excerpt": "Il Presidente del Consiglio, Giorgia Meloni, ha partecipato al nono Vertice della Comunità Politica Europea (CPE), ospitato dall’Irlanda a Dublino.",
-      "publishedAt": "2026-11-12T00:00:00Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -100,5 +100,5 @@
     }
   ],
   "message": "Feed dichiarato dalla fonte; date di pubblicazione verificate.",
-  "durationSeconds": 30.12
+  "durationSeconds": 30.14
 }
