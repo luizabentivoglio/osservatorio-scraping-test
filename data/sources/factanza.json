@@ -4,7 +4,7 @@
   "sourceId": "factanza",
   "originUrl": "https://weeklypills.substack.com/",
   "configuredFeedUrl": "https://weeklypills.substack.com/feed",
-  "collectedAt": "2026-11-13T23:55:01.479214Z",
+  "collectedAt": "2026-11-14T09:28:13.819659Z",
   "status": "blocked",
   "diagnosticCode": "access_restricted",
   "method": "html",
@@ -19,5 +19,5 @@
   "message": "HTTP 403: accesso limitato dalla fonte",
   "httpStatus": 403,
   "failedUrl": "https://weeklypills.substack.com/robots.txt",
-  "durationSeconds": 0.08
+  "durationSeconds": 0.11
 }

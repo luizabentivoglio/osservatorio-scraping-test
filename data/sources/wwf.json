@@ -4,7 +4,7 @@
   "sourceId": "wwf",
   "originUrl": "https://www.wwf.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-13T23:55:47.198222Z",
+  "collectedAt": "2026-11-14T09:28:56.915739Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -15,41 +15,6 @@
       "url": "https://www.wwf.it/pandanews/animali/litalia-ripudia-la-pdl-caccia-il-26-novembre-a-roma-il-presidio-delle-associazioni/",
       "excerpt": "Appuntamento alle ore 9.30 in Piazza Capranica, nei pressi della Camera dei Deputati, contro la proposta di legge \"Sparatutto\"",
       "publishedAt": "2026-11-13T15:43:21Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Il WWF MedFilm Award per un corto egiziano e un documentario italiano",
-      "url": "https://www.wwf.it/pandanews/ambiente/il-wwf-medfilm-award-per-un-corto-egiziano-e-un-documentario-italiano/",
-      "excerpt": "Le due opere raccontano le coste sarde assaltate dal consumismo balneare e il rapporto uomo-animale, metafora del nostro legame con la Natura",
-      "publishedAt": "2026-11-13T14:20:18Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Traffico di fauna selvatica, svolta storica Onu",
-      "url": "https://www.wwf.it/pandanews/animali/traffico-fauna-selvatica-svolta-storica-onu/",
-      "excerpt": "15 novembre è la Giornata internazionale per la prevenzione e il contrasto di ogni forma di criminalità organizzata transnazionale",
-      "publishedAt": "2026-11-13T12:18:52Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Cosa accade alla COP31 giorno per giorno",
-      "url": "https://www.wwf.it/pandanews/clima/cosa-accade-alla-cop31-giorno-per-giorno/",
-      "excerpt": "Dal 9 al 21 novembre è in corso ad Antalya il più importante evento per la lotta alla crisi climatica. Qui il nostro racconto giornaliero",
-      "publishedAt": "2026-11-13T10:34:00Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "COP31, l’Italia assente al vertice dei leader e in ritardo sul clima",
-      "url": "https://www.wwf.it/pandanews/clima/cop31-litalia-assente-al-vertice-dei-leader-e-in-ritardo-sul-clima/",
-      "excerpt": "Antonio Tajani, ha annullato il suo viaggio. Un segnale politico preoccupante che si aggiunge ai ritardi nelle politiche nazionali",
-      "publishedAt": "2026-11-12T15:02:00Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Donne e pesca: dare voce a chi, nonostante le difficoltà, già contribuisce al settore",
-      "url": "https://www.wwf.it/pandanews/societa/donne-e-pesca-dare-voce-a-chi-nonostante-le-difficolta-gia-contribuisce-al-settore/",
-      "excerpt": "Dal lavoro nelle comunità costiere alla costruzione di una rete mediterranea di pescatrici: l'impegno del WWF per il ruolo delle donne",
-      "publishedAt": "2026-11-12T10:00:00Z",
       "dateEvidence": "jsonld:datePublished"
     }
   ],
@@ -68,29 +33,51 @@
     },
     {
       "url": "https://www.wwf.it/pandanews/ambiente/il-wwf-medfilm-award-per-un-corto-egiziano-e-un-documentario-italiano/",
-      "status": 200
+      "status": 503
     },
     {
       "url": "https://www.wwf.it/pandanews/animali/traffico-fauna-selvatica-svolta-storica-onu/",
-      "status": 200
+      "status": 503
     },
     {
       "url": "https://www.wwf.it/pandanews/clima/cosa-accade-alla-cop31-giorno-per-giorno/",
-      "status": 200
+      "status": 503
     },
     {
       "url": "https://www.wwf.it/pandanews/clima/cop31-litalia-assente-al-vertice-dei-leader-e-in-ritardo-sul-clima/",
-      "status": 200
+      "status": 503
     },
     {
       "url": "https://www.wwf.it/pandanews/societa/donne-e-pesca-dare-voce-a-chi-nonostante-le-difficolta-gia-contribuisce-al-settore/",
-      "status": 200
+      "status": 503
     }
   ],
-  "message": "6 notizie recenti con data verificata; copertura parziale.",
+  "message": "1 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [],
   "candidateCount": 12,
-  "datedCount": 6,
+  "datedCount": 1,
   "listingUrl": "https://www.wwf.it/",
-  "durationSeconds": 5.57
+  "durationSeconds": 5.65,
+  "attemptErrors": [
+    {
+      "url": "https://www.wwf.it/pandanews/ambiente/il-wwf-medfilm-award-per-un-corto-egiziano-e-un-documentario-italiano/",
+      "code": "http_error"
+    },
+    {
+      "url": "https://www.wwf.it/pandanews/animali/traffico-fauna-selvatica-svolta-storica-onu/",
+      "code": "http_error"
+    },
+    {
+      "url": "https://www.wwf.it/pandanews/clima/cosa-accade-alla-cop31-giorno-per-giorno/",
+      "code": "http_error"
+    },
+    {
+      "url": "https://www.wwf.it/pandanews/clima/cop31-litalia-assente-al-vertice-dei-leader-e-in-ritardo-sul-clima/",
+      "code": "http_error"
+    },
+    {
+      "url": "https://www.wwf.it/pandanews/societa/donne-e-pesca-dare-voce-a-chi-nonostante-le-difficolta-gia-contribuisce-al-settore/",
+      "code": "http_error"
+    }
+  ]
 }

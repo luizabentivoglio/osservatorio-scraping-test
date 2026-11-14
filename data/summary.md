@@ -6,10 +6,10 @@
 | ap-news | blocked | html | 0 | access_restricted |
 | azione | blocked | html | 0 | access_restricted |
 | banca-italia | blocked | html | 0 | robots_disallowed |
-| breaking-italy | ok | trafilatura | 4 | — |
+| breaking-italy | ok | trafilatura | 1 | — |
 | camera | ok | trafilatura | 6 | — |
 | cisl | blocked | html | 0 | robots_disallowed |
-| cnr | ok | rss | 20 | — |
+| cnr | error | html | 0 | connection_error |
 | coldiretti | ok | trafilatura | 5 | — |
 | commissione-europea | ok | trafilatura | 1 | — |
 | comune-bollate | ok | trafilatura | 6 | — |
@@ -46,7 +46,7 @@
 | la-stampa | ok | rss | 40 | — |
 | legambiente | ok | trafilatura | 0 | — |
 | libera | ok | html | 1 | — |
-| mef | ok | trafilatura | 3 | — |
+| mef | ok | trafilatura | 4 | — |
 | msf | ok | trafilatura | 6 | — |
 | osservatorio-cpi | ok | trafilatura | 6 | — |
 | oxfam | ok | trafilatura | 4 | — |
@@ -68,6 +68,6 @@
 | sud-chiama-nord | blocked | html | 0 | access_restricted |
 | svp | ok | trafilatura | 0 | — |
 | tgr-lombardia | no_feed | crawl4ai | 0 | parsing_error |
-| wwf | ok | trafilatura | 6 | — |
+| wwf | ok | trafilatura | 1 | — |
 
 Le date sono verificate nei feed o nei metadati di pubblicazione dei singoli articoli. Nessun dato personale dell’archivio è letto o pubblicato.

@@ -4,7 +4,7 @@
   "sourceId": "quirinale",
   "originUrl": "https://www.quirinale.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-13T23:55:38.558265Z",
+  "collectedAt": "2026-11-14T09:28:48.660298Z",
   "status": "blocked",
   "diagnosticCode": "access_restricted",
   "method": "html",
@@ -42,9 +42,13 @@
     {
       "url": "https://www.quirinale.it/it/notizie/nostra-repubblica-compie-ottant-anni-1",
       "status": 200
+    },
+    {
+      "url": "https://www.quirinale.it/it/notizie/mattarella-inaugura-mostra-ispirazione-europa-italia-germania-pittura-scultura-ottocento-novecento-canova-kiefer",
+      "status": 200
     }
   ],
-  "message": "Verifica interattiva richiesta",
+  "message": "Browser HTTP 403",
   "candidateSamples": [
     {
       "url": "https://www.quirinale.it/it/notizie/mattarella-inaugura-mostra-ispirazione-europa-italia-germania-pittura-scultura-ottocento-novecento-canova-kiefer",
@@ -196,5 +200,5 @@
   "candidateCount": 12,
   "datedCount": 0,
   "listingUrl": "https://www.quirinale.it/",
-  "durationSeconds": 3.91
+  "durationSeconds": 4.1
 }

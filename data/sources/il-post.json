@@ -4,52 +4,52 @@
   "sourceId": "il-post",
   "originUrl": "https://www.ilpost.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-13T23:55:12.791210Z",
+  "collectedAt": "2026-11-14T09:28:23.501708Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
-      "title": "Gli Stati Uniti hanno bloccato tutti i voli in partenza",
-      "url": "https://www.ilpost.it/2026/11/13/faa-ordine-blocco-voli/?homepagePosition=0",
-      "excerpt": "Lo ha ordinato l'agenzia federale dell'aviazione civile, citando una «temporanea interruzione delle telecomunicazioni»",
-      "publishedAt": "2026-11-13T20:28:59Z",
+      "title": "Il comico e autore inglese David Walliams è indagato per violenze sessuali",
+      "url": "https://www.ilpost.it/2026/11/14/david-walliams-indagato-violenze-sessuali/?bitPosition=1",
+      "excerpt": "Il comico e autore inglese David Walliams è indagato per violenze sessuali Il comico e autore inglese David Walliams è indagato dalla polizia di Londra per violenze sessuali. Walliams ha 55 anni ed è molto noto nel Regno Unito perché è stato giudice del programma Britain’s Got Talent e per i molti libri per bambini che",
+      "publishedAt": "2026-11-14T08:07:54Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "Gli Stati Uniti hanno detto di aver risposto all’attività sospetta di un drone in una base britannica",
+      "url": "https://www.ilpost.it/2026/11/14/stati-uniti-drone-raf-lakenheath/?bitPosition=2",
+      "excerpt": "Gli Stati Uniti hanno detto di aver risposto all’attività sospetta di un drone in una base britannica Venerdì sera le forze armate degli Stati Uniti hanno detto di aver risposto alla «presunta attività non autorizzata di un drone» nella base RAF di Lakenheath, una base dell’aeronautica militare britannica nel Suffolk, ",
+      "publishedAt": "2026-11-14T05:56:03Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "Cos’è successo col blocco dei voli negli Stati Uniti",
+      "url": "https://www.ilpost.it/2026/11/14/voli-stati-uniti-ripresi/?homepagePosition=0",
+      "excerpt": "È durato quattro ore: il segretario dei Trasporti ha dato la colpa a sistemi obsoleti e a un ritardo dei finanziamenti pubblici",
+      "publishedAt": "2026-11-14T04:33:17Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
       "title": "La società proprietaria di Tinder è stata multata per 11 milioni di euro per violazione delle norme europee sulla privacy",
-      "url": "https://www.ilpost.it/2026/11/13/tinder-multa-privacy/?bitPosition=1",
+      "url": "https://www.ilpost.it/2026/11/13/tinder-multa-privacy/?bitPosition=3",
       "excerpt": "La società proprietaria di Tinder è stata multata per 11 milioni di euro per violazione delle norme europee sulla privacy La società proprietaria dell’app di dating Tinder, Match Group, ha ricevuto una multa da 11 milioni di euro dall’ente per la protezione della privacy irlandese per non aver fornito agli utenti che l",
       "publishedAt": "2026-11-13T19:10:16Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
       "title": "Alla stazione di Roma Termini dei problemi alla circolazione dei treni hanno causato ritardi fino a 90 minuti",
-      "url": "https://www.ilpost.it/2026/11/13/treni-problemi-roma-termini/?bitPosition=2",
+      "url": "https://www.ilpost.it/2026/11/13/treni-problemi-roma-termini/?bitPosition=4",
       "excerpt": "Alla stazione di Roma Termini dei problemi alla circolazione dei treni hanno causato ritardi fino a 90 minuti Venerdì pomeriggio alla stazione ferroviaria di Roma Termini ci sono stati problemi alla circolazione dei treni, che hanno causato ritardi fino a 90 minuti. RFI, la società del gruppo Ferrovie dello Stato che g",
       "publishedAt": "2026-11-13T16:31:30Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
       "title": "Nel 2027 il comune di Milano dovrà dimezzare la tassa di soggiorno e prevede di incassare 50 milioni in meno",
-      "url": "https://www.ilpost.it/2026/11/13/milano-tassa-soggiorno/?bitPosition=3",
+      "url": "https://www.ilpost.it/2026/11/13/milano-tassa-soggiorno/?bitPosition=5",
       "excerpt": "Nel 2027 il comune di Milano dovrà dimezzare la tassa di soggiorno e prevede di incassare 50 milioni in meno Il comune di Milano ha stabilito che nel 2027 le tariffe per la tassa di soggiorno (la piccola imposta che deve pagare chi soggiorna in una struttura ricettiva di una città) saranno molto più basse rispetto agli",
       "publishedAt": "2026-11-13T15:47:24Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "La Corte d’appello dell’Aquila ha confermato che i figli della “famiglia nel bosco” non possono tornare subito a casa",
-      "url": "https://www.ilpost.it/2026/11/13/famiglia-nel-bosco-respinto-ricorso-genitori/?bitPosition=4",
-      "excerpt": "La Corte d’appello dell’Aquila ha confermato che i figli della “famiglia nel bosco” non possono tornare subito a casa La Corte d’appello dell’Aquila ha respinto il ricorso presentato dai genitori della cosiddetta “famiglia nel bosco” contro la sentenza che a settembre aveva stabilito che i tre figli non sarebbero potut",
-      "publishedAt": "2026-11-13T12:46:07Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Mauricio Pochettino è il nuovo allenatore del Manchester United, e smetterà di allenare gli Stati Uniti",
-      "url": "https://www.ilpost.it/2026/11/13/mauricio-pochettino-allenatore-manchester-united-lascia-stati-uniti/?bitPosition=5",
-      "excerpt": "Mauricio Pochettino è il nuovo allenatore del Manchester United, e smetterà di allenare gli Stati Uniti L’allenatore Mauricio Pochettino lascerà il suo incarico nella nazionale maschile degli Stati Uniti per diventare il nuovo allenatore del Manchester United, che giovedì aveva esonerato Michael Carrick. Pochettino div",
-      "publishedAt": "2026-11-13T11:09:32Z",
       "dateEvidence": "jsonld:datePublished"
     }
   ],
@@ -63,27 +63,27 @@
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/13/faa-ordine-blocco-voli/?homepagePosition=0",
+      "url": "https://www.ilpost.it/2026/11/14/voli-stati-uniti-ripresi/?homepagePosition=0",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/13/tinder-multa-privacy/?bitPosition=1",
+      "url": "https://www.ilpost.it/2026/11/14/david-walliams-indagato-violenze-sessuali/?bitPosition=1",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/13/treni-problemi-roma-termini/?bitPosition=2",
+      "url": "https://www.ilpost.it/2026/11/14/stati-uniti-drone-raf-lakenheath/?bitPosition=2",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/13/milano-tassa-soggiorno/?bitPosition=3",
+      "url": "https://www.ilpost.it/2026/11/13/tinder-multa-privacy/?bitPosition=3",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/13/famiglia-nel-bosco-respinto-ricorso-genitori/?bitPosition=4",
+      "url": "https://www.ilpost.it/2026/11/13/treni-problemi-roma-termini/?bitPosition=4",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/13/mauricio-pochettino-allenatore-manchester-united-lascia-stati-uniti/?bitPosition=5",
+      "url": "https://www.ilpost.it/2026/11/13/milano-tassa-soggiorno/?bitPosition=5",
       "status": 200
     }
   ],
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.ilpost.it/",
-  "durationSeconds": 3.55
+  "durationSeconds": 3.63
 }

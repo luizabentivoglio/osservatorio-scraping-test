@@ -4,7 +4,7 @@
   "sourceId": "breaking-italy",
   "originUrl": "https://breakingitaly.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-13T23:54:33.032093Z",
+  "collectedAt": "2026-11-14T09:27:47.299097Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -15,27 +15,6 @@
       "url": "https://breakingitaly.it/newsletter/jensen-huang-ha-rassegnato-le-dimissioni-da-nvidia",
       "excerpt": "Jensen Huang ha rassegnato le dimissioni da Nvidia",
       "publishedAt": "2026-11-13T00:00:00Z",
-      "dateEvidence": "html:newsletter-publication"
-    },
-    {
-      "title": "Il Mississippi ha eletto al Senato Scott Colom, il suo primo senatore afroamericano da più di cent’anni",
-      "url": "https://breakingitaly.it/newsletter/il-mississippi-ha-eletto-al-senato-scott-colom-primo-senatore-afroamericano-da-piu-di-centanni",
-      "excerpt": "Il Mississippi ha eletto al Senato Scott Colom, il suo primo senatore afroamericano da più di cent’anni",
-      "publishedAt": "2026-11-12T00:00:00Z",
-      "dateEvidence": "html:newsletter-publication"
-    },
-    {
-      "title": "La Procura di Milano ha chiesto l’archiviazione per Beppe Sala",
-      "url": "https://breakingitaly.it/newsletter/la-procura-di-milano-ha-chiesto-larchiviazione-per-beppe-sala",
-      "excerpt": "La Procura di Milano ha chiesto l’archiviazione per Beppe Sala",
-      "publishedAt": "2026-11-11T00:00:00Z",
-      "dateEvidence": "html:newsletter-publication"
-    },
-    {
-      "title": "È stato chiesto l'impeachment per il segretario statunitense alla Difesa Pete Hegseth",
-      "url": "https://breakingitaly.it/newsletter/e-stato-chiesto-limpeachment-per-il-segretario-statunitense-alla-difesa-pete-hegseth",
-      "excerpt": "È stato chiesto l'impeachment per il segretario statunitense alla Difesa Pete Hegseth",
-      "publishedAt": "2026-11-10T00:00:00Z",
       "dateEvidence": "html:newsletter-publication"
     }
   ],
@@ -49,11 +28,7 @@
       "status": 200
     },
     {
-      "url": "https://breakingitaly.it/breaking-italy",
-      "status": 200
-    },
-    {
-      "url": "https://breakingitaly.it/breaking-italy/allarmi-bomba-in-italia-che-succede-e-soprattutto-che-si-fa",
+      "url": "https://breakingitaly.it/feed",
       "status": 200
     },
     {
@@ -61,35 +36,65 @@
       "status": 200
     },
     {
-      "url": "https://breakingitaly.it/newsletter/il-mississippi-ha-eletto-al-senato-scott-colom-primo-senatore-afroamericano-da-piu-di-centanni",
+      "url": "https://breakingitaly.it/ventiquaranta-stati-uniti",
       "status": 200
     },
     {
-      "url": "https://breakingitaly.it/newsletter/la-procura-di-milano-ha-chiesto-larchiviazione-per-beppe-sala",
+      "url": "https://breakingitaly.it/lavora-con-noi",
       "status": 200
     },
     {
-      "url": "https://breakingitaly.it/newsletter/e-stato-chiesto-limpeachment-per-il-segretario-statunitense-alla-difesa-pete-hegseth",
+      "url": "https://breakingitaly.it/diventa-partner",
+      "status": 200
+    },
+    {
+      "url": "https://breakingitaly.it/privacy-policy",
+      "status": 200
+    },
+    {
+      "url": "https://breakingitaly.it/condizioni",
+      "status": 307
+    },
+    {
+      "url": "https://breakingitaly.it/condizioni-new",
       "status": 200
     }
   ],
-  "message": "4 notizie recenti con data verificata; copertura parziale.",
+  "message": "1 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [
     {
-      "url": "https://breakingitaly.it/breaking-italy",
-      "title": "Breaking Italy",
+      "url": "https://breakingitaly.it/ventiquaranta-stati-uniti",
+      "title": "VentiQuaranta",
       "h1": null,
       "dates": []
     },
     {
-      "url": "https://breakingitaly.it/breaking-italy/allarmi-bomba-in-italia-che-succede-e-soprattutto-che-si-fa",
-      "title": "Allarmi bomba in Italia: che succede? E soprattutto, che si fa?",
+      "url": "https://breakingitaly.it/lavora-con-noi",
+      "title": "Lavora con noi",
       "h1": null,
+      "dates": []
+    },
+    {
+      "url": "https://breakingitaly.it/diventa-partner",
+      "title": "Diventa partner",
+      "h1": null,
+      "dates": []
+    },
+    {
+      "url": "https://breakingitaly.it/privacy-policy",
+      "title": "Privacy Policy",
+      "h1": "INFORMATIVA SUL TRATTAMENTO DEI DATI PERSONALI",
+      "dates": []
+    },
+    {
+      "url": "https://breakingitaly.it/condizioni-new",
+      "title": "Termini e condizioni",
+      "h1": "TERMINI E CONDIZIONI DEL SERVIZIO",
       "dates": []
     }
   ],
   "candidateCount": 12,
-  "datedCount": 4,
+  "datedCount": 1,
   "listingUrl": "https://breakingitaly.it/",
-  "durationSeconds": 4.17
+  "durationSeconds": 5.21
 }

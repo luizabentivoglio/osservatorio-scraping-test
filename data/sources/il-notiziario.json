@@ -4,12 +4,26 @@
   "sourceId": "il-notiziario",
   "originUrl": "https://www.ilnotiziario.net/",
   "configuredFeedUrl": "https://www.ilnotiziario.net/feed/",
-  "collectedAt": "2026-11-13T23:55:12.754491Z",
+  "collectedAt": "2026-11-14T09:28:22.991249Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.ilnotiziario.net/feed/",
   "items": [
+    {
+      "title": "Senza assicurazione e con la patente falsa",
+      "url": "https://www.ilnotiziario.net/senza-assicurazione-e-con-la-patente-falsa/",
+      "excerpt": "Un normale posto di blocco lungo la strada statale del Sempione sul territorio di Pogliano ha permesso alla Polizia Locale del...",
+      "publishedAt": "2026-11-14T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Rho, due caserme di Carabinieri e Finanza e parcheggio di 9 piani",
+      "url": "https://www.ilnotiziario.net/rho-due-caserme-di-carabinieri-e-finanza-e-parcheggio-di-9-piani/",
+      "excerpt": "Rho, due caserme di Carabinieri e Finanza e parcheggio di 9 piani. Due caserme di Carabinieri e Guardia di Finanza e un...",
+      "publishedAt": "2026-11-14T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "Milano-Meda gratis con Pedemontana? Ecco la possibile soluzione",
       "url": "https://www.ilnotiziario.net/milano-meda-gratis-con-pedemontana-ecco-la-possibile-soluzione/",
@@ -100,20 +114,6 @@
       "excerpt": "E’ deciso: delle casette dell’acqua di Caronno non potranno più servirsi i non residenti. A breve ci si potrà rifornire solo con...",
       "publishedAt": "2026-11-12T00:00:00Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Desio, fugge dai carabinieri con la cocaina, arrestato 31enne",
-      "url": "https://www.ilnotiziario.net/desio-fugge-dai-carabinieri-con-la-cocaina-arrestato-31enne/",
-      "excerpt": "Desio, fugge dai carabinieri con la cocaina, arrestato 31enne Ha cercato di scappare alla vista dei carabinieri, lanciando un...",
-      "publishedAt": "2026-11-12T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Cesate, incidente sul confine con Solaro, Suv esce di strada e abbatte palo della luce",
-      "url": "https://www.ilnotiziario.net/cesate-incidente-sul-confine-con-solaro-suv-esce-di-strada-e-abbatte-palo-della-luce/",
-      "excerpt": "A Cesate un incidente stradale sul confine con Solaro dove un Suv è uscito di strada e ha abbattuto un palo della luce. Paura nel...",
-      "publishedAt": "2026-11-12T00:00:00Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -127,5 +127,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 2.19
+  "durationSeconds": 1.52
 }
