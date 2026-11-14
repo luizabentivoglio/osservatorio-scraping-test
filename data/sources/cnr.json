@@ -4,21 +4,163 @@
   "sourceId": "cnr",
   "originUrl": "https://www.cnr.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-14T09:27:57.870606Z",
-  "status": "error",
-  "diagnosticCode": "connection_error",
-  "method": "html",
-  "feedUrl": null,
-  "items": [],
-  "attempts": [],
-  "message": "SSLError",
-  "httpStatus": null,
-  "failedUrl": "https://www.cnr.it/robots.txt",
-  "durationSeconds": 0.98,
-  "attemptErrors": [
+  "collectedAt": "2026-11-14T16:44:51.968512Z",
+  "status": "ok",
+  "diagnosticCode": null,
+  "method": "rss",
+  "feedUrl": "https://www.cnr.it/it/news/rss",
+  "items": [
+    {
+      "title": "Intelligenza artificiale e guerra: chi controlla gli algoritmi e chi risponde delle loro decisioni?",
+      "url": "https://www.cnr.it/it/news/14812/intelligenza-artificiale-e-guerra-chi-controlla-gli-algoritmi-e-chi-risponde-delle-loro-decisioni",
+      "excerpt": "13/11/2026 . Nella nuova puntata di “Conversazioni con la Scienza”, Marco Fasciglione, primo ricercatore del CNR-IRIDIS, affronta le sfide giuridiche ed etiche dell'intelligenza artificiale nei conflitti armati, tra tutela dei civili, responsabilità e diritti umani",
+      "publishedAt": "2026-11-13T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Dal Rifugio Galassi a Venezia: il workshop \"Risorsa Acqua\" celebra la quinta edizione",
+      "url": "https://www.cnr.it/it/news/14809/dal-rifugio-galassi-a-venezia-il-workshop-risorsa-acqua-celebra-la-quinta-edizione",
+      "excerpt": "13/11/2026 . Dopo quattro edizioni svolte presso il Rifugio Galassi, sulla Antelao nelle Dolomiti Bellunesi, il workshop“Risorsa Acqua” giunge alla sua quinta edizione e approda a Venezia, città simbolo del rapporto tra acqua, territorio, clima e attività umane. L’appuntamento è fissato per il 18 e 19 novembre 2026 pre",
+      "publishedAt": "2026-11-13T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Kolumbo, il vulcano sommerso di Santorini, osservato da vicino: si conclude la campagna HYDROSENSE",
+      "url": "https://www.cnr.it/it/news/14807/kolumbo-il-vulcano-sommerso-di-santorini-osservato-da-vicino-si-conclude-la-campagna-hydrosense",
+      "excerpt": "12/11/2026 . Si è conclusa la campagna oceanografica HYDROSENSE 2026, che dal 30 ottobre al 12 novembre ha studiato il vulcano sottomarino Kolumbo, 7 km a nord-est di Santorini, e la caldera di Santorini. La spedizione, a bordo della nave da ricerca Gaia Blu del CNR, è stata guidata dall’Istituto di Scienze Marine del ",
+      "publishedAt": "2026-11-12T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Parkinson e Alzheimer: individuati nel sangue nuovi segnali per comprendere le differenze tra i pazienti",
+      "url": "https://www.cnr.it/it/news/14805/parkinson-e-alzheimer-individuati-nel-sangue-nuovi-segnali-per-comprendere-le-differenze-tra-i-pazienti",
+      "excerpt": "11/11/2026 . Uno studio realizzato in collaborazione tra l’Università degli Studi di Roma Tor Vergata, LIFE - Santa Lucia IRCCS e l’Istituto di Farmacologia Traslazionale del CNR ha identificato una specifica firma immunometabolica nei pazienti con Parkinson in fase iniziale che presentano anche indicatori biologici de",
+      "publishedAt": "2026-11-11T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Accordo di cooperazione tra CNR e NEH per la ricerca nelle scienze umane",
+      "url": "https://www.cnr.it/it/news/14797/accordo-di-cooperazione-tra-cnr-e-neh-per-la-ricerca-nelle-scienze-umane",
+      "excerpt": "11/11/2026 . Il Consiglio Nazionale delle Ricerche (CNR) e il National Endowment for the Humanities (NEH), agenzia dell'esecutivo degli Stati Uniti d'America, hanno sottoscritto oggi a Roma un Memorandum di Intesa per la cooperazione nella promozione della ricerca scientifica nelle scienze umane. L'accordo, firmato dal",
+      "publishedAt": "2026-11-11T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Inaugurato il nuovo laboratorio Cryo-EM del CNR a Caserta",
+      "url": "https://www.cnr.it/it/news/14803/inaugurato-il-nuovo-laboratorio-cryo-em-del-cnr-a-caserta",
+      "excerpt": "11/11/2026 . Presso la sede di Caserta dell’Istituto di Cristallografia del Cnr è stato inaugurato il nuovo laboratorio di microscopia elettronica criogenica (Cryo-EM), realizzato nell’ambito del progetto ITACA.SB, finanziato dall’Unione Europea attraverso il programma NextGenerationEU – PNRR",
+      "publishedAt": "2026-11-11T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Foresight, governance e lobby nell'era dell'intelligenza artificiale",
+      "url": "https://www.cnr.it/it/news/14788/foresight-governance-e-lobby-nell-era-dell-intelligenza-artificiale",
+      "excerpt": "11/11/2026 . Le sfide socio-economiche coinvolgono una molteplicità di aspetti e attori interconnessi, affrontando sistemi complessi la cui predizione risulta spesso poco accurata. I decisori politici chiedono agli scienziati di proporre soluzioni efficaci e di delineare scenari futuri che permettano di anticipare iniz",
+      "publishedAt": "2026-11-10T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Al via il corso di formazione CNR-Esercito per la ricerca in ambiente montano, glaciale e d'alta quota",
+      "url": "https://www.cnr.it/it/news/14795/al-via-il-corso-di-formazione-cnr-esercito-per-la-ricerca-in-ambiente-montano-glaciale-e-d-alta-quota",
+      "excerpt": "10/11/2026 . In Valle d'Aosta la prima edizione del percorso formativo realizzato con il Centro Addestramento Alpino dell'Esercito. L'iniziativa è promossa dal Dipartimento Scienze del Sistema Terra e Tecnologie per l'Ambiente (CNR-DSSTTA) e dall’Unità Prevenzione e Protezione del CNR in collaborazione con il Centro Ad",
+      "publishedAt": "2026-11-10T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Il CNR al G6 Presidents' Meeting di Berlino in occasione del Falling Walls 2026",
+      "url": "https://www.cnr.it/it/news/14794/il-cnr-al-g6-presidents-meeting-di-berlino-in-occasione-del-falling-walls-2026",
+      "excerpt": "10/11/2026 . Il Presidente del Cnr Andrea Lenzi ha partecipato il 7 e 8 novembre a Berlino al G6 Presidents’ Meeting, l'incontro che riunisce i vertici delle principali organizzazioni europee di ricerca: oltre al CNR, il CNRS francese, il CSIC spagnolo, la Helmholtz Association, la Leibniz Association e il Max Planck S",
+      "publishedAt": "2026-11-10T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "BIBRIDGE: Calcolo ad Alte Prestazioni e Intelligenza Artificiale per lo studio del patrimonio librario europeo",
+      "url": "https://www.cnr.it/it/news/14799/bibridge-calcolo-ad-alte-prestazioni-e-intelligenza-artificiale-per-lo-studio-del-patrimonio-librario-europeo",
+      "excerpt": "10/11/2026 . L’Istituto per le Applicazioni del Calcolo del CNR (CNR-IAC) partecipa a BIBRIDGE, un nuovo progetto di ricerca triennale finanziato dal Ministero dell’Università e della Ricerca nell’ambito del programma PRIN HYBRID, settore HPC",
+      "publishedAt": "2026-11-10T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "BIBRIDGE: High Performance Computing and Artificial Intelligence for the Study of European Printed Heritage",
+      "url": "https://www.cnr.it/it/news/14800/bibridge-high-performance-computing-and-artificial-intelligence-for-the-study-of-european-printed-heritage",
+      "excerpt": "10/11/2026 . The CNR Institute for Applied Computing (CNR-IAC) participates in BIBRIDGE, a new three-year research project funded by the Italian Ministry of Research under the PRIN HYBRID programme, HPC strand",
+      "publishedAt": "2026-11-10T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "CNR-ISPA ed Embrapa insieme per contrastare le micotossine nel frumento e migliorare la sicurezza alimentare",
+      "url": "https://www.cnr.it/it/news/14796/cnr-ispa-ed-embrapa-insieme-per-contrastare-le-micotossine-nel-frumento-e-migliorare-la-sicurezza-alimentare",
+      "excerpt": "10/11/2026 . La collaborazione scientifica tra l’Istituto di Scienze delle Produzioni Alimentari del Consiglio Nazionale delle Ricerche (CNR-ISPA) e l’ente brasiliano di ricerca agricola Embrapa punta a sviluppare strategie per contrastare la contaminazione del frumento da micotossine, contribuendo a una produzione agr",
+      "publishedAt": "2026-11-10T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Osservazione della Terra e trasparenza climatica: il CNR-IBE alla COP31 con l'esperienza di Flood Early Warning nel Sahel",
+      "url": "https://www.cnr.it/it/news/14787/osservazione-della-terra-e-trasparenza-climatica-il-cnr-ibe-alla-cop31-con-l-esperienza-di-flood-early-warning-nel-sahel",
+      "excerpt": "11/11/2026 . L'11 novembre, al Padiglione Italia della COP31 di Antalya, il side event organizzato da ISPRA \"Earth Observation for Climate Transparency: Copernicus Services and IRIDE for climate reporting\" mette a confronto servizi satellitari, inventari climatici e sistemi di allerta precoce. Per il Consiglio Nazional",
+      "publishedAt": "2026-11-09T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "HR-DTM-5m, online la nuova versione del modello digitale del terreno ad alta risoluzione dell'Italia",
+      "url": "https://www.cnr.it/it/news/14789/hr-dtm-5m-online-la-nuova-versione-del-modello-digitale-del-terreno-ad-alta-risoluzione-dell-italia",
+      "excerpt": "09/11/2026 . È online su Zenodo la nuova versione dell’HR-DTM-5m, il modello digitale del terreno che descrive l’intero territorio italiano con una risoluzione di 5 metri, realizzato dai ricercatori del Cnr-Geo di Perugia e Cosenza. L’aggiornamento introduce correzioni al modello e una nuova mappa che indica l’origine ",
+      "publishedAt": "2026-11-09T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "La ricerca CNR torna sull'Everest: riparte la Piramide, osservatorio italiano sul cambiamento climatico dell'Himalaya",
+      "url": "https://www.cnr.it/it/news/14792/la-ricerca-cnr-torna-sull-everest-riparte-la-piramide-osservatorio-italiano-sul-cambiamento-climatico-dell-himalaya",
+      "excerpt": "09/11/2026 . Due missioni, a novembre 2026 e aprile 2027, riattiveranno il monitoraggio dell’atmosfera, del clima, dei ghiacciai, delle acque e della stabilità dei versanti a oltre 5.000 metri di quota",
+      "publishedAt": "2026-11-09T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Progetto EU \"ReLION\": nuova generazione di materiali multifunzionali espansi innovativi e sostenibili",
+      "url": "https://www.cnr.it/it/news/14785/progetto-eu-relion-nuova-generazione-di-materiali-multifunzionali-espansi-innovativi-e-sostenibili",
+      "excerpt": "06/11/2026 . Con \"ReLION - Renewable-non-isocyanate poLyurethanes for sustaInable biO-based innovatioN\", il Cnr contribuisce allo sviluppo di una nuova generazione di materiali polimerici sostenibili innovativi, trasformando la ricerca sui materiali avanzati in soluzioni tecnologiche concrete per la transizione ecologi",
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "ENEA sviluppa con Cnr e ISPRA strumento per stimare impatto erosione costiera",
+      "url": "https://www.cnr.it/it/news/14753/enea-sviluppa-con-cnr-e-ispra-strumento-per-stimare-impatto-erosione-costiera",
+      "excerpt": "05/11/2026 . ENEA, in collaborazione con ISPRA e Cnr, ha sviluppato CoDeC (Calcolo del Degrado Costiero), uno strumento innovativo che consente di stimare gli impatti economici e ambientali dell’erosione costiera, prendendo in considerazione l’evoluzione delle spiagge, la presenza di infrastrutture e le dinamiche di tr",
+      "publishedAt": "2026-11-05T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Diplomazia scientifica, a Reggio Calabria la firma dell'accordo tra MAECI e CNR",
+      "url": "https://www.cnr.it/it/news/14782/diplomazia-scientifica-a-reggio-calabria-la-firma-dell-accordo-tra-maeci-e-cnr",
+      "excerpt": "05/11/2026 . Il ministro degli Affari Esteri e della Cooperazione Internazionale Antonio Tajani e il presidente del CNR Andrea Lenzi hanno sottoscritto un’intesa per rafforzare l’internazionalizzazione della ricerca italiana e promuovere la cooperazione scientifica internazionale",
+      "publishedAt": "2026-11-05T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Opportunità di tirocinio formativo per laureandi",
+      "url": "https://www.cnr.it/it/news/14780/opportunita-di-tirocinio-formativo-per-laureandi",
+      "excerpt": "04/11/2026 . Un’occasione per arricchire il proprio percorso universitario e avvicinarsi al mondo del lavoro attraverso un’esperienza formativa sul campo. I laureandi interessati potranno manifestare il proprio interesse a svolgere uno dei seguenti tirocini formativi presso la Sede di Napoli dell’Istituto per le Tecnol",
+      "publishedAt": "2026-11-04T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "R/V Gaia Blu: conclusa la campagna MARSiCo-2026_II",
+      "url": "https://www.cnr.it/it/news/14775/r-v-gaia-blu-conclusa-la-campagna-marsico-2026-ii",
+      "excerpt": "03/11/2026 . Dal 12 al 29 ottobre 2026 la nave da ricerca R/V Gaia Blu è stata impegnata nella campagna oceanografica MARSiCo-2026_II (MAnagement and Retrieval of SubmergedInfrastructures in the Sicily and Corsica Channel), coordinata dal CNR-ISMAR nell'ambito delle attività nazionali e internazionali di osservazione a",
+      "publishedAt": "2026-11-03T00:00:00Z",
+      "dateEvidence": "feed:published"
+    }
+  ],
+  "attempts": [
+    {
+      "url": "https://www.cnr.it/robots.txt",
+      "status": 200
+    },
     {
       "url": "https://www.cnr.it/it/news/rss",
-      "code": "connection_error"
+      "status": 200
     }
-  ]
+  ],
+  "message": "Feed ufficiale letto; date di pubblicazione verificate.",
+  "durationSeconds": 10.22
 }

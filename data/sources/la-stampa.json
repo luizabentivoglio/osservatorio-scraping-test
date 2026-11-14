@@ -4,100 +4,107 @@
   "sourceId": "la-stampa",
   "originUrl": "https://www.lastampa.it/",
   "configuredFeedUrl": "https://www.lastampa.it/rss/copertina.xml",
-  "collectedAt": "2026-11-14T09:28:25.233120Z",
+  "collectedAt": "2026-11-14T16:45:20.420435Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.lastampa.it/rss/copertina.xml",
   "items": [
     {
-      "title": "Caos negli aeroporti Usa, prima fermati tutti i voli poi revocato il blocco. “Non sono gli hacker”",
-      "url": "https://www.lastampa.it/esteri/2026/11/14/news/caos_negli_aeroporti_usa_prima_fermati_tutti_i_voli_poi_l_agenzia_dell_aviazione_revoca_il_blocco-15797921/",
-      "excerpt": "Secondo Cnn cancellati ieri oltre 15mila voli, oggi altri 3mila annullati o in ritardo",
+      "title": "Roma apre a Berlino nel GCAP, il super-caccia da miliardi. Smentito il Financial Times: nessun veto",
+      "url": "https://www.lastampa.it/cronaca/2026/11/14/news/gcap_jet_italia_germania-15798284/",
+      "excerpt": "Il ministero della Difesa ribatte che l’Italia ha sempre espresso piena disponibilità ad accogliere la Germania",
       "publishedAt": "2026-11-14T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "“Blocco dei voli? L’infrastruttura obsoleta all’origine del tilt”",
-      "url": "https://www.lastampa.it/esteri/2026/11/14/news/blocco_voli_aerei_america_alegi-15798002/",
-      "excerpt": "L’analista Alegi: «Da dieci anni i Repubblicani in Congresso dicono no alle spese per gli ammodernamenti. Un modulo di intelligenza artificiale inserito in un sistema vecchio può aver bloccato tutto. E i controllori di volo possono essere stato presi dalla paura degli hacker anche in assenza di minacce»",
+      "title": "Farage ufficializza la rottura con Putin: “È la più grande minaccia per il Regno Unito”",
+      "url": "https://www.lastampa.it/esteri/2026/11/14/news/farage_ufficializza_la_rottura_con_putin_e_la_piu_grande_minaccia_per_il_regno_unito-15798097/",
+      "excerpt": "Da sempre accusato di simpatie filo-putiniane il leader della destra anti-immigrazione prende posizione contro Mosca",
       "publishedAt": "2026-11-14T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "L'esperto Gareth Mott: “Prepariamoci all’emergenza: in casa acqua, cibo, la radio. È prudenza”",
-      "url": "https://www.lastampa.it/esteri/2026/11/14/news/allarmi_bomba_gareth_mott_prepariamoci_all_emergenza_in_casa_acqua_cibo_la_radio_e_prudenza-15797740/",
-      "excerpt": "L’esperto: «Nascosti in Paesi ostili, colpire gli hacker è impossibile»",
+      "title": "“Non posso insultare quel partito”: così l’AI svela i bot della politica sui social",
+      "url": "https://www.lastampa.it/tech/2026/11/14/news/non_posso_insultare_quel_partito_cosi_l_intelligenza_artificiale_ha_svelato_i_bot_della_politica-15798267/",
+      "excerpt": "Messaggi automatici in inglese compaiono sotto i post di Salvini e di altri politici italiani. I sistemi AI rifiutano le richieste, ma i bot pubblicano ugualmente le risposte. La Lega: “Vogliamo sapere chi si nasconde dietro questi account”",
       "publishedAt": "2026-11-14T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Manovra, dalle pensioni al Superbonus: tutte le modifiche in arrivo e cosa può cambiare. Scuola, dietrofront del governo",
+      "title": "Microsoft, anatomia di un blackout:perché Outlook e Teams non hanno funzionato per un giorno e mezzo",
+      "url": "https://www.lastampa.it/tech/2026/11/14/news/microsoft_anatomia_di_un_blackout_perche_outlook_e_teams_non_hanno_funzionato_per_un_giorno_e_mezzo-15798083/",
+      "excerpt": "Un aggiornamento della rete ha messo in crisi Microsoft 365. I server tornavano online, ma smettevano nuovamente di funzionare quando ricevevano traffico. La cronologia del guasto, dalle prime anomalie al difficile ripristino.",
+      "publishedAt": "2026-11-14T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Sinner ai ragazzi: “State lontani dai social network”",
+      "url": "https://www.lastampa.it/sport/speciali/atp-finals-2026/2026/11/14/news/sinner_ai_ragazzi_state_lontani_dai_social_network-15798268/",
+      "excerpt": "Il tennista a Torino dialoga con Paolo Maldini: «A me non è mai fregato di quello che pensano gli altri, ma bisogna stare attenti. Meglio andare in un bar, prendere un caffè e conoscere una persona dal vivo»",
+      "publishedAt": "2026-11-14T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "L'abbraccio di Torino alle Finals: cosa significa l'evento per la città",
+      "url": "https://www.lastampa.it/sport/speciali/atp-finals-2026/2026/11/14/video/atp_finals_torino_trasformazione_citta_2021_2026-15798063/",
+      "excerpt": "Dalle code nel fango del 2021 al Blue Carpet in piazza San Carlo, passando per le proiezioni su Palazzo Reale e un Fan Village sempre più grande. In cinque anni, le ATP Finals hanno cambiato il volto di Torino e il rapporto della città con il grande tennis internazionale. Alla vigilia dell'edizione 2026, Paolo Brusorio",
+      "publishedAt": "2026-11-14T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "ATP Finals, Torino sogna oltre il 2030. Binaghi scherza: \"Il sindaco è poco ambizioso\"",
+      "url": "https://www.lastampa.it/sport/speciali/atp-finals-2026/2026/11/14/video/atp_finals_torino_lo_russo_binaghi_futuro_2030-15798138/",
+      "excerpt": "Torino punta a ospitare le ATP Finals fino al 2030, ma Angelo Binaghi, presidente della Federazione Italiana Tennis e Padel, rilancia e guarda ancora più lontano. «Per una volta il sindaco è poco ambizioso. Perché si pone solo l'obiettivo del 2030. Invece, tra il serio e il faceto, stiamo anche sognando qualcosa di più",
+      "publishedAt": "2026-11-14T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Cercasi Sinner disperatamente",
+      "url": "https://www.lastampa.it/sport/speciali/atp-finals-2026/2026/11/14/news/cercasi_sinner_disperatamente-15798036/",
+      "excerpt": "Torino lo ha visto impegnato in tante prime volte e ora assiste a una versione inedita. Ospite, invitato speciale, rivale mancato, ex fidanzato e centro dell’attenzione",
+      "publishedAt": "2026-11-14T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Carovita e fondi alla guerra: si torna in piazza. Parma blindata per il doppio corteo “rosso-nero”",
+      "url": "https://www.lastampa.it/cronaca/2026/11/14/news/cortei_violenti_perquisizioni_in_13_citta_oggi_nuove_manifestazioni_da_torino_a_milano-15798076/",
+      "excerpt": "Stamane le perquisizioni della Digos in 50 città per gli scontri delle settimane scorse: coinvolti anche i minorenni",
+      "publishedAt": "2026-11-14T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Orsini contro la manovra: “Superbonus in 10 anni? Insostenibile, è un tema di diritto”",
+      "url": "https://www.lastampa.it/economia/2026/11/14/news/confindustria_convoca_le_assise_generali_si_terranno_ad_aprile_2027_a_bologna-15798125/",
+      "excerpt": "Confindustria convoca le assise generali. Si terranno ad aprile a Bologna, è la quinta volta nella storia. Il presidente: «A rischio la fiducia tra imprese e istituzioni»",
+      "publishedAt": "2026-11-14T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Tutte le modifiche in arrivo e cosa può cambiare. Scuola, dietrofront del governo",
       "url": "https://www.lastampa.it/economia/2026/11/14/news/manovra_pensioni_superbonus_modifiche-15797865/",
       "excerpt": "Resa dei conti in maggioranza, ma le risorse non bastano. Sui crediti lo spettro del default",
       "publishedAt": "2026-11-14T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Musk guida la Silicon Valley per reinstallare Jensen Huang a capo di Nvidia: ho firmato la petizione",
-      "url": "https://www.lastampa.it/esteri/2026/11/14/news/musk_guida_la_silicon_valley_per_reinstallare_jensen_huang_a_capo_di_nvidia_ho_firmato_la_petizione-15797964/",
-      "excerpt": "Diversi oligarchi tech si mobilitano per proteggere il sodale. Oltre a Musk, che potrebbe vacillare con la caduta dell’amico, Huang è difeso dai capi di Anduril, Palmer Luckey, e di Perplexity AI, Aravind Srinivas",
+      "title": "Scontro tra due auto in galleria: quattro vittime e un ferito grave",
+      "url": "https://www.lastampa.it/cronaca/2026/11/14/news/scontro_tra_due_auto_in_galleria_quattro_vittime_e_un_ferito_grave-15798140/",
+      "excerpt": "Nel Cosentino sulla statale 107, a San Fili",
       "publishedAt": "2026-11-14T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Terremoto Nvidia, Trump scarica Lutnick? Lo scandalo delle spie cinesi travolge il governo Usa",
-      "url": "https://www.lastampa.it/esteri/2026/11/14/news/terremoto_nvidia_trump_scarica_lutnick_lo_scandalo_delle_spie_cinesi_travolge_il_governo_usa-15797696/",
-      "excerpt": "Intanto l’azienda prepara il dopo Huang: secondo il Financial Times è stato sondato Rene Haas ceo di Arm",
+      "title": "Anziano morto durante la truffa del finto carabiniere: due giovani fermati a Milano",
+      "url": "https://www.lastampa.it/cronaca/2026/11/14/news/anziano_morto_durante_la_truffa_del_finto_carabiniere_due_giovani_fermati_a_milano-15798060/",
+      "excerpt": "La vittima di 92 anni era stata trovata in casa in gravi condizioni lo scorso 28 ottobre. Gli accusati hanno 19 e 22 anni",
       "publishedAt": "2026-11-14T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Nvidia, la “spia” Alice nascosta a Pechino. Il capo Fbi minimizza, Trump rischia il “tradimento”",
-      "url": "https://www.lastampa.it/esteri/2026/11/14/news/nvidia_la_spia_alice_nascosta_a_pechino_la_cia_minimizza_il_ruolo_trump_rischia_il_tradimento-15797778/",
-      "excerpt": "Se lavorava organicamente per i Servizi cinesi scatterebbero le accuse più gravi contro il presidente Usa. Se fosse solo un asset, la Casa Bianca avrebbe una strategia di difesa",
-      "publishedAt": "2026-11-14T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Daniil Medvedev: “Mi diverte giocare con il tifo contro. Sono un papà da migliorare”",
-      "url": "https://www.lastampa.it/sport/speciali/atp-finals-2026/2026/11/14/news/daniil_medvedev_mi_diverte_giocare_con_il_tifo_contro_io_papa_da_migliorare-15797799/",
-      "excerpt": "Il russo lunedì battezzerà Cobolli: “In campo è velocissimo. Alle mie figlie darei energia e tempo inconciliabili con il tennis”",
-      "publishedAt": "2026-11-14T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "La passerella dei Maestri: le Atp Finals entrano nel vivo",
-      "url": "https://www.lastampa.it/sport/speciali/atp-finals-2026/2026/11/14/news/la_passerella_dei_maestri_le_atp_finals_entrano_nel_vivo-15797989/",
-      "excerpt": "Zverev in pole cerca tris personale e bis torinese. Cobolli gioca in casa. Ma il più atteso è Alcaraz. Attenzione a Shelton, allenato dall’ex coach dello spagnolo. Anche Medvedev sa già come si vince",
-      "publishedAt": "2026-11-14T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Microsoft, il blackout più lungo: fino a mezzo miliardo di danni. Solo sabato all'alba ripristinati tutti i servizi",
-      "url": "https://www.lastampa.it/economia/2026/11/14/news/microsoft_blackout_piu_lungo_mezzo_miliardo_danni-15797822/",
-      "excerpt": "Disservizi su email e messaggistica in oltre 70 nazioni. Per due giorni tornano carta e fax in uffici e sale trading. I problemi sui server in via di risoluzione. Esclusa la causa hackeraggio",
-      "publishedAt": "2026-11-14T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "“La fede non è magia”. Così Leone XIV è tornato “padre Roberto”",
-      "url": "https://www.lastampa.it/cronaca/2026/11/14/news/la_fede_non_e_magia_cosi_leone_xiv_e_tornato_padre_roberto-15797952/",
-      "excerpt": "«La visita nella sua Chiclayo restituisce al mondo l'immagine di un Papa dal volto umano, capace di emozioni forti e vere», spiega il vescovo Mogavero",
-      "publishedAt": "2026-11-14T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Stupro di gruppo, Ciro Grillo rompe il silenzio: “Quel video di mio padre mi ha danneggiato”",
-      "url": "https://www.lastampa.it/cronaca/2026/11/14/news/ciro_grillo_non_accetterei_concessioni_piuttosto_in_galera_da_innocente_e_attacca_la_bongiorno-15797957/",
-      "excerpt": "Il figlio del fondatore del M5s intervistato da una tv genovese: “Ho sempre taciuto, ora vado in guerra”",
-      "publishedAt": "2026-11-14T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Il prefetto di Torino Cafagna: “Allarmi in classe, evacuazioni solo se il rischio è reale”",
-      "url": "https://www.lastampa.it/torino/2026/11/14/news/cafagna_bisogna_evitare_psicosi_la_procedura_e_collaudata_le_scuole_sono_gia_monitorate-15797844/",
-      "excerpt": "Il prefetto di Torino: “Non dobbiamo lasciare soli i dirigenti degli istituti”",
+      "title": "Muore in strada a Roma colpito con un paio di forbici a petto e gola per 20 euro",
+      "url": "https://www.lastampa.it/cronaca/2026/11/14/news/ucciso_forbici_lite_roma-15798059/",
+      "excerpt": "La vittima è un cittadino marocchino, l’aggressione è avvnuta in via Torpignattara davanti agli occhi della fidanzata dell’uomo ucciso",
       "publishedAt": "2026-11-14T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -109,23 +116,93 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Dopo l’incidente dei writers è scontro totale, la rettrice diffida gli occupanti: “Via subito”",
-      "url": "https://www.lastampa.it/torino/2026/11/14/news/dopo_l_incidente_dei_writers_e_scontro_totale_la_rettrice_diffida_gli_occupanti_via_subito-15797854/",
-      "excerpt": "In due sono caduti dai piani alti di Palazzo Nuovo occupato. Prandi chiede l’annullamento di qualsiasi festa e partecipa a un vertice con prefetto, questore e sindaco. Dagli studenti nessun passo indietro",
+      "title": "Caos nei cieli Usa per 4 ore: migliaia di voli cancellati e in ritardo per un aggiornamento software",
+      "url": "https://www.lastampa.it/esteri/2026/11/14/news/caos_negli_aeroporti_usa_prima_fermati_tutti_i_voli_poi_l_agenzia_dell_aviazione_revoca_il_blocco-15797921/",
+      "excerpt": "Secondo Cnn cancellati ieri oltre 15mila viaggi, oggi altri 3mila annullati o in ritardo",
       "publishedAt": "2026-11-14T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Anche Haaland aveva iniziato così, Pio Esposito può riscrivere la storia azzurra",
-      "url": "https://www.lastampa.it/sport/2026/11/14/news/pio_esposito_confronto_haaland_gigi_riva-15797968/",
-      "excerpt": "Le 9 reti nelle prime 14 partite sono il trampolino per dare l’assalto allo storico record di Gigi Riva",
+      "title": "“Il blocco dei voli in America? Colpa di un’infrastruttura obsoleta”",
+      "url": "https://www.lastampa.it/esteri/2026/11/14/news/blocco_voli_aerei_america_alegi-15798002/",
+      "excerpt": "L’analista Alegi: «Da dieci anni i Repubblicani in Congresso dicono no alle spese per gli ammodernamenti. Un modulo di intelligenza artificiale inserito in un sistema vecchio può aver bloccato tutto. E i controllori possono essere stati presi dalla paura degli hacker anche in assenza di minacce»",
       "publishedAt": "2026-11-14T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Segnali di crescita e nuove speranze con l’Italia di Mancini",
-      "url": "https://www.lastampa.it/sport/2026/11/14/news/nazionale_mancini_crescita_speranze-15797972/",
-      "excerpt": "Esame superato. Vale molto, perché la Francia è un’ottima squadra, ben strutturata e di qualità benché priva di Mbappé e Dembélé. Esame di maturità, perché i segnali di progresso erano già ...",
+      "title": "Musk guida la Silicon Valley per reinstallare Jensen Huang a capo di Nvidia: ho firmato la petizione",
+      "url": "https://www.lastampa.it/esteri/2026/11/14/news/musk_guida_la_silicon_valley_per_reinstallare_jensen_huang_a_capo_di_nvidia_ho_firmato_la_petizione-15797964/",
+      "excerpt": "Diversi oligarchi tech si mobilitano per proteggere il sodale. Oltre a Musk, che potrebbe vacillare con la caduta dell’amico, Huang è difeso dai capi di Anduril, Palmer Luckey, e di Perplexity AI, Aravind Srinivas",
+      "publishedAt": "2026-11-14T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "L’infermiera scarcerata dopo quasi 14 anni: “Non auguro a nessuno quello che ho provato io” | Video",
+      "url": "https://www.lastampa.it/cronaca/2026/11/14/news/l_infermiera_scarcerata_dopo_14_anni_non_auguro_a_nessuno_quello_che_ho_provato_io-15798123/",
+      "excerpt": "Monica Busetto era accusata dell’omicidio di un’anziana. Ieri la svolta giudiziaria: «Stanotte non ho dormito. Non ho un lavoro e non ho una casa ma vado avanti»",
+      "publishedAt": "2026-11-14T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Novella Calligaris, la donna delle prime volte del nuoto italiano: “Che coraggio Sara Curtis”",
+      "url": "https://www.lastampa.it/cuneo/2026/11/14/news/novella_calligaris-15798231/",
+      "excerpt": "Ha vinto le prime medaglie olimpiche a Monaco di Baviera nel ‘72 e ha stabilito il primo record del mondo a Belgrado nel ‘73 prima di ritirarsi a soli 19 anni. Ora l’ex campionessa si racconta in un memoir “Pulce. La mia vita tra le onde”",
+      "publishedAt": "2026-11-14T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Gaza sott’acqua, l’appello al governo: “Inviare la Marina militare in soccorso”",
+      "url": "https://www.lastampa.it/politica/2026/11/14/news/gaza_sott_acqua_l_appello_al_governo_inviare_la_marina_militare_in_soccorso-15798045/",
+      "excerpt": "La Valle, Riccardi e Zagrebelsky chiedono un intervento umanitario con navi militari disarmate, sul modello della missione in Albania del 1997: “L’Italia può coinvolgere altri Paesi europei e mediterranei”",
+      "publishedAt": "2026-11-14T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "La prof che valuta senza voti vince la sua battaglia: caso archiviato",
+      "url": "https://www.lastampa.it/torino/2026/11/14/news/maria_ernestina_morello_scuola_senza_voti_caso_archiviato-15798219/",
+      "excerpt": "Maria Ernestina Morello (Copernico-Luxemburg) era finita sotto ispezione per il metodo basato su giudizi descrittivi anziché sui numeri. Dopo mesi di contestazioni, l'Ufficio scolastico archivia il caso",
+      "publishedAt": "2026-11-14T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "“La fede non è magia”. Così Leone XIV è tornato “padre Roberto”",
+      "url": "https://www.lastampa.it/cronaca/2026/11/14/news/la_fede_non_e_magia_cosi_leone_xiv_e_tornato_padre_roberto-15797952/",
+      "excerpt": "«La visita nella sua Chiclayo restituisce al mondo l'immagine di un Papa dal volto umano, capace di emozioni forti e vere», spiega il vescovo Mogavero",
+      "publishedAt": "2026-11-14T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Manca il portiere, fra i pali si alternano un attaccante e un difensore: la partita è da guinness",
+      "url": "https://www.lastampa.it/torino/2026/11/14/news/manca_il_portiere_fra_i_pali_si_alternano_un_attaccante_e_un_difensore_la_partita_e_da_guinness-15798009/",
+      "excerpt": "Il Caselette Under 21 è arrivato al campo dell’Atletico Mirafiori senza numero uno: così il tecnico si è inventato la soluzione improvvisata. Ed è arrivata anche la vittoria",
+      "publishedAt": "2026-11-14T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Che cos'è il prosciutto di Praga e perché è diverso dal classico cotto",
+      "url": "https://www.lastampa.it/esteri/2026/11/14/video/prosciutto_di_praga_segreti_preparazione-15798085/",
+      "excerpt": "Ci sono piatti che rimandano immediatamente al Paese d'origine, e poi ci sono piatti che portano addirittura il nome della città in cui sono nati. A Praga, il prosciutto è una tradizione che attraversa la storia e racconta una parte dell’identità gastronomica ceca. Ma come si prepara? Che cosa lo rende diverso dagli al",
+      "publishedAt": "2026-11-14T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Antonio Ornano: \"Il costo dei concerti è schifoso: assurdo pagare 280 euro per stare nel prato\"",
+      "url": "https://www.lastampa.it/spettacoli/2026/11/14/video/antonio_ornano_prezzi_concerti_oasis-15798078/",
+      "excerpt": "Due date sold out al Teatro Colosseo di Torino per (In)Grato, il nuovo spettacolo con cui Antonio Ornano porta sul palco nevrosi, contraddizioni e fallimenti quotidiani. Al centro c’è un elogio dell’ingratitudine, contro l’idea che si debba essere sempre felici, realizzati e riconoscenti alla vita. Intervistato da La S",
+      "publishedAt": "2026-11-14T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Voli bloccati negli Usa, cosa è successo nei cieli: le impressionanti immagini del traffico aereo",
+      "url": "https://www.lastampa.it/esteri/2026/11/14/video/usa_voli_bloccati_guasto_flightradar24_immagini_aeroporti-15798043/",
+      "excerpt": "Le insolite immagini di Flightradar24 mostrano gli effetti del blocco nazionale dei decolli negli Stati Uniti, disposto venerdì 13 novembre dalla Federal Aviation Administration (FAA) a causa di un guasto ai sistemi di comunicazione del controllo del traffico aereo. Le animazioni della piattaforma di monitoraggio dei v",
+      "publishedAt": "2026-11-14T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Elezioni Federcalcio, nessun colpo di scena: ammesse le candidature di Malagò e Galliani",
+      "url": "https://www.lastampa.it/sport/2026/11/14/news/elezioni_federcalcio_malago_galliani_candidati-15798127/",
+      "excerpt": "Il segretario generale convalida i documenti per la corsa alla presidenza e al Consiglio federale, ma il 24 novembre si discute il ricorso dell’ex ad del Monza sulla commissione e sulla doppia firma del Genoa",
       "publishedAt": "2026-11-14T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -165,107 +242,9 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "La natura presenta il conto, la Cop31 sta a guardare",
-      "url": "https://www.lastampa.it/cronaca/2026/11/14/news/in_dodici_anni_221_morti_e_danni_record_la_natura_presenta_il_conto-15797759/",
-      "excerpt": "Alluvioni improvvise (flash-flood), super celle temporalesche, trombe d’aria e grandinate ci riportano all'altra faccia dell'attuale crisi climatica, quella di inondazioni e frane, che avevamo ...",
-      "publishedAt": "2026-11-14T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Malkovich e i dubbi dell’America",
-      "url": "https://www.lastampa.it/spettacoli/2026/11/14/news/malkovich_e_i_dubbi_dell_america-15797641/",
-      "excerpt": "“Wild Horse Nine” di McDonagh acclamato alla Mostra di Venezia non convince gli Usa: per i critici il problema non sono i temi, ma lo stile oscillante tra cinismo e sentimentalismo",
-      "publishedAt": "2026-11-14T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "La destra ha vinto grazie alle parole. Non l’abbiamo ascoltata parlare",
-      "url": "https://www.lastampa.it/cultura/2026/11/14/news/la_destra_ha_vinto_grazie_alle_parole_non_l_abbiamo_ascoltata_parlare-15797774/",
-      "excerpt": "Il saggio a cura di Gallino sulla mutazione semantica di: famiglia, tradizione, merito, ordine, libertà, radical chic",
-      "publishedAt": "2026-11-14T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Madre malata di Alzheimer prigioniera in casa, botte per la pensione e l’assegno di accompagnamento",
-      "url": "https://www.lastampa.it/torino/2026/11/14/news/madre_malata_di_alzheimer_prigioniera_in_casa_botte_per_la_pensione_e_l_assegno_di_accompagnamento-15797831/",
-      "excerpt": "La donna di 87 anni del Canavese salvata dai carabinieri dopo le segnalazioni dei vicini. La figlia denunciata per maltrattamenti: dovrà indossare il braccialetto elettronico",
-      "publishedAt": "2026-11-14T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "L’ex eroinomane e rapinatore diventa testimonial del Serd: “La mia vita tra droga e carcere”",
-      "url": "https://www.lastampa.it/aosta/2026/11/14/news/droga_rapine_instagram_dipendenze_rinascita-15797608/",
-      "excerpt": "Giacomo, oggi imprenditore in Valle d’Aosta, ha trascorso in carcere 15 anni. La prima dose nei bagni di un autogrill, il calvario e la rinascita: “Una lettera mi ha fatto innamorare”",
-      "publishedAt": "2026-11-14T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "A rischio la Monterosa Sky Marathon 2027: “Previsti lavori di manutenzione alla funifor”",
-      "url": "https://www.lastampa.it/vercelli/2026/11/14/news/a_rischio_la_monterosa_sky_marathon_2027_previsti_lavori_di_manutenzione_alla_funifor-15797600/",
-      "excerpt": "Il Comune di Alagna si schiera con gli organizzatori e chiede di salvare la manifestazione sportiva che da anni è una vetrina del territorio nel mondo",
-      "publishedAt": "2026-11-14T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Quando il tempo torna a scorrere sugli orologi storici di Torino: le lancette ripartono dopo 10 anni",
-      "url": "https://www.lastampa.it/torino/2026/11/14/news/quando_il_tempo_torna_a_scorrere_sugli_orologi_storici_di_torino_le_lancette_ripartono_dopo_10_anni-15797933/",
-      "excerpt": "L’intervento di Iren e città. La manutenzione dei quarantotto quadranti si era interrotta nel 2017 per mancanza di fondi",
-      "publishedAt": "2026-11-14T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "I “falsi amici” della geografia italiana, da Novi Ligure a San Mango Piemonte",
-      "url": "https://www.lastampa.it/nord-ovest/2026/11/14/news/comuni_nomi_ingannevoli_italia_storia-15797370/",
-      "excerpt": "Il latino ha molto a che fare con i paesi dalla dicitura ingannevole. A volte sono vicini ai luoghi che esprimono nel nome, altre non c’entrano niente",
-      "publishedAt": "2026-11-14T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Colloqui a Dublino, Kallas: la Russia sta mettendo trappole, non può scegliere lei i mediatori",
+      "title": "Zelensky: “Gli Usa hanno proposto di cedere il Donbass e in cambio entreremmo nella Nato”",
       "url": "https://www.lastampa.it/esteri/2026/11/14/diretta/guerra_russia_ucraina_news_oggi-15797901/",
-      "excerpt": "Ue, c’è l’accordo sulla mediazione per l'Ucraina: un team a 5 con Costa e von der Leyen",
-      "publishedAt": "2026-11-13T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Sinner finalmente a Torino: “Grazie per l’affetto che mi dimostrate sempre”",
-      "url": "https://www.lastampa.it/sport/speciali/atp-finals-2026/2026/11/13/news/sinner_torino_atp_finals_grazie_affetto_tifosi-15797392/",
-      "excerpt": "Jannik ha partecipato a un momento con i dipendenti e il presidente Giuseppe Lavazza alla Nuvola, il quartier generale dell’azienda",
-      "publishedAt": "2026-11-13T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Sinner debutta su TikTok e fa una promessa ai tifosi: \"Vi mostrerò il dietro le quinte\"",
-      "url": "https://www.lastampa.it/sport/speciali/atp-finals-2026/2026/11/13/video/jannik_sinner_tiktok_account-15797432/",
-      "excerpt": "Jannik Sinner sbarca anche su Tik Tok. Il campione altoatesino, che in questi giorni sarà alle Atp Finals di Torino come brand ambassador di Lavazza, ha pubblicato il suo primo video. «Hi TikTok, it's Jannik...», comincia così il messaggio lanciato dall'attuale numero 2 del mondo ai suoi tifosi. «Grazie per l'incredibi",
-      "publishedAt": "2026-11-13T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "La Russa agli studenti: “Il fascismo lo ha voluto il popolo italiano”",
-      "url": "https://www.lastampa.it/politica/2026/11/13/news/la_russa_fascismo_popolo_studenti_democrazia-15797629/",
-      "excerpt": "Bufera sul presidente del Senato: «È un analfabeta costituzionale»",
-      "publishedAt": "2026-11-13T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Condannate in due per lo stesso omicidio, una collanina scagiona Monica Busetto dopo 10 anni",
-      "url": "https://www.lastampa.it/cronaca/2026/11/13/news/monica_bussetto_assolta_torna_libera_revisione_processo_iene_trento-15797331/",
-      "excerpt": "La Corte d’Appello: «Non uccise la vicina». L’infermiera, in carcere dal 2012, stava scontando la condanna in via definitiva a 25 anni. Decisiva la nuova prova acquisita da un giornalista delle “Iene”",
-      "publishedAt": "2026-11-13T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Il lapsus di Papa Leone a Lima: parla italiano invece che spagnolo e strappa una risata ai fedeli",
-      "url": "https://www.lastampa.it/esteri/2026/11/13/video/papa_leone_xiv_peru_lima_errore_italiano_spagnolo-15797566/",
-      "excerpt": "Un piccolo lapsus linguistico strappa un sorriso ai fedeli riuniti davanti alla nunziatura apostolica di Lima, in Perù. Papa Leone XIV si affaccia al balcone per salutare i presenti, ma inizia a parlare in italiano anziché in spagnolo. «Un breve saluto prima di partire per la prossima tappa di questo viaggio apostolico",
-      "publishedAt": "2026-11-13T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Lo zoom sulla mappa del cielo rivela galassie nascoste: le immagini inedite del telescopio Euclid",
-      "url": "https://www.lastampa.it/tech/2026/11/13/video/telescopio_spaziale_euclid_zoom_mappa_cielo_galassie_inedite-15797237/",
-      "excerpt": "Si parte da una mappa del cielo, poi lo zoom entra nel mosaico del telescopio spaziale Euclid fino a distinguere singole galassie e gruppi di galassie. L’Agenzia spaziale europea ha composto il mosaico con 740 osservazioni del cielo settentrionale, raccolte tra l’autunno del 2024 e la primavera del 2025. Nella seconda ",
+      "excerpt": "Nyt: la Russia propone il ritiro della Nato a posizioni pre-1997, il modello è il Patto Varsavia. Il documento: si allontani da Polonia e Baltici, mappa Guerra Fredda garantiva equilibrio",
       "publishedAt": "2026-11-13T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -277,17 +256,31 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Adozioni forzate, Teresita riabbraccia 40 anni dopo i figli che le furono rubati: la storia",
-      "url": "https://www.lastampa.it/esteri/2026/11/13/video/adozioni_forzate_cile_teresita_padilla_abbraccia_figli_rubati-15797095/",
-      "excerpt": "Teresita Padilla si siede tra i suoi due figli, li abbraccia e bacia loro le mani. Nelle immagini girate da Reuters l’11 novembre a Santiago del Cile, la donna ritrova Tim Rolnick, 41 anni, e Travis Murdoch, 37, due dei tre figli che le furono sottratti quando erano piccoli, durante la dittatura militare di Augusto Pin",
-      "publishedAt": "2026-11-13T00:00:00Z",
+      "title": "La delusione di Cannavacciuolo: \"Abbiamo sbagliato, ripartiamo\"",
+      "url": "https://www.lastampa.it/cronaca/2026/11/12/video/stella_michelin_persa_cannavacciuolo_torino-15796207/",
+      "excerpt": "\"Sicuramente abbiamo sbagliato qualcosa\" Antonino Cannavacciuolo commenta con amarezza la perdita della stella Michelin del suo bistrot di Torino, che non ha ottenuto la conferma del riconoscimento nella Guida Michelin Italia 2027, presentata il 12 novembre a Piacenza. \"Ci sono stati un po' di passaggi da chef e second",
+      "publishedAt": "2026-11-12T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "La frecciatina di Zelensky a Meloni. Lei: “Non ci vediamo da tanto”. Lui “Sei tu che non volevi”",
-      "url": "https://www.lastampa.it/esteri/2026/11/13/video/zelensky_meloni_frecciatina_dublino-15797254/",
-      "excerpt": "“Non ci vediamo da tanto”, dice Giorgia Meloni salutando Volodymyr Zelensky. “Sei tu che non volevi”, ribatte il presidente ucraino. Lo scambio apre il video diffuso da Zelensky dopo il bilaterale del 12 novembre a Dublino, a margine del vertice della Comunità politica europea. Nel colloquio i due hanno fatto il punto ",
-      "publishedAt": "2026-11-13T00:00:00Z",
+      "title": "Hegseth visita il milite ignoto, scoppia una risata e la sentinella urla: \"Silenzio e rispetto\"",
+      "url": "https://www.lastampa.it/esteri/2026/11/12/video/hegseth_milite_ignoto_risata_sentinella_rimprovero-15796032/",
+      "excerpt": "Al cimitero nazionale di Arlington, in Virginia, il segretario alla Difesa statunitense Pete Hegseth, la moglie e alcuni collaboratori posano per una foto dopo una cerimonia del Veterans Day. Mentre il gruppo risale la scalinata della Tomba del Milite Ignoto, nel video si sentono alcune risate. Subito dopo, la sentinel",
+      "publishedAt": "2026-11-12T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "COP31, la parola ai giovani: cosa chiedete ai leader del mondo?",
+      "url": "https://www.lastampa.it/esteri/2026/11/12/news/cop31_giovani_richieste_leader_clima-15795606/",
+      "excerpt": "Se aveste due minuti davanti ai leader mondiali riuniti per discutere di cambiamento climatico, che cosa direste loro? È la domanda che vogliamo rivolgere alle ragazze ...",
+      "publishedAt": "2026-11-12T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Sentono un neonato piangere sotto terra: era stato sepolto vivo in una gabbia per cani",
+      "url": "https://www.lastampa.it/esteri/2026/11/11/video/south-carolina-neonato-sepolto-vivo-gabbia-cani-salvato-15795136/",
+      "excerpt": "L’allarme è scattato lunedì quando la nonna del piccolo Koah Sharpe, che lo aveva affidato temporaneamente al padre Michael Comer, ha scoperto che entrambi erano scomparsi prima dell’arrivo di un’altra persona incaricata di accudirlo. Alcune telecamere hanno poi ripreso Comer mentre si spostava nella contea di Lexingto",
+      "publishedAt": "2026-11-11T00:00:00Z",
       "dateEvidence": "feed:published"
     }
   ],
@@ -302,5 +295,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 0.89
+  "durationSeconds": 0.77
 }

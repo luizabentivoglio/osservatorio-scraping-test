@@ -4,12 +4,40 @@
   "sourceId": "il-notiziario",
   "originUrl": "https://www.ilnotiziario.net/",
   "configuredFeedUrl": "https://www.ilnotiziario.net/feed/",
-  "collectedAt": "2026-11-14T09:28:22.991249Z",
+  "collectedAt": "2026-11-14T16:45:17.443976Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.ilnotiziario.net/feed/",
   "items": [
+    {
+      "title": "Lainate, furto al parcheggio del Roadhouse: spaccata nell’auto dopo la cena",
+      "url": "https://www.ilnotiziario.net/lainate-furto-al-parcheggio-del-roadhouse-spaccata-nellauto-dopo-la-cena/",
+      "excerpt": "Lainate, furto al parcheggio del Roadhouse: spaccata nell’auto dopo la cena. Ennesimo episodio di microcriminalità nel Comune di...",
+      "publishedAt": "2026-11-14T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Varedo: picchia la compagna incinta, 27enne fermato e allontanato dai Carabinieri",
+      "url": "https://www.ilnotiziario.net/varedo-picchia-la-compagna-incinta-27enne-fermato-e-allontanato-dai-carabinieri/",
+      "excerpt": "A Varedo, picchia la compagna incinta e tenta di impedirle di urlare, fermato e allontanato dal tempestivo intervento dei...",
+      "publishedAt": "2026-11-14T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Milano: 92enne rapinato in casa e morto in ospedale, fermati due indagati",
+      "url": "https://www.ilnotiziario.net/milano-92enne-rapinato-in-casa-e-morto-in-ospedale-fermati-due-indagati/",
+      "excerpt": "A Milano un 92enne che viveva solo è stato rapinato in casa e morto in ospedale dopo le percosse ricevute. Una brutale...",
+      "publishedAt": "2026-11-14T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Bollate, ladri incappucciati in casa: il cane viene preso a bastonate",
+      "url": "https://www.ilnotiziario.net/bollate-ladri-incappucciati-in-casa-il-cane-viene-preso-a-bastonate/",
+      "excerpt": "Bollate, Ladri incappucciati entrano in casa: il cane viene preso a bastonate. Prosegue in città l’allarme ladri che avevamo...",
+      "publishedAt": "2026-11-14T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "Senza assicurazione e con la patente falsa",
       "url": "https://www.ilnotiziario.net/senza-assicurazione-e-con-la-patente-falsa/",
@@ -86,34 +114,6 @@
       "excerpt": "A Novate la consegna a domicilio di un pacco contenente 13 kg di marijuana si è concluso con l’arresto del destinatario da...",
       "publishedAt": "2026-11-13T00:00:00Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Cesate, donna investita da auto finisce in ospedale",
-      "url": "https://www.ilnotiziario.net/cesate-donna-investita-da-auto-finisce-in-ospedale/",
-      "excerpt": "Incidente ieri sera a Cesate, una donna è stata investita da un’auto ed è finita in ospedale in codice giallo, Un...",
-      "publishedAt": "2026-11-13T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Mail minatoria, panico nelle scuole; Rho, lutto per Francesco, morto a 19 anni – ANTEPRIMA",
-      "url": "https://www.ilnotiziario.net/mail-minatoria-panico-nelle-scuole-rho-lutto-per-francesco-morto-a-19-anni-anteprima/",
-      "excerpt": "📰 IL NOTIZIARIO È IN EDICOLA E ONLINE! 📰 Torna oggi in edicola e online il nuovo numero del nostro settimanale con fatti, notizie...",
-      "publishedAt": "2026-11-13T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Sesto San Giovanni, sospetto spaccio durante le consegne da rider: arrestato",
-      "url": "https://www.ilnotiziario.net/sesto-san-giovanni-sospetto-spaccio-durante-le-consegne-da-rider-arrestato/",
-      "excerpt": "Sesto San Giovanni, sospetto spaccio durante le consegne da rider: arrestato Un’attività di consegna a domicilio utilizzata...",
-      "publishedAt": "2026-11-12T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Acqua “rubata” alle casette di Caronno: arriva la tessera sanitaria",
-      "url": "https://www.ilnotiziario.net/acqua-rubata-alle-casette-di-caronno-arriva-la-tessera-sanitaria/",
-      "excerpt": "E’ deciso: delle casette dell’acqua di Caronno non potranno più servirsi i non residenti. A breve ci si potrà rifornire solo con...",
-      "publishedAt": "2026-11-12T00:00:00Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -127,5 +127,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 1.52
+  "durationSeconds": 2.2
 }

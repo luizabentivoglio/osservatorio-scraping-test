@@ -4,7 +4,7 @@
   "sourceId": "iss",
   "originUrl": "https://www.iss.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-14T09:28:24.250804Z",
+  "collectedAt": "2026-11-14T16:45:19.158249Z",
   "status": "error",
   "diagnosticCode": "connection_error",
   "method": "html",
@@ -14,5 +14,5 @@
   "message": "SSLError",
   "httpStatus": null,
   "failedUrl": "https://www.iss.it/robots.txt",
-  "durationSeconds": 0.46
+  "durationSeconds": 0.63
 }
