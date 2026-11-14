@@ -4,7 +4,7 @@
   "sourceId": "cisl",
   "originUrl": "https://www.cisl.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-14T16:44:41.448405Z",
+  "collectedAt": "2026-11-14T22:46:02.989733Z",
   "status": "blocked",
   "diagnosticCode": "robots_disallowed",
   "method": "html",
@@ -23,5 +23,5 @@
   "message": "Percorso escluso da robots.txt",
   "httpStatus": null,
   "failedUrl": "https://www.cisl.it/feed/",
-  "durationSeconds": 11.4
+  "durationSeconds": 11.19
 }

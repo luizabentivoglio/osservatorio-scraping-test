@@ -4,12 +4,19 @@
   "sourceId": "italia-domani-rizzo",
   "originUrl": "https://www.italiadomanirizzo.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-14T16:45:19.649218Z",
+  "collectedAt": "2026-11-14T22:46:40.384898Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "Famiglia nel bosco, Rizzo: \"Rigetto ricongiungimento vergognoso, troppa discrezionalità\" - Italia",
+      "url": "https://www.italiadomanirizzo.it/famiglia-nel-bosco-rizzo-rigetto-ricongiungimento-vergognoso/",
+      "excerpt": "Marco Rizzo interviene sul caso della famiglia nel bosco dopo la decisione della Corte d’Appello dell'Aquila, denunciando disparità di trattamento nella giustizia.",
+      "publishedAt": "2026-11-14T00:00:00Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
     {
       "title": "Carburanti: la Slovenia taglia le accise e la benzina scende a 1,50 euro al litro - Italia Domani",
       "url": "https://www.italiadomanirizzo.it/carburanti-la-slovenia-taglia-le-accise-e-la-benzina-scende/",
@@ -23,13 +30,6 @@
       "excerpt": "I dati aggiornati sui prezzi dei carburanti registrano un rincaro per il diesel a causa della fine del taglio delle accise, mentre la benzina si mantiene stabile.",
       "publishedAt": "2026-11-09T00:00:00Z",
       "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Carrara: il dirigente nazionale Andrea Romiti in prima linea per Italia Domani - Italia Domani",
-      "url": "https://www.italiadomanirizzo.it/grande-partecipazione-a-carrara-con-italia-domani-e-il-salut/",
-      "excerpt": "Grande successo a Marina di Carrara con Andrea Romiti protagonista alla presentazione del libro di Tommaso Cerno e alla partecipata cena del movimento con la videochiamata di Marco Rizzo.",
-      "publishedAt": "2026-11-07T00:00:00Z",
-      "dateEvidence": "jsonld:datePublished"
     }
   ],
   "attempts": [
@@ -42,15 +42,15 @@
       "status": 200
     },
     {
+      "url": "https://www.italiadomanirizzo.it/famiglia-nel-bosco-rizzo-rigetto-ricongiungimento-vergognoso/",
+      "status": 200
+    },
+    {
       "url": "https://www.italiadomanirizzo.it/carburanti-la-slovenia-taglia-le-accise-e-la-benzina-scende/",
       "status": 200
     },
     {
       "url": "https://www.italiadomanirizzo.it/carburanti-il-gasolio-torna-a-salire-dopo-lo-stop-al-taglio/",
-      "status": 200
-    },
-    {
-      "url": "https://www.italiadomanirizzo.it/grande-partecipazione-a-carrara-con-italia-domani-e-il-salut/",
       "status": 200
     },
     {
@@ -94,5 +94,5 @@
   "candidateCount": 8,
   "datedCount": 3,
   "listingUrl": "https://www.italiadomanirizzo.it/",
-  "durationSeconds": 6.57
+  "durationSeconds": 5.71
 }

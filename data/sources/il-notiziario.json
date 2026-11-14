@@ -4,12 +4,19 @@
   "sourceId": "il-notiziario",
   "originUrl": "https://www.ilnotiziario.net/",
   "configuredFeedUrl": "https://www.ilnotiziario.net/feed/",
-  "collectedAt": "2026-11-14T16:45:17.443976Z",
+  "collectedAt": "2026-11-14T22:46:38.634934Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.ilnotiziario.net/feed/",
   "items": [
+    {
+      "title": "Paderno, a Calderara arriva un’oasi a misura di gatto",
+      "url": "https://www.ilnotiziario.net/paderno-a-calderara-arriva-un-oasi-a-misura-di-gatto/",
+      "excerpt": "Paderno, a Calderara arriva un’oasi a misura di gatto. Entro un anno Paderno Dugnano avrà la sua prima oasi felina. Sorgerà...",
+      "publishedAt": "2026-11-14T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "Lainate, furto al parcheggio del Roadhouse: spaccata nell’auto dopo la cena",
       "url": "https://www.ilnotiziario.net/lainate-furto-al-parcheggio-del-roadhouse-spaccata-nellauto-dopo-la-cena/",
@@ -107,13 +114,6 @@
       "excerpt": "Limbiate, a Luca Attanasio l’Ambrogino d’oro alla memoria dal Comune di Milano Milano si prepara a rendere omaggio a...",
       "publishedAt": "2026-11-13T00:00:00Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Novate: consegna a domicilio di 13 kg di marijuana, ma il finto corriere è un poliziotto di Rho che lo arresta",
-      "url": "https://www.ilnotiziario.net/novate-consegna-a-domicilio-di-13-kg-di-marijuana-ma-il-finto-corriere-e-un-poliziotto-di-rho-che-lo-arresta/",
-      "excerpt": "A Novate la consegna a domicilio di un pacco contenente 13 kg di marijuana si è concluso con l’arresto del destinatario da...",
-      "publishedAt": "2026-11-13T00:00:00Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -127,5 +127,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 2.2
+  "durationSeconds": 1.75
 }

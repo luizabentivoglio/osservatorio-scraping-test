@@ -4,7 +4,7 @@
   "sourceId": "emergency",
   "originUrl": "https://www.emergency.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-14T16:45:05.025326Z",
+  "collectedAt": "2026-11-14T22:46:27.659187Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -17,6 +17,10 @@
     },
     {
       "url": "https://www.emergency.it/",
+      "status": 200
+    },
+    {
+      "url": "https://www.emergency.it/comunicati-stampa/life-support-seguita-da-imbarcazione-non-identificata-trovato-il-corpo-di-una-donna-alla-deriva/",
       "status": 200
     },
     {
@@ -36,16 +40,18 @@
       "status": 200
     },
     {
-      "url": "https://www.emergency.it/blog/dai-progetti/quando-me-lhanno-detto-non-riuscivo-a-crederci-la-storia-di-tarique/",
-      "status": 200
-    },
-    {
       "url": "https://www.emergency.it/progetti/gaza-assistenza-sanitaria/",
       "status": 200
     }
   ],
   "message": "0 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [
+    {
+      "url": "https://www.emergency.it/comunicati-stampa/life-support-seguita-da-imbarcazione-non-identificata-trovato-il-corpo-di-una-donna-alla-deriva/",
+      "title": "Life Support seguita da imbarcazione non identificata. Trovato il corpo di una donna alla deriva.",
+      "h1": "Life Support seguita da imbarcazione non identificata. Trovato il corpo di una donna alla deriva.",
+      "dates": []
+    },
     {
       "url": "https://www.emergency.it/io-obietto/",
       "title": "“io obietto”: firma la LIP per il diritto all’obiezione di coscienza alla guerra",
@@ -99,7 +105,7 @@
     }
   ],
   "candidateCount": 8,
-  "datedCount": 3,
+  "datedCount": 2,
   "listingUrl": "https://www.emergency.it/",
-  "durationSeconds": 8.45
+  "durationSeconds": 7.9
 }

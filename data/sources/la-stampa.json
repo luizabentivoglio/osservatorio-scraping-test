@@ -4,12 +4,40 @@
   "sourceId": "la-stampa",
   "originUrl": "https://www.lastampa.it/",
   "configuredFeedUrl": "https://www.lastampa.it/rss/copertina.xml",
-  "collectedAt": "2026-11-14T16:45:20.420435Z",
+  "collectedAt": "2026-11-14T22:46:41.291290Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.lastampa.it/rss/copertina.xml",
   "items": [
+    {
+      "title": "Il giallo dei bot contro i politici italiani: così l’AI svela l’assalto sui social",
+      "url": "https://www.lastampa.it/tech/2026/11/14/news/non_posso_insultare_quel_partito_cosi_l_intelligenza_artificiale_ha_svelato_i_bot_della_politica-15798267/",
+      "excerpt": "Messaggi automatici in inglese compaiono sotto i post di Salvini e di altri politici italiani. I sistemi AI rifiutano le richieste, ma i bot pubblicano ugualmente le risposte. La Lega: “Vogliamo sapere chi si nasconde dietro questi account”",
+      "publishedAt": "2026-11-14T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Facebook accedeva alle foto degli utenti senza consenso: dal Garante multa da 805 milioni a Meta",
+      "url": "https://www.lastampa.it/tech/2026/11/14/news/facebook_accedeva_alle_foto_degli_utenti_senza_consenso_dal_garante_multa_da_805_milioni_a_meta-15798110/",
+      "excerpt": "Il gruppo americano sanzionato per una funzione dell'app Android che suggerisce immagini e video da pubblicare, accedendo alla galleria dello smartphone senza un'autorizzazione specifica. Sono coinvolti circa 20 milioni di italiani",
+      "publishedAt": "2026-11-14T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Caos nei cieli Usa: più di 16mila voli cancellati tra ieri e oggi. Disagi anche a Malpensa",
+      "url": "https://www.lastampa.it/esteri/2026/11/14/news/caos_negli_aeroporti_usa_prima_fermati_tutti_i_voli_poi_l_agenzia_dell_aviazione_revoca_il_blocco-15797921/",
+      "excerpt": "Il blocco dei voli negli Stati Uniti è scattato in seguito a un guasto ai sistemi di comunicazione dei centri di controllo del traffico aereo",
+      "publishedAt": "2026-11-14T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Monica Busetto, 13 anni in carcere da innocente: “Mio padre non c’era ad aspettarmi”",
+      "url": "https://www.lastampa.it/cronaca/2026/11/14/news/monica_busetto_innocente_padre_venezia-15798348/",
+      "excerpt": "A 64 anni torna a Venezia dopo 13 anni trascorsi in carcere da innocente: «Non ho più il mio lavoro, la città è cambiata. Voglio riprendermi la mia vita»",
+      "publishedAt": "2026-11-14T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "Roma apre a Berlino nel GCAP, il super-caccia da miliardi. Smentito il Financial Times: nessun veto",
       "url": "https://www.lastampa.it/cronaca/2026/11/14/news/gcap_jet_italia_germania-15798284/",
@@ -18,30 +46,30 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Farage ufficializza la rottura con Putin: “È la più grande minaccia per il Regno Unito”",
-      "url": "https://www.lastampa.it/esteri/2026/11/14/news/farage_ufficializza_la_rottura_con_putin_e_la_piu_grande_minaccia_per_il_regno_unito-15798097/",
-      "excerpt": "Da sempre accusato di simpatie filo-putiniane il leader della destra anti-immigrazione prende posizione contro Mosca",
+      "title": "Le voci della disillusione ucraina: “Negoziati farlocchi, bene sololo scambio dei prigionieri”",
+      "url": "https://www.lastampa.it/esteri/2026/11/14/news/le_voci_della_disillusione_ucraina_negoziati_farlocchi_bene_sololo_scambio_dei_prigionieri-15798571/",
+      "excerpt": "Da Kharkiv a Kiev, gli ucraini abituati alle bombe non si fidano delle trattative e aspettano l’inverno",
       "publishedAt": "2026-11-14T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "“Non posso insultare quel partito”: così l’AI svela i bot della politica sui social",
-      "url": "https://www.lastampa.it/tech/2026/11/14/news/non_posso_insultare_quel_partito_cosi_l_intelligenza_artificiale_ha_svelato_i_bot_della_politica-15798267/",
-      "excerpt": "Messaggi automatici in inglese compaiono sotto i post di Salvini e di altri politici italiani. I sistemi AI rifiutano le richieste, ma i bot pubblicano ugualmente le risposte. La Lega: “Vogliamo sapere chi si nasconde dietro questi account”",
-      "publishedAt": "2026-11-14T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Microsoft, anatomia di un blackout:perché Outlook e Teams non hanno funzionato per un giorno e mezzo",
-      "url": "https://www.lastampa.it/tech/2026/11/14/news/microsoft_anatomia_di_un_blackout_perche_outlook_e_teams_non_hanno_funzionato_per_un_giorno_e_mezzo-15798083/",
-      "excerpt": "Un aggiornamento della rete ha messo in crisi Microsoft 365. I server tornavano online, ma smettevano nuovamente di funzionare quando ricevevano traffico. La cronologia del guasto, dalle prime anomalie al difficile ripristino.",
-      "publishedAt": "2026-11-14T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Sinner ai ragazzi: “State lontani dai social network”",
+      "title": "Sinner e Maldini, la lezione dei fuoriclasse ai giovani: “Non abbiate paura di perdere”",
       "url": "https://www.lastampa.it/sport/speciali/atp-finals-2026/2026/11/14/news/sinner_ai_ragazzi_state_lontani_dai_social_network-15798268/",
-      "excerpt": "Il tennista a Torino dialoga con Paolo Maldini: «A me non è mai fregato di quello che pensano gli altri, ma bisogna stare attenti. Meglio andare in un bar, prendere un caffè e conoscere una persona dal vivo»",
+      "excerpt": "A Torino il confronto tra Jannik e Paolo davanti a decine di ragazzini",
+      "publishedAt": "2026-11-14T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Sinner a Torino: \"Ecco cosa mi è successo davvero agli Internazionali di Roma\"",
+      "url": "https://www.lastampa.it/sport/speciali/atp-finals-2026/2026/11/14/video/sinner_a_torino_ecco_cosa_mi_e_successo_davvero_agli_internazionali_di_roma-15798585/",
+      "excerpt": "«State lontani dai social», il consiglio di Jannik Sinner ai giovani che cominciano a giocare a tennis. Il campione ha dialogato con l'ex calciatore Paolo Maldini in un evento organizzato dallo sponsor Nike a Torino. Davanti a una ventina di bambini e ragazzi delle scuole tennis torinesi, Sinner ha raccontato come a 13",
+      "publishedAt": "2026-11-14T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Atp Finals, Binaghi: “Torino ha capito il valore del tennis, è un successo indiscutibile”",
+      "url": "https://www.lastampa.it/sport/speciali/atp-finals-2026/2026/11/14/news/atp_finals_angelo_binaghi_profumo_di_tennis-15798353/",
+      "excerpt": "Il presidente della Federazione italiana tennis e padel all’evento «Profumo di tennis» organizzato da La Stampa",
       "publishedAt": "2026-11-14T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -53,44 +81,9 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "ATP Finals, Torino sogna oltre il 2030. Binaghi scherza: \"Il sindaco è poco ambizioso\"",
-      "url": "https://www.lastampa.it/sport/speciali/atp-finals-2026/2026/11/14/video/atp_finals_torino_lo_russo_binaghi_futuro_2030-15798138/",
-      "excerpt": "Torino punta a ospitare le ATP Finals fino al 2030, ma Angelo Binaghi, presidente della Federazione Italiana Tennis e Padel, rilancia e guarda ancora più lontano. «Per una volta il sindaco è poco ambizioso. Perché si pone solo l'obiettivo del 2030. Invece, tra il serio e il faceto, stiamo anche sognando qualcosa di più",
-      "publishedAt": "2026-11-14T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Cercasi Sinner disperatamente",
-      "url": "https://www.lastampa.it/sport/speciali/atp-finals-2026/2026/11/14/news/cercasi_sinner_disperatamente-15798036/",
-      "excerpt": "Torino lo ha visto impegnato in tante prime volte e ora assiste a una versione inedita. Ospite, invitato speciale, rivale mancato, ex fidanzato e centro dell’attenzione",
-      "publishedAt": "2026-11-14T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Carovita e fondi alla guerra: si torna in piazza. Parma blindata per il doppio corteo “rosso-nero”",
-      "url": "https://www.lastampa.it/cronaca/2026/11/14/news/cortei_violenti_perquisizioni_in_13_citta_oggi_nuove_manifestazioni_da_torino_a_milano-15798076/",
-      "excerpt": "Stamane le perquisizioni della Digos in 50 città per gli scontri delle settimane scorse: coinvolti anche i minorenni",
-      "publishedAt": "2026-11-14T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Orsini contro la manovra: “Superbonus in 10 anni? Insostenibile, è un tema di diritto”",
-      "url": "https://www.lastampa.it/economia/2026/11/14/news/confindustria_convoca_le_assise_generali_si_terranno_ad_aprile_2027_a_bologna-15798125/",
-      "excerpt": "Confindustria convoca le assise generali. Si terranno ad aprile a Bologna, è la quinta volta nella storia. Il presidente: «A rischio la fiducia tra imprese e istituzioni»",
-      "publishedAt": "2026-11-14T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Tutte le modifiche in arrivo e cosa può cambiare. Scuola, dietrofront del governo",
-      "url": "https://www.lastampa.it/economia/2026/11/14/news/manovra_pensioni_superbonus_modifiche-15797865/",
-      "excerpt": "Resa dei conti in maggioranza, ma le risorse non bastano. Sui crediti lo spettro del default",
-      "publishedAt": "2026-11-14T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Scontro tra due auto in galleria: quattro vittime e un ferito grave",
-      "url": "https://www.lastampa.it/cronaca/2026/11/14/news/scontro_tra_due_auto_in_galleria_quattro_vittime_e_un_ferito_grave-15798140/",
-      "excerpt": "Nel Cosentino sulla statale 107, a San Fili",
+      "title": "L’escalation dello stalker, sale sul tetto e rimane 60 ore: “O diventi mia o mi butto”",
+      "url": "https://www.lastampa.it/torino/2026/11/14/news/l_escalation_dello_stalker_sale_sul_tetto_e_rimane_60_ore_o_diventi_mia_o_mi_butto-15797805/",
+      "excerpt": "Nel quartiere Santa Rita a Torino, un quarantenne ha perseguitato per due anni una donna “conosciuta” su TikTok",
       "publishedAt": "2026-11-14T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -102,6 +95,13 @@
       "dateEvidence": "feed:published"
     },
     {
+      "title": "La prof che valuta senza voti vince la sua battaglia: caso archiviato",
+      "url": "https://www.lastampa.it/torino/2026/11/14/news/maria_ernestina_morello_scuola_senza_voti_caso_archiviato-15798219/",
+      "excerpt": "Maria Ernestina Morello (Copernico-Luxemburg) era finita sotto ispezione per il metodo basato su giudizi descrittivi anziché sui numeri. Dopo mesi di contestazioni, l'Ufficio scolastico archivia il caso",
+      "publishedAt": "2026-11-14T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
       "title": "Muore in strada a Roma colpito con un paio di forbici a petto e gola per 20 euro",
       "url": "https://www.lastampa.it/cronaca/2026/11/14/news/ucciso_forbici_lite_roma-15798059/",
       "excerpt": "La vittima è un cittadino marocchino, l’aggressione è avvnuta in via Torpignattara davanti agli occhi della fidanzata dell’uomo ucciso",
@@ -109,23 +109,9 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "L’escalation dello stalker, sale sul tetto e rimane 60 ore: “O diventi mia o mi butto”",
-      "url": "https://www.lastampa.it/torino/2026/11/14/news/l_escalation_dello_stalker_sale_sul_tetto_e_rimane_60_ore_o_diventi_mia_o_mi_butto-15797805/",
-      "excerpt": "Nel quartiere Santa Rita a Torino, un quarantenne ha perseguitato per due anni una donna “conosciuta” su TikTok",
-      "publishedAt": "2026-11-14T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Caos nei cieli Usa per 4 ore: migliaia di voli cancellati e in ritardo per un aggiornamento software",
-      "url": "https://www.lastampa.it/esteri/2026/11/14/news/caos_negli_aeroporti_usa_prima_fermati_tutti_i_voli_poi_l_agenzia_dell_aviazione_revoca_il_blocco-15797921/",
-      "excerpt": "Secondo Cnn cancellati ieri oltre 15mila viaggi, oggi altri 3mila annullati o in ritardo",
-      "publishedAt": "2026-11-14T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "“Il blocco dei voli in America? Colpa di un’infrastruttura obsoleta”",
-      "url": "https://www.lastampa.it/esteri/2026/11/14/news/blocco_voli_aerei_america_alegi-15798002/",
-      "excerpt": "L’analista Alegi: «Da dieci anni i Repubblicani in Congresso dicono no alle spese per gli ammodernamenti. Un modulo di intelligenza artificiale inserito in un sistema vecchio può aver bloccato tutto. E i controllori possono essere stati presi dalla paura degli hacker anche in assenza di minacce»",
+      "title": "Il canto delle sirene di Netanyahu. Ma Eisenkot non si lascia incantare",
+      "url": "https://www.lastampa.it/esteri/2026/11/14/news/netanyahu_eisenkot_governo-15798647/",
+      "excerpt": "Il premier uscente lo invita a un governo di unità, ma il rivale scopre le carte: “I negoziati erano già fissati”. Bibi punta sulle divisioni del fronte avversario e sul conto alla rovescia",
       "publishedAt": "2026-11-14T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -137,44 +123,9 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "L’infermiera scarcerata dopo quasi 14 anni: “Non auguro a nessuno quello che ho provato io” | Video",
-      "url": "https://www.lastampa.it/cronaca/2026/11/14/news/l_infermiera_scarcerata_dopo_14_anni_non_auguro_a_nessuno_quello_che_ho_provato_io-15798123/",
-      "excerpt": "Monica Busetto era accusata dell’omicidio di un’anziana. Ieri la svolta giudiziaria: «Stanotte non ho dormito. Non ho un lavoro e non ho una casa ma vado avanti»",
-      "publishedAt": "2026-11-14T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Novella Calligaris, la donna delle prime volte del nuoto italiano: “Che coraggio Sara Curtis”",
-      "url": "https://www.lastampa.it/cuneo/2026/11/14/news/novella_calligaris-15798231/",
-      "excerpt": "Ha vinto le prime medaglie olimpiche a Monaco di Baviera nel ‘72 e ha stabilito il primo record del mondo a Belgrado nel ‘73 prima di ritirarsi a soli 19 anni. Ora l’ex campionessa si racconta in un memoir “Pulce. La mia vita tra le onde”",
-      "publishedAt": "2026-11-14T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Gaza sott’acqua, l’appello al governo: “Inviare la Marina militare in soccorso”",
-      "url": "https://www.lastampa.it/politica/2026/11/14/news/gaza_sott_acqua_l_appello_al_governo_inviare_la_marina_militare_in_soccorso-15798045/",
-      "excerpt": "La Valle, Riccardi e Zagrebelsky chiedono un intervento umanitario con navi militari disarmate, sul modello della missione in Albania del 1997: “L’Italia può coinvolgere altri Paesi europei e mediterranei”",
-      "publishedAt": "2026-11-14T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "La prof che valuta senza voti vince la sua battaglia: caso archiviato",
-      "url": "https://www.lastampa.it/torino/2026/11/14/news/maria_ernestina_morello_scuola_senza_voti_caso_archiviato-15798219/",
-      "excerpt": "Maria Ernestina Morello (Copernico-Luxemburg) era finita sotto ispezione per il metodo basato su giudizi descrittivi anziché sui numeri. Dopo mesi di contestazioni, l'Ufficio scolastico archivia il caso",
-      "publishedAt": "2026-11-14T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "“La fede non è magia”. Così Leone XIV è tornato “padre Roberto”",
-      "url": "https://www.lastampa.it/cronaca/2026/11/14/news/la_fede_non_e_magia_cosi_leone_xiv_e_tornato_padre_roberto-15797952/",
-      "excerpt": "«La visita nella sua Chiclayo restituisce al mondo l'immagine di un Papa dal volto umano, capace di emozioni forti e vere», spiega il vescovo Mogavero",
-      "publishedAt": "2026-11-14T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Manca il portiere, fra i pali si alternano un attaccante e un difensore: la partita è da guinness",
-      "url": "https://www.lastampa.it/torino/2026/11/14/news/manca_il_portiere_fra_i_pali_si_alternano_un_attaccante_e_un_difensore_la_partita_e_da_guinness-15798009/",
-      "excerpt": "Il Caselette Under 21 è arrivato al campo dell’Atletico Mirafiori senza numero uno: così il tecnico si è inventato la soluzione improvvisata. Ed è arrivata anche la vittoria",
+      "title": "Farage ufficializza la rottura con Putin: “È la più grande minaccia per il Regno Unito”",
+      "url": "https://www.lastampa.it/esteri/2026/11/14/news/farage_ufficializza_la_rottura_con_putin_e_la_piu_grande_minaccia_per_il_regno_unito-15798097/",
+      "excerpt": "Da sempre accusato di simpatie filo-putiniane il leader della destra anti-immigrazione prende posizione contro Mosca",
       "publishedAt": "2026-11-14T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -200,9 +151,23 @@
       "dateEvidence": "feed:published"
     },
     {
+      "title": "Orgoglio, ranking ma anche soldi: l'Italia vuole prendersi la vetta con il Belgio",
+      "url": "https://www.lastampa.it/sport/2026/11/14/news/belgio_italia_vittoria_ranking_premio_girone-15798574/",
+      "excerpt": "Gli azzurri di Mancini si giocano il primo posto nel girone di Nations League: una vittoria contro il Belgio (o un pareggio, se la Francia non batte la Turchia) garantirebbe qualificazione da testa di serie, un miglior ranking e maggiori incassi. Il ct avverte: «Non cambiamo mentalità, dobbiamo attaccare senza avere pa",
+      "publishedAt": "2026-11-14T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
       "title": "Elezioni Federcalcio, nessun colpo di scena: ammesse le candidature di Malagò e Galliani",
       "url": "https://www.lastampa.it/sport/2026/11/14/news/elezioni_federcalcio_malago_galliani_candidati-15798127/",
       "excerpt": "Il segretario generale convalida i documenti per la corsa alla presidenza e al Consiglio federale, ma il 24 novembre si discute il ricorso dell’ex ad del Monza sulla commissione e sulla doppia firma del Genoa",
+      "publishedAt": "2026-11-14T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Anche Haaland aveva iniziato così, Pio Esposito può riscrivere la storia azzurra",
+      "url": "https://www.lastampa.it/sport/2026/11/14/news/pio_esposito_confronto_haaland_gigi_riva-15797968/",
+      "excerpt": "Le 9 reti nelle prime 14 partite sono il trampolino per dare l’assalto allo storico record di Gigi Riva",
       "publishedAt": "2026-11-14T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -214,30 +179,86 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "New York, Lisbona, Hong Kong: il calendario Lavazza 2027 esplora la bellezza del mondo",
-      "url": "https://www.lastampa.it/cronaca/2026/11/14/news/new_york_lisbona_hong_kong_il_calendario_lavazza_2027_esplora_la_bellezza_del_mondo-15797818/",
-      "excerpt": "La 35esima edizione del Calendario coincide con gli ottant’anni che Magnum compirà nel 2027",
-      "publishedAt": "2026-11-14T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Carlo Ratti: “Sulla Via Emilia nasce un polo culturale per cambiare le città”",
-      "url": "https://www.lastampa.it/cultura/2026/11/14/news/sulla_via_emilia_nasce_un_polo_culturale_per_cambiare_le_citta-15797773/",
-      "excerpt": "Colloquio con l’architetto che oggi ha presentato lo spazio Ago a Modena",
-      "publishedAt": "2026-11-14T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Paul Belmondo:“Di papà Jean-Paul mi manca tutto. Anche le partite a casa di Claudia Cardinale”",
-      "url": "https://www.lastampa.it/spettacoli/2026/11/14/news/paul_belmondodi_papa_jean-paul_mi_manca_tutto_anche_le_partite_a_casa_di_claudia_cardinale-15797664/",
-      "excerpt": "Il figlio dell’attore, ex pilota, al Monte-Carlo Film Festival: “Ora recito, come voleva lui”",
-      "publishedAt": "2026-11-14T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
       "title": "“Eternit, il reato si consuma finché ha effetti. Prescrizione? La politica non mi ha ascoltato”",
       "url": "https://www.lastampa.it/cronaca/2026/11/14/news/eternit_il_reato_si_consuma_finche_ha_effetti_prescrizione_la_politica_non_mi_ha_ascoltato-15797809/",
       "excerpt": "Raffaele Guariniellio, il pm che avviò l’inchiesta: «Oggi non si fanno più processi per le malattie sul lavoro, anche la giustizia è in crisi»",
+      "publishedAt": "2026-11-14T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Bruxelles, l'Italia omaggia le vittime dell'Heysel",
+      "url": "https://www.lastampa.it/sport/2026/11/14/video/bruxelles_litalia_omaggia_le_vittime_dellheysel-15798588/",
+      "excerpt": "Alla viglia di Belgio-Italia non si dimentica il passato. Il ct Mancini, il commissario federale Malagò, il direttore tecnico Ranieri e Scalvini in rappresentanza della squadra hanno deposto un mazzo di fiori presso la targa che, allo stadio Re Baldovino (già Heysel) ricorda i 39 tifosi della Juventus morti a margine d",
+      "publishedAt": "2026-11-14T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Carlo III scherza con Elton John sull'età: \"Siamo ancora in piedi\" e la sua risposta sorprende il re",
+      "url": "https://www.lastampa.it/esteri/2026/11/14/video/15798131-15798131/",
+      "excerpt": "«Siamo ancora in piedi». Re Carlo III scherza con Elton John sugli acciacchi dell'età durante una puntata speciale del programma radiofonico Elton John's Rocket Hour, trasmessa su Apple Music sabato 14 novembre, giorno del 78° compleanno del sovrano. I due ripercorrono i concerti organizzati per sostenere il King's Tru",
+      "publishedAt": "2026-11-14T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Montagne di soldi nascoste nei boschi: il maxi sequestro nell'inchiesta sull'ex ministro di Orbán",
+      "url": "https://www.lastampa.it/esteri/2026/11/14/video/ungheria_milioni_contanti_boschi_sequestro_ex_ministro_orban-15798252/",
+      "excerpt": "Pile di banconote disposte sul pavimento di un magazzino, scatole piene di contanti e agenti impegnati a scavare nei boschi. Sono le immagini diffuse dalle autorità ungheresi dopo il ritrovamento di quasi 20 milioni di dollari, recuperati nell'ambito di un'indagine per corruzione che coinvolge Miklós Seszták, ex minist",
+      "publishedAt": "2026-11-14T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "La destra ha vinto grazie alle parole. Non l’abbiamo ascoltata parlare",
+      "url": "https://www.lastampa.it/cultura/2026/11/14/news/la_destra_ha_vinto_grazie_alle_parole_non_l_abbiamo_ascoltata_parlare-15797774/",
+      "excerpt": "Il saggio a cura di Gallino sulla mutazione semantica di: famiglia, tradizione, merito, ordine, libertà, radical chic",
+      "publishedAt": "2026-11-14T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "La natura presenta il conto, la Cop31 sta a guardare",
+      "url": "https://www.lastampa.it/cronaca/2026/11/14/news/in_dodici_anni_221_morti_e_danni_record_la_natura_presenta_il_conto-15797759/",
+      "excerpt": "Alluvioni improvvise (flash-flood), super celle temporalesche, trombe d’aria e grandinate ci riportano all'altra faccia dell'attuale crisi climatica, quella di inondazioni e frane, che avevamo ...",
+      "publishedAt": "2026-11-14T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Malkovich e i dubbi dell’America",
+      "url": "https://www.lastampa.it/spettacoli/2026/11/14/news/malkovich_e_i_dubbi_dell_america-15797641/",
+      "excerpt": "“Wild Horse Nine” di McDonagh acclamato alla Mostra di Venezia non convince gli Usa: per i critici il problema non sono i temi, ma lo stile oscillante tra cinismo e sentimentalismo",
+      "publishedAt": "2026-11-14T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Un’alleanza del Nord-Ovest per gli aeroporti e Ryanair guarda a Cuneo: potremmo investire",
+      "url": "https://www.lastampa.it/nord-ovest/2026/11/14/news/alleanza_nord-ovest_aeroporti_ryanair_cuneo_levaldigi-15798176/",
+      "excerpt": "Torino e Milano studiano l’integrazione tra le società che gestiscono Caselle, Linate e Malpensa. Genova prova a inserirsi",
+      "publishedAt": "2026-11-14T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Michela dalla sartoria ai campi di porri: quando cambiare mestiere è anche cambiare vita",
+      "url": "https://www.lastampa.it/cuneo/2026/11/14/news/michela_dalla_sartoria_ai_campi_di_porri_quando_cambiare_mestiere_e_anche_cambiare_vita-15798184/",
+      "excerpt": "Dalla sartoria ai campi di porri, per Michela Vinai il cambio di mestiere è stato anche un cambio di vita. Da 32 anni lavora accanto al marito Paolo Costantino nell’azienda agricola di Grinzano ...",
+      "publishedAt": "2026-11-14T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "L’ex eroinomane e rapinatore diventa testimonial del Serd: “La mia vita tra droga e carcere”",
+      "url": "https://www.lastampa.it/aosta/2026/11/14/news/droga_rapine_instagram_dipendenze_rinascita-15797608/",
+      "excerpt": "Giacomo, oggi imprenditore in Valle d’Aosta, ha trascorso in carcere 15 anni. La prima dose nei bagni di un autogrill, il calvario e la rinascita: “Una lettera mi ha fatto innamorare”",
+      "publishedAt": "2026-11-14T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Madre malata di Alzheimer prigioniera in casa, botte per la pensione e l’assegno di accompagnamento",
+      "url": "https://www.lastampa.it/torino/2026/11/14/news/madre_malata_di_alzheimer_prigioniera_in_casa_botte_per_la_pensione_e_l_assegno_di_accompagnamento-15797831/",
+      "excerpt": "La donna di 87 anni del Canavese salvata dai carabinieri dopo le segnalazioni dei vicini. La figlia denunciata per maltrattamenti: dovrà indossare il braccialetto elettronico",
+      "publishedAt": "2026-11-14T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "I “falsi amici” della geografia italiana, da Novi Ligure a San Mango Piemonte",
+      "url": "https://www.lastampa.it/nord-ovest/2026/11/14/news/comuni_nomi_ingannevoli_italia_storia-15797370/",
+      "excerpt": "Il latino ha molto a che fare con i paesi dalla dicitura ingannevole. A volte sono vicini ai luoghi che esprimono nel nome, altre non c’entrano niente",
       "publishedAt": "2026-11-14T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -256,31 +277,17 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "La delusione di Cannavacciuolo: \"Abbiamo sbagliato, ripartiamo\"",
-      "url": "https://www.lastampa.it/cronaca/2026/11/12/video/stella_michelin_persa_cannavacciuolo_torino-15796207/",
-      "excerpt": "\"Sicuramente abbiamo sbagliato qualcosa\" Antonino Cannavacciuolo commenta con amarezza la perdita della stella Michelin del suo bistrot di Torino, che non ha ottenuto la conferma del riconoscimento nella Guida Michelin Italia 2027, presentata il 12 novembre a Piacenza. \"Ci sono stati un po' di passaggi da chef e second",
-      "publishedAt": "2026-11-12T00:00:00Z",
+      "title": "TorinoSette, Piovono palline sulla città",
+      "url": "https://www.lastampa.it/torino/2026/11/13/video/torinosette_piovono_palline_sulla_citta-15797123/",
+      "excerpt": "Le Nitto Atp Finals occupano l’Inalpi Arena con gli otto giganti del tennis mondiale e le piazze del centro con le iniziative che abbracciano l’evento sportivo: a Casa Tennis i talk con Carolina Morace, Matteo Giunta e Nicolò Martinenghi, Larissa Iapichino e numerosi altri protagonisti. E poi mostre, cibo, dj set sul t",
+      "publishedAt": "2026-11-13T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Hegseth visita il milite ignoto, scoppia una risata e la sentinella urla: \"Silenzio e rispetto\"",
-      "url": "https://www.lastampa.it/esteri/2026/11/12/video/hegseth_milite_ignoto_risata_sentinella_rimprovero-15796032/",
-      "excerpt": "Al cimitero nazionale di Arlington, in Virginia, il segretario alla Difesa statunitense Pete Hegseth, la moglie e alcuni collaboratori posano per una foto dopo una cerimonia del Veterans Day. Mentre il gruppo risale la scalinata della Tomba del Milite Ignoto, nel video si sentono alcune risate. Subito dopo, la sentinel",
-      "publishedAt": "2026-11-12T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "COP31, la parola ai giovani: cosa chiedete ai leader del mondo?",
-      "url": "https://www.lastampa.it/esteri/2026/11/12/news/cop31_giovani_richieste_leader_clima-15795606/",
-      "excerpt": "Se aveste due minuti davanti ai leader mondiali riuniti per discutere di cambiamento climatico, che cosa direste loro? È la domanda che vogliamo rivolgere alle ragazze ...",
-      "publishedAt": "2026-11-12T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Sentono un neonato piangere sotto terra: era stato sepolto vivo in una gabbia per cani",
-      "url": "https://www.lastampa.it/esteri/2026/11/11/video/south-carolina-neonato-sepolto-vivo-gabbia-cani-salvato-15795136/",
-      "excerpt": "L’allarme è scattato lunedì quando la nonna del piccolo Koah Sharpe, che lo aveva affidato temporaneamente al padre Michael Comer, ha scoperto che entrambi erano scomparsi prima dell’arrivo di un’altra persona incaricata di accudirlo. Alcune telecamere hanno poi ripreso Comer mentre si spostava nella contea di Lexingto",
-      "publishedAt": "2026-11-11T00:00:00Z",
+      "title": "Adozioni forzate, Teresita riabbraccia 40 anni dopo i figli che le furono rubati: la storia",
+      "url": "https://www.lastampa.it/esteri/2026/11/13/video/adozioni_forzate_cile_teresita_padilla_abbraccia_figli_rubati-15797095/",
+      "excerpt": "Teresita Padilla si siede tra i suoi due figli, li abbraccia e bacia loro le mani. Nelle immagini girate da Reuters l’11 novembre a Santiago del Cile, la donna ritrova Tim Rolnick, 41 anni, e Travis Murdoch, 37, due dei tre figli che le furono sottratti quando erano piccoli, durante la dittatura militare di Augusto Pin",
+      "publishedAt": "2026-11-13T00:00:00Z",
       "dateEvidence": "feed:published"
     }
   ],
@@ -295,5 +302,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 0.77
+  "durationSeconds": 1.0
 }
