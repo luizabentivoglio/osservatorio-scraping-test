@@ -4,12 +4,96 @@
   "sourceId": "la-stampa",
   "originUrl": "https://www.lastampa.it/",
   "configuredFeedUrl": "https://www.lastampa.it/rss/copertina.xml",
-  "collectedAt": "2026-11-14T22:46:41.291290Z",
+  "collectedAt": "2026-11-15T02:12:25.350694Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.lastampa.it/rss/copertina.xml",
   "items": [
+    {
+      "title": "L'incredibile giro dei vestiti usati da Milano a Roma passando per Bombay: il business del second hand",
+      "url": "https://www.lastampa.it/specchio/temi/2026/11/15/news/i_vestiti_usati_sono_come_gli_amori_fanno_giri_immensi_e_poi_troppo_spesso_ritornano-15796374/",
+      "excerpt": "Le trappole di un mercato che unisce Europa e Asia",
+      "publishedAt": "2026-11-15T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Il delitto Gucci e quella mandante innamorata del lusso",
+      "url": "https://www.lastampa.it/specchio/rubriche/i-grandi-gialli/2026/11/15/news/il_delitto_gucci_e_quella_mandante_innamorata_del_lusso-15796185/",
+      "excerpt": "Nel 1995 il presidente della maison di moda venne assassinato a Milano",
+      "publishedAt": "2026-11-15T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Cara Maria, sono angosciata perché temo che mia figlia si sposi per “dovere”",
+      "url": "https://www.lastampa.it/specchio/rubriche/amore-moderno/2026/11/15/news/l_amore_moderno-15796166/",
+      "excerpt": "Cara Maria, sono una madre angosciata in un momento in cui invece lo stato d’animo dovrebbe essere ben diverso. Tra pochi mesi si sposerà la mia amatissima figlia ...",
+      "publishedAt": "2026-11-15T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Lunga vita a noi anche senza trucco",
+      "url": "https://www.lastampa.it/specchio/rubriche/la-grande-vecchia/2026/11/15/news/lunga_vita_a_noi_anche_senza_trucco-15796151/",
+      "excerpt": "«Non ci posso credere! Ti stai truccando! Guarda cosa hai schierato sul tavolino della camera da letto! Fondotinta idratante, mascara per le ciglia, lucida labbra, ombretto glittering, la ...",
+      "publishedAt": "2026-11-15T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Como, lo stadio della discordia con un parcheggio multipiano al posto della vecchia scuola",
+      "url": "https://www.lastampa.it/sport/2026/11/15/news/como_l_arena_della_discordia_con_un_parcheggio_multipiano_al_posto_della_vecchia_scuola-15798536/",
+      "excerpt": "Il progetto per l’area dello stadio della squadra-miracolo contestato in città",
+      "publishedAt": "2026-11-15T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Lo spot che ha fatto vincere l’America dem",
+      "url": "https://www.lastampa.it/specchio/rubriche/cose-brutte/2026/11/15/news/lo_spot_che_ha_fatto_vincere_l_america_dem-15796104/",
+      "excerpt": "Lo spot “Scegli un’altra proteina”, che ha mandato in vantaggio un afroamericano in uno stato repubblicanissimo, mostra come una società multi-tutto possa rigenerarsi. E recuperare quel soft ...",
+      "publishedAt": "2026-11-15T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "“Una vocazione ha bisogno di qualcuno che la ascolti, che ci creda e dia una mano”",
+      "url": "https://www.lastampa.it/specchio/rubriche/domenica-con/2026/11/15/news/una_vocazione_ha_bisogno_di_qualcuno_che_la_ascolti_che_ci_creda_e_dia_una_mano-15796121/",
+      "excerpt": "Sabine van Vlaenderen Badinter: “A volte alle tua scelta si oppone la famiglia che non riesce a immaginare un futuro in una professione sconosciuta”",
+      "publishedAt": "2026-11-15T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Con scampi, porcini in farine e gelati: la castagna si fa gourmet",
+      "url": "https://www.lastampa.it/specchio/rubriche/sapore/2026/11/15/news/con_scampi_porcini_in_farine_e_gelati_la_castagna_si_fa_gourmet-15796134/",
+      "excerpt": "La regina dell’autunno mostra la sua versatilità a tavola",
+      "publishedAt": "2026-11-15T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Andrei Zviagyntsev:“In Russia le elezioni non sono mai esistite. E io nella mia vita non ho mai votato”",
+      "url": "https://www.lastampa.it/specchio/rubriche/a-tu-per-tu/2026/11/15/news/in_russia_le_elezioni_non_sono_mai_esistite_e_io_nella_mia_vita_non_ho_mai_votato-15796176/",
+      "excerpt": "Il regista russo: “La maggioranza dei cittadini russi non vogliono assolutamente la guerra e desiderano che finisca il più presto possibile”",
+      "publishedAt": "2026-11-15T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Tutti in coda per sentirci soli in compagnia",
+      "url": "https://www.lastampa.it/specchio/rubriche/societa/2026/11/15/news/tutti_in_coda_per_sentirci_soli_in_compagnia-15796147/",
+      "excerpt": "Per un biglietto d’ingresso. Per un (modico) sconto a scadenza ravvicinata. Per un bombolone d’altura (forse il fritto riesce meglio dove l’aria è più rarefatta, chissà). Per un minuscolo ...",
+      "publishedAt": "2026-11-15T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Nel deepweb dei falsi",
+      "url": "https://www.lastampa.it/specchio/temi/2026/11/15/news/nel_deepweb_dei_falsi-15796353/",
+      "excerpt": "Andare a caccia di “affari”, anche spregiudicati, per chi ha sempre pensato che lo shopping fosse una terapia emotiva, è diventato una necessità (o quasi) in tempi in ...",
+      "publishedAt": "2026-11-15T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Yalta, i sogni di Putin",
+      "url": "https://www.lastampa.it/specchio/rubriche/provocazioni/2026/11/15/news/i_sogni_dello_zar-15796112/",
+      "excerpt": "Problema principale, anche per l’Europa, è che Vladimir Putin vive nel passato. L’uomo seduto sul più gigantesco cumulo di risorse energetiche della terra, il capo di quello ...",
+      "publishedAt": "2026-11-15T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "Il giallo dei bot contro i politici italiani: così l’AI svela l’assalto sui social",
       "url": "https://www.lastampa.it/tech/2026/11/14/news/non_posso_insultare_quel_partito_cosi_l_intelligenza_artificiale_ha_svelato_i_bot_della_politica-15798267/",
@@ -35,6 +119,13 @@
       "title": "Monica Busetto, 13 anni in carcere da innocente: “Mio padre non c’era ad aspettarmi”",
       "url": "https://www.lastampa.it/cronaca/2026/11/14/news/monica_busetto_innocente_padre_venezia-15798348/",
       "excerpt": "A 64 anni torna a Venezia dopo 13 anni trascorsi in carcere da innocente: «Non ho più il mio lavoro, la città è cambiata. Voglio riprendermi la mia vita»",
+      "publishedAt": "2026-11-14T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Zelensky: “Dagli Usa la proposta di cedere il Donbass in cambio dell’ingresso nella Nato”",
+      "url": "https://www.lastampa.it/esteri/2026/11/15/diretta/guerra_russia_ucraina_news_oggi-15798722/",
+      "excerpt": "Kushner: «Il presidente Trump sosterrà solo accordi che rafforzino la sicurezza dell’Ucraina e dell’Europa e rendano meno probabile un futuro conflitto»",
       "publishedAt": "2026-11-14T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -98,13 +189,6 @@
       "title": "La prof che valuta senza voti vince la sua battaglia: caso archiviato",
       "url": "https://www.lastampa.it/torino/2026/11/14/news/maria_ernestina_morello_scuola_senza_voti_caso_archiviato-15798219/",
       "excerpt": "Maria Ernestina Morello (Copernico-Luxemburg) era finita sotto ispezione per il metodo basato su giudizi descrittivi anziché sui numeri. Dopo mesi di contestazioni, l'Ufficio scolastico archivia il caso",
-      "publishedAt": "2026-11-14T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Muore in strada a Roma colpito con un paio di forbici a petto e gola per 20 euro",
-      "url": "https://www.lastampa.it/cronaca/2026/11/14/news/ucciso_forbici_lite_roma-15798059/",
-      "excerpt": "La vittima è un cittadino marocchino, l’aggressione è avvnuta in via Torpignattara davanti agli occhi della fidanzata dell’uomo ucciso",
       "publishedAt": "2026-11-14T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -204,90 +288,6 @@
       "url": "https://www.lastampa.it/esteri/2026/11/14/video/ungheria_milioni_contanti_boschi_sequestro_ex_ministro_orban-15798252/",
       "excerpt": "Pile di banconote disposte sul pavimento di un magazzino, scatole piene di contanti e agenti impegnati a scavare nei boschi. Sono le immagini diffuse dalle autorità ungheresi dopo il ritrovamento di quasi 20 milioni di dollari, recuperati nell'ambito di un'indagine per corruzione che coinvolge Miklós Seszták, ex minist",
       "publishedAt": "2026-11-14T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "La destra ha vinto grazie alle parole. Non l’abbiamo ascoltata parlare",
-      "url": "https://www.lastampa.it/cultura/2026/11/14/news/la_destra_ha_vinto_grazie_alle_parole_non_l_abbiamo_ascoltata_parlare-15797774/",
-      "excerpt": "Il saggio a cura di Gallino sulla mutazione semantica di: famiglia, tradizione, merito, ordine, libertà, radical chic",
-      "publishedAt": "2026-11-14T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "La natura presenta il conto, la Cop31 sta a guardare",
-      "url": "https://www.lastampa.it/cronaca/2026/11/14/news/in_dodici_anni_221_morti_e_danni_record_la_natura_presenta_il_conto-15797759/",
-      "excerpt": "Alluvioni improvvise (flash-flood), super celle temporalesche, trombe d’aria e grandinate ci riportano all'altra faccia dell'attuale crisi climatica, quella di inondazioni e frane, che avevamo ...",
-      "publishedAt": "2026-11-14T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Malkovich e i dubbi dell’America",
-      "url": "https://www.lastampa.it/spettacoli/2026/11/14/news/malkovich_e_i_dubbi_dell_america-15797641/",
-      "excerpt": "“Wild Horse Nine” di McDonagh acclamato alla Mostra di Venezia non convince gli Usa: per i critici il problema non sono i temi, ma lo stile oscillante tra cinismo e sentimentalismo",
-      "publishedAt": "2026-11-14T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Un’alleanza del Nord-Ovest per gli aeroporti e Ryanair guarda a Cuneo: potremmo investire",
-      "url": "https://www.lastampa.it/nord-ovest/2026/11/14/news/alleanza_nord-ovest_aeroporti_ryanair_cuneo_levaldigi-15798176/",
-      "excerpt": "Torino e Milano studiano l’integrazione tra le società che gestiscono Caselle, Linate e Malpensa. Genova prova a inserirsi",
-      "publishedAt": "2026-11-14T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Michela dalla sartoria ai campi di porri: quando cambiare mestiere è anche cambiare vita",
-      "url": "https://www.lastampa.it/cuneo/2026/11/14/news/michela_dalla_sartoria_ai_campi_di_porri_quando_cambiare_mestiere_e_anche_cambiare_vita-15798184/",
-      "excerpt": "Dalla sartoria ai campi di porri, per Michela Vinai il cambio di mestiere è stato anche un cambio di vita. Da 32 anni lavora accanto al marito Paolo Costantino nell’azienda agricola di Grinzano ...",
-      "publishedAt": "2026-11-14T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "L’ex eroinomane e rapinatore diventa testimonial del Serd: “La mia vita tra droga e carcere”",
-      "url": "https://www.lastampa.it/aosta/2026/11/14/news/droga_rapine_instagram_dipendenze_rinascita-15797608/",
-      "excerpt": "Giacomo, oggi imprenditore in Valle d’Aosta, ha trascorso in carcere 15 anni. La prima dose nei bagni di un autogrill, il calvario e la rinascita: “Una lettera mi ha fatto innamorare”",
-      "publishedAt": "2026-11-14T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Madre malata di Alzheimer prigioniera in casa, botte per la pensione e l’assegno di accompagnamento",
-      "url": "https://www.lastampa.it/torino/2026/11/14/news/madre_malata_di_alzheimer_prigioniera_in_casa_botte_per_la_pensione_e_l_assegno_di_accompagnamento-15797831/",
-      "excerpt": "La donna di 87 anni del Canavese salvata dai carabinieri dopo le segnalazioni dei vicini. La figlia denunciata per maltrattamenti: dovrà indossare il braccialetto elettronico",
-      "publishedAt": "2026-11-14T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "I “falsi amici” della geografia italiana, da Novi Ligure a San Mango Piemonte",
-      "url": "https://www.lastampa.it/nord-ovest/2026/11/14/news/comuni_nomi_ingannevoli_italia_storia-15797370/",
-      "excerpt": "Il latino ha molto a che fare con i paesi dalla dicitura ingannevole. A volte sono vicini ai luoghi che esprimono nel nome, altre non c’entrano niente",
-      "publishedAt": "2026-11-14T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Zelensky: “Gli Usa hanno proposto di cedere il Donbass e in cambio entreremmo nella Nato”",
-      "url": "https://www.lastampa.it/esteri/2026/11/14/diretta/guerra_russia_ucraina_news_oggi-15797901/",
-      "excerpt": "Nyt: la Russia propone il ritiro della Nato a posizioni pre-1997, il modello è il Patto Varsavia. Il documento: si allontani da Polonia e Baltici, mappa Guerra Fredda garantiva equilibrio",
-      "publishedAt": "2026-11-13T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Rissa tra campioni di MMA: Usman arriva alle spalle di Merab e lo colpisce durante un’intervista",
-      "url": "https://www.lastampa.it/sport/2026/11/13/video/rissa_mma_usman_aggredisce_merab_dvalishvili_intervista-15797226/",
-      "excerpt": "Merab Dvalishvili, ex campione UFC dei pesi gallo, sta rilasciando un’intervista nella hall di un hotel di Abu Dhabi quando Usman Nurmagomedov, ex campione PFL dei pesi leggeri, gli si avvicina alle spalle e lo colpisce al volto. In pochi secondi la colluttazione coinvolge altre persone. Nella seconda parte del video, ",
-      "publishedAt": "2026-11-13T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "TorinoSette, Piovono palline sulla città",
-      "url": "https://www.lastampa.it/torino/2026/11/13/video/torinosette_piovono_palline_sulla_citta-15797123/",
-      "excerpt": "Le Nitto Atp Finals occupano l’Inalpi Arena con gli otto giganti del tennis mondiale e le piazze del centro con le iniziative che abbracciano l’evento sportivo: a Casa Tennis i talk con Carolina Morace, Matteo Giunta e Nicolò Martinenghi, Larissa Iapichino e numerosi altri protagonisti. E poi mostre, cibo, dj set sul t",
-      "publishedAt": "2026-11-13T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Adozioni forzate, Teresita riabbraccia 40 anni dopo i figli che le furono rubati: la storia",
-      "url": "https://www.lastampa.it/esteri/2026/11/13/video/adozioni_forzate_cile_teresita_padilla_abbraccia_figli_rubati-15797095/",
-      "excerpt": "Teresita Padilla si siede tra i suoi due figli, li abbraccia e bacia loro le mani. Nelle immagini girate da Reuters l’11 novembre a Santiago del Cile, la donna ritrova Tim Rolnick, 41 anni, e Travis Murdoch, 37, due dei tre figli che le furono sottratti quando erano piccoli, durante la dittatura militare di Augusto Pin",
-      "publishedAt": "2026-11-13T00:00:00Z",
       "dateEvidence": "feed:published"
     }
   ],

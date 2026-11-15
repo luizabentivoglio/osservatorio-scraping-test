@@ -44,7 +44,7 @@
       "status": 200
     }
   ],
-  "message": "Verifica interattiva richiesta",
+  "message": "Verifica interattiva richiesta; prossimo controllo dopo quattro ore.",
   "candidateSamples": [
     {
       "url": "https://www.quirinale.it/it/notizie/mattarella-inaugura-mostra-ispirazione-europa-italia-germania-pittura-scultura-ottocento-novecento-canova-kiefer",
