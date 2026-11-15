@@ -4,12 +4,19 @@
   "sourceId": "ingv",
   "originUrl": "https://www.ingv.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-15T02:12:21.009029Z",
+  "collectedAt": "2026-11-15T09:57:51.960508Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.ingv.it/stampa-urp/ufficio-stampa/comunicati-stampa?format=feed&type=rss",
   "items": [
+    {
+      "title": "90 anni dalla fondazione dell’Istituto Nazionale di Geofisica: la visione di Guglielmo Marconi alle origini di una grande storia scientifica",
+      "url": "https://www.ingv.it/stampa-urp/ufficio-stampa/comunicati-stampa/90-anni-dalla-fondazione-dell-istituto-nazionale-di-geofisica-la-visione-di-guglielmo-marconi-alle-origini-di-una-grande-storia-scientifica",
+      "excerpt": "",
+      "publishedAt": "2026-11-14T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "CATANIA | INGV presente all’evento “Oltre l’emergenza: governare il dissesto, dalle crisi alla prevenzione”",
       "url": "https://www.ingv.it/stampa-urp/ufficio-stampa/comunicati-stampa/catania-ingv-presente-all-evento-oltre-l-emergenza-governare-il-dissesto-dalle-crisi-alla-prevenzione",
@@ -75,5 +82,5 @@
     }
   ],
   "message": "Feed dichiarato dalla fonte; date di pubblicazione verificate.",
-  "durationSeconds": 1.4
+  "durationSeconds": 1.09
 }

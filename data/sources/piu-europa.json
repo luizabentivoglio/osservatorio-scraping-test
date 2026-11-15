@@ -4,10 +4,10 @@
   "sourceId": "piu-europa",
   "originUrl": "https://www.piueuropa.eu/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-14T22:46:02.248993Z",
-  "status": "blocked",
-  "diagnosticCode": "access_restricted",
-  "method": "html",
+  "collectedAt": "2026-11-15T09:57:16.889236Z",
+  "status": "no_feed",
+  "diagnosticCode": "parsing_error",
+  "method": "crawl4ai",
   "feedUrl": null,
   "items": [],
   "attempts": [
@@ -17,11 +17,98 @@
     },
     {
       "url": "https://www.piueuropa.eu/",
-      "status": 403
+      "status": 200
+    },
+    {
+      "url": "https://www.piueuropa.eu/iscrizioni-2026",
+      "status": 200
+    },
+    {
+      "url": "https://www.piueuropa.eu/emma_ci_ha_lasciati_ma_non_ci_lascer_mai",
+      "status": 200
+    },
+    {
+      "url": "https://www.piueuropa.eu/della_vedova_meloni_si_opponga_a_partecipazione_di_putin_al_g20",
+      "status": 200
+    },
+    {
+      "url": "https://www.piueuropa.eu/dl_bollette_magi_aiuta_imprese_ma_dimentica_famiglie",
+      "status": 200
+    },
+    {
+      "url": "https://www.piueuropa.eu/centrosinistra_avviato_il_tavolo_per_il_programma_comune_obiettivo_concludere_entro_novembre",
+      "status": 200
+    },
+    {
+      "url": "https://www.piueuropa.eu/voto_16",
+      "status": 200
+    },
+    {
+      "url": "https://www.piueuropa.eu/iscrizioni-2026",
+      "status": 200
+    },
+    {
+      "url": "https://www.piueuropa.eu/emma_ci_ha_lasciati_ma_non_ci_lascer_mai",
+      "status": 200
+    },
+    {
+      "url": "https://www.piueuropa.eu/della_vedova_meloni_si_opponga_a_partecipazione_di_putin_al_g20",
+      "status": 200
+    },
+    {
+      "url": "https://www.piueuropa.eu/dl_bollette_magi_aiuta_imprese_ma_dimentica_famiglie",
+      "status": 200
+    },
+    {
+      "url": "https://www.piueuropa.eu/centrosinistra_avviato_il_tavolo_per_il_programma_comune_obiettivo_concludere_entro_novembre",
+      "status": 200
+    },
+    {
+      "url": "https://www.piueuropa.eu/voto_16",
+      "status": 200
     }
   ],
-  "message": "HTTP 403: accesso limitato dalla fonte; prossimo controllo dopo quattro ore.",
-  "httpStatus": 403,
-  "failedUrl": "https://www.piueuropa.eu/",
-  "durationSeconds": 0.58
+  "message": "Pagina accessibile, ma nessuna notizia con data di pubblicazione verificabile.",
+  "candidateSamples": [
+    {
+      "url": "https://www.piueuropa.eu/iscrizioni-2026",
+      "title": "Facciamo tutta l'Europa che manca",
+      "h1": null,
+      "dates": []
+    },
+    {
+      "url": "https://www.piueuropa.eu/emma_ci_ha_lasciati_ma_non_ci_lascer_mai",
+      "title": "Emma ci ha lasciati ma non ci lascerà mai",
+      "h1": "",
+      "dates": []
+    },
+    {
+      "url": "https://www.piueuropa.eu/della_vedova_meloni_si_opponga_a_partecipazione_di_putin_al_g20",
+      "title": "Della Vedova, Meloni si opponga a partecipazione di Putin al G20",
+      "h1": "",
+      "dates": []
+    },
+    {
+      "url": "https://www.piueuropa.eu/dl_bollette_magi_aiuta_imprese_ma_dimentica_famiglie",
+      "title": "Dl bollette: Magi, aiuta imprese ma dimentica famiglie",
+      "h1": "",
+      "dates": []
+    },
+    {
+      "url": "https://www.piueuropa.eu/centrosinistra_avviato_il_tavolo_per_il_programma_comune_obiettivo_concludere_entro_novembre",
+      "title": "Centrosinistra: avviato il tavolo per il programma comune, obiettivo concludere entro novembre",
+      "h1": "",
+      "dates": []
+    },
+    {
+      "url": "https://www.piueuropa.eu/voto_16",
+      "title": "Generazione Avanti",
+      "h1": "Voto 16",
+      "dates": []
+    }
+  ],
+  "candidateCount": 9,
+  "datedCount": 0,
+  "listingUrl": "https://www.piueuropa.eu/",
+  "durationSeconds": 5.1
 }

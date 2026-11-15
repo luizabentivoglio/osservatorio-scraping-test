@@ -4,12 +4,47 @@
   "sourceId": "il-notiziario",
   "originUrl": "https://www.ilnotiziario.net/",
   "configuredFeedUrl": "https://www.ilnotiziario.net/feed/",
-  "collectedAt": "2026-11-15T02:12:22.544487Z",
+  "collectedAt": "2026-11-15T09:57:53.225536Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.ilnotiziario.net/feed/",
   "items": [
+    {
+      "title": "Rho, telecamere, “Diteci chi ci spia quando siamo in piazza, la privacy?”",
+      "url": "https://www.ilnotiziario.net/rho-telecamere-diteci-chi-ci-spia-quando-siamo-in-piazza-la-privacy/",
+      "excerpt": "Rho, telecamere, “Diteci chi ci spia quando siamo in piazza, la privacy?”. “Riteniamo opportuno che i cittadini vengano...",
+      "publishedAt": "2026-11-15T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Solaro e Ceriano, studenti alla scoperta dei volontari del Parco delle Groane",
+      "url": "https://www.ilnotiziario.net/solaro-e-ceriano-studenti-alla-scoperta-dei-volontari-del-parco-delle-groane/",
+      "excerpt": "Solaro e Ceriano, studenti alla scoperta dei volontari del Parco delle Groane L’ex Polveriera di Solaro-Ceriano Laghetto diventa...",
+      "publishedAt": "2026-11-15T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Paderno, Caritas: i numeri della solidarietà 890 persone aiutate ogni mese",
+      "url": "https://www.ilnotiziario.net/paderno-caritas-i-numeri-della-solidarieta-890-persone-aiutate-ogni-mese/",
+      "excerpt": "Paderno, Caritas: i numeri della solidarietà 890 persone aiutate ogni mese. Oltre 890 persone raggiunte ogni mese dalla...",
+      "publishedAt": "2026-11-15T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Novate, Furti d’auto e vetture smontate: residenti infuriati chiedono più controlli",
+      "url": "https://www.ilnotiziario.net/novate-furti-dauto-e-vetture-smontate-residenti-infuriati-chiedono-piu-controlli/",
+      "excerpt": "Novate, Furti d’auto e vetture smontate: residenti infuriati chiedono più controlli e interventi sugli accessi. Cresce l’allarme...",
+      "publishedAt": "2026-11-15T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Limbiate, Francesco sogna l’autonomia: raccolta fondi per l’auto speciale",
+      "url": "https://www.ilnotiziario.net/limbiate-francesco-sogna-lautonomia-raccolta-fondi-per-lauto-speciale/",
+      "excerpt": "Limbiate, Francesco sogna l’autonomia: raccolta fondi per l’auto speciale. Francesco Ruberto è determinato a coronare il suo...",
+      "publishedAt": "2026-11-15T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "Paderno, a Calderara arriva un’oasi a misura di gatto",
       "url": "https://www.ilnotiziario.net/paderno-a-calderara-arriva-un-oasi-a-misura-di-gatto/",
@@ -79,41 +114,6 @@
       "excerpt": "Per la Tranvia Milano-Seregno, dall’Associazione Utenti trasporto pubblico arriva l’appello per la ripresa dei...",
       "publishedAt": "2026-11-13T00:00:00Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Perché tutelare la corrispondenza online è diventata un’emergenza anche per i privati cittadini",
-      "url": "https://www.ilnotiziario.net/perche-tutelare-la-corrispondenza-online-e-diventata-unemergenza-anche-per-i-privati-cittadini/",
-      "excerpt": "Chiudiamo la porta di casa a doppia mandata. Inseriamo l’allarme, controlliamo lo spioncino. E poi, con una disinvoltura a...",
-      "publishedAt": "2026-11-13T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Incidente sulla Milano-Meda, auto si ribalta, paura tra gli automobilisti",
-      "url": "https://www.ilnotiziario.net/incidente-sulla-milano-meda-auto-si-ribalta-paura-tra-gli-automobilisti/",
-      "excerpt": "Incidente sulla Milano-Meda, auto si ribalta, paura tra gli automobilisti Momenti di paura nella mattinata odierna lungo la...",
-      "publishedAt": "2026-11-13T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Onoriamo chi è caduto, Rho ricorda la strage di Nassiriya",
-      "url": "https://www.ilnotiziario.net/244053-2/",
-      "excerpt": "La città di Rho ha reso omaggio nel pomeriggio di ieri, giovedì, alle vittime della strage di Nassiriya del 12 novembre 2003 e a...",
-      "publishedAt": "2026-11-13T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Saronno, scontro tra due auto davanti all’ospedale, tre persone coinvolte",
-      "url": "https://www.ilnotiziario.net/saronno-scontro-tra-due-auto-davanti-allospedale-tre-persone-coinvolte/",
-      "excerpt": "Saronno, scontro tra due auto davanti all’ospedale, tre persone coinvolte Un incidente stradale si è verificato nella tarda...",
-      "publishedAt": "2026-11-13T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Limbiate, a Luca Attanasio l’Ambrogino d’oro alla memoria dal Comune di Milano",
-      "url": "https://www.ilnotiziario.net/limbiate-a-luca-attanasio-lambrogino-doro-alla-memoria-dal-comune-di-milano/",
-      "excerpt": "Limbiate, a Luca Attanasio l’Ambrogino d’oro alla memoria dal Comune di Milano Milano si prepara a rendere omaggio a...",
-      "publishedAt": "2026-11-13T00:00:00Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -127,5 +127,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 1.76
+  "durationSeconds": 1.08
 }

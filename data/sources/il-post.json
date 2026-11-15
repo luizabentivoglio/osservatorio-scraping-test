@@ -4,52 +4,52 @@
   "sourceId": "il-post",
   "originUrl": "https://www.ilpost.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-15T02:12:23.149904Z",
+  "collectedAt": "2026-11-15T09:57:53.242334Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
+      "title": "Le tenniste italiane Sara Errani e Jasmine Paolini sono in finale alle WTA Finals",
+      "url": "https://www.ilpost.it/2026/11/15/sara-errani-jasmine-paolini-finale-wta-finals-tennis/?bitPosition=1",
+      "excerpt": "Le tenniste italiane Sara Errani e Jasmine Paolini sono in finale alle WTA Finals Le tenniste italiane Sara Errani e Jasmine Paolini hanno battuto la francese Kristina Mladenovic e la cinese Hanyu Guo nella semifinale di doppio delle WTA Finals che si stanno tenendo negli Stati Uniti, qualificandosi così per la finale.",
+      "publishedAt": "2026-11-15T07:13:48Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "Breve cronologia del guasto che ha bloccato i voli negli Stati Uniti",
+      "url": "https://www.ilpost.it/2026/11/15/cronologia-blocco-voli-manutenzione/?homepagePosition=0",
+      "excerpt": "Da una piccola stazione in Arkansas si è esteso a tutto il paese, dove l'infrastruttura che gestisce il traffico aereo è vecchia di decenni",
+      "publishedAt": "2026-11-15T06:55:54Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
       "title": "Una piattaforma delle poste francesi ha subito un attacco informatico: sono stati rubati i dati di 22 milioni di persone",
-      "url": "https://www.ilpost.it/2026/11/14/furto-dati-poste-francesi/?bitPosition=1",
+      "url": "https://www.ilpost.it/2026/11/14/furto-dati-poste-francesi/?bitPosition=2",
       "excerpt": "Una piattaforma delle poste francesi ha subito un attacco informatico: sono stati rubati i dati di 22 milioni di persone La piattaforma francese Maileva, una controllata del gruppo postale nazionale La Poste (l’equivalente francese di Poste Italiane), ha subito un attacco informatico che ha portato al furto dei dati di",
       "publishedAt": "2026-11-14T20:12:21Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
       "title": "Cinque persone sono morte in un incidente all’altezza di San Fili, in provincia di Cosenza",
-      "url": "https://www.ilpost.it/2026/11/14/incidente-san-fili/?bitPosition=2",
+      "url": "https://www.ilpost.it/2026/11/14/incidente-san-fili/?bitPosition=3",
       "excerpt": "Cinque persone sono morte in un incidente all’altezza di San Fili, in provincia di Cosenza Cinque persone sono morte in un incidente stradale sulla statale 107 all’altezza di San Fili, un comune calabrese in provincia di Cosenza. Lo scontro è avvenuto in galleria e ha coinvolto una Jaguar e una Opel Mokka, sulle quali ",
       "publishedAt": "2026-11-14T18:04:29Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "L’Alaska avrà il primo governatore Democratico dal 1998, e il più giovane della sua storia",
-      "url": "https://www.ilpost.it/2026/11/14/jonathan-kreiss-tomkins-eletto-alaska-governatore/?bitPosition=3",
-      "excerpt": "L’Alaska avrà il primo governatore Democratico dal 1998, e il più giovane della sua storia In Alaska è stato eletto il primo governatore Democratico dal 1998: è Jonathan Kreiss-Tomkins, già deputato statale per dieci anni e a 37 anni anche il più giovane nella storia dello stato. Sostituirà l’attuale governatore Mike D",
-      "publishedAt": "2026-11-14T15:51:52Z",
+      "title": "I grossi problemi con i voli negli Stati Uniti",
+      "url": "https://www.ilpost.it/2026/11/14/stati-uniti-problemi-voli-cancellati-ritardi/?homepagePosition=0.2&referrerPost=3733393",
+      "excerpt": "Dopo il blocco di quattro ore di venerdì, migliaia sono stati cancellati anche sabato",
+      "publishedAt": "2026-11-14T15:50:04Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "Un componente della troupe della serie di Netflix “Dept. Q” è morto sul set a Edimburgo per un infortunio",
-      "url": "https://www.ilpost.it/2026/11/14/edinburgo-morto-membro-troupe-dept-q-serie-netflix/?bitPosition=4",
-      "excerpt": "Un componente della troupe della serie di Netflix “Dept. Q” è morto sul set a Edimburgo per un infortunio Un uomo che faceva parte della troupe della serie Netflix Dept. Q – Sezione casi irrisolti è morto giovedì su un set a Edimburgo, in Scozia. La notizia è stata resa nota soltanto nelle ultime ore. Non si sa bene co",
-      "publishedAt": "2026-11-14T14:30:08Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Un problema per Nvidia è un problema per l’AI",
-      "url": "https://www.ilpost.it/2026/11/14/nvidia-dimissioni-huang-dipendenza-settore-intelligenza-artificiale/?homepagePosition=0",
-      "excerpt": "Dalla società che era guidata da Jensen Huang dipende buona parte del settore: ora ci possono essere sia crisi sia opportunità",
-      "publishedAt": "2026-11-14T11:34:57Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Il caso che ha portato alle dimissioni del capo di Nvidia, dall’inizio",
-      "url": "https://www.ilpost.it/2026/11/12/riassunto-huang-nvidia/?homepagePosition=0.1&referrerPost=3732571",
-      "excerpt": "Come Jensen Huang è passato dall’essere uno dei CEO più influenti al mondo a lasciare l'azienda che ha guidato per oltre trent’anni",
-      "publishedAt": "2026-11-12T13:32:27Z",
+      "title": "Cos’è successo col blocco dei voli negli Stati Uniti",
+      "url": "https://www.ilpost.it/2026/11/14/voli-stati-uniti-ripresi/?homepagePosition=0.1&referrerPost=3733393",
+      "excerpt": "È durato quattro ore: il segretario dei Trasporti ha dato la colpa a sistemi obsoleti e a un ritardo dei finanziamenti pubblici",
+      "publishedAt": "2026-11-14T04:33:17Z",
       "dateEvidence": "jsonld:datePublished"
     }
   ],
@@ -63,27 +63,27 @@
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/14/nvidia-dimissioni-huang-dipendenza-settore-intelligenza-artificiale/?homepagePosition=0",
+      "url": "https://www.ilpost.it/2026/11/15/cronologia-blocco-voli-manutenzione/?homepagePosition=0",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/12/riassunto-huang-nvidia/?homepagePosition=0.1&referrerPost=3732571",
+      "url": "https://www.ilpost.it/2026/11/14/voli-stati-uniti-ripresi/?homepagePosition=0.1&referrerPost=3733393",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/14/furto-dati-poste-francesi/?bitPosition=1",
+      "url": "https://www.ilpost.it/2026/11/14/stati-uniti-problemi-voli-cancellati-ritardi/?homepagePosition=0.2&referrerPost=3733393",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/14/incidente-san-fili/?bitPosition=2",
+      "url": "https://www.ilpost.it/2026/11/15/sara-errani-jasmine-paolini-finale-wta-finals-tennis/?bitPosition=1",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/14/jonathan-kreiss-tomkins-eletto-alaska-governatore/?bitPosition=3",
+      "url": "https://www.ilpost.it/2026/11/14/furto-dati-poste-francesi/?bitPosition=2",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/14/edinburgo-morto-membro-troupe-dept-q-serie-netflix/?bitPosition=4",
+      "url": "https://www.ilpost.it/2026/11/14/incidente-san-fili/?bitPosition=3",
       "status": 200
     }
   ],
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.ilpost.it/",
-  "durationSeconds": 3.61
+  "durationSeconds": 3.53
 }
