@@ -4,16 +4,51 @@
   "sourceId": "la-stampa",
   "originUrl": "https://www.lastampa.it/",
   "configuredFeedUrl": "https://www.lastampa.it/rss/copertina.xml",
-  "collectedAt": "2026-11-15T17:26:44.337224Z",
+  "collectedAt": "2026-11-15T23:13:15.945166Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.lastampa.it/rss/copertina.xml",
   "items": [
     {
-      "title": "Atp Finals, buona la prima per Zverev: battuto Jodar in due set",
+      "title": "Il Belgio cancella i sogni azzurri, Italia travolta ed eliminata dalla Nations League",
+      "url": "https://www.lastampa.it/sport/2026/11/15/news/belgio_italia_gol_highlights-15799328/",
+      "excerpt": "Pio Esposito in gol a inizio partita, ma i belgi ribaltano tutto con le reti di De Cuyper, Ngoy, Doku e Moreira. Al 90’ errore dal dischetto del centravanti interista. Ai quarti con De Bruyne e i compagni va la Francia, prima nel girone",
+      "publishedAt": "2026-11-15T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Putin minaccia l’Europa: “Accordo o usiamo la forza”, e gela gli Usa: “Niente Nato per Kiev”",
+      "url": "https://www.lastampa.it/esteri/2026/11/16/diretta/guerra_russia_ucraina_news_oggi-15799345/",
+      "excerpt": "L’Estonia chiuderà i confini con la Russia da primo dicembre",
+      "publishedAt": "2026-11-15T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Yemen, gli Houthi sono a 60 chilometri da Aden. La portaerei Roosevelt verso il Medio Oriente",
+      "url": "https://www.lastampa.it/esteri/2026/11/15/news/yemen_houthi_spinti_60_chilometri_aden-15799184/",
+      "excerpt": "Il gruppo ribelle avrebbe preso il controllo dei distretti di Al-Maqatirah e Al-Madaribah",
+      "publishedAt": "2026-11-15T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Schlein e la patrimoniale: “Sì alla tassa per i super ricchi, Meloni l’ha alzata al ceto medio”",
+      "url": "https://www.lastampa.it/politica/2026/11/15/news/schlein_patrimoniale_tassa_super_ricchi-15799118/",
+      "excerpt": "La leader del Pd si rivolge alla premier: «Per noi non ci sono lavoratori di serie B». E sulle primarie: «Chi le vince sarà il capo di un’alleanza vincolata dal programma»",
+      "publishedAt": "2026-11-15T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Zverev travolge Jodar e inizia alla grande le sue Finals, ma l’ovazione di Torino è per Sinner",
       "url": "https://www.lastampa.it/sport/speciali/atp-finals-2026/2026/11/15/news/atp_finals_buona_la_prima_per_zverev_battuto_jodar_in_due_set-15798949/",
-      "excerpt": "Il numero del mondo supera il giovane spagnolo con un doppio 6-4. Stasera tocca a Shelton-Fils",
+      "excerpt": "Il numero del mondo ha battuto il giovane talento spagnolo con un doppio 6-4. Stasera tocca a Shelton-Fils",
+      "publishedAt": "2026-11-15T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Shelton soffre all’esordio nelle Finals, ma batte Fils in 3 set. Servizio record ai 239 orari",
+      "url": "https://www.lastampa.it/sport/speciali/atp-finals-2026/2026/11/15/news/shelton_fil_risultato-15799331/",
+      "excerpt": "L’americano si è imposto con il punteggio di 6-2, 3-6, 6-3",
       "publishedAt": "2026-11-15T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -25,16 +60,9 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Lorenzi: \"Medvedev è il mio favorito. Cobolli? Il pubblico di Torino gli darà una grande spinta\"",
-      "url": "https://www.lastampa.it/sport/speciali/atp-finals-2026/2026/11/15/video/paolo_lorenzi_atp_finals_medvedev_favorito_cobolli_torino-15798933/",
-      "excerpt": "Paolo Lorenzi, ex numero 33 del mondo e attuale direttore degli Internazionali d'Italia, analizza i protagonisti delle ATP Finals 2026, ospite de La Stampa alla Lounge Lavazza. L'attenzione è soprattutto su Flavio Cobolli, chiamato a rappresentare il tennis italiano nel singolare e atteso dall'esordio contro Daniil Med",
-      "publishedAt": "2026-11-15T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Errani e Paolini nella storia, prime italiane in finale alle Finals: “Ora sarà durissima”",
-      "url": "https://www.lastampa.it/sport/tennis/2026/11/15/news/errani_e_paolini_nella_storia_prime_italiane_in_finale_alle_finals_ora_sara_durissima-15798850/",
-      "excerpt": "Le azzurre hanno superato in semifinale la cinese Hanyu Guo e la francese Kristina Mladenovic in due set (6-3, 6-4). Nella notte la sfida per il titolo contro la ceca Katerina Siniakova e l'americana Taylor Townsend",
+      "title": "Ravenna, Ronaldinho a 46 anni per una sera in serie C, magie e nostalgia: “Se mi richiamano, torno”",
+      "url": "https://www.lastampa.it/sport/2026/11/15/news/ravenna_ronaldinho_a_46_anni_per_una_sera_in_serie_c_magie_e_nostalgia_se_mi_richiamano_torno-15799105/",
+      "excerpt": "Quella del fuoriclasse è stata una prestazione vera, in una partita vera",
       "publishedAt": "2026-11-15T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -48,7 +76,7 @@
     {
       "title": "Fugge nei boschi dello spaccio, giovane muore precipitando per 200 metri",
       "url": "https://www.lastampa.it/verbano-cusio-ossola/2026/11/15/news/domodossola_fuga_boschi_spaccio_morto-15798862/",
-      "excerpt": "E’ successo in frazione Bei. La vittima ha 29 anni, ferito un altro ragazzo di 24 anni. Erano inseguiti da polizia e guardia di finanza",
+      "excerpt": "E’ successo in frazione Bei. La vittima ha 23 anni, ferito il fratello di 19. Erano inseguiti da polizia e guardia di finanza",
       "publishedAt": "2026-11-15T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -56,41 +84,6 @@
       "title": "Bologna, fan di Elisa muore a 35 anni a due passi dal palco: la cantante in lacrime annulla lo show",
       "url": "https://www.lastampa.it/spettacoli/2026/11/15/news/concerto_elisa_bologna_morte_fan_35_anni_estragon-15798843/",
       "excerpt": "Un malore nelle prime file, i soccorsi, poi la notizia data dal palco a mille persone. La cantante annulla la serata del raduno del fan club: «Mi stringo attorno a tutti i miei fan».",
-      "publishedAt": "2026-11-15T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Cade dal tettuccio di un'auto in corsa per riprendere il raduno clandestino: morto 23enne",
-      "url": "https://www.lastampa.it/cronaca/2026/11/15/news/manuel_bertuol_caduto_dal_tettuccio_di_un_auto_in_corsa-15798839/",
-      "excerpt": "L'incidente lo scorso 11 ottobre nel Trevigiano. L’amico che guidava dovrà ora rispondere di omicidio colposo",
-      "publishedAt": "2026-11-15T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Bolzano è la miglior provincia d’Italia dove vivere. Tra quelle del Nord maglia nera ad Alessandria",
-      "url": "https://www.lastampa.it/cronaca/2026/11/15/news/bolzano_e_la_miglior_provincia_d_italia_dove_vivere_tra_quelle_del_nord_maglia_nera_ad_alessandria-15798880/",
-      "excerpt": "La classifica di ItaliaOggi: Taranto fanalino di coda. Tra le città del Sud la migliore è Isernia",
-      "publishedAt": "2026-11-15T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Le Regioni al governo: “Pochi 500 milioni alla Sanità, usare i fondi dei voucher per gli over 75”",
-      "url": "https://www.lastampa.it/economia/2026/11/15/news/le_regioni_al_governo_pochi_500_milioni_alla_sanita_usare_i_fondi_dei_voucher_per_gli_over_75-15798906/",
-      "excerpt": "Il coordinatore commissione salute della Conferenza delle Regioni, Massimo Fabi: «I soldi non possono arrivare dagli enti locali, siamo allo stremo»",
-      "publishedAt": "2026-11-15T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Sanità, la retromarcia del governo: ecco gli aumenti di stipendio per medici e infermieri",
-      "url": "https://www.lastampa.it/economia/2026/11/15/news/sanita_in_arrivo_mezzo_miliardo_per_gli_stipendi_di_medici_e_infermieri-15798691/",
-      "excerpt": "Più risorse per il Fondo sanitario nazionale: obiettivo scongiurare la protesta di piazza del 5 dicembre",
-      "publishedAt": "2026-11-15T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Il mondo della finanza scrive a Meloni: “Un errore il raddoppio della Tobin tax”",
-      "url": "https://www.lastampa.it/economia/2026/11/15/news/mondo_finanza_tobin_tax_tassa_transazioni_finanziarie-15798687/",
-      "excerpt": "In due anni la tassa sulla speculazione salirebbe di quattro volte, penalizzando chi vuole investire. Il richiamo degli operatori per evitare squilibri",
       "publishedAt": "2026-11-15T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -109,30 +102,9 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Lo spot che ha fatto vincere l’America dem",
-      "url": "https://www.lastampa.it/specchio/rubriche/cose-brutte/2026/11/15/news/lo_spot_che_ha_fatto_vincere_l_america_dem-15796104/",
-      "excerpt": "Lo spot “Scegli un’altra proteina”, che ha mandato in vantaggio un afroamericano in uno stato repubblicanissimo, mostra come una società multi-tutto possa rigenerarsi. E recuperare quel soft ...",
-      "publishedAt": "2026-11-15T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Alice Huang spia o asset dei cinesi, la guerra nell’intelligence Usa tra Dem e trumpiani",
-      "url": "https://www.lastampa.it/esteri/2026/11/15/news/alice_huang_spia_o_asset_dei_cinesi_la_guerra_nell_intelligence_usa_tra_dem_e_trumpiani-15798526/",
-      "excerpt": "L’altra guerra è nella Silicon Valley: con gli oligarchi tech guidati da Musk che si mettono a firmare petizioni. Per reinstallare al suo posto l’ex ceo di Nvidia",
-      "publishedAt": "2026-11-15T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Caos voli negli Usa, 1400 cancellazioni anche oggi. Disagi a Malpensa e Fiumicino",
-      "url": "https://www.lastampa.it/esteri/2026/11/15/news/caos_voli_negli_usa_760_cancellazioni_oggi_disagi_a_malpensa_e_fiumicino-15798822/",
-      "excerpt": "Dopo il caos di venerdì e sabato proseguono i disservizi legati al traffico aereo. A Milano Malpensa annullati due collegamenti Delta per New York, a Fiumicino oltre sette ore di ritardo per un volo da Dallas",
-      "publishedAt": "2026-11-15T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Collisione fra due jet a Miami, un’altra spia di un sistema sotto stress",
-      "url": "https://www.lastampa.it/esteri/2026/11/15/news/collisione_aerei_miami_bordoni-15798914/",
-      "excerpt": "Incidente con due feriti. L’analista Bordoni: «In America piste sovraffollate. Le torri di controllo sollecitano i piloti a decollare uno dopo l’altro, sfidando i rischi delle scie di turbolenza. E a loro volta gli uomini radar vengono spinti a lavorare con poco rispetto per i turni»",
+      "title": "Semi-sommergibile carico di droga: la Marina francese lo intercetta, tonnellate di cocaina affondate",
+      "url": "https://www.lastampa.it/esteri/2026/11/15/news/semi-sommergibile_carico_di_droga_la_marina_francese_lo_intercetta_tonnellate_di_cocaina_affondate-15799292/",
+      "excerpt": "L’operazione vicino alla Martinica: “Manovra senza precedenti”. Arrestati quattro uomini, uno ha fatto inabissare l’imbarcazione. Solo 146 chili di droga recuperati",
       "publishedAt": "2026-11-15T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -172,20 +144,6 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Se Conte perde le primarie un elettore M5s su due non voterà Schlein",
-      "url": "https://www.lastampa.it/politica/2026/11/15/news/se_conte_perde_le_primarie_contro_schlein_un_elettore_m5s_su_due_non_votera_centrosinistra-15798513/",
-      "excerpt": "Il leader 5 Stelle resta avanti. Il 22,7% non accetterebbe il candidato premier di un partito diverso da quello sostenuto",
-      "publishedAt": "2026-11-15T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "In Francia sarà difficile battere Le Pen, c’è una frattura tra popolo e politica",
-      "url": "https://www.lastampa.it/esteri/2026/11/14/news/lazar_francia_le_pen_melenchon_riner_macron_eliseo_presidenziali-15798676/",
-      "excerpt": "Il politologo: «Il Paese sempre più a destra. Il judoka Riner? Non ha chance»",
-      "publishedAt": "2026-11-15T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
       "title": "Neve in Piemonte e Valle d’Aosta, “primavera” in Sicilia. In arrivo piogge e vento forte",
       "url": "https://www.lastampa.it/cronaca/2026/11/15/news/neve_in_piemonte_e_valle_d_aosta_primavera_in_sicilia_in_arrivo_piogge_e_vento_forte-15798837/",
       "excerpt": "Nella giornata di lunedì le piogge insisteranno soprattutto sulle aree tirreniche. Da martedì è atteso un nuovo peggioramento, inizialmente sulla Liguria e poi su Lombardia e Triveneto",
@@ -217,13 +175,6 @@
       "title": "Juve, la rincorsa di Yildiz: in campo a fine anno. E Spalletti cambia ancora",
       "url": "https://www.lastampa.it/sport/2026/11/15/news/juve_la_rincorsa_di_yildiz_in_campo_a_fine_anno_e_spalletti_cambia_ancora-15798583/",
       "excerpt": "Il numero 10 in ritardo, un mese potrebbe non bastare: nella migliore delle ipotesi convocato per il Monza o contro la Roma, ma dalla Continassa filtra prudenza",
-      "publishedAt": "2026-11-15T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Federico Erbetta, il mister giramondo del calcio: ha conquistato la serie B della Lettonia",
-      "url": "https://www.lastampa.it/novara/2026/11/15/news/erbetta_mister_giramondo_calcio_lettonia-15798482/",
-      "excerpt": "L’allenatore di calcio di Borgomanero protagonista con il piccolo club Fk Metta",
       "publishedAt": "2026-11-15T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -289,6 +240,55 @@
       "excerpt": "Dopo un primo esperimento, una commerciante di Varallo rilancia l’iniziativa a tutela dei negozi di vicinato",
       "publishedAt": "2026-11-15T00:00:00Z",
       "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Rsa, scoppia la battaglia dei rimborsi. La Regione: “Pagamenti da dicembre”",
+      "url": "https://www.lastampa.it/torino/2026/11/15/news/bonus_rsa_piemonte_polemica_rimborsi-15798642/",
+      "excerpt": "I fondi per 18 milioni non sono ancora arrivati. Cirio: “Nessun ritardo, prima i controlli”",
+      "publishedAt": "2026-11-15T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "“Ho paura dei ladri in casa”: Ida morì durante il furto in casa, un anno senza colpevoli",
+      "url": "https://www.lastampa.it/torino/2026/11/15/news/ida_pradotto_nole_canavese_morta_spavento_furto_in_casa-15798579/",
+      "excerpt": "Era di Nole e aveva 88 anni. Il suo cuore si fermò per lo spavento di avere subito un furto in casa, mentre era sola",
+      "publishedAt": "2026-11-15T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "La concorrenza e Ryanair, dove va l’aeroporto di Cuneo: “Ecco la strategia tra numeri e progetti”",
+      "url": "https://www.lastampa.it/cuneo/2026/11/15/news/cuneo_la_concorrenza_e_ryanair-15798387/",
+      "excerpt": "Parla il presidente Paolo Merlo: «Nel settore contesti alterati da dinamiche e politiche territoriali che altrove incentivano le compagnie aeree, Cuneo non può contarci»",
+      "publishedAt": "2026-11-15T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Tutti in coda per sentirci soli in compagnia",
+      "url": "https://www.lastampa.it/specchio/rubriche/societa/2026/11/15/news/tutti_in_coda_per_sentirci_soli_in_compagnia-15796147/",
+      "excerpt": "Per un biglietto d’ingresso. Per un (modico) sconto a scadenza ravvicinata. Per un bombolone d’altura (forse il fritto riesce meglio dove l’aria è più rarefatta, chissà). Per un minuscolo ...",
+      "publishedAt": "2026-11-15T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "“Una vocazione ha bisogno di qualcuno che la ascolti, che ci creda e dia una mano”",
+      "url": "https://www.lastampa.it/specchio/rubriche/domenica-con/2026/11/15/news/una_vocazione_ha_bisogno_di_qualcuno_che_la_ascolti_che_ci_creda_e_dia_una_mano-15796121/",
+      "excerpt": "Sabine van Vlaenderen Badinter: “A volte alle tua scelta si oppone la famiglia che non riesce a immaginare un futuro in una professione sconosciuta”",
+      "publishedAt": "2026-11-15T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Con scampi, porcini in farine e gelati: la castagna si fa gourmet",
+      "url": "https://www.lastampa.it/specchio/rubriche/sapore/2026/11/15/news/con_scampi_porcini_in_farine_e_gelati_la_castagna_si_fa_gourmet-15796134/",
+      "excerpt": "La regina dell’autunno mostra la sua versatilità a tavola",
+      "publishedAt": "2026-11-15T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Andrei Zviagyntsev:“In Russia le elezioni non sono mai esistite. E io nella mia vita non ho mai votato”",
+      "url": "https://www.lastampa.it/specchio/rubriche/a-tu-per-tu/2026/11/15/news/in_russia_le_elezioni_non_sono_mai_esistite_e_io_nella_mia_vita_non_ho_mai_votato-15796176/",
+      "excerpt": "Il regista russo: “La maggioranza dei cittadini russi non vogliono assolutamente la guerra e desiderano che finisca il più presto possibile”",
+      "publishedAt": "2026-11-15T00:00:00Z",
+      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -302,5 +302,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 1.15
+  "durationSeconds": 0.84
 }

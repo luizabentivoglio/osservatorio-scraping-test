@@ -4,7 +4,7 @@
   "sourceId": "copernicus",
   "originUrl": "https://www.copernicus.eu/en/news",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-15T17:26:14.976339Z",
+  "collectedAt": "2026-11-15T23:12:45.653041Z",
   "status": "no_feed",
   "diagnosticCode": "parsing_error",
   "method": "crawl4ai",

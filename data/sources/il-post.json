@@ -4,45 +4,52 @@
   "sourceId": "il-post",
   "originUrl": "https://www.ilpost.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-15T17:26:41.453212Z",
+  "collectedAt": "2026-11-15T23:13:13.336588Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
+      "title": "Perugia ha battuto Civitanova nella Supercoppa italiana di pallavolo maschile",
+      "url": "https://www.ilpost.it/2026/11/15/perugia-vince-supercoppa-pallavolo-maschile/?bitPosition=1",
+      "excerpt": "Perugia ha battuto Civitanova nella Supercoppa italiana di pallavolo maschile Domenica a Parma la Sir Susa Scai Perugia ha battuto la Cucine Lube Civitanova nella finale della Supercoppa italiana di pallavolo maschile, per 3 set a 2. È l’ottava volta che Perugia, che è anche la squadra campione d’Italia in carica, vinc",
+      "publishedAt": "2026-11-15T19:02:12Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "Dal 1° dicembre l’Estonia chiuderà il confine che condivide con la Russia fino a data da definirsi",
+      "url": "https://www.ilpost.it/2026/11/15/estonia-chiude-confine-russia/?bitPosition=2",
+      "excerpt": "Dal 1° dicembre l’Estonia chiuderà il confine che condivide con la Russia fino a data da definirsi L’Estonia ha annunciato che a partire dal 1° dicembre chiuderà a tempo indeterminato il confine che condivide con la Russia, accusandola di aver tentato di appiccare un incendio nella sede di Threod Systems, un’azienda lo",
+      "publishedAt": "2026-11-15T16:39:32Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
       "title": "Un tribunale giordano ha condannato a morte tre uomini per l’attentato in una chiesa dello scorso ottobre",
-      "url": "https://www.ilpost.it/2026/11/15/tre-uomini-condannati-a-morte-attentato-giordania/?bitPosition=1",
+      "url": "https://www.ilpost.it/2026/11/15/tre-uomini-condannati-a-morte-attentato-giordania/?bitPosition=3",
       "excerpt": "Un tribunale giordano ha condannato a morte tre uomini per l’attentato in una chiesa dello scorso ottobre Un tribunale giordano ha condannato a morte tre uomini per l’attentato avvenuto lo scorso 23 ottobre durante un funerale in una chiesa di Hamoud, una cittadina a maggioranza cristiana nel governatorato di Al Karak,",
       "publishedAt": "2026-11-15T16:06:12Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "Sabato alle Canarie sono arrivate 1.488 persone migranti: il numero più alto nella storia degli sbarchi lì",
-      "url": "https://www.ilpost.it/2026/11/15/canarie-1500-migranti-record/?bitPosition=2",
-      "excerpt": "Sabato alle Canarie sono arrivate 1.488 persone migranti: il numero più alto nella storia degli sbarchi lì Solo nella giornata di sabato alle Isole Canarie, in Spagna, sono arrivate 1.488 persone migranti: il numero più alto registrato lì finora. Il record precedente era stato di 1.461, il 7 novembre del 2020. Le perso",
-      "publishedAt": "2026-11-15T14:31:50Z",
+      "title": "L’azienda di Singapore Megaspeed ha detto che Alice Huang non lavora più per loro dall’agosto del 2025",
+      "url": "https://www.ilpost.it/2026/11/15/alice-huang-megaspeed/?homepagePosition=0.2&referrerPost=3733198",
+      "excerpt": "L’azienda di Singapore Megaspeed ha detto che Alice Huang non lavora più per loro dall’agosto del 2025 La società di data center di Singapore Megaspeed ha detto che l’imprenditrice cinese Alice Huang non lavora più nell’azienda dall’agosto del 2025. Huang è la donna la cui relazione con Jensen Huang ha portato alle dim",
+      "publishedAt": "2026-11-15T09:15:12Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "Tre navi mercantili sono state attaccate con i droni nel mar Nero, in Romania",
-      "url": "https://www.ilpost.it/2026/11/15/tre-navi-mercantili-colpite-droni-mar-nero-romania/?bitPosition=3",
-      "excerpt": "Tre navi mercantili sono state attaccate con i droni nel mar Nero, in Romania Sabato sera dei droni hanno colpito tre navi mercantili al largo del porto di Sulina, una città in Romania sulla foce del Danubio, nel mar Nero, a pochi chilometri dal confine con l’Ucraina. Nessuno ha rivendicato gli attacchi e il primo mini",
-      "publishedAt": "2026-11-15T14:15:37Z",
+      "title": "Cosa sappiamo delle accuse di contrabbando ad Alice Huang",
+      "url": "https://www.ilpost.it/2026/11/15/huang-nvidia-megaspeed-contrabbando/?homepagePosition=0",
+      "excerpt": "Di lei si è parlato soprattutto come sospetta spia cinese, ma i suoi traffici di chip potrebbero essere un problema altrettanto grave per l'ex CEO di Nvidia Jensen Huang",
+      "publishedAt": "2026-11-15T07:36:27Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "L’Alta rappresentante Kaja Kallas ha detto che le forze europee hanno intercettato una nave della “flotta fantasma” russa nel Mediterraneo",
-      "url": "https://www.ilpost.it/2026/11/15/kallas-intercettata-petroliera-flotta-fantasma-russa-mediterraneo/?bitPosition=4",
-      "excerpt": "L’Alta rappresentante Kaja Kallas ha detto che le forze europee hanno intercettato una nave della “flotta fantasma” russa nel Mediterraneo Domenica l’Alta rappresentante dell’Unione Europea per gli Affari esteri Kaja Kallas ha detto che le forze europee che partecipano all’operazione EUNAVFOR MED IRINI, missione milita",
-      "publishedAt": "2026-11-15T13:31:02Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Il bonus sanitario per gli anziani è pensato molto male",
-      "url": "https://www.ilpost.it/2026/11/15/bonus-sanitario-300-euro-anziani/?homepagePosition=0",
-      "excerpt": "Pur essendo costoso non è equo e rischia di favorire la sanità privata invece di aumentare l'offerta pubblica",
-      "publishedAt": "2026-11-15T13:30:30Z",
+      "title": "Il caso che ha portato alle dimissioni del capo di Nvidia, dall’inizio",
+      "url": "https://www.ilpost.it/2026/11/12/riassunto-huang-nvidia/?homepagePosition=0.1&referrerPost=3733198",
+      "excerpt": "Come Jensen Huang è passato dall’essere uno dei CEO più influenti al mondo a lasciare l'azienda che ha guidato per oltre trent’anni",
+      "publishedAt": "2026-11-12T13:32:27Z",
       "dateEvidence": "jsonld:datePublished"
     }
   ],
@@ -56,34 +63,34 @@
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/15/bonus-sanitario-300-euro-anziani/?homepagePosition=0",
+      "url": "https://www.ilpost.it/2026/11/15/huang-nvidia-megaspeed-contrabbando/?homepagePosition=0",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/10/29/pochi-soldi-sanita-regioni/?homepagePosition=0.1&referrerPost=3732479",
+      "url": "https://www.ilpost.it/2026/11/12/riassunto-huang-nvidia/?homepagePosition=0.1&referrerPost=3733198",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/15/tre-uomini-condannati-a-morte-attentato-giordania/?bitPosition=1",
+      "url": "https://www.ilpost.it/2026/11/15/alice-huang-megaspeed/?homepagePosition=0.2&referrerPost=3733198",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/15/canarie-1500-migranti-record/?bitPosition=2",
+      "url": "https://www.ilpost.it/2026/11/15/perugia-vince-supercoppa-pallavolo-maschile/?bitPosition=1",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/15/tre-navi-mercantili-colpite-droni-mar-nero-romania/?bitPosition=3",
+      "url": "https://www.ilpost.it/2026/11/15/estonia-chiude-confine-russia/?bitPosition=2",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/15/kallas-intercettata-petroliera-flotta-fantasma-russa-mediterraneo/?bitPosition=4",
+      "url": "https://www.ilpost.it/2026/11/15/tre-uomini-condannati-a-morte-attentato-giordania/?bitPosition=3",
       "status": 200
     }
   ],
-  "message": "5 notizie recenti con data verificata; copertura parziale.",
+  "message": "6 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [],
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.ilpost.it/",
-  "durationSeconds": 3.55
+  "durationSeconds": 3.53
 }
