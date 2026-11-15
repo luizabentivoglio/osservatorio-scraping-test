@@ -4,7 +4,7 @@
   "sourceId": "camera",
   "originUrl": "https://www.camera.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-15T09:57:23.234711Z",
+  "collectedAt": "2026-11-15T17:26:04.834619Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -32,13 +32,6 @@
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "Divieto importazioni da insediamenti israeliani, circoscrizioni giudiziarie",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64125",
-      "excerpt": "La Camera è convocata lunedì 16 novembre, alle ore 14, per la discussione generale dei seguenti pr...",
-      "publishedAt": "2026-11-13T00:00:00Z",
-      "dateEvidence": "html:publication-label"
-    },
-    {
       "title": "Albo d'oro dei cuochi - Lunedì alle 16 diretta webtv - Saluto di Trancassini",
       "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64112",
       "excerpt": "Lunedì 16 novembre, alle ore 16, presso l'Aula dei Gruppi parlamentari della Camera si svolge la ...",
@@ -49,6 +42,13 @@
       "title": "39° anniversario della rivolta degli operai di Brasov - Lunedì alle 17 diretta webtv",
       "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64126",
       "excerpt": "Lunedì 16 novembre, alle ore 17, presso la Sala del Mappamondo di Montecitorio si svolge il convegn...",
+      "publishedAt": "2026-11-13T00:00:00Z",
+      "dateEvidence": "html:publication-label"
+    },
+    {
+      "title": "Quadro finanziario Ue, audizione Fitto - Martedì alle 11 diretta webtv con lis",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64135",
+      "excerpt": "Martedì 17 novembre, alle ore 11, presso la Sala del Mappamondo, le Commissioni riunite Bilancio e ...",
       "publishedAt": "2026-11-13T00:00:00Z",
       "dateEvidence": "html:publication-label"
     }
@@ -75,15 +75,15 @@
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64125",
-      "status": 200
-    },
-    {
       "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64112",
       "status": 200
     },
     {
       "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64126",
+      "status": 200
+    },
+    {
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64135",
       "status": 200
     }
   ],
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://comunicazione.camera.it/archivio-prima-pagina",
-  "durationSeconds": 3.71
+  "durationSeconds": 4.13
 }

@@ -4,12 +4,19 @@
   "sourceId": "palazzo-chigi",
   "originUrl": "https://www.governo.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-15T09:58:09.418570Z",
+  "collectedAt": "2026-11-15T17:26:56.066921Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.governo.it/feed/rss",
   "items": [
+    {
+      "title": "Giornata mondiale e nazionale in memoria delle vittime della strada, dichiarazione del Presidente Meloni",
+      "url": "https://www.governo.it/it/articolo/giornata-mondiale-e-nazionale-memoria-delle-vittime-della-strada-dichiarazione-del",
+      "excerpt": "Onorare il ricordo delle vittime, essere al fianco dei loro cari e delle loro famiglie, rinnovare l’impegno per impedire che altre vite possano essere spezzate sulle nostre strade. Questo è il messaggio che ribadiamo oggi, in occasione della Giornata mondiale e nazionale in memoria delle vittime della strada. La sicure",
+      "publishedAt": "2026-11-15T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "Il Sottosegretario Mantovano alla presentazione del libro \"Cannabis. Il grande inganno\"",
       "url": "https://www.governo.it/it/articolo/il-sottosegretario-mantovano-alla-presentazione-del-libro-cannabis-il-grande-inganno/33117",
@@ -72,13 +79,6 @@
       "excerpt": "A margine del Vertice della Comunità politica europea di Dublino, il Presidente del Consiglio, Giorgia Meloni, ha incontrato il Primo Ministro del Regno Unito, Andy Burnham. Il colloquio ha consentito di confermare la solidità delle relazioni bilaterali e la volontà condivisa di rafforzare ulteriormente la cooperazione",
       "publishedAt": "2026-11-12T00:00:00Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Lavoro, la dichiarazione del Presidente Meloni sull'intesa raggiunta tra le parti sociali",
-      "url": "https://www.governo.it/it/articolo/lavoro-la-dichiarazione-del-presidente-meloni-sullintesa-raggiunta-tra-le-parti-sociali",
-      "excerpt": "L’intesa raggiunta questa mattina tra le parti sociali sulla qualità del lavoro e sulla rappresentanza segna un traguardo storico per innovare le relazioni sindacali e industriali in Italia. È un passo decisivo, per rafforzare le retribuzioni dei lavoratori e per rendere il nostro sistema economico e produttivo più com",
-      "publishedAt": "2026-11-12T00:00:00Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -100,5 +100,5 @@
     }
   ],
   "message": "Feed dichiarato dalla fonte; date di pubblicazione verificate.",
-  "durationSeconds": 30.11
+  "durationSeconds": 30.13
 }

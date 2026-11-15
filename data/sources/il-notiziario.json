@@ -4,12 +4,40 @@
   "sourceId": "il-notiziario",
   "originUrl": "https://www.ilnotiziario.net/",
   "configuredFeedUrl": "https://www.ilnotiziario.net/feed/",
-  "collectedAt": "2026-11-15T09:57:53.225536Z",
+  "collectedAt": "2026-11-15T17:26:41.311737Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.ilnotiziario.net/feed/",
   "items": [
+    {
+      "title": "Paderno, “Pedemontana, quale impatto avrà?” Casati svela i numeri",
+      "url": "https://www.ilnotiziario.net/paderno-pedemontana-quale-impatto-avra-casati-svela-i-numeri/",
+      "excerpt": "Paderno, “Pedemontana, quale impatto avrà?” Casati svela i numeri. “Pedemontana… la verità”. L’ex sindaco Ezio Casati è pronto a...",
+      "publishedAt": "2026-11-15T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Furto da oltre 330mila euro a Corsico, due arresti",
+      "url": "https://www.ilnotiziario.net/furto-da-oltre-330mila-euro-a-corsico-due-arresti/",
+      "excerpt": "Furto da oltre 330mila euro a Corsico, due arresti Un pedinamento iniziato davanti a un’azienda orafa e terminato con un...",
+      "publishedAt": "2026-11-15T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Rovello Porro, furto nella chiesa dei Santi Pietro e Paolo, bottino da 15mila euro",
+      "url": "https://www.ilnotiziario.net/rovello-porro-furto-nella-chiesa-dei-santi-pietro-e-paolo-bottino-da-15mila-euro/",
+      "excerpt": "Rovello Porro, furto nella chiesa dei Santi Pietro e Paolo, bottino da 15mila euro Un’incursione durante la notte e la fuga...",
+      "publishedAt": "2026-11-15T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Milano, droga nascosta in un pacco di biscotti destinato al Cpr, arrestato un 65enne",
+      "url": "https://www.ilnotiziario.net/milano-droga-nascosta-in-un-pacco-di-biscotti-destinato-al-cpr-arrestato-un-65enne/",
+      "excerpt": "Milano, droga nascosta in un pacco di biscotti destinato al Cpr, arrestato un 65enne Un pacco di biscotti usato per nascondere...",
+      "publishedAt": "2026-11-15T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "Rho, telecamere, “Diteci chi ci spia quando siamo in piazza, la privacy?”",
       "url": "https://www.ilnotiziario.net/rho-telecamere-diteci-chi-ci-spia-quando-siamo-in-piazza-la-privacy/",
@@ -86,34 +114,6 @@
       "excerpt": "Un normale posto di blocco lungo la strada statale del Sempione sul territorio di Pogliano ha permesso alla Polizia Locale del...",
       "publishedAt": "2026-11-14T00:00:00Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Rho, due caserme di Carabinieri e Finanza e parcheggio di 9 piani",
-      "url": "https://www.ilnotiziario.net/rho-due-caserme-di-carabinieri-e-finanza-e-parcheggio-di-9-piani/",
-      "excerpt": "Rho, due caserme di Carabinieri e Finanza e parcheggio di 9 piani. Due caserme di Carabinieri e Guardia di Finanza e un...",
-      "publishedAt": "2026-11-14T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Milano-Meda gratis con Pedemontana? Ecco la possibile soluzione",
-      "url": "https://www.ilnotiziario.net/milano-meda-gratis-con-pedemontana-ecco-la-possibile-soluzione/",
-      "excerpt": "Mantenere il tratto di Milano-Meda gratis anche dopo il passaggio a Pedemontana? Una possibile soluzione c’è ed è legata...",
-      "publishedAt": "2026-11-13T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Treno fermo a Paderno, ritardi fino a 78 minuti",
-      "url": "https://www.ilnotiziario.net/treno-fermo-a-paderno-ritardi-fino-a-78-minuti/",
-      "excerpt": "Treno fermo a Paderno Dugnano (Palazzolo), ritardi su tutta la linea e disagi per i pendolari. Un guasto al sistema di chiusura...",
-      "publishedAt": "2026-11-13T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Tranvia Milano-Seregno, da Associazione Utenti del Trasporto Pubblico appello per la ripresa dei lavori",
-      "url": "https://www.ilnotiziario.net/tranvia-milano-seregno-da-associazione-utenti-del-trasporto-pubblico-appello-per-la-ripresa-dei-lavori/",
-      "excerpt": "Per la Tranvia Milano-Seregno, dall’Associazione Utenti trasporto pubblico arriva l’appello per la ripresa dei...",
-      "publishedAt": "2026-11-13T00:00:00Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -127,5 +127,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 1.08
+  "durationSeconds": 1.79
 }

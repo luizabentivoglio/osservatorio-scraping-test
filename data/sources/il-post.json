@@ -4,52 +4,45 @@
   "sourceId": "il-post",
   "originUrl": "https://www.ilpost.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-15T09:57:53.242334Z",
+  "collectedAt": "2026-11-15T17:26:41.453212Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
-      "title": "Le tenniste italiane Sara Errani e Jasmine Paolini sono in finale alle WTA Finals",
-      "url": "https://www.ilpost.it/2026/11/15/sara-errani-jasmine-paolini-finale-wta-finals-tennis/?bitPosition=1",
-      "excerpt": "Le tenniste italiane Sara Errani e Jasmine Paolini sono in finale alle WTA Finals Le tenniste italiane Sara Errani e Jasmine Paolini hanno battuto la francese Kristina Mladenovic e la cinese Hanyu Guo nella semifinale di doppio delle WTA Finals che si stanno tenendo negli Stati Uniti, qualificandosi così per la finale.",
-      "publishedAt": "2026-11-15T07:13:48Z",
+      "title": "Un tribunale giordano ha condannato a morte tre uomini per l’attentato in una chiesa dello scorso ottobre",
+      "url": "https://www.ilpost.it/2026/11/15/tre-uomini-condannati-a-morte-attentato-giordania/?bitPosition=1",
+      "excerpt": "Un tribunale giordano ha condannato a morte tre uomini per l’attentato in una chiesa dello scorso ottobre Un tribunale giordano ha condannato a morte tre uomini per l’attentato avvenuto lo scorso 23 ottobre durante un funerale in una chiesa di Hamoud, una cittadina a maggioranza cristiana nel governatorato di Al Karak,",
+      "publishedAt": "2026-11-15T16:06:12Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "Breve cronologia del guasto che ha bloccato i voli negli Stati Uniti",
-      "url": "https://www.ilpost.it/2026/11/15/cronologia-blocco-voli-manutenzione/?homepagePosition=0",
-      "excerpt": "Da una piccola stazione in Arkansas si è esteso a tutto il paese, dove l'infrastruttura che gestisce il traffico aereo è vecchia di decenni",
-      "publishedAt": "2026-11-15T06:55:54Z",
+      "title": "Sabato alle Canarie sono arrivate 1.488 persone migranti: il numero più alto nella storia degli sbarchi lì",
+      "url": "https://www.ilpost.it/2026/11/15/canarie-1500-migranti-record/?bitPosition=2",
+      "excerpt": "Sabato alle Canarie sono arrivate 1.488 persone migranti: il numero più alto nella storia degli sbarchi lì Solo nella giornata di sabato alle Isole Canarie, in Spagna, sono arrivate 1.488 persone migranti: il numero più alto registrato lì finora. Il record precedente era stato di 1.461, il 7 novembre del 2020. Le perso",
+      "publishedAt": "2026-11-15T14:31:50Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "Una piattaforma delle poste francesi ha subito un attacco informatico: sono stati rubati i dati di 22 milioni di persone",
-      "url": "https://www.ilpost.it/2026/11/14/furto-dati-poste-francesi/?bitPosition=2",
-      "excerpt": "Una piattaforma delle poste francesi ha subito un attacco informatico: sono stati rubati i dati di 22 milioni di persone La piattaforma francese Maileva, una controllata del gruppo postale nazionale La Poste (l’equivalente francese di Poste Italiane), ha subito un attacco informatico che ha portato al furto dei dati di",
-      "publishedAt": "2026-11-14T20:12:21Z",
+      "title": "Tre navi mercantili sono state attaccate con i droni nel mar Nero, in Romania",
+      "url": "https://www.ilpost.it/2026/11/15/tre-navi-mercantili-colpite-droni-mar-nero-romania/?bitPosition=3",
+      "excerpt": "Tre navi mercantili sono state attaccate con i droni nel mar Nero, in Romania Sabato sera dei droni hanno colpito tre navi mercantili al largo del porto di Sulina, una città in Romania sulla foce del Danubio, nel mar Nero, a pochi chilometri dal confine con l’Ucraina. Nessuno ha rivendicato gli attacchi e il primo mini",
+      "publishedAt": "2026-11-15T14:15:37Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "Cinque persone sono morte in un incidente all’altezza di San Fili, in provincia di Cosenza",
-      "url": "https://www.ilpost.it/2026/11/14/incidente-san-fili/?bitPosition=3",
-      "excerpt": "Cinque persone sono morte in un incidente all’altezza di San Fili, in provincia di Cosenza Cinque persone sono morte in un incidente stradale sulla statale 107 all’altezza di San Fili, un comune calabrese in provincia di Cosenza. Lo scontro è avvenuto in galleria e ha coinvolto una Jaguar e una Opel Mokka, sulle quali ",
-      "publishedAt": "2026-11-14T18:04:29Z",
+      "title": "L’Alta rappresentante Kaja Kallas ha detto che le forze europee hanno intercettato una nave della “flotta fantasma” russa nel Mediterraneo",
+      "url": "https://www.ilpost.it/2026/11/15/kallas-intercettata-petroliera-flotta-fantasma-russa-mediterraneo/?bitPosition=4",
+      "excerpt": "L’Alta rappresentante Kaja Kallas ha detto che le forze europee hanno intercettato una nave della “flotta fantasma” russa nel Mediterraneo Domenica l’Alta rappresentante dell’Unione Europea per gli Affari esteri Kaja Kallas ha detto che le forze europee che partecipano all’operazione EUNAVFOR MED IRINI, missione milita",
+      "publishedAt": "2026-11-15T13:31:02Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "I grossi problemi con i voli negli Stati Uniti",
-      "url": "https://www.ilpost.it/2026/11/14/stati-uniti-problemi-voli-cancellati-ritardi/?homepagePosition=0.2&referrerPost=3733393",
-      "excerpt": "Dopo il blocco di quattro ore di venerdì, migliaia sono stati cancellati anche sabato",
-      "publishedAt": "2026-11-14T15:50:04Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Cos’è successo col blocco dei voli negli Stati Uniti",
-      "url": "https://www.ilpost.it/2026/11/14/voli-stati-uniti-ripresi/?homepagePosition=0.1&referrerPost=3733393",
-      "excerpt": "È durato quattro ore: il segretario dei Trasporti ha dato la colpa a sistemi obsoleti e a un ritardo dei finanziamenti pubblici",
-      "publishedAt": "2026-11-14T04:33:17Z",
+      "title": "Il bonus sanitario per gli anziani è pensato molto male",
+      "url": "https://www.ilpost.it/2026/11/15/bonus-sanitario-300-euro-anziani/?homepagePosition=0",
+      "excerpt": "Pur essendo costoso non è equo e rischia di favorire la sanità privata invece di aumentare l'offerta pubblica",
+      "publishedAt": "2026-11-15T13:30:30Z",
       "dateEvidence": "jsonld:datePublished"
     }
   ],
@@ -63,34 +56,34 @@
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/15/cronologia-blocco-voli-manutenzione/?homepagePosition=0",
+      "url": "https://www.ilpost.it/2026/11/15/bonus-sanitario-300-euro-anziani/?homepagePosition=0",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/14/voli-stati-uniti-ripresi/?homepagePosition=0.1&referrerPost=3733393",
+      "url": "https://www.ilpost.it/2026/10/29/pochi-soldi-sanita-regioni/?homepagePosition=0.1&referrerPost=3732479",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/14/stati-uniti-problemi-voli-cancellati-ritardi/?homepagePosition=0.2&referrerPost=3733393",
+      "url": "https://www.ilpost.it/2026/11/15/tre-uomini-condannati-a-morte-attentato-giordania/?bitPosition=1",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/15/sara-errani-jasmine-paolini-finale-wta-finals-tennis/?bitPosition=1",
+      "url": "https://www.ilpost.it/2026/11/15/canarie-1500-migranti-record/?bitPosition=2",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/14/furto-dati-poste-francesi/?bitPosition=2",
+      "url": "https://www.ilpost.it/2026/11/15/tre-navi-mercantili-colpite-droni-mar-nero-romania/?bitPosition=3",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/14/incidente-san-fili/?bitPosition=3",
+      "url": "https://www.ilpost.it/2026/11/15/kallas-intercettata-petroliera-flotta-fantasma-russa-mediterraneo/?bitPosition=4",
       "status": 200
     }
   ],
-  "message": "6 notizie recenti con data verificata; copertura parziale.",
+  "message": "5 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [],
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.ilpost.it/",
-  "durationSeconds": 3.53
+  "durationSeconds": 3.55
 }
