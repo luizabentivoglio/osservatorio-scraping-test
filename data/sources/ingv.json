@@ -4,7 +4,7 @@
   "sourceId": "ingv",
   "originUrl": "https://www.ingv.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-15T23:13:10.427520Z",
+  "collectedAt": "2026-11-16T10:12:39.292543Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
@@ -51,20 +51,6 @@
       "excerpt": "",
       "publishedAt": "2026-11-03T00:00:00Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "CICLONE HARRY | Onde record nel Mediterraneo: uno studio svela i fattori che amplificano il rischio costiero",
-      "url": "https://www.ingv.it/stampa-urp/ufficio-stampa/comunicati-stampa/ciclone-harry-onde-record-nel-mediterraneo-uno-studio-svela-i-fattori-che-amplificano-il-rischio-costiero",
-      "excerpt": "",
-      "publishedAt": "2026-11-02T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "EINSTEIN TELESCOPE | A Berlino nuovo incontro tra Italia e Germania per il futuro osservatorio europeo di onde gravitazionali",
-      "url": "https://www.ingv.it/stampa-urp/ufficio-stampa/comunicati-stampa/einstein-telescope-a-berlino-nuovo-incontro-tra-italia-e-germania-per-il-futuro-osservatorio-europeo-di-onde-gravitazionali",
-      "excerpt": "",
-      "publishedAt": "2026-11-02T00:00:00Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -82,5 +68,5 @@
     }
   ],
   "message": "Feed dichiarato dalla fonte; date di pubblicazione verificate.",
-  "durationSeconds": 1.38
+  "durationSeconds": 1.19
 }

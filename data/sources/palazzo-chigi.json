@@ -4,12 +4,19 @@
   "sourceId": "palazzo-chigi",
   "originUrl": "https://www.governo.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-15T23:13:26.837880Z",
+  "collectedAt": "2026-11-16T10:12:55.447055Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.governo.it/feed/rss",
   "items": [
+    {
+      "title": "Giornata europea in memoria delle vittime degli incidenti sul lavoro, dichiarazione del Presidente Meloni",
+      "url": "https://www.governo.it/it/articolo/giornata-europea-memoria-delle-vittime-degli-incidenti-sul-lavoro-dichiarazione-del",
+      "excerpt": "Con l’adozione formale da parte del Consiglio dell'Unione Europea, l'8 agosto diventa oggi la “Giornata europea in memoria delle vittime degli incidenti sul lavoro e per la tutela e la dignità dei lavoratori”. È la data della tragedia di Marcinelle, dove nel 1956 morirono 262 minatori di diverse nazionalità, 136 dei qu",
+      "publishedAt": "2026-11-16T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "Giornata mondiale e nazionale in memoria delle vittime della strada, dichiarazione del Presidente Meloni",
       "url": "https://www.governo.it/it/articolo/giornata-mondiale-e-nazionale-memoria-delle-vittime-della-strada-dichiarazione-del",
@@ -72,13 +79,6 @@
       "excerpt": "Si è riunito questo pomeriggio, a Palazzo Chigi, il Comitato interministeriale per la sicurezza della Repubblica (CISR) in sede tecnica, alla presenza del Sottosegretario alla Presidenza del Consiglio e Autorità delegata per la sicurezza della Repubblica, Alfredo Mantovano, del Ministro dell’interno Matteo Piantedosi, ",
       "publishedAt": "2026-11-12T00:00:00Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Incontro con il Primo Ministro del Regno Unito Burnham",
-      "url": "https://www.governo.it/it/articolo/incontro-con-il-primo-ministro-del-regno-unito-burnham/33097",
-      "excerpt": "A margine del Vertice della Comunità politica europea di Dublino, il Presidente del Consiglio, Giorgia Meloni, ha incontrato il Primo Ministro del Regno Unito, Andy Burnham. Il colloquio ha consentito di confermare la solidità delle relazioni bilaterali e la volontà condivisa di rafforzare ulteriormente la cooperazione",
-      "publishedAt": "2026-11-12T00:00:00Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -100,5 +100,5 @@
     }
   ],
   "message": "Feed dichiarato dalla fonte; date di pubblicazione verificate.",
-  "durationSeconds": 30.23
+  "durationSeconds": 30.09
 }

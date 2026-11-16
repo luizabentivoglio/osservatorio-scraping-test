@@ -4,12 +4,19 @@
   "sourceId": "oxfam",
   "originUrl": "https://www.oxfamitalia.org/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-15T23:13:23.140843Z",
+  "collectedAt": "2026-11-16T10:12:52.506545Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "SCUOLA DI DISUGUAGLIANZE",
+      "url": "https://www.oxfamitalia.org/scuola-di-disuguaglianze/",
+      "excerpt": "Il nostro nuovo rapporto “STATUS-QUOla. Contrastare le disuguaglianze per una scuola motore di equità sociale” fotografa una scuola che fatica a essere",
+      "publishedAt": "2026-11-13T10:37:58Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
     {
       "title": "Pace nel mondo: sogno utopico o responsabilità collettiva?",
       "url": "https://www.oxfamitalia.org/pace-nel-mondo/",
@@ -49,6 +56,10 @@
       "status": 200
     },
     {
+      "url": "https://www.oxfamitalia.org/scuola-di-disuguaglianze/",
+      "status": 200
+    },
+    {
       "url": "https://www.oxfamitalia.org/pace-nel-mondo/",
       "status": 200
     },
@@ -67,16 +78,12 @@
     {
       "url": "https://www.oxfamitalia.org/gaza-la-storia-di-bilal-sopravvivere-senza-poter-tornare-a-vivere/",
       "status": 200
-    },
-    {
-      "url": "https://www.oxfamitalia.org/i-super-ricchi-sono-ancora-piu-ricchi-grazie-alla-crisi-climatica/",
-      "status": 200
     }
   ],
-  "message": "4 notizie recenti con data verificata; copertura parziale.",
+  "message": "5 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [],
   "candidateCount": 8,
   "datedCount": 6,
   "listingUrl": "https://www.oxfamitalia.org/news/",
-  "durationSeconds": 4.54
+  "durationSeconds": 4.64
 }

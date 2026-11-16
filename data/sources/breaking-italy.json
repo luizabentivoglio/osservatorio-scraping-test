@@ -4,17 +4,17 @@
   "sourceId": "breaking-italy",
   "originUrl": "https://breakingitaly.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-15T23:12:34.578535Z",
+  "collectedAt": "2026-11-16T10:12:05.641709Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
-      "title": "Jensen Huang ha rassegnato le dimissioni da Nvidia",
-      "url": "https://breakingitaly.it/newsletter/jensen-huang-ha-rassegnato-le-dimissioni-da-nvidia",
-      "excerpt": "Jensen Huang ha rassegnato le dimissioni da Nvidia",
-      "publishedAt": "2026-11-13T00:00:00Z",
+      "title": "In Repubblica Ceca si protesta a sostegno dei media pubblici",
+      "url": "https://breakingitaly.it/newsletter/in-repubblica-ceca-si-protesta-a-sostegno-dei-media-pubblici",
+      "excerpt": "In Repubblica Ceca si protesta a sostegno dei media pubblici",
+      "publishedAt": "2026-11-16T00:00:00Z",
       "dateEvidence": "html:newsletter-publication"
     }
   ],
@@ -32,7 +32,7 @@
       "status": 200
     },
     {
-      "url": "https://breakingitaly.it/newsletter/jensen-huang-ha-rassegnato-le-dimissioni-da-nvidia",
+      "url": "https://breakingitaly.it/newsletter/in-repubblica-ceca-si-protesta-a-sostegno-dei-media-pubblici",
       "status": 200
     },
     {
@@ -96,5 +96,5 @@
   "candidateCount": 12,
   "datedCount": 1,
   "listingUrl": "https://breakingitaly.it/",
-  "durationSeconds": 5.2
+  "durationSeconds": 5.16
 }

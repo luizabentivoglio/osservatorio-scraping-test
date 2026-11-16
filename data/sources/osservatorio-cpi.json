@@ -4,7 +4,7 @@
   "sourceId": "osservatorio-cpi",
   "originUrl": "https://osservatoriocpi.unicatt.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-15T23:13:20.778656Z",
+  "collectedAt": "2026-11-16T10:12:49.611808Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -44,13 +44,6 @@
       "excerpt": "Lo Stato ha ancora oggi un peso rilevante nell’economia italiana. Lo conferma il rapporto spesa pubblica/Pil del 2025, ben al di sopra sia della media dei Paesi avanzati sia dei membri dell’UE. Anche rispetto al suo Pil pro capite l’Italia ha una spesa totale in percentuale al Pil molto elevata. Questo risultato è però",
       "publishedAt": "2026-11-03T00:00:00Z",
       "dateEvidence": "html:article-header"
-    },
-    {
-      "title": "Oltre quale livello il rapporto debito/Pil dell’Italia diventa insostenibile?",
-      "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/oltre-quale-livello-il-rapporto-debito-pil-dell-italia-diventa-insostenibile.html",
-      "excerpt": "A quale livello, per un Paese, il rapporto tra debito pubblico e Pil diventa insostenibile, nel senso di richiedere, per evitare una sua esplosione, avanzi primari che il Paese avrebbe difficoltà a mantenere nel lungo periodo? Applicando una metodologia introdotta da alcuni economisti del FMI, si può rispondere a quest",
-      "publishedAt": "2026-11-02T00:00:00Z",
-      "dateEvidence": "html:article-header"
     }
   ],
   "attempts": [
@@ -87,10 +80,10 @@
       "status": 200
     }
   ],
-  "message": "6 notizie recenti con data verificata; copertura parziale.",
+  "message": "5 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [],
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://osservatoriocpi.unicatt.it/pubblicazioni.html",
-  "durationSeconds": 6.06
+  "durationSeconds": 5.83
 }

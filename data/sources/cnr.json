@@ -4,12 +4,19 @@
   "sourceId": "cnr",
   "originUrl": "https://www.cnr.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-15T23:12:44.639005Z",
+  "collectedAt": "2026-11-16T10:12:15.080181Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.cnr.it/it/news/rss",
   "items": [
+    {
+      "title": "Primo Review Meeting del progetto europeo Chips JU - WBG Pilot Line",
+      "url": "https://www.cnr.it/it/news/14813/primo-review-meeting-del-progetto-europeo-chips-ju-wbg-pilot-line",
+      "excerpt": "16/11/2026 . Il 3 e 4 novembre 2026 si è tenuto ad Erlangen, in Germania, il primo Review Meeting del progetto Wide-Bandgap Pilot Line . Questo evento ha riunito tutti i partner del progetto, la Project Officer e agli esperti indipendenti per un proficuo scambio sui risultati raggiunti, sugli obiettivi intermedi e sull",
+      "publishedAt": "2026-11-16T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "Intelligenza artificiale e guerra: chi controlla gli algoritmi e chi risponde delle loro decisioni?",
       "url": "https://www.cnr.it/it/news/14812/intelligenza-artificiale-e-guerra-chi-controlla-gli-algoritmi-e-chi-risponde-delle-loro-decisioni",
@@ -142,13 +149,6 @@
       "excerpt": "04/11/2026 . Un’occasione per arricchire il proprio percorso universitario e avvicinarsi al mondo del lavoro attraverso un’esperienza formativa sul campo. I laureandi interessati potranno manifestare il proprio interesse a svolgere uno dei seguenti tirocini formativi presso la Sede di Napoli dell’Istituto per le Tecnol",
       "publishedAt": "2026-11-04T00:00:00Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "R/V Gaia Blu: conclusa la campagna MARSiCo-2026_II",
-      "url": "https://www.cnr.it/it/news/14775/r-v-gaia-blu-conclusa-la-campagna-marsico-2026-ii",
-      "excerpt": "03/11/2026 . Dal 12 al 29 ottobre 2026 la nave da ricerca R/V Gaia Blu è stata impegnata nella campagna oceanografica MARSiCo-2026_II (MAnagement and Retrieval of SubmergedInfrastructures in the Sicily and Corsica Channel), coordinata dal CNR-ISMAR nell'ambito delle attività nazionali e internazionali di osservazione a",
-      "publishedAt": "2026-11-03T00:00:00Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -162,5 +162,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 10.31
+  "durationSeconds": 10.16
 }

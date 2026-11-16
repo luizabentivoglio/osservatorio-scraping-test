@@ -4,12 +4,75 @@
   "sourceId": "il-notiziario",
   "originUrl": "https://www.ilnotiziario.net/",
   "configuredFeedUrl": "https://www.ilnotiziario.net/feed/",
-  "collectedAt": "2026-11-15T23:13:12.588677Z",
+  "collectedAt": "2026-11-16T10:12:41.882923Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.ilnotiziario.net/feed/",
   "items": [
+    {
+      "title": "Sesto San Giovanni, camion sprofonda nell’asfalto, strada chiusa e traffico deviato",
+      "url": "https://www.ilnotiziario.net/sesto-san-giovanni-camion-sprofonda-nellasfalto-strada-chiusa-e-traffico-deviato/",
+      "excerpt": "Sesto San Giovanni, camion sprofonda nell’asfalto, strada chiusa e traffico deviato Un camion bloccato nell’asfalto e una strada...",
+      "publishedAt": "2026-11-16T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Investire nelle nuove costruzioni nelle valli bergamasche",
+      "url": "https://www.ilnotiziario.net/investire-nelle-nuove-costruzioni-nelle-valli-bergamasche/",
+      "excerpt": "Una casa in montagna può diventare il tuo posto per il fine settimana, una base per soggiorni più lunghi o un immobile da...",
+      "publishedAt": "2026-11-16T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Scontri durante le manifestazioni, perquisizioni anche a Milano, Monza e Varese",
+      "url": "https://www.ilnotiziario.net/scontri-durante-le-manifestazioni-perquisizioni-anche-a-milano-monza-e-varese/",
+      "excerpt": "Scontri durante le manifestazioni, perquisizioni anche a Milano, Monza e Varese La Digos ha eseguito perquisizioni anche in...",
+      "publishedAt": "2026-11-16T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Lite tra consuoceri, spari in casa a Cermenate, un ferito e un arrestato",
+      "url": "https://www.ilnotiziario.net/lite-tra-consuoceri-spari-in-casa-a-cermenate-un-ferito-e-un-arrestato/",
+      "excerpt": "Lite tra consuoceri in casa a Cermenate, spari in casa, un uomo ferito in maniera grave, l’altro arrestato. Un sabato sera...",
+      "publishedAt": "2026-11-16T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Aeroporto di Bresso, vertice in Prefettura, la Città metropolitana frena sul traffico commerciale",
+      "url": "https://www.ilnotiziario.net/aeroporto-di-bresso-vertice-in-prefettura-la-citta-metropolitana-frena-sul-traffico-commerciale/",
+      "excerpt": "Il futuro dell’aeroporto di Bresso torna al centro del confronto istituzionale con il vertice in prefettura e la posizione di...",
+      "publishedAt": "2026-11-16T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Cislago, bigliettini colorati per le benedizioni di Natale",
+      "url": "https://www.ilnotiziario.net/cislago-cartoncini-colorati-per-le-benedizioni-di-natale/",
+      "excerpt": "Il paese è sempre più grande e così, non potendo passare in tutte le case per le benedizioni di Natale, la parrocchia di Cislago...",
+      "publishedAt": "2026-11-16T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Garbagnate, un murales per il “rispetto”: Bariana si colora contro il bullismo",
+      "url": "https://www.ilnotiziario.net/garbagnate-un-murales-per-il-rispetto-bariana-si-colora-contro-il-bullismo/",
+      "excerpt": "Garbagnate, un murales per il “rispetto”: Bariana si colora contro il bullismo. È stato realizzato martedì scorso all’oratorio di...",
+      "publishedAt": "2026-11-16T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Scatta la caccia all’orso tra Legnano e Saronno 60 maxi-peluche giganti spuntano nelle piazze del nostro territorio",
+      "url": "https://www.ilnotiziario.net/scatta-la-caccia-allorso-tra-legnano-e-saronno-60-maxi-peluche-giganti-spuntano-nelle-piazze-del-nostro-territorio/",
+      "excerpt": "Da Saronno a Busto Arsizio, scatta una singolare caccia al tesoro urbana guidata dai social. L’iniziativa anticipa...",
+      "publishedAt": "2026-11-16T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Arese, la Ztl svuota i negozi in centro: mozione per riaprire",
+      "url": "https://www.ilnotiziario.net/arese-la-ztl-svuota-i-negozi-in-centro-mozione-per-riaprire/",
+      "excerpt": "Arese, la Ztl svuota i negozi in centro, mozione per riaprire via Caduti alle auto nel periodo natalizio. La rigenerazione urbana...",
+      "publishedAt": "2026-11-16T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "Paderno, “Pedemontana, quale impatto avrà?” Casati svela i numeri",
       "url": "https://www.ilnotiziario.net/paderno-pedemontana-quale-impatto-avra-casati-svela-i-numeri/",
@@ -51,69 +114,6 @@
       "excerpt": "Solaro e Ceriano, studenti alla scoperta dei volontari del Parco delle Groane L’ex Polveriera di Solaro-Ceriano Laghetto diventa...",
       "publishedAt": "2026-11-15T00:00:00Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Paderno, Caritas: i numeri della solidarietà 890 persone aiutate ogni mese",
-      "url": "https://www.ilnotiziario.net/paderno-caritas-i-numeri-della-solidarieta-890-persone-aiutate-ogni-mese/",
-      "excerpt": "Paderno, Caritas: i numeri della solidarietà 890 persone aiutate ogni mese. Oltre 890 persone raggiunte ogni mese dalla...",
-      "publishedAt": "2026-11-15T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Novate, Furti d’auto e vetture smontate: residenti infuriati chiedono più controlli",
-      "url": "https://www.ilnotiziario.net/novate-furti-dauto-e-vetture-smontate-residenti-infuriati-chiedono-piu-controlli/",
-      "excerpt": "Novate, Furti d’auto e vetture smontate: residenti infuriati chiedono più controlli e interventi sugli accessi. Cresce l’allarme...",
-      "publishedAt": "2026-11-15T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Limbiate, Francesco sogna l’autonomia: raccolta fondi per l’auto speciale",
-      "url": "https://www.ilnotiziario.net/limbiate-francesco-sogna-lautonomia-raccolta-fondi-per-lauto-speciale/",
-      "excerpt": "Limbiate, Francesco sogna l’autonomia: raccolta fondi per l’auto speciale. Francesco Ruberto è determinato a coronare il suo...",
-      "publishedAt": "2026-11-15T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Paderno, a Calderara arriva un’oasi a misura di gatto",
-      "url": "https://www.ilnotiziario.net/paderno-a-calderara-arriva-un-oasi-a-misura-di-gatto/",
-      "excerpt": "Paderno, a Calderara arriva un’oasi a misura di gatto. Entro un anno Paderno Dugnano avrà la sua prima oasi felina. Sorgerà...",
-      "publishedAt": "2026-11-14T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Lainate, furto al parcheggio del Roadhouse: spaccata nell’auto dopo la cena",
-      "url": "https://www.ilnotiziario.net/lainate-furto-al-parcheggio-del-roadhouse-spaccata-nellauto-dopo-la-cena/",
-      "excerpt": "Lainate, furto al parcheggio del Roadhouse: spaccata nell’auto dopo la cena. Ennesimo episodio di microcriminalità nel Comune di...",
-      "publishedAt": "2026-11-14T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Varedo: picchia la compagna incinta, 27enne fermato e allontanato dai Carabinieri",
-      "url": "https://www.ilnotiziario.net/varedo-picchia-la-compagna-incinta-27enne-fermato-e-allontanato-dai-carabinieri/",
-      "excerpt": "A Varedo, picchia la compagna incinta e tenta di impedirle di urlare, fermato e allontanato dal tempestivo intervento dei...",
-      "publishedAt": "2026-11-14T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Milano: 92enne rapinato in casa e morto in ospedale, fermati due indagati",
-      "url": "https://www.ilnotiziario.net/milano-92enne-rapinato-in-casa-e-morto-in-ospedale-fermati-due-indagati/",
-      "excerpt": "A Milano un 92enne che viveva solo è stato rapinato in casa e morto in ospedale dopo le percosse ricevute. Una brutale...",
-      "publishedAt": "2026-11-14T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Bollate, ladri incappucciati in casa: il cane viene preso a bastonate",
-      "url": "https://www.ilnotiziario.net/bollate-ladri-incappucciati-in-casa-il-cane-viene-preso-a-bastonate/",
-      "excerpt": "Bollate, Ladri incappucciati entrano in casa: il cane viene preso a bastonate. Prosegue in città l’allarme ladri che avevamo...",
-      "publishedAt": "2026-11-14T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Senza assicurazione e con la patente falsa",
-      "url": "https://www.ilnotiziario.net/senza-assicurazione-e-con-la-patente-falsa/",
-      "excerpt": "Un normale posto di blocco lungo la strada statale del Sempione sul territorio di Pogliano ha permesso alla Polizia Locale del...",
-      "publishedAt": "2026-11-14T00:00:00Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -127,5 +127,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 1.67
+  "durationSeconds": 0.98
 }

@@ -4,12 +4,19 @@
   "sourceId": "camera",
   "originUrl": "https://www.camera.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-15T23:12:35.788296Z",
+  "collectedAt": "2026-11-16T10:12:06.515972Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "Fisco: il 17 novembre alla Camera presentazione documento conclusivo indagine conoscitiva Commissione anagrafe tributaria",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64139",
+      "excerpt": "Martedì 17 novembre, dalle ore 10 alle 13, presso la Sala della Regina di Palazzo Montecitorio, si ...",
+      "publishedAt": "2026-11-16T00:00:00Z",
+      "dateEvidence": "html:publication-label"
+    },
     {
       "title": "Sabato 21 novembre Montecitorio a porte aperte – Prenotazioni online da lunedì 16",
       "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64129",
@@ -44,13 +51,6 @@
       "excerpt": "Lunedì 16 novembre, alle ore 17, presso la Sala del Mappamondo di Montecitorio si svolge il convegn...",
       "publishedAt": "2026-11-13T00:00:00Z",
       "dateEvidence": "html:publication-label"
-    },
-    {
-      "title": "Quadro finanziario Ue, audizione Fitto - Martedì alle 11 diretta webtv con lis",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64135",
-      "excerpt": "Martedì 17 novembre, alle ore 11, presso la Sala del Mappamondo, le Commissioni riunite Bilancio e ...",
-      "publishedAt": "2026-11-13T00:00:00Z",
-      "dateEvidence": "html:publication-label"
     }
   ],
   "attempts": [
@@ -60,6 +60,10 @@
     },
     {
       "url": "https://comunicazione.camera.it/archivio-prima-pagina",
+      "status": 200
+    },
+    {
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64139",
       "status": 200
     },
     {
@@ -81,10 +85,6 @@
     {
       "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64126",
       "status": 200
-    },
-    {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64135",
-      "status": 200
     }
   ],
   "message": "6 notizie recenti con data verificata; copertura parziale.",
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://comunicazione.camera.it/archivio-prima-pagina",
-  "durationSeconds": 4.04
+  "durationSeconds": 3.91
 }

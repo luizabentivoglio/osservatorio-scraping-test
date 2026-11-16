@@ -4,12 +4,26 @@
   "sourceId": "istat",
   "originUrl": "https://www.istat.it/",
   "configuredFeedUrl": "https://www.istat.it/feed/",
-  "collectedAt": "2026-11-15T23:13:12.313901Z",
+  "collectedAt": "2026-11-16T10:12:41.372410Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.istat.it/feed/",
   "items": [
+    {
+      "title": "Le persone senza dimora: Profili e percorsi di vita",
+      "url": "https://www.istat.it/comunicato-stampa/le-persone-senza-dimora-profili-e-percorsi-di-vita/",
+      "excerpt": "I principali risultati della seconda fase dell’indagine sulle persone senza dimora nei 14 Comuni Centro di Area Metropolitana (CCAM), promossa e coordinata dall’Istat, in collaborazione con fio.PSD-ETS",
+      "publishedAt": "2026-11-16T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Scambi con l’estero dei sistemi locali del lavoro (SLL)",
+      "url": "https://www.istat.it/notizia/scambi-con-lestero-dei-sistemi-locali-del-lavoro-sll/",
+      "excerpt": "L’Istat diffonde, in modo stabile e continuativo, i dati annuali di export di merci per Sistema Locale del Lavoro (SLL)",
+      "publishedAt": "2026-11-16T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "CIG B72ACC2827 – Sostituzione Sistemi Raffrescamento Sale CED e NET",
       "url": "https://www.istat.it/bando-di-gara/cig-b72acc2827-sostituzione-sistemi-raffrescamento-sale-ced-e-net/",
@@ -65,20 +79,6 @@
       "excerpt": "Audizione del Presidente dell’Istituto nazionale di statistica Prof. Francesco Maria Chelli",
       "publishedAt": "2026-11-12T00:00:00Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Soddisfazione dei cittadini – Anno 2025",
-      "url": "https://www.istat.it/comunicato-stampa/soddisfazione-dei-cittadini-anno-2025/",
-      "excerpt": "Nel 2025, la quota di persone soddisfatte della vita cresce al 47,6% (era il 46,3% nel 2024)",
-      "publishedAt": "2026-11-12T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Rilevazione sulle forze di lavoro – dati trasversali trimestrali: file per la ricerca",
-      "url": "https://www.istat.it/microdati/rilevazione-sulle-forze-di-lavoro-dati-trasversali-trimestrali-file-per-la-ricerca/",
-      "excerpt": "Disponibili i metadati secondo trimestre 2026 e i dati trasversali 'Moduli ad Hoc' anno 2024",
-      "publishedAt": "2026-11-12T00:00:00Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -92,5 +92,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 2.79
+  "durationSeconds": 2.89
 }

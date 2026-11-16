@@ -4,24 +4,24 @@
   "sourceId": "amnesty",
   "originUrl": "https://www.amnesty.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-15T23:12:34.067037Z",
+  "collectedAt": "2026-11-16T10:12:05.126576Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
+      "title": "Arabia Saudita: lo sfruttamento dei lavoratori Amazon",
+      "url": "https://www.amnesty.it/arabia-saudita-lo-sfruttamento-dei-lavoratori-amazon/",
+      "excerpt": "Nonostante alcuni miglioramenti introdotti da Amazon, i lavoratori migranti in Arabia Saudita restano vulnerabili allo sfruttamento.",
+      "publishedAt": "2026-11-16T06:00:51Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
       "title": "Spagna: dallo sfratto di Maricarmen allo sciopero generale",
       "url": "https://www.amnesty.it/spagna-dallo-sfratto-di-maricarmen-allo-sciopero-generale/",
       "excerpt": "Tre studenti universitari che hanno partecipato all'accampamento di Siviglia, raccontano il movimento per il diritto alla casa.",
       "publishedAt": "2026-11-12T12:20:39Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Italia: discussioni sullo stop al commercio con gli insediamenti illegali in Cisgiordania",
-      "url": "https://www.amnesty.it/italia-discussioni-stop-commercio-insediamenti-illegali-cisgiordania/",
-      "excerpt": "La discussione sullo stop al commercio italiano con gli insediamenti illegali in Cisgiordania è stata rinviata alla Camera il 16 novembre.",
-      "publishedAt": "2026-11-12T12:08:31Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
@@ -58,11 +58,11 @@
       "status": 200
     },
     {
-      "url": "https://www.amnesty.it/spagna-dallo-sfratto-di-maricarmen-allo-sciopero-generale/",
+      "url": "https://www.amnesty.it/arabia-saudita-lo-sfruttamento-dei-lavoratori-amazon/",
       "status": 200
     },
     {
-      "url": "https://www.amnesty.it/italia-discussioni-stop-commercio-insediamenti-illegali-cisgiordania/",
+      "url": "https://www.amnesty.it/spagna-dallo-sfratto-di-maricarmen-allo-sciopero-generale/",
       "status": 200
     }
   ],
@@ -90,5 +90,5 @@
   "candidateCount": 12,
   "datedCount": 3,
   "listingUrl": "https://www.amnesty.it/",
-  "durationSeconds": 6.04
+  "durationSeconds": 5.66
 }
