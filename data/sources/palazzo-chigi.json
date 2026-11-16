@@ -4,12 +4,19 @@
   "sourceId": "palazzo-chigi",
   "originUrl": "https://www.governo.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-16T10:12:55.447055Z",
+  "collectedAt": "2026-11-16T20:43:05.796414Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.governo.it/feed/rss",
   "items": [
+    {
+      "title": "Visita al Comando Unità Forestali, Ambientali e Agroalimentari dell'Arma dei Carabinieri (CUFAA)",
+      "url": "https://www.governo.it/it/articolo/visita-al-comando-unit-forestali-ambientali-e-agroalimentari-dellarma-dei-carabinieri-cufaa",
+      "excerpt": "Il Presidente del Consiglio, Giorgia Meloni, a Napoli, ha visitato il Comando Unità Forestali, Ambientali e Agroalimentari dell'Arma dei Carabinieri (CUFAA).",
+      "publishedAt": "2026-11-16T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "Giornata europea in memoria delle vittime degli incidenti sul lavoro, dichiarazione del Presidente Meloni",
       "url": "https://www.governo.it/it/articolo/giornata-europea-memoria-delle-vittime-degli-incidenti-sul-lavoro-dichiarazione-del",
@@ -72,13 +79,6 @@
       "excerpt": "A margine del Vertice della Comunità politica europea di Dublino, il Presidente del Consiglio, Giorgia Meloni, e il Presidente della Repubblica francese, Emmanuel Macron, hanno presieduto una nuova riunione dei leader della Coalizione europea contro le droghe (ECAD), iniziativa promossa congiuntamente da Italia e Franc",
       "publishedAt": "2026-11-12T00:00:00Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Riunione del Comitato interministeriale per la sicurezza della Repubblica",
-      "url": "https://www.governo.it/it/articolo/riunione-del-comitato-interministeriale-la-sicurezza-della-repubblica/33098",
-      "excerpt": "Si è riunito questo pomeriggio, a Palazzo Chigi, il Comitato interministeriale per la sicurezza della Repubblica (CISR) in sede tecnica, alla presenza del Sottosegretario alla Presidenza del Consiglio e Autorità delegata per la sicurezza della Repubblica, Alfredo Mantovano, del Ministro dell’interno Matteo Piantedosi, ",
-      "publishedAt": "2026-11-12T00:00:00Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -100,5 +100,5 @@
     }
   ],
   "message": "Feed dichiarato dalla fonte; date di pubblicazione verificate.",
-  "durationSeconds": 30.09
+  "durationSeconds": 30.14
 }

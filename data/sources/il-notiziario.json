@@ -4,12 +4,75 @@
   "sourceId": "il-notiziario",
   "originUrl": "https://www.ilnotiziario.net/",
   "configuredFeedUrl": "https://www.ilnotiziario.net/feed/",
-  "collectedAt": "2026-11-16T10:12:41.882923Z",
+  "collectedAt": "2026-11-16T20:42:48.847958Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.ilnotiziario.net/feed/",
   "items": [
+    {
+      "title": "“Vogliamo una ciclabile sulla Saronnese”, Eco ’90 Uboldo raccoglie 460 firme",
+      "url": "https://www.ilnotiziario.net/vogliamo-una-ciclabile-sulla-saronnese-eco-90-uboldo-raccoglie-460-firme/",
+      "excerpt": "Ben 460 firme per chiedere di realizzare una ciclabile sulla pericolosa Saronnese, dall’intersezione con via Spinella fino al...",
+      "publishedAt": "2026-11-16T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Uboldo: trovano la Posta ancora chiusa, ennesimo rinvio",
+      "url": "https://www.ilnotiziario.net/uboldo-trovano-la-posta-ancora-chiusa-ennesimo-rinvio/",
+      "excerpt": "A Uboldo, la posta è ancora chiusa. Doveva essere il giorno della riapertura, ma i cittadini che questa mattina si sono...",
+      "publishedAt": "2026-11-16T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Pero: tenta di recuperare le Carte Pokémon rubate, avvocato aggredito e rapinato",
+      "url": "https://www.ilnotiziario.net/pero-tenta-di-recuperare-le-carte-pokemon-rubate-avvocato-aggredito-e-rapinato/",
+      "excerpt": "Quello che doveva essere un incontro per recuperare un raro mazzo di carte Pokémon del valore stimato di circa 70mila euro si è...",
+      "publishedAt": "2026-11-16T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Cormano, raccolta firme per un consiglio aperto sul progetto del quartiere di Alessandro Manzoni",
+      "url": "https://www.ilnotiziario.net/cormano-raccolta-firme-progetto-quartiere-di-alessandro-manzoni/",
+      "excerpt": "Una raccolta firme per chiedere un consiglio comunale aperto con i cittadini, per parlare del progetto di riqualificazione urbana...",
+      "publishedAt": "2026-11-16T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Treni a rischio tra venerdì e sabato, indetto uno sciopero nazionale",
+      "url": "https://www.ilnotiziario.net/treni-a-rischio-tra-venerdi-e-sabato-indetto-uno-sciopero-nazionale/",
+      "excerpt": "Treni a rischio tra venerdì e sabato, indetto uno sciopero nazionale Un nuovo sciopero nazionale del trasporto ferroviario è in...",
+      "publishedAt": "2026-11-16T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Cinisello Balsamo, assalto esplosivo al bancomat, il boato sveglia il quartiere",
+      "url": "https://www.ilnotiziario.net/cinisello-balsamo-assalto-esplosivo-al-bancomat-il-boato-sveglia-il-quartiere/",
+      "excerpt": "Cinisello Balsamo, assalto esplosivo al bancomat, il boato sveglia il quartiere Un forte boato nel cuore della notte ha svegliato...",
+      "publishedAt": "2026-11-16T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Rho: Via Lainate, al via da domani i lavori di riasfaltatura",
+      "url": "https://www.ilnotiziario.net/via-lainate-al-via-da-domani-i-lavori-di-riasfaltatura/",
+      "excerpt": "Partiranno domani, martedì, i lavori di riasfaltatura e riqualificazione della pavimentazione stradale lungo via Lainate a Rho....",
+      "publishedAt": "2026-11-16T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Milano, violenta aggressione in strada, 18enne colpito a bastonate",
+      "url": "https://www.ilnotiziario.net/milano-violenta-aggressione-in-strada-18enne-colpito-a-bastonate/",
+      "excerpt": "Milano, violenta aggressione in strada, 18enne colpito a bastonate Un’aggressione in strada, poi l’arrivo dei...",
+      "publishedAt": "2026-11-16T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "FNM, cento anni dalla quotazione in Borsa, la Lombardia guarda al futuro dei trasporti",
+      "url": "https://www.ilnotiziario.net/fnm-cento-anni-dalla-quotazione-in-borsa-la-lombardia-guarda-al-futuro-dei-trasporti/",
+      "excerpt": "FNM, cento anni dalla quotazione in Borsa, la Lombardia guarda al futuro dei trasporti Un secolo sui mercati finanziari e una...",
+      "publishedAt": "2026-11-16T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "Sesto San Giovanni, camion sprofonda nell’asfalto, strada chiusa e traffico deviato",
       "url": "https://www.ilnotiziario.net/sesto-san-giovanni-camion-sprofonda-nellasfalto-strada-chiusa-e-traffico-deviato/",
@@ -51,69 +114,6 @@
       "excerpt": "Il paese è sempre più grande e così, non potendo passare in tutte le case per le benedizioni di Natale, la parrocchia di Cislago...",
       "publishedAt": "2026-11-16T00:00:00Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Garbagnate, un murales per il “rispetto”: Bariana si colora contro il bullismo",
-      "url": "https://www.ilnotiziario.net/garbagnate-un-murales-per-il-rispetto-bariana-si-colora-contro-il-bullismo/",
-      "excerpt": "Garbagnate, un murales per il “rispetto”: Bariana si colora contro il bullismo. È stato realizzato martedì scorso all’oratorio di...",
-      "publishedAt": "2026-11-16T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Scatta la caccia all’orso tra Legnano e Saronno 60 maxi-peluche giganti spuntano nelle piazze del nostro territorio",
-      "url": "https://www.ilnotiziario.net/scatta-la-caccia-allorso-tra-legnano-e-saronno-60-maxi-peluche-giganti-spuntano-nelle-piazze-del-nostro-territorio/",
-      "excerpt": "Da Saronno a Busto Arsizio, scatta una singolare caccia al tesoro urbana guidata dai social. L’iniziativa anticipa...",
-      "publishedAt": "2026-11-16T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Arese, la Ztl svuota i negozi in centro: mozione per riaprire",
-      "url": "https://www.ilnotiziario.net/arese-la-ztl-svuota-i-negozi-in-centro-mozione-per-riaprire/",
-      "excerpt": "Arese, la Ztl svuota i negozi in centro, mozione per riaprire via Caduti alle auto nel periodo natalizio. La rigenerazione urbana...",
-      "publishedAt": "2026-11-16T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Paderno, “Pedemontana, quale impatto avrà?” Casati svela i numeri",
-      "url": "https://www.ilnotiziario.net/paderno-pedemontana-quale-impatto-avra-casati-svela-i-numeri/",
-      "excerpt": "Paderno, “Pedemontana, quale impatto avrà?” Casati svela i numeri. “Pedemontana… la verità”. L’ex sindaco Ezio Casati è pronto a...",
-      "publishedAt": "2026-11-15T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Furto da oltre 330mila euro a Corsico, due arresti",
-      "url": "https://www.ilnotiziario.net/furto-da-oltre-330mila-euro-a-corsico-due-arresti/",
-      "excerpt": "Furto da oltre 330mila euro a Corsico, due arresti Un pedinamento iniziato davanti a un’azienda orafa e terminato con un...",
-      "publishedAt": "2026-11-15T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Rovello Porro, furto nella chiesa dei Santi Pietro e Paolo, bottino da 15mila euro",
-      "url": "https://www.ilnotiziario.net/rovello-porro-furto-nella-chiesa-dei-santi-pietro-e-paolo-bottino-da-15mila-euro/",
-      "excerpt": "Rovello Porro, furto nella chiesa dei Santi Pietro e Paolo, bottino da 15mila euro Un’incursione durante la notte e la fuga...",
-      "publishedAt": "2026-11-15T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Milano, droga nascosta in un pacco di biscotti destinato al Cpr, arrestato un 65enne",
-      "url": "https://www.ilnotiziario.net/milano-droga-nascosta-in-un-pacco-di-biscotti-destinato-al-cpr-arrestato-un-65enne/",
-      "excerpt": "Milano, droga nascosta in un pacco di biscotti destinato al Cpr, arrestato un 65enne Un pacco di biscotti usato per nascondere...",
-      "publishedAt": "2026-11-15T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Rho, telecamere, “Diteci chi ci spia quando siamo in piazza, la privacy?”",
-      "url": "https://www.ilnotiziario.net/rho-telecamere-diteci-chi-ci-spia-quando-siamo-in-piazza-la-privacy/",
-      "excerpt": "Rho, telecamere, “Diteci chi ci spia quando siamo in piazza, la privacy?”. “Riteniamo opportuno che i cittadini vengano...",
-      "publishedAt": "2026-11-15T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Solaro e Ceriano, studenti alla scoperta dei volontari del Parco delle Groane",
-      "url": "https://www.ilnotiziario.net/solaro-e-ceriano-studenti-alla-scoperta-dei-volontari-del-parco-delle-groane/",
-      "excerpt": "Solaro e Ceriano, studenti alla scoperta dei volontari del Parco delle Groane L’ex Polveriera di Solaro-Ceriano Laghetto diventa...",
-      "publishedAt": "2026-11-15T00:00:00Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -127,5 +127,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 0.98
+  "durationSeconds": 1.75
 }

@@ -4,12 +4,19 @@
   "sourceId": "wwf",
   "originUrl": "https://www.wwf.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-16T10:13:16.796170Z",
+  "collectedAt": "2026-11-16T20:43:29.164026Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "Cosa accade alla COP31 giorno per giorno",
+      "url": "https://www.wwf.it/pandanews/clima/cosa-accade-alla-cop31-giorno-per-giorno/",
+      "excerpt": "Dal 9 al 21 novembre è in corso ad Antalya il più importante evento per la lotta alla crisi climatica. Qui il nostro racconto giornaliero",
+      "publishedAt": "2026-11-16T10:24:00Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
     {
       "title": "COP31: timidi passi avanti nella prima settimana, ma bisogna fare più in fretta",
       "url": "https://www.wwf.it/pandanews/clima/cop31-timidi-passi-avanti-nella-prima-settimana-ma-bisogna-fare-piu-in-fretta/",
@@ -39,13 +46,6 @@
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "Cosa accade alla COP31 giorno per giorno",
-      "url": "https://www.wwf.it/pandanews/clima/cosa-accade-alla-cop31-giorno-per-giorno/",
-      "excerpt": "Dal 9 al 21 novembre è in corso ad Antalya il più importante evento per la lotta alla crisi climatica. Qui il nostro racconto giornaliero",
-      "publishedAt": "2026-11-13T10:34:00Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
       "title": "COP31, l’Italia assente al vertice dei leader e in ritardo sul clima",
       "url": "https://www.wwf.it/pandanews/clima/cop31-litalia-assente-al-vertice-dei-leader-e-in-ritardo-sul-clima/",
       "excerpt": "Antonio Tajani, ha annullato il suo viaggio. Un segnale politico preoccupante che si aggiunge ai ritardi nelle politiche nazionali",
@@ -60,6 +60,10 @@
     },
     {
       "url": "https://www.wwf.it/",
+      "status": 200
+    },
+    {
+      "url": "https://www.wwf.it/pandanews/clima/cosa-accade-alla-cop31-giorno-per-giorno/",
       "status": 200
     },
     {
@@ -79,10 +83,6 @@
       "status": 200
     },
     {
-      "url": "https://www.wwf.it/pandanews/clima/cosa-accade-alla-cop31-giorno-per-giorno/",
-      "status": 200
-    },
-    {
       "url": "https://www.wwf.it/pandanews/clima/cop31-litalia-assente-al-vertice-dei-leader-e-in-ritardo-sul-clima/",
       "status": 200
     }
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.wwf.it/",
-  "durationSeconds": 5.32
+  "durationSeconds": 5.55
 }

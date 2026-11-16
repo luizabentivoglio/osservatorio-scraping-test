@@ -4,12 +4,40 @@
   "sourceId": "pagella-politica",
   "originUrl": "https://pagellapolitica.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-16T10:12:54.188548Z",
+  "collectedAt": "2026-11-16T20:43:05.505303Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "No, l’Italia non ha dimezzato la spesa per la difesa dalla fine della Guerra fredda",
+      "url": "https://pagellapolitica.it/articoli/italia-spesa-difesa-guerra-fredda",
+      "excerpt": "L’ha detto Carlo Calenda, ma secondo i dati NATO all’inizio degli anni Novanta il nostro Paese spendeva in...",
+      "publishedAt": "2026-11-13T00:00:00Z",
+      "dateEvidence": "html:post-date"
+    },
+    {
+      "title": "L’Italia è in ritardo sugli obiettivi della COP31",
+      "url": "https://pagellapolitica.it/articoli/italia-ritardo-transizione-energetica-cop31",
+      "excerpt": "Il nostro Paese fatica ancora ad accelerare la transizione energetica mentre la conferenza sul clima chiede di...",
+      "publishedAt": "2026-11-12T00:00:00Z",
+      "dateEvidence": "html:post-date"
+    },
+    {
+      "title": "Gli incontri di Meloni con le opposizioni sono spesso inconcludenti",
+      "url": "https://pagellapolitica.it/articoli/allarme-bomba-incontro-meloni-opposizioni",
+      "excerpt": "Oltre a quello sui recenti allarmi bomba ne ha fatti altri due, uno sulle riforme e uno sul salario minimo, che...",
+      "publishedAt": "2026-11-12T00:00:00Z",
+      "dateEvidence": "html:post-date"
+    },
+    {
+      "title": "No, il Sud non sta “correndo”",
+      "url": "https://pagellapolitica.it/articoli/sud-non-sta-correndo",
+      "excerpt": "Fratelli d’Italia ha ripreso i dati Svimez per raccontare di un Mezzogiorno in accelerata, ma le statistiche di...",
+      "publishedAt": "2026-11-12T00:00:00Z",
+      "dateEvidence": "html:post-date"
+    },
     {
       "title": "Che cosa torna e cosa no nell’intervista di Renzi a Otto e Mezzo",
       "url": "https://pagellapolitica.it/articoli/cosa-non-torna-intervista-renzi-otto-e-mezzo",
@@ -23,34 +51,6 @@
       "excerpt": "Dai soldi per la difesa al costo delle bollette, abbiamo verificato nove dichiarazioni del leader di Futuro...",
       "publishedAt": "2026-11-11T00:00:00Z",
       "dateEvidence": "html:post-date"
-    },
-    {
-      "title": "Che cosa sta facendo l’Italia per difendersi dagli attacchi informatici",
-      "url": "https://pagellapolitica.it/articoli/italia-difesa-attacchi-informatici",
-      "excerpt": "I numeri sono in aumento e negli ultimi anni sono state introdotte nuove regole e stanziate risorse per prevenire e...",
-      "publishedAt": "2026-11-11T00:00:00Z",
-      "dateEvidence": "html:post-date"
-    },
-    {
-      "title": "Che cosa prevede il nuovo decreto sulle bollette",
-      "url": "https://pagellapolitica.it/articoli/nuovo-decreto-bollette-cosa-prevede",
-      "excerpt": "Il governo vuole ridurre il prezzo dell’elettricità attraverso un rimborso alle centrali, ma resta da capire quanto...",
-      "publishedAt": "2026-11-10T00:00:00Z",
-      "dateEvidence": "html:post-date"
-    },
-    {
-      "title": "Il governo vuole dare più poteri alle province che Meloni voleva abolire",
-      "url": "https://pagellapolitica.it/articoli/governo-meloni-province",
-      "excerpt": "L’esecutivo vuole reintrodurre l’elezione diretta dei presidenti e dei consigli provinciali, un sistema che...",
-      "publishedAt": "2026-11-10T00:00:00Z",
-      "dateEvidence": "html:post-date"
-    },
-    {
-      "title": "Cosa resta del Green Deal?",
-      "url": "https://pagellapolitica.it/articoli/cosa-resta-del-green-deal",
-      "excerpt": "La revisione dell’accordo ridurrebbe gli obblighi sulle emissioni per avvantaggiare il settore automobilistico, ma...",
-      "publishedAt": "2026-11-10T00:00:00Z",
-      "dateEvidence": "html:post-date"
     }
   ],
   "attempts": [
@@ -63,27 +63,27 @@
       "status": 200
     },
     {
+      "url": "https://pagellapolitica.it/articoli/italia-spesa-difesa-guerra-fredda",
+      "status": 200
+    },
+    {
+      "url": "https://pagellapolitica.it/articoli/italia-ritardo-transizione-energetica-cop31",
+      "status": 200
+    },
+    {
+      "url": "https://pagellapolitica.it/articoli/allarme-bomba-incontro-meloni-opposizioni",
+      "status": 200
+    },
+    {
+      "url": "https://pagellapolitica.it/articoli/sud-non-sta-correndo",
+      "status": 200
+    },
+    {
       "url": "https://pagellapolitica.it/articoli/cosa-non-torna-intervista-renzi-otto-e-mezzo",
       "status": 200
     },
     {
       "url": "https://pagellapolitica.it/articoli/fact-checking-vannacci-filorosso-rai-tre",
-      "status": 200
-    },
-    {
-      "url": "https://pagellapolitica.it/articoli/italia-difesa-attacchi-informatici",
-      "status": 200
-    },
-    {
-      "url": "https://pagellapolitica.it/articoli/nuovo-decreto-bollette-cosa-prevede",
-      "status": 200
-    },
-    {
-      "url": "https://pagellapolitica.it/articoli/governo-meloni-province",
-      "status": 200
-    },
-    {
-      "url": "https://pagellapolitica.it/articoli/cosa-resta-del-green-deal",
       "status": 200
     }
   ],
@@ -92,5 +92,5 @@
   "candidateCount": 6,
   "datedCount": 6,
   "listingUrl": "https://pagellapolitica.it/articoli",
-  "durationSeconds": 6.55
+  "durationSeconds": 10.78
 }

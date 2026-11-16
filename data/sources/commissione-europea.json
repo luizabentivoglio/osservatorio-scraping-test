@@ -4,7 +4,7 @@
   "sourceId": "commissione-europea",
   "originUrl": "https://commission.europa.eu/news-and-media_en",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-16T10:12:10.804472Z",
+  "collectedAt": "2026-11-16T20:42:16.262357Z",
   "status": "blocked",
   "diagnosticCode": "rate_limited",
   "method": "html",
@@ -29,6 +29,10 @@
     },
     {
       "url": "https://commission.europa.eu/news-and-media/visual-stories_en",
+      "status": 200
+    },
+    {
+      "url": "https://commission.europa.eu/about/contact/press-services_en",
       "status": 429
     }
   ],
@@ -39,30 +43,6 @@
       "title": "News from Commission Departments",
       "h1": "News",
       "dates": [
-        {
-          "tag": "time",
-          "class": [],
-          "text": "2 October 2026",
-          "datetime": "2026-10-02T12:00:00Z"
-        },
-        {
-          "tag": "time",
-          "class": [],
-          "text": "2 September 2026",
-          "datetime": "2026-09-02T12:00:00Z"
-        },
-        {
-          "tag": "time",
-          "class": [],
-          "text": "24 August 2026",
-          "datetime": "2026-08-24T12:00:00Z"
-        },
-        {
-          "tag": "time",
-          "class": [],
-          "text": "24 July 2026",
-          "datetime": "2026-07-24T12:00:00Z"
-        },
         {
           "tag": "div",
           "class": [
@@ -141,11 +121,41 @@
           "class": [],
           "text": "16 November 2026",
           "datetime": "2026-11-16T12:00:00Z"
+        },
+        {
+          "tag": "time",
+          "class": [],
+          "text": "16 November 2026",
+          "datetime": "2026-11-16T12:00:00Z"
+        },
+        {
+          "tag": "time",
+          "class": [],
+          "text": "16 November 2026",
+          "datetime": "2026-11-16T12:00:00Z"
+        },
+        {
+          "tag": "time",
+          "class": [],
+          "text": "16 November 2026",
+          "datetime": "2026-11-16T12:00:00Z"
+        },
+        {
+          "tag": "time",
+          "class": [],
+          "text": "16 November 2026",
+          "datetime": "2026-11-16T12:00:00Z"
         }
       ]
+    },
+    {
+      "url": "https://commission.europa.eu/news-and-media/visual-stories_en",
+      "title": "Visual stories",
+      "h1": "Visual stories",
+      "dates": []
     }
   ],
   "httpStatus": 429,
-  "failedUrl": "https://commission.europa.eu/news-and-media/visual-stories_en",
-  "durationSeconds": 2.17
+  "failedUrl": "https://commission.europa.eu/about/contact/press-services_en",
+  "durationSeconds": 2.84
 }

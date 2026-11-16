@@ -4,52 +4,45 @@
   "sourceId": "il-post",
   "originUrl": "https://www.ilpost.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-16T10:12:42.204238Z",
+  "collectedAt": "2026-11-16T20:42:50.596814Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
-      "title": "Revolut è stata messa in amministrazione giudiziaria in Italia",
-      "url": "https://www.ilpost.it/2026/11/16/banca-revolut-amministrazione-giudiziaria/?homepagePosition=0",
-      "excerpt": "Lo ha stabilito il tribunale di Milano, ritenendo che la banca digitale abbia sistemi di controllo inefficaci",
-      "publishedAt": "2026-11-16T08:46:30Z",
+      "title": "Ci sono problemi ai servizi online di diverse banche statunitensi",
+      "url": "https://www.ilpost.it/2026/11/16/banche-stati-uniti-problemi/?bitPosition=1",
+      "excerpt": "Ci sono problemi ai servizi online di diverse banche statunitensi Lunedì diversi clienti di alcune delle principali banche statunitensi stanno avendo difficoltà ad accedere ai propri conti online e a utilizzare i servizi di pagamento. Tra gli istituti interessati ci sono JPMorgan Chase, Wells Fargo, Truist e Bank of Am",
+      "publishedAt": "2026-11-16T18:30:50Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "La vedova del presidente di Haiti Jovenel Moïse, assassinato nel 2021, si è candidata alle elezioni presidenziali",
-      "url": "https://www.ilpost.it/2026/11/16/martine-moise-haiti-candidata-presidenziali/?bitPosition=1",
-      "excerpt": "La vedova del presidente di Haiti Jovenel Moïse, assassinato nel 2021, si è candidata alle elezioni presidenziali Martine Moïse, la vedova del presidente di Haiti Jovenel Moïse, assassinato nel 2021, si è candidata alle elezioni presidenziali, che dovrebbero tenersi nel 2027. Jovenel Moïse, un ex imprenditore agricolo,",
-      "publishedAt": "2026-11-16T07:04:15Z",
+      "title": "Una nave mercantile è affondata dopo essere stata colpita da droni nel mar Nero, al largo della Bulgaria",
+      "url": "https://www.ilpost.it/2026/11/16/bulgaria-nave-mercantile-affondata-droni/?bitPosition=2",
+      "excerpt": "Una nave mercantile è affondata dopo essere stata colpita da droni nel mar Nero, al largo della Bulgaria Lunedì una nave mercantile con bandiera somala si è capovolta ed è affondata nel mar Nero, al largo della Bulgaria. I 12 membri dell’equipaggio sono stati soccorsi. Secondo alcune fonti informate sulle attività di s",
+      "publishedAt": "2026-11-16T18:21:36Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "La Federazione internazionale di hockey su ghiaccio ha confermato che la Russia non parteciperà ai Mondiali giovanili in Canada",
-      "url": "https://www.ilpost.it/2026/11/16/hockey-su-ghiaccio-federazione-internazionale-di-hockey-su-ghiaccio-russia-canada-mondiali-giovanili/?bitPosition=2",
-      "excerpt": "La Federazione internazionale di hockey su ghiaccio ha confermato che la Russia non parteciperà ai Mondiali giovanili in Canada La Federazione internazionale di hockey su ghiaccio ha confermato che la Russia non parteciperà ai Mondiali giovanili in programma tra fine dicembre e inizio gennaio per via della posizione co",
-      "publishedAt": "2026-11-16T06:44:39Z",
+      "title": "Gerard Depardieu ha ritirato il ricorso contro la condanna per aggressione sessuale, che ora è definitiva",
+      "url": "https://www.ilpost.it/2026/11/16/gerard-depardieu-condanna-definitiva-aggressione-sessuale/?bitPosition=3",
+      "excerpt": "Gerard Depardieu ha ritirato il ricorso contro la condanna per aggressione sessuale, che ora è definitiva Il celebre attore francese Gerard Depardieu ha ritirato il ricorso che aveva presentato contro la sentenza del tribunale di Parigi che l’anno scorso l’aveva condannato per aggressione sessuale ai danni di due donne",
+      "publishedAt": "2026-11-16T18:13:18Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "Ora gli Stati Uniti hanno di nuovo tre portaerei in Medio Oriente",
-      "url": "https://www.ilpost.it/2026/11/16/stati-uniti-portaerei-uss-theodore-roosevelt-medio-oriente/?bitPosition=3",
-      "excerpt": "Ora gli Stati Uniti hanno di nuovo tre portaerei in Medio Oriente È arrivata in Medio Oriente la USS Theodore Roosevelt, la terza portaerei inviata dagli Stati Uniti nella regione in questo periodo. Alcuni funzionari hanno riferito a media internazionali come Axios e Jerusalem Post che nelle scorse ore la portaerei è e",
-      "publishedAt": "2026-11-16T06:22:44Z",
+      "title": "Le federazioni calcistiche europee hanno detto che sosterranno all’unanimità Philippe Diallo come presidente della FIFA",
+      "url": "https://www.ilpost.it/2026/11/16/elezioni-fifa-candidato-presidente-supportato-dalla-uefa/?bitPosition=4",
+      "excerpt": "Le federazioni calcistiche europee hanno detto che sosterranno all’unanimità Philippe Diallo come presidente della FIFA Lunedì le federazioni nazionali europee rappresentate nel Comitato esecutivo della UEFA e nel Consiglio della FIFA si sono accordate per sostenere all’unanimità la candidatura di Philippe Diallo alla ",
+      "publishedAt": "2026-11-16T17:10:48Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "Un razzo che doveva portare in orbita 40 satelliti di Amazon ha avuto un’avaria poco dopo il lancio",
-      "url": "https://www.ilpost.it/2026/11/16/amazon-razzo-satelliti-avaria/?bitPosition=4",
-      "excerpt": "Un razzo che doveva portare in orbita 40 satelliti di Amazon ha avuto un’avaria poco dopo il lancio Domenica un razzo che doveva portare in orbita 40 satelliti di Amazon ha avuto un’avaria circa dieci minuti dopo il lancio dalla base spaziale di Cape Canaveral, in Florida, negli Stati Uniti. Il razzo era un Vulcan di p",
-      "publishedAt": "2026-11-16T04:30:38Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Perugia ha battuto Civitanova nella Supercoppa italiana di pallavolo maschile",
-      "url": "https://www.ilpost.it/2026/11/15/perugia-vince-supercoppa-pallavolo-maschile/?bitPosition=5",
-      "excerpt": "Perugia ha battuto Civitanova nella Supercoppa italiana di pallavolo maschile Domenica a Parma la Sir Susa Scai Perugia ha battuto la Cucine Lube Civitanova nella finale della Supercoppa italiana di pallavolo maschile, per 3 set a 2. È l’ottava volta che Perugia, che è anche la squadra campione d’Italia in carica, vinc",
-      "publishedAt": "2026-11-15T19:02:12Z",
+      "title": "Sei grafici per capire quanto sono messe male le regioni sulla sanità",
+      "url": "https://www.ilpost.it/2026/11/16/sei-grafici-problemi-sanita-italia/?homepagePosition=0",
+      "excerpt": "Nel 2025 le spese hanno superato le entrate di 3,5 miliardi di euro",
+      "publishedAt": "2026-11-16T11:20:11Z",
       "dateEvidence": "jsonld:datePublished"
     }
   ],
@@ -63,34 +56,34 @@
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/16/banca-revolut-amministrazione-giudiziaria/?homepagePosition=0",
+      "url": "https://www.ilpost.it/2026/11/16/sei-grafici-problemi-sanita-italia/?homepagePosition=0",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/16/martine-moise-haiti-candidata-presidenziali/?bitPosition=1",
+      "url": "https://www.ilpost.it/2026/10/29/pochi-soldi-sanita-regioni/?homepagePosition=0.1&referrerPost=3734074",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/16/hockey-su-ghiaccio-federazione-internazionale-di-hockey-su-ghiaccio-russia-canada-mondiali-giovanili/?bitPosition=2",
+      "url": "https://www.ilpost.it/2026/11/16/banche-stati-uniti-problemi/?bitPosition=1",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/16/stati-uniti-portaerei-uss-theodore-roosevelt-medio-oriente/?bitPosition=3",
+      "url": "https://www.ilpost.it/2026/11/16/bulgaria-nave-mercantile-affondata-droni/?bitPosition=2",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/16/amazon-razzo-satelliti-avaria/?bitPosition=4",
+      "url": "https://www.ilpost.it/2026/11/16/gerard-depardieu-condanna-definitiva-aggressione-sessuale/?bitPosition=3",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/15/perugia-vince-supercoppa-pallavolo-maschile/?bitPosition=5",
+      "url": "https://www.ilpost.it/2026/11/16/elezioni-fifa-candidato-presidente-supportato-dalla-uefa/?bitPosition=4",
       "status": 200
     }
   ],
-  "message": "6 notizie recenti con data verificata; copertura parziale.",
+  "message": "5 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [],
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.ilpost.it/",
-  "durationSeconds": 3.65
+  "durationSeconds": 3.54
 }

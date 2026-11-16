@@ -4,52 +4,52 @@
   "sourceId": "camera",
   "originUrl": "https://www.camera.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-16T10:12:06.515972Z",
+  "collectedAt": "2026-11-16T20:42:12.270380Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
-      "title": "Fisco: il 17 novembre alla Camera presentazione documento conclusivo indagine conoscitiva Commissione anagrafe tributaria",
+      "title": "Guerra ibrida e cognitiva - Mercoledì alle 9.30 informativa Crosetto - Diretta con lis",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64184",
+      "excerpt": "Mercoledì 18 novembre, alle ore 9.30, nell'Aula di Montecitorio, informativa urgente del Ministro d...",
+      "publishedAt": "2026-11-16T00:00:00Z",
+      "dateEvidence": "html:publication-label"
+    },
+    {
+      "title": "Allarmi bomba - Giovedì alle 12.30 informativa Piantedosi - Diretta con lis",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64186",
+      "excerpt": "Giovedì 19 novembre, alle ore 12.30, nell'Aula di Montecitorio, informativa urgente del Ministro de...",
+      "publishedAt": "2026-11-16T00:00:00Z",
+      "dateEvidence": "html:publication-label"
+    },
+    {
+      "title": "Misure di contrasto all’evasione fiscale, sicurezza delle banche dati dell’anagrafe tributaria e tutela della riservatezza dei dati dei contribuenti - Martedì alle 10 diretta webtv - Messaggio di Fontana",
       "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64139",
       "excerpt": "Martedì 17 novembre, dalle ore 10 alle 13, presso la Sala della Regina di Palazzo Montecitorio, si ...",
       "publishedAt": "2026-11-16T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "Sabato 21 novembre Montecitorio a porte aperte – Prenotazioni online da lunedì 16",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64129",
-      "excerpt": "Sabato 21 novembre, in occasione dell'iniziativa \"Musei in Musica\", edizione speciale di “Montecit...",
-      "publishedAt": "2026-11-13T00:00:00Z",
+      "title": "Congresso nazionale sullo sviluppo sostenibile dell'Appennino - Martedì alle 10.30 diretta webtv",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64153",
+      "excerpt": "Martedì 17 novembre, alle ore 10.30, presso l'Aula dei Gruppi parlamentari della Camera si svolge i...",
+      "publishedAt": "2026-11-16T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "Produzione di energia, sviluppo industriale, sicurezza nazionale - Lunedì alle 9.30 diretta webtv - Messaggio di Fontana",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64110",
-      "excerpt": "Lunedì 16 novembre, alle ore 9.30, presso la Sala della Regina di Montecitorio si svolge la presen...",
-      "publishedAt": "2026-11-13T00:00:00Z",
+      "title": "Audizione Commissione David Rossi – Martedì alle 11 diretta webtv",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64152",
+      "excerpt": "Martedì 17 novembre, alle ore 11, presso l’aula del III piano di Palazzo San Macuto, la Commissio...",
+      "publishedAt": "2026-11-16T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "Città della conoscenza - Tecnopolo delle biotecnologie e dell'alimentazione - Lunedì alle 10.30 diretta webtv",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64111",
-      "excerpt": "Lunedì 16 novembre, alle ore 10.30, presso l'Aula dei Gruppi della Camera si svolge il convegno \"C...",
-      "publishedAt": "2026-11-13T00:00:00Z",
-      "dateEvidence": "html:publication-label"
-    },
-    {
-      "title": "Albo d'oro dei cuochi - Lunedì alle 16 diretta webtv - Saluto di Trancassini",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64112",
-      "excerpt": "Lunedì 16 novembre, alle ore 16, presso l'Aula dei Gruppi parlamentari della Camera si svolge la ...",
-      "publishedAt": "2026-11-13T00:00:00Z",
-      "dateEvidence": "html:publication-label"
-    },
-    {
-      "title": "39° anniversario della rivolta degli operai di Brasov - Lunedì alle 17 diretta webtv",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64126",
-      "excerpt": "Lunedì 16 novembre, alle ore 17, presso la Sala del Mappamondo di Montecitorio si svolge il convegn...",
-      "publishedAt": "2026-11-13T00:00:00Z",
+      "title": "Pino Rauti nel centenario della nascita - L’uomo, il politico, l’intellettuale e le idee - Martedì alle 11.30 inaugurazione mostra - Diretta webtv - Intervengono Rampelli e Trancassini",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64161",
+      "excerpt": "Martedì 17 novembre, alle ore 11.30, presso la Sala del Cenacolo di Palazzo Valdina viene inaugura...",
+      "publishedAt": "2026-11-16T00:00:00Z",
       "dateEvidence": "html:publication-label"
     }
   ],
@@ -63,27 +63,27 @@
       "status": 200
     },
     {
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64184",
+      "status": 200
+    },
+    {
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64186",
+      "status": 200
+    },
+    {
       "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64139",
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64129",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64153",
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64110",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64152",
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64111",
-      "status": 200
-    },
-    {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64112",
-      "status": 200
-    },
-    {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64126",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64161",
       "status": 200
     }
   ],
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://comunicazione.camera.it/archivio-prima-pagina",
-  "durationSeconds": 3.91
+  "durationSeconds": 3.99
 }

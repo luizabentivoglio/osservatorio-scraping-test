@@ -4,12 +4,19 @@
   "sourceId": "msf",
   "originUrl": "https://www.medicisenzafrontiere.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-16T10:12:48.443059Z",
+  "collectedAt": "2026-11-16T20:42:57.677104Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "Nigeria, MSF: senza antitossina e vaccini migliaia di bambini sono a rischio",
+      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/nigeria-msf-senza-antitossina-vaccini-migliaia-bambini-sono-rischio/",
+      "excerpt": "Medici Senza Frontiere avverte che la carenza di antitossina difterica — il farmaco fondamentale per il trattamento della difterite — unita alla scarsa copertura vaccinale, sta alimentando la trasmissione della malattia e compromettendo gli sforzi per contenere l’epidemia nel nord della Nigeria, esponendo migliaia di b",
+      "publishedAt": "2026-11-16T14:30:48Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
     {
       "title": "6 mesi di Ebola in RDC, MSF: il secondo focolaio più grande mai registrato è ancora fuori controllo",
       "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/6-mesi-ebola-rdc-msf-secondo-focolaio-piu-grande-mai-registrato-ancora-fuori-controllo/",
@@ -44,13 +51,6 @@
       "excerpt": "In Darfur, Sudan, la guerra e il collasso del sistema sanitario stanno alimentando epidemie di malattie prevenibili con i vaccini: in poco più di 2 anni, MSF ha curato quasi 30.000 pazienti, tra cui oltre 28.000 casi di morbillo. Il 75% dei pazienti curati per il morbillo non era vaccinato e il 69% aveva meno di 5 anni",
       "publishedAt": "2026-11-06T16:19:01Z",
       "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "COP31, MSF: ”La crisi climatica è crisi sanitaria, i leader agiscano per proteggere la salute”",
-      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/cop31-msf-crisi-climatica-crisi-sanitaria-leader-agiscano-per-proteggere-salute/",
-      "excerpt": "La crisi climatica è una crisi sanitaria che minaccia la salute di milioni di persone in tutto il mondo. Per questo Medici Senza Frontiere chiede che la COP31 metta la salute al centro dell’azione climatica, trasformando negoziati e dichiarazioni in interventi concreti per le comunità più colpite. La crisi climatica è ",
-      "publishedAt": "2026-11-06T14:18:45Z",
-      "dateEvidence": "jsonld:datePublished"
     }
   ],
   "attempts": [
@@ -60,6 +60,10 @@
     },
     {
       "url": "https://www.medicisenzafrontiere.it/",
+      "status": 200
+    },
+    {
+      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/nigeria-msf-senza-antitossina-vaccini-migliaia-bambini-sono-rischio/",
       "status": 200
     },
     {
@@ -81,10 +85,6 @@
     {
       "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/sudan-msf-chiede-interventi-urgenti-garantire-vaccinazioni-routine-prevenire-nuove-epidemie/",
       "status": 200
-    },
-    {
-      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/cop31-msf-crisi-climatica-crisi-sanitaria-leader-agiscano-per-proteggere-salute/",
-      "status": 200
     }
   ],
   "message": "6 notizie recenti con data verificata; copertura parziale.",
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.medicisenzafrontiere.it/",
-  "durationSeconds": 4.0
+  "durationSeconds": 4.04
 }

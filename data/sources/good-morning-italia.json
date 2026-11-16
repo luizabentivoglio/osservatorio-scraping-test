@@ -4,20 +4,37 @@
   "sourceId": "good-morning-italia",
   "originUrl": "https://goodmorningitalia.substack.com/",
   "configuredFeedUrl": "https://goodmorningitalia.substack.com/feed",
-  "collectedAt": "2026-11-16T10:12:37.041709Z",
-  "status": "blocked",
-  "diagnosticCode": "access_restricted",
-  "method": "html",
-  "feedUrl": null,
-  "items": [],
+  "collectedAt": "2026-11-16T20:42:42.465708Z",
+  "status": "ok",
+  "diagnosticCode": null,
+  "method": "rss",
+  "feedUrl": "https://goodmorningitalia.substack.com/feed",
+  "items": [
+    {
+      "title": "Che settimana! #46/26",
+      "url": "https://goodmorningitalia.substack.com/p/che-settimana-4626",
+      "excerpt": "Europa colpita da ondate di cyber attacchi | Ripartiti i colloqui trilaterali tra Ucraina, Russia e Usa | Israele, incarico di governo a Eisenkot | Clima, al via la Cop31 | Si dimette il ceo di Nvidia",
+      "publishedAt": "2026-11-13T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Che settimana! #45/26",
+      "url": "https://goodmorningitalia.substack.com/p/che-settimana-4526",
+      "excerpt": "Midterm Usa, i democratici riprendono Senato e Camera | Israele, si amplia il sostegno a Eisenkot | Falsi allarmi su voli europei, supermercati colpiti da hacker | Antonelli campione del mondo di F1",
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "dateEvidence": "feed:published"
+    }
+  ],
   "attempts": [
     {
       "url": "https://goodmorningitalia.substack.com/robots.txt",
-      "status": 403
+      "status": 200
+    },
+    {
+      "url": "https://goodmorningitalia.substack.com/feed",
+      "status": 200
     }
   ],
-  "message": "HTTP 403: accesso limitato dalla fonte",
-  "httpStatus": 403,
-  "failedUrl": "https://goodmorningitalia.substack.com/robots.txt",
-  "durationSeconds": 0.08
+  "message": "Feed ufficiale letto; date di pubblicazione verificate.",
+  "durationSeconds": 0.64
 }

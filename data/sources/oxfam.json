@@ -4,7 +4,7 @@
   "sourceId": "oxfam",
   "originUrl": "https://www.oxfamitalia.org/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-16T10:12:52.506545Z",
+  "collectedAt": "2026-11-16T20:43:02.605598Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -36,13 +36,6 @@
       "url": "https://www.oxfamitalia.org/il-bilancio-sociale-2025-26-il-cambiamento-e-un-lavoro-collettivo/",
       "excerpt": "Scopri il Bilancio Sociale 2025-26 di Oxfam Italia: un anno di impatto, trasparenza e impegno condiviso per contrastare disuguaglianze.",
       "publishedAt": "2026-11-03T10:30:32Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "LA NOSTRA PROPOSTA PER TASSARE DI PIÙ I GRANDI PATRIMONI",
-      "url": "https://www.oxfamitalia.org/tassare-di-piu-i-grandi-patrimoni/",
-      "excerpt": "Scopri la proposta di Oxfam per un’imposta sui grandi patrimoni e un sistema fiscale più equo. Leggi l'articolo.",
-      "publishedAt": "2026-11-02T11:45:35Z",
       "dateEvidence": "jsonld:datePublished"
     }
   ],
@@ -80,10 +73,10 @@
       "status": 200
     }
   ],
-  "message": "5 notizie recenti con data verificata; copertura parziale.",
+  "message": "4 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [],
   "candidateCount": 8,
   "datedCount": 6,
   "listingUrl": "https://www.oxfamitalia.org/news/",
-  "durationSeconds": 4.64
+  "durationSeconds": 5.32
 }

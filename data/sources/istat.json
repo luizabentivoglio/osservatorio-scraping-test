@@ -4,12 +4,40 @@
   "sourceId": "istat",
   "originUrl": "https://www.istat.it/",
   "configuredFeedUrl": "https://www.istat.it/feed/",
-  "collectedAt": "2026-11-16T10:12:41.372410Z",
+  "collectedAt": "2026-11-16T20:42:48.168713Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.istat.it/feed/",
   "items": [
+    {
+      "title": "Bambini e ragazzi: parte la nuova indagine su comportamenti, atteggiamenti e progetti futuri",
+      "url": "https://www.istat.it/notizia/bambini-e-ragazzi-parte-la-nuova-indagine-su-comportamenti-atteggiamenti-e-progetti-futuri/",
+      "excerpt": "La rilevazione si svolge da novembre 2026 al 26 febbraio 2027 e coinvolge un campione di circa 110.000 ragazzi e ragazze, che potranno partecipare volontariamente compilando un questionario online",
+      "publishedAt": "2026-11-16T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "CIG B8E442D2E3 – Fornitura e posa in opera di n 4 unità esterne VRF a servizio degli impianti di condizionamento del 2°, 3°, 4° e 5° piano presso la sede di via Depretis 74",
+      "url": "https://www.istat.it/bando-di-gara/cig-b8e442d2e3-fornitura-e-posa-in-opera-di-n-4-unita-esterne-vrf-a-servizio-degli-impianti-di-condizionamento-del-2-3-4-e-5-piano-presso-la-sede-di-via-depretis-74/",
+      "excerpt": "Online la delibera di affidamento",
+      "publishedAt": "2026-11-16T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "#IstatNewsletter",
+      "url": "https://www.istat.it/newsletter/online-istatnewsletter-la-newsletter-dellistat/",
+      "excerpt": "Online il numero 42 del 2026. Lascia la tua email e riceverai ogni lunedì tutti gli aggiornamenti del sito Istat",
+      "publishedAt": "2026-11-16T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Decessi e cause di morte: cosa produce l’Istat",
+      "url": "https://www.istat.it/notizia/dati-di-mortalita-cosa-produce-listat/",
+      "excerpt": "Disponibili i dati provvisori sui decessi fino al 30 settembre 2026 per tutti i comuni italiani",
+      "publishedAt": "2026-11-16T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "Le persone senza dimora: Profili e percorsi di vita",
       "url": "https://www.istat.it/comunicato-stampa/le-persone-senza-dimora-profili-e-percorsi-di-vita/",
@@ -51,34 +79,6 @@
       "excerpt": "A settembre 2026 si stima una lieve flessione congiunturale delle esportazioni (-0,2%) e una crescita delle importazioni (+3,3%); prezzi all’importazione +1,9% su agosto",
       "publishedAt": "2026-11-13T00:00:00Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "CIG B77D99E724- Convenzione Consip “Energia Elettrica 22 – lotto 17 (Italia)",
-      "url": "https://www.istat.it/bando-di-gara/cig-b77d99e724-convenzione-consip-energia-elettrica-22-lotto-17-italia/",
-      "excerpt": "Online la delibera di adesione",
-      "publishedAt": "2026-11-13T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "CIG B5FC335862 – Convenzione Consip “Energia elettrica 22 – lotto 14 (Puglia e Basilicata)",
-      "url": "https://www.istat.it/bando-di-gara/cig-b5fc335862-convenzione-consip-energia-elettrica-22-lotto-14-puglia-e-basilicata/",
-      "excerpt": "Pubblicata la delibera di adesione",
-      "publishedAt": "2026-11-12T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Manifestazione d’interesse per progetto interistituzionale su politiche di coesione",
-      "url": "https://www.istat.it/notizia/raccolta-manifestazione-interesse-per-accordo-collaborazione-progetto-informazione-statistica-territoriale-e-settoriale-politiche-di-coesione-2027-29/",
-      "excerpt": "Online le risposte ai quesiti pervenuti",
-      "publishedAt": "2026-11-12T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Esame del disegno di legge recante Bilancio di previsione dello Stato per l’anno finanziario 2027 e bilancio pluriennale per il triennio 2027-2029",
-      "url": "https://www.istat.it/audizioni/esame-del-disegno-di-legge-recante-bilancio-di-previsione-dello-stato-per-lanno-finanziario-2027-e-bilancio-pluriennale-per-il-triennio-2027-2029/",
-      "excerpt": "Audizione del Presidente dell’Istituto nazionale di statistica Prof. Francesco Maria Chelli",
-      "publishedAt": "2026-11-12T00:00:00Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -92,5 +92,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 2.89
+  "durationSeconds": 4.0
 }
