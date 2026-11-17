@@ -4,7 +4,7 @@
   "sourceId": "dc-rotondi",
   "originUrl": "https://dcconrotondi.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-17T04:49:18.742246Z",
+  "collectedAt": "2026-11-17T16:30:57.202770Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
@@ -25,5 +25,5 @@
     }
   ],
   "message": "Feed dichiarato dalla fonte; date di pubblicazione verificate.",
-  "durationSeconds": 13.85
+  "durationSeconds": 14.1
 }

@@ -4,12 +4,75 @@
   "sourceId": "il-notiziario",
   "originUrl": "https://www.ilnotiziario.net/",
   "configuredFeedUrl": "https://www.ilnotiziario.net/feed/",
-  "collectedAt": "2026-11-17T04:49:38.796469Z",
+  "collectedAt": "2026-11-17T16:31:16.388454Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.ilnotiziario.net/feed/",
   "items": [
+    {
+      "title": "Rho: Fermato in via Olona con un coltello di 30 centimetri",
+      "url": "https://www.ilnotiziario.net/rho-fermato-in-via-olona-con-un-coltello-di-30-centimetri/",
+      "excerpt": "Un’azione di controllo mirata nelle aree a rischio della città ha portato a un nuovo importante sequestro di arma bianca da parte...",
+      "publishedAt": "2026-11-17T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Stazione Centrale a Milano, nuovo blitz interforze, nel mirino anche i quartieri limitrofi",
+      "url": "https://www.ilnotiziario.net/stazione-centrale-a-milano-nuovo-blitz-interforze-nel-mirino-anche-i-quartieri-limitrofi/",
+      "excerpt": "Stazione Centrale a Milano, nuovo blitz interforze, nel mirino anche i quartieri limitrofi Nuovi controlli straordinari...",
+      "publishedAt": "2026-11-17T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Arese, licenza sospesa al bar dopo le risse degli ultimi mesi",
+      "url": "https://www.ilnotiziario.net/arese-licenza-sospesa-al-bar-dopo-le-risse-degli-ultimi-mesi/",
+      "excerpt": "Il Questore di Milano Bruno Megale, nell’ambito dell’attività di prevenzione, controllo del territorio e monitoraggio...",
+      "publishedAt": "2026-11-17T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Anziana cade in casa a Limbiate, intervento dei Vigili del fuoco con l’autoscala",
+      "url": "https://www.ilnotiziario.net/anziana-cade-in-casa-a-limbiate-intervento-dei-vigili-del-fuoco-con-lautoscala/",
+      "excerpt": "Anziana cade in casa, Vigili del fuoco con l’autoscala a Limbiate. Emergenza questa mattina in via Maroncelli a Limbiate, dove...",
+      "publishedAt": "2026-11-17T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Seregno, si rifiuta di fornire le generalità e finisce in manette dopo una colluttazione con i carabinieri",
+      "url": "https://www.ilnotiziario.net/seregno-si-rifiuta-di-fornire-le-generalita-e-finisce-in-manette-dopo-una-colluttazione-con-i-carabinieri/",
+      "excerpt": "Seregno, si rifiuta di fornire le generalità e finisce in manette dopo una colluttazione con i carabinieri Un controllo dei...",
+      "publishedAt": "2026-11-17T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Novembre a Milano: freddo, vita al chiuso e prevenzione prima dell’inverno",
+      "url": "https://www.ilnotiziario.net/novembre-a-milano-freddo-vita-al-chiuso-e-prevenzione-prima-dellinverno/",
+      "excerpt": "Novembre segna ogni anno un passaggio evidente verso la stagione fredda. Nell’area milanese le temperature diminuiscono, le...",
+      "publishedAt": "2026-11-17T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Frecciarossa Parigi-Milano bloccato per 3 ore su un ponte a Rho",
+      "url": "https://www.ilnotiziario.net/frecciarossa-parigi-milano-bloccato-per-3-ore-su-un-ponte-a-rho/",
+      "excerpt": "Una serata trasformatasi in un’autentica odissea per i 246 viaggiatori a bordo del Frecciarossa partito da Parigi e diretto a...",
+      "publishedAt": "2026-11-17T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Tenta la fuga dalla Polizia a Milano: 25enne arrestato e sequestrati oltre 5 kg di marijuana a Villa Cortese",
+      "url": "https://www.ilnotiziario.net/tenta-la-fuga-dalla-polizia-a-milano-25enne-arrestato-e-sequestrati-oltre-5-kg-di-marijuana-a-villa-cortese/",
+      "excerpt": "Prova la fuga dalla Polizia a Milano, 5k kg di marijuana trovati in casa a Villa Cortese. Un controllo di routine si è...",
+      "publishedAt": "2026-11-17T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "A Baranzate ben 301 famiglie con la “Carta “Dedicata a te”",
+      "url": "https://www.ilnotiziario.net/a-baranzate-ben-301-famiglie-con-la-carta-dedicata-a-te/",
+      "excerpt": "A Baranzate ben 301 famiglie con la “Carta” Qui l’emergenza sociale pesa assai di più che altrove. Sono ben 301 i beneficiari...",
+      "publishedAt": "2026-11-17T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "Anestesia, recensione: l’originale medical drama polacco",
       "url": "https://www.ilnotiziario.net/anestesia-recensione-l-originale-medical-drama-polacco/",
@@ -51,69 +114,6 @@
       "excerpt": "Treni a rischio tra venerdì e sabato, indetto uno sciopero nazionale Un nuovo sciopero nazionale del trasporto ferroviario è in...",
       "publishedAt": "2026-11-16T00:00:00Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Cinisello Balsamo, assalto esplosivo al bancomat, il boato sveglia il quartiere",
-      "url": "https://www.ilnotiziario.net/cinisello-balsamo-assalto-esplosivo-al-bancomat-il-boato-sveglia-il-quartiere/",
-      "excerpt": "Cinisello Balsamo, assalto esplosivo al bancomat, il boato sveglia il quartiere Un forte boato nel cuore della notte ha svegliato...",
-      "publishedAt": "2026-11-16T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Rho: Via Lainate, al via da domani i lavori di riasfaltatura",
-      "url": "https://www.ilnotiziario.net/via-lainate-al-via-da-domani-i-lavori-di-riasfaltatura/",
-      "excerpt": "Partiranno domani, martedì, i lavori di riasfaltatura e riqualificazione della pavimentazione stradale lungo via Lainate a Rho....",
-      "publishedAt": "2026-11-16T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Milano, violenta aggressione in strada, 18enne colpito a bastonate",
-      "url": "https://www.ilnotiziario.net/milano-violenta-aggressione-in-strada-18enne-colpito-a-bastonate/",
-      "excerpt": "Milano, violenta aggressione in strada, 18enne colpito a bastonate Un’aggressione in strada, poi l’arrivo dei...",
-      "publishedAt": "2026-11-16T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "FNM, cento anni dalla quotazione in Borsa, la Lombardia guarda al futuro dei trasporti",
-      "url": "https://www.ilnotiziario.net/fnm-cento-anni-dalla-quotazione-in-borsa-la-lombardia-guarda-al-futuro-dei-trasporti/",
-      "excerpt": "FNM, cento anni dalla quotazione in Borsa, la Lombardia guarda al futuro dei trasporti Un secolo sui mercati finanziari e una...",
-      "publishedAt": "2026-11-16T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Sesto San Giovanni, camion sprofonda nell’asfalto, strada chiusa e traffico deviato",
-      "url": "https://www.ilnotiziario.net/sesto-san-giovanni-camion-sprofonda-nellasfalto-strada-chiusa-e-traffico-deviato/",
-      "excerpt": "Sesto San Giovanni, camion sprofonda nell’asfalto, strada chiusa e traffico deviato Un camion bloccato nell’asfalto e una strada...",
-      "publishedAt": "2026-11-16T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Investire nelle nuove costruzioni nelle valli bergamasche",
-      "url": "https://www.ilnotiziario.net/investire-nelle-nuove-costruzioni-nelle-valli-bergamasche/",
-      "excerpt": "Una casa in montagna può diventare il tuo posto per il fine settimana, una base per soggiorni più lunghi o un immobile da...",
-      "publishedAt": "2026-11-16T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Scontri durante le manifestazioni, perquisizioni anche a Milano, Monza e Varese",
-      "url": "https://www.ilnotiziario.net/scontri-durante-le-manifestazioni-perquisizioni-anche-a-milano-monza-e-varese/",
-      "excerpt": "Scontri durante le manifestazioni, perquisizioni anche a Milano, Monza e Varese La Digos ha eseguito perquisizioni anche in...",
-      "publishedAt": "2026-11-16T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Lite tra consuoceri, spari in casa a Cermenate, un ferito e un arrestato",
-      "url": "https://www.ilnotiziario.net/lite-tra-consuoceri-spari-in-casa-a-cermenate-un-ferito-e-un-arrestato/",
-      "excerpt": "Lite tra consuoceri in casa a Cermenate, spari in casa, un uomo ferito in maniera grave, l’altro arrestato. Un sabato sera...",
-      "publishedAt": "2026-11-16T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Aeroporto di Bresso, vertice in Prefettura, la Città metropolitana frena sul traffico commerciale",
-      "url": "https://www.ilnotiziario.net/aeroporto-di-bresso-vertice-in-prefettura-la-citta-metropolitana-frena-sul-traffico-commerciale/",
-      "excerpt": "Il futuro dell’aeroporto di Bresso torna al centro del confronto istituzionale con il vertice in prefettura e la posizione di...",
-      "publishedAt": "2026-11-16T00:00:00Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -127,5 +127,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 1.06
+  "durationSeconds": 1.15
 }

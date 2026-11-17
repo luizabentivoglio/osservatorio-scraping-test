@@ -4,17 +4,17 @@
   "sourceId": "breaking-italy",
   "originUrl": "https://breakingitaly.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-17T04:49:03.576650Z",
+  "collectedAt": "2026-11-17T16:30:40.566094Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
-      "title": "In Repubblica Ceca si protesta a sostegno dei media pubblici",
-      "url": "https://breakingitaly.it/newsletter/in-repubblica-ceca-si-protesta-a-sostegno-dei-media-pubblici",
-      "excerpt": "In Repubblica Ceca si protesta a sostegno dei media pubblici",
-      "publishedAt": "2026-11-16T00:00:00Z",
+      "title": "La succursale italiana di Revolut è in amministrazione giudiziaria",
+      "url": "https://breakingitaly.it/newsletter/la-succursale-italiana-di-revolut-e-in-amministrazione-giudiziaria",
+      "excerpt": "La succursale italiana di Revolut è in amministrazione giudiziaria",
+      "publishedAt": "2026-11-17T00:00:00Z",
       "dateEvidence": "html:newsletter-publication"
     }
   ],
@@ -32,7 +32,7 @@
       "status": 200
     },
     {
-      "url": "https://breakingitaly.it/newsletter/in-repubblica-ceca-si-protesta-a-sostegno-dei-media-pubblici",
+      "url": "https://breakingitaly.it/newsletter/la-succursale-italiana-di-revolut-e-in-amministrazione-giudiziaria",
       "status": 200
     },
     {
@@ -96,5 +96,5 @@
   "candidateCount": 12,
   "datedCount": 1,
   "listingUrl": "https://breakingitaly.it/",
-  "durationSeconds": 5.19
+  "durationSeconds": 5.09
 }

@@ -4,24 +4,24 @@
   "sourceId": "amnesty",
   "originUrl": "https://www.amnesty.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-17T04:49:03.059845Z",
+  "collectedAt": "2026-11-17T16:30:40.035573Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
+      "title": "“Centri per il rimpatrio” in Ruanda: l’Ue replica gli errori del passato",
+      "url": "https://www.amnesty.it/centri-per-il-ritorno-in-ruanda-lue-replica-gli-errori-del-passato/",
+      "excerpt": "Austria, Danimarca, Germania, Grecia e Paesi Bassi hanno annunciato l’intenzione di eseguire espulsioni verso il Ruanda.",
+      "publishedAt": "2026-11-17T12:01:58Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
       "title": "Arabia Saudita: lo sfruttamento dei lavoratori Amazon",
       "url": "https://www.amnesty.it/arabia-saudita-lo-sfruttamento-dei-lavoratori-amazon/",
       "excerpt": "Nonostante alcuni miglioramenti introdotti da Amazon, i lavoratori migranti in Arabia Saudita restano vulnerabili allo sfruttamento.",
       "publishedAt": "2026-11-16T06:00:51Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Spagna: dallo sfratto di Maricarmen allo sciopero generale",
-      "url": "https://www.amnesty.it/spagna-dallo-sfratto-di-maricarmen-allo-sciopero-generale/",
-      "excerpt": "Tre studenti universitari che hanno partecipato all'accampamento di Siviglia, raccontano il movimento per il diritto alla casa.",
-      "publishedAt": "2026-11-12T12:20:39Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
@@ -58,11 +58,11 @@
       "status": 200
     },
     {
-      "url": "https://www.amnesty.it/arabia-saudita-lo-sfruttamento-dei-lavoratori-amazon/",
+      "url": "https://www.amnesty.it/centri-per-il-ritorno-in-ruanda-lue-replica-gli-errori-del-passato/",
       "status": 200
     },
     {
-      "url": "https://www.amnesty.it/spagna-dallo-sfratto-di-maricarmen-allo-sciopero-generale/",
+      "url": "https://www.amnesty.it/arabia-saudita-lo-sfruttamento-dei-lavoratori-amazon/",
       "status": 200
     }
   ],
@@ -90,5 +90,5 @@
   "candidateCount": 12,
   "datedCount": 3,
   "listingUrl": "https://www.amnesty.it/",
-  "durationSeconds": 6.25
+  "durationSeconds": 6.08
 }

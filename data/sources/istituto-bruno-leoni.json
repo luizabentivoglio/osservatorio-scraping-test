@@ -4,12 +4,19 @@
   "sourceId": "istituto-bruno-leoni",
   "originUrl": "https://www.brunoleoni.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-17T04:49:39.742305Z",
+  "collectedAt": "2026-11-17T16:31:17.543862Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "Nicola Rossi e i conservatori innovativi",
+      "url": "https://www.brunoleoni.it/nicola-rossi-e-i-conservatori-innovativi/",
+      "excerpt": "Nicola Rossi si schiera contro l’ipotesi di patrimoniale «Quando è stata tentata ha dato esiti deludenti, si pensi alle pensioni dei giovani»",
+      "publishedAt": "2026-11-17T12:38:37Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
     {
       "title": "Patrimoniale? No, grazie",
       "url": "https://www.brunoleoni.it/patrimoniale-no-grazie/",
@@ -29,13 +36,6 @@
       "url": "https://www.brunoleoni.it/la-lezione-europea-per-riformare-il-payback-sanitario/",
       "excerpt": "Il nuovo studio dell’Istituto Bruno Leoni",
       "publishedAt": "2026-11-16T07:24:11Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Il “Bruno Leoni” che parla la lingua della Milano necessaria",
-      "url": "https://www.brunoleoni.it/il-bruno-leoni-che-parla-la-lingua-della-milano-necessaria/",
-      "excerpt": "Milano è cresciuta ogni volta che ha preferito il rischio alla rendita. L’Istituto Bruno Leoni parla a questa città",
-      "publishedAt": "2026-11-13T09:30:43Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
@@ -60,11 +60,15 @@
       "status": 200
     },
     {
+      "url": "https://www.brunoleoni.it/patrimoniale-no-grazie/",
+      "status": 200
+    },
+    {
       "url": "https://www.brunoleoni.it/liberalizzazione-elettrica-vale-piu-la-concorrenza-di-qualsiasi-tutela/",
       "status": 200
     },
     {
-      "url": "https://www.brunoleoni.it/patrimoniale-no-grazie/",
+      "url": "https://www.brunoleoni.it/nicola-rossi-e-i-conservatori-innovativi/",
       "status": 200
     },
     {
@@ -73,10 +77,6 @@
     },
     {
       "url": "https://www.brunoleoni.it/la-lezione-europea-per-riformare-il-payback-sanitario/",
-      "status": 200
-    },
-    {
-      "url": "https://www.brunoleoni.it/il-bruno-leoni-che-parla-la-lingua-della-milano-necessaria/",
       "status": 200
     }
   ],
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 5,
   "listingUrl": "https://www.brunoleoni.it/",
-  "durationSeconds": 5.57
+  "durationSeconds": 5.58
 }

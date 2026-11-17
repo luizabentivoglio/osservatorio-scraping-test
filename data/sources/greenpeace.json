@@ -4,7 +4,7 @@
   "sourceId": "greenpeace",
   "originUrl": "https://www.greenpeace.org/italy/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-17T04:49:33.838716Z",
+  "collectedAt": "2026-11-17T16:31:11.389455Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -15,13 +15,6 @@
       "url": "https://www.greenpeace.org/italy/storia/32223/meloni-siamo-alla-canna-del-gas-il-nostro-mega-striscione-sul-gazometro-di-roma/",
       "excerpt": "Attivisti e attiviste di Greenpeace Italia sono entrati in azione per denunciare l'aumento del costo dell'energia e della vita.",
       "publishedAt": "2026-11-14T15:52:40Z",
-      "dateEvidence": "html:publication-time"
-    },
-    {
-      "title": "Il DDL Caccia andrà al voto il 27 novembre - Greenpeace Italia",
-      "url": "https://www.greenpeace.org/italy/storia/32098/il-ddl-caccia-andra-al-voto-il-27-novembre-dobbiamo-fermarlo/",
-      "excerpt": "Ancora una volta il Governo sceglie di dedicare tempo e risorse a una legge nata per compiacere le lobby della caccia. Questa riforma sbagliata e pericolosa va fermata!",
-      "publishedAt": "2026-11-10T11:14:58Z",
       "dateEvidence": "html:publication-time"
     },
     {
@@ -42,6 +35,10 @@
       "status": 200
     },
     {
+      "url": "https://www.greenpeace.org/italy/storia/32244/in-azione-a-roma-per-dire-stop-al-ddl-caccia/",
+      "status": 200
+    },
+    {
       "url": "https://www.greenpeace.org/italy/storia/32223/meloni-siamo-alla-canna-del-gas-il-nostro-mega-striscione-sul-gazometro-di-roma/",
       "status": 200
     },
@@ -51,10 +48,6 @@
     },
     {
       "url": "https://www.greenpeace.org/italy/storia/25276/regali-solidali-natale/",
-      "status": 200
-    },
-    {
-      "url": "https://www.greenpeace.org/italy/storia/32098/il-ddl-caccia-andra-al-voto-il-27-novembre-dobbiamo-fermarlo/",
       "status": 200
     },
     {
@@ -74,7 +67,7 @@
       "status": 200
     }
   ],
-  "message": "3 notizie recenti con data verificata; copertura parziale.",
+  "message": "2 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [
     {
       "url": "https://www.greenpeace.org/italy/cosa-puoi-fare-tu/firma-le-petizioni/",
@@ -86,5 +79,5 @@
   "candidateCount": 12,
   "datedCount": 5,
   "listingUrl": "https://www.greenpeace.org/italy/",
-  "durationSeconds": 4.7
+  "durationSeconds": 4.67
 }

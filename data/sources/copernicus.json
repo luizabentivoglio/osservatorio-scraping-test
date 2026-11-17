@@ -4,7 +4,7 @@
   "sourceId": "copernicus",
   "originUrl": "https://www.copernicus.eu/en/news",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-17T04:49:15.430656Z",
+  "collectedAt": "2026-11-17T16:30:51.412718Z",
   "status": "no_feed",
   "diagnosticCode": "parsing_error",
   "method": "crawl4ai",
@@ -73,7 +73,7 @@
   "candidateCount": 12,
   "datedCount": 0,
   "listingUrl": "https://www.copernicus.eu/en/news/news",
-  "durationSeconds": 3.66,
+  "durationSeconds": 3.62,
   "attemptErrors": [
     {
       "url": "https://www.copernicus.eu/en/news/news/observer-2000-images-and-counting-six-years-copernicus-image-day",

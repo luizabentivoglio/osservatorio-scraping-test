@@ -4,7 +4,7 @@
   "sourceId": "oxfam",
   "originUrl": "https://www.oxfamitalia.org/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-17T04:49:51.273376Z",
+  "collectedAt": "2026-11-17T16:31:29.465258Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -29,13 +29,6 @@
       "url": "https://www.oxfamitalia.org/webinar-contrastare-le-disuguaglianze-a-partire-dalla-scuola/",
       "excerpt": "Partecipa al webinar “Contrastare le disuguaglianze a partire dalla scuola” il 16 novembre dalle 17.00 alle 18.30",
       "publishedAt": "2026-11-09T11:28:41Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "IL BILANCIO SOCIALE 2025-26: IL CAMBIAMENTO È UN LAVORO COLLETTIVO",
-      "url": "https://www.oxfamitalia.org/il-bilancio-sociale-2025-26-il-cambiamento-e-un-lavoro-collettivo/",
-      "excerpt": "Scopri il Bilancio Sociale 2025-26 di Oxfam Italia: un anno di impatto, trasparenza e impegno condiviso per contrastare disuguaglianze.",
-      "publishedAt": "2026-11-03T10:30:32Z",
       "dateEvidence": "jsonld:datePublished"
     }
   ],
@@ -73,10 +66,10 @@
       "status": 200
     }
   ],
-  "message": "4 notizie recenti con data verificata; copertura parziale.",
+  "message": "3 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [],
   "candidateCount": 8,
   "datedCount": 6,
   "listingUrl": "https://www.oxfamitalia.org/news/",
-  "durationSeconds": 3.92
+  "durationSeconds": 5.1
 }

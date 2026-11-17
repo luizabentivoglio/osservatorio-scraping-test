@@ -4,17 +4,24 @@
   "sourceId": "wwf",
   "originUrl": "https://www.wwf.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-17T04:50:15.483141Z",
+  "collectedAt": "2026-11-17T16:31:54.780420Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
+      "title": "COP31, WWF: senza adattamento, comunità costiere in crisi",
+      "url": "https://www.wwf.it/pandanews/societa/mondo/cop31-wwf-senza-adattamento-comunita-costiere-in-crisi/",
+      "excerpt": "Nel Mediterraneo il mare si riscalda il 20% più velocemente della media globale, le ondate di calore sono aumentate del 40%",
+      "publishedAt": "2026-11-17T13:36:59Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
       "title": "Cosa accade alla COP31 giorno per giorno",
       "url": "https://www.wwf.it/pandanews/clima/cosa-accade-alla-cop31-giorno-per-giorno/",
       "excerpt": "Dal 9 al 21 novembre è in corso ad Antalya il più importante evento per la lotta alla crisi climatica. Qui il nostro racconto giornaliero",
-      "publishedAt": "2026-11-16T10:24:00Z",
+      "publishedAt": "2026-11-17T10:24:00Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
@@ -44,13 +51,6 @@
       "excerpt": "15 novembre è la Giornata internazionale per la prevenzione e il contrasto di ogni forma di criminalità organizzata transnazionale",
       "publishedAt": "2026-11-13T12:18:52Z",
       "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "COP31, l’Italia assente al vertice dei leader e in ritardo sul clima",
-      "url": "https://www.wwf.it/pandanews/clima/cop31-litalia-assente-al-vertice-dei-leader-e-in-ritardo-sul-clima/",
-      "excerpt": "Antonio Tajani, ha annullato il suo viaggio. Un segnale politico preoccupante che si aggiunge ai ritardi nelle politiche nazionali",
-      "publishedAt": "2026-11-12T15:02:00Z",
-      "dateEvidence": "jsonld:datePublished"
     }
   ],
   "attempts": [
@@ -60,6 +60,10 @@
     },
     {
       "url": "https://www.wwf.it/",
+      "status": 200
+    },
+    {
+      "url": "https://www.wwf.it/pandanews/societa/mondo/cop31-wwf-senza-adattamento-comunita-costiere-in-crisi/",
       "status": 200
     },
     {
@@ -81,10 +85,6 @@
     {
       "url": "https://www.wwf.it/pandanews/animali/traffico-fauna-selvatica-svolta-storica-onu/",
       "status": 200
-    },
-    {
-      "url": "https://www.wwf.it/pandanews/clima/cop31-litalia-assente-al-vertice-dei-leader-e-in-ritardo-sul-clima/",
-      "status": 200
     }
   ],
   "message": "6 notizie recenti con data verificata; copertura parziale.",
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.wwf.it/",
-  "durationSeconds": 4.22
+  "durationSeconds": 4.07
 }

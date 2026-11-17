@@ -4,52 +4,52 @@
   "sourceId": "camera",
   "originUrl": "https://www.camera.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-17T04:49:04.352467Z",
+  "collectedAt": "2026-11-17T16:30:41.508196Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
-      "title": "Guerra ibrida e cognitiva - Mercoledì alle 9.30 informativa Crosetto - Diretta con lis",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64184",
-      "excerpt": "Mercoledì 18 novembre, alle ore 9.30, nell'Aula di Montecitorio, informativa urgente del Ministro d...",
-      "publishedAt": "2026-11-16T00:00:00Z",
+      "title": "Giornata Mondiale contro tumore cervice uterina - Montecitorio si illumina di verde \"teal\"",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64242",
+      "excerpt": "La Camera dei deputati aderisce all’iniziativa della Giornata mondiale contro il tumore della cerv...",
+      "publishedAt": "2026-11-17T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "Allarmi bomba - Giovedì alle 12.30 informativa Piantedosi - Diretta con lis",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64186",
-      "excerpt": "Giovedì 19 novembre, alle ore 12.30, nell'Aula di Montecitorio, informativa urgente del Ministro de...",
-      "publishedAt": "2026-11-16T00:00:00Z",
+      "title": "Transizione demografica, audizione Leardini, rettrice Università Verona - Mercoledì alle 8.30 diretta webtv",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64210",
+      "excerpt": "Mercoledì 18 novembre, alle ore 8.30, presso l'Aula del IV piano di Palazzo San Macuto, la Commissi...",
+      "publishedAt": "2026-11-17T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "Misure di contrasto all’evasione fiscale, sicurezza delle banche dati dell’anagrafe tributaria e tutela della riservatezza dei dati dei contribuenti - Martedì alle 10 diretta webtv - Messaggio di Fontana",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64139",
-      "excerpt": "Martedì 17 novembre, dalle ore 10 alle 13, presso la Sala della Regina di Palazzo Montecitorio, si ...",
-      "publishedAt": "2026-11-16T00:00:00Z",
+      "title": "Niscemi, audizioni sindaco e presidente Comitato evento franoso – Mercoledì alle 8.45 diretta webtv",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64209",
+      "excerpt": "Mercoledì 18 novembre, alle ore 8.45, presso l’aula del III piano di Palazzo San Macuto, la Commi...",
+      "publishedAt": "2026-11-17T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "Congresso nazionale sullo sviluppo sostenibile dell'Appennino - Martedì alle 10.30 diretta webtv",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64153",
-      "excerpt": "Martedì 17 novembre, alle ore 10.30, presso l'Aula dei Gruppi parlamentari della Camera si svolge i...",
-      "publishedAt": "2026-11-16T00:00:00Z",
+      "title": "Ferite invisibili - Bambini onlife - Mercoledì alle 10 diretta webtv",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64206",
+      "excerpt": "Mercoledì 18 novembre, alle ore 10, presso la Sala del Refettorio di Palazzo San Macuto si svolge i...",
+      "publishedAt": "2026-11-17T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "Audizione Commissione David Rossi – Martedì alle 11 diretta webtv",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64152",
-      "excerpt": "Martedì 17 novembre, alle ore 11, presso l’aula del III piano di Palazzo San Macuto, la Commissio...",
-      "publishedAt": "2026-11-16T00:00:00Z",
+      "title": "Audizioni su prospettive sito siderurgico Taranto – Mercoledì diretta webtv",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64205",
+      "excerpt": "Mercoledì 18 novembre la Commissione Attività produttive svolge le seguenti audizioni sulle prospe...",
+      "publishedAt": "2026-11-17T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "Pino Rauti nel centenario della nascita - L’uomo, il politico, l’intellettuale e le idee - Martedì alle 11.30 inaugurazione mostra - Diretta webtv - Intervengono Rampelli e Trancassini",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64161",
-      "excerpt": "Martedì 17 novembre, alle ore 11.30, presso la Sala del Cenacolo di Palazzo Valdina viene inaugura...",
-      "publishedAt": "2026-11-16T00:00:00Z",
+      "title": "Affari sociali, interrogazioni a risposta immediata – Ministero della Salute - Mercoledì alle 13.30 diretta webtv",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64204",
+      "excerpt": "Mercoledì 18 novembre, alle ore 13.30, la Commissione Affari sociali svolge interrogazioni a rispo...",
+      "publishedAt": "2026-11-17T00:00:00Z",
       "dateEvidence": "html:publication-label"
     }
   ],
@@ -63,27 +63,27 @@
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64184",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64242",
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64186",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64210",
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64139",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64209",
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64153",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64206",
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64152",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64205",
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64161",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64204",
       "status": 200
     }
   ],
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://comunicazione.camera.it/archivio-prima-pagina",
-  "durationSeconds": 3.88
+  "durationSeconds": 4.34
 }

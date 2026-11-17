@@ -4,12 +4,33 @@
   "sourceId": "pagella-politica",
   "originUrl": "https://pagellapolitica.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-17T04:49:54.018487Z",
+  "collectedAt": "2026-11-17T16:31:32.414336Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "Le truffe sul reddito di cittadinanza sono state davvero solo il 2 per cento?",
+      "url": "https://pagellapolitica.it/articoli/truffe-reddito-cittadinanza-conte",
+      "excerpt": "Lo sostiene Conte citando dati della Guardia di finanza. Altri documenti ufficiali riportano cifre più alte, ma...",
+      "publishedAt": "2026-11-16T00:00:00Z",
+      "dateEvidence": "html:post-date"
+    },
+    {
+      "title": "Tutti vogliono uno “scudo” contro la disinformazione, ma ognuno a modo suo",
+      "url": "https://pagellapolitica.it/articoli/scudo-disinformazione-proposte-partiti",
+      "excerpt": "Dopo gli allarmi bomba e i messaggi sospetti contro i politici, la politica sta discutendo se introdurre un sistema...",
+      "publishedAt": "2026-11-16T00:00:00Z",
+      "dateEvidence": "html:post-date"
+    },
+    {
+      "title": "Il Ministero dell’Interno non vuole fornirci i dati sui controlli alle frontiere con la Spagna",
+      "url": "https://pagellapolitica.it/articoli/dati-controlli-frontiere-spagna-ceuta",
+      "excerpt": "La nostra richiesta di accesso civico sul numero di persone identificate dopo la crisi di Ceuta è stata respinta...",
+      "publishedAt": "2026-11-13T00:00:00Z",
+      "dateEvidence": "html:post-date"
+    },
     {
       "title": "No, l’Italia non ha dimezzato la spesa per la difesa dalla fine della Guerra fredda",
       "url": "https://pagellapolitica.it/articoli/italia-spesa-difesa-guerra-fredda",
@@ -30,27 +51,6 @@
       "excerpt": "Oltre a quello sui recenti allarmi bomba ne ha fatti altri due, uno sulle riforme e uno sul salario minimo, che...",
       "publishedAt": "2026-11-12T00:00:00Z",
       "dateEvidence": "html:post-date"
-    },
-    {
-      "title": "No, il Sud non sta “correndo”",
-      "url": "https://pagellapolitica.it/articoli/sud-non-sta-correndo",
-      "excerpt": "Fratelli d’Italia ha ripreso i dati Svimez per raccontare di un Mezzogiorno in accelerata, ma le statistiche di...",
-      "publishedAt": "2026-11-12T00:00:00Z",
-      "dateEvidence": "html:post-date"
-    },
-    {
-      "title": "Che cosa torna e cosa no nell’intervista di Renzi a Otto e Mezzo",
-      "url": "https://pagellapolitica.it/articoli/cosa-non-torna-intervista-renzi-otto-e-mezzo",
-      "excerpt": "Dalla povertà all’inflazione, passando per la patrimoniale e i servizi segreti, il leader di Italia Viva in alcuni...",
-      "publishedAt": "2026-11-12T00:00:00Z",
-      "dateEvidence": "html:post-date"
-    },
-    {
-      "title": "Il fact-checking di Vannacci a Filorosso",
-      "url": "https://pagellapolitica.it/articoli/fact-checking-vannacci-filorosso-rai-tre",
-      "excerpt": "Dai soldi per la difesa al costo delle bollette, abbiamo verificato nove dichiarazioni del leader di Futuro...",
-      "publishedAt": "2026-11-11T00:00:00Z",
-      "dateEvidence": "html:post-date"
     }
   ],
   "attempts": [
@@ -60,6 +60,18 @@
     },
     {
       "url": "https://pagellapolitica.it/articoli",
+      "status": 200
+    },
+    {
+      "url": "https://pagellapolitica.it/articoli/truffe-reddito-cittadinanza-conte",
+      "status": 200
+    },
+    {
+      "url": "https://pagellapolitica.it/articoli/scudo-disinformazione-proposte-partiti",
+      "status": 200
+    },
+    {
+      "url": "https://pagellapolitica.it/articoli/dati-controlli-frontiere-spagna-ceuta",
       "status": 200
     },
     {
@@ -73,18 +85,6 @@
     {
       "url": "https://pagellapolitica.it/articoli/allarme-bomba-incontro-meloni-opposizioni",
       "status": 200
-    },
-    {
-      "url": "https://pagellapolitica.it/articoli/sud-non-sta-correndo",
-      "status": 200
-    },
-    {
-      "url": "https://pagellapolitica.it/articoli/cosa-non-torna-intervista-renzi-otto-e-mezzo",
-      "status": 200
-    },
-    {
-      "url": "https://pagellapolitica.it/articoli/fact-checking-vannacci-filorosso-rai-tre",
-      "status": 200
     }
   ],
   "message": "6 notizie recenti con data verificata; copertura parziale.",
@@ -92,5 +92,5 @@
   "candidateCount": 6,
   "datedCount": 6,
   "listingUrl": "https://pagellapolitica.it/articoli",
-  "durationSeconds": 5.11
+  "durationSeconds": 6.75
 }

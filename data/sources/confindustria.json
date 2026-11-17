@@ -4,7 +4,7 @@
   "sourceId": "confindustria",
   "originUrl": "https://www.confindustria.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-17T04:49:12.591667Z",
+  "collectedAt": "2026-11-17T16:30:49.890308Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -64,5 +64,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.confindustria.it/comunicati-stampa",
-  "durationSeconds": 3.82
+  "durationSeconds": 3.95
 }
