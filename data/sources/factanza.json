@@ -4,37 +4,20 @@
   "sourceId": "factanza",
   "originUrl": "https://weeklypills.substack.com/",
   "configuredFeedUrl": "https://weeklypills.substack.com/feed",
-  "collectedAt": "2026-11-16T20:42:41.614316Z",
-  "status": "ok",
-  "diagnosticCode": null,
-  "method": "rss",
-  "feedUrl": "https://weeklypills.substack.com/feed",
-  "items": [
-    {
-      "title": "Cos’è questa storia delle bombe?",
-      "url": "https://weeklypills.substack.com/p/cose-questa-storia-delle-bombe",
-      "excerpt": "Tra allarmi bomba fasulli, distopie della nostra infanzia al cinema, e giochi da tavolo preordinabili, buona settimana con le Weekly Pills!",
-      "publishedAt": "2026-11-14T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Gli Stati Uniti dei diritti hanno sconfitto Trump",
-      "url": "https://weeklypills.substack.com/p/gli-stati-uniti-dei-diritti-hanno",
-      "excerpt": "Tra il voto su Trump, e il film su Giulia Cecchettin, buona settimana con le Weekly Pills!",
-      "publishedAt": "2026-11-07T00:00:00Z",
-      "dateEvidence": "feed:published"
-    }
-  ],
+  "collectedAt": "2026-11-17T04:49:30.308349Z",
+  "status": "blocked",
+  "diagnosticCode": "access_restricted",
+  "method": "html",
+  "feedUrl": null,
+  "items": [],
   "attempts": [
     {
       "url": "https://weeklypills.substack.com/robots.txt",
-      "status": 200
-    },
-    {
-      "url": "https://weeklypills.substack.com/feed",
-      "status": 200
+      "status": 403
     }
   ],
-  "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 0.85
+  "message": "HTTP 403: accesso limitato dalla fonte",
+  "httpStatus": 403,
+  "failedUrl": "https://weeklypills.substack.com/robots.txt",
+  "durationSeconds": 0.2
 }

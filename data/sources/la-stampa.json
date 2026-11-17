@@ -4,12 +4,180 @@
   "sourceId": "la-stampa",
   "originUrl": "https://www.lastampa.it/",
   "configuredFeedUrl": "https://www.lastampa.it/rss/copertina.xml",
-  "collectedAt": "2026-11-16T20:42:54.653145Z",
+  "collectedAt": "2026-11-17T04:49:42.921338Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.lastampa.it/rss/copertina.xml",
   "items": [
+    {
+      "title": "Pensioni, aumenti anche per gli assegni fra 2500 e 3600 euro: cosa cambia e chi ci guadagna",
+      "url": "https://www.lastampa.it/economia/2026/11/17/news/pensioni-aumenti-rivalutazione-inflazione-2500-euro-manovra-2027-15800257/",
+      "excerpt": "L’Ocse: in Italia il reddito reale pro-capite scende dell’1%",
+      "publishedAt": "2026-11-17T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Welfare, banche e bonus anziani. L’ultima trincea di Tajani e Salvini",
+      "url": "https://www.lastampa.it/economia/2026/11/17/news/manovra_welfare_banche_e_bonus_anziani_la_trincea_di_tajani_e_salvini-15800297/",
+      "excerpt": "Meloni cerca equilibrio tra consenso e realtà, «ma molti saranno scontenti»",
+      "publishedAt": "2026-11-17T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Innocenti in carcere, lo Stato ha pagato un miliardo di euro in 34 anni",
+      "url": "https://www.lastampa.it/cronaca/2026/11/17/news/34_anni_stato_speso_un_miliardo_risarcire_innocenti_carcere-15800264/",
+      "excerpt": "Ogni 12 mesi oltre mille casi tra ingiuste detenzioni ed errori giudiziari. L’importo medio è di 44 mila euro",
+      "publishedAt": "2026-11-17T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Sinner saluta la città delle Nitto Atp Finals: “Grazie mille, Torino!”",
+      "url": "https://www.lastampa.it/sport/speciali/atp-finals-2026/2026/11/17/news/tennis_jannik_sinner_torino_atp_finals-15800232/",
+      "excerpt": "Assente dalla competizione per problemi fisici, il campione conferma il feeling con la città presenziando a eventi e offrendosi all’incontro con i tifosi",
+      "publishedAt": "2026-11-17T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Alcaraz allontana i problemi: “Sto bene. Amo Torino, mi carica”",
+      "url": "https://www.lastampa.it/sport/speciali/atp-finals-2026/2026/11/17/news/alcaraz_allontana_i_problemi_sto_bene_amo_torino_mi_carica-15800341/",
+      "excerpt": "Lo spagnolo batte Tiafoe 6-2 6-2: «Il ginocchio è sotto controllo». Caccia al trono di Sinner",
+      "publishedAt": "2026-11-17T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Revolut, omesse segnalazioni e fondi dirottati: col modus operandi spariti 42 milioni",
+      "url": "https://www.lastampa.it/economia/2026/11/17/news/inchiesta_revolut_omesse_segnalazioni_e_fondi_dirottati-15800321/",
+      "excerpt": "Calamucci di Equalize tra i 22 clienti sospetti. Accertamenti della Gdf sui flussi finanziari",
+      "publishedAt": "2026-11-17T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Mosca, nuove sanzioni dell’Ue: hacker e influencer nel mirino",
+      "url": "https://www.lastampa.it/esteri/2026/11/17/news/ue-nuove-sanzioni-russia-mosca-hacker-influencer-15800301/",
+      "excerpt": "I 27 varano oltre 100 misure contro la Russia, focus sul contrasto alla propaganda. Ma è ancora discussione sugli aiuti all’Ucraina, servono 45 miliardi, ipotesi altro prestito",
+      "publishedAt": "2026-11-17T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "L’ambasciatore ucraino Brusylo: “Non cederemo i nostri territori. Alleanza con l’Ue oltre la Nato”",
+      "url": "https://www.lastampa.it/esteri/2026/11/17/news/l_ambasciatore_ucraino_brusylo_non_cederemo_i_nostri_territori_alleanza_con_l_ue_oltre_la_nato-15800214/",
+      "excerpt": "Il diplomatico di Kiev: “Mosca esporta il conflitto con minacce ibride e attacchi cibernetici”",
+      "publishedAt": "2026-11-17T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Golan: “Ho messo in guardia Eisenkot. Se Netanyahu resta al potere è un pericolo per tutti”",
+      "url": "https://www.lastampa.it/esteri/2026/11/17/news/israele_golan_eisenkot_netanyahu-15800291/",
+      "excerpt": "Il leader dei Democratici: “Il Likud per ora non si è sganciato da lui. Tornare alle urne sarebbe un regalo a Bibi e una beffa per gli elettori”",
+      "publishedAt": "2026-11-17T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Trump: “Putin sta facendo marcia indietro. Penso che voglia vedere la guerra finire”",
+      "url": "https://www.lastampa.it/esteri/2026/11/17/diretta/guerra_russia_ucraina_news_oggi-15800353/",
+      "excerpt": "Colpito il ponte di Crimea. Kallas: «Per iniziare i colloqui con la Russia, prima il cessate il fuoco»",
+      "publishedAt": "2026-11-17T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Anelli: “Il piano pandemico? Comunque non basta. Noi medici non siamo mai stati consultati”",
+      "url": "https://www.lastampa.it/cronaca/2026/11/17/news/anelli_il_piano_pandemico_comunque_non_basta_noi_medici_non_siamo_mai_stati_consultati-15800151/",
+      "excerpt": "Il presidente della federazione degli Ordini e la Commissione: “Dal Covid si impari, senza processare chi cura i malati”",
+      "publishedAt": "2026-11-17T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Atreju, andare o non andare alle feste degli altri: “Scortesia rifiutare”, “No, finti confronti”",
+      "url": "https://www.lastampa.it/politica/2026/11/17/news/andare_o_non_andare_alle_feste_degli_altri_scortesia_rifiutare_no_finti_confronti-15800198/",
+      "excerpt": "Riparte la polemica sulle presenze alla festa di Fratelli d’Italia. Politologi e intellettuali s’interrogano su cosa sia meglio fare",
+      "publishedAt": "2026-11-17T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Allarme scuola, può essere il luogo dove gli stereotipi si consolidano",
+      "url": "https://www.lastampa.it/cronaca/2026/11/17/news/scuola_oxfam_gender_stereotipi_classe_sociale-15800120/",
+      "excerpt": "Un rapporto di Oxfam: i percorsi di studio tendono a essere selezionati per sesso o in base all’origine sociale, che statisticamente tende anche a condizionare il successo o l’insuccesso",
+      "publishedAt": "2026-11-17T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Telmo Pievani: “Ci evolviamo grazie alla debolezza. Una tecnologia infallibile non serve”",
+      "url": "https://www.lastampa.it/cultura/2026/11/17/news/telmo_pievani_ci_evolviamo_grazie_alla_debolezza_una_tecnologia_infallibile_non_serve-15800223/",
+      "excerpt": "Il filosofo: «Dobbiamo smettere di usare la scienza come soluzione estrema a tutto»",
+      "publishedAt": "2026-11-17T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Da Harry Potter non avete imparato nulla: basta compagne d’odio contro il nuovo Piton",
+      "url": "https://www.lastampa.it/spettacoli/2026/11/17/news/harry_potter_piton_paapa_essiedu_minacce_morte_serie_hbo-15799715/",
+      "excerpt": "Paapa Essiedu minacciato di morte: troppo nero per somigliare al personaggio descritto nei libri di J.K. Rowling e troppo lontano dall'immagine che ne ha consegnato al cinema Alan Rickman",
+      "publishedAt": "2026-11-17T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Il ritorno dei tacchi non è una buona notizia",
+      "url": "https://www.lastampa.it/spettacoli/2026/11/17/news/il_ritorno_dei_tacchi_non_e_una_buona_notizia-15799691/",
+      "excerpt": "Per la stagione primavera/estate 2027 le cose si mettono male come ci anticipa Julia Hobbs, senior features editor di Vogue British che su Substack ha scritto di non vedere più «il senso delle scarpe basse eleganti, e confermo la mia posizione durante questo mese della moda»",
+      "publishedAt": "2026-11-17T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "L’emigma Olise: tutto classe e rebus, come l’ultimo tattoo",
+      "url": "https://www.lastampa.it/sport/2026/11/17/news/l_emigma_olise_tutto_classe_e_rebus_come_l_ultimo_tattoo-15800180/",
+      "excerpt": "Sul fianco una figura senza faccia davanti alle maschere appese. Il fenomeno della Francia sfugge alle definizioni e gioca con il non detto. Lo chiamano Mr Nonchalant",
+      "publishedAt": "2026-11-17T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Stefano De Martino: “Sarà un Sanremo dallo spirito punk, più ospiti e meno co-conduttori”",
+      "url": "https://www.lastampa.it/spettacoli/2026/11/17/news/stefano_de_martino_sara_un_sanremo_dallo_spirito_punk_piu_ospiti_e_meno_co-conduttori-15800116/",
+      "excerpt": "Le anticipazioni alla Milano Music Week: «Torna la sigla di Pippo Caruso»",
+      "publishedAt": "2026-11-17T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Roba dell’altro mondo",
+      "url": "https://www.lastampa.it/speciale/cultura/fuoriclasse/",
+      "excerpt": "Le aragoste sono organismi soffici che nascono in un guscio rigido, con la crescita questo diventa inevitabilmente impossibile da sopportare portandole disagio. L’aragosta poi, si ...",
+      "publishedAt": "2026-11-17T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Tutti connessi, non tutti uguali: il paradosso della globalizzazione",
+      "url": "https://www.lastampa.it/speciale/cultura/fuoriclasse/2026/11/17/news/tutti_connessi_non_tutti_uguali_il_paradosso_della_globalizzazione-15799557/",
+      "excerpt": "Mentre leggete questo articolo, molto probabilmente le scarpe ai vostri piedi sono state disegnate in California, cucite in Vietnam con cotone uzbeko e spedite su una nave cargo battente ...",
+      "publishedAt": "2026-11-17T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Prima di giudicare, impariamo a conoscere chi ci sta di fronte",
+      "url": "https://www.lastampa.it/speciale/cultura/fuoriclasse/2026/11/17/news/prima_di_giudicare_impariamo_a_conoscere_chi_ci_sta_di_fronte-15799461/",
+      "excerpt": "Viviamo in un mondo pieno di persone diverse da noi: per come appaiono, per la lingua che parlano o per le cose che fanno ogni giorno. Spesso guardiamo queste differenze con paura, come un muro ...",
+      "publishedAt": "2026-11-17T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "I social passano, i film restano: la memoria oltre lo schermo",
+      "url": "https://www.lastampa.it/speciale/cultura/fuoriclasse/2026/11/17/news/i_social_passano_i_film_restano_la_memoria_oltre_lo_schermo-15799600/",
+      "excerpt": "Tra le ore passate sui social, le chat e i video da 15 secondi che scorriamo ogni giorno senza soffermarci, il cinema ci pare ormai quasi una forma di svago inusuale e d'altri ...",
+      "publishedAt": "2026-11-17T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Troppo forte Medvedev, Cobolli crolla nel finale e perde in due set: 7-6, 6-3",
+      "url": "https://www.lastampa.it/sport/speciali/atp-finals-2026/2026/11/16/news/troppo_forte_medvedev_cobolli_crolla_nel_finale_e_perde_in_due_set_6-7_3-6-15800313/",
+      "excerpt": "Flavio lotta e a tratti regala spettacolo ma non basta: «L’assenza di Sinner non mi ha aiutato»",
+      "publishedAt": "2026-11-16T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "United Airlines, guasto informatico e disagi per i voli in partenza: nuovo stop nei cieli americani",
+      "url": "https://www.lastampa.it/economia/2026/11/16/news/usa_united_airlines_guasto_informatico_aerei_disagi_voli-15800329/",
+      "excerpt": "La compagnia al lavoro per ripristinare le operazioni: nessuna conseguenza per gli aerei già in volo. Il disservizio segue il blocco nazionale dei decolli della scorsa settimana e i problemi a banche e Outlook, ma non ci sono collegamenti accertati tra gli episodi.",
+      "publishedAt": "2026-11-16T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "Caos nelle banche americane, conti online bloccati e bonifici in tilt: il giallo dell’attacco hacker",
       "url": "https://www.lastampa.it/economia/2026/11/16/news/esteri20261116newsbanche-usa-down-chase-bank-of-america-wells-fargo-conti-online-bonifici-1-15800099/",
@@ -25,37 +193,9 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Conti, carte e servizi: cosa cambia per i clienti, i consigli dell'esperto",
-      "url": "https://www.lastampa.it/economia/2026/11/16/news/revolut_cosa_cambia_per_i_correntisti_con_l_amministrazione_giudiziaria-15799695/",
-      "excerpt": "Conti, carte e servizi continueranno a funzionare regolarmente. Ma gli esperti avvertono: «Meglio dotarsi di un secondo sistema di pagamento e non concentrare tutta la disponibilità economica»",
-      "publishedAt": "2026-11-16T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "L’Ucraina muore in un inverno difficile, mentre le diplomazie discutono di terre",
-      "url": "https://www.lastampa.it/esteri/2026/11/16/news/ucraina_inverno_diplomazia_terre_putin_zelensky_impianti_energia-15799297/",
-      "excerpt": "Putin si affida al tempo: nemico senza energia, gli europei lo sostengono e non siedono ai tavoli",
-      "publishedAt": "2026-11-16T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Donbass, perché la Russia lo vuole e perché è così strategico",
-      "url": "https://www.lastampa.it/esteri/2026/11/16/news/donbass_che_cosa_sappiamo_della_regione_ucraina_al_centro_dei_negoziati_di_pace-15799496/",
-      "excerpt": "Dove si trova e perché Putin lo rivendica: storia, numeri e ostacoli al possibile accordo tra Kiev e Mosca",
-      "publishedAt": "2026-11-16T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
       "title": "Medici e infermieri, tutti gli aumenti: fino a 5.869 euro per i primari. Non pagheranno le Regioni",
       "url": "https://www.lastampa.it/cronaca/2026/11/16/news/sanita_aumenti_fino_a_5869_euro_per_i_primari-15799733/",
       "excerpt": "Schillaci strappa mezzo miliardo in più per medici e infermieri",
-      "publishedAt": "2026-11-16T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "I pm chiedono l'arresto per De Gennaro: “Ha depistato le indagini su via D'Amelio” /Chi è l'ex capo della polizia",
-      "url": "https://www.lastampa.it/cronaca/2026/11/16/news/strage_via_d_amelio_de_gennaro_indagato_per_depistaggio-15799712/",
-      "excerpt": "Il gip ha negato però l’arresto. Dopo la perquisizione scattata giovedì, i magistrati di Caltanissetta hanno notificato un avviso di garanzia. La presidente dell'Antimafia: «La verità non si prescrive». L’ex capo della polizia sarà interrogato l’1 dicembre",
       "publishedAt": "2026-11-16T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -81,6 +221,13 @@
       "dateEvidence": "feed:published"
     },
     {
+      "title": "I pm chiedono l'arresto per De Gennaro: “Ha depistato le indagini su via D'Amelio” /Chi è l'ex capo della polizia",
+      "url": "https://www.lastampa.it/cronaca/2026/11/16/news/strage_via_d_amelio_de_gennaro_indagato_per_depistaggio-15799712/",
+      "excerpt": "Il gip ha negato però l’arresto. Dopo la perquisizione scattata giovedì, i magistrati di Caltanissetta hanno notificato un avviso di garanzia. La presidente dell'Antimafia: «La verità non si prescrive». L’ex capo della polizia sarà interrogato l’1 dicembre",
+      "publishedAt": "2026-11-16T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
       "title": "Da Batman a James Bond, è Robert Pattinson il nuovo 007",
       "url": "https://www.lastampa.it/spettacoli/2026/11/16/news/robert_pattinson_e_il_nuovo_james_bond-15799814/",
       "excerpt": "Amazon MGM ha ufficializzato l’identità dell’attore che interpreterà James Bond nel prossimo capitolo della saga, attesissimo dopo l’addio di Daniel Craig al personaggio",
@@ -91,27 +238,6 @@
       "title": "Grammy 2027, è l’anno di RAYE e della rivoluzione delle cantautrici",
       "url": "https://www.lastampa.it/spettacoli/2026/11/16/news/grammy_2027_e_l_anno_di_raye_e_della_rivoluzione_al_femminile-15800031/",
       "excerpt": "Annunciate oggi dalla Recording Academy le candidature per il premio musicale più ambito. Mai così tante autrici come quest’anno, 100 categorie per l’edizione dei record",
-      "publishedAt": "2026-11-16T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Paradossi e ingiustizie dell’Irpef, come funziona davvero",
-      "url": "https://www.lastampa.it/economia/2026/11/16/news/paradossi_e_ingiustizie_dell_irpef_come_funziona_davvero-15799475/",
-      "excerpt": "Altro che tre scaglioni: tutte le contraddizioni dell’aliquota marginale, che la manovra complica ancora di più. Quanto si paga e perché a parità di reddito il conto cambia",
-      "publishedAt": "2026-11-16T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Da Batman a Lady Champagne, il circo vannacciano e i suoi personaggi",
-      "url": "https://www.lastampa.it/politica/2026/11/16/news/vannacci-futuro-nazionale-batman-lady-champagne-15799816/",
-      "excerpt": "Chi sono i nuovi arrivati a Futuro Nazionale, tra vecchie polemiche, soprannomi e ritorni sulla scena politica",
-      "publishedAt": "2026-11-16T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "L'intesa franco-tedesca prende forma, lo spagnolo de Cos a un passo dalla Bce",
-      "url": "https://www.lastampa.it/economia/2026/11/16/news/l_intesa_franco-tedesca_prende_forma_lo_spagnolo_de_cos_a_un_passo_dalla_bce-15799791/",
-      "excerpt": "Più vicino l’asse tra Parigi e Berlino per il dopo Lagarde. Knot sarebbe pronto a un passo di lato. Allo spagnolo andrebbe la presidenza, alla Germania il ruolo di capo economista e alla Francia le operazioni di mercato",
       "publishedAt": "2026-11-16T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -163,132 +289,6 @@
       "excerpt": "Durante la discussione a Palazzo Madama sul disegno di legge in materia di cinema, la sottosegretaria alla Cultura Lucia Borgonzoni ha ringraziato «i due fratelli Pupiavati». Il lapsus, in cui il nome e il cognome del regista Pupi Avati sembrano diventare un’unica parola, è diventato virale: anche la trasmissione di Ra",
       "publishedAt": "2026-11-16T00:00:00Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Il razzo Vulcan è esploso 10 minuti dopo il lancio, trasportava a bordo 40 satelliti di Amazon",
-      "url": "https://www.lastampa.it/esteri/2026/11/16/video/razzo_vulcan_guasto_lancio_amazon_40_satelliti_persi-15799480/",
-      "excerpt": "Un decollo apparentemente regolare, poi un'anomalia in volo che compromette l'intera missione. Il razzo Vulcan di United Launch Alliance, decollato domenica 15 novembre dalla base spaziale di Cape Canaveral, in Florida, non è riuscito a portare in orbita 40 satelliti della rete Amazon Leo, destinati a fornire connessio",
-      "publishedAt": "2026-11-16T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Orietta Berti e la confessione sul bacio ricevuto da George Clooney: \"Non me l'aspettavo neanch'io\"",
-      "url": "https://www.lastampa.it/spettacoli/2026/11/16/video/orietta_berti_bacio_george_clooney_telegatti-15799639/",
-      "excerpt": "«Il bacio con George Clooney ai Telegatti è stata una sorpresa per tutti. Anch'io non me l'aspettavo». Così Orietta Berti ricorda un curioso episodio accaduto durante la cerimonia di premiazione televisiva del 2000, quando si ritrovò faccia a faccia con il divo di Hollywood. La cantante racconta di aver spoilerato la p",
-      "publishedAt": "2026-11-16T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "GTA VI, ferie per giocare: Logitech regala un giorno libero a 7mila dipendenti",
-      "url": "https://www.lastampa.it/tech/2026/11/16/news/gta_vi_ferie_per_giocare_logitech_regala_un_giorno_libero_a_7mila_dipendenti-15799856/",
-      "excerpt": "In vista dell’uscita del videogioco, aumentano le richieste di permessi dal lavoro. Un’indagine europea rivela che l’11% dei dipendenti gioca o guarda contenuti in streaming durante l’orario d’ufficio",
-      "publishedAt": "2026-11-16T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Matteo Bernini, campione del mondo di dama: “I primi passi sul web. Alleno anche la respirazione”",
-      "url": "https://www.lastampa.it/cronaca/2026/11/16/news/livorno_matteo_bernini_campione_del_mondo_di_dama_mi_allenavo_nove_ore_al_giorno-15799434/",
-      "excerpt": "Il 37enne livornese ha conquistato il sesto titolo iridato battendo l’americano Moiseyev. Il segreto: «Mi allenavo fino a 9 ore al giorno. Il premio? Lo spendo in ua buona mangiata»",
-      "publishedAt": "2026-11-16T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Quante cose si imparano navigando nell’oceano dell’ignoranza!",
-      "url": "https://www.lastampa.it/speciale/scienza/il-cielo/2026/11/16/news/quante_cose_si_imparano_navigando_nell_oceano_dell_ignoranza-15799741/",
-      "excerpt": "Telmo Pievani, immaginando di dialogare con un alieno, presenta un provocatorio e divertente elogio del non-sapere in dialettica con il conoscere",
-      "publishedAt": "2026-11-16T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Leggere sullo smartphone ci fa capire meno? Cosa hanno scoperto gli ultimi studi",
-      "url": "https://www.lastampa.it/cultura/2026/11/16/news/lettura-carta-schermo-comprensione-notifiche-messaggi-attenzione-15799724/",
-      "excerpt": "Notifiche, messaggi, scorrimento della pagina: che cosa ostacola la comprensione quando si legge sullo schermo? Una meta-analisi e diverse ricerche recenti aiutano a fare chiarezza",
-      "publishedAt": "2026-11-16T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Covid, perché dalla pandemia non abbiamo imparato nulla",
-      "url": "https://www.lastampa.it/cronaca/2026/11/16/news/covid_lezione_dimenticata_piano_pandemia_fermo_ridotti_medici_posti_letto-15799057/",
-      "excerpt": "Le capienze nelle strutture sono scese da sei unità a tre ogni mille abitanti. Mancano 73 mila infermieri abbiamo la metà degli operatori dell’Austria",
-      "publishedAt": "2026-11-16T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "“Non ho mai smesso di stupirmi e la mia vita è stata incontro”",
-      "url": "https://www.lastampa.it/cultura/2026/11/16/news/dacia_maraininon_ho_mai_smesso_di_stupirmi_e_la_mia_vita_e_stata_incontro-15799277/",
-      "excerpt": "La scrittrice compie 90 anni e Roma la festeggia alla casa dell’Architettura",
-      "publishedAt": "2026-11-16T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Blocco dei voli negli Usa, ecco che fine hanno fatto i bagagli di milioni di passeggeri",
-      "url": "https://www.lastampa.it/esteri/2026/11/16/video/usa_blocco_voli_bagagli_accumulati_aeroporto_washington-15799408/",
-      "excerpt": "Cataste di valigie non ritirate riempiono l'area di riconsegna bagagli dell'aeroporto Washington-Ronald Reagan, negli Stati Uniti. Sono le immagini girate due giorni dopo il blocco il blocco nazionale dei decolli disposto a causa di un guasto ai sistemi di comunicazione del controllo del traffico aereo. Lo stop, ordina",
-      "publishedAt": "2026-11-16T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Vortice polare, cosa sta succedendo sopra l'Artico e perché può cambiare l'inverno europeo",
-      "url": "https://www.lastampa.it/esteri/2026/11/16/video/vortice_polare_inverno_europa_freddo-15799545/",
-      "excerpt": "Il vortice polare si sta indebolendo insolitamente e i meteorologi osservano con attenzione le possibili conseguenze sull'inverno europeo. Il fenomeno potrebbe aumentare il rischio di ondate di freddo in alcune regioni del continente, ma non significa che siano già in arrivo gelo e nevicate. «Se i venti arrivano da est",
-      "publishedAt": "2026-11-16T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Napoli, una madre di Gaza sotto il volto della Madonna: lo strappo che svela l’opera",
-      "url": "https://www.lastampa.it/cronaca/2026/11/16/video/napoli_una_madre_di_gaza_sotto_il_volto_della_madonna_lo_strappo_che_svela_lopera-15800144/",
-      "excerpt": "Nella cappella Pappacoda della chiesa di San Giovanni Maggiore a Napoli è stata installata un’opera dal titolo ‘Holy mothers of Gaza’: si tratta di una tela raffigurante una Madonna con il Bambino, al di sotto della quale, strappandone una parte, si scorge una fotografia scattata a Gaza di una madre palestinese che tie",
-      "publishedAt": "2026-11-16T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Sciopero generale venerdì 20 novembre: trasporti, scuola e sanità a rischio stop. Mappa dei disagi",
-      "url": "https://www.lastampa.it/economia/2026/11/16/news/sciopero_generale_venerdi_20_novembre_tutte_le_informazioni-15799649/",
-      "excerpt": "L’agitazione di 24 ore è stata indetta dalla Cgil e interesserà tutti i lavoratori del settore pubblico e privato: previste 100 manifestazioni e cortei in tutte le città. In piazza anche Cobas e studenti",
-      "publishedAt": "2026-11-16T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Max Pezzali: “Mio padre rischiava di annegare, salvato da un pescatore di Albenga”",
-      "url": "https://www.lastampa.it/savona/2026/11/16/news/max_pezzali_mio_padre_salvato_dagli_albenganesi_quando_rischiava_di_annegare-15800092/",
-      "excerpt": "Un debito di riconoscenza che il fondatore degli 883 ha voluto lasciare su una piastrella del Muretto di Alassio “E ghe mettu a firma”. Il papà sopravvissuto al naufragio nel ‘47",
-      "publishedAt": "2026-11-16T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Bolletta della luce, ora si può cambiare fornitore in un giorno. Come fare e come risparmiare",
-      "url": "https://www.lastampa.it/tuttosoldi/2026/11/16/news/bolletta_luce_cambio_fornitore_in_un_giorno_guida_come_risparmiare-15797240/",
-      "excerpt": "In passato una norma simile sulla telefonia aveva portato a sconti del 30%. Le nuove regole valgono solo per l’elettricità, cosa controllare nei contratti “luce e gas”",
-      "publishedAt": "2026-11-16T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "La lettera del papà alla “sua” Alessandra, uccisa dalla madre a Tortona: “Non ci hanno ascoltati”",
-      "url": "https://www.lastampa.it/alessandria/2026/11/16/news/lettera_del_papa_alla_bimba_uccisa_a_tortona_non_ci_hanno_ascoltati-15799854/",
-      "excerpt": "La piccola (tre anni) uccisa dalla mamma in un alloggio di social housing. Aggredita con un coltello da cucina",
-      "publishedAt": "2026-11-16T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Stipendi regolari, ma zero tasse versate: scoperti 44 badanti evasori nel Vco",
-      "url": "https://www.lastampa.it/verbano-cusio-ossola/2026/11/16/news/badanti_vco_evasori_tasse_non_pagate-15799672/",
-      "excerpt": "La guardia di finanza di Verbania ha ricostruito redditi non dichiarati per 3,2 milioni di euro e un'evasione Irpef da 700 mila euro. In alcuni casi ottenuti indebitamente anche sussidi pubblici",
-      "publishedAt": "2026-11-16T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Un’altra condanna per Ivo Francia 42 anni dopo il delitto che sconvolse la provincia di Cuneo",
-      "url": "https://www.lastampa.it/cuneo/2026/11/16/news/un_altra_condanna_per_ivo_francia_42_anni_dopo_il_delitto_che_sconvolse_la_provincia_di_cuneo-15800123/",
-      "excerpt": "L’uomo è stato processato per una vicenda legata al traffico di stupefacenti nel Cuneese nell’ambito di una vasta inchiesta. L’omicidio nell’84, vittima un diciottenne di Dronero",
-      "publishedAt": "2026-11-16T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Un avvocato-detective al cimitero per scoprire le tombe da “riciclare”",
-      "url": "https://www.lastampa.it/imperia-sanremo/2026/11/16/news/un_avvocato-detective_al_cimitero_per_scoprire_le_tombe_da_riciclare-15799147/",
-      "excerpt": "A Sanremo il recupero del monumentale: le concessioni prive di eredi potranno essere riassegnate",
-      "publishedAt": "2026-11-16T00:00:00Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -302,5 +302,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 0.77
+  "durationSeconds": 0.71
 }

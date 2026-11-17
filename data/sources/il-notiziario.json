@@ -4,12 +4,19 @@
   "sourceId": "il-notiziario",
   "originUrl": "https://www.ilnotiziario.net/",
   "configuredFeedUrl": "https://www.ilnotiziario.net/feed/",
-  "collectedAt": "2026-11-16T20:42:48.847958Z",
+  "collectedAt": "2026-11-17T04:49:38.796469Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.ilnotiziario.net/feed/",
   "items": [
+    {
+      "title": "Anestesia, recensione: l’originale medical drama polacco",
+      "url": "https://www.ilnotiziario.net/anestesia-recensione-l-originale-medical-drama-polacco/",
+      "excerpt": "di Stefano Di Maria Anche la Polonia ha il suo medical drama: è ANESTESIA, rilasciata da Netflix, che però non si concentra sulle...",
+      "publishedAt": "2026-11-16T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "“Vogliamo una ciclabile sulla Saronnese”, Eco ’90 Uboldo raccoglie 460 firme",
       "url": "https://www.ilnotiziario.net/vogliamo-una-ciclabile-sulla-saronnese-eco-90-uboldo-raccoglie-460-firme/",
@@ -107,13 +114,6 @@
       "excerpt": "Il futuro dell’aeroporto di Bresso torna al centro del confronto istituzionale con il vertice in prefettura e la posizione di...",
       "publishedAt": "2026-11-16T00:00:00Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Cislago, bigliettini colorati per le benedizioni di Natale",
-      "url": "https://www.ilnotiziario.net/cislago-cartoncini-colorati-per-le-benedizioni-di-natale/",
-      "excerpt": "Il paese è sempre più grande e così, non potendo passare in tutte le case per le benedizioni di Natale, la parrocchia di Cislago...",
-      "publishedAt": "2026-11-16T00:00:00Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -127,5 +127,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 1.75
+  "durationSeconds": 1.06
 }

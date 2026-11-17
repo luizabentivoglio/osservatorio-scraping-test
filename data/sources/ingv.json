@@ -4,7 +4,7 @@
   "sourceId": "ingv",
   "originUrl": "https://www.ingv.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-16T20:42:44.607756Z",
+  "collectedAt": "2026-11-17T04:49:35.495820Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
@@ -44,13 +44,6 @@
       "excerpt": "",
       "publishedAt": "2026-11-08T00:00:00Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "EINSTEIN TELESCOPE: I MINISTRI BERNINI E GEMKOW E LA PRESIDENTE TODDE A SOS ENATTOS PER RAFFORZARE LA CANDIDATURA ITALIA-SASSONIA",
-      "url": "https://www.ingv.it/stampa-urp/ufficio-stampa/comunicati-stampa/einstein-telescope-i-ministri-bernini-e-gemkow-e-la-presidente-todde-a-sos-enattos-per-rafforzare-la-candidatura-italia-sassonia",
-      "excerpt": "",
-      "publishedAt": "2026-11-03T00:00:00Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -68,5 +61,5 @@
     }
   ],
   "message": "Feed dichiarato dalla fonte; date di pubblicazione verificate.",
-  "durationSeconds": 1.58
+  "durationSeconds": 1.45
 }

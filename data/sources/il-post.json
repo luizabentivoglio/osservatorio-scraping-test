@@ -4,45 +4,52 @@
   "sourceId": "il-post",
   "originUrl": "https://www.ilpost.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-16T20:42:50.596814Z",
+  "collectedAt": "2026-11-17T04:49:38.879062Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
-      "title": "Ci sono problemi ai servizi online di diverse banche statunitensi",
-      "url": "https://www.ilpost.it/2026/11/16/banche-stati-uniti-problemi/?bitPosition=1",
-      "excerpt": "Ci sono problemi ai servizi online di diverse banche statunitensi Lunedì diversi clienti di alcune delle principali banche statunitensi stanno avendo difficoltà ad accedere ai propri conti online e a utilizzare i servizi di pagamento. Tra gli istituti interessati ci sono JPMorgan Chase, Wells Fargo, Truist e Bank of Am",
-      "publishedAt": "2026-11-16T18:30:50Z",
+      "title": "Ci sono nuovi problemi con i voli negli Stati Uniti",
+      "url": "https://www.ilpost.it/2026/11/17/stati-uniti-problemi-voli/?bitPosition=1",
+      "excerpt": "Ci sono nuovi problemi con i voli negli Stati Uniti Negli Stati Uniti ci sono nuovi problemi con i voli aerei, dopo i due blocchi che già tra venerdì e sabato avevano portato a cancellazioni e ritardi in migliaia di voli: lunedì la compagnia aerea United Airlines ha segnalato quello che ha definito un «diffuso malfunzi",
+      "publishedAt": "2026-11-16T22:08:07Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "Flavio Cobolli ha perso contro Daniil Medvedev nella sua prima partita delle ATP Finals",
+      "url": "https://www.ilpost.it/2026/11/16/medvedev-cobolli-prima-partita-atp-finals/?bitPosition=2",
+      "excerpt": "Flavio Cobolli ha perso contro Daniil Medvedev nella sua prima partita delle ATP Finals Lunedì il tennista russo Daniil Medvedev ha battuto l’italiano Flavio Cobolli alle ATP Finals di tennis, il torneo a cui partecipano gli 8 migliori tennisti della stagione (e le 8 migliori coppie nel doppio), che si sta tenendo a To",
+      "publishedAt": "2026-11-16T20:51:48Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
       "title": "Una nave mercantile è affondata dopo essere stata colpita da droni nel mar Nero, al largo della Bulgaria",
-      "url": "https://www.ilpost.it/2026/11/16/bulgaria-nave-mercantile-affondata-droni/?bitPosition=2",
+      "url": "https://www.ilpost.it/2026/11/16/bulgaria-nave-mercantile-affondata-droni/?bitPosition=3",
       "excerpt": "Una nave mercantile è affondata dopo essere stata colpita da droni nel mar Nero, al largo della Bulgaria Lunedì una nave mercantile con bandiera somala si è capovolta ed è affondata nel mar Nero, al largo della Bulgaria. I 12 membri dell’equipaggio sono stati soccorsi. Secondo alcune fonti informate sulle attività di s",
       "publishedAt": "2026-11-16T18:21:36Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "Gerard Depardieu ha ritirato il ricorso contro la condanna per aggressione sessuale, che ora è definitiva",
-      "url": "https://www.ilpost.it/2026/11/16/gerard-depardieu-condanna-definitiva-aggressione-sessuale/?bitPosition=3",
-      "excerpt": "Gerard Depardieu ha ritirato il ricorso contro la condanna per aggressione sessuale, che ora è definitiva Il celebre attore francese Gerard Depardieu ha ritirato il ricorso che aveva presentato contro la sentenza del tribunale di Parigi che l’anno scorso l’aveva condannato per aggressione sessuale ai danni di due donne",
-      "publishedAt": "2026-11-16T18:13:18Z",
+      "title": "Lo strambo dibattito italiano sulla patrimoniale",
+      "url": "https://www.ilpost.it/2026/11/16/patrimoniale-schlein-tassa-exit-tax-campo-largo-conte-sinistra/?homepagePosition=0",
+      "excerpt": "Storia della tassa più controversa e su cui destra e sinistra litigano periodicamente, che non è per forza di sinistra e in varie forme esiste già",
+      "publishedAt": "2026-11-16T18:06:45Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "Le federazioni calcistiche europee hanno detto che sosterranno all’unanimità Philippe Diallo come presidente della FIFA",
-      "url": "https://www.ilpost.it/2026/11/16/elezioni-fifa-candidato-presidente-supportato-dalla-uefa/?bitPosition=4",
-      "excerpt": "Le federazioni calcistiche europee hanno detto che sosterranno all’unanimità Philippe Diallo come presidente della FIFA Lunedì le federazioni nazionali europee rappresentate nel Comitato esecutivo della UEFA e nel Consiglio della FIFA si sono accordate per sostenere all’unanimità la candidatura di Philippe Diallo alla ",
-      "publishedAt": "2026-11-16T17:10:48Z",
+      "title": "Anche quest’anno l’inflazione ci farà pagare più tasse",
+      "url": "https://www.ilpost.it/2026/11/13/tasse-fiscal-drag-istat-irpef-legge-di-bilancio-2027/?homepagePosition=0.2&referrerPost=3734424",
+      "excerpt": "L'Istat ha calcolato che tornerà l'ormai famigerato “fiscal drag” e renderà inefficaci le misure della legge di bilancio a favore dei redditi",
+      "publishedAt": "2026-11-13T15:55:25Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "Sei grafici per capire quanto sono messe male le regioni sulla sanità",
-      "url": "https://www.ilpost.it/2026/11/16/sei-grafici-problemi-sanita-italia/?homepagePosition=0",
-      "excerpt": "Nel 2025 le spese hanno superato le entrate di 3,5 miliardi di euro",
-      "publishedAt": "2026-11-16T11:20:11Z",
+      "title": "Come funziona la tassa sui ricchi che se ne vanno dall’Italia proposta dal governo",
+      "url": "https://www.ilpost.it/2026/11/11/come-funziona-exit-tax-governo/?homepagePosition=0.1&referrerPost=3734424",
+      "excerpt": "E di cui forse si è già pentito",
+      "publishedAt": "2026-11-11T10:37:25Z",
       "dateEvidence": "jsonld:datePublished"
     }
   ],
@@ -56,34 +63,34 @@
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/16/sei-grafici-problemi-sanita-italia/?homepagePosition=0",
+      "url": "https://www.ilpost.it/2026/11/16/patrimoniale-schlein-tassa-exit-tax-campo-largo-conte-sinistra/?homepagePosition=0",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/10/29/pochi-soldi-sanita-regioni/?homepagePosition=0.1&referrerPost=3734074",
+      "url": "https://www.ilpost.it/2026/11/11/come-funziona-exit-tax-governo/?homepagePosition=0.1&referrerPost=3734424",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/16/banche-stati-uniti-problemi/?bitPosition=1",
+      "url": "https://www.ilpost.it/2026/11/13/tasse-fiscal-drag-istat-irpef-legge-di-bilancio-2027/?homepagePosition=0.2&referrerPost=3734424",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/16/bulgaria-nave-mercantile-affondata-droni/?bitPosition=2",
+      "url": "https://www.ilpost.it/2026/11/17/stati-uniti-problemi-voli/?bitPosition=1",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/16/gerard-depardieu-condanna-definitiva-aggressione-sessuale/?bitPosition=3",
+      "url": "https://www.ilpost.it/2026/11/16/medvedev-cobolli-prima-partita-atp-finals/?bitPosition=2",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/16/elezioni-fifa-candidato-presidente-supportato-dalla-uefa/?bitPosition=4",
+      "url": "https://www.ilpost.it/2026/11/16/bulgaria-nave-mercantile-affondata-droni/?bitPosition=3",
       "status": 200
     }
   ],
-  "message": "5 notizie recenti con data verificata; copertura parziale.",
+  "message": "6 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [],
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.ilpost.it/",
-  "durationSeconds": 3.54
+  "durationSeconds": 3.53
 }

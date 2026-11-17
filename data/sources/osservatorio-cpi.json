@@ -4,7 +4,7 @@
   "sourceId": "osservatorio-cpi",
   "originUrl": "https://osservatoriocpi.unicatt.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-16T20:43:01.721160Z",
+  "collectedAt": "2026-11-17T04:49:50.907789Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -36,13 +36,6 @@
       "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/la-legge-di-bilancio-2027-2029-un-commento.html",
       "excerpt": "Il disegno di legge di bilancio prevede per il 2027 misure espansive per 26,3 miliardi, l’1,1% del Pil. Le risorse sono concentrate soprattutto su difesa ed energia, con aggiustamenti minori per sanità e detassazioni IRPEF.",
       "publishedAt": "2026-11-06T00:00:00Z",
-      "dateEvidence": "html:article-header"
-    },
-    {
-      "title": "Le dimensioni dello Stato italiano",
-      "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/le-dimensioni-dello-stato-italiano.html",
-      "excerpt": "Lo Stato ha ancora oggi un peso rilevante nell’economia italiana. Lo conferma il rapporto spesa pubblica/Pil del 2025, ben al di sopra sia della media dei Paesi avanzati sia dei membri dell’UE. Anche rispetto al suo Pil pro capite l’Italia ha una spesa totale in percentuale al Pil molto elevata. Questo risultato è però",
-      "publishedAt": "2026-11-03T00:00:00Z",
       "dateEvidence": "html:article-header"
     }
   ],
@@ -80,10 +73,10 @@
       "status": 200
     }
   ],
-  "message": "5 notizie recenti con data verificata; copertura parziale.",
+  "message": "4 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [],
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://osservatoriocpi.unicatt.it/pubblicazioni.html",
-  "durationSeconds": 5.97
+  "durationSeconds": 5.66
 }
