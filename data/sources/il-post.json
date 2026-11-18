@@ -4,45 +4,45 @@
   "sourceId": "il-post",
   "originUrl": "https://www.ilpost.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-18T01:24:06.075457Z",
+  "collectedAt": "2026-11-18T10:46:55.996764Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
-      "title": "La Macedonia del Nord ha detto d’aver sventato un piano iraniano per un assassinio in Grecia",
-      "url": "https://www.ilpost.it/2026/11/17/macedonia-arresti-iran-grecia/?bitPosition=1",
-      "excerpt": "La Macedonia del Nord ha detto d’aver sventato un piano iraniano per un assassinio in Grecia L’agenzia per la sicurezza nazionale della Macedonia del Nord ha arrestato cinque uomini accusandoli di stare organizzando un assassinio in Grecia, su ordine di Naji Sharifi Zindashti: un iraniano ricercato dall’FBI perché rite",
-      "publishedAt": "2026-11-17T19:17:04Z",
+      "title": "Il ponte di Kerch era un simbolo del regime di Putin",
+      "url": "https://www.ilpost.it/2026/11/18/ponte-kerch-russia-crimea-ucraina/?homepagePosition=0",
+      "excerpt": "Rappresentava l’unità fra Russia e Crimea ed era la via più breve per spostare merci, mezzi e soldati: gli attacchi ucraini l’hanno reso inagibile",
+      "publishedAt": "2026-11-18T09:18:34Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "Anche i servizi di Apple stanno avendo alcuni problemi tecnici",
-      "url": "https://www.ilpost.it/2026/11/17/problemi-tecnici-servizi-apple/?bitPosition=2",
-      "excerpt": "Anche i servizi di Apple stanno avendo alcuni problemi tecnici Ci sono migliaia di segnalazioni di problemi tecnici di alcuni servizi di Apple. L’azienda li ha riconosciuti, attribuendoli a un aggiornamento dei suoi sistemi, e ha detto che sta ripristinando i servizi. I disagi principali riguardano App Store (da cui si",
-      "publishedAt": "2026-11-17T18:50:28Z",
+      "title": "Il murale di Andrea Pazienza a Napoli tornerà a essere visibile e visitabile",
+      "url": "https://www.ilpost.it/2026/11/18/murale-andrea-pazienza-napoli-visitabile/?bitPosition=1",
+      "excerpt": "Il murale di Andrea Pazienza a Napoli tornerà a essere visibile e visitabile Il murale realizzato dal celebre fumettista italiano Andrea Pazienza a Napoli nel 1987 tornerà a essere visibile al pubblico: sarà collocato nel Teatro Mediterraneo all’interno della Mostra d’Oltremare, lo stesso polo fieristico in cui fu dise",
+      "publishedAt": "2026-11-18T09:08:35Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "La maggioranza presenterà una misura per vietare i social ai minori di 13 anni",
-      "url": "https://www.ilpost.it/2026/11/17/centrodestra-presenta-divieto-social-minori-13-anni/?bitPosition=3",
-      "excerpt": "La maggioranza presenterà una misura per vietare i social ai minori di 13 anni La maggioranza di destra ha annunciato un emendamento all’ultimo decreto sicurezza (uno dei molti decreti sicurezza) per limitare l’uso dei social network tra le persone minorenni: prevede di vietarli del tutto a chi ha meno di 13 anni, e pe",
-      "publishedAt": "2026-11-17T18:00:48Z",
+      "title": "In Brasile dei membri di una popolazione indigena isolata sono entrati in contatto con alcune persone",
+      "url": "https://www.ilpost.it/2026/11/18/brasile-tribu-indigena-contatto-umani/?bitPosition=2",
+      "excerpt": "In Brasile dei membri di una popolazione indigena isolata sono entrati in contatto con alcune persone In Brasile circa 20 persone parte di una tribù indigena che vive isolata nella foresta amazzonica sono entrati brevemente in contatto con altre persone. La ONG Survival International, che si occupa della sopravvivenza ",
+      "publishedAt": "2026-11-18T08:39:03Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "La legge di bilancio cambierà, e poi cambierà ancora",
-      "url": "https://www.ilpost.it/2026/11/17/legge-di-bilancio-modifiche-scuola-superbonus-exi-tax-chigi/?homepagePosition=0",
-      "excerpt": "Come ogni anno, il governo è impegnato a correggere quel che aveva promosso: stavolta soprattutto su scuole, banche e pensioni",
-      "publishedAt": "2026-11-17T17:00:47Z",
+      "title": "Emanuele Fiano ha lasciato il PD a causa del mancato sostegno del partito alla legge sull’antisemitismo",
+      "url": "https://www.ilpost.it/2026/11/18/emanuele-fiano-lascia-pd-mancato-sostegno-legge-antisemitismo/?bitPosition=3",
+      "excerpt": "Emanuele Fiano ha lasciato il PD a causa del mancato sostegno del partito alla legge sull’antisemitismo L’ex deputato Emanuele Fiano ha lasciato il Partito Democratico, di cui era un esponente storico. L’ha annunciato in diretta durante un programma di Telelombardia legando la propria decisione al voto contrario del PD",
+      "publishedAt": "2026-11-18T08:01:54Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "Il bonus sanitario per gli anziani è pensato molto male",
-      "url": "https://www.ilpost.it/2026/11/15/bonus-sanitario-300-euro-anziani/?homepagePosition=0.1&referrerPost=3735018",
-      "excerpt": "Pur essendo costoso non è equo e rischia di favorire la sanità privata invece di aumentare l'offerta pubblica",
-      "publishedAt": "2026-11-15T13:30:30Z",
+      "title": "L’Ucraina ha distrutto parte di un ponte fondamentale per la Russia",
+      "url": "https://www.ilpost.it/2026/11/17/russia-attacco-ponti-kyiv/?homepagePosition=0.1&referrerPost=3735862",
+      "excerpt": "Quello di Kerch, che collega la Russia alla penisola occupata della Crimea; la Russia ha colpito due ponti a Kyiv",
+      "publishedAt": "2026-11-17T05:00:48Z",
       "dateEvidence": "jsonld:datePublished"
     }
   ],
@@ -56,27 +56,27 @@
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/17/legge-di-bilancio-modifiche-scuola-superbonus-exi-tax-chigi/?homepagePosition=0",
+      "url": "https://www.ilpost.it/2026/11/18/ponte-kerch-russia-crimea-ucraina/?homepagePosition=0",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/15/bonus-sanitario-300-euro-anziani/?homepagePosition=0.1&referrerPost=3735018",
+      "url": "https://www.ilpost.it/2026/11/17/russia-attacco-ponti-kyiv/?homepagePosition=0.1&referrerPost=3735862",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/03/legge-di-bilancio-giovani-pensionati/?homepagePosition=0.2&referrerPost=3735018",
+      "url": "https://www.ilpost.it/2025/12/22/fire-point-ucraina/?homepagePosition=0.2&referrerPost=3735862",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/17/macedonia-arresti-iran-grecia/?bitPosition=1",
+      "url": "https://www.ilpost.it/2026/11/18/murale-andrea-pazienza-napoli-visitabile/?bitPosition=1",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/17/problemi-tecnici-servizi-apple/?bitPosition=2",
+      "url": "https://www.ilpost.it/2026/11/18/brasile-tribu-indigena-contatto-umani/?bitPosition=2",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/17/centrodestra-presenta-divieto-social-minori-13-anni/?bitPosition=3",
+      "url": "https://www.ilpost.it/2026/11/18/emanuele-fiano-lascia-pd-mancato-sostegno-legge-antisemitismo/?bitPosition=3",
       "status": 200
     }
   ],
@@ -85,5 +85,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.ilpost.it/",
-  "durationSeconds": 3.53
+  "durationSeconds": 3.52
 }

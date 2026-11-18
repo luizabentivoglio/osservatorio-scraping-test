@@ -4,12 +4,19 @@
   "sourceId": "istat",
   "originUrl": "https://www.istat.it/",
   "configuredFeedUrl": "https://www.istat.it/feed/",
-  "collectedAt": "2026-11-18T01:24:05.662120Z",
+  "collectedAt": "2026-11-18T10:46:55.114490Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.istat.it/feed/",
   "items": [
+    {
+      "title": "Incidenti stradali – Stima preliminare – Gennaio-giugno 2026",
+      "url": "https://www.istat.it/comunicato-stampa/incidenti-stradali-stima-preliminare-gennaio-giugno-2026/",
+      "excerpt": "Tra gennaio e giugno 2026 si registrano 89.754 incidenti con lesioni a persone, +7,5% sullo stesso periodo del 2025",
+      "publishedAt": "2026-11-18T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "Forum Insubria 2050 – Lavoro, competenze e territori per un futuro oltre i confini",
       "url": "https://www.istat.it/evento-territoriale/forum-insubria-2050-lavoro-competenze-e-territori-per-un-futuro-oltre-i-confini/",
@@ -72,13 +79,6 @@
       "excerpt": "Online la delibera di affidamento",
       "publishedAt": "2026-11-16T00:00:00Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "#IstatNewsletter",
-      "url": "https://www.istat.it/newsletter/online-istatnewsletter-la-newsletter-dellistat/",
-      "excerpt": "Online il numero 42 del 2026. Lascia la tua email e riceverai ogni lunedì tutti gli aggiornamenti del sito Istat",
-      "publishedAt": "2026-11-16T00:00:00Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -92,5 +92,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 3.34
+  "durationSeconds": 3.43
 }

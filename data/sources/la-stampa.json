@@ -4,23 +4,93 @@
   "sourceId": "la-stampa",
   "originUrl": "https://www.lastampa.it/",
   "configuredFeedUrl": "https://www.lastampa.it/rss/copertina.xml",
-  "collectedAt": "2026-11-18T01:24:10.132544Z",
+  "collectedAt": "2026-11-18T10:47:00.091153Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.lastampa.it/rss/copertina.xml",
   "items": [
     {
-      "title": "Trump verso Shenzen avverte Xi e Putin: “Parliamo di Ucraina”",
-      "url": "https://www.lastampa.it/esteri/2026/11/18/news/trump_xi_e_putin_shenzen_guerra_ucraina-15801149/",
-      "excerpt": "Oggi al via i lavori dell’Apec in Cina, Donald rilancia l’asse asiatico. Pechino punta su libero scambio e intese con l’Occidente",
+      "title": "Ddl antisemitismo, strappo di Emanuele Fiano: “Lascio il Pd, non torno indietro”",
+      "url": "https://www.lastampa.it/politica/2026/11/18/news/ddl_antisemitismo_fiano_lascia_pd_schlein-15801463/",
+      "excerpt": "Schlein lo chiama per fermarlo, ma il passo è irrevocabile. Il No del Pd, come preannunciato in più occasioni da Fiano, ha determinato il suo addio irrevocabile, annunciato questa mattina in lacrime in diretta a Telelombardia",
       "publishedAt": "2026-11-18T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "La parabola del condono edilizio",
-      "url": "https://www.lastampa.it/rubriche/il-taccuino/2026/11/18/news/la_parabola_del_condono_edilizio-15801132/",
-      "excerpt": "Adesso tutti diranno che non è vero, che ogni volta si tira fuori il condono per mettere in difficoltà il governo. Eppure, alzi la mano chi non ne ha mai proposto uno. Se proprio non si ...",
+      "title": "Il Ddl antisemitismo spacca il centrosinistra. Ecco quali sono i punti più controversi",
+      "url": "https://www.lastampa.it/politica/2026/11/18/news/il_ddl_antisemitismo_spacca_il_centrosinistra_ecco_quali_sono_stati_i_punti_piu_controversi-15801533/",
+      "excerpt": "Dopo l’approvazione del provvedimento in via definitiva alla Camera, Emanuele Fiano ha annunciato le sue dimissioni dal Pd. «Voto contrario del partito è un limite invalicabile»",
+      "publishedAt": "2026-11-18T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Camera, Crosetto: “La guerra ibrida mina la fiducia nelle istituzioni”",
+      "url": "https://www.lastampa.it/politica/2026/11/18/news/camera_crosetto_guerra_ibrida-15801485/",
+      "excerpt": "Il ministro della Difesa: «I colossi social devono rispondere della manipolazioni»",
+      "publishedAt": "2026-11-18T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Il generale Grynkewich: “La Nato non arretrerà sotto minaccia. L’Europa deve parlare con Mosca”",
+      "url": "https://www.lastampa.it/esteri/2026/11/18/news/il_generale_grynkewich_la_nato_non_arretrera_sotto_minaccia_l_europa_deve_parlare_con_mosca-15801271/",
+      "excerpt": "Il comandante dell’Alleanza in Europa: “Ci rafforziamo per essere pronti, a Kiev sostegno incrollabile”",
+      "publishedAt": "2026-11-18T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Sul fronte di Kherson sotto il fuoco del droni russi. “L’Ue? Per noi è libertà”",
+      "url": "https://www.lastampa.it/esteri/2026/11/18/news/sul_fronte_di_kherson_sotto_il_fuoco_del_droni_russi_l_ue_per_noi_e_liberta-15801256/",
+      "excerpt": "Quattro anni dopo la liberazione, la città vive sotto il fuoco dall’altra sponda del Dnipro. La sopravvivenza tra gli allarmi delle 5 del pomeriggio e il peso della memoria di chi è rimasto",
+      "publishedAt": "2026-11-18T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Israele, Eisenkot conquista la Knesset. Il suo candidato spinto anche dagli arabi",
+      "url": "https://www.lastampa.it/esteri/2026/11/18/news/israele_eisenkot_conquista_la_knesset_il_suo_candidato_spinto_anche_dagli_arabi-15801354/",
+      "excerpt": "Kahana, ex pilota di caccia, eletto presidente. Primo passo verso la formazione del nuovo governo",
+      "publishedAt": "2026-11-18T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Manovra, dagli spot elettorali alla realtà. Addio alle promesse del governo",
+      "url": "https://www.lastampa.it/economia/2026/11/18/news/manovra_dagli_spot_elettorali_alla_realta_addio_promesse_del_governo-15801223/",
+      "excerpt": "Le misure su tasse e pensioni annunciate dal centrodestra non ci sono",
+      "publishedAt": "2026-11-18T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Asse Meloni-Giorgetti contro Salvini: “Hai le coperture per Quota 64?”",
+      "url": "https://www.lastampa.it/economia/2026/11/18/news/asse_meloni-giorgetti_contro_salvini-15801291/",
+      "excerpt": "Tensione sulle banche. Il leghista insiste: «Più prelievi dagli istituti per la pensione anticipata»",
+      "publishedAt": "2026-11-18T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Anziani e disabili lasciati soli: la manovra cancella 500 milioni per l’assistenza",
+      "url": "https://www.lastampa.it/economia/2026/11/18/news/manovra_tagli_assistenza_anziani_disabili-15801377/",
+      "excerpt": "Il governo trova le risorse per consentire a chi è in salute di lasciare il lavoro a 64 anni, ma non per potenziare l'assistenza domiciliare, creare posti nelle Rsa e semplificare la burocrazia per le famiglie",
+      "publishedAt": "2026-11-18T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Legambiente attacca il condono: Meloni strizza l’occhio all’ecomafia del cemento",
+      "url": "https://www.lastampa.it/economia/2026/11/18/news/legambiente_attacca_il_condono_meloni_strizza_l_occhio_all_ecomafia_del_cemento-15801418/",
+      "excerpt": "In Italia si conta un abuso ogni 4 ore, record in Campania, Calabria, Puglia e Sicilia. Il presidente Ciafani: stop a scelte che non fanno bene al Paese, subito un piano contro l’abusivismo",
+      "publishedAt": "2026-11-18T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "“Servizio sanitario: contattare urgentemente…”. Occhio alla truffa via sms che ruba dati e denaro",
+      "url": "https://www.lastampa.it/cronaca/2026/11/18/news/truffa_sms_sanita_salute_numero_a_pagamento_furto_dati_soldi-15801526/",
+      "excerpt": "Falsi messaggi dell'Asl: attenzione ai numeri a pagamento. Si moltiplicano i tentativi di frode che parlano di prenotazioni, link a falsi referti e presunti rimborsi. Ecco come riconoscerli e difendersi",
+      "publishedAt": "2026-11-18T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Casa, Banca d’Italia: si ferma la corsa dei prezzi, compravendite in calo",
+      "url": "https://www.lastampa.it/economia/2026/11/18/news/casa_prezzi_compravendite_calo_bankitalia_mercato_immobiliare-15801557/",
+      "excerpt": "Dal sondaggio di Via Nazionale sul mercato immobilare nel terzo trimestre del 2026 emerge come i mutui siano al 69%, ai massimi dal 2022",
       "publishedAt": "2026-11-18T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -32,9 +102,128 @@
       "dateEvidence": "feed:published"
     },
     {
+      "title": "Panatta attacca le Atp: “Il tennis è un dettaglio, è tutto spettacolo, luci, una volgarità assoluta”",
+      "url": "https://www.lastampa.it/sport/speciali/atp-finals-2026/2026/11/18/news/panatta_critica_atp_finals_tennis_spettacolo-15801482/",
+      "excerpt": "Le sferzate del campione a colloquio con Bertolucci: «Si gioca a tennis? Ho visto Cobolli, era tennis?»",
+      "publishedAt": "2026-11-18T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
       "title": "Schiavone: “Cobolli, vivi con orgoglio l’attenzione. Peccato che il pubblico lo abbia mollato”",
       "url": "https://www.lastampa.it/sport/speciali/atp-finals-2026/2026/11/18/news/francesco_schiavone_cobolli_atp_finals_intervista-15801241/",
       "excerpt": "La campionessa, oggi coach e voce tv: “Con Medvedev ha raccolto meno di quel che poteva”",
+      "publishedAt": "2026-11-18T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Fassona per Cobolli (e Berrettini), risotto per Vavassori: l’Italia delle Finals si ritrova al Vittoria",
+      "url": "https://www.lastampa.it/sport/speciali/atp-finals-2026/2026/11/18/news/finals_torino_ristoranti_tennisti_2026-15801303/",
+      "excerpt": "Tra una cena e un abbraccio, Cobolli, Berrettini e Vavassori si ritrovano al ristorante Vittoria. Da Shizen al Solferino, ecco i locali scelti dai campioni dell’Atp Finals a Torino",
+      "publishedAt": "2026-11-18T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Anthropic prepara il prezzo dell’Ipo: ecco il test per l’intelligenza artificiale in Borsa",
+      "url": "https://www.lastampa.it/economia/2026/11/18/news/anthropic_ipo_prezzo_valutazione_intelligenza_artificiale_borsa-15801467/",
+      "excerpt": "La società guidata da Dario Amodei prevede una valutazione sopra i 1.400 miliardi di dollari. Sul mercato saranno vendute 825 milioni di azioni. E Google e Amazon avranno il 28%",
+      "publishedAt": "2026-11-18T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Midterm, l’ultimo schiaffo a Trump: i dem vincono anche in Alaska. Peltola strappa un seggio ai repubblicani",
+      "url": "https://www.lastampa.it/esteri/2026/11/18/news/midterm_usa_trump_democratici_alaska_peltola-15801414/",
+      "excerpt": "Le elezioni vinte da Mary Peltola. Sconfitto il repubblicano Dan Sullivan",
+      "publishedAt": "2026-11-18T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Influenza, medici e infermieri promuovono il vaccino ma loro non lo fanno: la copertura sotto il 40%",
+      "url": "https://www.lastampa.it/cronaca/2026/11/18/news/influenza_medici_e_infermieri_promuovono_il_vaccino_ma_loro_non_lo_fanno_la_copertura_sotto_il_40-15800843/",
+      "excerpt": "La federazione degli internisti: «Non viene considerata una priorità perché non viene percepita la reale efficacia»",
+      "publishedAt": "2026-11-18T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Donata Bergamini: “L’omicidio di Denis era chiaro fin dall’inizio. Ci sono stati depistaggi”",
+      "url": "https://www.lastampa.it/cronaca/2026/11/18/news/sorella_denis_bergamini_omicidio_chiaro_fin_dall_inizio_depistaggi-15801247/",
+      "excerpt": "La sorella del giocatore del Cosenza morto nel 1989 sulla condanna in appello della ex a 16 anni: “L’imputata ci ha infangati»",
+      "publishedAt": "2026-11-18T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Dare voce alle seconde generazioni: la “Mission impossibile” di Lupin è un colpo ben riuscito",
+      "url": "https://www.lastampa.it/spettacoli/2026/11/18/news/dare_voce_alle_seconde_generazioni_la_mission_impossibile_di_lupin_e_un_colpo_ben_riuscito-15801077/",
+      "excerpt": "Su Netflix la nuova stagione della serie in cui Omar Sy è un figlio dell'immigrazione che veste i panni di uno dei miti più francesi che esistano",
+      "publishedAt": "2026-11-18T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Ma perché i tennisti non ridono tutti come Alcaraz?",
+      "url": "https://www.lastampa.it/sport/speciali/atp-finals-2026/2026/11/18/news/ma_perche_i_tennisti_non_ridono_tutti_come_alcaraz-15801339/",
+      "excerpt": "Che cosa abbiamo fin qui capito di queste Atp Finals? Non tutto e meno male visto che il contrario sarebbe un peccato. Allora, Torino si preparava a un test solo tre mesi fa ...",
+      "publishedAt": "2026-11-18T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "La sonda lanciata 50 anni fa è a un giorno luce dalla Terra. Storia del record di Voyager 1",
+      "url": "https://www.lastampa.it/cronaca/2026/11/18/news/la_sonda_lanciata_50_anni_fa_e_a_un_giorno_luce_dalla_terra_storia_del_record_di_voyager_1-15801346/",
+      "excerpt": "La Nasa prevede di riuscire a mantenere attivo almeno uno strumento scientifico a bordo anche nel prossimo decennio",
+      "publishedAt": "2026-11-18T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Tennis gratuito, baci e Bagna Cauda Day: 5 consigli per il fine settimana a Torino e dintorni",
+      "url": "https://www.lastampa.it/torino/rubriche/fuori-programma/2026/11/18/news/cinque_cose_da_fare_a_torino_e_dintorni_nel_weekend-15800886/",
+      "excerpt": "Nel calendario anche sorrisi artistici e un anticipo di Natale",
+      "publishedAt": "2026-11-18T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "La lettera di addio delle gemelle Kessler prima del suicidio assistito: “Non avevamo più qualità di vita”",
+      "url": "https://www.lastampa.it/spettacoli/2026/11/18/news/gemelle_kessler_suicidio_assistito_lettera_addio-15801474/",
+      "excerpt": "Oltre ai problemi cardiaci, avevano perso il senso del gusto e dell'olfatto",
+      "publishedAt": "2026-11-18T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Barbara D’Urso resta a Ballando con le stelle: “Ho fatto un patto con il pubblico”",
+      "url": "https://www.lastampa.it/spettacoli/2026/11/18/news/barbara_d_urso_ballando_stelle-15801287/",
+      "excerpt": "Al Tg1 delle 20, l’ex volto Mediaset conferma che non lascerà il programma e così la soap va avanti, tra servizi al telegiornale e puntate speciali su RaiPlay",
+      "publishedAt": "2026-11-18T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Nuovo Bond, battaglia tra i marchi di lusso per un posto vicino a 007",
+      "url": "https://www.lastampa.it/esteri/2026/11/18/news/bond_battaglia_marchi_di_lusso_007_film-15801565/",
+      "excerpt": "Il personaggio e il film sono ancora uno dei veicoli di marketing più ambiti al mondo per produttori di orologi, case automobilistiche, griffe di moda e bevande",
+      "publishedAt": "2026-11-18T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Schiaffi, insulti e minacce con la pistola all’ex moglie: il lato oscuro di Alain Delon",
+      "url": "https://www.lastampa.it/spettacoli/2026/11/18/news/schiaffi_insulti_e_minacce_con_la_pistola_all_ex_moglie_il_lato_oscuro_di_alain_delon-15801210/",
+      "excerpt": "Il libro di Rosalie Van Breemen sconvolge la Francia",
+      "publishedAt": "2026-11-18T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "“Human”, è la parola dell’anno per il dizionario di Cambridge",
+      "url": "https://www.lastampa.it/esteri/2026/11/18/news/human_intelligenza_artificiale_dizionario_cambridge-15801497/",
+      "excerpt": "Il significato del termine ha assunto un maggiore rilievo nell’era dell’intelligenza artificiale",
+      "publishedAt": "2026-11-18T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Perché si torna a parlare di “Più Libri Più Liberi”",
+      "url": "https://www.lastampa.it/cultura/2026/11/17/news/bella_piu_libri_piu_liberi_peccato_che_perda_identita-15801174/",
+      "excerpt": "La 25esima edizione della fiera dei piccoli e medi opetatori del settore",
+      "publishedAt": "2026-11-18T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Juve, un 9 per Spalletti: il piano bianconero, da Varela a Tresoldi, da Sorloth a Scamacca e Balogun",
+      "url": "https://www.lastampa.it/sport/2026/11/18/news/juve_un_9_per_spalletti_il_piano_bianconero_da_varela_a_tresoldi_da_sorloth_a_scamacca_e_balogun-15801197/",
+      "excerpt": "Tutte le strade per una punta di peso a gennaio. Ma bisogna fare posto: attenzione al futuro di Ekhator, riflessioni anche su Woltemade",
       "publishedAt": "2026-11-18T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -46,58 +235,16 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Mosca: “Soldati francesi combattono in Ucraina”. Parigi: “Assurdo”",
-      "url": "https://www.lastampa.it/esteri/2026/11/17/news/soldati_francesi_ucraina_russia-15800937/",
-      "excerpt": "La Russia accusa: «Non si tratta più di assistenza ma di partecipazione diretta agli scontri. E sono presenti anche militari di altre nazionalità»",
-      "publishedAt": "2026-11-17T00:00:00Z",
+      "title": "L'aereo militare cade dal cielo e si schianta: l'esplosione ripresa dalle telecamere in Russia",
+      "url": "https://www.lastampa.it/esteri/2026/11/18/video/russia_aereo_militare_schianta_siberia_esplosione_19_morti-15801363/",
+      "excerpt": "Un aereo militare russo è precipitato schiantandosi nei pressi del villaggio di Yagunovo, nella regione di Kemerovo, in Siberia. Le immagini di una telecamera di sorveglianza mostrano il velivolo cadere e, subito dopo, un'esplosione e le fiamme che si alzano dietro le abitazioni. Si tratta di un aereo da trasporto Anto",
+      "publishedAt": "2026-11-18T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Schiaffo a Putin, missili ucraini colpiscono il ponte di Crimea: Zelensky esulta, l'Ue appoggia Kiev",
+      "title": "L'abbraccio di Xi a Trump. Putin: “Mi aspetto grandi benefici dal trilaterale”",
       "url": "https://www.lastampa.it/esteri/2026/11/18/diretta/guerra_russia_ucraina_news_oggi-15801319/",
-      "excerpt": "Danneggiata una campata stradale di 227 metri e compromesso il traffico marittimo sottostante. Mosca minaccia i Paesi che inviano militari in Ucraina, Parigi replica. Gli Usa chiedono all'Europa di farsi carico degli aiuti invernali",
-      "publishedAt": "2026-11-17T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Bufera sul festival russo a Roma, il Barberini ritira la concessione della sala",
-      "url": "https://www.lastampa.it/politica/2026/11/17/news/festival_cinema_russo_roma_giuli_polemica-15800573/",
-      "excerpt": "La kermesse doveva tenersi dal 19 al 23 novembre 2026",
-      "publishedAt": "2026-11-17T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Manovra, assalto da 7.000 emendamenti: è il numero più alto della legislatura",
-      "url": "https://www.lastampa.it/economia/2026/11/17/news/manovra_assalto_da_7000_emendamenti_e_il_numero_piu_alto_della_legislatura-15801056/",
-      "excerpt": "Pensioni, sanità, scuola e sicurezza le priorità del vertice di maggioranza: modifiche solo con coperture certe. 2.000 emendamenti dalla maggioranza.Salvini rilancia Quota 64 dal 2027, le opposizioni promettono battaglia sul condono edilizio",
-      "publishedAt": "2026-11-17T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Come funziona il nuovo condono edilizio, tutti gli interventi possibili",
-      "url": "https://www.lastampa.it/economia/2026/11/17/news/come_funziona_il_nuovo_condono_edilizio_ecco_gli_interventi_possibili-15800468/",
-      "excerpt": "Tra gli emendamenti di Fratelli d’Italia alla legge di bilancio torna l’ipotesi di sanatoria per le lievi irregolarità, esclusi gli abusi e gli immobili incompatibili con i vincoli di tutela",
-      "publishedAt": "2026-11-17T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Dombrovskis: “L’Italia può uscire dalla procedura per deficit in primavera”. Economia Ue meglio del previsto",
-      "url": "https://www.lastampa.it/economia/2026/11/17/news/economia_ue_debito_commissione_italia-15800660/",
-      "excerpt": "Le previsioni della Commissione: crescita Ue all’1,4% quest’anno, in Italia raggiungerà l’1%. Atteso un picco dell’inflazione oltre il 4% nei prossimi mesi.",
-      "publishedAt": "2026-11-17T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Social vietati agli under 13, il governo presenta un emendamento al decreto sicurezza",
-      "url": "https://www.lastampa.it/politica/2026/11/17/news/social_vietati_agli_under_13_italia_quando-15800974/",
-      "excerpt": "Per i 13-16enni solo account legati ai genitori. La maggioranza dovrebbe depositare domani alla Camera la norma elaborata con Palazzo Chigi: l’obiettivo è la legge entro fine novembre, senza attendere il regolamento europeo",
-      "publishedAt": "2026-11-17T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Ddl antisemitismo, la Camera approva: è legge. No di M5s e Avs, nel Pd strappo dei riformisti",
-      "url": "https://www.lastampa.it/politica/2026/11/17/news/ddl-antisemitismo-approvato-camera-legge-ihra-15801168/",
-      "excerpt": "Via libera con 147 sì, 93 no e 5 astenuti. Adotta la definizione Ihra",
+      "excerpt": "Domani il vertice tra i presidenti di Usa, Russia e Cina. L’Ue vara lo strumento per un prestito da 45 miliardi per Kiev, 25 in aiuti militari",
       "publishedAt": "2026-11-17T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -109,163 +256,9 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Le limitazioni agli Euro 5 in Pianura Padana rinviate di un anno",
-      "url": "https://www.lastampa.it/cronaca/2026/11/17/news/rinvio_limitazioni_euro_5_val_padana_piemonte-15801186/",
-      "excerpt": "Il decreto legge appena approvato riguarda il Piemonte, la Lombardia, il Veneto e l'Emilia-Romagna. Fino al 1° ottobre 2027 le quattro Regioni non saranno tenute (ma potranno farlo se vogliono) a porre ostacoli ai veicoli con quella motorizzazione",
-      "publishedAt": "2026-11-17T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Zverev non si ferma, battuto in due set anche Shelton: è qualificato per le semifinali",
-      "url": "https://www.lastampa.it/sport/speciali/atp-finals-2026/2026/11/17/news/zverev_non_si_ferma_battuto_in_due_set_anche_shelton_e_qualificato_per_le_semifinali-15801284/",
-      "excerpt": "Il numero uno del mondo: «Felice di averlo sconfitto, è di un livello molto alto»",
-      "publishedAt": "2026-11-17T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Arthur Fils batte Rafael Jodar, grande rimonta del francese",
-      "url": "https://www.lastampa.it/sport/speciali/atp-finals-2026/2026/11/17/news/arthur_fils_batte_rafael_jodar_rimonta_del_francese-15800855/",
-      "excerpt": "Torino, vittoria conquistata in un’ora e 51 minuti",
-      "publishedAt": "2026-11-17T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Usa: problemi a Gmail, Apple Pay e iCloud. In tilt anche la rete interna della Nsa",
-      "url": "https://www.lastampa.it/esteri/2026/11/17/news/usa_national_security_agency_guasto_sistema_comunicazione_interna-15800934/",
-      "excerpt": "Segnalato anche un attacco informatico ai siti di almeno 178 organizzazioni, tra cui Cnn, Bbc e Zoom. Non risultano collegamenti accertati tra i diversi episodi. Appe conferma i disservizi. Trump: «Cose che capitano»",
-      "publishedAt": "2026-11-17T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Nvidia, il board boccia il ritorno di Huang. La Sec indaga su false comunicazioni agli investitori",
-      "url": "https://www.lastampa.it/esteri/2026/11/17/news/nvidia_ricavi_record_huang_reintegro-15801314/",
-      "excerpt": "La Sec americana apre un'indagine per false comunicazioni sociali. Il presidente Jones esclude il reintegro di Huang, mentre Nvidia registra incassi record",
-      "publishedAt": "2026-11-17T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Novantenne morta dopo lo scippo della borsetta a Torino",
-      "url": "https://www.lastampa.it/torino/2026/11/17/news/in_bici_avvicina_una_novantenne_e_la_scippa_della_borsetta_la_donna_cade_ed_e_grave-15800794/",
-      "excerpt": "L’aggressione da parte di un uomo in bicicletta nel quartiere San Donato in via Schina: la donna stava camminando sul marciapiede",
-      "publishedAt": "2026-11-17T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Bergamo, soffoca la moglie malata e chiama i carabinieri: “È stata lei a chiedermi di ucciderla”",
-      "url": "https://www.lastampa.it/cronaca/2026/11/17/news/donna_soffocata_marito_bossico_bergamo-15801145/",
-      "excerpt": "Femminicidio a Bossico, nel Bergamasco. La donna aveva 61 anni ed era affetta da una malattia degenerativa. Il marito, 63 anni, si è consegnato ai militari e ha confessato",
-      "publishedAt": "2026-11-17T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Rapinatori uccisi da Mario Roggero, i giudici: “Deliberata aggressione per farsi giustizia da sé”",
-      "url": "https://www.lastampa.it/cuneo/2026/11/17/news/mario_roggero_sentenza_motivazioni_gioielliere_rapinatori_uccisi-15800837/",
-      "excerpt": "Le motivazioni della sentenza che ha reso definitiva la condanna del gioielliere a 14 anni e 9 mesi. Il colpo il 28 aprile 2021 a Grinzane Cavour",
-      "publishedAt": "2026-11-17T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Caso Bergamini, confermata in appello la condanna a 16 anni per l’ex fidanzata Isabella Internò",
-      "url": "https://www.lastampa.it/cronaca/2026/11/17/news/omicidio_bergamini_convalida_condanna_16_anni_isabella_interno-15800765/",
-      "excerpt": "Il calciatore del Cosenza Denis Bergamini fu ucciso il 18 novembre 1989 a Roseto Capo Spulico. La donna è accusata di concorso in omicidio volontario",
-      "publishedAt": "2026-11-17T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Mattarella inaugura l’anno accademico alla Cattolica: “Il compito dei giovani è cambiare il mondo”",
-      "url": "https://www.lastampa.it/politica/2026/11/17/news/mattarella_inaugurazione_anno_accademico_universita_cattolica_milano-15800710/",
-      "excerpt": "Giornata milanese per il presidente della Repubblica Sergio Mattarella in città per due appuntamenti: l’inaugurazione dell’anno accademico dell'Università Cattolica e la visita ...",
-      "publishedAt": "2026-11-17T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Il Papa: “Non ho firmato le dimissioni anticipate. Dopo il voto di Midterm mi aspetto meno guerre”",
-      "url": "https://www.lastampa.it/cronaca/2026/11/17/news/papa_leone_sto_bene_non_ho_firmato_la_lettera_di_dimissioni_anticipate-15800513/",
-      "excerpt": "Leone XIV sul volo di ritorno dal Sudamerica e l’ipotesi della rinuncia per motivi di salute: “Eventualmente lo farò, ma per adesso non ne vedo il bisogno. Non faccio commenti politici ma servono meno divisioni e meno polemica”",
-      "publishedAt": "2026-11-17T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Seborga, il paese da favola dove regna una principessa. Venduto ai Savoia per 150mila lire",
-      "url": "https://www.lastampa.it/imperia-sanremo/2026/11/17/news/seborga_principato_principessa_nina_storia_indipendenza_savoia-15800687/",
-      "excerpt": "«Viva il principato di Seborga, sempre!», dicono gli abitanti del borgo di fronte alla rielezione della principessa. Ma cos’è questa storia?",
-      "publishedAt": "2026-11-17T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Il ritorno dei tacchi non è una buona notizia",
-      "url": "https://www.lastampa.it/spettacoli/2026/11/17/news/il_ritorno_dei_tacchi_non_e_una_buona_notizia-15799691/",
-      "excerpt": "Per la stagione primavera/estate 2027 le cose si mettono male come ci anticipa Julia Hobbs, senior features editor di Vogue British che su Substack ha scritto di non vedere più «il senso delle scarpe basse eleganti, e confermo la mia posizione durante questo mese della moda»",
-      "publishedAt": "2026-11-17T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Grammy, la grande beffa degli esclusi: da Harry Styles a Noah Kahan, gli uomini ai margini",
-      "url": "https://www.lastampa.it/spettacoli/2026/11/17/news/grammy_2027_esclusi_nominations_harry_styles_noah_kahan_star-15800490/",
-      "excerpt": "Le nomination ridisegnano gli equilibri della musica internazionale: Raye, Rosalía ed Ella Langley dominano la scena, mentre i colleghi vengono ignorati",
-      "publishedAt": "2026-11-17T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Da Harry Potter non avete imparato nulla: basta campagne d’odio contro il nuovo Piton",
-      "url": "https://www.lastampa.it/spettacoli/2026/11/17/news/harry_potter_piton_paapa_essiedu_minacce_morte_serie_hbo-15799715/",
-      "excerpt": "Paapa Essiedu minacciato di morte: troppo nero per somigliare al personaggio descritto nei libri di J.K. Rowling e troppo lontano dall'immagine che ne ha consegnato al cinema Alan Rickman",
-      "publishedAt": "2026-11-17T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Da Zendaya a Sydney Sweeney: chi sarà la nuova Bond girl al fianco di Robert Pattinson?",
-      "url": "https://www.lastampa.it/spettacoli/2026/11/17/news/bond_girl_chi_sara_robert_pattinson_007-15800623/",
-      "excerpt": "Circolano le prime indiscrezioni sul nuovo volto femminile dalla saga di 007. Tra le favorite dai fan c'è Margaret Qualley",
-      "publishedAt": "2026-11-17T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
       "title": "Il missile ucraino punta il Ponte di Crimea: le immagini in soggettiva fino allo schianto",
       "url": "https://www.lastampa.it/esteri/2026/11/17/video/ponte_crimea_kerch_missile_ucraino_attacco-15800619/",
       "excerpt": "Nel video pubblicato su X da Anton Gerashchenko, ex consigliere del ministero dell’Interno ucraino, l’arcata del ponte di Kerch emerge dal buio e si avvicina rapidamente. Secondo Gerashchenko, le immagini mostrano la traiettoria di un missile da crociera ucraino FP-5 “Flamingo” negli istanti che precedono l’impatto. Il",
-      "publishedAt": "2026-11-17T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Le prime immagini di Robert Pattinson nei panni di James Bond",
-      "url": "https://www.lastampa.it/spettacoli/2026/11/17/video/robert_pattinson_james_bond_teaser_prime_immagini-15800784/",
-      "excerpt": "Robert Pattinson è il nuovo James Bond. Amazon MGM Studios ha annunciato ufficialmente che l'attore britannico vestirà i panni dell'agente segreto 007, raccogliendo l'eredità di Daniel Craig, protagonista per l'ultima volta della saga in No Time to Die nel 2021. Per accompagnare l'annuncio, gli studios hanno diffuso le",
-      "publishedAt": "2026-11-17T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "\"Non alzi la voce\": Bandecchi risponde al capogruppo Pd e poi gli mostra il dito medio",
-      "url": "https://www.lastampa.it/politica/2026/11/17/video/terni_bandecchi_dito_medio_spinelli_consiglio_comunale-15801085/",
-      "excerpt": "Il sindaco di Terni, Stefano Bandecchi, ha mostrato il dito medio al capogruppo del Pd Pierluigi Spinelli durante una seduta del Consiglio comunale. Il gesto, ripreso dalle telecamere dell'Aula di Palazzo Spada è arrivato nel corso di un acceso confronto tra i due sull'ordine dei lavori. L'episodio ha scatenato una nuo",
-      "publishedAt": "2026-11-17T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Brexit, perché il Regno Unito ci vuole ripensare",
-      "url": "https://www.lastampa.it/esteri/2026/11/17/news/brexit_burnham_johnson_lagarde_blair_cameron_uk_inghilterra-15800523/",
-      "excerpt": "Tutte le ragioni strategiche dietro alla nuova priorità del premier Andy Burnham",
-      "publishedAt": "2026-11-17T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Il piano pandemico? Noi medici non siamo mai stati consultati",
-      "url": "https://www.lastampa.it/cronaca/2026/11/17/news/anelli_il_piano_pandemico_comunque_non_basta_noi_medici_non_siamo_mai_stati_consultati-15800151/",
-      "excerpt": "Il presidente della federazione degli Ordini e la Commissione: “Dal Covid si impari, senza processare chi cura i malati”",
-      "publishedAt": "2026-11-17T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Ballando, Milly Carlucci dopo lo scontro tra d'Urso e Mariotto: \"Vogliamo bene a tutti e due\"",
-      "url": "https://www.lastampa.it/spettacoli/2026/11/17/video/ballando_milly_carlucci_dopo_lo_scontro_tra_durso_e_mariotto_vogliamo_bene_a_tutti_e_due-15800589/",
-      "excerpt": "Nella puntata del 14 novembre di Ballando con le stelle, il giurato Guillermo Mariotto ha spruzzato del profumo verso Barbara d’Urso, insinuando che ci fosse cattivo odore. La concorrente ha reagito in diretta, rivolgendosi alla conduttrice: “O me o lui, Milly”. Dopo le critiche sui social per il suo mancato intervento",
-      "publishedAt": "2026-11-17T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Sigaretta in bocca e un salotto sulle piste da sci: il nuovo paradiso delle vacanze di Kim Jong Un",
-      "url": "https://www.lastampa.it/esteri/2026/11/17/video/kim_jong_un_corea_del_nord_sci_figlia-15800920/",
-      "excerpt": "Kim Jong Un seduto su una poltrona in mezzo alla neve mentre osserva la figlia Ju Ae sciare, poi un tour tra camere d'albergo, ristoranti e strutture turistiche. Sono le immagini diffuse dalla televisione di Stato nordcoreana per raccontare la visita del leader alla zona turistica di Samjiyon, vicino al confine con la ",
       "publishedAt": "2026-11-17T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -277,17 +270,24 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Addio a Freeman Johnson, il più anziano testimone di Pearl Harbor",
-      "url": "https://www.lastampa.it/esteri/2026/11/17/news/freeman_johnson_pearl_harbor_america_usa_guerra_storia-15800474/",
-      "excerpt": "Faceva il fuochista sulla nave St. Louis durante l’attacco dei giapponesi alle Hawaii, che cambiò il corso della Seconda guerra mondiale",
+      "title": "Sigaretta in bocca e un salotto sulle piste da sci: il nuovo paradiso delle vacanze di Kim Jong Un",
+      "url": "https://www.lastampa.it/esteri/2026/11/17/video/kim_jong_un_corea_del_nord_sci_figlia-15800920/",
+      "excerpt": "Kim Jong Un seduto su una poltrona in mezzo alla neve mentre osserva la figlia Ju Ae sciare, poi un tour tra camere d'albergo, ristoranti e strutture turistiche. Sono le immagini diffuse dalla televisione di Stato nordcoreana per raccontare la visita del leader alla zona turistica di Samjiyon, vicino al confine con la ",
       "publishedAt": "2026-11-17T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Stefano De Martino: “Sarà un Sanremo dallo spirito punk, più ospiti e meno co-conduttori”",
-      "url": "https://www.lastampa.it/spettacoli/2026/11/17/news/stefano_de_martino_sara_un_sanremo_dallo_spirito_punk_piu_ospiti_e_meno_co-conduttori-15800116/",
-      "excerpt": "Le anticipazioni alla Milano Music Week: «Torna la sigla di Pippo Caruso»",
-      "publishedAt": "2026-11-17T00:00:00Z",
+      "title": "Vortice polare, cosa sta succedendo sopra l'Artico e perché può cambiare l'inverno europeo",
+      "url": "https://www.lastampa.it/esteri/2026/11/16/video/vortice_polare_inverno_europa_freddo-15799545/",
+      "excerpt": "Il vortice polare si sta indebolendo insolitamente e i meteorologi osservano con attenzione le possibili conseguenze sull'inverno europeo. Il fenomeno potrebbe aumentare il rischio di ondate di freddo in alcune regioni del continente, ma non significa che siano già in arrivo gelo e nevicate. «Se i venti arrivano da est",
+      "publishedAt": "2026-11-16T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Il Papa a Lima colpito al volto da un rosario lanciato dalla folla",
+      "url": "https://www.lastampa.it/esteri/2026/11/16/video/il_papa_a_lima_colpito_da_un_rosario_al_volto_lanciato_dalla_folla-15800324/",
+      "excerpt": "Piccolo incidente senza conseguenze per il Papa durante il suo giro sulla Papamobile tra la folla della spianata di Las Palmas, prima della Messa, l'ultima in terra peruviana. Un fedele, come capita spesso, ha lanciato verso Leone XIV un rosario. Stavolta però il piccolo oggetto ha raggiunto all'occhio Papa Prevost, un",
+      "publishedAt": "2026-11-16T00:00:00Z",
       "dateEvidence": "feed:published"
     }
   ],
@@ -302,5 +302,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 0.81
+  "durationSeconds": 1.07
 }

@@ -4,7 +4,7 @@
   "sourceId": "partito-liberaldemocratico",
   "originUrl": "https://partitoliberaldemocratico.com/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-18T01:24:26.556568Z",
+  "collectedAt": "2026-11-18T10:47:16.274694Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -22,13 +22,6 @@
       "url": "https://partitoliberaldemocratico.com/il-problema-dei-redditi-bassi-in-italia-non-dipende-dallevasione-fiscale-ma-da/",
       "excerpt": "Il problema dei redditi bassi in Italia non dipende dall’evasione fiscale, ma da Partito Liberaldemocratico",
       "publishedAt": "2026-11-04T12:22:30Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "4 novembre: giornata dell’unità e delle Forze armate. La libertà e la democrazia",
-      "url": "https://partitoliberaldemocratico.com/4-novembre-giornata-dellunita-e-delle-forze-armate-la-liberta-e-la-democrazia/",
-      "excerpt": "4 novembre: giornata dell’unità e delle Forze armate. La libertà e la democrazia Partito Liberaldemocratico",
-      "publishedAt": "2026-11-04T09:01:19Z",
       "dateEvidence": "jsonld:datePublished"
     }
   ],
@@ -66,7 +59,7 @@
       "status": 200
     }
   ],
-  "message": "3 notizie recenti con data verificata; copertura parziale.",
+  "message": "2 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [
     {
       "url": "https://partitoliberaldemocratico.com/proposte/",
@@ -84,5 +77,5 @@
   "candidateCount": 9,
   "datedCount": 4,
   "listingUrl": "https://partitoliberaldemocratico.com/",
-  "durationSeconds": 6.86
+  "durationSeconds": 6.36
 }

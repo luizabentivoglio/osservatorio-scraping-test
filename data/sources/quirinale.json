@@ -4,7 +4,7 @@
   "sourceId": "quirinale",
   "originUrl": "https://www.quirinale.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-18T01:24:38.106956Z",
+  "collectedAt": "2026-11-18T10:47:26.394695Z",
   "status": "blocked",
   "diagnosticCode": "access_restricted",
   "method": "html",
@@ -13,11 +13,208 @@
   "attempts": [
     {
       "url": "https://www.quirinale.it/robots.txt",
-      "status": 403
+      "status": 404
+    },
+    {
+      "url": "https://www.quirinale.it/",
+      "status": 200
+    },
+    {
+      "url": "https://www.quirinale.it/it/notizie/mattarella-universita-cattolica-sacro-cuore-per-inaugurazione-anno-accademico",
+      "status": 200
+    },
+    {
+      "url": "https://www.quirinale.it/it/notizie/mattarella-inaugura-nuovo-polo-ambulatoriale-giardino-meraviglie",
+      "status": 200
+    },
+    {
+      "url": "https://www.quirinale.it/it/notizie/cerimonia-giuramento-giudice-corte-costituzionale-alberto-giusti",
+      "status": 200
+    },
+    {
+      "url": "https://www.quirinale.it/it/notizie/mattarella-giornata-internazionale-per-prevenzione-lotta-contro-ogni-forma-criminalita-organizzata-transnazionale",
+      "status": 200
+    },
+    {
+      "url": "https://www.quirinale.it/it/notizie/mattarella-ha-ricevuto-campione-mondo-formula-1-kimi-antonelli",
+      "status": 200
+    },
+    {
+      "url": "https://www.quirinale.it/it/notizie/nostra-repubblica-compie-ottant-anni-1",
+      "status": 200
+    },
+    {
+      "url": "https://www.quirinale.it/it/notizie/mattarella-universita-cattolica-sacro-cuore-per-inaugurazione-anno-accademico",
+      "status": 200
     }
   ],
-  "message": "HTTP 403: accesso limitato dalla fonte",
-  "httpStatus": 403,
-  "failedUrl": "https://www.quirinale.it/robots.txt",
-  "durationSeconds": 0.36
+  "message": "Browser HTTP 403",
+  "candidateSamples": [
+    {
+      "url": "https://www.quirinale.it/it/notizie/mattarella-universita-cattolica-sacro-cuore-per-inaugurazione-anno-accademico",
+      "title": "Mattarella all’Università Cattolica del Sacro Cuore per l'inaugurazione dell'anno accademico Il Presidente della Repubblica, Sergio Mattarella, è intervenuto alla cerimonia di inaugurazione dell’Anno Accademico 2026/2027 dell’Università Cattolica del Sacro Cuore, che si è svolta nell’Aula Magna dell",
+      "h1": "Mattarella all’Università Cattolica del Sacro Cuore per l'inaugurazione dell'anno accademico",
+      "dates": [
+        {
+          "tag": "span",
+          "class": [
+            "data-luogo"
+          ],
+          "text": "Milano, 17/11/2026",
+          "datetime": null
+        },
+        {
+          "tag": "p",
+          "class": [
+            "date-label"
+          ],
+          "text": "Milano, 17/11/2026 (II mandato)",
+          "datetime": null
+        }
+      ]
+    },
+    {
+      "url": "https://www.quirinale.it/it/notizie/mattarella-inaugura-nuovo-polo-ambulatoriale-giardino-meraviglie",
+      "title": "Il Presidente della Repubblica Sergio Mattarella con un gruppo di piccoli pazienti dell’Istituto Neurologico “Carlo Besta”",
+      "h1": "Mattarella inaugura il nuovo Polo Ambulatoriale e il Giardino delle Meraviglie",
+      "dates": [
+        {
+          "tag": "p",
+          "class": [
+            "date-label"
+          ],
+          "text": "Milano, 17/11/2026 (II mandato)",
+          "datetime": null
+        }
+      ]
+    },
+    {
+      "url": "https://www.quirinale.it/it/notizie/cerimonia-giuramento-giudice-corte-costituzionale-alberto-giusti",
+      "title": "Il Presidente Sergio Mattarella in occasione della cerimonia di giuramento del nuovo giudice della Corte costituzionale, Alberto Giusti",
+      "h1": "Cerimonia di giuramento del Giudice della Corte Costituzionale Alberto Giusti",
+      "dates": [
+        {
+          "tag": "p",
+          "class": [
+            "date-label"
+          ],
+          "text": "Roma, 16/11/2026 (II mandato)",
+          "datetime": null
+        }
+      ]
+    },
+    {
+      "url": "https://www.quirinale.it/it/notizie/mattarella-giornata-internazionale-per-prevenzione-lotta-contro-ogni-forma-criminalita-organizzata-transnazionale",
+      "title": "Il Presidente Sergio Mattarella alla cerimonia in occasione della Giornata internazionale per la prevenzione e la lotta contro ogni forma di criminalità organizzata transnazionale",
+      "h1": "Mattarella alla Giornata internazionale per la prevenzione e la lotta contro ogni forma di criminalità organizzata transnazionale",
+      "dates": [
+        {
+          "tag": "span",
+          "class": [
+            "data-luogo"
+          ],
+          "text": "Palermo, 16/11/2026 (II mandato)",
+          "datetime": null
+        },
+        {
+          "tag": "span",
+          "class": [
+            "data-luogo"
+          ],
+          "text": "Palermo, 16/11/2026 (II mandato)",
+          "datetime": null
+        },
+        {
+          "tag": "span",
+          "class": [
+            "data-luogo"
+          ],
+          "text": "Palermo, 16/11/2026 (II mandato)",
+          "datetime": null
+        },
+        {
+          "tag": "span",
+          "class": [
+            "data-luogo"
+          ],
+          "text": "Palermo, 16/11/2026 (II mandato)",
+          "datetime": null
+        },
+        {
+          "tag": "span",
+          "class": [
+            "data-luogo"
+          ],
+          "text": "Palermo, 16/11/2026 (II mandato)",
+          "datetime": null
+        },
+        {
+          "tag": "span",
+          "class": [
+            "data-luogo"
+          ],
+          "text": "Palermo, 16/11/2026 (II mandato)",
+          "datetime": null
+        },
+        {
+          "tag": "span",
+          "class": [
+            "data-luogo"
+          ],
+          "text": "Palermo, 16/11/2026 (II mandato)",
+          "datetime": null
+        },
+        {
+          "tag": "span",
+          "class": [
+            "data-luogo"
+          ],
+          "text": "Palermo, 16/11/2026 (II mandato)",
+          "datetime": null
+        },
+        {
+          "tag": "p",
+          "class": [
+            "date-label"
+          ],
+          "text": "Palermo, 16/11/2026 (II mandato)",
+          "datetime": null
+        }
+      ]
+    },
+    {
+      "url": "https://www.quirinale.it/it/notizie/mattarella-ha-ricevuto-campione-mondo-formula-1-kimi-antonelli",
+      "title": "Il Presidente Sergio Mattarella con Kimi Antonelli, Campione del mondo di Formula 1",
+      "h1": "Mattarella ha ricevuto il Campione del mondo di Formula 1, Kimi Antonelli",
+      "dates": [
+        {
+          "tag": "p",
+          "class": [
+            "date-label"
+          ],
+          "text": "Roma, 13/11/2026 (II mandato)",
+          "datetime": null
+        }
+      ]
+    },
+    {
+      "url": "https://www.quirinale.it/it/notizie/nostra-repubblica-compie-ottant-anni-1",
+      "title": "I Volti della Repubblica",
+      "h1": "La nostra Repubblica compie Ottant’anni",
+      "dates": [
+        {
+          "tag": "p",
+          "class": [
+            "date-label"
+          ],
+          "text": "Roma, 24/05/2026 (II mandato)",
+          "datetime": null
+        }
+      ]
+    }
+  ],
+  "candidateCount": 12,
+  "datedCount": 0,
+  "listingUrl": "https://www.quirinale.it/",
+  "durationSeconds": 3.8
 }

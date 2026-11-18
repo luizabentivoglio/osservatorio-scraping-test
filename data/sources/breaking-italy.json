@@ -4,17 +4,17 @@
   "sourceId": "breaking-italy",
   "originUrl": "https://breakingitaly.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-18T01:23:30.783413Z",
+  "collectedAt": "2026-11-18T10:46:16.317666Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
-      "title": "La succursale italiana di Revolut è in amministrazione giudiziaria",
-      "url": "https://breakingitaly.it/newsletter/la-succursale-italiana-di-revolut-e-in-amministrazione-giudiziaria",
-      "excerpt": "La succursale italiana di Revolut è in amministrazione giudiziaria",
-      "publishedAt": "2026-11-17T00:00:00Z",
+      "title": "Il DDL antisemitismo è legge",
+      "url": "https://breakingitaly.it/newsletter/il-ddl-antisemitismo-e-legge",
+      "excerpt": "Il DDL antisemitismo è legge",
+      "publishedAt": "2026-11-18T00:00:00Z",
       "dateEvidence": "html:newsletter-publication"
     }
   ],
@@ -32,7 +32,7 @@
       "status": 200
     },
     {
-      "url": "https://breakingitaly.it/newsletter/la-succursale-italiana-di-revolut-e-in-amministrazione-giudiziaria",
+      "url": "https://breakingitaly.it/newsletter/il-ddl-antisemitismo-e-legge",
       "status": 200
     },
     {
@@ -96,5 +96,5 @@
   "candidateCount": 12,
   "datedCount": 1,
   "listingUrl": "https://breakingitaly.it/",
-  "durationSeconds": 5.2
+  "durationSeconds": 5.62
 }

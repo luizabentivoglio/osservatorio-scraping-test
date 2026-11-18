@@ -4,12 +4,19 @@
   "sourceId": "osservatorio-cpi",
   "originUrl": "https://osservatoriocpi.unicatt.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-18T01:24:20.011384Z",
+  "collectedAt": "2026-11-18T10:47:07.071915Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "Il fascino discreto delle agevolazioni per mobili ed elettrodomestici",
+      "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/il-fascino-discreto-delle-agevolazioni-per-mobili-ed-elettrodomestici.html",
+      "excerpt": "La Legge di Bilancio 2027 conferma, per il quattordicesimo anno consecutivo, le agevolazioni per mobili ed elettrodomestici. Il rinnovo del bonus mobili e la riproposizione del voucher elettrodomestici presentano costi e benefici che non sembrano giustificare il loro finanziamento, se non nell’efficacia delle lobby che",
+      "publishedAt": "2026-11-13T00:00:00Z",
+      "dateEvidence": "html:article-header"
+    },
     {
       "title": "Le differenze territoriali nell’istruzione, seppur ancora presenti, si sono ridotte negli anni",
       "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/le-differenze-territoriali-nell-istruzione-seppur-ancora-presenti-si-sono-ridotte-negli-anni.html",
@@ -42,6 +49,10 @@
       "status": 200
     },
     {
+      "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/il-fascino-discreto-delle-agevolazioni-per-mobili-ed-elettrodomestici.html",
+      "status": 200
+    },
+    {
       "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/le-differenze-territoriali-nell-istruzione-seppur-ancora-presenti-si-sono-ridotte-negli-anni.html",
       "status": 200
     },
@@ -62,16 +73,10 @@
       "status": 200
     }
   ],
-  "message": "3 notizie recenti con data verificata; copertura parziale.",
+  "message": "4 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [],
   "candidateCount": 12,
-  "datedCount": 5,
+  "datedCount": 6,
   "listingUrl": "https://osservatoriocpi.unicatt.it/pubblicazioni.html",
-  "durationSeconds": 5.98,
-  "attemptErrors": [
-    {
-      "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/il-fascino-discreto-delle-agevolazioni-per-mobili-ed-elettrodomestici.html",
-      "code": "connection_error"
-    }
-  ]
+  "durationSeconds": 7.55
 }

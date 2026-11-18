@@ -4,12 +4,26 @@
   "sourceId": "camera",
   "originUrl": "https://www.camera.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-18T01:23:31.908756Z",
+  "collectedAt": "2026-11-18T10:46:17.439406Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "Informativa Crosetto su guerra ibrida e cognitiva",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64266",
+      "excerpt": "In Aula, alle ore 9.30, in Informativa urgente del Governo sulla guerra ibrida e cognitiva. I lav...",
+      "publishedAt": "2026-11-18T00:00:00Z",
+      "dateEvidence": "html:publication-label"
+    },
+    {
+      "title": "Oggi question time con i ministri Mazzi, Urso e Foti",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64269",
+      "excerpt": "Si svolge oggi, mercoledì 18 novembre, alle 15, il question time trasmesso dalla Rai in diretta tel...",
+      "publishedAt": "2026-11-18T00:00:00Z",
+      "dateEvidence": "html:publication-label"
+    },
     {
       "title": "Giornata Mondiale contro tumore cervice uterina - Montecitorio si illumina di verde \"teal\"",
       "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64242",
@@ -18,14 +32,14 @@
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "Transizione demografica, audizione Leardini, rettrice Università Verona - Mercoledì alle 8.30 diretta webtv",
+      "title": "Transizione demografica, audizione Leardini, rettrice Università Verona",
       "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64210",
       "excerpt": "Mercoledì 18 novembre, alle ore 8.30, presso l'Aula del IV piano di Palazzo San Macuto, la Commissi...",
       "publishedAt": "2026-11-17T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "Niscemi, audizioni sindaco e presidente Comitato evento franoso – Mercoledì alle 8.45 diretta webtv",
+      "title": "Niscemi, audizioni sindaco e presidente Comitato evento franoso",
       "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64209",
       "excerpt": "Mercoledì 18 novembre, alle ore 8.45, presso l’aula del III piano di Palazzo San Macuto, la Commi...",
       "publishedAt": "2026-11-17T00:00:00Z",
@@ -35,20 +49,6 @@
       "title": "Ferite invisibili - Bambini onlife - Mercoledì alle 10 diretta webtv",
       "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64206",
       "excerpt": "Mercoledì 18 novembre, alle ore 10, presso la Sala del Refettorio di Palazzo San Macuto si svolge i...",
-      "publishedAt": "2026-11-17T00:00:00Z",
-      "dateEvidence": "html:publication-label"
-    },
-    {
-      "title": "Audizioni su prospettive sito siderurgico Taranto – Mercoledì diretta webtv",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64205",
-      "excerpt": "Mercoledì 18 novembre la Commissione Attività produttive svolge le seguenti audizioni sulle prospe...",
-      "publishedAt": "2026-11-17T00:00:00Z",
-      "dateEvidence": "html:publication-label"
-    },
-    {
-      "title": "Affari sociali, interrogazioni a risposta immediata – Ministero della Salute - Mercoledì alle 13.30 diretta webtv",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64204",
-      "excerpt": "Mercoledì 18 novembre, alle ore 13.30, la Commissione Affari sociali svolge interrogazioni a rispo...",
       "publishedAt": "2026-11-17T00:00:00Z",
       "dateEvidence": "html:publication-label"
     }
@@ -63,6 +63,14 @@
       "status": 200
     },
     {
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64266",
+      "status": 200
+    },
+    {
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64269",
+      "status": 200
+    },
+    {
       "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64242",
       "status": 200
     },
@@ -77,14 +85,6 @@
     {
       "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64206",
       "status": 200
-    },
-    {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64205",
-      "status": 200
-    },
-    {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64204",
-      "status": 200
     }
   ],
   "message": "6 notizie recenti con data verificata; copertura parziale.",
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://comunicazione.camera.it/archivio-prima-pagina",
-  "durationSeconds": 4.06
+  "durationSeconds": 4.45
 }

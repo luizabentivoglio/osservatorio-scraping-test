@@ -4,12 +4,26 @@
   "sourceId": "palazzo-chigi",
   "originUrl": "https://www.governo.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-18T01:24:25.947458Z",
+  "collectedAt": "2026-11-18T10:47:14.620750Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.governo.it/feed/rss",
   "items": [
+    {
+      "title": "Il Sottosegretario Mantovano all'evento \"Competitività Paese. La legacy del PNRR e le nuove politiche europee per la crescita\"",
+      "url": "https://www.governo.it/it/articolo/il-sottosegretario-mantovano-allevento-competitivit-paese-la-legacy-del-pnrr-e-le-nuove",
+      "excerpt": "Il Sottosegretario alla Presidenza del Consiglio, Alfredo Mantovano, è intervenuto, presso l'Opificio Italiacamp a Roma, all'evento \"Competitività Paese. La legacy del PNRR e le nuove politiche europee per la crescita\".",
+      "publishedAt": "2026-11-17T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Riunione del CIPESS del 17 novembre 2026",
+      "url": "https://www.governo.it/it/articolo/riunione-del-cipess-del-17-novembre-2026/33139",
+      "excerpt": "Nella seduta odierna, il Comitato interministeriale per la programmazione economica e lo sviluppo sostenibile (CIPESS), presieduto dal Ministro dell’Economia e delle Finanze e Vicepresidente del CIPESS, Giancarlo Giorgetti, e con la presenza del Segretario del CIPESS, Sottosegretario di Stato alla Presidenza del Consig",
+      "publishedAt": "2026-11-17T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "Visita al Comando Unità Forestali, Ambientali e Agroalimentari dell'Arma dei Carabinieri (CUFAA)",
       "url": "https://www.governo.it/it/articolo/visita-al-comando-unit-forestali-ambientali-e-agroalimentari-dellarma-dei-carabinieri-cufaa",
@@ -63,20 +77,6 @@
       "title": "Incontro con i leader delle forze di opposizione sugli allarmi bomba nelle scuole",
       "url": "https://www.governo.it/it/articolo/incontro-con-i-leader-delle-forze-di-opposizione-sugli-allarmi-bomba-nelle-scuole/33119",
       "excerpt": "Il Presidente del Consiglio, Giorgia Meloni, ha invitato a Palazzo Chigi i leader delle forze di opposizione. La riunione è stata l’occasione per condividere le informazioni disponibili e fare il punto sul complesso quadro degli allarmi e delle segnalazioni registrati negli ultimi giorni, anche in relazione alle attivi",
-      "publishedAt": "2026-11-12T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Riunione sull'Ucraina del \"Formato di Berlino\" e incontro con il Presidente Zelensky",
-      "url": "https://www.governo.it/it/articolo/riunione-sullucraina-del-formato-di-berlino-e-incontro-con-il-presidente-zelensky/33105",
-      "excerpt": "Il Presidente del Consiglio, Giorgia Meloni, ha partecipato oggi a Dublino, a margine del Vertice della Comunità politica europea, alla riunione sull'Ucraina del \"Formato di Berlino\". L'incontro è stata l’occasione per riaffermare il pieno sostegno all'Ucraina, anche alla luce dei recenti colloqui trilaterali di Abu Dh",
-      "publishedAt": "2026-11-12T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Riunione della Coalizione europea contro le droghe",
-      "url": "https://www.governo.it/it/articolo/riunione-della-coalizione-europea-contro-le-droghe/33102",
-      "excerpt": "A margine del Vertice della Comunità politica europea di Dublino, il Presidente del Consiglio, Giorgia Meloni, e il Presidente della Repubblica francese, Emmanuel Macron, hanno presieduto una nuova riunione dei leader della Coalizione europea contro le droghe (ECAD), iniziativa promossa congiuntamente da Italia e Franc",
       "publishedAt": "2026-11-12T00:00:00Z",
       "dateEvidence": "feed:published"
     }

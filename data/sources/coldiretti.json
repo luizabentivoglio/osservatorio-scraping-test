@@ -4,24 +4,24 @@
   "sourceId": "coldiretti",
   "originUrl": "https://www.coldiretti.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-18T01:23:35.983654Z",
+  "collectedAt": "2026-11-18T10:46:21.894950Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
+      "title": "Ue: da mercati contadini e fattorie sociali, multifunzionalità vale 14 miliardi",
+      "url": "https://www.coldiretti.it/economia/ue-da-mercati-contadini-e-fattorie-sociali-multifunzionalita-vale-14-miliardi",
+      "excerpt": "Serve riconoscimento nel prossimo bilancio dell’Unione con spazio riservato nella nuova Pac. La rete di Campagna Amica simbolo di prossimità",
+      "publishedAt": "2026-11-18T09:49:39Z",
+      "dateEvidence": "meta:article:published_time"
+    },
+    {
       "title": "Giornata Dieta Mediterranea, cibo sano negli ospedali con nuovi mercati contadini da Nord a Sud",
       "url": "https://www.coldiretti.it/economia/giornata-dieta-mediterranea-cibo-sano-negli-ospedali-con-nuovi-mercati-contadini-da-nord-a-sud",
       "excerpt": "Da Bari e Varese, nuovi appuntamenti. Si rafforza il patto tra medici e agricoltori per la prevenzione contro il cibo che ammala",
       "publishedAt": "2026-11-12T13:56:57Z",
-      "dateEvidence": "meta:article:published_time"
-    },
-    {
-      "title": "Lavoro: dalla farmacista agricoltrice bio all'apicoltrice archeologa. Ecco le Amiche della Terra che fanno rinascere i territori",
-      "url": "https://www.coldiretti.it/economia/lavoro-dalla-farmacista-agricoltrice-bio-allapicoltrice-archeologa-ecco-le-amiche-della-terra-che-fanno-rinascere-i-territori",
-      "excerpt": "Il premio di Donne Coldiretti valorizza le esperienze femminili che uniscono tradizione, sostenibilità e inclusione",
-      "publishedAt": "2026-11-11T09:33:40Z",
       "dateEvidence": "meta:article:published_time"
     },
     {
@@ -56,11 +56,11 @@
       "status": 200
     },
     {
-      "url": "https://www.coldiretti.it/economia/giornata-dieta-mediterranea-cibo-sano-negli-ospedali-con-nuovi-mercati-contadini-da-nord-a-sud",
+      "url": "https://www.coldiretti.it/economia/ue-da-mercati-contadini-e-fattorie-sociali-multifunzionalita-vale-14-miliardi",
       "status": 200
     },
     {
-      "url": "https://www.coldiretti.it/economia/lavoro-dalla-farmacista-agricoltrice-bio-allapicoltrice-archeologa-ecco-le-amiche-della-terra-che-fanno-rinascere-i-territori",
+      "url": "https://www.coldiretti.it/economia/giornata-dieta-mediterranea-cibo-sano-negli-ospedali-con-nuovi-mercati-contadini-da-nord-a-sud",
       "status": 200
     },
     {
@@ -85,5 +85,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.coldiretti.it/",
-  "durationSeconds": 8.67
+  "durationSeconds": 9.37
 }

@@ -4,12 +4,47 @@
   "sourceId": "il-notiziario",
   "originUrl": "https://www.ilnotiziario.net/",
   "configuredFeedUrl": "https://www.ilnotiziario.net/feed/",
-  "collectedAt": "2026-11-18T01:24:06.062513Z",
+  "collectedAt": "2026-11-18T10:46:55.925949Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.ilnotiziario.net/feed/",
   "items": [
+    {
+      "title": "A Lazzate il terno al Lotto (con 3 ambi) vale 137.500 euro per il fortunato vincitore",
+      "url": "https://www.ilnotiziario.net/a-lazzate-il-terno-al-lotto-con-3-ambi-vale-137-500-euro-per-il-fortunato-vincitore/",
+      "excerpt": "Un fortunato di Lazzate ha centrato il famoso “terno al Lotto” che, insieme a due ambi, gli hanno fruttato la bella...",
+      "publishedAt": "2026-11-18T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Scompenso cardiaco, novità all’ospedale Niguarda, il monitoraggio passa dallo smartphone",
+      "url": "https://www.ilnotiziario.net/scompenso-cardiaco-novita-allospedale-niguarda-il-monitoraggio-passa-dallo-smartphone/",
+      "excerpt": "Scompenso cardiaco, novità all’ospedale Niguarda, il monitoraggio passa dallo smartphone Una nuova applicazione per smartphone...",
+      "publishedAt": "2026-11-18T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Saronno, allo Zappa 11 aule prefabbricate per i lavori di riqualificazione",
+      "url": "https://www.ilnotiziario.net/saronno-allo-zappa-11-aule-prefabbricate-per-i-lavori-di-riqualificazione/",
+      "excerpt": "Saronno, allo Zappa 11 aule prefabbricate per i lavori di riqualificazione Undici aule prefabbricate negli spazi antistanti...",
+      "publishedAt": "2026-11-18T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Seregno, minacce a sanitari e agenti durante un soccorso, 38enne denunciato",
+      "url": "https://www.ilnotiziario.net/seregno-minacce-a-sanitari-e-agenti-durante-un-soccorso-38enne-denunciato/",
+      "excerpt": "Seregno, minacce a sanitari e agenti durante un soccorso, denunciato Momenti concitati nella serata di sabato a Seregno, dove la...",
+      "publishedAt": "2026-11-18T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "“La mia Maratona di New York iniziata a Capodanno a Lazzate”",
+      "url": "https://www.ilnotiziario.net/la-mia-maratona-di-new-york-iniziata-a-capodanno-a-lazzate/",
+      "excerpt": "Aveva ripreso a correre da poco, dopo anni in cui non lo faceva e ad un certo punto si è pure messo in testa di fare la maratona...",
+      "publishedAt": "2026-11-18T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "Rho: Fermato in via Olona con un coltello di 30 centimetri",
       "url": "https://www.ilnotiziario.net/rho-fermato-in-via-olona-con-un-coltello-di-30-centimetri/",
@@ -79,41 +114,6 @@
       "excerpt": "di Stefano Di Maria Anche la Polonia ha il suo medical drama: è ANESTESIA, rilasciata da Netflix, che però non si concentra sulle...",
       "publishedAt": "2026-11-16T00:00:00Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "“Vogliamo una ciclabile sulla Saronnese”, Eco ’90 Uboldo raccoglie 460 firme",
-      "url": "https://www.ilnotiziario.net/vogliamo-una-ciclabile-sulla-saronnese-eco-90-uboldo-raccoglie-460-firme/",
-      "excerpt": "Ben 460 firme per chiedere di realizzare una ciclabile sulla pericolosa Saronnese, dall’intersezione con via Spinella fino al...",
-      "publishedAt": "2026-11-16T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Uboldo: trovano la Posta ancora chiusa, ennesimo rinvio",
-      "url": "https://www.ilnotiziario.net/uboldo-trovano-la-posta-ancora-chiusa-ennesimo-rinvio/",
-      "excerpt": "A Uboldo, la posta è ancora chiusa. Doveva essere il giorno della riapertura, ma i cittadini che questa mattina si sono...",
-      "publishedAt": "2026-11-16T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Pero: tenta di recuperare le Carte Pokémon rubate, avvocato aggredito e rapinato",
-      "url": "https://www.ilnotiziario.net/pero-tenta-di-recuperare-le-carte-pokemon-rubate-avvocato-aggredito-e-rapinato/",
-      "excerpt": "Quello che doveva essere un incontro per recuperare un raro mazzo di carte Pokémon del valore stimato di circa 70mila euro si è...",
-      "publishedAt": "2026-11-16T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Cormano, raccolta firme per un consiglio aperto sul progetto del quartiere di Alessandro Manzoni",
-      "url": "https://www.ilnotiziario.net/cormano-raccolta-firme-progetto-quartiere-di-alessandro-manzoni/",
-      "excerpt": "Una raccolta firme per chiedere un consiglio comunale aperto con i cittadini, per parlare del progetto di riqualificazione urbana...",
-      "publishedAt": "2026-11-16T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Treni a rischio tra venerdì e sabato, indetto uno sciopero nazionale",
-      "url": "https://www.ilnotiziario.net/treni-a-rischio-tra-venerdi-e-sabato-indetto-uno-sciopero-nazionale/",
-      "excerpt": "Treni a rischio tra venerdì e sabato, indetto uno sciopero nazionale Un nuovo sciopero nazionale del trasporto ferroviario è in...",
-      "publishedAt": "2026-11-16T00:00:00Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -127,5 +127,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 1.72
+  "durationSeconds": 1.93
 }

@@ -4,22 +4,20 @@
   "sourceId": "pillole-economia",
   "originUrl": "https://pilloledieconomia.substack.com/",
   "configuredFeedUrl": "https://pilloledieconomia.substack.com/feed",
-  "collectedAt": "2026-11-18T01:24:33.437783Z",
-  "status": "ok",
-  "diagnosticCode": null,
-  "method": "rss",
-  "feedUrl": "https://pilloledieconomia.substack.com/feed",
+  "collectedAt": "2026-11-18T10:47:22.640011Z",
+  "status": "blocked",
+  "diagnosticCode": "access_restricted",
+  "method": "html",
+  "feedUrl": null,
   "items": [],
   "attempts": [
     {
       "url": "https://pilloledieconomia.substack.com/robots.txt",
-      "status": 200
-    },
-    {
-      "url": "https://pilloledieconomia.substack.com/feed",
-      "status": 200
+      "status": 403
     }
   ],
-  "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 0.88
+  "message": "HTTP 403: accesso limitato dalla fonte",
+  "httpStatus": 403,
+  "failedUrl": "https://pilloledieconomia.substack.com/robots.txt",
+  "durationSeconds": 0.07
 }
