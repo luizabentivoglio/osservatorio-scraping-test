@@ -4,7 +4,7 @@
   "sourceId": "greenpeace",
   "originUrl": "https://www.greenpeace.org/italy/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-17T16:31:11.389455Z",
+  "collectedAt": "2026-11-18T01:24:00.998498Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -14,14 +14,14 @@
       "title": "“Meloni, siamo alla canna del gas”: il nostro mega striscione sul Gazometro di Roma - Greenpeace Italia",
       "url": "https://www.greenpeace.org/italy/storia/32223/meloni-siamo-alla-canna-del-gas-il-nostro-mega-striscione-sul-gazometro-di-roma/",
       "excerpt": "Attivisti e attiviste di Greenpeace Italia sono entrati in azione per denunciare l'aumento del costo dell'energia e della vita.",
-      "publishedAt": "2026-11-14T15:52:40Z",
+      "publishedAt": "2026-11-17T09:22:37Z",
       "dateEvidence": "html:publication-time"
     },
     {
       "title": "Google ha abbattuto 400mila alberi in Finlandia per costruire due data center - Greenpeace Italia",
       "url": "https://www.greenpeace.org/italy/storia/32167/google-ha-abbattuto-400mila-alberi-in-finlandia-per-costruire-due-data-center/",
       "excerpt": "In Finlandia Google ha abbattuto 400mila alberi per fare spazio a due data center. E c’è di più: non aveva neanche i permessi per farlo.",
-      "publishedAt": "2026-11-06T09:25:48Z",
+      "publishedAt": "2026-11-17T09:22:37Z",
       "dateEvidence": "html:publication-time"
     }
   ],
@@ -79,5 +79,5 @@
   "candidateCount": 12,
   "datedCount": 5,
   "listingUrl": "https://www.greenpeace.org/italy/",
-  "durationSeconds": 4.67
+  "durationSeconds": 4.66
 }

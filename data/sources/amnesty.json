@@ -4,12 +4,19 @@
   "sourceId": "amnesty",
   "originUrl": "https://www.amnesty.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-17T16:30:40.035573Z",
+  "collectedAt": "2026-11-18T01:23:30.263777Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "Italia: approvata legge che introduce definizione repressiva di antisemitismo",
+      "url": "https://www.amnesty.it/italia-approvata-legge-che-introduce-definizione-repressiva-di-antisemitismo/",
+      "excerpt": "Una giornata buia per la libertà d’espressione: resa giuridicamente vincolante la definizione operativa di antisemitismo dell’Ihra.",
+      "publishedAt": "2026-11-17T18:38:26Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
     {
       "title": "“Centri per il rimpatrio” in Ruanda: l’Ue replica gli errori del passato",
       "url": "https://www.amnesty.it/centri-per-il-ritorno-in-ruanda-lue-replica-gli-errori-del-passato/",
@@ -23,13 +30,6 @@
       "excerpt": "Nonostante alcuni miglioramenti introdotti da Amazon, i lavoratori migranti in Arabia Saudita restano vulnerabili allo sfruttamento.",
       "publishedAt": "2026-11-16T06:00:51Z",
       "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Il massacro di Abiemnom: inazione e impunità in Sud Sudan",
-      "url": "https://www.amnesty.it/il-massacro-abiemnom-inazione-impunita-sud-sudan/",
-      "excerpt": "La mattina del 1° marzo 2026 la città di Abiemnom in Sud Sudan è stata attaccata, un massacro di oltre 200 persone.",
-      "publishedAt": "2026-11-12T07:00:44Z",
-      "dateEvidence": "jsonld:datePublished"
     }
   ],
   "attempts": [
@@ -42,7 +42,7 @@
       "status": 200
     },
     {
-      "url": "https://www.amnesty.it/il-massacro-abiemnom-inazione-impunita-sud-sudan/",
+      "url": "https://www.amnesty.it/italia-approvata-legge-che-introduce-definizione-repressiva-di-antisemitismo/",
       "status": 200
     },
     {
@@ -90,5 +90,5 @@
   "candidateCount": 12,
   "datedCount": 3,
   "listingUrl": "https://www.amnesty.it/",
-  "durationSeconds": 6.08
+  "durationSeconds": 5.97
 }

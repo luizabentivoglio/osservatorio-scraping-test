@@ -4,16 +4,156 @@
   "sourceId": "la-stampa",
   "originUrl": "https://www.lastampa.it/",
   "configuredFeedUrl": "https://www.lastampa.it/rss/copertina.xml",
-  "collectedAt": "2026-11-17T16:31:20.787386Z",
+  "collectedAt": "2026-11-18T01:24:10.132544Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.lastampa.it/rss/copertina.xml",
   "items": [
     {
+      "title": "Trump verso Shenzen avverte Xi e Putin: “Parliamo di Ucraina”",
+      "url": "https://www.lastampa.it/esteri/2026/11/18/news/trump_xi_e_putin_shenzen_guerra_ucraina-15801149/",
+      "excerpt": "Oggi al via i lavori dell’Apec in Cina, Donald rilancia l’asse asiatico. Pechino punta su libero scambio e intese con l’Occidente",
+      "publishedAt": "2026-11-18T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "La parabola del condono edilizio",
+      "url": "https://www.lastampa.it/rubriche/il-taccuino/2026/11/18/news/la_parabola_del_condono_edilizio-15801132/",
+      "excerpt": "Adesso tutti diranno che non è vero, che ogni volta si tira fuori il condono per mettere in difficoltà il governo. Eppure, alzi la mano chi non ne ha mai proposto uno. Se proprio non si ...",
+      "publishedAt": "2026-11-18T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "L’ombra di Sinner sulle Atp Finals",
+      "url": "https://www.lastampa.it/sport/speciali/atp-finals-2026/2026/11/18/news/ombra_di_sinner_atp_finals-15801281/",
+      "excerpt": "Cobolli torna in campo stasera contro Tiafoe, deve riscattare il ko e scrollarsi di dosso l’effetto Jannik",
+      "publishedAt": "2026-11-18T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Schiavone: “Cobolli, vivi con orgoglio l’attenzione. Peccato che il pubblico lo abbia mollato”",
+      "url": "https://www.lastampa.it/sport/speciali/atp-finals-2026/2026/11/18/news/francesco_schiavone_cobolli_atp_finals_intervista-15801241/",
+      "excerpt": "La campionessa, oggi coach e voce tv: “Con Medvedev ha raccolto meno di quel che poteva”",
+      "publishedAt": "2026-11-18T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Toro, anche Junior applaude Perri: “Degno della Seleçao”",
+      "url": "https://www.lastampa.it/sport/2026/11/18/news/toro_anche_junior_applaude_perri_degno_della_selecao-15801259/",
+      "excerpt": "L’ex granata sull’esordio del portiere brasiliano in Nazionale: «Serviranno altre partite per valutarlo, ma il potenziale c’è»",
+      "publishedAt": "2026-11-18T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Mosca: “Soldati francesi combattono in Ucraina”. Parigi: “Assurdo”",
+      "url": "https://www.lastampa.it/esteri/2026/11/17/news/soldati_francesi_ucraina_russia-15800937/",
+      "excerpt": "La Russia accusa: «Non si tratta più di assistenza ma di partecipazione diretta agli scontri. E sono presenti anche militari di altre nazionalità»",
+      "publishedAt": "2026-11-17T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Schiaffo a Putin, missili ucraini colpiscono il ponte di Crimea: Zelensky esulta, l'Ue appoggia Kiev",
+      "url": "https://www.lastampa.it/esteri/2026/11/18/diretta/guerra_russia_ucraina_news_oggi-15801319/",
+      "excerpt": "Danneggiata una campata stradale di 227 metri e compromesso il traffico marittimo sottostante. Mosca minaccia i Paesi che inviano militari in Ucraina, Parigi replica. Gli Usa chiedono all'Europa di farsi carico degli aiuti invernali",
+      "publishedAt": "2026-11-17T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Bufera sul festival russo a Roma, il Barberini ritira la concessione della sala",
+      "url": "https://www.lastampa.it/politica/2026/11/17/news/festival_cinema_russo_roma_giuli_polemica-15800573/",
+      "excerpt": "La kermesse doveva tenersi dal 19 al 23 novembre 2026",
+      "publishedAt": "2026-11-17T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Manovra, assalto da 7.000 emendamenti: è il numero più alto della legislatura",
+      "url": "https://www.lastampa.it/economia/2026/11/17/news/manovra_assalto_da_7000_emendamenti_e_il_numero_piu_alto_della_legislatura-15801056/",
+      "excerpt": "Pensioni, sanità, scuola e sicurezza le priorità del vertice di maggioranza: modifiche solo con coperture certe. 2.000 emendamenti dalla maggioranza.Salvini rilancia Quota 64 dal 2027, le opposizioni promettono battaglia sul condono edilizio",
+      "publishedAt": "2026-11-17T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Come funziona il nuovo condono edilizio, tutti gli interventi possibili",
+      "url": "https://www.lastampa.it/economia/2026/11/17/news/come_funziona_il_nuovo_condono_edilizio_ecco_gli_interventi_possibili-15800468/",
+      "excerpt": "Tra gli emendamenti di Fratelli d’Italia alla legge di bilancio torna l’ipotesi di sanatoria per le lievi irregolarità, esclusi gli abusi e gli immobili incompatibili con i vincoli di tutela",
+      "publishedAt": "2026-11-17T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Dombrovskis: “L’Italia può uscire dalla procedura per deficit in primavera”. Economia Ue meglio del previsto",
+      "url": "https://www.lastampa.it/economia/2026/11/17/news/economia_ue_debito_commissione_italia-15800660/",
+      "excerpt": "Le previsioni della Commissione: crescita Ue all’1,4% quest’anno, in Italia raggiungerà l’1%. Atteso un picco dell’inflazione oltre il 4% nei prossimi mesi.",
+      "publishedAt": "2026-11-17T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Social vietati agli under 13, il governo presenta un emendamento al decreto sicurezza",
+      "url": "https://www.lastampa.it/politica/2026/11/17/news/social_vietati_agli_under_13_italia_quando-15800974/",
+      "excerpt": "Per i 13-16enni solo account legati ai genitori. La maggioranza dovrebbe depositare domani alla Camera la norma elaborata con Palazzo Chigi: l’obiettivo è la legge entro fine novembre, senza attendere il regolamento europeo",
+      "publishedAt": "2026-11-17T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Ddl antisemitismo, la Camera approva: è legge. No di M5s e Avs, nel Pd strappo dei riformisti",
+      "url": "https://www.lastampa.it/politica/2026/11/17/news/ddl-antisemitismo-approvato-camera-legge-ihra-15801168/",
+      "excerpt": "Via libera con 147 sì, 93 no e 5 astenuti. Adotta la definizione Ihra",
+      "publishedAt": "2026-11-17T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Mostra su Rauti alla Camera, il Pd: “Vergogna”. Montecitorio: “Via i simboli fascisti”",
+      "url": "https://www.lastampa.it/politica/2026/11/17/news/mostra_rauti_camera_simboli_fascisti-15801308/",
+      "excerpt": "Per i cento anni dalla nascita del leader della destra, croci celtiche e foto di Mussolini nell’esposizione di vicolo Valdina. I dem attaccano il patrocinio del Ministero della Cultura, e la Camera chiede agli organizzatori di togliere i richiami al fascismo",
+      "publishedAt": "2026-11-17T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Le limitazioni agli Euro 5 in Pianura Padana rinviate di un anno",
+      "url": "https://www.lastampa.it/cronaca/2026/11/17/news/rinvio_limitazioni_euro_5_val_padana_piemonte-15801186/",
+      "excerpt": "Il decreto legge appena approvato riguarda il Piemonte, la Lombardia, il Veneto e l'Emilia-Romagna. Fino al 1° ottobre 2027 le quattro Regioni non saranno tenute (ma potranno farlo se vogliono) a porre ostacoli ai veicoli con quella motorizzazione",
+      "publishedAt": "2026-11-17T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Zverev non si ferma, battuto in due set anche Shelton: è qualificato per le semifinali",
+      "url": "https://www.lastampa.it/sport/speciali/atp-finals-2026/2026/11/17/news/zverev_non_si_ferma_battuto_in_due_set_anche_shelton_e_qualificato_per_le_semifinali-15801284/",
+      "excerpt": "Il numero uno del mondo: «Felice di averlo sconfitto, è di un livello molto alto»",
+      "publishedAt": "2026-11-17T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Arthur Fils batte Rafael Jodar, grande rimonta del francese",
+      "url": "https://www.lastampa.it/sport/speciali/atp-finals-2026/2026/11/17/news/arthur_fils_batte_rafael_jodar_rimonta_del_francese-15800855/",
+      "excerpt": "Torino, vittoria conquistata in un’ora e 51 minuti",
+      "publishedAt": "2026-11-17T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Usa: problemi a Gmail, Apple Pay e iCloud. In tilt anche la rete interna della Nsa",
+      "url": "https://www.lastampa.it/esteri/2026/11/17/news/usa_national_security_agency_guasto_sistema_comunicazione_interna-15800934/",
+      "excerpt": "Segnalato anche un attacco informatico ai siti di almeno 178 organizzazioni, tra cui Cnn, Bbc e Zoom. Non risultano collegamenti accertati tra i diversi episodi. Appe conferma i disservizi. Trump: «Cose che capitano»",
+      "publishedAt": "2026-11-17T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Nvidia, il board boccia il ritorno di Huang. La Sec indaga su false comunicazioni agli investitori",
+      "url": "https://www.lastampa.it/esteri/2026/11/17/news/nvidia_ricavi_record_huang_reintegro-15801314/",
+      "excerpt": "La Sec americana apre un'indagine per false comunicazioni sociali. Il presidente Jones esclude il reintegro di Huang, mentre Nvidia registra incassi record",
+      "publishedAt": "2026-11-17T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
       "title": "Novantenne morta dopo lo scippo della borsetta a Torino",
       "url": "https://www.lastampa.it/torino/2026/11/17/news/in_bici_avvicina_una_novantenne_e_la_scippa_della_borsetta_la_donna_cade_ed_e_grave-15800794/",
-      "excerpt": "L’aggressione da parte di un uomo in bicicletta nel quartiere San Donato in via Schina",
+      "excerpt": "L’aggressione da parte di un uomo in bicicletta nel quartiere San Donato in via Schina: la donna stava camminando sul marciapiede",
+      "publishedAt": "2026-11-17T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Bergamo, soffoca la moglie malata e chiama i carabinieri: “È stata lei a chiedermi di ucciderla”",
+      "url": "https://www.lastampa.it/cronaca/2026/11/17/news/donna_soffocata_marito_bossico_bergamo-15801145/",
+      "excerpt": "Femminicidio a Bossico, nel Bergamasco. La donna aveva 61 anni ed era affetta da una malattia degenerativa. Il marito, 63 anni, si è consegnato ai militari e ha confessato",
       "publishedAt": "2026-11-17T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -32,34 +172,6 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Sardegna, bufera sulla fiction Rai che racconta il rapimento di Farouk Kassam: “Un insulto”",
-      "url": "https://www.lastampa.it/spettacoli/2026/11/17/news/rapimento_farouk_kassam_polemica_mamuthones_rai_1_fiction-15800833/",
-      "excerpt": "La Pro Loco: «La dignità di Mamoiada, dei Mamuthones e degli Issohadores non sono in vendita né sacrificabili per esigenze di copione»",
-      "publishedAt": "2026-11-17T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Terremoto su Deutsche Bank, maxi-inchiesta con 15 milioni di file segreti: da Epstein all’Italia, cosa sta uscendo",
-      "url": "https://www.lastampa.it/economia/2026/11/17/news/deutsche_bank_inchiesta_documenti_epstein_trump_italia-15800693/",
-      "excerpt": "Oltre 15 milioni di documenti riservati svelati da circa 50 testate internazionali: falle dei controlli e oligarchi russi. La replica dell’istituto: file vecchi di anni",
-      "publishedAt": "2026-11-17T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "“Così è stato ucciso Jeffrey Epstein”. Ecco tutta la nuova analisi biomedica forense",
-      "url": "https://www.lastampa.it/esteri/2026/11/17/news/epstein_e_stato_ucciso_ecco_la_nuova_analisi_biomedica_forense_le_foto_e_i_segni_di_aggressione-15800426/",
-      "excerpt": "Il professor Michael Freeman, una delle maggiori autorità, ha presentato agli esperti forensi a Londra i suoi ritrovamenti. E un carteggio tra procuratori a New York parlò di “assassinio” nel 2020, non di “morte”. Ma fu insabbiato durante l’amministrazione Trump",
-      "publishedAt": "2026-11-17T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Revolut, spariti 42 milioni. Quei 22 clienti sospetti che hanno fatto scattare le indagini",
-      "url": "https://www.lastampa.it/economia/2026/11/17/news/inchiesta_revolut_omesse_segnalazioni_e_fondi_dirottati-15800321/",
-      "excerpt": "Calamucci di Equalize tra i 22 clienti sospetti. Accertamenti della Gdf sui flussi finanziari",
-      "publishedAt": "2026-11-17T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
       "title": "Mattarella inaugura l’anno accademico alla Cattolica: “Il compito dei giovani è cambiare il mondo”",
       "url": "https://www.lastampa.it/politica/2026/11/17/news/mattarella_inaugurazione_anno_accademico_universita_cattolica_milano-15800710/",
       "excerpt": "Giornata milanese per il presidente della Repubblica Sergio Mattarella in città per due appuntamenti: l’inaugurazione dell’anno accademico dell'Università Cattolica e la visita ...",
@@ -67,86 +179,9 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Come funziona il nuovo condono edilizio, tutti gli interventi possibili",
-      "url": "https://www.lastampa.it/economia/2026/11/17/news/come_funziona_il_nuovo_condono_edilizio_ecco_gli_interventi_possibili-15800468/",
-      "excerpt": "Tra gli emendamenti di Fratelli d’Italia alla legge di bilancio torna l’ipotesi di sanatoria per le lievi irregolarità, esclusi gli abusi e gli immobili incompatibili con i vincoli di tutela",
-      "publishedAt": "2026-11-17T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Scontro M5s-Iv sugli extraprofitti, tensione al tavolo delle opposizioni sulla manovra",
-      "url": "https://www.lastampa.it/politica/2026/11/17/news/scontro_m5s-iv_sugli_extraprofitti_tensione_al_tavolo_delle_opposizioni_sulla_manovra-15800774/",
-      "excerpt": "I 5 stelle interrompono il confronto sugli emendamenti comuni alla legge di bilancio, la lite sulle coperture. Ma poi i renziani danno il via libera: “Sì a un accordo su un pacchetto condiviso”",
-      "publishedAt": "2026-11-17T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Dombrovskis: “L’Italia può uscire dalla procedura per deficit in primavera”. Economia Ue meglio del previsto",
-      "url": "https://www.lastampa.it/economia/2026/11/17/news/economia_ue_debito_commissione_italia-15800660/",
-      "excerpt": "Le previsioni della Commissione: crescita Ue all’1,4% quest’anno, in Italia raggiungerà l’1%. Atteso un picco dell’inflazione oltre il 4% nei prossimi mesi.",
-      "publishedAt": "2026-11-17T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Pensioni, aumenti anche per gli assegni fra 2500 e 3600 euro: cosa cambia e chi ci guadagna",
-      "url": "https://www.lastampa.it/economia/2026/11/17/news/pensioni-aumenti-rivalutazione-inflazione-2500-euro-manovra-2027-15800257/",
-      "excerpt": "L’Ocse: in Italia il reddito reale pro-capite scende dell’1%",
-      "publishedAt": "2026-11-17T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "L’Ucraina abbatte un’arcata del Ponte simbolo della Crimea. Mosca ne colpisce due a Kiev",
-      "url": "https://www.lastampa.it/esteri/2026/11/17/diretta/guerra_russia_ucraina_news_oggi-15800353/",
-      "excerpt": "Kallas: «Per iniziare i colloqui con la Russia, prima il cessate il fuoco». L’Ue: altre 140 sanzioni alla Russia",
-      "publishedAt": "2026-11-17T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
       "title": "Il Papa: “Non ho firmato le dimissioni anticipate. Dopo il voto di Midterm mi aspetto meno guerre”",
       "url": "https://www.lastampa.it/cronaca/2026/11/17/news/papa_leone_sto_bene_non_ho_firmato_la_lettera_di_dimissioni_anticipate-15800513/",
       "excerpt": "Leone XIV sul volo di ritorno dal Sudamerica e l’ipotesi della rinuncia per motivi di salute: “Eventualmente lo farò, ma per adesso non ne vedo il bisogno. Non faccio commenti politici ma servono meno divisioni e meno polemica”",
-      "publishedAt": "2026-11-17T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Bufera sul festival russo a Roma, il Barberini ritira la concessione della sala",
-      "url": "https://www.lastampa.it/politica/2026/11/17/news/festival_cinema_russo_roma_giuli_polemica-15800573/",
-      "excerpt": "La kermesse doveva tenersi dal 19 al 23 novembre 2026",
-      "publishedAt": "2026-11-17T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Il boom dell’azienda emiliana che produce kit per le prime 72 ore di guerra ibrida. Cosa contengono",
-      "url": "https://www.lastampa.it/cronaca/2026/11/17/news/kit_emergenza_72_ore_azienda_emiliana_cosa_contengono-15800409/",
-      "excerpt": "Torcia, radio, altoparlante e powerbank in un solo dispositivo. Il grosso della domanda delle ultime settimane arriva dal Regno Unito",
-      "publishedAt": "2026-11-17T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Prima vince 2 milioni al Gratta e Vinci, poi lo schianto in auto: la storia a lieto fine di Michele",
-      "url": "https://www.lastampa.it/cronaca/2026/11/17/news/prima_vince_2_milioni_al_gratta_e_vinci_poi_lo_schianto_in_auto_la_storia_a_lieto_fine_di_michele-15800664/",
-      "excerpt": "Lo studente dell'istituto alberghiero Panzini di Senigallia lavora dopo la scuola nel bar dove ha grattato il tagliando",
-      "publishedAt": "2026-11-17T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "L’aria di Torino è tra le peggiori d’Europa: “1000 morti premature ogni anno”",
-      "url": "https://www.lastampa.it/torino/2026/11/17/news/a_torino_la_peggiore_aria_d_europa_ecco_l_appello_per_una_zona_zero-smog-15800202/",
-      "excerpt": "Il report di Clean Cities. Appello per una zona zero-smog, il Comune: «Trasformiamo il modello di mobilità»",
-      "publishedAt": "2026-11-17T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Insulta il compagno disabile sulla chat di classe, la famiglia del bullo deve risarcire 4.500 euro",
-      "url": "https://www.lastampa.it/cronaca/2026/11/17/news/insulta_il_compagno_disabile_sulla_chat_di_classe_la_famiglia_del_bullo_risarcisce_4500_euro-15800383/",
-      "excerpt": "Vicenza, la vicenda raccontata dalla polizia durante la campagna per le scuole “Una vita da social”",
-      "publishedAt": "2026-11-17T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Da Zendaya a Sydney Sweeney: chi sarà la nuova Bond girl al fianco di Robert Pattinson?",
-      "url": "https://www.lastampa.it/spettacoli/2026/11/17/news/bond_girl_chi_sara_robert_pattinson_007-15800623/",
-      "excerpt": "Circolano le prime indiscrezioni sul nuovo volto femminile dalla saga di 007. Tra le favorite dai fan c'è Margaret Qualley",
       "publishedAt": "2026-11-17T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -179,30 +214,16 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Arthur Fils batte Rafael Jodar, grande rimonta del francese",
-      "url": "https://www.lastampa.it/sport/speciali/atp-finals-2026/2026/11/17/news/arthur_fils_batte_rafael_jodar_rimonta_del_francese-15800855/",
-      "excerpt": "Torino, vittoria conquistata in un’ora e 51 minuti",
+      "title": "Da Zendaya a Sydney Sweeney: chi sarà la nuova Bond girl al fianco di Robert Pattinson?",
+      "url": "https://www.lastampa.it/spettacoli/2026/11/17/news/bond_girl_chi_sara_robert_pattinson_007-15800623/",
+      "excerpt": "Circolano le prime indiscrezioni sul nuovo volto femminile dalla saga di 007. Tra le favorite dai fan c'è Margaret Qualley",
       "publishedAt": "2026-11-17T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Sinner saluta la città delle Nitto Atp Finals: “Grazie mille, Torino!”",
-      "url": "https://www.lastampa.it/sport/speciali/atp-finals-2026/2026/11/17/news/tennis_jannik_sinner_torino_atp_finals-15800232/",
-      "excerpt": "Assente dalla competizione per problemi fisici, il campione conferma il feeling con la città presenziando a eventi e offrendosi all’incontro con i tifosi",
-      "publishedAt": "2026-11-17T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "L'ex arbitro Bernardes: \"Il mio rimpianto? Aver fatto giocare Nadal con i pantaloncini al contrario\"",
-      "url": "https://www.lastampa.it/sport/speciali/atp-finals-2026/2026/11/17/video/arbitro_tennis_carlos_bernardes_rimpianto_nadal_pantaloncini_contrario-15800806/",
-      "excerpt": "Carlos Bernardes, storico arbitro internazionale di tennis, con oltre 8.000 incontri diretti, racconta gli episodi più curiosi e difficili della sua carriera, ospite de La Stampa alla Lounge Lavazza. Tra i ricordi che ancora lo fanno riflettere c'è quello di Rafael Nadal costretto a giocare con i pantaloncini al contra",
-      "publishedAt": "2026-11-17T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Tutto il food delle Atp: parata di chef stellati, Asti Rosé, pollo, pizza e porchetta al Village",
-      "url": "https://www.lastampa.it/torino/2026/11/17/news/cibo_atp_finals_torino_chef_stellati_asti_rose_village-15800596/",
-      "excerpt": "Gastronomia, vino e mixology parte dell’offerta del torneo: Lavazza punta sugli eventi di alta cucina, l’Asti sulla mixology, Da Vittorio re della Gourmet Restaurant. E nella Food Court cibo di strada, birra e caffè",
+      "title": "Il missile ucraino punta il Ponte di Crimea: le immagini in soggettiva fino allo schianto",
+      "url": "https://www.lastampa.it/esteri/2026/11/17/video/ponte_crimea_kerch_missile_ucraino_attacco-15800619/",
+      "excerpt": "Nel video pubblicato su X da Anton Gerashchenko, ex consigliere del ministero dell’Interno ucraino, l’arcata del ponte di Kerch emerge dal buio e si avvicina rapidamente. Secondo Gerashchenko, le immagini mostrano la traiettoria di un missile da crociera ucraino FP-5 “Flamingo” negli istanti che precedono l’impatto. Il",
       "publishedAt": "2026-11-17T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -214,23 +235,16 @@
       "dateEvidence": "feed:published"
     },
     {
+      "title": "\"Non alzi la voce\": Bandecchi risponde al capogruppo Pd e poi gli mostra il dito medio",
+      "url": "https://www.lastampa.it/politica/2026/11/17/video/terni_bandecchi_dito_medio_spinelli_consiglio_comunale-15801085/",
+      "excerpt": "Il sindaco di Terni, Stefano Bandecchi, ha mostrato il dito medio al capogruppo del Pd Pierluigi Spinelli durante una seduta del Consiglio comunale. Il gesto, ripreso dalle telecamere dell'Aula di Palazzo Spada è arrivato nel corso di un acceso confronto tra i due sull'ordine dei lavori. L'episodio ha scatenato una nuo",
+      "publishedAt": "2026-11-17T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
       "title": "Brexit, perché il Regno Unito ci vuole ripensare",
       "url": "https://www.lastampa.it/esteri/2026/11/17/news/brexit_burnham_johnson_lagarde_blair_cameron_uk_inghilterra-15800523/",
       "excerpt": "Tutte le ragioni strategiche dietro alla nuova priorità del premier Andy Burnham",
-      "publishedAt": "2026-11-17T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Vigilanza Rai, si riaccende lo scontro. Fontana e La Russa pronti a nominare i nuovi commissari",
-      "url": "https://www.lastampa.it/politica/2026/11/17/news/vigilanza_rai_si_riaccende_lo_scontro_fontana_e_la_russa_pronti_a_nominare_i_nuovi_commissari-15800482/",
-      "excerpt": "I partiti di opposizione si sono rifiutati di indicare i propri rappresentanti e avvertono: “Se forzano, ci dimetteremo di nuovo”",
-      "publishedAt": "2026-11-17T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Corsa contro il tempo per il Melonellum, le incognite sul voto",
-      "url": "https://www.lastampa.it/politica/2026/11/17/news/corsa_contro_il_tempo_per_il_melonellum_le_incognite_sul_voto-15800207/",
-      "excerpt": "La Consulta deve esprimersi sulla legge elettorale",
       "publishedAt": "2026-11-17T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -242,41 +256,6 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Tutti pazzi per l’uscita di GTA VI: ecco che cosa c’è da sapere",
-      "url": "https://www.lastampa.it/cronaca/2026/11/17/news/gta_6_uscita_19_novembre_preordini_ferie_contratti_coppia-15800715/",
-      "excerpt": "Dopo 13 anni di attesa, il sesto capitolo sarà disponibile dalla mezzanotte di giovedì 19 novembre. Secondo le stime di Sensor Tower le prenotazioni avrebbero raggiunto quasi 15 milioni di copie",
-      "publishedAt": "2026-11-17T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "È morto Ray Tintori, filmmaker e regista di video musicali: aveva 43 anni",
-      "url": "https://www.lastampa.it/spettacoli/2026/11/17/news/ray_tintori_morto_regista_video_musicali-15800826/",
-      "excerpt": "Tra i lavori più importanti della sua carriera figura \"Re della terra selvaggia\", film del 2012 diretto da Benh Zeitlin e candidato a quattro premi Oscar",
-      "publishedAt": "2026-11-17T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Sorpasso Prosecco su Champagne in Francia, la nostra bolla spopola Oltralpe. E Lollobrigida sorride",
-      "url": "https://www.lastampa.it/economia/2026/11/17/news/prosecco_sorpasso_champagne_in_francia_lollobrigida_sorriso_gap_francesi_superato-15800744/",
-      "excerpt": "Il superamento nelle vendite al supermercato, ma cresce anche nei ristoranti. Il ministro dell’Agricoltura: «I francesi hanno sempre saputo vendere meglio di noi negli ultimi anni. Ora non solo abbiamo recuperato questo gap, ma li superiamo». Parigi terzo mercato per il Prosecco Doc",
-      "publishedAt": "2026-11-17T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Camila Giorgi, il grande ritorno dopo lo stop di tre anni e la maternità: “Ora nuove sfide”",
-      "url": "https://www.lastampa.it/sport/2026/11/17/news/tennis_camila_giorgi_ritorno_maternita_nuove_sfide-15800616/",
-      "excerpt": "Sarà allenata dal marito Andreas Pasutti e la preparazione atletica è affidata Panichi, già nello staff di Djokovic e Sinner",
-      "publishedAt": "2026-11-17T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Opa su Avio, la finlandese Iceye mette sul piatto oltre 2 miliardi",
-      "url": "https://www.lastampa.it/economia/2026/11/17/news/avio_opa_iceye_2_miliardi-15800478/",
-      "excerpt": "L’obiettivo è il delisting della società aerospaziale italiana e la nascita di un “campione europeo”. Assicurati impegni, un investimento da un miliardo di euro e posti di lavoro",
-      "publishedAt": "2026-11-17T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
       "title": "Ballando, Milly Carlucci dopo lo scontro tra d'Urso e Mariotto: \"Vogliamo bene a tutti e due\"",
       "url": "https://www.lastampa.it/spettacoli/2026/11/17/video/ballando_milly_carlucci_dopo_lo_scontro_tra_durso_e_mariotto_vogliamo_bene_a_tutti_e_due-15800589/",
       "excerpt": "Nella puntata del 14 novembre di Ballando con le stelle, il giurato Guillermo Mariotto ha spruzzato del profumo verso Barbara d’Urso, insinuando che ci fosse cattivo odore. La concorrente ha reagito in diretta, rivolgendosi alla conduttrice: “O me o lui, Milly”. Dopo le critiche sui social per il suo mancato intervento",
@@ -284,9 +263,30 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Il missile ucraino punta il Ponte di Crimea: le immagini in soggettiva fino allo schianto",
-      "url": "https://www.lastampa.it/esteri/2026/11/17/video/ponte_crimea_kerch_missile_ucraino_attacco-15800619/",
-      "excerpt": "Nel video pubblicato su X da Anton Gerashchenko, ex consigliere del ministero dell’Interno ucraino, l’arcata del ponte di Kerch emerge dal buio e si avvicina rapidamente. Secondo Gerashchenko, le immagini mostrano la traiettoria di un missile da crociera ucraino FP-5 “Flamingo” negli istanti che precedono l’impatto. Il",
+      "title": "Sigaretta in bocca e un salotto sulle piste da sci: il nuovo paradiso delle vacanze di Kim Jong Un",
+      "url": "https://www.lastampa.it/esteri/2026/11/17/video/kim_jong_un_corea_del_nord_sci_figlia-15800920/",
+      "excerpt": "Kim Jong Un seduto su una poltrona in mezzo alla neve mentre osserva la figlia Ju Ae sciare, poi un tour tra camere d'albergo, ristoranti e strutture turistiche. Sono le immagini diffuse dalla televisione di Stato nordcoreana per raccontare la visita del leader alla zona turistica di Samjiyon, vicino al confine con la ",
+      "publishedAt": "2026-11-17T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Giacca, cravatta e 20 flessioni: perché l'ambasciatore Waltz fa piegamenti con i Marines a Beirut",
+      "url": "https://www.lastampa.it/esteri/2026/11/17/video/mike_waltz_20_flessioni_marines_attentato_beirut-15801138/",
+      "excerpt": "In giacca e cravatta, si mette a terra insieme a un gruppo di Marines e comincia a fare piegamenti sulle braccia. È il gesto con cui Mike Waltz, ambasciatore degli Stati Uniti all'Onu, ha voluto ricordare i 241 militari americani uccisi nell'attentato alla caserma dei Marines di Beirut, in Libano, il 23 ottobre 1983. N",
+      "publishedAt": "2026-11-17T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Addio a Freeman Johnson, il più anziano testimone di Pearl Harbor",
+      "url": "https://www.lastampa.it/esteri/2026/11/17/news/freeman_johnson_pearl_harbor_america_usa_guerra_storia-15800474/",
+      "excerpt": "Faceva il fuochista sulla nave St. Louis durante l’attacco dei giapponesi alle Hawaii, che cambiò il corso della Seconda guerra mondiale",
+      "publishedAt": "2026-11-17T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Stefano De Martino: “Sarà un Sanremo dallo spirito punk, più ospiti e meno co-conduttori”",
+      "url": "https://www.lastampa.it/spettacoli/2026/11/17/news/stefano_de_martino_sara_un_sanremo_dallo_spirito_punk_piu_ospiti_e_meno_co-conduttori-15800116/",
+      "excerpt": "Le anticipazioni alla Milano Music Week: «Torna la sigla di Pippo Caruso»",
       "publishedAt": "2026-11-17T00:00:00Z",
       "dateEvidence": "feed:published"
     }
@@ -302,5 +302,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 0.68
+  "durationSeconds": 0.81
 }
