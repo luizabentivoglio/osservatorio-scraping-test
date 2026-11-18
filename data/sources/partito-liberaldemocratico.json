@@ -4,27 +4,12 @@
   "sourceId": "partito-liberaldemocratico",
   "originUrl": "https://partitoliberaldemocratico.com/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-18T10:47:16.274694Z",
+  "collectedAt": "2026-11-18T22:32:53.238536Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
-  "items": [
-    {
-      "title": "NON CI FARETE CAMBIARE IDEA E NON CI FARETE TACERE. Domani Luigi Marattin sarà a",
-      "url": "https://partitoliberaldemocratico.com/non-ci-farete-cambiare-idea-e-non-ci-farete-tacere-domani-luigi-marattin-sara-a/",
-      "excerpt": "NON CI FARETE CAMBIARE IDEA E NON CI FARETE TACERE. Domani Luigi Marattin sarà a Partito Liberaldemocratico",
-      "publishedAt": "2026-11-04T16:55:47Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Il problema dei redditi bassi in Italia non dipende dall’evasione fiscale, ma da",
-      "url": "https://partitoliberaldemocratico.com/il-problema-dei-redditi-bassi-in-italia-non-dipende-dallevasione-fiscale-ma-da/",
-      "excerpt": "Il problema dei redditi bassi in Italia non dipende dall’evasione fiscale, ma da Partito Liberaldemocratico",
-      "publishedAt": "2026-11-04T12:22:30Z",
-      "dateEvidence": "jsonld:datePublished"
-    }
-  ],
+  "items": [],
   "attempts": [
     {
       "url": "https://partitoliberaldemocratico.com/robots.txt",
@@ -59,7 +44,7 @@
       "status": 200
     }
   ],
-  "message": "2 notizie recenti con data verificata; copertura parziale.",
+  "message": "0 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [
     {
       "url": "https://partitoliberaldemocratico.com/proposte/",
@@ -77,5 +62,5 @@
   "candidateCount": 9,
   "datedCount": 4,
   "listingUrl": "https://partitoliberaldemocratico.com/",
-  "durationSeconds": 6.36
+  "durationSeconds": 7.59
 }

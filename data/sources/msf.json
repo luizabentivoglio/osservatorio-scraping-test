@@ -4,12 +4,19 @@
   "sourceId": "msf",
   "originUrl": "https://www.medicisenzafrontiere.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-18T10:47:05.629548Z",
+  "collectedAt": "2026-11-18T22:32:43.387078Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "Rohingya, MSF: “sentenza della Corte internazionale di giustizia sarà momento storico, ma servono soluzioni durature”",
+      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/rohingya-msf-sentenza-corte-internazionale-giustizia-sara-momento-storico-servono-soluzioni-durature/",
+      "excerpt": "Il 19 novembre 2026 la Corte internazionale di giustizia pronuncerà la sentenza nell'ambito del procedimento avviato dal Gambia contro il Myanmar nel 2019, per presunte violazioni della Convenzione per la prevenzione e la repressione del crimine di genocidio. Questa sentenza sarà la prima occasione in cui un organo giu",
+      "publishedAt": "2026-11-18T16:06:00Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
     {
       "title": "Tubercolosi, studio MSF: “Efficaci i trattamenti brevi per bambini con TB non grave”",
       "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/tubercolosi-studio-msf-efficaci-trattamenti-brevi-bambini-tb-non-grave/",
@@ -44,13 +51,6 @@
       "excerpt": "A 6 mesi dalla dichiarazione dell’epidemia di Ebola nella Repubblica Democratica del Congo, Medici Senza Frontiere avverte che il secondo focolaio più grande mai registrato è ancora fuori controllo. Finanziamenti senza impatto Nonostante centinaia di milioni di dollari statunitensi siano stati erogati dalla comunità in",
       "publishedAt": "2026-11-13T16:21:23Z",
       "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Gaza, MSF condanna l’attacco israeliano all’ospedale Nasser",
-      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/gaza-msf-condanna-attacco-israeliano-ospedale-nasser/",
-      "excerpt": "Medici Senza Frontiere è profondamente sconvolta e indignata per l’attacco aereo israeliano di ieri sera contro l’ospedale Nasser di Khan Younis, a Gaza. L’attacco ha colpito l’edificio di chirurgia dell’ospedale Nasser, uccidendo 6 persone, tra cui un bambino e un chirurgo, e ferendone altre 52. Non è stato dato alcun",
-      "publishedAt": "2026-11-12T19:16:04Z",
-      "dateEvidence": "jsonld:datePublished"
     }
   ],
   "attempts": [
@@ -60,6 +60,10 @@
     },
     {
       "url": "https://www.medicisenzafrontiere.it/",
+      "status": 200
+    },
+    {
+      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/rohingya-msf-sentenza-corte-internazionale-giustizia-sara-momento-storico-servono-soluzioni-durature/",
       "status": 200
     },
     {
@@ -81,10 +85,6 @@
     {
       "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/6-mesi-ebola-rdc-msf-secondo-focolaio-piu-grande-mai-registrato-ancora-fuori-controllo/",
       "status": 200
-    },
-    {
-      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/gaza-msf-condanna-attacco-israeliano-ospedale-nasser/",
-      "status": 200
     }
   ],
   "message": "6 notizie recenti con data verificata; copertura parziale.",
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.medicisenzafrontiere.it/",
-  "durationSeconds": 3.84
+  "durationSeconds": 3.66
 }

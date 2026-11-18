@@ -4,45 +4,52 @@
   "sourceId": "il-post",
   "originUrl": "https://www.ilpost.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-18T10:46:55.996764Z",
+  "collectedAt": "2026-11-18T22:32:35.010570Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
-      "title": "Il ponte di Kerch era un simbolo del regime di Putin",
-      "url": "https://www.ilpost.it/2026/11/18/ponte-kerch-russia-crimea-ucraina/?homepagePosition=0",
-      "excerpt": "Rappresentava l’unità fra Russia e Crimea ed era la via più breve per spostare merci, mezzi e soldati: gli attacchi ucraini l’hanno reso inagibile",
-      "publishedAt": "2026-11-18T09:18:34Z",
+      "title": "Una portaerei statunitense ha lasciato il Medio Oriente: adesso ne sono rimaste due",
+      "url": "https://www.ilpost.it/2026/11/18/portaerei-statunitense-medio-oriente-george-washington/?bitPosition=1",
+      "excerpt": "Una portaerei statunitense ha lasciato il Medio Oriente: adesso ne sono rimaste due Mercoledì Katie Koenig, la portavoce della flotta statunitense del Pacifico, ha detto che una delle tre portaerei che gli Stati Uniti avevano inviato in Medio Oriente, la USS George Washington, ha lasciato l’area ed è stata destinata a ",
+      "publishedAt": "2026-11-18T21:31:14Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "Il murale di Andrea Pazienza a Napoli tornerà a essere visibile e visitabile",
-      "url": "https://www.ilpost.it/2026/11/18/murale-andrea-pazienza-napoli-visitabile/?bitPosition=1",
-      "excerpt": "Il murale di Andrea Pazienza a Napoli tornerà a essere visibile e visitabile Il murale realizzato dal celebre fumettista italiano Andrea Pazienza a Napoli nel 1987 tornerà a essere visibile al pubblico: sarà collocato nel Teatro Mediterraneo all’interno della Mostra d’Oltremare, lo stesso polo fieristico in cui fu dise",
-      "publishedAt": "2026-11-18T09:08:35Z",
+      "title": "Il tennista Flavio Cobolli ha perso contro Frances Tiafoe ed è stato eliminato dalle ATP Finals",
+      "url": "https://www.ilpost.it/2026/11/18/cobolli-eliminazione-atp-finals/?bitPosition=2",
+      "excerpt": "Il tennista Flavio Cobolli ha perso contro Frances Tiafoe ed è stato eliminato dalle ATP Finals Mercoledì il tennista italiano Flavio Cobolli ha perso per 2 set a 0 (6-7 0-6) contro lo statunitense Frances Tiafoe nella sua seconda partita alle ATP Finals, il torneo che si sta tenendo a Torino e al quale partecipano gli",
+      "publishedAt": "2026-11-18T20:21:18Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "In Brasile dei membri di una popolazione indigena isolata sono entrati in contatto con alcune persone",
-      "url": "https://www.ilpost.it/2026/11/18/brasile-tribu-indigena-contatto-umani/?bitPosition=2",
-      "excerpt": "In Brasile dei membri di una popolazione indigena isolata sono entrati in contatto con alcune persone In Brasile circa 20 persone parte di una tribù indigena che vive isolata nella foresta amazzonica sono entrati brevemente in contatto con altre persone. La ONG Survival International, che si occupa della sopravvivenza ",
-      "publishedAt": "2026-11-18T08:39:03Z",
+      "title": "La Commissione Europea ha proposto un nuovo prestito da un massimo di 45 miliardi di euro per l’Ucraina",
+      "url": "https://www.ilpost.it/2026/11/18/commissione-europea-prestito-ucraina/?bitPosition=3",
+      "excerpt": "La Commissione Europea ha proposto un nuovo prestito da un massimo di 45 miliardi di euro per l’Ucraina La Commissione Europea ha proposto un nuovo prestito da un massimo di 45 miliardi di euro all’Ucraina per il 2027, in aggiunta a quello che era stato approvato in aprile, e che ammontava a 90 miliardi di euro per il ",
+      "publishedAt": "2026-11-18T18:18:27Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "Emanuele Fiano ha lasciato il PD a causa del mancato sostegno del partito alla legge sull’antisemitismo",
-      "url": "https://www.ilpost.it/2026/11/18/emanuele-fiano-lascia-pd-mancato-sostegno-legge-antisemitismo/?bitPosition=3",
-      "excerpt": "Emanuele Fiano ha lasciato il PD a causa del mancato sostegno del partito alla legge sull’antisemitismo L’ex deputato Emanuele Fiano ha lasciato il Partito Democratico, di cui era un esponente storico. L’ha annunciato in diretta durante un programma di Telelombardia legando la propria decisione al voto contrario del PD",
-      "publishedAt": "2026-11-18T08:01:54Z",
+      "title": "Tra il governo e le banche butta male, anzi malissimo",
+      "url": "https://www.ilpost.it/2026/11/18/tassa-banche-extraprofitti-messina-orcel-superbonus-manovra/?homepagePosition=0",
+      "excerpt": "Lo Stato ha deciso unilateralmente di non ripagare l'anno prossimo un debito con le banche da 20,5 miliardi, e non è nemmeno l'unica questione",
+      "publishedAt": "2026-11-18T17:38:18Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "L’Ucraina ha distrutto parte di un ponte fondamentale per la Russia",
-      "url": "https://www.ilpost.it/2026/11/17/russia-attacco-ponti-kyiv/?homepagePosition=0.1&referrerPost=3735862",
-      "excerpt": "Quello di Kerch, che collega la Russia alla penisola occupata della Crimea; la Russia ha colpito due ponti a Kyiv",
-      "publishedAt": "2026-11-17T05:00:48Z",
+      "title": "La legge di bilancio cambierà, e poi cambierà ancora",
+      "url": "https://www.ilpost.it/2026/11/17/legge-di-bilancio-modifiche-scuola-superbonus-exi-tax-chigi/?homepagePosition=0.1&referrerPost=3736381",
+      "excerpt": "Come ogni anno, il governo è impegnato a correggere quel che aveva promosso: stavolta soprattutto su scuole, banche e pensioni",
+      "publishedAt": "2026-11-17T17:00:47Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "Sei grafici per capire quanto sono messe male le regioni sulla sanità",
+      "url": "https://www.ilpost.it/2026/11/16/sei-grafici-problemi-sanita-italia/?homepagePosition=0.2&referrerPost=3736381",
+      "excerpt": "Nel 2025 le spese hanno superato le entrate di 3,5 miliardi di euro",
+      "publishedAt": "2026-11-16T11:20:11Z",
       "dateEvidence": "jsonld:datePublished"
     }
   ],
@@ -56,31 +63,31 @@
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/18/ponte-kerch-russia-crimea-ucraina/?homepagePosition=0",
+      "url": "https://www.ilpost.it/2026/11/18/tassa-banche-extraprofitti-messina-orcel-superbonus-manovra/?homepagePosition=0",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/17/russia-attacco-ponti-kyiv/?homepagePosition=0.1&referrerPost=3735862",
+      "url": "https://www.ilpost.it/2026/11/17/legge-di-bilancio-modifiche-scuola-superbonus-exi-tax-chigi/?homepagePosition=0.1&referrerPost=3736381",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2025/12/22/fire-point-ucraina/?homepagePosition=0.2&referrerPost=3735862",
+      "url": "https://www.ilpost.it/2026/11/16/sei-grafici-problemi-sanita-italia/?homepagePosition=0.2&referrerPost=3736381",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/18/murale-andrea-pazienza-napoli-visitabile/?bitPosition=1",
+      "url": "https://www.ilpost.it/2026/11/18/portaerei-statunitense-medio-oriente-george-washington/?bitPosition=1",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/18/brasile-tribu-indigena-contatto-umani/?bitPosition=2",
+      "url": "https://www.ilpost.it/2026/11/18/cobolli-eliminazione-atp-finals/?bitPosition=2",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/18/emanuele-fiano-lascia-pd-mancato-sostegno-legge-antisemitismo/?bitPosition=3",
+      "url": "https://www.ilpost.it/2026/11/18/commissione-europea-prestito-ucraina/?bitPosition=3",
       "status": 200
     }
   ],
-  "message": "5 notizie recenti con data verificata; copertura parziale.",
+  "message": "6 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [],
   "candidateCount": 12,
   "datedCount": 6,

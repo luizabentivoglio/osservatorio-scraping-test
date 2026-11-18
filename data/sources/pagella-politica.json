@@ -4,12 +4,33 @@
   "sourceId": "pagella-politica",
   "originUrl": "https://pagellapolitica.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-18T10:47:13.437412Z",
+  "collectedAt": "2026-11-18T22:32:52.023967Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "La politica non ha concluso nulla sul sovraffollamento delle carceri",
+      "url": "https://pagellapolitica.it/articoli/sovraffollamento-carceri",
+      "excerpt": "A tredici anni dalla condanna della Corte europea dei diritti dell’uomo, la Corte costituzionale è tornata a...",
+      "publishedAt": "2026-11-17T00:00:00Z",
+      "dateEvidence": "html:post-date"
+    },
+    {
+      "title": "Chi ha ragione tra Meloni e Schlein sul taglio dell’Irpef",
+      "url": "https://pagellapolitica.it/articoli/fc-meloni-schlein-taglio-irpef",
+      "excerpt": "La presidente del Consiglio sostiene che aiuterà la classe media, mentre la segretaria del PD la accusa di fare un...",
+      "publishedAt": "2026-11-17T00:00:00Z",
+      "dateEvidence": "html:post-date"
+    },
+    {
+      "title": "Il centrosinistra ha conquistato un nuovo deputato",
+      "url": "https://pagellapolitica.it/articoli/risultato-elezioni-suppletive-chieti",
+      "excerpt": "Lo ha ottenuto vincendo le elezioni suppletive nel collegio di Chieti, dove bisognava sostituire il deputato...",
+      "publishedAt": "2026-11-16T00:00:00Z",
+      "dateEvidence": "html:post-date"
+    },
     {
       "title": "Il “campo largo” non riesce a mettersi d’accordo sulla patrimoniale",
       "url": "https://pagellapolitica.it/articoli/campo-largo-accordo-patrimoniale",
@@ -30,27 +51,6 @@
       "excerpt": "Dopo gli allarmi bomba e i messaggi sospetti contro i politici, la politica sta discutendo se introdurre un sistema...",
       "publishedAt": "2026-11-16T00:00:00Z",
       "dateEvidence": "html:post-date"
-    },
-    {
-      "title": "Il Ministero dell’Interno non vuole fornirci i dati sui controlli alle frontiere con la Spagna",
-      "url": "https://pagellapolitica.it/articoli/dati-controlli-frontiere-spagna-ceuta",
-      "excerpt": "La nostra richiesta di accesso civico sul numero di persone identificate dopo la crisi di Ceuta è stata respinta...",
-      "publishedAt": "2026-11-13T00:00:00Z",
-      "dateEvidence": "html:post-date"
-    },
-    {
-      "title": "No, l’Italia non ha dimezzato la spesa per la difesa dalla fine della Guerra fredda",
-      "url": "https://pagellapolitica.it/articoli/italia-spesa-difesa-guerra-fredda",
-      "excerpt": "L’ha detto Carlo Calenda, ma secondo i dati NATO all’inizio degli anni Novanta il nostro Paese spendeva in...",
-      "publishedAt": "2026-11-13T00:00:00Z",
-      "dateEvidence": "html:post-date"
-    },
-    {
-      "title": "L’Italia è in ritardo sugli obiettivi della COP31",
-      "url": "https://pagellapolitica.it/articoli/italia-ritardo-transizione-energetica-cop31",
-      "excerpt": "Il nostro Paese fatica ancora ad accelerare la transizione energetica mentre la conferenza sul clima chiede di...",
-      "publishedAt": "2026-11-12T00:00:00Z",
-      "dateEvidence": "html:post-date"
     }
   ],
   "attempts": [
@@ -60,6 +60,18 @@
     },
     {
       "url": "https://pagellapolitica.it/articoli",
+      "status": 200
+    },
+    {
+      "url": "https://pagellapolitica.it/articoli/sovraffollamento-carceri",
+      "status": 200
+    },
+    {
+      "url": "https://pagellapolitica.it/articoli/fc-meloni-schlein-taglio-irpef",
+      "status": 200
+    },
+    {
+      "url": "https://pagellapolitica.it/articoli/risultato-elezioni-suppletive-chieti",
       "status": 200
     },
     {
@@ -73,18 +85,6 @@
     {
       "url": "https://pagellapolitica.it/articoli/scudo-disinformazione-proposte-partiti",
       "status": 200
-    },
-    {
-      "url": "https://pagellapolitica.it/articoli/dati-controlli-frontiere-spagna-ceuta",
-      "status": 200
-    },
-    {
-      "url": "https://pagellapolitica.it/articoli/italia-spesa-difesa-guerra-fredda",
-      "status": 200
-    },
-    {
-      "url": "https://pagellapolitica.it/articoli/italia-ritardo-transizione-energetica-cop31",
-      "status": 200
     }
   ],
   "message": "6 notizie recenti con data verificata; copertura parziale.",
@@ -92,5 +92,5 @@
   "candidateCount": 6,
   "datedCount": 6,
   "listingUrl": "https://pagellapolitica.it/articoli",
-  "durationSeconds": 6.71
+  "durationSeconds": 5.32
 }

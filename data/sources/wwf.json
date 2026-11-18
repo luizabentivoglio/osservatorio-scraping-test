@@ -4,7 +4,7 @@
   "sourceId": "wwf",
   "originUrl": "https://www.wwf.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-18T10:47:35.295536Z",
+  "collectedAt": "2026-11-18T22:33:15.647630Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -18,17 +18,17 @@
       "dateEvidence": "jsonld:datePublished"
     },
     {
+      "title": "Cosa accade alla COP31 giorno per giorno",
+      "url": "https://www.wwf.it/pandanews/clima/cosa-accade-alla-cop31-giorno-per-giorno/",
+      "excerpt": "Dal 9 al 21 novembre è in corso ad Antalya il più importante evento per la lotta alla crisi climatica. Qui il nostro racconto giornaliero",
+      "publishedAt": "2026-11-18T10:24:00Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
       "title": "COP31, WWF: senza adattamento, comunità costiere in crisi",
       "url": "https://www.wwf.it/pandanews/societa/mondo/cop31-wwf-senza-adattamento-comunita-costiere-in-crisi/",
       "excerpt": "Nel Mediterraneo il mare si riscalda il 20% più velocemente della media globale, le ondate di calore sono aumentate del 40%",
       "publishedAt": "2026-11-17T13:36:59Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Cosa accade alla COP31 giorno per giorno",
-      "url": "https://www.wwf.it/pandanews/clima/cosa-accade-alla-cop31-giorno-per-giorno/",
-      "excerpt": "Dal 9 al 21 novembre è in corso ad Antalya il più importante evento per la lotta alla crisi climatica. Qui il nostro racconto giornaliero",
-      "publishedAt": "2026-11-17T10:24:00Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
@@ -67,11 +67,11 @@
       "status": 200
     },
     {
-      "url": "https://www.wwf.it/pandanews/societa/mondo/cop31-wwf-senza-adattamento-comunita-costiere-in-crisi/",
+      "url": "https://www.wwf.it/pandanews/clima/cosa-accade-alla-cop31-giorno-per-giorno/",
       "status": 200
     },
     {
-      "url": "https://www.wwf.it/pandanews/clima/cosa-accade-alla-cop31-giorno-per-giorno/",
+      "url": "https://www.wwf.it/pandanews/societa/mondo/cop31-wwf-senza-adattamento-comunita-costiere-in-crisi/",
       "status": 200
     },
     {
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.wwf.it/",
-  "durationSeconds": 7.39
+  "durationSeconds": 3.91
 }

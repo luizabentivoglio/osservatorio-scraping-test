@@ -4,7 +4,7 @@
   "sourceId": "iai",
   "originUrl": "https://www.iai.it/it",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-18T10:46:50.423155Z",
+  "collectedAt": "2026-11-18T22:32:30.212879Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -22,13 +22,6 @@
       "url": "https://www.iai.it/it/pubblicazioni/c05/end-trump-era-only-beginning",
       "excerpt": "The Republicans’ crushing defeat in the midterm elections signals the beginning of the end of Donald Trump’s grasp over US politics.Democrats have been exceptional in tapping tap into widespread discontent over increasingly unaffordable cost of living for ordinary Americans by selecting competitive candidates across th",
       "publishedAt": "2026-11-05T12:00:00Z",
-      "dateEvidence": "html:publication-time"
-    },
-    {
-      "title": "La Germania e le regole del mercato europeo della difesa",
-      "url": "https://www.iai.it/it/pubblicazioni/c05/la-germania-e-le-regole-del-mercato-europeo-della-difesa",
-      "excerpt": "La nuova legge tedesca sugli acquisti militari amplia il riconoscimento degli interessi essenziali di sicurezza nazionale, aprendo la strada a un possibile più frequente ricorso a deroghe alle regole europee.La legge non autorizza automaticamente le deroghe: la loro necessità dovrà essere verificata caso per caso, alla",
-      "publishedAt": "2026-11-04T12:00:00Z",
       "dateEvidence": "html:publication-time"
     }
   ],
@@ -66,7 +59,7 @@
       "status": 200
     }
   ],
-  "message": "3 notizie recenti con data verificata; copertura parziale.",
+  "message": "2 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [],
   "candidateCount": 12,
   "datedCount": 6,
