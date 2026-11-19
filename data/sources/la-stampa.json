@@ -4,12 +4,26 @@
   "sourceId": "la-stampa",
   "originUrl": "https://www.lastampa.it/",
   "configuredFeedUrl": "https://www.lastampa.it/rss/copertina.xml",
-  "collectedAt": "2026-11-18T22:32:41.079859Z",
+  "collectedAt": "2026-11-19T03:53:13.266367Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.lastampa.it/rss/copertina.xml",
   "items": [
+    {
+      "title": "Cenly Chen, una seconda femme fatale cinese per Nvidia",
+      "url": "https://www.lastampa.it/esteri/2026/11/19/news/cenly_chen_una_seconda_femme_fatale_cinese_per_nvidia-15802010/",
+      "excerpt": "Legata al numero tre Jay Puri. Anche lei, come Alice Huang, con una società nel mirino per contrabbando di chip in Cina",
+      "publishedAt": "2026-11-19T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Emergenza hikikomori, in Italia duecentomila casi. “È una nuova dipendenza”",
+      "url": "https://www.lastampa.it/cronaca/2026/11/19/news/emergenza_hikikomori_in_italia_duecentomila_casi_e_una_nuova_dipendenza-15802132/",
+      "excerpt": "La relazione del Parlamento: isolamento sperimentato dal 2% dei liceali. Nei casi più estremi il ritiro sociale si estende anche al mondo digitale",
+      "publishedAt": "2026-11-19T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "Delusione Cobolli: crolla con Tiafoe 7-6 6-0 ed è fuori dalle Finals",
       "url": "https://www.lastampa.it/sport/2026/11/18/news/cobolli_sconfitto_tiafoe_atp_finals_torino-15802176/",
@@ -112,6 +126,13 @@
       "title": "Dare voce alle seconde generazioni: la “Mission impossibile” di Lupin è un colpo ben riuscito",
       "url": "https://www.lastampa.it/spettacoli/2026/11/18/news/dare_voce_alle_seconde_generazioni_la_mission_impossibile_di_lupin_e_un_colpo_ben_riuscito-15801077/",
       "excerpt": "Su Netflix la nuova stagione della serie in cui Omar Sy è un figlio dell'immigrazione che veste i panni di uno dei miti più francesi che esistano",
+      "publishedAt": "2026-11-18T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "“Non siamo più come Icaro Invece di rischiare, temiamo I big data possono salvarci”",
+      "url": "https://www.lastampa.it/cultura/2026/11/19/news/non_siamo_piu_come_icaro_invece_di_rischiare_temiamo_i_big_data_possono_salvarci-15802114/",
+      "excerpt": "Il filosofo: “Questo che viviamo è il tempo più umano della Storia”",
       "publishedAt": "2026-11-18T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -267,27 +288,6 @@
       "url": "https://www.lastampa.it/spettacoli/2026/11/18/video/james_bond_bezos_casting_segreto_scelta_robert_pattinson-15801687/",
       "excerpt": "«All'inizio eravamo un po' prevenuti nei suoi confronti, perché è già così famoso», così Jeff Bezos racconta i retroscena della scelta di Robert Pattinson come nuovo James Bond, intervenendo alla conferenza di Semafor a Menlo Park, in California, il fondatore di Amazon rivela di essere stato coinvolto direttamente nell",
       "publishedAt": "2026-11-18T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Trump in Cina, abbraccio con Xi e stretta di mano con Putin. Il russo fuori dalla foto dei 2 leader",
-      "url": "https://www.lastampa.it/esteri/2026/11/18/diretta/guerra_russia_ucraina_news_oggi-15801319/",
-      "excerpt": "Domani il vertice tra i presidenti di Usa, Russia e Repubblica Popolare Cinese. L’Ue vara lo strumento per un prestito da 45 miliardi per Kiev, 25 in aiuti militari",
-      "publishedAt": "2026-11-17T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Il missile ucraino punta il Ponte di Crimea: le immagini in soggettiva fino allo schianto",
-      "url": "https://www.lastampa.it/esteri/2026/11/17/video/ponte_crimea_kerch_missile_ucraino_attacco-15800619/",
-      "excerpt": "Nel video pubblicato su X da Anton Gerashchenko, ex consigliere del ministero dell’Interno ucraino, l’arcata del ponte di Kerch emerge dal buio e si avvicina rapidamente. Secondo Gerashchenko, le immagini mostrano la traiettoria di un missile da crociera ucraino FP-5 “Flamingo” negli istanti che precedono l’impatto. Il",
-      "publishedAt": "2026-11-17T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Sigaretta in bocca e un salotto sulle piste da sci: il nuovo paradiso delle vacanze di Kim Jong Un",
-      "url": "https://www.lastampa.it/esteri/2026/11/17/video/kim_jong_un_corea_del_nord_sci_figlia-15800920/",
-      "excerpt": "Kim Jong Un seduto su una poltrona in mezzo alla neve mentre osserva la figlia Ju Ae sciare, poi un tour tra camere d'albergo, ristoranti e strutture turistiche. Sono le immagini diffuse dalla televisione di Stato nordcoreana per raccontare la visita del leader alla zona turistica di Samjiyon, vicino al confine con la ",
-      "publishedAt": "2026-11-17T00:00:00Z",
       "dateEvidence": "feed:published"
     }
   ],

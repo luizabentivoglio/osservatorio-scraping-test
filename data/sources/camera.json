@@ -4,7 +4,7 @@
   "sourceId": "camera",
   "originUrl": "https://www.camera.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-18T22:32:03.747942Z",
+  "collectedAt": "2026-11-19T03:52:32.954946Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -48,7 +48,7 @@
     {
       "title": "Informativa Crosetto su guerra ibrida - Ambiente, clima ed economia circolare",
       "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64266",
-      "excerpt": "In Aula la discussione sulle linee generali del disegno di legge: Conversione in legge, con modific...",
+      "excerpt": "La Camera è convocata giovedì 19 novembre alle ore 10. Nella seduta di mercoledì 18 si è svol...",
       "publishedAt": "2026-11-18T00:00:00Z",
       "dateEvidence": "html:publication-label"
     }
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://comunicazione.camera.it/archivio-prima-pagina",
-  "durationSeconds": 3.82
+  "durationSeconds": 3.92
 }

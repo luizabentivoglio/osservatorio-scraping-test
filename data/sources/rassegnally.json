@@ -4,107 +4,20 @@
   "sourceId": "rassegnally",
   "originUrl": "https://rassegnally.substack.com/",
   "configuredFeedUrl": "https://rassegnally.substack.com/feed",
-  "collectedAt": "2026-11-18T22:33:08.761192Z",
-  "status": "ok",
-  "diagnosticCode": null,
-  "method": "rss",
-  "feedUrl": "https://rassegnally.substack.com/feed",
-  "items": [
-    {
-      "title": "Comunque, è stata approvata la legge contro l’antisemitismo",
-      "url": "https://rassegnally.substack.com/p/comunque-e-stata-approvata-la-legge",
-      "excerpt": "È una delle 3 notizie di oggi",
-      "publishedAt": "2026-11-18T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Comunque, l’inflazione in Italia è salita al 5,5%",
-      "url": "https://rassegnally.substack.com/p/comunque-linflazione-in-italia-e",
-      "excerpt": "È una delle 3 notizie di oggi",
-      "publishedAt": "2026-11-17T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Comunque, Trump, Xi e Putin si vedranno per la prima volta tutti e tre insieme",
-      "url": "https://rassegnally.substack.com/p/comunque-trump-xi-e-putin-si-vedranno",
-      "excerpt": "È una delle 4 notizie di oggi",
-      "publishedAt": "2026-11-16T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Ma che roba è?",
-      "url": "https://rassegnally.substack.com/p/ma-che-roba-e",
-      "excerpt": "Le mail, i titoli, le dichiarazioni, le spiegazioni... Parliamo di tre storie da tenere separate, ma soprattutto di due parole da maneggiare con cura: hacker e guerra",
-      "publishedAt": "2026-11-16T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Comunque, Outlook e Teams di Microsoft non funzionano da ieri sera",
-      "url": "https://rassegnally.substack.com/p/comunque-outlook-e-teams-di-microsoft",
-      "excerpt": "È una delle 3 notizie di oggi",
-      "publishedAt": "2026-11-13T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Comunque, Jensen Huang si è dimesso da Nvidia",
-      "url": "https://rassegnally.substack.com/p/comunque-jensen-huang-si-e-dimesso",
-      "excerpt": "È una delle 2 notizie di oggi",
-      "publishedAt": "2026-11-12T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Comunque, migliaia di scuole italiane hanno ricevuto falsi allarmi bomba",
-      "url": "https://rassegnally.substack.com/p/comunque-migliaia-di-scuole-italiane",
-      "excerpt": "È una delle 3 notizie di oggi",
-      "publishedAt": "2026-11-11T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Comunque, il governo ha approvato il decreto bollette",
-      "url": "https://rassegnally.substack.com/p/comunque-il-governo-ha-approvato-cdc",
-      "excerpt": "È una delle 2 notizie di oggi",
-      "publishedAt": "2026-11-10T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Comunque, Nvidia indaga sul suo capo Jensen Huang per la relazione con una presunta spia cinese",
-      "url": "https://rassegnally.substack.com/p/comunque-nvidia-indaga-sul-suo-capo",
-      "excerpt": "È una delle 2 notizie di oggi",
-      "publishedAt": "2026-11-09T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Cosa ci fanno in una stanza il voto di midterm, il crollo del Nasdaq, i frigo caldissimi e le mail sugli aerei?",
-      "url": "https://rassegnally.substack.com/p/cosa-ci-fanno-in-una-stanza-il-voto",
-      "excerpt": "Il cupido della prima coppia sono i data center, mentre la seconda per ora sta insieme solo per i titoli dei giornali",
-      "publishedAt": "2026-11-09T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Comunque, anche oggi falsi allarmi bomba sui voli europei",
-      "url": "https://rassegnally.substack.com/p/comunque-anche-oggi-falsi-allarmi",
-      "excerpt": "È una delle 2 notizie di oggi",
-      "publishedAt": "2026-11-06T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Comunque, almeno 18 voli in Europa hanno ricevuto falsi allarmi bomba",
-      "url": "https://rassegnally.substack.com/p/comunque-almeno-18-voli-in-europa",
-      "excerpt": "È la notizia di oggi",
-      "publishedAt": "2026-11-05T00:00:00Z",
-      "dateEvidence": "feed:published"
-    }
-  ],
+  "collectedAt": "2026-11-19T03:53:38.462286Z",
+  "status": "blocked",
+  "diagnosticCode": "access_restricted",
+  "method": "html",
+  "feedUrl": null,
+  "items": [],
   "attempts": [
     {
       "url": "https://rassegnally.substack.com/robots.txt",
-      "status": 200
-    },
-    {
-      "url": "https://rassegnally.substack.com/feed",
-      "status": 200
+      "status": 403
     }
   ],
-  "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 0.65
+  "message": "HTTP 403: accesso limitato dalla fonte",
+  "httpStatus": 403,
+  "failedUrl": "https://rassegnally.substack.com/robots.txt",
+  "durationSeconds": 0.09
 }

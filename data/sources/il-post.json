@@ -4,7 +4,7 @@
   "sourceId": "il-post",
   "originUrl": "https://www.ilpost.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-18T22:32:35.010570Z",
+  "collectedAt": "2026-11-19T03:53:09.126540Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -13,7 +13,7 @@
     {
       "title": "Una portaerei statunitense ha lasciato il Medio Oriente: adesso ne sono rimaste due",
       "url": "https://www.ilpost.it/2026/11/18/portaerei-statunitense-medio-oriente-george-washington/?bitPosition=1",
-      "excerpt": "Una portaerei statunitense ha lasciato il Medio Oriente: adesso ne sono rimaste due Mercoledì Katie Koenig, la portavoce della flotta statunitense del Pacifico, ha detto che una delle tre portaerei che gli Stati Uniti avevano inviato in Medio Oriente, la USS George Washington, ha lasciato l’area ed è stata destinata a ",
+      "excerpt": "Una portaerei statunitense ha lasciato il Medio Oriente: adesso ne sono rimaste due Mercoledì Katie Koenig, una portavoce della flotta statunitense del Pacifico, ha detto che una delle tre portaerei che gli Stati Uniti avevano inviato in Medio Oriente, la USS George Washington, ha lasciato l’area ed è stata destinata a",
       "publishedAt": "2026-11-18T21:31:14Z",
       "dateEvidence": "jsonld:datePublished"
     },
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.ilpost.it/",
-  "durationSeconds": 3.52
+  "durationSeconds": 3.63
 }

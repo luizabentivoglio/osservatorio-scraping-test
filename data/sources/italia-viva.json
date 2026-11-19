@@ -4,10 +4,10 @@
   "sourceId": "italia-viva",
   "originUrl": "https://www.italiaviva.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-18T22:32:38.531503Z",
-  "status": "no_feed",
-  "diagnosticCode": "parsing_error",
-  "method": "crawl4ai",
+  "collectedAt": "2026-11-19T03:53:12.756553Z",
+  "status": "blocked",
+  "diagnosticCode": "access_restricted",
+  "method": "html",
   "feedUrl": null,
   "items": [],
   "attempts": [
@@ -17,152 +17,11 @@
     },
     {
       "url": "https://www.italiaviva.it/",
-      "status": 200
-    },
-    {
-      "url": "https://www.italiaviva.it/paita_senza_centro_si_perde_capo_5_stelle_pensi_ai_voti_non_ai_veti",
-      "status": 200
-    },
-    {
-      "url": "https://www.italiaviva.it/enews_1090_venerdi_6_marzo_2026_iv",
-      "status": 200
-    },
-    {
-      "url": "https://www.italiaviva.it/provinciali_potenza_polese_iv_il_risultato_di_casa_riformista_un_segnale_di_fiducia_pronti_a_lavorare_con_responsabilit_per_il_bene_del_territorio",
-      "status": 200
-    },
-    {
-      "url": "https://www.italiaviva.it/noja_con_vittoria_afd_e_suoi_estimatori_italiani_persone_disabili_come_me_ora_hanno_piu_paura",
-      "status": 200
-    },
-    {
-      "url": "https://www.italiaviva.it/un_anno_dalla_parte_delle_donne",
-      "status": 200
-    },
-    {
-      "url": "https://www.italiaviva.it/legge_di_bilancio_2022_le_proposte_di_italia_viva",
-      "status": 200
-    },
-    {
-      "url": "https://www.italiaviva.it/paita_senza_centro_si_perde_capo_5_stelle_pensi_ai_voti_non_ai_veti",
-      "status": 200
-    },
-    {
-      "url": "https://www.italiaviva.it/enews_1090_venerdi_6_marzo_2026_iv",
-      "status": 200
-    },
-    {
-      "url": "https://www.italiaviva.it/provinciali_potenza_polese_iv_il_risultato_di_casa_riformista_un_segnale_di_fiducia_pronti_a_lavorare_con_responsabilit_per_il_bene_del_territorio",
-      "status": 200
-    },
-    {
-      "url": "https://www.italiaviva.it/noja_con_vittoria_afd_e_suoi_estimatori_italiani_persone_disabili_come_me_ora_hanno_piu_paura",
-      "status": 200
-    },
-    {
-      "url": "https://www.italiaviva.it/un_anno_dalla_parte_delle_donne",
-      "status": 200
-    },
-    {
-      "url": "https://www.italiaviva.it/legge_di_bilancio_2022_le_proposte_di_italia_viva",
-      "status": 200
+      "status": 403
     }
   ],
-  "message": "Pagina accessibile, ma nessuna notizia con data di pubblicazione verificabile.",
-  "candidateSamples": [
-    {
-      "url": "https://www.italiaviva.it/paita_senza_centro_si_perde_capo_5_stelle_pensi_ai_voti_non_ai_veti",
-      "title": "parlamento Paita: «Senza il centro si perde, il capo dei 5 stelle pensi ai voti e non ai veti»",
-      "h1": "Paita: «Senza il centro si perde, il capo dei 5 stelle pensi ai voti e non ai veti»",
-      "dates": [
-        {
-          "tag": "time",
-          "class": [
-            "time"
-          ],
-          "text": "31/10/26",
-          "datetime": null
-        }
-      ]
-    },
-    {
-      "url": "https://www.italiaviva.it/enews_1090_venerdi_6_marzo_2026_iv",
-      "title": "Enews 1090 venerdì 6 marzo 2026",
-      "h1": "Enews 1090 venerdì 6 marzo 2026",
-      "dates": [
-        {
-          "tag": "time",
-          "class": [
-            "time"
-          ],
-          "text": "06/03/26",
-          "datetime": null
-        }
-      ]
-    },
-    {
-      "url": "https://www.italiaviva.it/provinciali_potenza_polese_iv_il_risultato_di_casa_riformista_un_segnale_di_fiducia_pronti_a_lavorare_con_responsabilit_per_il_bene_del_territorio",
-      "title": "territori Provinciali Potenza, Polese (IV): “Il risultato di Casa Riformista è un segnale di fiducia: pronti a lavorare con responsabilità per il bene del territorio.”",
-      "h1": "Provinciali Potenza, Polese (IV): “Il risultato di Casa Riformista è un segnale di fiducia: pronti a lavorare con responsabilità per il bene del terri",
-      "dates": [
-        {
-          "tag": "time",
-          "class": [
-            "time"
-          ],
-          "text": "10/03/26",
-          "datetime": null
-        }
-      ]
-    },
-    {
-      "url": "https://www.italiaviva.it/noja_con_vittoria_afd_e_suoi_estimatori_italiani_persone_disabili_come_me_ora_hanno_piu_paura",
-      "title": "Noja: «Con la vittoria di AFD e i suoi estimatori italiani, le persone disabili come me hanno più paura»",
-      "h1": "Noja: «Con la vittoria di AFD e i suoi estimatori italiani, le persone disabili come me hanno più paura»",
-      "dates": [
-        {
-          "tag": "time",
-          "class": [
-            "time"
-          ],
-          "text": "11/09/26",
-          "datetime": null
-        }
-      ]
-    },
-    {
-      "url": "https://www.italiaviva.it/un_anno_dalla_parte_delle_donne",
-      "title": "Un anno dalla parte delle donne",
-      "h1": null,
-      "dates": [
-        {
-          "tag": "div",
-          "class": [
-            "date-full-post"
-          ],
-          "text": "08/03/22",
-          "datetime": null
-        }
-      ]
-    },
-    {
-      "url": "https://www.italiaviva.it/legge_di_bilancio_2022_le_proposte_di_italia_viva",
-      "title": "Legge di Bilancio 2022, le proposte di Italia Viva",
-      "h1": null,
-      "dates": [
-        {
-          "tag": "div",
-          "class": [
-            "date-full-post"
-          ],
-          "text": "24/12/21",
-          "datetime": null
-        }
-      ]
-    }
-  ],
-  "candidateCount": 12,
-  "datedCount": 0,
-  "listingUrl": "https://www.italiaviva.it/",
-  "durationSeconds": 3.78
+  "message": "HTTP 403: accesso limitato dalla fonte",
+  "httpStatus": 403,
+  "failedUrl": "https://www.italiaviva.it/",
+  "durationSeconds": 0.51
 }

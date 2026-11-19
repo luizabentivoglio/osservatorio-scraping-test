@@ -4,7 +4,7 @@
   "sourceId": "partito-liberaldemocratico",
   "originUrl": "https://partitoliberaldemocratico.com/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-18T22:32:53.238536Z",
+  "collectedAt": "2026-11-19T03:53:26.116887Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -62,5 +62,5 @@
   "candidateCount": 9,
   "datedCount": 4,
   "listingUrl": "https://partitoliberaldemocratico.com/",
-  "durationSeconds": 7.59
+  "durationSeconds": 9.73
 }
