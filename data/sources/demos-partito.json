@@ -4,12 +4,20 @@
   "sourceId": "demos-partito",
   "originUrl": "https://www.democraziasolidale.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-19T03:52:56.509487Z",
+  "collectedAt": "2026-11-19T16:10:31.187500Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.democraziasolidale.it/feed/",
-  "items": [],
+  "items": [
+    {
+      "title": "VOTO FUORISEDE 2027: scopri come fare!",
+      "url": "https://www.democraziasolidale.it/voto-fuorisede-2027-scopri-come-fare/",
+      "excerpt": "Chi studia, lavora o si cura in un’altra regione potrà votare alle elezioni politiche del 2027 nella città in cui vive. Il diritto però non scatta da solo: va chiesto con una domanda al Comune entro il 31 dicembre 2026, anche se la data delle elezioni non è ancora stata fissata. In questo articolo spieghiamo […] L'arti",
+      "publishedAt": "2026-11-19T00:00:00Z",
+      "dateEvidence": "feed:published"
+    }
+  ],
   "attempts": [
     {
       "url": "https://www.democraziasolidale.it/robots.txt",
@@ -25,5 +33,5 @@
     }
   ],
   "message": "Feed dichiarato dalla fonte; date di pubblicazione verificate.",
-  "durationSeconds": 1.76
+  "durationSeconds": 2.47
 }

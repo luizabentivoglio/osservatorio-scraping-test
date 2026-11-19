@@ -4,12 +4,19 @@
   "sourceId": "greenpeace",
   "originUrl": "https://www.greenpeace.org/italy/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-19T03:53:02.986816Z",
+  "collectedAt": "2026-11-19T16:10:38.591831Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "Google ha abbattuto 400mila alberi in Finlandia per costruire due data center - Greenpeace Italia",
+      "url": "https://www.greenpeace.org/italy/storia/32167/google-ha-abbattuto-400mila-alberi-in-finlandia-per-costruire-due-data-center/",
+      "excerpt": "In Finlandia Google ha abbattuto 400mila alberi per fare spazio a due data center. E c’è di più: non aveva neanche i permessi per farlo.",
+      "publishedAt": "2026-11-18T15:41:27Z",
+      "dateEvidence": "html:publication-time"
+    },
     {
       "title": "IKEA produce mobili con legname proveniente da foreste secolari svedesi - Greenpeace Italia",
       "url": "https://www.greenpeace.org/italy/storia/32293/ikea-produce-mobili-con-legname-proveniente-da-foreste-secolari-svedesi/",
@@ -21,13 +28,6 @@
       "title": "“Meloni, siamo alla canna del gas”: il nostro mega striscione sul Gazometro di Roma - Greenpeace Italia",
       "url": "https://www.greenpeace.org/italy/storia/32223/meloni-siamo-alla-canna-del-gas-il-nostro-mega-striscione-sul-gazometro-di-roma/",
       "excerpt": "Attivisti e attiviste di Greenpeace Italia sono entrati in azione per denunciare l'aumento del costo dell'energia e della vita.",
-      "publishedAt": "2026-11-17T09:22:37Z",
-      "dateEvidence": "html:publication-time"
-    },
-    {
-      "title": "Google ha abbattuto 400mila alberi in Finlandia per costruire due data center - Greenpeace Italia",
-      "url": "https://www.greenpeace.org/italy/storia/32167/google-ha-abbattuto-400mila-alberi-in-finlandia-per-costruire-due-data-center/",
-      "excerpt": "In Finlandia Google ha abbattuto 400mila alberi per fare spazio a due data center. E c’è di più: non aveva neanche i permessi per farlo.",
       "publishedAt": "2026-11-17T09:22:37Z",
       "dateEvidence": "html:publication-time"
     }
@@ -86,5 +86,5 @@
   "candidateCount": 12,
   "datedCount": 5,
   "listingUrl": "https://www.greenpeace.org/italy/",
-  "durationSeconds": 4.7
+  "durationSeconds": 4.77
 }

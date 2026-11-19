@@ -4,12 +4,20 @@
   "sourceId": "dc-rotondi",
   "originUrl": "https://dcconrotondi.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-19T03:52:53.601602Z",
+  "collectedAt": "2026-11-19T16:10:22.906324Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://dcconrotondi.it/feed/",
-  "items": [],
+  "items": [
+    {
+      "title": "Rotondi: Luigi Di Maio e Gennaro Sangiuliano a Napoli per la presentazione del nuovo libro del Presidente DC",
+      "url": "https://dcconrotondi.it/3474/news/rotondi-luigi-di-maio-e-gennaro-sangiuliano-a-napoli-per-la-presentazione-del-nuovo-libro-del-presidente-dc/",
+      "excerpt": "Venerdi 20 novembre alle ore 18, presso il Mondadori Bookstore Vomero, in Via Luca Giordano, 73, sarà presentato il libro di Gianfranco Rotondi ‘Il partito italiano dalla Dc a Berlusconi a Meloni’, ne discuteranno Luigi Di Maio e Gennaro Sangiuliano, moderati da Angelo Picariello, del quotidiano “Avvenire”, seguiranno ",
+      "publishedAt": "2026-11-13T00:00:00Z",
+      "dateEvidence": "feed:published"
+    }
+  ],
   "attempts": [
     {
       "url": "https://dcconrotondi.it/robots.txt",
@@ -25,5 +33,5 @@
     }
   ],
   "message": "Feed dichiarato dalla fonte; date di pubblicazione verificate.",
-  "durationSeconds": 14.39
+  "durationSeconds": 14.91
 }

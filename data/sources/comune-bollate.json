@@ -4,12 +4,19 @@
   "sourceId": "comune-bollate",
   "originUrl": "https://comune.bollate.mi.it/it/news",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-19T03:52:37.333633Z",
+  "collectedAt": "2026-11-19T16:10:10.935312Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "Convocazione Commissione Affari istituzionali",
+      "url": "https://comune.bollate.mi.it/it/news/commissione-2020529-2041932-2056666-2088145",
+      "excerpt": "Sito ufficiale Comune di Bollate",
+      "publishedAt": "2026-11-19T00:00:00Z",
+      "dateEvidence": "html:news-date-label"
+    },
     {
       "title": "Nuova sede per lo sportello per l’inclusione lavorativa",
       "url": "https://comune.bollate.mi.it/it/news/inverso",
@@ -44,13 +51,6 @@
       "excerpt": "Sito ufficiale Comune di Bollate",
       "publishedAt": "2026-11-10T00:00:00Z",
       "dateEvidence": "html:news-date-label"
-    },
-    {
-      "title": "Avviso pubblico indagine mercato Centro scolastico via Varalli",
-      "url": "https://comune.bollate.mi.it/it/news/avviso-pubblico-2056751-2075513",
-      "excerpt": "Sito ufficiale Comune di Bollate",
-      "publishedAt": "2026-11-10T00:00:00Z",
-      "dateEvidence": "html:news-date-label"
     }
   ],
   "attempts": [
@@ -60,6 +60,10 @@
     },
     {
       "url": "https://comune.bollate.mi.it/it/news",
+      "status": 200
+    },
+    {
+      "url": "https://comune.bollate.mi.it/it/news/commissione-2020529-2041932-2056666-2088145",
       "status": 200
     },
     {
@@ -81,10 +85,6 @@
     {
       "url": "https://comune.bollate.mi.it/it/news/sciopero-2046496-2059402-2075560",
       "status": 200
-    },
-    {
-      "url": "https://comune.bollate.mi.it/it/news/avviso-pubblico-2056751-2075513",
-      "status": 200
     }
   ],
   "message": "6 notizie recenti con data verificata; copertura parziale.",
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://comune.bollate.mi.it/it/news",
-  "durationSeconds": 3.82
+  "durationSeconds": 4.86
 }

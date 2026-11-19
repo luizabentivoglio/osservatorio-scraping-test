@@ -4,7 +4,7 @@
   "sourceId": "coldiretti",
   "originUrl": "https://www.coldiretti.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-19T03:52:36.913538Z",
+  "collectedAt": "2026-11-19T16:10:10.209833Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -29,13 +29,6 @@
       "url": "https://www.coldiretti.it/economia/made-in-italy-gesmundo-trump-e-ursula-giu-le-mani-dal-nostro-cibo-leuropa-difenda-gli-agricoltori-non-le-multinazionali",
       "excerpt": "Il segretario generale della Coldiretti sul Sole 24 Ore: “Difendere origine, reddito e salute non è protezionismo. Non accetteremo di diventare una colonia alimentare”",
       "publishedAt": "2026-11-06T09:27:43Z",
-      "dateEvidence": "meta:article:published_time"
-    },
-    {
-      "title": "Attacchi hacker: Gesmundo, Ue investa sui mercati contadini i soldi del riarmo",
-      "url": "https://www.coldiretti.it/economia/attacchi-hacker-gesmundo-ue-investa-sui-mercati-contadini-i-soldi-del-riarmo",
-      "excerpt": "Così la rete delle aziende agricole può difenderci dal «cibo malato». Le parole del Segretario Generale Gesmundo al Corriere della Sera",
-      "publishedAt": "2026-11-05T10:13:01Z",
       "dateEvidence": "meta:article:published_time"
     }
   ],
@@ -73,10 +66,10 @@
       "status": 200
     }
   ],
-  "message": "4 notizie recenti con data verificata; copertura parziale.",
+  "message": "3 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [],
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.coldiretti.it/",
-  "durationSeconds": 7.43
+  "durationSeconds": 9.05
 }

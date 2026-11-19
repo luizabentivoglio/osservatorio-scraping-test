@@ -4,7 +4,7 @@
   "sourceId": "iai",
   "originUrl": "https://www.iai.it/it",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-19T03:53:04.777241Z",
+  "collectedAt": "2026-11-19T16:10:39.990093Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -15,13 +15,6 @@
       "url": "https://www.iai.it/it/pubblicazioni/c05/blue-tsunami-same-waters-us-foreign-policy-after-midterms",
       "excerpt": "After the Democratic landslide in the US midterms, the Congress could challenge key policies of the Trump administration, starting with the war against Iran, disengagement from Europe and even military support to Israel.But the President retains broad discretion over international affairs.",
       "publishedAt": "2026-11-13T12:00:00Z",
-      "dateEvidence": "html:publication-time"
-    },
-    {
-      "title": "The End of the Trump Era Is Only the Beginning",
-      "url": "https://www.iai.it/it/pubblicazioni/c05/end-trump-era-only-beginning",
-      "excerpt": "The Republicans’ crushing defeat in the midterm elections signals the beginning of the end of Donald Trump’s grasp over US politics.Democrats have been exceptional in tapping tap into widespread discontent over increasingly unaffordable cost of living for ordinary Americans by selecting competitive candidates across th",
-      "publishedAt": "2026-11-05T12:00:00Z",
       "dateEvidence": "html:publication-time"
     }
   ],
@@ -59,10 +52,10 @@
       "status": 200
     }
   ],
-  "message": "2 notizie recenti con data verificata; copertura parziale.",
+  "message": "1 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [],
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.iai.it/it/pubblicazioni/lista/iai-commentaries",
-  "durationSeconds": 4.77
+  "durationSeconds": 5.33
 }

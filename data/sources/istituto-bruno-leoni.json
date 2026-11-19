@@ -4,12 +4,19 @@
   "sourceId": "istituto-bruno-leoni",
   "originUrl": "https://www.brunoleoni.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-19T03:53:09.545003Z",
+  "collectedAt": "2026-11-19T16:10:45.097589Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "Idroelettrico, quelle gare che Giorgia dovrebbe benedire",
+      "url": "https://www.brunoleoni.it/idroelettrico-quelle-gare-che-giorgia-dovrebbe-benedire/",
+      "excerpt": "Per la premier è l'occasione giusta per cambiare rotta, attirando investimenti e maggiori risorse",
+      "publishedAt": "2026-11-19T13:18:33Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
     {
       "title": "Nicola Rossi e i conservatori innovativi",
       "url": "https://www.brunoleoni.it/nicola-rossi-e-i-conservatori-innovativi/",
@@ -29,13 +36,6 @@
       "url": "https://www.brunoleoni.it/se-il-prezzo-dellenergia-lo-fanno-rendite-e-veti/",
       "excerpt": "La manovra confisca una quota dei ricavi, anche se Pichetto Fratin parla di sistema volontario",
       "publishedAt": "2026-11-16T08:59:26Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "La lezione europea per riformare il payback sanitario",
-      "url": "https://www.brunoleoni.it/la-lezione-europea-per-riformare-il-payback-sanitario/",
-      "excerpt": "Il nuovo studio dell’Istituto Bruno Leoni",
-      "publishedAt": "2026-11-16T07:24:11Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
@@ -68,15 +68,15 @@
       "status": 200
     },
     {
+      "url": "https://www.brunoleoni.it/idroelettrico-quelle-gare-che-giorgia-dovrebbe-benedire/",
+      "status": 200
+    },
+    {
       "url": "https://www.brunoleoni.it/nicola-rossi-e-i-conservatori-innovativi/",
       "status": 200
     },
     {
       "url": "https://www.brunoleoni.it/se-il-prezzo-dellenergia-lo-fanno-rendite-e-veti/",
-      "status": 200
-    },
-    {
-      "url": "https://www.brunoleoni.it/la-lezione-europea-per-riformare-il-payback-sanitario/",
       "status": 200
     }
   ],
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 5,
   "listingUrl": "https://www.brunoleoni.it/",
-  "durationSeconds": 5.47
+  "durationSeconds": 6.14
 }

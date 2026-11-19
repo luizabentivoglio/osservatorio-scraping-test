@@ -4,17 +4,17 @@
   "sourceId": "breaking-italy",
   "originUrl": "https://breakingitaly.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-19T03:52:31.995970Z",
+  "collectedAt": "2026-11-19T16:10:04.877680Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
-      "title": "Il DDL antisemitismo è legge",
-      "url": "https://breakingitaly.it/newsletter/il-ddl-antisemitismo-e-legge",
-      "excerpt": "Il DDL antisemitismo è legge",
-      "publishedAt": "2026-11-18T00:00:00Z",
+      "title": "È il giorno del trilaterale in Cina tra Putin, Trump e Xi",
+      "url": "https://breakingitaly.it/newsletter/e-il-giorno-del-trilaterale-in-cina-tra-putin-trump-e-xi",
+      "excerpt": "È il giorno del trilaterale in Cina tra Putin, Trump e Xi",
+      "publishedAt": "2026-11-19T00:00:00Z",
       "dateEvidence": "html:newsletter-publication"
     }
   ],
@@ -32,7 +32,7 @@
       "status": 200
     },
     {
-      "url": "https://breakingitaly.it/newsletter/il-ddl-antisemitismo-e-legge",
+      "url": "https://breakingitaly.it/newsletter/e-il-giorno-del-trilaterale-in-cina-tra-putin-trump-e-xi",
       "status": 200
     },
     {
@@ -96,5 +96,5 @@
   "candidateCount": 12,
   "datedCount": 1,
   "listingUrl": "https://breakingitaly.it/",
-  "durationSeconds": 5.19
+  "durationSeconds": 5.33
 }

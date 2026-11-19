@@ -4,12 +4,75 @@
   "sourceId": "il-notiziario",
   "originUrl": "https://www.ilnotiziario.net/",
   "configuredFeedUrl": "https://www.ilnotiziario.net/feed/",
-  "collectedAt": "2026-11-19T03:53:09.045116Z",
+  "collectedAt": "2026-11-19T16:10:43.365984Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.ilnotiziario.net/feed/",
   "items": [
+    {
+      "title": "Rho ricorda le donne vittime di violenza",
+      "url": "https://www.ilnotiziario.net/rho-ricorda-le-donne-vittime-di-violenza/",
+      "excerpt": "La città di Rho ricorda le donne vittime di violenza. Lo farà nella serata di mercoledì 25, alle 21, prima dell’inizio del...",
+      "publishedAt": "2026-11-19T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Ospedale Niguarda, torna un servizio storico, nuove navette per spostarsi tra i padiglioni",
+      "url": "https://www.ilnotiziario.net/ospedale-niguarda-torna-un-servizio-storico-nuove-navette-per-spostarsi-tra-i-padiglioni/",
+      "excerpt": "Ospedale Niguarda, torna un servizio storico, nuove navette per spostarsi tra i padiglioni Raggiungere i diversi reparti...",
+      "publishedAt": "2026-11-19T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Scippo violento a Saronno Sud, donna strattonata e scaraventata a terra",
+      "url": "https://www.ilnotiziario.net/scippo-violento-a-saronno-sud-donna-strattonata-e-scaraventata-a-terra/",
+      "excerpt": "Scippo violento a Saronno Sud, donna strattonata e scaraventata a terra Era uscita di casa per una passeggiata con il cane, ma si...",
+      "publishedAt": "2026-11-19T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Tra leggende del passato e visioni elettriche torna AutoClassica",
+      "url": "https://www.ilnotiziario.net/tra-leggende-del-passato-e-visioni-elettriche-torna-autoclassica/",
+      "excerpt": "Quattro giorni di passione tra leggende del passato e visioni elettriche. Dopo aver ospitato gli appassionati delle due ruote, i...",
+      "publishedAt": "2026-11-19T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Allarme bomba nelle scuole e il rischio del sospetto",
+      "url": "https://www.ilnotiziario.net/allarme-bomba-nelle-scuole-e-il-rischio-del-sospetto/",
+      "excerpt": "Quello che è successo mercoledì nelle scuole italiane, con gli allarmi bomba che da nord a sud hanno fatto evacuare centinaia di...",
+      "publishedAt": "2026-11-19T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Monza, si presenta come tecnico del gas e raggira un’anziana, arrestato",
+      "url": "https://www.ilnotiziario.net/monza-si-presenta-come-tecnico-del-gas-e-raggira-unanziana-arrestato/",
+      "excerpt": "Monza, si presenta come tecnico del gas e raggira un’anziana, arrestato Si è presentato come tecnico del gas e ha convinto...",
+      "publishedAt": "2026-11-19T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "A 18 anni sfida i campioni del mondo: Ludovico Bini scrive la storia del Tennistavolo Saronno",
+      "url": "https://www.ilnotiziario.net/a-18-anni-sfida-i-campioni-del-mondo-ludovico-bini-scrive-la-storia-del-tennistavolo-saronno/",
+      "excerpt": "A 18 anni sfida i campioni del mondo: Ludovico Bini scrive la storia del Tennistavolo Saronno Il sogno della finale mondiale si è...",
+      "publishedAt": "2026-11-19T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Incidente sulla Saronno-Monza, giovane ferito e lunghe code",
+      "url": "https://www.ilnotiziario.net/incidente-sulla-saronno-monza-giovane-ferito-e-lunghe-code/",
+      "excerpt": "Un incidente verificatosi questa mattina poco dopo le 7,30 ha provocato rallentamenti e code sulla Saronno-Monza tra Limbiate e...",
+      "publishedAt": "2026-11-19T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Paderno Dugnano, concerto degli L.A. Guns interrotto dalle Forze dell’Ordine, delusione dei fan da tutta Italia",
+      "url": "https://www.ilnotiziario.net/paderno-dugnano-concerto-degli-l-a-guns-interrotto-dalle-forze-dellordine-delusione-dei-fan-da-tutta-italia/",
+      "excerpt": "A Paderno Dugnano, il concerto degli L.A. Guns è stato interrotto da Polizia locale e Carabinieri, locale evacuato, delusione e...",
+      "publishedAt": "2026-11-19T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "Ethos, recensione: la Turchia alla ricerca della felicità",
       "url": "https://www.ilnotiziario.net/ethos-recensione-la-turchia-alla-ricerca-della-felicita/",
@@ -51,69 +114,6 @@
       "excerpt": "Porto Cesareo è un piccolo angolo di paradiso situato lungo la costa ionica del Salento, nella zona meridionale della Puglia. Tra...",
       "publishedAt": "2026-11-18T00:00:00Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Anziani al Pronto soccorso, al San Gerardo di Monza nasce la Fraitly Unit per gestire al meglio la fragilità",
-      "url": "https://www.ilnotiziario.net/anziani-al-pronto-soccorso-al-san-gerardo-di-monza-nasce-la-fraitly-unit-per-gestire-al-meglio-la-fragilita/",
-      "excerpt": "Quando una persona anziana arriva in Pronto Soccorso, spesso il problema non è soltanto il malore del momento, ma un equilibrio...",
-      "publishedAt": "2026-11-18T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Era ricercato dall’Interpol per tentato omicidio, rintracciato a Milano dopo anni di latitanza",
-      "url": "https://www.ilnotiziario.net/era-ricercato-dallinterpol-per-tentato-omicidio-rintracciato-a-milano-dopo-anni-di-latitanza/",
-      "excerpt": "Era ricercato dall’Interpol per tentato omicidio, rintracciato a Milano dopo anni di latitanza Un ricercato internazionale si...",
-      "publishedAt": "2026-11-18T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Tir fuori strada tra le campagne di Seveso, lungo lavoro dei Vigili del fuoco",
-      "url": "https://www.ilnotiziario.net/tir-fuori-strada-tra-le-campagne-di-seveso-lungo-lavoro-dei-vigili-del-fuoco/",
-      "excerpt": "Un Tir è finito fuori strada questa mattina a Seveso, in una strada periferica tra le campagne e ha richiesto una lunga mattinata...",
-      "publishedAt": "2026-11-18T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "A Lazzate il terno al Lotto (con 3 ambi) vale 137.500 euro per il fortunato vincitore",
-      "url": "https://www.ilnotiziario.net/a-lazzate-il-terno-al-lotto-con-3-ambi-vale-137-500-euro-per-il-fortunato-vincitore/",
-      "excerpt": "Un fortunato di Lazzate ha centrato il famoso “terno al Lotto” che, insieme a due ambi, gli hanno fruttato la bella...",
-      "publishedAt": "2026-11-18T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Scompenso cardiaco, novità all’ospedale Niguarda, il monitoraggio passa dallo smartphone",
-      "url": "https://www.ilnotiziario.net/scompenso-cardiaco-novita-allospedale-niguarda-il-monitoraggio-passa-dallo-smartphone/",
-      "excerpt": "Scompenso cardiaco, novità all’ospedale Niguarda, il monitoraggio passa dallo smartphone Una nuova applicazione per smartphone...",
-      "publishedAt": "2026-11-18T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Saronno, allo Zappa 11 aule prefabbricate per i lavori di riqualificazione",
-      "url": "https://www.ilnotiziario.net/saronno-allo-zappa-11-aule-prefabbricate-per-i-lavori-di-riqualificazione/",
-      "excerpt": "Saronno, allo Zappa 11 aule prefabbricate per i lavori di riqualificazione Undici aule prefabbricate negli spazi antistanti...",
-      "publishedAt": "2026-11-18T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Seregno, minacce a sanitari e agenti durante un soccorso, 38enne denunciato",
-      "url": "https://www.ilnotiziario.net/seregno-minacce-a-sanitari-e-agenti-durante-un-soccorso-38enne-denunciato/",
-      "excerpt": "Seregno, minacce a sanitari e agenti durante un soccorso, denunciato Momenti concitati nella serata di sabato a Seregno, dove la...",
-      "publishedAt": "2026-11-18T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "“La mia Maratona di New York iniziata a Capodanno a Lazzate”",
-      "url": "https://www.ilnotiziario.net/la-mia-maratona-di-new-york-iniziata-a-capodanno-a-lazzate/",
-      "excerpt": "Aveva ripreso a correre da poco, dopo anni in cui non lo faceva e ad un certo punto si è pure messo in testa di fare la maratona...",
-      "publishedAt": "2026-11-18T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Rho: Fermato in via Olona con un coltello di 30 centimetri",
-      "url": "https://www.ilnotiziario.net/rho-fermato-in-via-olona-con-un-coltello-di-30-centimetri/",
-      "excerpt": "Un’azione di controllo mirata nelle aree a rischio della città ha portato a un nuovo importante sequestro di arma bianca da parte...",
-      "publishedAt": "2026-11-17T00:00:00Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -127,5 +127,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 1.38
+  "durationSeconds": 1.69
 }

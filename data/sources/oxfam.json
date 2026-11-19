@@ -4,7 +4,7 @@
   "sourceId": "oxfam",
   "originUrl": "https://www.oxfamitalia.org/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-19T03:53:20.927662Z",
+  "collectedAt": "2026-11-19T16:10:54.024957Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -15,6 +15,13 @@
       "url": "https://www.oxfamitalia.org/20-novembre-in-piazza-a-firenze-contro-il-riarmo/",
       "excerpt": "Una società è più sicura quando riduce le disuguaglianze e garantisce i diritti fondamentali. Leggi l'articolo completo.",
       "publishedAt": "2026-11-18T09:42:43Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "Bambini soldato: perché i gruppi armati reclutano i minori e cosa si può fare",
+      "url": "https://www.oxfamitalia.org/bambini-soldato/",
+      "excerpt": "Nel 2025 l'ONU ha verificato 6.607 casi di reclutamento di minori nei conflitti. Chi sono i bambini soldato, dove e perché.",
+      "publishedAt": "2026-11-17T07:00:04Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
@@ -53,6 +60,10 @@
       "status": 200
     },
     {
+      "url": "https://www.oxfamitalia.org/bambini-soldato/",
+      "status": 200
+    },
+    {
       "url": "https://www.oxfamitalia.org/scuola-di-disuguaglianze/",
       "status": 200
     },
@@ -67,16 +78,12 @@
     {
       "url": "https://www.oxfamitalia.org/il-bilancio-sociale-2025-26-il-cambiamento-e-un-lavoro-collettivo/",
       "status": 200
-    },
-    {
-      "url": "https://www.oxfamitalia.org/tassare-di-piu-i-grandi-patrimoni/",
-      "status": 200
     }
   ],
-  "message": "4 notizie recenti con data verificata; copertura parziale.",
+  "message": "5 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [],
   "candidateCount": 8,
   "datedCount": 6,
   "listingUrl": "https://www.oxfamitalia.org/news/",
-  "durationSeconds": 4.44
+  "durationSeconds": 4.03
 }

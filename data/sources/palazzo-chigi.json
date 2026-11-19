@@ -4,17 +4,45 @@
   "sourceId": "palazzo-chigi",
   "originUrl": "https://www.governo.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-19T03:53:25.366552Z",
+  "collectedAt": "2026-11-19T16:10:57.269980Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.governo.it/feed/rss",
   "items": [
     {
+      "title": "Riunione della Coalizione dei Volenterosi",
+      "url": "https://www.governo.it/it/articolo/riunione-della-coalizione-dei-volenterosi/33156",
+      "excerpt": "Il Presidente del Consiglio, Giorgia Meloni, è a Berlino per partecipare alla riunione della Coalizione dei Volenterosi.",
+      "publishedAt": "2026-11-19T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Decreto del Capo del dipartimento per la trasformazione digitale del 27 ottobre 2026",
+      "url": "https://www.governo.it/it/articolo/decreto-del-capo-del-dipartimento-la-trasformazione-digitale-del-27-ottobre-2026/33155",
+      "excerpt": "Aggiornamento degli Allegati 1, 3, 4 e 5 al decreto 23 febbraio 2026 recante “Disciplina delle modalità di funzionamento della Piattaforma di gestione deleghe”.",
+      "publishedAt": "2026-11-19T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Comunicato stampa del Consiglio dei Ministri n. 199",
+      "url": "https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-199/33154",
+      "excerpt": "Il Consiglio dei Ministri si è riunito giovedì 19 novembre 2026, alle ore 12.48 a Palazzo Chigi, sotto la presidenza del Ministro della giustizia Carlo Nordio. Segretario, il Sottosegretario alla Presidenza Alfredo Mantovano. ٠٠٠٠٠",
+      "publishedAt": "2026-11-19T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Estensione del modello della ZES unica, dichiarazione del Presidente Meloni",
+      "url": "https://www.governo.it/it/articolo/estensione-del-modello-della-zes-unica-dichiarazione-del-presidente-meloni/33152",
+      "excerpt": "Come già ampiamente annunciato, il Governo estenderà alle Regioni del Centro Nord il modello di semplificazione amministrativa e autorizzativa già sperimentato con successo al Sud con la ZES unica. Un modello che, in questi anni, ha generato un impatto economico complessivo di 60 miliardi di euro e che ha contribuito a",
+      "publishedAt": "2026-11-19T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
       "title": "Consiglio dei Ministri n. 199",
       "url": "https://www.governo.it/it/articolo/consiglio-dei-ministri-n-199/33149",
-      "excerpt": "Il Consiglio dei Ministri è convocato per giovedì 19 novembre 2026, alle ore 12:30 a Palazzo Chigi.",
-      "publishedAt": "2026-11-18T00:00:00Z",
+      "excerpt": "Si è svolta, a Palazzo Chigi, la riunione del Consiglio dei Ministri. Nel comunicato stampa i provvedimenti approvati.",
+      "publishedAt": "2026-11-19T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
@@ -51,34 +79,6 @@
       "excerpt": "Il Consiglio dei Ministri è convocato oggi, mercoledì 18 novembre 2026, alle ore 16 a Palazzo Chigi, per l’esame del seguente ordine del giorno:",
       "publishedAt": "2026-11-18T00:00:00Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Il Sottosegretario Mantovano all'evento \"Competitività Paese. La legacy del PNRR e le nuove politiche europee per la crescita\"",
-      "url": "https://www.governo.it/it/articolo/il-sottosegretario-mantovano-allevento-competitivit-paese-la-legacy-del-pnrr-e-le-nuove",
-      "excerpt": "Il Sottosegretario alla Presidenza del Consiglio, Alfredo Mantovano, è intervenuto, presso l'Opificio Italiacamp a Roma, all'evento \"Competitività Paese. La legacy del PNRR e le nuove politiche europee per la crescita\".",
-      "publishedAt": "2026-11-17T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Riunione del CIPESS del 17 novembre 2026",
-      "url": "https://www.governo.it/it/articolo/riunione-del-cipess-del-17-novembre-2026/33139",
-      "excerpt": "Nella seduta odierna, il Comitato interministeriale per la programmazione economica e lo sviluppo sostenibile (CIPESS), presieduto dal Ministro dell’Economia e delle Finanze e Vicepresidente del CIPESS, Giancarlo Giorgetti, e con la presenza del Segretario del CIPESS, Sottosegretario di Stato alla Presidenza del Consig",
-      "publishedAt": "2026-11-17T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Visita al Comando Unità Forestali, Ambientali e Agroalimentari dell'Arma dei Carabinieri (CUFAA)",
-      "url": "https://www.governo.it/it/articolo/visita-al-comando-unit-forestali-ambientali-e-agroalimentari-dellarma-dei-carabinieri-cufaa",
-      "excerpt": "Il Presidente del Consiglio, Giorgia Meloni, a Napoli, ha visitato il Comando Unità Forestali, Ambientali e Agroalimentari dell'Arma dei Carabinieri (CUFAA).",
-      "publishedAt": "2026-11-16T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Giornata europea in memoria delle vittime degli incidenti sul lavoro, dichiarazione del Presidente Meloni",
-      "url": "https://www.governo.it/it/articolo/giornata-europea-memoria-delle-vittime-degli-incidenti-sul-lavoro-dichiarazione-del",
-      "excerpt": "Con l’adozione formale da parte del Consiglio dell'Unione Europea, l'8 agosto diventa oggi la “Giornata europea in memoria delle vittime degli incidenti sul lavoro e per la tutela e la dignità dei lavoratori”. È la data della tragedia di Marcinelle, dove nel 1956 morirono 262 minatori di diverse nazionalità, 136 dei qu",
-      "publishedAt": "2026-11-16T00:00:00Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -100,5 +100,5 @@
     }
   ],
   "message": "Feed dichiarato dalla fonte; date di pubblicazione verificate.",
-  "durationSeconds": 30.24
+  "durationSeconds": 30.17
 }

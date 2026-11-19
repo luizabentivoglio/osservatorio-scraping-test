@@ -4,12 +4,54 @@
   "sourceId": "istat",
   "originUrl": "https://www.istat.it/",
   "configuredFeedUrl": "https://www.istat.it/feed/",
-  "collectedAt": "2026-11-19T03:53:08.815941Z",
+  "collectedAt": "2026-11-19T16:10:41.732383Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.istat.it/feed/",
   "items": [
+    {
+      "title": "CIG BDB61C3889 – Servizi di produzione di n",
+      "url": "https://www.istat.it/bando-di-gara/cig-bdb61c3889-servizi-di-produzione-di-n-10-episodi-della-serie-di-podcast-autoriali-dati-alla-mano/",
+      "excerpt": "Online la delibera di affidamento",
+      "publishedAt": "2026-11-19T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Infografiche storie di dati: I prezzi al consumo",
+      "url": "https://www.istat.it/infografiche/infografiche-storie-di-dati-i-prezzi-al-consumo/",
+      "excerpt": "Online le infografiche su: I prezzi al consumo",
+      "publishedAt": "2026-11-19T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Ragazzi e giovani adulti",
+      "url": "https://www.istat.it/news-dati-alla-mano/ragazzi-e-giovani-adulti/",
+      "excerpt": "Un podcast per capire stili di vita e condizioni di chi ha fra i 14 e i 35 anni",
+      "publishedAt": "2026-11-19T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "I diritti dei bambini e degli adolescenti",
+      "url": "https://www.istat.it/produzione-editoriale/bambini/",
+      "excerpt": "La storia dell’Italia unita è caratterizzata da una progressiva riduzione della consistenza numerica di bambini ed adolescenti e dal notevole miglioramento delle condizioni educative e di salute",
+      "publishedAt": "2026-11-19T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Bilancio demografico mensile – agosto 2026",
+      "url": "https://www.istat.it/sistema-informativo-6/bilancio-demografico-mensile-agosto-2026/",
+      "excerpt": "Al 31 agosto 2026, la popolazione residente in Italia ammonta a 58.946.570 unità, in aumento di 4mila unità rispetto all’inizio dell’anno",
+      "publishedAt": "2026-11-19T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Sedicesima Giornata italiana della statistica (GIS 2026)",
+      "url": "https://www.istat.it/evento/sedicesima-giornata-italiana-statistica/",
+      "excerpt": "Promossa dall’Istituto nazionale di statistica (Istat) e dalla Società italiana di statistica (SIS). Si celebra su tutto il territorio nazionale con numerose iniziative",
+      "publishedAt": "2026-11-19T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "Posti vacanti nelle imprese dell’industria e dei servizi – stime preliminari III trimestre 2026",
       "url": "https://www.istat.it/sistema-informativo-6/posti-vacanti-nelle-imprese-dellindustria-e-dei-servizi-stime-preliminari-iii-trimestre-2026/",
@@ -37,48 +79,6 @@
       "excerpt": "Dal 15 ottobre al 26 novembre un ciclo di incontri multidisciplinari dedicato ad analisi e riflessioni sul presente e sul futuro della statistica ufficiale",
       "publishedAt": "2026-11-17T00:00:00Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Concorso pubblico a 46 posti di tecnologo di III livello professionale a tempo indeterminato (cod",
-      "url": "https://www.istat.it/concorso-o-selezione/concorso-pubblico-a-46-posti-di-tecnologo-di-iii-livello-professionale-a-tempo-indeterminato-cod-tec-iii-2025/",
-      "excerpt": "Online il diario delle prove orali dell'area G, D ed F del concorso TEC-III-2025",
-      "publishedAt": "2026-11-17T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Concorso pubblico a 54 posti di ricercatore di III livello professionale a tempo indeterminato (cod",
-      "url": "https://www.istat.it/concorso-o-selezione/concorso-pubblico-a-54-posti-di-ricercatore-di-iii-livello-professionale-a-tempo-indeterminato-cod-ric-iii-2025/",
-      "excerpt": "Online l'esito della prova orale dell'area A e il diario della prova orale dell'area C del concorso RIC-III-2025",
-      "publishedAt": "2026-11-17T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "CIG B549A72EF1 – Servizio di manutenzione programmata e riparativa degli impianti di climatizzazione presso l’Ufficio Territoriale Area Nord- Ovest, sede di Torino, per il biennio 01.03.2025-28.02",
-      "url": "https://www.istat.it/bando-di-gara/cig-b549a72ef1-servizio-di-manutenzione-programmata-e-riparativa-degli-impianti-di-climatizzazione-presso-lufficio-territoriale-area-nord-ovest-sede-di-torino-per-il-biennio-01-03-2025-2/",
-      "excerpt": "Online la delibera di affidamento",
-      "publishedAt": "2026-11-17T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "VaLUE2026",
-      "url": "https://www.istat.it/evento-territoriale/value2026/",
-      "excerpt": "Un momento di confronto tra istituzioni, mondo accademico e attori del territorio sui cambiamenti demografici e occupazionali che interessano la Lombardia e la provincia di Varese",
-      "publishedAt": "2026-11-17T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Prezzi al consumo – Ottobre 2026",
-      "url": "https://www.istat.it/comunicato-stampa/prezzi-al-consumo-ottobre-2026/",
-      "excerpt": "A ottobre 2026 indice per l'intera collettività (NIC) +1,0% su settembre e +5,5% in un anno",
-      "publishedAt": "2026-11-17T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Bambini e ragazzi: parte la nuova indagine su comportamenti, atteggiamenti e progetti futuri",
-      "url": "https://www.istat.it/notizia/bambini-e-ragazzi-parte-la-nuova-indagine-su-comportamenti-atteggiamenti-e-progetti-futuri/",
-      "excerpt": "La rilevazione si svolge da novembre 2026 al 26 febbraio 2027 e coinvolge un campione di circa 110.000 ragazzi e ragazze, che potranno partecipare volontariamente compilando un questionario online",
-      "publishedAt": "2026-11-16T00:00:00Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -92,5 +92,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 2.43
+  "durationSeconds": 3.37
 }

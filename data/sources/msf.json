@@ -4,12 +4,33 @@
   "sourceId": "msf",
   "originUrl": "https://www.medicisenzafrontiere.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-19T03:53:17.147410Z",
+  "collectedAt": "2026-11-19T16:10:50.001339Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "Rohingya, per la CIG Myanmar responsabile di genocidio. MSF: “Un importante riconoscimento delle sofferenze subite”",
+      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/rohingya-per-cig-myanmar-responsabile-genocidio-msf-importante-riconoscimento-sofferenze-subite/",
+      "excerpt": "Questa mattina, 19 novembre, la Corte internazionale di giustizia ha stabilito che il Myanmar è responsabile di genocidio nei confronti della popolazione Rohingya. La sentenza rientra nell'ambito del procedimento avviato nel 2019 dal Gambia contro il Myanmar, relativo alle violazioni della Convenzione per la prevenzion",
+      "publishedAt": "2026-11-19T15:58:03Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "Cisgiordania/Rapporto MSF: “Aumentano i bisogni di salute mentale per esposizione prolungata e ripetuta a violenza e incertezza”",
+      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/cisgiordania-rapporto-msf-aumentano-bisogni-salute-mentale-esposizione-prolungata-ripetuta-violenza-incertezza/",
+      "excerpt": "In Cisgiordania, i palestinesi vivono da anni in condizioni di violenza e insicurezza, con conseguenze sempre più gravi sulla loro salute mentale. Il nuovo rapporto di Medici Senza Frontiere - Il peso dell’occupazione - documenta l’impatto psicologico dell’occupazione israeliana in Cisgiordania e delle sue pratiche sem",
+      "publishedAt": "2026-11-19T15:33:37Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "X Factor e Medici Senza Frontiere: la partnership edizione per edizione",
+      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/xfactor/",
+      "excerpt": "Dal 2024 MSF è Official Partner di X Factor: i brani del Peace Factor, gli appelli di Giorgia e i video di ogni edizione. Scopri come donare.",
+      "publishedAt": "2026-11-19T08:20:59Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
     {
       "title": "Rohingya, MSF: “sentenza della Corte internazionale di giustizia sarà momento storico, ma servono soluzioni durature”",
       "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/rohingya-msf-sentenza-corte-internazionale-giustizia-sara-momento-storico-servono-soluzioni-durature/",
@@ -30,27 +51,6 @@
       "excerpt": "Cos'è il protocollo Italia-Albania, come funzionano i centri di Gjadër e Shëngjin, gli sviluppi e la posizione di Medici Senza Frontiere",
       "publishedAt": "2026-11-17T14:08:53Z",
       "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "X Factor e Medici Senza Frontiere: la partnership edizione per edizione",
-      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/xfactor/",
-      "excerpt": "Dal 2024 MSF è Official Partner di X Factor: i brani del Peace Factor, gli appelli di Giorgia e i video di ogni edizione. Scopri come donare.",
-      "publishedAt": "2026-11-17T08:20:59Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Nigeria, MSF: senza antitossina e vaccini migliaia di bambini sono a rischio",
-      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/nigeria-msf-senza-antitossina-vaccini-migliaia-bambini-sono-rischio/",
-      "excerpt": "Medici Senza Frontiere avverte che la carenza di antitossina difterica — il farmaco fondamentale per il trattamento della difterite — unita alla scarsa copertura vaccinale, sta alimentando la trasmissione della malattia e compromettendo gli sforzi per contenere l’epidemia nel nord della Nigeria, esponendo migliaia di b",
-      "publishedAt": "2026-11-16T14:30:48Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "6 mesi di Ebola in RDC, MSF: il secondo focolaio più grande mai registrato è ancora fuori controllo",
-      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/6-mesi-ebola-rdc-msf-secondo-focolaio-piu-grande-mai-registrato-ancora-fuori-controllo/",
-      "excerpt": "A 6 mesi dalla dichiarazione dell’epidemia di Ebola nella Repubblica Democratica del Congo, Medici Senza Frontiere avverte che il secondo focolaio più grande mai registrato è ancora fuori controllo. Finanziamenti senza impatto Nonostante centinaia di milioni di dollari statunitensi siano stati erogati dalla comunità in",
-      "publishedAt": "2026-11-13T16:21:23Z",
-      "dateEvidence": "jsonld:datePublished"
     }
   ],
   "attempts": [
@@ -60,6 +60,18 @@
     },
     {
       "url": "https://www.medicisenzafrontiere.it/",
+      "status": 200
+    },
+    {
+      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/rohingya-per-cig-myanmar-responsabile-genocidio-msf-importante-riconoscimento-sofferenze-subite/",
+      "status": 200
+    },
+    {
+      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/cisgiordania-rapporto-msf-aumentano-bisogni-salute-mentale-esposizione-prolungata-ripetuta-violenza-incertezza/",
+      "status": 200
+    },
+    {
+      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/xfactor/",
       "status": 200
     },
     {
@@ -73,18 +85,6 @@
     {
       "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/accordo-italia-albania-migranti/",
       "status": 200
-    },
-    {
-      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/xfactor/",
-      "status": 200
-    },
-    {
-      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/nigeria-msf-senza-antitossina-vaccini-migliaia-bambini-sono-rischio/",
-      "status": 200
-    },
-    {
-      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/6-mesi-ebola-rdc-msf-secondo-focolaio-piu-grande-mai-registrato-ancora-fuori-controllo/",
-      "status": 200
     }
   ],
   "message": "6 notizie recenti con data verificata; copertura parziale.",
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.medicisenzafrontiere.it/",
-  "durationSeconds": 3.78
+  "durationSeconds": 3.93
 }

@@ -4,12 +4,40 @@
   "sourceId": "camera",
   "originUrl": "https://www.camera.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-19T03:52:32.954946Z",
+  "collectedAt": "2026-11-19T16:10:05.906822Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "Giornata mondiale contro il tumore al pancreas - Stasera Montecitorio si illumina di viola",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64336",
+      "excerpt": "La Camera dei deputati aderisce all’iniziativa della Giornata mondiale contro il tumore al pancrea...",
+      "publishedAt": "2026-11-19T00:00:00Z",
+      "dateEvidence": "html:publication-label"
+    },
+    {
+      "title": "Io scrivo soltanto per fare politica - L'impegno civile di Leonardo Sciascia - Venerdì alle 10 diretta webtv",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64333",
+      "excerpt": "Venerdì 20 novembre, alle ore 10, presso la Sala della Regina di Montecitorio si svolge il convegno...",
+      "publishedAt": "2026-11-19T00:00:00Z",
+      "dateEvidence": "html:publication-label"
+    },
+    {
+      "title": "Per i cristiani perseguitati e la libertà religiosa - Venerdì Montecitorio si illumina di rosso",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64330",
+      "excerpt": "La Camera dei deputati aderisce all’iniziativa della Red Week 2026, prevista per il 20 novembre...",
+      "publishedAt": "2026-11-19T00:00:00Z",
+      "dateEvidence": "html:publication-label"
+    },
+    {
+      "title": "Approvato decreto ambiente - Informativa Piantedosi su allarmi bomba",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64325",
+      "excerpt": "L'Aula è convocata lunedì 23 novembre alle ore 14. Nella seduta di giovedì 19 novembre la Came...",
+      "publishedAt": "2026-11-18T00:00:00Z",
+      "dateEvidence": "html:publication-label"
+    },
     {
       "title": "Intelligenza artificiale, vicepresidente Ascani a Bruxelles: serve solida ricerca pubblica per tutelare diritti e creare opportunità",
       "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64298",
@@ -18,37 +46,9 @@
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "Femminicidio, audizione Franceschi, Università Cattolica Sacro Cuore - Giovedì alle 8.30 diretta webtv",
+      "title": "Femminicidio, audizione Franceschi, Università Cattolica Sacro Cuore",
       "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64279",
       "excerpt": "Giovedì 19 novembre, alle ore 8.30, presso l'Aula del I piano di Palazzo San Macuto, la Commissione...",
-      "publishedAt": "2026-11-18T00:00:00Z",
-      "dateEvidence": "html:publication-label"
-    },
-    {
-      "title": "VIII Giornata della libera professione infermieristica - Giovedì alle 10 diretta webtv - Saluto di Trancassini",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64278",
-      "excerpt": "Giovedì 19 novembre, alle ore 10, presso la Sala della Regina di Montecitorio si svolge il convegno...",
-      "publishedAt": "2026-11-18T00:00:00Z",
-      "dateEvidence": "html:publication-label"
-    },
-    {
-      "title": "Riciclaggio - Ponte tra economia criminale e legale - Giovedì alle 15 diretta webtv",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64277",
-      "excerpt": "Giovedì 19 novembre, alle ore 15, presso la Sala Matteotti di Palazzo Theodoli - Bianchelli si svol...",
-      "publishedAt": "2026-11-18T00:00:00Z",
-      "dateEvidence": "html:publication-label"
-    },
-    {
-      "title": "Il futuro ci riguarda - Giovedì alle 15.30 diretta webtv",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64293",
-      "excerpt": "Giovedì 19 novembre, alle ore 15.30, presso la Sala del Refettorio di Palazzo San Macuto si svolge ...",
-      "publishedAt": "2026-11-18T00:00:00Z",
-      "dateEvidence": "html:publication-label"
-    },
-    {
-      "title": "Informativa Crosetto su guerra ibrida - Ambiente, clima ed economia circolare",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64266",
-      "excerpt": "La Camera è convocata giovedì 19 novembre alle ore 10. Nella seduta di mercoledì 18 si è svol...",
       "publishedAt": "2026-11-18T00:00:00Z",
       "dateEvidence": "html:publication-label"
     }
@@ -63,27 +63,27 @@
       "status": 200
     },
     {
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64336",
+      "status": 200
+    },
+    {
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64333",
+      "status": 200
+    },
+    {
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64330",
+      "status": 200
+    },
+    {
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64325",
+      "status": 200
+    },
+    {
       "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64298",
       "status": 200
     },
     {
       "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64279",
-      "status": 200
-    },
-    {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64278",
-      "status": 200
-    },
-    {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64277",
-      "status": 200
-    },
-    {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64293",
-      "status": 200
-    },
-    {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64266",
       "status": 200
     }
   ],
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://comunicazione.camera.it/archivio-prima-pagina",
-  "durationSeconds": 3.92
+  "durationSeconds": 4.42
 }
