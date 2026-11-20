@@ -4,16 +4,51 @@
   "sourceId": "la-stampa",
   "originUrl": "https://www.lastampa.it/",
   "configuredFeedUrl": "https://www.lastampa.it/rss/copertina.xml",
-  "collectedAt": "2026-11-19T16:10:46.595765Z",
+  "collectedAt": "2026-11-20T01:01:42.280792Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.lastampa.it/rss/copertina.xml",
   "items": [
     {
-      "title": "Bonus Natale per i pensionati: a chi spetta e come ottenerlo",
-      "url": "https://www.lastampa.it/tuttosoldi/2026/11/19/news/bonus_natale_pensionati-15802668/",
-      "excerpt": "Il bonus arriva insieme alla tredicesima ed è accreditato automaticamente, ma il diritto può essere verificato anche dopo il pagamento. Requisiti, importi e istruzioni per controllare la propria posizione",
+      "title": "Manovra, un’altra fumata nera. Salvini rilancia sulle banche. Meloni: “Ora basta polemiche”",
+      "url": "https://www.lastampa.it/economia/2026/11/20/news/manovra_salvini_banche_meloni-15803427/",
+      "excerpt": "Niente intesa sulle coperture: caccia ai fondi per sanità, pensioni e scuola",
+      "publishedAt": "2026-11-20T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Cobolli, operazione recupero per la Davis",
+      "url": "https://www.lastampa.it/sport/speciali/atp-finals-2026/2026/11/20/news/cobolli_operazione_recupero_per_la_davis-15803436/",
+      "excerpt": "Agli azzurri di Volandri servirà a Bologna il giovane tennista romano nella miglior forma possibile. Flavio si esalta in azzurro dove ritroverà l’amico Berrettini, convocato al posto di Bolelli",
+      "publishedAt": "2026-11-20T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Alcaraz in campo dopo la paura, “Ma la coscia va tenuta d’occhio”",
+      "url": "https://www.lastampa.it/sport/speciali/atp-finals-2026/2026/11/20/news/alcaraz_in_campo_stiramento_coscia-15803432/",
+      "excerpt": "Lo spagnolo, già qualificato in semifinale, è alle prese con un leggero stiramento",
+      "publishedAt": "2026-11-20T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Vito Mancuso: “Augias era un figlio dell’illuminismo. Troppo elegante per avere fede”",
+      "url": "https://www.lastampa.it/cultura/2026/11/20/news/vito_mancuso_era_un_figlio_dell_illuminismo_troppo_elegante_per_avere_fede-15803275/",
+      "excerpt": "Il filosofo: “Sapeva che si diventa se stessi solo servendo gli altri”",
+      "publishedAt": "2026-11-20T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Per sempre Augias",
+      "url": "https://www.lastampa.it/cultura/2026/11/20/news/per_sempre_augias-15803325/",
+      "excerpt": "Giornalista, scrittore, autore, intellettuale incontenibile. L’addio a 91 anni di un uomo dai molteplici talenti",
+      "publishedAt": "2026-11-20T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "La chiamata dei genitori: “Nostra figlia non respira”. Neonata muore nel letto a Mappano",
+      "url": "https://www.lastampa.it/torino/2026/11/19/news/mappano_bimbo_pochi_mesi_morto_casa-15803040/",
+      "excerpt": "Tragedia nel Torinese, la procura dispone l’autopsia. La piccola aveva 14 giorni: si sospetta il soffocamento",
       "publishedAt": "2026-11-19T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -25,30 +60,9 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Xi-Trump-Putin, attacco alla Corte Penale: “Fuori controllo. Non abusi della sua giurisdizione”",
-      "url": "https://www.lastampa.it/esteri/2026/11/19/news/vertice_shenzhen_trump_corte_penale_internazionale_xi_putin-15802519/",
-      "excerpt": "I tre capi di Stato hanno riconosciuto l'importanza del principio del consenso statale e del rispetto dell'immunità dei funzionari statali, e hanno convenuto che la Corte penale internazionale e altre istituzioni simili non devono abusare della propria giurisdizione",
-      "publishedAt": "2026-11-19T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Shenzhen, l’Ucraina convitato di pietra al tavolo Trump-Putin-Xi",
-      "url": "https://www.lastampa.it/esteri/2026/11/19/news/shenzhen_l_ucraina_convitato_di_pietra_al_tavolo_trump-putin-xi-15802588/",
-      "excerpt": "Un’ora e mezza a porte chiuse tra i presidenti Usa, cinese e russo. Il Tycoon chiama “amico” lo Zar e invoca il ruolo di Pechino per fermare la guerra, mentre il leader della Repubblica Popolare predica prudenza. Il governo Zelensky: “Non torniamo alle sfere d’influenza”",
-      "publishedAt": "2026-11-19T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Dal vino al litchi alle rotte dei droni: le curiosità attorno al vertice trilaterale di Shenzhen",
-      "url": "https://www.lastampa.it/esteri/2026/11/19/news/dal_vino_al_litchi_alle_rotte_dei_droni_le_curiosita_attorno_al_vertice_trilaterale_di_shenzhen-15802646/",
-      "excerpt": "Il banchetto con aragosta allo zenzero, i ventidue brani musicali: i dettagli più curiosi a margine dell’incontro Trump-Putin-Xi",
-      "publishedAt": "2026-11-19T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Ucraina, vertice decisivo a Berlino per la pace. Meloni arriva, Merz scherza: “Vai troppo veloce”",
-      "url": "https://www.lastampa.it/esteri/2026/11/19/news/colloqui_berlino_meloni_auto_merz-15802714/",
-      "excerpt": "Oltre trenta Paesi riuniti per riportare l'Europa al centro dei negoziati dopo l'incontro tra Trump, Putin e Xi. Sul tavolo le garanzie di sicurezza per Kiev. Siparietto all'arrivo della premier: l'auto supera il tappeto rosso e il cancelliere tedesco la accoglie con una battuta",
+      "title": "Cina alla pari degli Usa: il vertice di Shenzhen ridisegna gli equilibri mondiali, Europa ai margini",
+      "url": "https://www.lastampa.it/esteri/2026/11/19/news/cina_usa_vertice_shenzhen_equilibri_mondiali_europa-15802927/",
+      "excerpt": "L’Apec è stata fondata nel 1989, stesso anno del crollo del blocco sovietico, con lo scopo di integrare le allora piccole economie dell’Asia e del Pacifico nel nuovo ordine ...",
       "publishedAt": "2026-11-19T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -60,9 +74,16 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Perché il caso di Jensen Huang è il termometro dei rapporti fra Stati Uniti e Cina",
-      "url": "https://www.lastampa.it/rubriche/il-capitale/2026/11/19/news/il_manager_nella_stanza-15802650/",
-      "excerpt": "Il caso di Jensen Huang è il termometro dei rapporti fra Stati Uniti e Cina: ecco perché",
+      "title": "Zverev cala il tris, anche Fils deve arrendersi al numero 1",
+      "url": "https://www.lastampa.it/sport/speciali/atp-finals-2026/2026/11/19/news/zverev_fils_atp_finals_risultato-15803422/",
+      "excerpt": "Altro successo del tedesco n.1, Shelton vola in semifinale con lui",
+      "publishedAt": "2026-11-19T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Santopadre, coach di Sonego: \"Cobolli? Certe cicatrici lasciano il segno ma possono migliorarti\"",
+      "url": "https://www.lastampa.it/sport/speciali/atp-finals-2026/2026/11/19/video/vincenzo_santopadre_cobolli_sonego_cicatrici_crescita_tennis-15803056/",
+      "excerpt": "«Flavio si è dovuto confrontare con le Atp Finals, qualcosa ancora un filo più grande di lui». Vincenzo Santopadre, coach di Lorenzo Sonego e opinionista de La Stampa, commenta con Paolo Brusorio la prima esperienza di Flavio Cobolli al torneo di Torino. Per il romano la corsa alla semifinale si è chiusa contro Frances",
       "publishedAt": "2026-11-19T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -81,30 +102,23 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "\"Sono l'ultima rimasta\", \"No, Natalia, ci sono anche io\": il botta e risposta tra Augias e Aspesi",
-      "url": "https://www.lastampa.it/cronaca/2026/11/19/video/metropolis136__morte_scalfari_aspesiaugias_sono_lultima_rimasta_no_natalia_ci_sono_anche_io-5445424/",
-      "excerpt": "Il ricordo del fondatore di Repubblica passa attraverso due penne che hanno fatto la storia del giornale, Natalia Aspesi e Corrado Augias, e si intreccia alla crisi di governo scoppiata in Senato: \"Sono contenta che Scalfari non sappia di oggi - dice Aspesi -, sembriamo sempre un villaggetto litigioso, sono disgustata.",
+      "title": "Libri digitali, maggioranza spaccata: Forza Italia vota con le opposizioni. Poi l’emendamento passa",
+      "url": "https://www.lastampa.it/politica/2026/11/19/news/dl_scuola_maggioranza_battuta_emendamento_ebook_forza_italia-15802457/",
+      "excerpt": "La minoranza puntava anche sulla gratuità dei libri di testo",
       "publishedAt": "2026-11-19T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Il governo: arriva la Zes per il Nord. Come funziona, cosa prevede e come aiuterà le imprese",
-      "url": "https://www.lastampa.it/speciale/economia/nordovest-economia/2026/11/19/news/il_governo_arriva_la_zes_per_il_nord_come_funziona_cosa_prevede_e_come_aiutera_le_imprese-15802680/",
-      "excerpt": "Autorizzazione unica e sportello digitale anche per Piemonte, Lombardia e Liguria. Entro sessanta giorni un piano indicherà i settori. Niente credito d’imposta.",
+      "title": "Allarmi bomba e attacchi hacker, Piantedosi: “Si vuole destabilizzare il Paese”",
+      "url": "https://www.lastampa.it/politica/2026/11/19/news/allarmi_bomba_attacchi_hacker_piantedosi_camera-15802640/",
+      "excerpt": "Il ministro dell’Interno riferisce alla Camera: «L’obiettivo è creare disorientamento, non possiamo prestarci al gioco di chi vuole scatenare il caos»",
       "publishedAt": "2026-11-19T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Sciopero generale 20 novembre: trasporti, scuole e manifestazioni. Cosa succederà punto per punto",
-      "url": "https://www.lastampa.it/cronaca/2026/11/19/news/sciopero_generale_20_novembre_trasporti_scuole_manifestazioni-15802765/",
-      "excerpt": "Lavoratori e studenti in piazza e oltre cento manifestazioni in tutta Italia. Esclusi dall’astensione il trasporto aereo, ferroviario e il trasporto merci su rotaia",
-      "publishedAt": "2026-11-19T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "“La manovra fa schifo”: il 20 novembre lo sciopero della Cgil in 100 piazze d’Italia",
-      "url": "https://www.lastampa.it/economia/2026/11/19/news/la_manovra_fa_schifo_domani_la_cgil_manifesta_in_100_piazze_d_italia-15801946/",
-      "excerpt": "Landini all’attacco: «Anche per la maggioranza di governo la legge di bilancio va cambiata». Fermi per l’intera giornata tutti i settori privati ed i dipendenti pubblici, comprese scuole, università, ospedali e trasporto pubblico locale",
+      "title": "Campo largo, è stallo anche sulle spese militari",
+      "url": "https://www.lastampa.it/politica/2026/11/19/news/campo_largo_e_stallo_anche_sulle_spese_militari-15802602/",
+      "excerpt": "Al tavolo del programma braccio di ferro sulla riduzione degli investimenti programmati in armi. Da una parte M5s e Avs, dall’altra Iv e Più Europa. Il Pd cerca la mediazione",
       "publishedAt": "2026-11-19T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -137,23 +151,23 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Libri digitali, maggioranza spaccata: Forza Italia vota con le opposizioni. Poi l’emendamento passa",
-      "url": "https://www.lastampa.it/politica/2026/11/19/news/dl_scuola_maggioranza_battuta_emendamento_ebook_forza_italia-15802457/",
-      "excerpt": "La minoranza puntava anche sulla gratuità dei libri di testo",
+      "title": "Due ragazzini imitano Gta, rubano un bus e finiscono in un fosso",
+      "url": "https://www.lastampa.it/cronaca/2026/11/19/news/gta_bus_danneggiato_minorenni_rovigo-15803257/",
+      "excerpt": "Prima un blitz nel deposito dei pullman, con il danneggiamento a dieci mezzi, poi la corsa e un video postato sui social",
       "publishedAt": "2026-11-19T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Allarmi bomba e attacchi hacker, Piantedosi: “Si vuole destabilizzare il Paese”",
-      "url": "https://www.lastampa.it/politica/2026/11/19/news/allarmi_bomba_attacchi_hacker_piantedosi_camera-15802640/",
-      "excerpt": "Il ministro dell’Interno riferisce alla Camera: «L’obiettivo è creare disorientamento, non possiamo prestarci al gioco di chi vuole scatenare il caos»",
+      "title": "Droni sull’aeroporto di Genova, scalo chiuso per due ore. Stop ai voli dalle 20,10 alle 22",
+      "url": "https://www.lastampa.it/cronaca/2026/11/19/news/droni_aeroporto_genova_scalo_chiuso-15803455/",
+      "excerpt": "Dopo i controlli, è stato dato il via libera dell’Enac al ripristino delle operazioni",
       "publishedAt": "2026-11-19T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Campo largo, è stallo anche sulle spese militari",
-      "url": "https://www.lastampa.it/politica/2026/11/19/news/campo_largo_e_stallo_anche_sulle_spese_militari-15802602/",
-      "excerpt": "Al tavolo del programma braccio di ferro sulla riduzione degli investimenti programmati in armi. Da una parte M5s e Avs, dall’altra Iv e Più Europa. Il Pd cerca la mediazione",
+      "title": "Mostro di Firenze, ripartono le indagini: caccia al Dna sugli oggetti trovati nelle auto",
+      "url": "https://www.lastampa.it/cronaca/2026/11/19/news/mostro_di_firenze_ripartono_le_indagini_caccia_al_dna_sugli_oggetti_trovati_nelle_auto-15803085/",
+      "excerpt": "La procura ha affidato le analisi al genetista Ugo Ricci. I delitti tra il 1968 e il 1985, sedici le vittime e il giallo del colpevole",
       "publishedAt": "2026-11-19T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -161,69 +175,6 @@
       "title": "Novellara, \"Devi fare sesso con tutti noi\": e si lancia dall’auto. \"Poteva essere un’altra Saman\"",
       "url": "https://www.lastampa.it/cronaca/2026/11/19/news/novellara_devi_fare_sesso_con_tutti_noi_e_si_lancia_dall_auto_poteva_essere_un_altra_saman-15802790/",
       "excerpt": "Il caso di una 25enne pakistana a Novellara: picchiata e segregata dall’intera famiglia",
-      "publishedAt": "2026-11-19T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Ex campionessa di nuoto derubata dai finti finanzieri. Nel bottino anche Rolex e 15 medaglie d’oro",
-      "url": "https://www.lastampa.it/cronaca/2026/11/19/news/ex_campionessa_di_nuoto_derubata_dai_finti_finanzieri_nel_bottino_anche_rolex_e_15_medaglie_d_oro-15802277/",
-      "excerpt": "Milano, la donna e il marito 79enni ingannati da una telefonata cui è seguita la visita di un finto agente",
-      "publishedAt": "2026-11-19T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Università occupata a Torino, danni per 310.000 euro: oltre ai murales furti e arredi spaccati",
-      "url": "https://www.lastampa.it/torino/2026/11/19/news/universita_torino_occupazioni_danni_campus_einaudi_palazzo_nuovo-15802525/",
-      "excerpt": "Al Campus Einaudi il conto è di 149.000 euro, compresa la razzia dei apparecchiature informatiche per 11.000 euro. A Palazzo Nuovo 156.000 euro da sborsare; attrezzature rubate, serrature distrutte e scarichi da rifare",
-      "publishedAt": "2026-11-19T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Il padre del cacciatore ucciso nel Savonese era nei boschi a pochi metri dal luogo della tragedia",
-      "url": "https://www.lastampa.it/savona/2026/11/19/news/il_padre_del_cacciatore_ucciso_nel_savonese_era_nei_boschi_a_pochi_metri_dal_luogo_della_tragedia-15802659/",
-      "excerpt": "Partecipava alla battuta a Quiliano. Giuseppe Ghiso ha sparato per errore al cugino Emilio, poi si è suicidato",
-      "publishedAt": "2026-11-19T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Operaio licenziato su Whatsapp fa ricorso ma perde. Il Tribunale: “Regolare, c’erano le spunte blu”",
-      "url": "https://www.lastampa.it/cronaca/2026/11/19/news/licenziamento_whatsapp_infortunio_lavoro_ricorso_spunte_blu-15802467/",
-      "excerpt": "L’uomo era assunto dal 2025 a tempo indeterminato in un’azienda spezzina di idraulica navale. Dopo un infortunio aveva chiesto un cambio mansione",
-      "publishedAt": "2026-11-19T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Il governo valuta il blocco totale del telemarketing a raffica",
-      "url": "https://www.lastampa.it/economia/2026/11/19/news/telemarketing_blocco_totale_telefonate_governo_ddl_concorrenza-15802534/",
-      "excerpt": "Due emendamenti, uno della Lega e l’altro di Forza Italia, contro le telefonate selvagge si fanno largo nel Ddl Concorrenza. Esecutivo allo studio",
-      "publishedAt": "2026-11-19T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Bancomat e Poste, arriva il pagamento con il numero di telefono: soldi in tempo reale senza Iban",
-      "url": "https://www.lastampa.it/economia/2026/11/19/news/bancomat_poste_pagamento_numero_telefono_senza_iban-15802503/",
-      "excerpt": "Dal prossimo aprile le app di Poste Italiane e Bancomat Pay saranno interoperabili per trasferire denaro istantaneamente tra privati, senza dover scaricare nuove applicazioni",
-      "publishedAt": "2026-11-19T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Paura per Alcaraz, oggi una risonanza magnetica a Torino: Finals a rischio",
-      "url": "https://www.lastampa.it/sport/speciali/atp-finals-2026/2026/11/19/news/alcaraz_atp_finals_infortunio_torino_paura_ritiro-15802490/",
-      "excerpt": "L’allarme arrivato dalla Spagna: potrebbe ritirarsi dal torneo per il problema al bicipite femorale",
-      "publishedAt": "2026-11-19T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Tutte le strade davanti a Sinner: c’è l’ipotesi di un consulto negli Usa",
-      "url": "https://www.lastampa.it/sport/tennis/2026/11/19/news/tutte_le_strade_davanti_a_sinner_c_e_l_ipotesi_di_un_consulto_negli_usa-15802274/",
-      "excerpt": "Indiscrezioni sulla trasferta, ma a prescindere resta il dilemma sul ginocchio",
-      "publishedAt": "2026-11-19T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "“In campo con Alcaraz mi tremava la mano ma ho capito che il tennis è divertimento”",
-      "url": "https://www.lastampa.it/sport/tennis/2026/11/19/news/in_campo_con_alcaraz_mi_tremava_la_mano_ma_ho_capito_che_il_tennis_e_divertimento-15802288/",
-      "excerpt": "Guto Miguel, il 17enne brasiliano è numero uno al mondo Junior e sparring partner dei big del torneo",
       "publishedAt": "2026-11-19T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -237,7 +188,7 @@
     {
       "title": "Vino, Ceretto prima italiana nella classifica delle migliori cantine del mondo",
       "url": "https://www.lastampa.it/cronaca/2026/11/19/news/ceretto_migliori_cantine_mondo_classifica_antinori-15802564/",
-      "excerpt": "L’altra azienda italiana segnalata è Antinori nel Chianti Classico",
+      "excerpt": "L’altra azienda italiana segnalata è Antinori nel Chianti Classico, entrata nel gruppo Best of the Best",
       "publishedAt": "2026-11-19T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -263,16 +214,23 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Anthropic, da ribelli a miliardari: ecco chi sono i sette nuovi re dell’intelligenza artificiale",
-      "url": "https://www.lastampa.it/economia/2026/11/19/news/anthropic_da_ribelli_a_miliardari_ecco_chi_sono_i_sette_nuovi_re_dell_intelligenza_artificiale-15802368/",
-      "excerpt": "Ciascun fondatore incassa 250 milioni cash e conserva 18 miliardi in quote, blindando la maggioranza assoluta dei voti. Dalle radici toscane dei fratelli Amodei all'autodidatta ricevuto dal Papa: ritratto dei padroni dell’AI",
+      "title": "Panetta, prudenza su tassi Bce e tagli alle tasse: “La finanza pubblica ha dei limiti”",
+      "url": "https://www.lastampa.it/economia/2026/11/19/news/panetta_prudenza_su_tassi_bce_e_tagli_alle_tasse_la_finanza_pubblica_ha_dei_limiti-15803203/",
+      "excerpt": "A Fiuggi il governatore della Banca d’Italia difende il “buon equilibrio” di Francoforte con l’inflazione al 5,5% e chiede più crescita. Promosso l’accordo sui contratti, appello all’Ue su giovani e intelligenza artificiale",
       "publishedAt": "2026-11-19T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Exor sale all’8,5% della multinazionale francese delle biotecnologie bioMérieux",
-      "url": "https://www.lastampa.it/economia/2026/11/19/news/exor_sale_biomerieux_francia_biotecnologie-15802355/",
-      "excerpt": "La holding della famiglia Agnelli-Elkann raddoppia la quota diretta nel gruppo. Il ceo di Exor, Elkann: “Azienda che apprezziamo profondamente”",
+      "title": "Attacco hacker con l’intelligenza artificiale alla Commissione europea",
+      "url": "https://www.lastampa.it/tech/2026/11/19/news/attacco_hacker_con_l_intelligenza_artificiale_alla_commissione_europea-15803063/",
+      "excerpt": "L’operazione è stata individuata il 22 ottobre e confermata quattro giorni dopo. Gli aggressori avrebbero utilizzato strumenti di AI per cercare vulnerabilità nei sistemi informatici. Bruxelles: “Nessuna prova di violazioni dei dati del personale”. Indagini ancora in corso",
+      "publishedAt": "2026-11-19T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Volkswagen chiede il blocco degli stipendi. I sindacati pronti allo scontro",
+      "url": "https://www.lastampa.it/economia/2026/11/19/news/volkswagen_chiede_il_blocco_degli_stipendi-15803028/",
+      "excerpt": "Oltre al blocco delle retribuzioni, il gruppo punta a eliminare due voci integrative e di rendere flessibile l’orario di 35 ore. Pesa il calo del risultato operativo, sceso da 19,1 a 8,9 miliardi di euro nel 2025",
       "publishedAt": "2026-11-19T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -289,6 +247,48 @@
       "excerpt": "Dopo essere fuggito dagli arresti domiciliari a Buenos Aires, l'ex membro delle Brigate Rosse, Leonardo Bertulazzi, è stato ripreso all'interno di un negozio di abbigliamento mentre prova alcuni cappelli in saldo. È quanto mostrano le telecamere di sorveglianza del negozio VCP di Martínez, in Argentina, dove il settant",
       "publishedAt": "2026-11-19T00:00:00Z",
       "dateEvidence": "feed:published"
+    },
+    {
+      "title": "X Factor, gli inediti: i nostri promossi e bocciati",
+      "url": "https://www.lastampa.it/spettacoli/2026/11/20/news/x_factor_inediti_promossi_bocciati-15803482/",
+      "excerpt": "Essere riusciti ad arrivare alla ventesima edizione è un risultato tutt’altro che banale per un talent",
+      "publishedAt": "2026-11-19T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "DiCaprio compie 52 anni: mega festa a Beverly Hills tra vip, modelle e il giallo Vittoria Ceretti",
+      "url": "https://www.lastampa.it/spettacoli/2026/11/19/news/leonardo_dicaprio_52_anni_festa_beverly_hills_vittoria_ceretti-15802398/",
+      "excerpt": "Festa esclusiva piena di stelle nella villa dell’attore. Fra gli ospiti anche Jeff Bezos con la moglie, Tobey Maguire e l’ex primo ministro canadese, Justin Trudeau",
+      "publishedAt": "2026-11-19T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Amazzonia, il raro incontro con gli indigeni Awá: perché quelle immagini allarmano",
+      "url": "https://www.lastampa.it/esteri/2026/11/18/video/amazzonia_indigeni_awa_usciti_isolamento-15801455/",
+      "excerpt": "Una ventina di indigeni Awá che vivono in isolamento volontario nella foresta amazzonica brasiliana si sarebbero avvicinati a una comunità chiedendo del cibo. Le rare immagini, diffuse il 17 novembre da Survival International, documenterebbero un incontro avvenuto il giorno precedente nella terra indigena di Arariboia,",
+      "publishedAt": "2026-11-18T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Gli ulivi conquistano la terra del vino: cosa sta succedendo e com'è l'olio piemontese?",
+      "url": "https://www.lastampa.it/cronaca/2026/11/18/video/piemonte_olio_extravergine_ulivi_cambiamento_climatico_vino-15801350/",
+      "excerpt": "Inverni più miti e ricerca di nuove colture spingono l’olivicoltura in Piemonte: nel 2026 si contano 400 ettari coltivati e una produzione stimata di 160 mila bottiglie, in aumento del 40%. Nascono le prime cultivar autoctone e il settore guarda anche all’oleoturismo e al riconoscimento Igp. Il presidente del Consorzio",
+      "publishedAt": "2026-11-18T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "L'aereo militare cade dal cielo e si schianta: l'esplosione ripresa dalle telecamere in Russia",
+      "url": "https://www.lastampa.it/esteri/2026/11/18/video/russia_aereo_militare_schianta_siberia_esplosione_19_morti-15801363/",
+      "excerpt": "Un aereo militare russo è precipitato schiantandosi nei pressi del villaggio di Yagunovo, nella regione di Kemerovo, in Siberia. Le immagini di una telecamera di sorveglianza mostrano il velivolo cadere e, subito dopo, un'esplosione e le fiamme che si alzano dietro le abitazioni. Si tratta di un aereo da trasporto Anto",
+      "publishedAt": "2026-11-18T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Il Papa a Lima colpito al volto da un rosario lanciato dalla folla",
+      "url": "https://www.lastampa.it/esteri/2026/11/16/video/il_papa_a_lima_colpito_da_un_rosario_al_volto_lanciato_dalla_folla-15800324/",
+      "excerpt": "Piccolo incidente senza conseguenze per il Papa durante il suo giro sulla Papamobile tra la folla della spianata di Las Palmas, prima della Messa, l'ultima in terra peruviana. Un fedele, come capita spesso, ha lanciato verso Leone XIV un rosario. Stavolta però il piccolo oggetto ha raggiunto all'occhio Papa Prevost, un",
+      "publishedAt": "2026-11-16T00:00:00Z",
+      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -302,5 +302,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 0.83
+  "durationSeconds": 0.71
 }

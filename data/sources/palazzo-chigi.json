@@ -4,7 +4,7 @@
   "sourceId": "palazzo-chigi",
   "originUrl": "https://www.governo.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-19T16:10:57.269980Z",
+  "collectedAt": "2026-11-20T01:01:52.992251Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
@@ -13,7 +13,7 @@
     {
       "title": "Riunione della Coalizione dei Volenterosi",
       "url": "https://www.governo.it/it/articolo/riunione-della-coalizione-dei-volenterosi/33156",
-      "excerpt": "Il Presidente del Consiglio, Giorgia Meloni, è a Berlino per partecipare alla riunione della Coalizione dei Volenterosi.",
+      "excerpt": "Il Presidente del Consiglio, Giorgia Meloni, ha partecipato a Berlino alla riunione della Coalizione dei Volenterosi.",
       "publishedAt": "2026-11-19T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -100,5 +100,5 @@
     }
   ],
   "message": "Feed dichiarato dalla fonte; date di pubblicazione verificate.",
-  "durationSeconds": 30.17
+  "durationSeconds": 30.22
 }

@@ -4,7 +4,7 @@
   "sourceId": "cnr",
   "originUrl": "https://www.cnr.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-19T16:10:15.799698Z",
+  "collectedAt": "2026-11-20T01:01:10.872936Z",
   "status": "error",
   "diagnosticCode": "connection_error",
   "method": "html",
@@ -14,7 +14,7 @@
   "message": "SSLError",
   "httpStatus": null,
   "failedUrl": "https://www.cnr.it/robots.txt",
-  "durationSeconds": 4.32,
+  "durationSeconds": 1.0,
   "attemptErrors": [
     {
       "url": "https://www.cnr.it/it/news/rss",

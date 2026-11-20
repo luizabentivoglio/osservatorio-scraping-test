@@ -4,12 +4,19 @@
   "sourceId": "pagella-politica",
   "originUrl": "https://pagellapolitica.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-19T16:10:55.386698Z",
+  "collectedAt": "2026-11-20T01:01:51.903712Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "Conti in tasca diventa anche un podcast",
+      "url": "https://pagellapolitica.it/articoli/conti-in-tasca-podcast-economia",
+      "excerpt": "Una volta ogni due settimane analizzeremo i problemi della politica e dell’attualità attraverso la lente...",
+      "publishedAt": "2026-11-19T00:00:00Z",
+      "dateEvidence": "html:post-date"
+    },
     {
       "title": "Le nuove norme contro l’antisemitismo sono ancora tutte da scrivere",
       "url": "https://pagellapolitica.it/articoli/legge-antisemitismo-approvata",
@@ -44,13 +51,6 @@
       "excerpt": "Lo ha ottenuto vincendo le elezioni suppletive nel collegio di Chieti, dove bisognava sostituire il deputato...",
       "publishedAt": "2026-11-16T00:00:00Z",
       "dateEvidence": "html:post-date"
-    },
-    {
-      "title": "Il “campo largo” non riesce a mettersi d’accordo sulla patrimoniale",
-      "url": "https://pagellapolitica.it/articoli/campo-largo-accordo-patrimoniale",
-      "excerpt": "Alleanza Verdi-Sinistra insiste per inserire la tassa nel programma condiviso, ma altri partiti della coalizione...",
-      "publishedAt": "2026-11-16T00:00:00Z",
-      "dateEvidence": "html:post-date"
     }
   ],
   "attempts": [
@@ -60,6 +60,10 @@
     },
     {
       "url": "https://pagellapolitica.it/articoli",
+      "status": 200
+    },
+    {
+      "url": "https://pagellapolitica.it/articoli/conti-in-tasca-podcast-economia",
       "status": 200
     },
     {
@@ -81,10 +85,6 @@
     {
       "url": "https://pagellapolitica.it/articoli/risultato-elezioni-suppletive-chieti",
       "status": 200
-    },
-    {
-      "url": "https://pagellapolitica.it/articoli/campo-largo-accordo-patrimoniale",
-      "status": 200
     }
   ],
   "message": "6 notizie recenti con data verificata; copertura parziale.",
@@ -92,5 +92,5 @@
   "candidateCount": 6,
   "datedCount": 6,
   "listingUrl": "https://pagellapolitica.it/articoli",
-  "durationSeconds": 8.18
+  "durationSeconds": 5.96
 }

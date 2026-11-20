@@ -4,52 +4,45 @@
   "sourceId": "il-post",
   "originUrl": "https://www.ilpost.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-19T16:10:43.372095Z",
+  "collectedAt": "2026-11-20T01:01:39.208972Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
-      "title": "Perché tutti questi guasti informatici?",
-      "url": "https://www.ilpost.it/2026/11/19/internet-intelligenza-artificiale-sicurezza/?homepagePosition=0",
-      "excerpt": "Dagli aerei ai servizi per scambiarsi email, passando per i sistemi bancari, è stata una settimana difficile, che ne fa presagire altre complicate",
-      "publishedAt": "2026-11-19T14:56:42Z",
+      "title": "Un sudcoreano accusato di aver barato al test di ammissione per l’università usando l’intelligenza artificiale è stato trovato morto",
+      "url": "https://www.ilpost.it/2026/11/19/corea-del-sud-uomo-morto-test-ammissione-universita-intelligenza-artificiale/?bitPosition=1",
+      "excerpt": "Un sudcoreano accusato di aver barato al test di ammissione per l’università usando l’intelligenza artificiale è stato trovato morto Giovedì un uomo sudcoreano di 32 anni che aveva ottenuto un punteggio perfetto al test di ammissione al corso di laurea in odontoiatria all’Università nazionale di Seul è stato trovato mo",
+      "publishedAt": "2026-11-19T21:31:55Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "L’Italia si è aggiudicata il primo progetto per lo stoccaggio strategico delle materie prime critiche in Europa",
-      "url": "https://www.ilpost.it/2026/11/19/italia-realizzazione-progetto-stoccaggio-strategico-materie-prime-critiche/?bitPosition=1",
-      "excerpt": "L’Italia si è aggiudicata il primo progetto per lo stoccaggio strategico delle materie prime critiche in Europa La Commissione europea ha approvato il progetto italiano per realizzare il primo sito europeo per lo stoccaggio strategico delle materie prime critiche, fondamentali per l’industria tecnologica, militare e sp",
-      "publishedAt": "2026-11-19T13:44:22Z",
+      "title": "La Cassazione ha confermato la condanna di Giampaolo Amato per gli omicidi della moglie e della suocera a Bologna, nel 2021",
+      "url": "https://www.ilpost.it/2026/11/19/giampaolo-amato-condanna-definitiva/?bitPosition=2",
+      "excerpt": "La Cassazione ha confermato la condanna di Giampaolo Amato per gli omicidi della moglie e della suocera a Bologna, nel 2021 È diventata definitiva la condanna all’ergastolo per il medico Giampaolo Amato, già condannato in primo e in secondo grado per gli omicidi della moglie Isabella Linsalata e della suocera Giulia Ta",
+      "publishedAt": "2026-11-19T21:03:05Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "La Commissione Europea ha subìto un attacco informatico",
-      "url": "https://www.ilpost.it/2026/11/19/attacco-informatico-commissione-europea/?bitPosition=2",
-      "excerpt": "La Commissione Europea ha subìto un attacco informatico Un’esclusiva del sito di news Politico ha rivelato che la Commissione Europea ha subito un attacco informatico condotto da un gruppo di hacker. Il portavoce della Commissione ha confermato l’attacco dicendo che è avvenuto il 22 ottobre e che è stato fatto con stru",
-      "publishedAt": "2026-11-19T12:39:36Z",
+      "title": "Le ambasciate di Austria e Paesi Bassi a Kyiv sono state danneggiate in un attacco russo",
+      "url": "https://www.ilpost.it/2026/11/19/kyiv-attacco-ambasciate-austria-paesi-bassi/?bitPosition=3",
+      "excerpt": "Le ambasciate di Austria e Paesi Bassi a Kyiv sono state danneggiate in un attacco russo Giovedì la Russia ha compiuto un nuovo attacco con droni contro Kyiv, la capitale dell’Ucraina: nell’attacco sono stati danneggiati lievemente anche gli edifici delle ambasciate di Austria e Paesi Bassi, che distano circa 2 chilome",
+      "publishedAt": "2026-11-19T17:49:40Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "È morto il giornalista Piero Vigorelli, ideatore del programma televisivo della Rai “La vita in diretta”",
-      "url": "https://www.ilpost.it/2026/11/19/morto-piero-vigorelli-ideatore-vita-in-diretta/?bitPosition=3",
-      "excerpt": "È morto il giornalista Piero Vigorelli, ideatore del programma televisivo della Rai “La vita in diretta” Mercoledì è morto a 82 anni il giornalista Piero Vigorelli: aveva lavorato a lungo in televisione, sia in Rai che a Mediaset. Nato a Zugo, in Svizzera, nel 1944, fu assunto al Messaggero nel 1974, dove lavorò fino a",
-      "publishedAt": "2026-11-19T10:48:34Z",
+      "title": "Ci sono decine di persone migranti disperse a causa di un naufragio al largo del Senegal",
+      "url": "https://www.ilpost.it/2026/11/19/dispersi-naufragio-barca-persone-migranti-senegal/?bitPosition=4",
+      "excerpt": "Ci sono decine di persone migranti disperse a causa di un naufragio al largo del Senegal Decine di persone migranti sono considerate disperse a causa del naufragio di una barca vicino alle coste di Dakar, in Senegal, nell’Africa occidentale. Il Senegal è uno dei principali punti di partenza da cui le persone migranti c",
+      "publishedAt": "2026-11-19T16:32:10Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "Il parlamento della Danimarca ha ratificato l’accordo per la sicurezza fatto con Stati Uniti e Groenlandia, che entrerà così in vigore",
-      "url": "https://www.ilpost.it/2026/11/19/accordo-sicurezza-stati-uniti-groenlandia-danimarca-ratificato-definitivamente/?bitPosition=4",
-      "excerpt": "Il parlamento della Danimarca ha ratificato l’accordo per la sicurezza fatto con Stati Uniti e Groenlandia, che entrerà così in vigore Giovedì il parlamento della Danimarca ha ratificato all’unanimità l’accordo firmato a settembre con Stati Uniti e Groenlandia, per consentire una maggiore presenza militare statunitense",
-      "publishedAt": "2026-11-19T10:17:46Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Se tutto è connesso, tutto può essere hackerato",
-      "url": "https://www.ilpost.it/2026/11/06/tutto-connesso-tutto-hackerato/?homepagePosition=0.1&referrerPost=3737482",
-      "excerpt": "Colleghiamo a Internet dispositivi d’ogni tipo ma non sempre pensiamo ad aggiornare i loro sistemi di sicurezza, e a volte non basta comunque",
-      "publishedAt": "2026-11-06T16:01:35Z",
+      "title": "Webuild è troppo grande o troppo piccola?",
+      "url": "https://www.ilpost.it/2026/11/19/webuild-grandi-opere-futuro/?homepagePosition=0",
+      "excerpt": "E soprattutto: cosa ci fa lo Stato dentro la più importante impresa privata italiana di costruzioni, e con quali conseguenze?",
+      "publishedAt": "2026-11-19T08:26:18Z",
       "dateEvidence": "jsonld:datePublished"
     }
   ],
@@ -63,34 +56,34 @@
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/19/internet-intelligenza-artificiale-sicurezza/?homepagePosition=0",
+      "url": "https://www.ilpost.it/2026/11/19/webuild-grandi-opere-futuro/?homepagePosition=0",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/06/tutto-connesso-tutto-hackerato/?homepagePosition=0.1&referrerPost=3737482",
+      "url": "https://www.ilpost.it/2026/10/16/webuild-contenzioso-rfi-cantieri-grandi-opere/?homepagePosition=0.1&referrerPost=3736173",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/19/italia-realizzazione-progetto-stoccaggio-strategico-materie-prime-critiche/?bitPosition=1",
+      "url": "https://www.ilpost.it/2026/11/19/corea-del-sud-uomo-morto-test-ammissione-universita-intelligenza-artificiale/?bitPosition=1",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/19/attacco-informatico-commissione-europea/?bitPosition=2",
+      "url": "https://www.ilpost.it/2026/11/19/giampaolo-amato-condanna-definitiva/?bitPosition=2",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/19/morto-piero-vigorelli-ideatore-vita-in-diretta/?bitPosition=3",
+      "url": "https://www.ilpost.it/2026/11/19/kyiv-attacco-ambasciate-austria-paesi-bassi/?bitPosition=3",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/19/accordo-sicurezza-stati-uniti-groenlandia-danimarca-ratificato-definitivamente/?bitPosition=4",
+      "url": "https://www.ilpost.it/2026/11/19/dispersi-naufragio-barca-persone-migranti-senegal/?bitPosition=4",
       "status": 200
     }
   ],
-  "message": "6 notizie recenti con data verificata; copertura parziale.",
+  "message": "5 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [],
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.ilpost.it/",
-  "durationSeconds": 3.65
+  "durationSeconds": 3.53
 }

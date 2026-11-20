@@ -4,12 +4,26 @@
   "sourceId": "regione-lombardia",
   "originUrl": "https://www.regione.lombardia.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-19T16:11:11.213460Z",
+  "collectedAt": "2026-11-20T01:02:09.801101Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.lombardianotizie.online/feed/",
   "items": [
+    {
+      "title": "A Stati Generali dei Trasporti sfide su digitale e sostenibilità",
+      "url": "https://www.lombardianotizie.online/stati-generali-dei-trasporti/",
+      "excerpt": "Fontana: mettiamo in campo importanti risorse per mezzi sempre più efficienti Lucente: mezzi moderni e green per una Lombardia ancora più competitiva The post A Stati Generali dei Trasporti sfide su digitale e sostenibilità appeared first on Lombardia Notizie Online .",
+      "publishedAt": "2026-11-19T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Meno dolore e ricoveri brevi con la chirurgia toracica robotica",
+      "url": "https://www.lombardianotizie.online/niguarda-chirurgia-toracica-robotica/",
+      "excerpt": "Novità del Niguarda di Milano spiegate dal dottor Gianluca Pariscenti The post Meno dolore e ricoveri brevi con la chirurgia toracica robotica appeared first on Lombardia Notizie Online .",
+      "publishedAt": "2026-11-19T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "Torna a San Vittore Olona l’edizione numero 94 della Cinque Mulini",
       "url": "https://www.lombardianotizie.online/cinque-mulini-94-edizione/",
@@ -275,20 +289,6 @@
       "excerpt": "Nuovo appuntamento con l'approfondimento video The post Online la ventunesima puntata di ‘Lombardia in Primo Piano’ appeared first on Lombardia Notizie Online .",
       "publishedAt": "2026-11-13T00:00:00Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "La Regione festeggia i cento anni dalla quotazione in Borsa di FNM",
-      "url": "https://www.lombardianotizie.online/quotazione-borsa-fnm/",
-      "excerpt": "Fontana: un secolo di innovazione e valore pubblico, la sfida è migliorare servizi The post La Regione festeggia i cento anni dalla quotazione in Borsa di FNM appeared first on Lombardia Notizie Online .",
-      "publishedAt": "2026-11-13T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "L’artista Jago in mostra al Ma*Ga di Gallarate con ‘Corpi esposti’",
-      "url": "https://www.lombardianotizie.online/jago-mostra-corpi-esposti-gallarate/",
-      "excerpt": "Caruso: proposta per avvicinare e coinvolgere nuovi visitatori al museo The post L’artista Jago in mostra al Ma*Ga di Gallarate con ‘Corpi esposti’ appeared first on Lombardia Notizie Online .",
-      "publishedAt": "2026-11-13T00:00:00Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -306,5 +306,5 @@
     }
   ],
   "message": "Feed dichiarato dalla fonte; date di pubblicazione verificate.",
-  "durationSeconds": 1.15
+  "durationSeconds": 6.38
 }

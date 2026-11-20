@@ -4,7 +4,7 @@
   "sourceId": "camera",
   "originUrl": "https://www.camera.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-19T16:10:05.906822Z",
+  "collectedAt": "2026-11-20T01:01:01.723909Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -32,16 +32,16 @@
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "Approvato decreto ambiente - Informativa Piantedosi su allarmi bomba",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64325",
-      "excerpt": "L'Aula è convocata lunedì 23 novembre alle ore 14. Nella seduta di giovedì 19 novembre la Came...",
+      "title": "Intelligenza artificiale, vicepresidente Ascani a Bruxelles: serve solida ricerca pubblica per tutelare diritti e creare opportunità",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64298",
+      "excerpt": "\"Oggi poche imprese, concentrate in pochi Paesi, dispongono di gran parte dei dati, della potenza di...",
       "publishedAt": "2026-11-18T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "Intelligenza artificiale, vicepresidente Ascani a Bruxelles: serve solida ricerca pubblica per tutelare diritti e creare opportunità",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64298",
-      "excerpt": "\"Oggi poche imprese, concentrate in pochi Paesi, dispongono di gran parte dei dati, della potenza di...",
+      "title": "Approvato decreto ambiente - Informativa Piantedosi su allarmi bomba",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64325",
+      "excerpt": "La Camera è convocata lunedì 23 novembre alle ore 14. Nella seduta di giovedì 19 novembre la C...",
       "publishedAt": "2026-11-18T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
@@ -75,11 +75,11 @@
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64325",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64298",
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64298",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64325",
       "status": 200
     },
     {
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://comunicazione.camera.it/archivio-prima-pagina",
-  "durationSeconds": 4.42
+  "durationSeconds": 4.52
 }

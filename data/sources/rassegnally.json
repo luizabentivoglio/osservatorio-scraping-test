@@ -4,12 +4,19 @@
   "sourceId": "rassegnally",
   "originUrl": "https://rassegnally.substack.com/",
   "configuredFeedUrl": "https://rassegnally.substack.com/feed",
-  "collectedAt": "2026-11-19T16:11:10.572096Z",
+  "collectedAt": "2026-11-20T01:02:09.654282Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://rassegnally.substack.com/feed",
   "items": [
+    {
+      "title": "Comunque, Trump, Xi Jinping e Putin hanno firmato una dichiarazione sulla pace",
+      "url": "https://rassegnally.substack.com/p/comunque-trump-xi-jinping-e-putin",
+      "excerpt": "È una delle 2 notizie di oggi",
+      "publishedAt": "2026-11-19T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "Comunque, è stata approvata la legge contro l’antisemitismo",
       "url": "https://rassegnally.substack.com/p/comunque-e-stata-approvata-la-legge",
@@ -79,13 +86,6 @@
       "excerpt": "Il cupido della prima coppia sono i data center, mentre la seconda per ora sta insieme solo per i titoli dei giornali",
       "publishedAt": "2026-11-09T00:00:00Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Comunque, anche oggi falsi allarmi bomba sui voli europei",
-      "url": "https://rassegnally.substack.com/p/comunque-anche-oggi-falsi-allarmi",
-      "excerpt": "È una delle 2 notizie di oggi",
-      "publishedAt": "2026-11-06T00:00:00Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -99,5 +99,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 0.64
+  "durationSeconds": 0.75
 }

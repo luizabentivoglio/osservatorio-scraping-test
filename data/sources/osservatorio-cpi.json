@@ -4,7 +4,7 @@
   "sourceId": "osservatorio-cpi",
   "originUrl": "https://osservatoriocpi.unicatt.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-19T16:10:51.234974Z",
+  "collectedAt": "2026-11-20T01:01:48.982658Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -22,20 +22,6 @@
       "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/le-differenze-territoriali-nell-istruzione-seppur-ancora-presenti-si-sono-ridotte-negli-anni.html",
       "excerpt": "Il Rapporto sul benessere equo e sostenibile dell’Istat permette di valutare se il divario tra macroaree nel livello di benessere si stia riducendo. Per l’istruzione, il divario territoriale si è ridotto per 7 indicatori su 14 tra il 2005 e il 2025 e per 10 dal 2020. Il calo è dovuto soprattutto a una riduzione delle d",
       "publishedAt": "2026-11-10T00:00:00Z",
-      "dateEvidence": "html:article-header"
-    },
-    {
-      "title": "L’ulteriore espansione del regime forfettario a 100.000 euro",
-      "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/l-ulteriore-espansione-del-regime-forfettario-a-100000-euro.html",
-      "excerpt": "Una delle riforme contenute nella manovra finanziaria per il 2027 riguarda l’allargamento del regime forfettario alle partite IVA con fatturato fino a 100.000 euro. La proposta aggrava un’iniquità nel trattamento relativo dei lavoratori autonomi rispetto ai dipendenti e incentiva tre mali cronici dell’economia italiana",
-      "publishedAt": "2026-11-06T00:00:00Z",
-      "dateEvidence": "html:article-header"
-    },
-    {
-      "title": "La legge di bilancio 2027-2029: un commento",
-      "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/la-legge-di-bilancio-2027-2029-un-commento.html",
-      "excerpt": "Il disegno di legge di bilancio prevede per il 2027 misure espansive per 26,3 miliardi, l’1,1% del Pil. Le risorse sono concentrate soprattutto su difesa ed energia, con aggiustamenti minori per sanità e detassazioni IRPEF.",
-      "publishedAt": "2026-11-06T00:00:00Z",
       "dateEvidence": "html:article-header"
     }
   ],
@@ -73,10 +59,10 @@
       "status": 200
     }
   ],
-  "message": "4 notizie recenti con data verificata; copertura parziale.",
+  "message": "2 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [],
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://osservatoriocpi.unicatt.it/pubblicazioni.html",
-  "durationSeconds": 6.03
+  "durationSeconds": 5.91
 }
