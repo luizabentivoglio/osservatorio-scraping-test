@@ -4,7 +4,7 @@
   "sourceId": "pillole-economia",
   "originUrl": "https://pilloledieconomia.substack.com/",
   "configuredFeedUrl": "https://pilloledieconomia.substack.com/feed",
-  "collectedAt": "2026-11-20T10:34:17.488439Z",
+  "collectedAt": "2026-11-20T18:53:44.380072Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
@@ -21,5 +21,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 0.91
+  "durationSeconds": 0.97
 }

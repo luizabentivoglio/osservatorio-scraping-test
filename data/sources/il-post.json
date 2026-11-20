@@ -4,52 +4,45 @@
   "sourceId": "il-post",
   "originUrl": "https://www.ilpost.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-20T10:33:51.937046Z",
+  "collectedAt": "2026-11-20T18:53:24.327736Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
-      "title": "UniCredit ha ottenuto il via libera del governo tedesco per acquisire Commerzbank",
-      "url": "https://www.ilpost.it/2026/11/20/unicredit-governo-germania-accordo-commerzbank/?bitPosition=1",
-      "excerpt": "UniCredit ha ottenuto il via libera del governo tedesco per acquisire Commerzbank UniCredit e il governo tedesco si sono accordati sull’acquisto della banca tedesca Commerzbank da parte di UniCredit. Il governo tedesco, che è azionista di Commerzbank con una quota del 13 per cento, si è sempre opposto a questa acquisiz",
-      "publishedAt": "2026-11-20T09:10:10Z",
+      "title": "Nel secondo giorno di quotazione in borsa il prezzo delle azioni di Anthropic è sceso di più del 10 per cento",
+      "url": "https://www.ilpost.it/2026/11/20/anthropic-azioni-perdita-valore-azioni/?bitPosition=1",
+      "excerpt": "Nel secondo giorno di quotazione in borsa il prezzo delle azioni di Anthropic è sceso di più del 10 per cento Venerdì, nel secondo giorno di quotazione in borsa negli Stati Uniti, il prezzo delle azioni di Anthropic è diminuito di oltre il 10 per cento rispetto al giorno prima. Anthropic è la società tecnologica nota p",
+      "publishedAt": "2026-11-20T16:29:19Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "Un incontro importante per mitigare alcuni effetti di Brexit",
-      "url": "https://www.ilpost.it/2026/11/20/incontro-regno-unito-ue-accordi-brexit/?homepagePosition=0",
-      "excerpt": "È in corso tra Regno Unito e Unione Europea: si parla tra le altre cose di semplificare i visti per i giovani",
-      "publishedAt": "2026-11-20T08:50:27Z",
+      "title": "Cos’è Avio e perché è importante",
+      "url": "https://www.ilpost.it/2026/11/20/avio-cosa-fa-iceye-opa-golden-power/?homepagePosition=0",
+      "excerpt": "L'azienda italiana che si occupa di Spazio e difesa potrebbe essere comprata dai finlandesi, ma in mezzo c'è il governo",
+      "publishedAt": "2026-11-20T16:11:49Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "Bending Spoons comprerà per 3,68 miliardi di dollari Mailchimp, uno dei più popolari servizi per mandare newsletter",
-      "url": "https://www.ilpost.it/2026/11/20/bending-spoons-mailchimp/?bitPosition=2",
-      "excerpt": "Bending Spoons comprerà per 3,68 miliardi di dollari Mailchimp, uno dei più popolari servizi per mandare newsletter Giovedì la società tecnologica italiana Bending Spoons ha firmato un accordo definitivo con il gruppo statunitense Intuit per acquisire per 3,68 miliardi di dollari (3,32 miliardi di euro) la piattaforma ",
-      "publishedAt": "2026-11-20T08:08:54Z",
+      "title": "Gérard Depardieu e Michel Houellebecq sono stati accusati da un’attrice di violenza sessuale sul set di un film del 2018",
+      "url": "https://www.ilpost.it/2026/11/20/gerard-depardieu-michel-houellebecq-accuse-stupro-di-gruppo-attrice-francia-indagini/?bitPosition=2",
+      "excerpt": "Gérard Depardieu e Michel Houellebecq sono stati accusati da un’attrice di violenza sessuale sul set di un film del 2018 L’attore francese Gérard Depardieu e lo scrittore francese Michel Houellebecq sono stati accusati di stupro di gruppo e aggressione sessuale da un’attrice che aveva lavorato con loro sul set del film",
+      "publishedAt": "2026-11-20T15:42:11Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "I tennisti italiani convocati per la Coppa Davis della prossima settimana",
-      "url": "https://www.ilpost.it/2026/11/20/convocati-italiani-coppa-davis/?bitPosition=3",
-      "excerpt": "I tennisti italiani convocati per la Coppa Davis della prossima settimana Filippo Volandri, che gestisce la Nazionale maschile di tennis con un ruolo simile a quello di un allenatore, ha scelto i giocatori per la Coppa Davis, in programma a Bologna dal 24 al 29 novembre. Sono Flavio Cobolli (numero 6 al mondo, che ques",
-      "publishedAt": "2026-11-20T07:16:30Z",
+      "title": "L’attivista di estrema destra inglese Daniel Thomas è stato condannato a 15 mesi di carcere",
+      "url": "https://www.ilpost.it/2026/11/20/regno-unito-attivista-estrema-destra-daniel-thomas-condannato-15-mesi-carcere/?bitPosition=3",
+      "excerpt": "L’attivista di estrema destra inglese Daniel Thomas è stato condannato a 15 mesi di carcere Venerdì l’attivista di estrema destra inglese Daniel Thomas, conosciuto anche col nome di Danny Tommo, è stato condannato a 15 mesi di carcere per il reato di danneggiamento volontario della proprietà altrui. Lo scorso 22 settem",
+      "publishedAt": "2026-11-20T15:32:52Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "Cosa vuole fare Burnham con l’Unione Europea?",
-      "url": "https://www.ilpost.it/2026/11/18/obiettivi-burnham-brexit/?homepagePosition=0.1&referrerPost=3738094",
-      "excerpt": "Non siamo alle soglie di un ritorno del Regno Unito nell'Unione o nel mercato unico, ma qualcosa si sta muovendo",
-      "publishedAt": "2026-11-18T15:11:33Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Andy Burnham è sempre più critico su Brexit",
-      "url": "https://www.ilpost.it/2026/11/16/burnham-critiche-brexit-2026/?homepagePosition=0.2&referrerPost=3738094",
-      "excerpt": "In un discorso il primo ministro britannico dice che uscendo dall'Unione Europea il Regno Unito ha perso «più di quanto abbiamo guadagnato»",
-      "publishedAt": "2026-11-16T11:29:24Z",
+      "title": "A Bari la polizia ha arrestato un uomo accusato dell’omicidio dell’ex compagna, trovata morta 23 anni fa",
+      "url": "https://www.ilpost.it/2026/11/20/bari-omicidio-maria-rita-valerio-arresto-23-anni-fa/?bitPosition=4",
+      "excerpt": "A Bari la polizia ha arrestato un uomo accusato dell’omicidio dell’ex compagna, trovata morta 23 anni fa Venerdì mattina la polizia di Bari ha arrestato un uomo di 51 anni accusato di aver ucciso Maria Rita Valerio, trovata morta nel 2003 a Capurso, un comune in provincia di Bari. Valerio aveva 25 anni: era scomparsa l",
+      "publishedAt": "2026-11-20T13:45:34Z",
       "dateEvidence": "jsonld:datePublished"
     }
   ],
@@ -63,34 +56,34 @@
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/20/incontro-regno-unito-ue-accordi-brexit/?homepagePosition=0",
+      "url": "https://www.ilpost.it/2026/11/20/avio-cosa-fa-iceye-opa-golden-power/?homepagePosition=0",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/18/obiettivi-burnham-brexit/?homepagePosition=0.1&referrerPost=3738094",
+      "url": "https://www.ilpost.it/2026/04/13/leonardo-cingolani-difesa-armi/?homepagePosition=0.1&referrerPost=3736962",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/16/burnham-critiche-brexit-2026/?homepagePosition=0.2&referrerPost=3738094",
+      "url": "https://www.ilpost.it/2026/11/20/anthropic-azioni-perdita-valore-azioni/?bitPosition=1",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/20/unicredit-governo-germania-accordo-commerzbank/?bitPosition=1",
+      "url": "https://www.ilpost.it/2026/11/20/gerard-depardieu-michel-houellebecq-accuse-stupro-di-gruppo-attrice-francia-indagini/?bitPosition=2",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/20/bending-spoons-mailchimp/?bitPosition=2",
+      "url": "https://www.ilpost.it/2026/11/20/regno-unito-attivista-estrema-destra-daniel-thomas-condannato-15-mesi-carcere/?bitPosition=3",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/20/convocati-italiani-coppa-davis/?bitPosition=3",
+      "url": "https://www.ilpost.it/2026/11/20/bari-omicidio-maria-rita-valerio-arresto-23-anni-fa/?bitPosition=4",
       "status": 200
     }
   ],
-  "message": "6 notizie recenti con data verificata; copertura parziale.",
+  "message": "5 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [],
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.ilpost.it/",
-  "durationSeconds": 3.53
+  "durationSeconds": 3.72
 }

@@ -4,7 +4,7 @@
   "sourceId": "commissione-europea",
   "originUrl": "https://commission.europa.eu/news-and-media_en",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-20T10:33:20.556900Z",
+  "collectedAt": "2026-11-20T18:52:52.075073Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -51,30 +51,6 @@
       "title": "News from Commission Departments",
       "h1": "News",
       "dates": [
-        {
-          "tag": "time",
-          "class": [],
-          "text": "26 March 2026",
-          "datetime": "2026-03-26T12:00:00Z"
-        },
-        {
-          "tag": "time",
-          "class": [],
-          "text": "19 November 2025",
-          "datetime": "2025-11-19T12:00:00Z"
-        },
-        {
-          "tag": "time",
-          "class": [],
-          "text": "12 August 2025",
-          "datetime": "2025-08-12T12:00:00Z"
-        },
-        {
-          "tag": "time",
-          "class": [],
-          "text": "10 March 2025",
-          "datetime": "2025-03-10T12:00:00Z"
-        },
         {
           "tag": "div",
           "class": [
@@ -153,6 +129,30 @@
           "class": [],
           "text": "20 November 2026",
           "datetime": "2026-11-20T12:00:00Z"
+        },
+        {
+          "tag": "time",
+          "class": [],
+          "text": "20 November 2026",
+          "datetime": "2026-11-20T12:00:00Z"
+        },
+        {
+          "tag": "time",
+          "class": [],
+          "text": "20 November 2026",
+          "datetime": "2026-11-20T12:00:00Z"
+        },
+        {
+          "tag": "time",
+          "class": [],
+          "text": "20 November 2026",
+          "datetime": "2026-11-20T12:00:00Z"
+        },
+        {
+          "tag": "time",
+          "class": [],
+          "text": "20 November 2026",
+          "datetime": "2026-11-20T12:00:00Z"
         }
       ]
     },
@@ -172,5 +172,5 @@
   "candidateCount": 4,
   "datedCount": 1,
   "listingUrl": "https://commission.europa.eu/news-and-media_en",
-  "durationSeconds": 3.65
+  "durationSeconds": 2.76
 }

@@ -4,7 +4,7 @@
   "sourceId": "msf",
   "originUrl": "https://www.medicisenzafrontiere.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-20T10:33:59.065159Z",
+  "collectedAt": "2026-11-20T18:53:31.487147Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -39,17 +39,17 @@
       "dateEvidence": "jsonld:datePublished"
     },
     {
+      "title": "Naufragio di Cutro: cosa è successo, le vittime e cosa è cambiato",
+      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/naufragio-cutro/",
+      "excerpt": "Il naufragio di Cutro del 26 febbraio 2023: cos'è successo, il numero delle vittime, i processi e le politiche migratorie che ne sono seguite. La posizione di MSF.",
+      "publishedAt": "2026-11-18T18:05:46Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
       "title": "Rohingya, MSF: “sentenza della Corte internazionale di giustizia sarà momento storico, ma servono soluzioni durature”",
       "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/rohingya-msf-sentenza-corte-internazionale-giustizia-sara-momento-storico-servono-soluzioni-durature/",
       "excerpt": "Il 19 novembre 2026 la Corte internazionale di giustizia pronuncerà la sentenza nell'ambito del procedimento avviato dal Gambia contro il Myanmar nel 2019, per presunte violazioni della Convenzione per la prevenzione e la repressione del crimine di genocidio. Questa sentenza sarà la prima occasione in cui un organo giu",
       "publishedAt": "2026-11-18T16:06:00Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Tubercolosi, studio MSF: “Efficaci i trattamenti brevi per bambini con TB non grave”",
-      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/tubercolosi-studio-msf-efficaci-trattamenti-brevi-bambini-tb-non-grave/",
-      "excerpt": "Un ciclo di cura di 4 mesi per bambini con tubercolosi in forma non grave - già raccomandato dall’OMS - può essere introdotto con successo nei normali servizi di assistenza sanitaria di base. Un trattamento efficace e sicuro Con un nuovo studio condotto in Uganda e nelle Filippine, pubblicato oggi e presentato alla Uni",
-      "publishedAt": "2026-11-17T14:46:24Z",
       "dateEvidence": "jsonld:datePublished"
     }
   ],
@@ -79,11 +79,11 @@
       "status": 200
     },
     {
-      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/rohingya-msf-sentenza-corte-internazionale-giustizia-sara-momento-storico-servono-soluzioni-durature/",
+      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/naufragio-cutro/",
       "status": 200
     },
     {
-      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/tubercolosi-studio-msf-efficaci-trattamenti-brevi-bambini-tb-non-grave/",
+      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/rohingya-msf-sentenza-corte-internazionale-giustizia-sara-momento-storico-servono-soluzioni-durature/",
       "status": 200
     }
   ],
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.medicisenzafrontiere.it/",
-  "durationSeconds": 3.66
+  "durationSeconds": 3.71
 }

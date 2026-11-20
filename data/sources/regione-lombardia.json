@@ -4,12 +4,68 @@
   "sourceId": "regione-lombardia",
   "originUrl": "https://www.regione.lombardia.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-20T10:34:19.368028Z",
+  "collectedAt": "2026-11-20T18:53:49.387324Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.lombardianotizie.online/feed/",
   "items": [
+    {
+      "title": "Online la ventiduesima puntata di ‘Lombardia in Primo Piano’",
+      "url": "https://www.lombardianotizie.online/lombardia-in-primo-piano-20-novembre/",
+      "excerpt": "È la ventiduesima puntata di ‘Lombardia in Primo Piano’, l’approfondimento video settimanale a cura della redazione di Lombardia Notizie che ripercorre i principali temi di attualità regionale attraverso i servizi realizzati dalla redazione. Lombardia in primo piano del 20 novembre La copertina è dedicata a #iononstozi",
+      "publishedAt": "2026-11-20T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Sicurezza stradale: 1,3 milioni di euro per progetti di prevenzione",
+      "url": "https://www.lombardianotizie.online/sicurezza-stradale-prevenzione/",
+      "excerpt": "La Russa: cultura della sicurezza stradale per tutelare vita delle persone The post Sicurezza stradale: 1,3 milioni di euro per progetti di prevenzione appeared first on Lombardia Notizie Online .",
+      "publishedAt": "2026-11-20T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Progetto Talento, premiati a Palazzo Lombardia 106 giovani atleti",
+      "url": "https://www.lombardianotizie.online/progetto-talento-atleti/",
+      "excerpt": "Picchi: investiamo sul merito e sulla crescita delle nuove generazioni The post Progetto Talento, premiati a Palazzo Lombardia 106 giovani atleti appeared first on Lombardia Notizie Online .",
+      "publishedAt": "2026-11-20T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Presentate le iniziative in occasione della campagna di #iononstozitta",
+      "url": "https://www.lombardianotizie.online/campagna-iononstozitta-iniziative/",
+      "excerpt": "La Russa: nessuna deve sentirsi sola o avere paura di chiedere aiuto The post Presentate le iniziative in occasione della campagna di #iononstozitta appeared first on Lombardia Notizie Online .",
+      "publishedAt": "2026-11-20T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Agricoltura di montagna, Regione Lombardia sostiene aziende locali",
+      "url": "https://www.lombardianotizie.online/agricoltura-lombardia-sostiene-aziende/",
+      "excerpt": "Beduschi: comparto è presidio strategico di territorio e aree rurali The post Agricoltura di montagna, Regione Lombardia sostiene aziende locali appeared first on Lombardia Notizie Online .",
+      "publishedAt": "2026-11-20T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Al via il bando da 900.000 euro per bande, fanfare, cori e gruppi folk",
+      "url": "https://www.lombardianotizie.online/bande-musicali-fanfare-bando-lombardia/",
+      "excerpt": "Caruso: sosteniamo chi insegna la musica e tramanda il repertorio lombardo The post Al via il bando da 900.000 euro per bande, fanfare, cori e gruppi folk appeared first on Lombardia Notizie Online .",
+      "publishedAt": "2026-11-20T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Integrazione di servizi alle persone al centro delle sfide del welfare",
+      "url": "https://www.lombardianotizie.online/welfare-continuita-assistenziale/",
+      "excerpt": "La Russa: futuro del sistema si costruisce nella programmazione The post Integrazione di servizi alle persone al centro delle sfide del welfare appeared first on Lombardia Notizie Online .",
+      "publishedAt": "2026-11-20T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "A Roma la mostra Geografie emozionali di Galli negli spazi di Regione",
+      "url": "https://www.lombardianotizie.online/arte-mostra-delegazione-romana/",
+      "excerpt": "Aree amministrative sono anche luoghi di cultura e arricchimento personale The post A Roma la mostra Geografie emozionali di Galli negli spazi di Regione appeared first on Lombardia Notizie Online .",
+      "publishedAt": "2026-11-20T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "A Stati Generali dei Trasporti sfide su digitale e sostenibilità",
       "url": "https://www.lombardianotizie.online/stati-generali-dei-trasporti/",
@@ -233,62 +289,6 @@
       "excerpt": "Lucchini: misura da 8 milioni, percorsi personalizzati e interventi integrati Obiettivo promuovere l'inclusione sociale, l'autonomia e il benessere The post Regione rilancia #UP per giovani e famiglie per contrasto disagio appeared first on Lombardia Notizie Online .",
       "publishedAt": "2026-11-16T00:00:00Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Da Regione 34,2 milioni per 68 interventi di difesa del suolo",
-      "url": "https://www.lombardianotizie.online/difesa-suolo-68-interventi/",
-      "excerpt": "Comazzi: sostegno concreto a zone colpite dalle recenti ondate di maltempo. La Russa: prevenzione, strumento efficace per tutelare incolumità pubblica. Sertori: interventi utili a garantire l'aumento della resilienza dei territori The post Da Regione 34,2 milioni per 68 interventi di difesa del suolo appeared first on ",
-      "publishedAt": "2026-11-16T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Fondi per potenziare sportelli Aler e presìdi nei quartieri popolari",
-      "url": "https://www.lombardianotizie.online/servizi-quartieri-popolari/",
-      "excerpt": "Assessore Franco: potenziamo la rete dei servizi in tutta la Lombardia The post Fondi per potenziare sportelli Aler e presìdi nei quartieri popolari appeared first on Lombardia Notizie Online .",
-      "publishedAt": "2026-11-16T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Torna l’iniziativa solidale ‘In Farmacia per i bambini’",
-      "url": "https://www.lombardianotizie.online/in-farmacia-bambini/",
-      "excerpt": "Fontana e Lucchini: in Lombardia esiste rete sociale davvero straordinaria \"Donare è un gesto civico di profondo valore\" The post Torna l’iniziativa solidale ‘In Farmacia per i bambini’ appeared first on Lombardia Notizie Online .",
-      "publishedAt": "2026-11-16T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "In Cina e Giappone cresce l’interesse nel turismo per la Lombardia",
-      "url": "https://www.lombardianotizie.online/turismo-lombardia-cina-giappone/",
-      "excerpt": "Assessore Massari: sono oltre 940.000 le presenze nei primi 8 mesi del 2026. In aumento del 22% gli arrivi dalla Cina, del 30,3% quelli dal Giappone The post In Cina e Giappone cresce l’interesse nel turismo per la Lombardia appeared first on Lombardia Notizie Online .",
-      "publishedAt": "2026-11-16T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Fontana: con legge lombarda oratori da 25 anni siamo con parrocchie",
-      "url": "https://www.lombardianotizie.online/legge-lombarda-oratori/",
-      "excerpt": "Delpini: gli oratori un tesoro prezioso e caratteristico delle nostre chiese Lucchini: presìdi educativi, rafforziamo l'alleanza per le nuove generazioni Picchi: per attività giovanili risorse aumentate da 500.000 euro a 5 milioni The post Fontana: con legge lombarda oratori da 25 anni siamo con parrocchie appeared fir",
-      "publishedAt": "2026-11-14T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Regione conferma sostegno a Provincia di Varese nel suo centenario",
-      "url": "https://www.lombardianotizie.online/provincia-varese-centenario/",
-      "excerpt": "Presidente Fontana: Lombardia ha scelto di valorizzare le sue Province Assessore Sertori: dialogo proficuo su progetti concreti, oltre 14 milioni nel 2026 The post Regione conferma sostegno a Provincia di Varese nel suo centenario appeared first on Lombardia Notizie Online .",
-      "publishedAt": "2026-11-14T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Beduschi: nessun eccidio daini, solo controllo se pericolo cittadini",
-      "url": "https://www.lombardianotizie.online/daini/",
-      "excerpt": "Delibera consente a Polizie provinciali di intervenire in situazioni di rischio. Sicurezza stradale e tutela dell’agricoltura alla base del provvedimento The post Beduschi: nessun eccidio daini, solo controllo se pericolo cittadini appeared first on Lombardia Notizie Online .",
-      "publishedAt": "2026-11-14T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Online la ventunesima puntata di ‘Lombardia in Primo Piano’",
-      "url": "https://www.lombardianotizie.online/lombardia-in-primo-piano-13-novembre/",
-      "excerpt": "Nuovo appuntamento con l'approfondimento video The post Online la ventunesima puntata di ‘Lombardia in Primo Piano’ appeared first on Lombardia Notizie Online .",
-      "publishedAt": "2026-11-13T00:00:00Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -306,5 +306,5 @@
     }
   ],
   "message": "Feed dichiarato dalla fonte; date di pubblicazione verificate.",
-  "durationSeconds": 6.8
+  "durationSeconds": 4.86
 }

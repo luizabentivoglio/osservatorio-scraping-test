@@ -4,12 +4,19 @@
   "sourceId": "ingv",
   "originUrl": "https://www.ingv.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-20T10:33:47.382981Z",
+  "collectedAt": "2026-11-20T18:53:20.470161Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.ingv.it/stampa-urp/ufficio-stampa/comunicati-stampa?format=feed&type=rss",
   "items": [
+    {
+      "title": "Il traffico di Firenze “scritto” sulle foglie degli alberi: le piante come sentinelle dell'inquinamento urbano",
+      "url": "https://www.ingv.it/stampa-urp/ufficio-stampa/comunicati-stampa/il-traffico-di-firenze-scritto-sulle-foglie-degli-alberi-le-piante-come-sentinelle-dellinquinamento-urbano",
+      "excerpt": "",
+      "publishedAt": "2026-11-19T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "90 anni dalla fondazione dell’Istituto Nazionale di Geofisica: la visione di Guglielmo Marconi alle origini di una grande storia scientifica",
       "url": "https://www.ingv.it/stampa-urp/ufficio-stampa/comunicati-stampa/90-anni-dalla-fondazione-dell-istituto-nazionale-di-geofisica-la-visione-di-guglielmo-marconi-alle-origini-di-una-grande-storia-scientifica",
@@ -61,5 +68,5 @@
     }
   ],
   "message": "Feed dichiarato dalla fonte; date di pubblicazione verificate.",
-  "durationSeconds": 1.1
+  "durationSeconds": 1.55
 }

@@ -4,12 +4,19 @@
   "sourceId": "confindustria",
   "originUrl": "https://www.confindustria.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-20T10:33:26.455774Z",
+  "collectedAt": "2026-11-20T18:52:55.854350Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "PMI DAY 2026: LA CRESCITA DEL PAESE PARTE DAI GIOVANI",
+      "url": "https://www.confindustria.it/comunicati-stampa/pmi-day-2026-la-crescita-del-paese-parte-dai-giovani",
+      "excerpt": "Roma, 20 novembre 2026 – La crescita delle imprese italiane passa dalla capacità di attrarre nuovi talenti, valorizzare le competenze e avvicinare le giovani generazioni al mondo produttivo. È questo il messaggio della 17ª edizione del PMI Day, la Giornata Nazionale delle Piccole e Medie Imprese promossa da Piccola Ind",
+      "publishedAt": "2026-11-20T00:00:00Z",
+      "dateEvidence": "html:press-release-header"
+    },
     {
       "title": "DL SCUOLA, SOMMA (CONFINDUSTRIA): DIFENDERE LA LETTURA E GLI INVESTIMENTI DELL’EDITORIA ITALIANA",
       "url": "https://www.confindustria.it/comunicati-stampa/dl-scuola-somma-confindustria-difendere-la-lettura-e-gli-investimenti-delleditoria-italiana",
@@ -42,6 +49,10 @@
       "status": 200
     },
     {
+      "url": "https://www.confindustria.it/comunicati-stampa/pmi-day-2026-la-crescita-del-paese-parte-dai-giovani",
+      "status": 200
+    },
+    {
       "url": "https://www.confindustria.it/comunicati-stampa/dl-scuola-somma-confindustria-difendere-la-lettura-e-gli-investimenti-delleditoria-italiana",
       "status": 200
     },
@@ -60,16 +71,12 @@
     {
       "url": "https://www.confindustria.it/comunicati-stampa/innovazione-retimpresa-confindustria-fare-rete-e-la-leva-per-rafforzare-la-crescita-di-startup-e-pmi",
       "status": 200
-    },
-    {
-      "url": "https://www.confindustria.it/comunicati-stampa/riforma-artigianato-bianchi-piccola-industria-confindustria-e-un-tema-di-competitivita-e-di-risorse-pubbliche-ai-nostri-numeri-si-risponda-con-altri-numeri-non-con-le-battute",
-      "status": 200
     }
   ],
-  "message": "3 notizie recenti con data verificata; copertura parziale.",
+  "message": "4 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [],
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.confindustria.it/comunicati-stampa",
-  "durationSeconds": 3.79
+  "durationSeconds": 5.19
 }

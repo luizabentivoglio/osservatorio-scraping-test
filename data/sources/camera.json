@@ -4,52 +4,52 @@
   "sourceId": "camera",
   "originUrl": "https://www.camera.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-20T10:33:16.751009Z",
+  "collectedAt": "2026-11-20T18:52:47.728420Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
-      "title": "Io scrivo soltanto per fare politica - L'impegno civile di Leonardo Sciascia - Venerdì alle 10 diretta webtv",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64333",
-      "excerpt": "Venerdì 20 novembre, alle ore 10, presso la Sala della Regina di Montecitorio si svolge il convegno...",
-      "publishedAt": "2026-11-19T00:00:00Z",
+      "title": "Giornata internazionale per l’eliminazione violenza contro le donne",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64364",
+      "excerpt": "La Camera è convocata lunedì 23 novembre alle ore 14 per la discussione generale delle mozioni Gh...",
+      "publishedAt": "2026-11-20T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "Per i cristiani perseguitati e la libertà religiosa - Stasera Montecitorio si illumina di rosso",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64330",
-      "excerpt": "La Camera dei deputati aderisce all’iniziativa della Red Week 2026, prevista per il 20 novembre...",
-      "publishedAt": "2026-11-19T00:00:00Z",
+      "title": "Riconoscimento al merito per le eccellenze italiane per la pace e lo sviluppo economico - Lunedì alle 10 diretta webtv",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64359",
+      "excerpt": "Lunedì 23 novembre, alle ore 10, presso la Sala della Regina di Montecitorio si svolge il convegno ...",
+      "publishedAt": "2026-11-20T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "Giornata mondiale contro il tumore al pancreas - Montecitorio si illumina di viola",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64336",
-      "excerpt": "La Camera dei deputati ha aderito all’iniziativa della Giornata mondiale contro il tumore al panc...",
-      "publishedAt": "2026-11-19T00:00:00Z",
+      "title": "Manifesti 1944 - 1946 - Caivano nel dopoguerra: tra occupazione militare e rinascita civile - Lunedì alle 10.30 diretta webtv",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64357",
+      "excerpt": "Lunedì 23 novembre, alle ore 10.30, presso la Sala del Refettorio di Palazzo San Macuto si svolge l...",
+      "publishedAt": "2026-11-20T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "Intelligenza artificiale, vicepresidente Ascani a Bruxelles: serve solida ricerca pubblica per tutelare diritti e creare opportunità",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64298",
-      "excerpt": "\"Oggi poche imprese, concentrate in pochi Paesi, dispongono di gran parte dei dati, della potenza di...",
-      "publishedAt": "2026-11-18T00:00:00Z",
+      "title": "Covid, lunedì audizione Conte – giovedì Mackinson – Diretta webtv",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64358",
+      "excerpt": "Lunedì 23 novembre, alle ore 10.30, presso l’aula del II piano di Palazzo San Macuto, la Commissi...",
+      "publishedAt": "2026-11-20T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "Approvato decreto ambiente - Informativa Piantedosi su allarmi bomba",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64325",
-      "excerpt": "La Camera è convocata lunedì 23 novembre alle ore 14. Nella seduta di giovedì 19 novembre la C...",
-      "publishedAt": "2026-11-18T00:00:00Z",
+      "title": "Per mano 6 - Lunedì alle 15 diretta webtv - Saluto di Mulè",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64356",
+      "excerpt": "Lunedì 23 novembre, alle ore 15, presso la Sala del Refettorio di Palazzo San Macuto si svolge il c...",
+      "publishedAt": "2026-11-20T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "Femminicidio, audizione Franceschi, Università Cattolica Sacro Cuore",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64279",
-      "excerpt": "Giovedì 19 novembre, alle ore 8.30, presso l'Aula del I piano di Palazzo San Macuto, la Commissione...",
-      "publishedAt": "2026-11-18T00:00:00Z",
+      "title": "Copasir, audizione Vittorio Pisani – Martedì alle 14.30",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64371",
+      "excerpt": "Martedì 24 novembre, alle ore 14.30, presso l’aula del VI piano di Palazzo San Macuto, il Comitat...",
+      "publishedAt": "2026-11-20T00:00:00Z",
       "dateEvidence": "html:publication-label"
     }
   ],
@@ -63,27 +63,27 @@
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64333",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64364",
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64330",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64359",
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64336",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64357",
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64298",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64358",
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64325",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64356",
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64279",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64371",
       "status": 200
     }
   ],
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://comunicazione.camera.it/archivio-prima-pagina",
-  "durationSeconds": 3.8
+  "durationSeconds": 4.07
 }

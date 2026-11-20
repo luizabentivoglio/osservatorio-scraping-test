@@ -4,12 +4,47 @@
   "sourceId": "il-notiziario",
   "originUrl": "https://www.ilnotiziario.net/",
   "configuredFeedUrl": "https://www.ilnotiziario.net/feed/",
-  "collectedAt": "2026-11-20T10:33:51.798203Z",
+  "collectedAt": "2026-11-20T18:53:24.245389Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.ilnotiziario.net/feed/",
   "items": [
+    {
+      "title": "Eventi week-end: “Cross del Cuore” a Uboldo, rievocazione con laboratori a Villa Arconati di Bollate",
+      "url": "https://www.ilnotiziario.net/eventi-week-end-cross-del-cuore-a-uboldo-rievocazione-con-laboratori-a-villa-arconati-di-bollate/",
+      "excerpt": "Questo week-end, dal 20 al 22 novembre 2026, evidenziamo la camminata “Cross del Cuore”, iniziativa sportiva benefica a Uboldo e...",
+      "publishedAt": "2026-11-20T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Tesla, via libera alla guida assistita in Italia: arriva il sistema da 99 euro al mese",
+      "url": "https://www.ilnotiziario.net/tesla-via-libera-alla-guida-assistita-in-italia-arriva-il-sistema-da-99-euro-al-mese/",
+      "excerpt": "Tesla, via libera alla guida assistita in Italia: arriva il sistema da 99 euro al mese La guida assistita di Tesla si prepara ad...",
+      "publishedAt": "2026-11-20T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Chirurgia robotica, al Niguarda 10 interventi in meno di 10 ore",
+      "url": "https://www.ilnotiziario.net/chirurgia-robotica-al-niguarda-10-interventi-in-meno-di-10-ore/",
+      "excerpt": "Chirurgia robotica, al Niguarda 10 interventi in meno di 10 ore Dieci procedure in meno di dieci ore, con interventi meno...",
+      "publishedAt": "2026-11-20T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Saronno, cambio in giunta comunale: Licata nuovo vicesindaco, Cattaneo lascia l’incarico",
+      "url": "https://www.ilnotiziario.net/saronno-cambio-in-giunta-comunale-licata-nuovo-vicesindaco-cattaneo-lascia-lincarico/",
+      "excerpt": "Saronno, cambio in giunta comunale: Licata nuovo vicesindaco, Cattaneo lascia l’incarico Nuovo avvicendamento nella giunta...",
+      "publishedAt": "2026-11-20T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Spaccata nella notte al Conad di Vanzago",
+      "url": "https://www.ilnotiziario.net/spaccata-nella-notte-al-conad-di-vanzago/",
+      "excerpt": "Colpo nella notte a Vanzago. Intorno alle 3.18, al supermercato Conad di via Filanda. Secondo le prime ricostruzioni, i...",
+      "publishedAt": "2026-11-20T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "Rescaldina: il centro commerciale cambia pelle e punta su oltre 200 nuovi posti di lavoro",
       "url": "https://www.ilnotiziario.net/rescaldina-il-centro-commerciale-cambia-pelle-e-punta-su-oltre-200-nuovi-posti-di-lavoro/",
@@ -79,41 +114,6 @@
       "excerpt": "Scippo violento a Saronno Sud, donna strattonata e scaraventata a terra Era uscita di casa per una passeggiata con il cane, ma si...",
       "publishedAt": "2026-11-19T00:00:00Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Tra leggende del passato e visioni elettriche torna AutoClassica",
-      "url": "https://www.ilnotiziario.net/tra-leggende-del-passato-e-visioni-elettriche-torna-autoclassica/",
-      "excerpt": "Quattro giorni di passione tra leggende del passato e visioni elettriche. Dopo aver ospitato gli appassionati delle due ruote, i...",
-      "publishedAt": "2026-11-19T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Allarme bomba nelle scuole e il rischio del sospetto",
-      "url": "https://www.ilnotiziario.net/allarme-bomba-nelle-scuole-e-il-rischio-del-sospetto/",
-      "excerpt": "Quello che è successo mercoledì nelle scuole italiane, con gli allarmi bomba che da nord a sud hanno fatto evacuare centinaia di...",
-      "publishedAt": "2026-11-19T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Monza, si presenta come tecnico del gas e raggira un’anziana, arrestato",
-      "url": "https://www.ilnotiziario.net/monza-si-presenta-come-tecnico-del-gas-e-raggira-unanziana-arrestato/",
-      "excerpt": "Monza, si presenta come tecnico del gas e raggira un’anziana, arrestato Si è presentato come tecnico del gas e ha convinto...",
-      "publishedAt": "2026-11-19T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "A 18 anni sfida i campioni del mondo: Ludovico Bini scrive la storia del Tennistavolo Saronno",
-      "url": "https://www.ilnotiziario.net/a-18-anni-sfida-i-campioni-del-mondo-ludovico-bini-scrive-la-storia-del-tennistavolo-saronno/",
-      "excerpt": "A 18 anni sfida i campioni del mondo: Ludovico Bini scrive la storia del Tennistavolo Saronno Il sogno della finale mondiale si è...",
-      "publishedAt": "2026-11-19T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Incidente sulla Saronno-Monza, giovane ferito e lunghe code",
-      "url": "https://www.ilnotiziario.net/incidente-sulla-saronno-monza-giovane-ferito-e-lunghe-code/",
-      "excerpt": "Un incidente verificatosi questa mattina poco dopo le 7,30 ha provocato rallentamenti e code sulla Saronno-Monza tra Limbiate e...",
-      "publishedAt": "2026-11-19T00:00:00Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -127,5 +127,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 1.3
+  "durationSeconds": 1.89
 }

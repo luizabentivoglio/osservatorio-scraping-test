@@ -4,7 +4,7 @@
   "sourceId": "azione",
   "originUrl": "https://www.azione.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-20T10:33:10.892516Z",
+  "collectedAt": "2026-11-20T18:52:46.057365Z",
   "status": "blocked",
   "diagnosticCode": "access_restricted",
   "method": "html",
@@ -23,5 +23,5 @@
   "message": "HTTP 403: accesso limitato dalla fonte",
   "httpStatus": 403,
   "failedUrl": "https://www.azione.it/",
-  "durationSeconds": 0.59
+  "durationSeconds": 0.85
 }

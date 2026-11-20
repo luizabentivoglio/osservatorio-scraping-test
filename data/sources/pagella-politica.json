@@ -4,7 +4,7 @@
   "sourceId": "pagella-politica",
   "originUrl": "https://pagellapolitica.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-20T10:34:07.274590Z",
+  "collectedAt": "2026-11-20T18:53:36.896836Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -15,6 +15,20 @@
       "url": "https://pagellapolitica.it/articoli/conti-in-tasca-podcast-economia",
       "excerpt": "Una volta ogni due settimane analizzeremo i problemi della politica e dell’attualità attraverso la lente...",
       "publishedAt": "2026-11-19T00:00:00Z",
+      "dateEvidence": "html:post-date"
+    },
+    {
+      "title": "Forza Italia vuole combattere il caro carburante con un condono edilizio",
+      "url": "https://pagellapolitica.it/articoli/condono-edilizio-forza-italia",
+      "excerpt": "Lo ha chiesto con un emendamento al disegno di legge di Bilancio, in discussione alla Camera, per destinare i...",
+      "publishedAt": "2026-11-18T00:00:00Z",
+      "dateEvidence": "html:post-date"
+    },
+    {
+      "title": "L’idea di La Russa sul fascismo “voluto dal popolo” ha parecchi problemi",
+      "url": "https://pagellapolitica.it/articoli/la-russa-fascismo-volonta-popolare",
+      "excerpt": "Secondo il presidente del Senato, Mussolini è arrivato al potere per via dell’ampio sostegno dei cittadini. Gli...",
+      "publishedAt": "2026-11-18T00:00:00Z",
       "dateEvidence": "html:post-date"
     },
     {
@@ -37,20 +51,6 @@
       "excerpt": "Il vertice del 20 novembre tra le autorità britanniche ed europee servirà a fare il punto sui negoziati su...",
       "publishedAt": "2026-11-17T00:00:00Z",
       "dateEvidence": "html:post-date"
-    },
-    {
-      "title": "La politica non ha concluso nulla sul sovraffollamento delle carceri",
-      "url": "https://pagellapolitica.it/articoli/sovraffollamento-carceri",
-      "excerpt": "A tredici anni dalla condanna della Corte europea dei diritti dell’uomo, la Corte costituzionale è tornata a...",
-      "publishedAt": "2026-11-17T00:00:00Z",
-      "dateEvidence": "html:post-date"
-    },
-    {
-      "title": "Chi ha ragione tra Meloni e Schlein sul taglio dell’Irpef",
-      "url": "https://pagellapolitica.it/articoli/fc-meloni-schlein-taglio-irpef",
-      "excerpt": "La presidente del Consiglio sostiene che aiuterà la classe media, mentre la segretaria del PD la accusa di fare un...",
-      "publishedAt": "2026-11-17T00:00:00Z",
-      "dateEvidence": "html:post-date"
     }
   ],
   "attempts": [
@@ -67,6 +67,14 @@
       "status": 200
     },
     {
+      "url": "https://pagellapolitica.it/articoli/condono-edilizio-forza-italia",
+      "status": 200
+    },
+    {
+      "url": "https://pagellapolitica.it/articoli/la-russa-fascismo-volonta-popolare",
+      "status": 200
+    },
+    {
       "url": "https://pagellapolitica.it/articoli/nascite-gaza-ddl-antisemitismo",
       "status": 200
     },
@@ -77,14 +85,6 @@
     {
       "url": "https://pagellapolitica.it/articoli/vertice-ue-regno-unito-brexit",
       "status": 200
-    },
-    {
-      "url": "https://pagellapolitica.it/articoli/sovraffollamento-carceri",
-      "status": 200
-    },
-    {
-      "url": "https://pagellapolitica.it/articoli/fc-meloni-schlein-taglio-irpef",
-      "status": 200
     }
   ],
   "message": "6 notizie recenti con data verificata; copertura parziale.",
@@ -92,5 +92,5 @@
   "candidateCount": 6,
   "datedCount": 6,
   "listingUrl": "https://pagellapolitica.it/articoli",
-  "durationSeconds": 7.67
+  "durationSeconds": 7.19
 }

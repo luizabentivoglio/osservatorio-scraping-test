@@ -4,7 +4,7 @@
   "sourceId": "ispi",
   "originUrl": "https://www.ispionline.it/it",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-20T10:33:48.486418Z",
+  "collectedAt": "2026-11-20T18:53:21.003752Z",
   "status": "blocked",
   "diagnosticCode": "robots_disallowed",
   "method": "html",
@@ -19,5 +19,5 @@
   "message": "Percorso escluso da robots.txt",
   "httpStatus": null,
   "failedUrl": "https://www.ispionline.it/it",
-  "durationSeconds": 0.67
+  "durationSeconds": 0.88
 }

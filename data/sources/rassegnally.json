@@ -4,12 +4,19 @@
   "sourceId": "rassegnally",
   "originUrl": "https://rassegnally.substack.com/",
   "configuredFeedUrl": "https://rassegnally.substack.com/feed",
-  "collectedAt": "2026-11-20T10:34:18.818038Z",
+  "collectedAt": "2026-11-20T18:53:49.218935Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://rassegnally.substack.com/feed",
   "items": [
+    {
+      "title": "Comunque, sindacati e studenti sono scesi in piazza contro la manovra",
+      "url": "https://rassegnally.substack.com/p/comunque-sindacati-e-studenti-sono",
+      "excerpt": "È una delle 3 notizie di oggi",
+      "publishedAt": "2026-11-20T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "Comunque, Trump, Xi Jinping e Putin hanno firmato una dichiarazione sulla pace",
       "url": "https://rassegnally.substack.com/p/comunque-trump-xi-jinping-e-putin",
@@ -99,5 +106,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 0.55
+  "durationSeconds": 0.57
 }

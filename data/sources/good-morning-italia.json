@@ -4,12 +4,19 @@
   "sourceId": "good-morning-italia",
   "originUrl": "https://goodmorningitalia.substack.com/",
   "configuredFeedUrl": "https://goodmorningitalia.substack.com/feed",
-  "collectedAt": "2026-11-20T10:33:46.149480Z",
+  "collectedAt": "2026-11-20T18:53:18.729899Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://goodmorningitalia.substack.com/feed",
   "items": [
+    {
+      "title": "Che settimana! #47/26",
+      "url": "https://goodmorningitalia.substack.com/p/che-settimana-4726",
+      "excerpt": "​​Il trilaterale Usa, Cina, Russia termina con una dichiarazione di pace | Ue verso primo hub di rimpatrio in Ruanda | Myanmar colpevole di genocidio | Addio ad Augias | Anthropic, Ipo da record",
+      "publishedAt": "2026-11-20T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "Che settimana! #46/26",
       "url": "https://goodmorningitalia.substack.com/p/che-settimana-4626",
@@ -29,5 +36,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 0.65
+  "durationSeconds": 0.85
 }
