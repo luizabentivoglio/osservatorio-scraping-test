@@ -4,17 +4,17 @@
   "sourceId": "comune-bollate",
   "originUrl": "https://comune.bollate.mi.it/it/news",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-20T01:01:06.267665Z",
+  "collectedAt": "2026-11-20T10:33:24.208048Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
-      "title": "Convocazione Commissione Affari istituzionali",
-      "url": "https://comune.bollate.mi.it/it/news/commissione-2020529-2041932-2056666-2088145",
+      "title": "Convocazione Commissioni",
+      "url": "https://comune.bollate.mi.it/it/news/commissione-2020529-2041932-2088614",
       "excerpt": "Sito ufficiale Comune di Bollate",
-      "publishedAt": "2026-11-19T00:00:00Z",
+      "publishedAt": "2026-11-20T00:00:00Z",
       "dateEvidence": "html:news-date-label"
     },
     {
@@ -63,7 +63,7 @@
       "status": 200
     },
     {
-      "url": "https://comune.bollate.mi.it/it/news/commissione-2020529-2041932-2056666-2088145",
+      "url": "https://comune.bollate.mi.it/it/news/commissione-2020529-2041932-2088614",
       "status": 200
     },
     {
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://comune.bollate.mi.it/it/news",
-  "durationSeconds": 4.6
+  "durationSeconds": 4.26
 }

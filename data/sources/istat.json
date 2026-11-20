@@ -4,12 +4,19 @@
   "sourceId": "istat",
   "originUrl": "https://www.istat.it/",
   "configuredFeedUrl": "https://www.istat.it/feed/",
-  "collectedAt": "2026-11-20T01:01:37.492958Z",
+  "collectedAt": "2026-11-20T10:33:49.890510Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.istat.it/feed/",
   "items": [
+    {
+      "title": "Produzione nelle costruzioni – Settembre 2026",
+      "url": "https://www.istat.it/comunicato-stampa/produzione-nelle-costruzioni-settembre-2026/",
+      "excerpt": "A settembre 2026 l’indice della produzione nelle costruzioni aumenta del 3,9% su agosto e diminuisce dello 0,1% su base annua",
+      "publishedAt": "2026-11-20T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "CIG BDB61C3889 – Servizi di produzione di n",
       "url": "https://www.istat.it/bando-di-gara/cig-bdb61c3889-servizi-di-produzione-di-n-10-episodi-della-serie-di-podcast-autoriali-dati-alla-mano/",
@@ -72,13 +79,6 @@
       "excerpt": "Istat partecipa a Forum Insubria 2050, progetto Interreg per rafforzare la cooperazione tra Italia e Svizzera e analizzare i fabbisogni di lavoro e formativi del territorio.",
       "publishedAt": "2026-11-17T00:00:00Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Ciclo di seminari sul presente e sul futuro della statistica ufficiale",
-      "url": "https://www.istat.it/evento/ciclo-di-seminari-sul-presente-e-sul-futuro-della-statistica-ufficiale/",
-      "excerpt": "Dal 15 ottobre al 26 novembre un ciclo di incontri multidisciplinari dedicato ad analisi e riflessioni sul presente e sul futuro della statistica ufficiale",
-      "publishedAt": "2026-11-17T00:00:00Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -92,5 +92,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 3.26
+  "durationSeconds": 2.26
 }

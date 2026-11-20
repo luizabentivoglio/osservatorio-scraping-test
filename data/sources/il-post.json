@@ -4,45 +4,52 @@
   "sourceId": "il-post",
   "originUrl": "https://www.ilpost.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-20T01:01:39.208972Z",
+  "collectedAt": "2026-11-20T10:33:51.937046Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
-      "title": "Un sudcoreano accusato di aver barato al test di ammissione per l’università usando l’intelligenza artificiale è stato trovato morto",
-      "url": "https://www.ilpost.it/2026/11/19/corea-del-sud-uomo-morto-test-ammissione-universita-intelligenza-artificiale/?bitPosition=1",
-      "excerpt": "Un sudcoreano accusato di aver barato al test di ammissione per l’università usando l’intelligenza artificiale è stato trovato morto Giovedì un uomo sudcoreano di 32 anni che aveva ottenuto un punteggio perfetto al test di ammissione al corso di laurea in odontoiatria all’Università nazionale di Seul è stato trovato mo",
-      "publishedAt": "2026-11-19T21:31:55Z",
+      "title": "UniCredit ha ottenuto il via libera del governo tedesco per acquisire Commerzbank",
+      "url": "https://www.ilpost.it/2026/11/20/unicredit-governo-germania-accordo-commerzbank/?bitPosition=1",
+      "excerpt": "UniCredit ha ottenuto il via libera del governo tedesco per acquisire Commerzbank UniCredit e il governo tedesco si sono accordati sull’acquisto della banca tedesca Commerzbank da parte di UniCredit. Il governo tedesco, che è azionista di Commerzbank con una quota del 13 per cento, si è sempre opposto a questa acquisiz",
+      "publishedAt": "2026-11-20T09:10:10Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "La Cassazione ha confermato la condanna di Giampaolo Amato per gli omicidi della moglie e della suocera a Bologna, nel 2021",
-      "url": "https://www.ilpost.it/2026/11/19/giampaolo-amato-condanna-definitiva/?bitPosition=2",
-      "excerpt": "La Cassazione ha confermato la condanna di Giampaolo Amato per gli omicidi della moglie e della suocera a Bologna, nel 2021 È diventata definitiva la condanna all’ergastolo per il medico Giampaolo Amato, già condannato in primo e in secondo grado per gli omicidi della moglie Isabella Linsalata e della suocera Giulia Ta",
-      "publishedAt": "2026-11-19T21:03:05Z",
+      "title": "Un incontro importante per mitigare alcuni effetti di Brexit",
+      "url": "https://www.ilpost.it/2026/11/20/incontro-regno-unito-ue-accordi-brexit/?homepagePosition=0",
+      "excerpt": "È in corso tra Regno Unito e Unione Europea: si parla tra le altre cose di semplificare i visti per i giovani",
+      "publishedAt": "2026-11-20T08:50:27Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "Le ambasciate di Austria e Paesi Bassi a Kyiv sono state danneggiate in un attacco russo",
-      "url": "https://www.ilpost.it/2026/11/19/kyiv-attacco-ambasciate-austria-paesi-bassi/?bitPosition=3",
-      "excerpt": "Le ambasciate di Austria e Paesi Bassi a Kyiv sono state danneggiate in un attacco russo Giovedì la Russia ha compiuto un nuovo attacco con droni contro Kyiv, la capitale dell’Ucraina: nell’attacco sono stati danneggiati lievemente anche gli edifici delle ambasciate di Austria e Paesi Bassi, che distano circa 2 chilome",
-      "publishedAt": "2026-11-19T17:49:40Z",
+      "title": "Bending Spoons comprerà per 3,68 miliardi di dollari Mailchimp, uno dei più popolari servizi per mandare newsletter",
+      "url": "https://www.ilpost.it/2026/11/20/bending-spoons-mailchimp/?bitPosition=2",
+      "excerpt": "Bending Spoons comprerà per 3,68 miliardi di dollari Mailchimp, uno dei più popolari servizi per mandare newsletter Giovedì la società tecnologica italiana Bending Spoons ha firmato un accordo definitivo con il gruppo statunitense Intuit per acquisire per 3,68 miliardi di dollari (3,32 miliardi di euro) la piattaforma ",
+      "publishedAt": "2026-11-20T08:08:54Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "Ci sono decine di persone migranti disperse a causa di un naufragio al largo del Senegal",
-      "url": "https://www.ilpost.it/2026/11/19/dispersi-naufragio-barca-persone-migranti-senegal/?bitPosition=4",
-      "excerpt": "Ci sono decine di persone migranti disperse a causa di un naufragio al largo del Senegal Decine di persone migranti sono considerate disperse a causa del naufragio di una barca vicino alle coste di Dakar, in Senegal, nell’Africa occidentale. Il Senegal è uno dei principali punti di partenza da cui le persone migranti c",
-      "publishedAt": "2026-11-19T16:32:10Z",
+      "title": "I tennisti italiani convocati per la Coppa Davis della prossima settimana",
+      "url": "https://www.ilpost.it/2026/11/20/convocati-italiani-coppa-davis/?bitPosition=3",
+      "excerpt": "I tennisti italiani convocati per la Coppa Davis della prossima settimana Filippo Volandri, che gestisce la Nazionale maschile di tennis con un ruolo simile a quello di un allenatore, ha scelto i giocatori per la Coppa Davis, in programma a Bologna dal 24 al 29 novembre. Sono Flavio Cobolli (numero 6 al mondo, che ques",
+      "publishedAt": "2026-11-20T07:16:30Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "Webuild è troppo grande o troppo piccola?",
-      "url": "https://www.ilpost.it/2026/11/19/webuild-grandi-opere-futuro/?homepagePosition=0",
-      "excerpt": "E soprattutto: cosa ci fa lo Stato dentro la più importante impresa privata italiana di costruzioni, e con quali conseguenze?",
-      "publishedAt": "2026-11-19T08:26:18Z",
+      "title": "Cosa vuole fare Burnham con l’Unione Europea?",
+      "url": "https://www.ilpost.it/2026/11/18/obiettivi-burnham-brexit/?homepagePosition=0.1&referrerPost=3738094",
+      "excerpt": "Non siamo alle soglie di un ritorno del Regno Unito nell'Unione o nel mercato unico, ma qualcosa si sta muovendo",
+      "publishedAt": "2026-11-18T15:11:33Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "Andy Burnham è sempre più critico su Brexit",
+      "url": "https://www.ilpost.it/2026/11/16/burnham-critiche-brexit-2026/?homepagePosition=0.2&referrerPost=3738094",
+      "excerpt": "In un discorso il primo ministro britannico dice che uscendo dall'Unione Europea il Regno Unito ha perso «più di quanto abbiamo guadagnato»",
+      "publishedAt": "2026-11-16T11:29:24Z",
       "dateEvidence": "jsonld:datePublished"
     }
   ],
@@ -56,31 +63,31 @@
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/19/webuild-grandi-opere-futuro/?homepagePosition=0",
+      "url": "https://www.ilpost.it/2026/11/20/incontro-regno-unito-ue-accordi-brexit/?homepagePosition=0",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/10/16/webuild-contenzioso-rfi-cantieri-grandi-opere/?homepagePosition=0.1&referrerPost=3736173",
+      "url": "https://www.ilpost.it/2026/11/18/obiettivi-burnham-brexit/?homepagePosition=0.1&referrerPost=3738094",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/19/corea-del-sud-uomo-morto-test-ammissione-universita-intelligenza-artificiale/?bitPosition=1",
+      "url": "https://www.ilpost.it/2026/11/16/burnham-critiche-brexit-2026/?homepagePosition=0.2&referrerPost=3738094",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/19/giampaolo-amato-condanna-definitiva/?bitPosition=2",
+      "url": "https://www.ilpost.it/2026/11/20/unicredit-governo-germania-accordo-commerzbank/?bitPosition=1",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/19/kyiv-attacco-ambasciate-austria-paesi-bassi/?bitPosition=3",
+      "url": "https://www.ilpost.it/2026/11/20/bending-spoons-mailchimp/?bitPosition=2",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/19/dispersi-naufragio-barca-persone-migranti-senegal/?bitPosition=4",
+      "url": "https://www.ilpost.it/2026/11/20/convocati-italiani-coppa-davis/?bitPosition=3",
       "status": 200
     }
   ],
-  "message": "5 notizie recenti con data verificata; copertura parziale.",
+  "message": "6 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [],
   "candidateCount": 12,
   "datedCount": 6,

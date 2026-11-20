@@ -4,7 +4,7 @@
   "sourceId": "pagella-politica",
   "originUrl": "https://pagellapolitica.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-20T01:01:51.903712Z",
+  "collectedAt": "2026-11-20T10:34:07.274590Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -15,6 +15,13 @@
       "url": "https://pagellapolitica.it/articoli/conti-in-tasca-podcast-economia",
       "excerpt": "Una volta ogni due settimane analizzeremo i problemi della politica e dell’attualità attraverso la lente...",
       "publishedAt": "2026-11-19T00:00:00Z",
+      "dateEvidence": "html:post-date"
+    },
+    {
+      "title": "Perché fare il bilancio delle nascite a Gaza non ha senso",
+      "url": "https://pagellapolitica.it/articoli/nascite-gaza-ddl-antisemitismo",
+      "excerpt": "Un deputato di Fratelli d’Italia e Luigi Marattin hanno citato un dato pubblicato dall’autorità palestinese per...",
+      "publishedAt": "2026-11-18T00:00:00Z",
       "dateEvidence": "html:post-date"
     },
     {
@@ -44,13 +51,6 @@
       "excerpt": "La presidente del Consiglio sostiene che aiuterà la classe media, mentre la segretaria del PD la accusa di fare un...",
       "publishedAt": "2026-11-17T00:00:00Z",
       "dateEvidence": "html:post-date"
-    },
-    {
-      "title": "Il centrosinistra ha conquistato un nuovo deputato",
-      "url": "https://pagellapolitica.it/articoli/risultato-elezioni-suppletive-chieti",
-      "excerpt": "Lo ha ottenuto vincendo le elezioni suppletive nel collegio di Chieti, dove bisognava sostituire il deputato...",
-      "publishedAt": "2026-11-16T00:00:00Z",
-      "dateEvidence": "html:post-date"
     }
   ],
   "attempts": [
@@ -64,6 +64,10 @@
     },
     {
       "url": "https://pagellapolitica.it/articoli/conti-in-tasca-podcast-economia",
+      "status": 200
+    },
+    {
+      "url": "https://pagellapolitica.it/articoli/nascite-gaza-ddl-antisemitismo",
       "status": 200
     },
     {
@@ -81,10 +85,6 @@
     {
       "url": "https://pagellapolitica.it/articoli/fc-meloni-schlein-taglio-irpef",
       "status": 200
-    },
-    {
-      "url": "https://pagellapolitica.it/articoli/risultato-elezioni-suppletive-chieti",
-      "status": 200
     }
   ],
   "message": "6 notizie recenti con data verificata; copertura parziale.",
@@ -92,5 +92,5 @@
   "candidateCount": 6,
   "datedCount": 6,
   "listingUrl": "https://pagellapolitica.it/articoli",
-  "durationSeconds": 5.96
+  "durationSeconds": 7.67
 }

@@ -4,7 +4,7 @@
   "sourceId": "rassegnally",
   "originUrl": "https://rassegnally.substack.com/",
   "configuredFeedUrl": "https://rassegnally.substack.com/feed",
-  "collectedAt": "2026-11-20T01:02:09.654282Z",
+  "collectedAt": "2026-11-20T10:34:18.818038Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
@@ -99,5 +99,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 0.75
+  "durationSeconds": 0.55
 }

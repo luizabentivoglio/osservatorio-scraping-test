@@ -4,7 +4,7 @@
   "sourceId": "factanza",
   "originUrl": "https://weeklypills.substack.com/",
   "configuredFeedUrl": "https://weeklypills.substack.com/feed",
-  "collectedAt": "2026-11-20T01:01:29.663317Z",
+  "collectedAt": "2026-11-20T10:33:42.204779Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
@@ -36,5 +36,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 0.84
+  "durationSeconds": 0.91
 }

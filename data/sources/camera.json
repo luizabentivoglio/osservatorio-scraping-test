@@ -4,19 +4,12 @@
   "sourceId": "camera",
   "originUrl": "https://www.camera.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-20T01:01:01.723909Z",
+  "collectedAt": "2026-11-20T10:33:16.751009Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
-    {
-      "title": "Giornata mondiale contro il tumore al pancreas - Stasera Montecitorio si illumina di viola",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64336",
-      "excerpt": "La Camera dei deputati aderisce all’iniziativa della Giornata mondiale contro il tumore al pancrea...",
-      "publishedAt": "2026-11-19T00:00:00Z",
-      "dateEvidence": "html:publication-label"
-    },
     {
       "title": "Io scrivo soltanto per fare politica - L'impegno civile di Leonardo Sciascia - Venerdì alle 10 diretta webtv",
       "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64333",
@@ -25,9 +18,16 @@
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "Per i cristiani perseguitati e la libertà religiosa - Venerdì Montecitorio si illumina di rosso",
+      "title": "Per i cristiani perseguitati e la libertà religiosa - Stasera Montecitorio si illumina di rosso",
       "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64330",
       "excerpt": "La Camera dei deputati aderisce all’iniziativa della Red Week 2026, prevista per il 20 novembre...",
+      "publishedAt": "2026-11-19T00:00:00Z",
+      "dateEvidence": "html:publication-label"
+    },
+    {
+      "title": "Giornata mondiale contro il tumore al pancreas - Montecitorio si illumina di viola",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64336",
+      "excerpt": "La Camera dei deputati ha aderito all’iniziativa della Giornata mondiale contro il tumore al panc...",
       "publishedAt": "2026-11-19T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
@@ -63,15 +63,15 @@
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64336",
-      "status": 200
-    },
-    {
       "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64333",
       "status": 200
     },
     {
       "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64330",
+      "status": 200
+    },
+    {
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64336",
       "status": 200
     },
     {
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://comunicazione.camera.it/archivio-prima-pagina",
-  "durationSeconds": 4.52
+  "durationSeconds": 3.8
 }

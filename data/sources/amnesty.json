@@ -4,7 +4,7 @@
   "sourceId": "amnesty",
   "originUrl": "https://www.amnesty.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-20T01:01:00.126153Z",
+  "collectedAt": "2026-11-20T10:33:10.890952Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -46,7 +46,7 @@
       "status": 200
     },
     {
-      "url": "https://www.amnesty.it/appelli/gaza-liberta-per-il-dottor-hussam-abu-safiya/",
+      "url": "https://www.amnesty.it/appelli/chiediamo-i-codici-identificativi-per-le-forze-di-polizia/",
       "status": 200
     },
     {
@@ -69,9 +69,9 @@
   "message": "3 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [
     {
-      "url": "https://www.amnesty.it/appelli/gaza-liberta-per-il-dottor-hussam-abu-safiya/",
-      "title": "Gaza: libertà per il dottor Hussam Abu Safiya Firma ora",
-      "h1": "Gaza: libertà per il dottor Hussam Abu Safiya",
+      "url": "https://www.amnesty.it/appelli/chiediamo-i-codici-identificativi-per-le-forze-di-polizia/",
+      "title": "Chiediamo i codici identificativi per le forze di polizia Firma ora",
+      "h1": "Chiediamo i codici identificativi per le forze di polizia",
       "dates": []
     },
     {
@@ -90,5 +90,5 @@
   "candidateCount": 12,
   "datedCount": 3,
   "listingUrl": "https://www.amnesty.it/",
-  "durationSeconds": 6.14
+  "durationSeconds": 6.68
 }

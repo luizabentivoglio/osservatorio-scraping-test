@@ -4,20 +4,15 @@
   "sourceId": "iss",
   "originUrl": "https://www.iss.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-20T01:01:40.783027Z",
+  "collectedAt": "2026-11-20T10:33:53.096900Z",
   "status": "error",
   "diagnosticCode": "connection_error",
   "method": "html",
   "feedUrl": null,
   "items": [],
-  "attempts": [
-    {
-      "url": "https://www.iss.it/robots.txt",
-      "status": 200
-    }
-  ],
+  "attempts": [],
   "message": "ConnectionError",
   "httpStatus": null,
-  "failedUrl": "https://www.iss.it/comunicati-stampa",
-  "durationSeconds": 0.98
+  "failedUrl": "https://www.iss.it/robots.txt",
+  "durationSeconds": 0.44
 }

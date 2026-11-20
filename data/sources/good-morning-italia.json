@@ -4,7 +4,7 @@
   "sourceId": "good-morning-italia",
   "originUrl": "https://goodmorningitalia.substack.com/",
   "configuredFeedUrl": "https://goodmorningitalia.substack.com/feed",
-  "collectedAt": "2026-11-20T01:01:33.431801Z",
+  "collectedAt": "2026-11-20T10:33:46.149480Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
@@ -29,5 +29,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 0.66
+  "durationSeconds": 0.65
 }

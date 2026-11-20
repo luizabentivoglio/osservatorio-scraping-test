@@ -4,12 +4,19 @@
   "sourceId": "msf",
   "originUrl": "https://www.medicisenzafrontiere.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-20T01:01:45.507882Z",
+  "collectedAt": "2026-11-20T10:33:59.065159Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "Guerra in Ucraina: quando è iniziata e cosa sta succedendo oggi",
+      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/guerra-in-ucraina/",
+      "excerpt": "La guerra in Ucraina: dall'inizio del conflitto nel 2014 all'escalation del 2022, la crisi umanitaria attuale e la risposta di Medici Senza Frontiere",
+      "publishedAt": "2026-11-20T10:07:26Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
     {
       "title": "Rohingya, per la CIG Myanmar responsabile di genocidio. MSF: “Un importante riconoscimento delle sofferenze subite”",
       "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/rohingya-per-cig-myanmar-responsabile-genocidio-msf-importante-riconoscimento-sofferenze-subite/",
@@ -44,13 +51,6 @@
       "excerpt": "Un ciclo di cura di 4 mesi per bambini con tubercolosi in forma non grave - già raccomandato dall’OMS - può essere introdotto con successo nei normali servizi di assistenza sanitaria di base. Un trattamento efficace e sicuro Con un nuovo studio condotto in Uganda e nelle Filippine, pubblicato oggi e presentato alla Uni",
       "publishedAt": "2026-11-17T14:46:24Z",
       "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Accordo Italia-Albania sui migranti: come funziona e cosa prevede",
-      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/accordo-italia-albania-migranti/",
-      "excerpt": "Cos'è il protocollo Italia-Albania, come funzionano i centri di Gjadër e Shëngjin, gli sviluppi e la posizione di Medici Senza Frontiere",
-      "publishedAt": "2026-11-17T14:08:53Z",
-      "dateEvidence": "jsonld:datePublished"
     }
   ],
   "attempts": [
@@ -60,6 +60,10 @@
     },
     {
       "url": "https://www.medicisenzafrontiere.it/",
+      "status": 200
+    },
+    {
+      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/guerra-in-ucraina/",
       "status": 200
     },
     {
@@ -81,10 +85,6 @@
     {
       "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/tubercolosi-studio-msf-efficaci-trattamenti-brevi-bambini-tb-non-grave/",
       "status": 200
-    },
-    {
-      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/accordo-italia-albania-migranti/",
-      "status": 200
     }
   ],
   "message": "6 notizie recenti con data verificata; copertura parziale.",
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.medicisenzafrontiere.it/",
-  "durationSeconds": 3.58
+  "durationSeconds": 3.66
 }

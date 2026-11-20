@@ -4,7 +4,7 @@
   "sourceId": "commissione-europea",
   "originUrl": "https://commission.europa.eu/news-and-media_en",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-20T01:01:06.241399Z",
+  "collectedAt": "2026-11-20T10:33:20.556900Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -14,7 +14,7 @@
       "title": "Highlighted news",
       "url": "https://commission.europa.eu/news-and-media/highlighted-news_en",
       "excerpt": "Stay updated on the latest news from the European Commission, including developments on policies and initiatives, and about important events and milestones",
-      "publishedAt": "2026-11-17T12:00:00Z",
+      "publishedAt": "2026-11-20T12:00:00Z",
       "dateEvidence": "html:publication-time"
     }
   ],
@@ -54,26 +54,26 @@
         {
           "tag": "time",
           "class": [],
-          "text": "17 November 2026",
-          "datetime": "2026-11-17T12:00:00Z"
+          "text": "26 March 2026",
+          "datetime": "2026-03-26T12:00:00Z"
         },
         {
           "tag": "time",
           "class": [],
-          "text": "17 November 2026",
-          "datetime": "2026-11-17T12:00:00Z"
+          "text": "19 November 2025",
+          "datetime": "2025-11-19T12:00:00Z"
         },
         {
           "tag": "time",
           "class": [],
-          "text": "6 November 2026",
-          "datetime": "2026-11-06T12:00:00Z"
+          "text": "12 August 2025",
+          "datetime": "2025-08-12T12:00:00Z"
         },
         {
           "tag": "time",
           "class": [],
-          "text": "6 November 2026",
-          "datetime": "2026-11-06T12:00:00Z"
+          "text": "10 March 2025",
+          "datetime": "2025-03-10T12:00:00Z"
         },
         {
           "tag": "div",
@@ -139,20 +139,20 @@
         {
           "tag": "time",
           "class": [],
-          "text": "19 November 2026",
-          "datetime": "2026-11-19T12:00:00Z"
+          "text": "20 November 2026",
+          "datetime": "2026-11-20T12:00:00Z"
         },
         {
           "tag": "time",
           "class": [],
-          "text": "19 November 2026",
-          "datetime": "2026-11-19T12:00:00Z"
+          "text": "20 November 2026",
+          "datetime": "2026-11-20T12:00:00Z"
         },
         {
           "tag": "time",
           "class": [],
-          "text": "19 November 2026",
-          "datetime": "2026-11-19T12:00:00Z"
+          "text": "20 November 2026",
+          "datetime": "2026-11-20T12:00:00Z"
         }
       ]
     },
@@ -172,5 +172,5 @@
   "candidateCount": 4,
   "datedCount": 1,
   "listingUrl": "https://commission.europa.eu/news-and-media_en",
-  "durationSeconds": 2.94
+  "durationSeconds": 3.65
 }

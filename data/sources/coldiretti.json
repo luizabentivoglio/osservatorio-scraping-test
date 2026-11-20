@@ -4,7 +4,7 @@
   "sourceId": "coldiretti",
   "originUrl": "https://www.coldiretti.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-20T01:01:05.838768Z",
+  "collectedAt": "2026-11-20T10:33:17.568128Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -22,13 +22,6 @@
       "url": "https://www.coldiretti.it/economia/giornata-dieta-mediterranea-cibo-sano-negli-ospedali-con-nuovi-mercati-contadini-da-nord-a-sud",
       "excerpt": "Da Bari e Varese, nuovi appuntamenti. Si rafforza il patto tra medici e agricoltori per la prevenzione contro il cibo che ammala",
       "publishedAt": "2026-11-12T13:56:57Z",
-      "dateEvidence": "meta:article:published_time"
-    },
-    {
-      "title": "Made in Italy, Gesmundo: Trump e Ursula giù le mani dal nostro cibo. L'Europa difenda gli agricoltori, non le multinazionali",
-      "url": "https://www.coldiretti.it/economia/made-in-italy-gesmundo-trump-e-ursula-giu-le-mani-dal-nostro-cibo-leuropa-difenda-gli-agricoltori-non-le-multinazionali",
-      "excerpt": "Il segretario generale della Coldiretti sul Sole 24 Ore: “Difendere origine, reddito e salute non è protezionismo. Non accetteremo di diventare una colonia alimentare”",
-      "publishedAt": "2026-11-06T09:27:43Z",
       "dateEvidence": "meta:article:published_time"
     }
   ],
@@ -66,10 +59,10 @@
       "status": 200
     }
   ],
-  "message": "3 notizie recenti con data verificata; copertura parziale.",
+  "message": "2 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [],
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.coldiretti.it/",
-  "durationSeconds": 8.97
+  "durationSeconds": 8.08
 }

@@ -4,12 +4,26 @@
   "sourceId": "wwf",
   "originUrl": "https://www.wwf.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-20T01:02:15.401086Z",
+  "collectedAt": "2026-11-20T10:34:27.450578Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "COP31, la seconda bozza della decisione finale fa passi indietro sui punti decisivi",
+      "url": "https://www.wwf.it/pandanews/clima/cop31-la-seconda-bozza-della-decisione-finale-fa-passi-indietro-sui-punti-decisivi/",
+      "excerpt": "Nell’ultimo giorno ufficiale della COP3, il WWF Italia esprime preoccupazione per la seconda bozza della decisione finale",
+      "publishedAt": "2026-11-20T10:02:51Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "Insetti impollinatori, avviato a Roma il processo partecipato",
+      "url": "https://www.wwf.it/pandanews/ambiente/insetti-impollinatori-processo-partecipato/",
+      "excerpt": "L’iniziativa, organizzata dall’ISPRA e rientrante nel progetto LIFE PolliNetwork, ha coinvolto circa cento partecipanti",
+      "publishedAt": "2026-11-20T08:50:35Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
     {
       "title": "Parco della Costa Teatina: il WWF diffida il ministero dell’Ambiente",
       "url": "https://www.wwf.it/pandanews/societa/politica/parco-costa-teatina-wwf-diffida-ministero/",
@@ -37,20 +51,6 @@
       "excerpt": "Alla Conferenza l’evento di WWF Italia, ASviS e Città di Assisi su elettrificazione e transizione energetica, al Padiglione Italia",
       "publishedAt": "2026-11-18T10:25:20Z",
       "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "COP31, WWF: senza adattamento, comunità costiere in crisi",
-      "url": "https://www.wwf.it/pandanews/societa/mondo/cop31-wwf-senza-adattamento-comunita-costiere-in-crisi/",
-      "excerpt": "Nel Mediterraneo il mare si riscalda il 20% più velocemente della media globale, le ondate di calore sono aumentate del 40%",
-      "publishedAt": "2026-11-17T13:36:59Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "COP31: timidi passi avanti nella prima settimana, ma bisogna fare più in fretta",
-      "url": "https://www.wwf.it/pandanews/clima/cop31-timidi-passi-avanti-nella-prima-settimana-ma-bisogna-fare-piu-in-fretta/",
-      "excerpt": "L'Italia assente al vertice dei leader: il WWF Italia auspica ruolo più attivo e positivo del Governo nella fase conclusiva dei negoziati",
-      "publishedAt": "2026-11-14T18:17:04Z",
-      "dateEvidence": "jsonld:datePublished"
     }
   ],
   "attempts": [
@@ -60,6 +60,14 @@
     },
     {
       "url": "https://www.wwf.it/",
+      "status": 200
+    },
+    {
+      "url": "https://www.wwf.it/pandanews/clima/cop31-la-seconda-bozza-della-decisione-finale-fa-passi-indietro-sui-punti-decisivi/",
+      "status": 200
+    },
+    {
+      "url": "https://www.wwf.it/pandanews/ambiente/insetti-impollinatori-processo-partecipato/",
       "status": 200
     },
     {
@@ -77,14 +85,6 @@
     {
       "url": "https://www.wwf.it/pandanews/clima/cop31-serve-accelerare-sullelettrificazione-alimentata-da-fonti-rinnovabili/",
       "status": 200
-    },
-    {
-      "url": "https://www.wwf.it/pandanews/societa/mondo/cop31-wwf-senza-adattamento-comunita-costiere-in-crisi/",
-      "status": 200
-    },
-    {
-      "url": "https://www.wwf.it/pandanews/clima/cop31-timidi-passi-avanti-nella-prima-settimana-ma-bisogna-fare-piu-in-fretta/",
-      "status": 200
     }
   ],
   "message": "6 notizie recenti con data verificata; copertura parziale.",
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.wwf.it/",
-  "durationSeconds": 6.82
+  "durationSeconds": 5.44
 }

@@ -4,10 +4,10 @@
   "sourceId": "piu-europa",
   "originUrl": "https://www.piueuropa.eu/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-20T01:01:00.124643Z",
-  "status": "blocked",
-  "diagnosticCode": "access_restricted",
-  "method": "html",
+  "collectedAt": "2026-11-20T10:33:10.887036Z",
+  "status": "no_feed",
+  "diagnosticCode": "parsing_error",
+  "method": "crawl4ai",
   "feedUrl": null,
   "items": [],
   "attempts": [
@@ -17,11 +17,98 @@
     },
     {
       "url": "https://www.piueuropa.eu/",
-      "status": 403
+      "status": 200
+    },
+    {
+      "url": "https://www.piueuropa.eu/centrosinistra_magi_priorit_fiscale_governo_progressista_sia_taglio_tasse",
+      "status": 200
+    },
+    {
+      "url": "https://www.piueuropa.eu/manovra_magi_obiettivo_centrosinistra_sia_abbassare_tasse_sul_lavoro",
+      "status": 200
+    },
+    {
+      "url": "https://www.piueuropa.eu/della_vedova_meloni_si_opponga_a_partecipazione_di_putin_al_g20",
+      "status": 200
+    },
+    {
+      "url": "https://www.piueuropa.eu/per_gli_stati_uniti_d_europa",
+      "status": 200
+    },
+    {
+      "url": "https://www.piueuropa.eu/iscrizioni-2026",
+      "status": 200
+    },
+    {
+      "url": "https://www.piueuropa.eu/emma_ci_ha_lasciati_ma_non_ci_lascer_mai",
+      "status": 200
+    },
+    {
+      "url": "https://www.piueuropa.eu/centrosinistra_magi_priorit_fiscale_governo_progressista_sia_taglio_tasse",
+      "status": 200
+    },
+    {
+      "url": "https://www.piueuropa.eu/manovra_magi_obiettivo_centrosinistra_sia_abbassare_tasse_sul_lavoro",
+      "status": 200
+    },
+    {
+      "url": "https://www.piueuropa.eu/della_vedova_meloni_si_opponga_a_partecipazione_di_putin_al_g20",
+      "status": 200
+    },
+    {
+      "url": "https://www.piueuropa.eu/per_gli_stati_uniti_d_europa",
+      "status": 200
+    },
+    {
+      "url": "https://www.piueuropa.eu/iscrizioni-2026",
+      "status": 200
+    },
+    {
+      "url": "https://www.piueuropa.eu/emma_ci_ha_lasciati_ma_non_ci_lascer_mai",
+      "status": 200
     }
   ],
-  "message": "HTTP 403: accesso limitato dalla fonte",
-  "httpStatus": 403,
-  "failedUrl": "https://www.piueuropa.eu/",
-  "durationSeconds": 0.53
+  "message": "Pagina accessibile, ma nessuna notizia con data di pubblicazione verificabile.",
+  "candidateSamples": [
+    {
+      "url": "https://www.piueuropa.eu/centrosinistra_magi_priorit_fiscale_governo_progressista_sia_taglio_tasse",
+      "title": "Centrosinistra: Magi, priorità fiscale governo progressista sia taglio tasse",
+      "h1": "",
+      "dates": []
+    },
+    {
+      "url": "https://www.piueuropa.eu/manovra_magi_obiettivo_centrosinistra_sia_abbassare_tasse_sul_lavoro",
+      "title": "Manovra: Magi, obiettivo centrosinistra sia abbassare tasse sul lavoro",
+      "h1": "",
+      "dates": []
+    },
+    {
+      "url": "https://www.piueuropa.eu/della_vedova_meloni_si_opponga_a_partecipazione_di_putin_al_g20",
+      "title": "Della Vedova, Meloni si opponga a partecipazione di Putin al G20",
+      "h1": "",
+      "dates": []
+    },
+    {
+      "url": "https://www.piueuropa.eu/per_gli_stati_uniti_d_europa",
+      "title": "Appello Stati Uniti d'Europa con Emma",
+      "h1": "Con Emma per gli Stati Uniti d’Europa: firma l’appello di +Europa",
+      "dates": []
+    },
+    {
+      "url": "https://www.piueuropa.eu/iscrizioni-2026",
+      "title": "Tesseramento 2026 Facciamo tutta l'Europa che manca Iscriviti ora →",
+      "h1": null,
+      "dates": []
+    },
+    {
+      "url": "https://www.piueuropa.eu/emma_ci_ha_lasciati_ma_non_ci_lascer_mai",
+      "title": "Emma Bonino Emma ci ha lasciati ma non ci lascerà mai Leggi →",
+      "h1": "",
+      "dates": []
+    }
+  ],
+  "candidateCount": 12,
+  "datedCount": 0,
+  "listingUrl": "https://www.piueuropa.eu/",
+  "durationSeconds": 4.67
 }
