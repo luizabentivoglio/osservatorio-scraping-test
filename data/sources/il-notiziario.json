@@ -4,7 +4,7 @@
   "sourceId": "il-notiziario",
   "originUrl": "https://www.ilnotiziario.net/",
   "configuredFeedUrl": "https://www.ilnotiziario.net/feed/",
-  "collectedAt": "2026-11-20T18:53:24.245389Z",
+  "collectedAt": "2026-11-21T03:31:34.602486Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
@@ -127,5 +127,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 1.89
+  "durationSeconds": 1.77
 }

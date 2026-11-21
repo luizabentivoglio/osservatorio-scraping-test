@@ -4,16 +4,44 @@
   "sourceId": "la-stampa",
   "originUrl": "https://www.lastampa.it/",
   "configuredFeedUrl": "https://www.lastampa.it/rss/copertina.xml",
-  "collectedAt": "2026-11-20T18:53:27.656043Z",
+  "collectedAt": "2026-11-21T03:31:38.073265Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.lastampa.it/rss/copertina.xml",
   "items": [
     {
-      "title": "Trump: “Putin vuole la fine della guerra, stiamo avendo ottimi colloqui. Paletti con Xi sull’Ai”",
+      "title": "Mounk: “Gli europei non sono finiti nel menù. Un’intesa giusta tra Kiev e Mosca è ancora possibile”",
+      "url": "https://www.lastampa.it/esteri/2026/11/21/news/yascha_mounk_guerra_russia_ucraina_intervista-15804700/",
+      "excerpt": "Il politologo: “Adesso però serve una riforma ambiziosa dell’Ue, per tornare a contare”",
+      "publishedAt": "2026-11-21T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Lodi, paga 300 biglietti agli studenti per il film su Giulia Cecchetin: “Voglio piantare un seme”",
+      "url": "https://www.lastampa.it/cronaca/2026/11/21/news/film_giulia_cechettin_imprenditore_lodi_biglietto_studenti-15804689/",
+      "excerpt": "Ll’imprenditore si è seduto tra i ragazzi senza farsi vedere",
+      "publishedAt": "2026-11-21T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Chiara Rondolino: \"Mortificata e segnata da quella maestra. Finalmente la mia storia è stata riconosciuta”",
+      "url": "https://www.lastampa.it/torino/2026/11/21/news/chiara_rondolino_ex_alunna_maestra_condannata-15804757/",
+      "excerpt": "Parla l’ex alunna dell’insegnante di Torino condannata per maltrattamenti: “Mi diceva: sei una deficiente”",
+      "publishedAt": "2026-11-21T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Trump spera nella pace entro l’anno: “Ma Kiev e Mosca non sanno come farla”",
       "url": "https://www.lastampa.it/esteri/2026/11/20/news/trump_iran_cina_asia_russia-15804488/",
-      "excerpt": "Conferenza stampa del presidente Usa dopo il viaggio in Asia: “L’accordo che l’Iran vuole è inaccettabile, io ne voglio uno vero”",
+      "excerpt": "Il leader Usa: “Intesa con Xi sull’AI ma gli darà solo chip vecchi. Proibirò alle aziende di costruire data center all’estero”",
+      "publishedAt": "2026-11-20T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Due missili russi in Polonia. Tusk: “Una provocazione”. Putin colpisce i ponti di Kiev",
+      "url": "https://www.lastampa.it/esteri/2026/11/21/diretta/guerra_russia_ucraina_news_oggi-15804851/",
+      "excerpt": "Trump: «Pace entro gennaio, ma Kiev e Mosca non sanno come farla»",
       "publishedAt": "2026-11-20T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -25,23 +53,16 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "La Cina caccia dal vertice la giornalista Bloomberg che aveva osato chiedere di Nvidia",
-      "url": "https://www.lastampa.it/esteri/2026/11/20/news/la_cina_caccia_del_vertice_la_giornalista_bloomberg_che_aveva_osato_chiedere_di_jensen_huang-nvidia-15803748/",
-      "excerpt": "Alla presenza di Xi Jinping, Annemarie Hordern, corrispondente politica di Bloomberg, ha fatto ad alta voce una domanda imprevista: ha chiesto se l’ex ceo di Nvidia Jensen Huang fosse stato sleale verso gli Stati Uniti. E della spia cinese Alice Huang",
-      "publishedAt": "2026-11-20T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Sciopero, Landini: “Un milione e mezzo di persone in piazza”. Tensioni a Roma e Bologna Video",
-      "url": "https://www.lastampa.it/cronaca/2026/11/20/diretta/sciopero_generale_20_novembre_2026_notizie_diretta-15803658/",
-      "excerpt": "La Cgil è scesa in piazza contro la manovra, con gli studenti e i Cobas. Schlein, Conte e Fratoianni al corteo di Roma. Esclusi aerei e treni, ma dalle 21 scatta una nuova protesta ferroviaria",
-      "publishedAt": "2026-11-20T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "A Torino bloccato l'accesso all'autostrada: “Giù le armi, su i salari”",
+      "title": "Sciopero, a Torino bloccato l'accesso all'autostrada. In serata scontri in centro / Video",
       "url": "https://www.lastampa.it/torino/2026/11/20/diretta/sciopero_generale_corteo_oggi_torino-15803356/",
-      "excerpt": "Nessuno scontro con le forze dell’ordine, vie del centro paralizzate, l’applauso ai lavoratori negli ospedali. In serata manifestazione in piazza Castello",
+      "excerpt": "Vie del centro paralizzate, applauso ai lavoratori negli ospedali. Bloccato l’accesso in autostrada. Nuovo raduno e tensioni con la polizia: idranti e lacrimogeni. Appuntamento per i 30 anni del centro sociale Askatasuna",
+      "publishedAt": "2026-11-20T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Landini: “Un milione e mezzo di persone in piazza”. Tensioni anche a Roma e Bologna Video",
+      "url": "https://www.lastampa.it/cronaca/2026/11/20/diretta/sciopero_generale_20_novembre_2026_notizie_diretta-15803658/",
+      "excerpt": "La Cgil ha organizzato il corteo contro la manovra, con gli studenti e i Cobas. Schlein, Conte e Fratoianni a Roma",
       "publishedAt": "2026-11-20T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -60,51 +81,9 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Se Landini rincorre la protesta",
-      "url": "https://www.lastampa.it/editoriali/lettere-e-idee/2026/11/20/news/se_landini_rincorre_la_protesta-15803363/",
-      "excerpt": "Dopo studenti e genitori, sindacati di base e trasportatori, e in attesa (forse) di medici e personale sanitario, nell’autunno del nostro scontento, tra inflazione galoppante e Pil ristagnante, ...",
-      "publishedAt": "2026-11-20T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Alcaraz liquida Cobolli in due set (6-4,6-1): un’altra sconfitta per l’italiano",
-      "url": "https://www.lastampa.it/sport/speciali/atp-finals-2026/2026/11/20/news/cobolli_alcaraz_atp_finals_risultato-15804282/",
-      "excerpt": "Lo spagnolo non forza e vince in scioltezza",
-      "publishedAt": "2026-11-20T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
       "title": "Dario Amodei atterra in Puglia, mistero sulla visita del Ceo di Anthropic",
       "url": "https://www.lastampa.it/cronaca/2026/11/20/news/anthropic_ceo_dario_amodei_puglia-15804270/",
       "excerpt": "L’imprenditore è atterrato a Brindisi poche ore dopo il debutto record a Wall Street: tra le ipotesi anche quella di una vacanza in una masseria",
-      "publishedAt": "2026-11-20T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Londra riapre le porte ai giovani Ue nonostante la Brexit. Intese anche su commercio ed emissioni",
-      "url": "https://www.lastampa.it/esteri/2026/11/20/news/regno_unito_ue_mobilita_giovanile_under_30_brexit-15803855/",
-      "excerpt": "L'accordo con il Regno Unito prevede fino a 100 mila partecipanti per ciascuna direzione. Scatterà nel 2028. Possibilità di soggiornare temporaneamente per lavorare o studiare, senza ripristinare la libera circolazione",
-      "publishedAt": "2026-11-20T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "La nuova Bce di de Cos, ecco la squadra tecnica per la sfida tra inflazione, debiti e rischi AI",
-      "url": "https://www.lastampa.it/economia/2026/11/20/news/bce_de_cos_boone_brunnermeier_ai_debiti_rischi_post_lagarde-15804423/",
-      "excerpt": "Con Markus Brunnermeier capo economista e Laurence Boone alle operazioni di mercato i governi europei scelgono un direttorio rigoroso. Dal percorso diplomatico alle priorità tra Francia, finanza non bancaria e intelligenza artificiale",
-      "publishedAt": "2026-11-20T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Omicidio Willy Monteiro, la Cassazione conferma l'ergastolo per Gabriele Bianchi",
-      "url": "https://www.lastampa.it/cronaca/2026/11/20/news/omicidio_willy_gabriele_bianchi_ergastolo_cassazione-15804328/",
-      "excerpt": "I Supremi giudici avevano già fatto passare in giudicato la pena del carcere a vita per il fratello Marco",
-      "publishedAt": "2026-11-20T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Un’ora di agonia prima di morire: la polemica per un’esecuzione in Texas",
-      "url": "https://www.lastampa.it/esteri/2026/11/20/news/esecuzione_letale_dennes_texas_polemiche-15804484/",
-      "excerpt": "Gli attivitsi parlano di fallimento. L’uomo era stato condannato per un omicidio avvenuto nel 1996",
       "publishedAt": "2026-11-20T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -123,23 +102,30 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Furia Marina sui libri digitali, FI: tre emendamenti soppressivi alla Camera",
-      "url": "https://www.lastampa.it/politica/2026/11/20/news/libri_digitali_marina_berlusconi_mendamenti_camera-15804197/",
-      "excerpt": "Berlusconi contro Meloni. Gli azzurri riprovano a far saltare la norma sugli ebook. La sfida con FdI si sposta sui medici no vax",
+      "title": "Un pugno lo ha reso tetraplegico. Paolo Sarullo torna a casa dopo 913 giorni di riabilitazione",
+      "url": "https://www.lastampa.it/savona/2026/11/20/news/albenga_paolo_sarullo_casa_913_giorni_riabilitazione-15803964/",
+      "excerpt": "Il dramma dopo un’aggressione subita il 19 maggio 2024. La festa nella sua Albenga tra i parenti e gli amici di sempre. E arriva anche la telefonata di Olly",
       "publishedAt": "2026-11-20T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Lotteria degli scontrini, adesso si vince alla cassa",
-      "url": "https://www.lastampa.it/economia/2026/11/20/news/lotteria_degli_scontrini_adesso_si_vince_alla_cassa-15803832/",
-      "excerpt": "La legge di Bilancio 2027 prova a sbloccare la vincita istantanea: si saprà subito se si ha diritto a un premio",
+      "title": "Nadir Rossi si suicida in carcere, era accusato di aver ucciso la moglie",
+      "url": "https://www.lastampa.it/cronaca/2026/11/20/news/nadir_rossi_carcere_suicidio_accusa_uccise_moglie_insulina-15804241/",
+      "excerpt": "L’ex infermiere, 35 anni, è stato trovato questa mattina in fin di vita nella sua cella a Verona. Fonti penitenziarie parlano di «morte celebrale». Ieri il rigetto della richiesta di scarcerazione",
       "publishedAt": "2026-11-20T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Andrea Scrosati lascia Fremantle dopo otto anni per un investimento diretto nei media",
-      "url": "https://www.lastampa.it/economia/2026/11/20/news/andrea_scrosati_lascia_fremantle_dopo_otto_anni_per_un_investimento_diretto_nei_media-15804265/",
-      "excerpt": "Membro dell’Academy che assegna gli Oscar e dei Bafta inglesi il manager italiano è stabilmente inserito nella Variety500, l'elenco dei 500 leader più influenti dell'entertainment mondiale stilato da Variety",
+      "title": "Medvedev batte Tiafoe e conquista la semifinale: troverà Zverev",
+      "url": "https://www.lastampa.it/sport/speciali/atp-finals-2026/2026/11/20/news/medvedev_batte_tiafoe_e_conquista_la_semifinale_trovera_zverev-15804759/",
+      "excerpt": "Il russo vince 6-3, 6-4. Sabato si gioca un posto in finale",
+      "publishedAt": "2026-11-20T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Alcaraz liquida Cobolli in due set (6-4,6-1): un’altra sconfitta per l’italiano",
+      "url": "https://www.lastampa.it/sport/speciali/atp-finals-2026/2026/11/20/news/cobolli_alcaraz_atp_finals_risultato-15804282/",
+      "excerpt": "Lo spagnolo non forza e vince in scioltezza",
       "publishedAt": "2026-11-20T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -172,34 +158,6 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Un pugno lo ha reso tetraplegico. Paolo Sarullo torna a casa dopo 913 giorni di riabilitazione",
-      "url": "https://www.lastampa.it/savona/2026/11/20/news/albenga_paolo_sarullo_casa_913_giorni_riabilitazione-15803964/",
-      "excerpt": "Il dramma dopo un’aggressione subita il 19 maggio 2024. La festa nella sua Albenga tra i parenti e gli amici di sempre. E arriva anche la telefonata di Olly",
-      "publishedAt": "2026-11-20T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Nadir Rossi si suicida in carcere, era accusato di aver ucciso la moglie",
-      "url": "https://www.lastampa.it/cronaca/2026/11/20/news/nadir_rossi_carcere_suicidio_accusa_uccise_moglie_insulina-15804241/",
-      "excerpt": "L’ex infermiere, 35 anni, è stato trovato questa mattina in fin di vita nella sua cella a Verona. Fonti penitenziarie parlano di «morte celebrale». Ieri il rigetto della richiesta di scarcerazione",
-      "publishedAt": "2026-11-20T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "“Sei una deficiente”: condannata la maestra Laura Prunotto che mortificava gli alunni a Torino",
-      "url": "https://www.lastampa.it/torino/2026/11/20/news/laura_prunotto_maestra_mortificava_alunni_condannata-15803332/",
-      "excerpt": "Le motivazioni della sentenza d’appello che ha giudicato l’ex insegnante",
-      "publishedAt": "2026-11-20T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Un solo indirizzo, 166 società. Perché in Emilia-Romagna la mafia “coperta” si è fatta impresa",
-      "url": "https://www.lastampa.it/cronaca/2026/11/20/news/mafia_nord_emilia-romagna-15803682/",
-      "excerpt": "L’allarme della commissione parlamentare: “Colletti bianchi capitale sociale del crimine”",
-      "publishedAt": "2026-11-20T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
       "title": "Panettone, quanto costa? Energia e trasporti pesano più delle materie prime. “Assurdo oltre 50 euro”",
       "url": "https://www.lastampa.it/sapore/2026/11/20/news/caro_panettone_quanto_costa_prezzi_materie_prime_energia_trasporti-15804186/",
       "excerpt": "Per i pasticceri, il prezzo giusto degli artigianali varia tra i 35 e i 45 euro. Borromeo, ad Galup: «Importante distinguere tra un prodotto caro e uno coerente con la qualità degli ingredienti, il lavoro e le competenze artigianali che richiede la produzione»",
@@ -228,44 +186,23 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Vannacci, bufera nel partito per l’ex manager di Onlyfans: i militanti restituiscono la tessera",
-      "url": "https://www.lastampa.it/cronaca/2026/11/20/news/davide_beltrami_onlyfans_lusetti_futuro_nazionale_reggio_emilia-15803939/",
-      "excerpt": "Reggio Emilia: il coordinatore provinciale parla dopo le polemiche che hanno portato alcuni tesserati a lasciare il comitato locale, in dissenso con la nomina di Beltrami",
+      "title": "Un solo indirizzo, 166 società. Perché in Emilia-Romagna la mafia “coperta” si è fatta impresa",
+      "url": "https://www.lastampa.it/cronaca/2026/11/20/news/mafia_nord_emilia-romagna-15803682/",
+      "excerpt": "L’allarme della commissione parlamentare: “Colletti bianchi capitale sociale del crimine”",
       "publishedAt": "2026-11-20T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "I nemici-amici D’Alema e Veltroni e quella “nostalgia del futuro” da trasmettere al Pd di Schlein",
-      "url": "https://www.lastampa.it/politica/2026/11/20/news/i_nemici-amici_d_alema_e_veltroni_e_quella_nostalgia_del_futuro_da_trasmettere_al_pd_di_schlein-15803390/",
-      "excerpt": "La leader e il libro dell’ex premier. Walter: “Di questi tempi è bene stare uniti”",
+      "title": "Omicidio Willy Monteiro, la Cassazione conferma l'ergastolo per Gabriele Bianchi",
+      "url": "https://www.lastampa.it/cronaca/2026/11/20/news/omicidio_willy_gabriele_bianchi_ergastolo_cassazione-15804328/",
+      "excerpt": "I Supremi giudici avevano già fatto passare in giudicato la pena del carcere a vita per il fratello Marco",
       "publishedAt": "2026-11-20T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Editoria: il 24 novembre alla Fieg confronto tra editori, Parlamento e governo",
-      "url": "https://www.lastampa.it/economia/2026/11/20/news/editoria_il_24_novembre_alla_fieg_confronto_tra_editori_parlamento_e_governo-15804295/",
-      "excerpt": "Sul tavolo le misure per il settore nella legge di bilancio",
-      "publishedAt": "2026-11-20T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Lufthansa cancella il volo Torino-Francoforte dopo 55 anni: Cirio e Lo Russo chiedono di ripensarci",
-      "url": "https://www.lastampa.it/torino/2026/11/20/news/lufthansa_cancella_volo_torino_francoforte_cirio_lo_russo-15804027/",
-      "excerpt": "Il collegamento sarà sospeso dal 28 marzo 2027 dopo 55 anni. Regione e Comune scrivono all’ad della compagnia tedesca: «Una rotta strategica per le imprese e i collegamenti internazionali»",
-      "publishedAt": "2026-11-20T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Marco Corrias, il vero giornalista di Farouk: “Il riscatto lo pagò la famiglia, Mesina nulla”",
-      "url": "https://www.lastampa.it/cronaca/2026/11/20/news/marco_corrias_sequestro_farouk_kassam_fiction_rai_mesina-15803990/",
-      "excerpt": "Dal suo libro scritto dal racconto di Fateh Kassam è nata la fiction Rai: «Non mi sento particolarmente rappresentato»",
-      "publishedAt": "2026-11-20T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "L’“Oscar” della Sanità all’Umberto I di Roma, premiata anche l’Asl di Torino. Tutti i riconoscimenti",
-      "url": "https://www.lastampa.it/cronaca/2026/11/20/news/oscar_sanita_umberto_primo_roma_asl_torino_premi-15804129/",
-      "excerpt": "Come regioni, menzioni speciali a Toscana e Sardegna",
+      "title": "Un’ora di agonia prima di morire: la polemica per un’esecuzione in Texas",
+      "url": "https://www.lastampa.it/esteri/2026/11/20/news/esecuzione_letale_dennes_texas_polemiche-15804484/",
+      "excerpt": "Gli attivitsi parlano di fallimento. L’uomo era stato condannato per un omicidio avvenuto nel 1996",
       "publishedAt": "2026-11-20T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -277,17 +214,24 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Scontri tra polizia e manifestanti a Bologna, poi un uomo si inginocchia: \"Vi prego, basta violenza\"",
-      "url": "https://www.lastampa.it/cronaca/2026/11/20/video/bologna_scontri_corteo_uomo_inginocchia_basta_violenza-15804164/",
-      "excerpt": "Momenti di tensione a Bologna, tafferugli fra polizia e collettivi in vicolo Santa Lucia, a pochi passi dalla sede di Confindustria Emilia. Gli agenti, in tenuta antisommossa, hanno respinto un gruppo di manifestanti che, con fumogeni e striscioni, ha tentato di sfondare un cordone di sicurezza a chiusura della strada.",
-      "publishedAt": "2026-11-20T00:00:00Z",
+      "title": "\"Se mi consentite, vi leggo le sue parole\": l'addio di Fiorello a Corrado Augias",
+      "url": "https://www.lastampa.it/spettacoli/2026/11/19/video/fiorello_ricordo_corrado_augias_la_pennicanza_radio2-15803066/",
+      "excerpt": "«Se mi consentite, vi leggo le sue parole». A La Pennicanza, su Rai Radio2, Fiorello ricorda così Corrado Augias, morto a 91 anni. Il conduttore sceglie il finale di La vita s’impara, il libro in cui il giornalista e scrittore ripercorre la propria storia. «Ora so che la vita si impara e va un po’ meglio», legge al mic",
+      "publishedAt": "2026-11-19T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Drogava la moglie e la faceva violentare da sconosciuti: il video dell'interrogatorio del marito",
-      "url": "https://www.lastampa.it/esteri/2026/11/20/video/joanne_young_marito_interrogatorio_quattro_uomini_colpevoli-15803847/",
-      "excerpt": "Drogata ripetutamente dall'allora marito e sottoposta a violenze sessuali da uomini che lui stesso contattava su Internet. È la storia di Joanne Young, una donna britannica che ha scelto di rinunciare all'anonimato, come aveva fatto Gisèle Pelicot in Francia, per denunciare pubblicamente gli abusi subiti. Giovedì 19 no",
-      "publishedAt": "2026-11-20T00:00:00Z",
+      "title": "Amazzonia, il raro incontro con gli indigeni Awá: perché quelle immagini allarmano",
+      "url": "https://www.lastampa.it/esteri/2026/11/18/video/amazzonia_indigeni_awa_usciti_isolamento-15801455/",
+      "excerpt": "Una ventina di indigeni Awá che vivono in isolamento volontario nella foresta amazzonica brasiliana si sarebbero avvicinati a una comunità chiedendo del cibo. Le rare immagini, diffuse il 17 novembre da Survival International, documenterebbero un incontro avvenuto il giorno precedente nella terra indigena di Arariboia,",
+      "publishedAt": "2026-11-18T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Il Papa a Lima colpito al volto da un rosario lanciato dalla folla",
+      "url": "https://www.lastampa.it/esteri/2026/11/16/video/il_papa_a_lima_colpito_da_un_rosario_al_volto_lanciato_dalla_folla-15800324/",
+      "excerpt": "Piccolo incidente senza conseguenze per il Papa durante il suo giro sulla Papamobile tra la folla della spianata di Las Palmas, prima della Messa, l'ultima in terra peruviana. Un fedele, come capita spesso, ha lanciato verso Leone XIV un rosario. Stavolta però il piccolo oggetto ha raggiunto all'occhio Papa Prevost, un",
+      "publishedAt": "2026-11-16T00:00:00Z",
       "dateEvidence": "feed:published"
     }
   ],
@@ -302,5 +246,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 0.81
+  "durationSeconds": 1.19
 }

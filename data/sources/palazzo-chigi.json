@@ -4,12 +4,19 @@
   "sourceId": "palazzo-chigi",
   "originUrl": "https://www.governo.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-20T18:53:38.722889Z",
+  "collectedAt": "2026-11-21T03:31:49.422268Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.governo.it/feed/rss",
   "items": [
+    {
+      "title": "Il Presidente Meloni alla riapertura del Teatro Comunale dell’Aquila “Nazzareno De Angelis”",
+      "url": "https://www.governo.it/it/articolo/il-presidente-meloni-alla-riapertura-del-teatro-comunale-dell-aquila-nazzareno-de-angelis",
+      "excerpt": "Il Presidente del Consiglio, Giorgia Meloni, ha presenziato oggi alla prima ufficiale de “La Traviata” di Giuseppe Verdi, in occasione della riapertura del Teatro Comunale dell’Aquila.",
+      "publishedAt": "2026-11-20T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "Riunione della Coalizione dei Volenterosi",
       "url": "https://www.governo.it/it/articolo/riunione-della-coalizione-dei-volenterosi/33156",
@@ -72,13 +79,6 @@
       "excerpt": "Si è svolta, a Palazzo Chigi, la riunione del Consiglio dei Ministri. Nel comunicato stampa i provvedimenti approvati.",
       "publishedAt": "2026-11-18T00:00:00Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Convocazione del Consiglio dei Ministri n. 198",
-      "url": "https://www.governo.it/it/articolo/convocazione-del-consiglio-dei-ministri-n-198/33143",
-      "excerpt": "Il Consiglio dei Ministri è convocato oggi, mercoledì 18 novembre 2026, alle ore 16 a Palazzo Chigi, per l’esame del seguente ordine del giorno:",
-      "publishedAt": "2026-11-18T00:00:00Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -100,5 +100,5 @@
     }
   ],
   "message": "Feed dichiarato dalla fonte; date di pubblicazione verificate.",
-  "durationSeconds": 30.28
+  "durationSeconds": 30.34
 }
