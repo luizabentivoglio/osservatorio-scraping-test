@@ -4,7 +4,7 @@
   "sourceId": "hrw",
   "originUrl": "https://www.hrw.org/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-21T14:58:22.212776Z",
+  "collectedAt": "2026-11-21T23:37:58.803290Z",
   "status": "blocked",
   "diagnosticCode": "access_restricted",
   "method": "html",
@@ -19,5 +19,5 @@
   "message": "HTTP 403: accesso limitato dalla fonte",
   "httpStatus": 403,
   "failedUrl": "https://www.hrw.org/robots.txt",
-  "durationSeconds": 0.03
+  "durationSeconds": 0.07
 }

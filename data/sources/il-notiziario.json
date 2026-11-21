@@ -4,12 +4,26 @@
   "sourceId": "il-notiziario",
   "originUrl": "https://www.ilnotiziario.net/",
   "configuredFeedUrl": "https://www.ilnotiziario.net/feed/",
-  "collectedAt": "2026-11-21T14:58:25.475746Z",
+  "collectedAt": "2026-11-21T23:38:03.084853Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.ilnotiziario.net/feed/",
   "items": [
+    {
+      "title": "Paderno, rifiuti: agente accertatore e sacchi",
+      "url": "https://www.ilnotiziario.net/paderno-rifiuti-agente-accertatore-e-sacchi/",
+      "excerpt": "Paderno, rifiuti: agente accertatore e sacchi. “In una prima fase l’agente accertatore si occuperà soltanto di sensibilizzazione,...",
+      "publishedAt": "2026-11-21T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Rho, sessanta euro di multa per le feci del cane",
+      "url": "https://www.ilnotiziario.net/rho-sessanta-euro-di-multa-per-le-feci-del-cane/",
+      "excerpt": "Rho, sessanta euro di multa per le feci del cane. Non raccoglie gli escrementi del cane e viene multato con 61 euro. È quanto...",
+      "publishedAt": "2026-11-21T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "Massimo Bossetti esce dal carcere di Bollate per andare a lavorare a Cormano",
       "url": "https://www.ilnotiziario.net/massimo-bossetti-esce-dal-carcere-di-bollate-per-andare-a-lavorare-a-cormano/",
@@ -100,20 +114,6 @@
       "excerpt": "L’inaugurazione del primo piano riqualificato, con 25 nuove insegne e un investimento da 20 milioni di euro, rilancia la...",
       "publishedAt": "2026-11-20T00:00:00Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Ruba il cellulare a un’anziana sul tram 19, arrestato un 28enne a Milano",
-      "url": "https://www.ilnotiziario.net/ruba-il-cellulare-a-unanziana-sul-tram-19-arrestato-un-28enne-a-milano/",
-      "excerpt": "Ruba il cellulare a un’anziana sul tram 19, arrestato un 28enne a Milano Un furto a bordo di un tram, un tentativo di fuga...",
-      "publishedAt": "2026-11-20T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Tram Milano-Limbiate, lavori a Paderno Dugnano e disagi sulla Comasina fino a fine marzo",
-      "url": "https://www.ilnotiziario.net/tram-milano-limbiate-lavori-a-paderno-dugnano-e-disagi-sulla-comasina-fino-a-fine-marzo/",
-      "excerpt": "Per i lavori sulla linea del tram Milano-Limbiate, a Paderno Dugnano disagi sulla Comasina fino alla fine di marzo 2027. Nuovi...",
-      "publishedAt": "2026-11-20T00:00:00Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -127,5 +127,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 1.36
+  "durationSeconds": 1.31
 }

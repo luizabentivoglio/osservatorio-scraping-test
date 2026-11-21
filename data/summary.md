@@ -9,9 +9,9 @@
 | breaking-italy | ok | trafilatura | 1 | — |
 | camera | ok | trafilatura | 6 | — |
 | cisl | blocked | html | 0 | robots_disallowed |
-| cnr | ok | rss | 20 | — |
+| cnr | error | html | 0 | connection_error |
 | coldiretti | ok | trafilatura | 2 | — |
-| commissione-europea | ok | trafilatura | 1 | — |
+| commissione-europea | blocked | html | 0 | rate_limited |
 | comune-bollate | ok | trafilatura | 6 | — |
 | confcommercio | blocked | html | 0 | access_restricted |
 | confindustria | ok | trafilatura | 4 | — |
@@ -31,7 +31,7 @@
 | good-morning-italia | ok | rss | 2 | — |
 | greenpeace | ok | trafilatura | 3 | — |
 | hrw | blocked | html | 0 | access_restricted |
-| iai | ok | trafilatura | 1 | — |
+| iai | error | html | 0 | timeout |
 | il-fatto | blocked | html | 0 | robots_disallowed |
 | il-notiziario | ok | rss | 15 | — |
 | il-post | ok | trafilatura | 6 | — |
@@ -42,7 +42,7 @@
 | istat | ok | rss | 10 | — |
 | istituto-bruno-leoni | ok | trafilatura | 5 | — |
 | italia-domani-rizzo | ok | trafilatura | 3 | — |
-| italia-viva | no_feed | crawl4ai | 0 | parsing_error |
+| italia-viva | blocked | html | 0 | access_restricted |
 | la-stampa | ok | rss | 40 | — |
 | legambiente | ok | trafilatura | 0 | — |
 | libera | ok | html | 0 | — |
@@ -57,7 +57,7 @@
 | patt | ok | trafilatura | 0 | — |
 | patto-nord | no_feed | crawl4ai | 0 | parsing_error |
 | pillole-economia | ok | rss | 0 | — |
-| piu-europa | no_feed | crawl4ai | 0 | parsing_error |
+| piu-europa | blocked | html | 0 | access_restricted |
 | piu-uno | ok | trafilatura | 1 | — |
 | pri | no_feed | crawl4ai | 0 | parsing_error |
 | quirinale | blocked | html | 0 | access_restricted |

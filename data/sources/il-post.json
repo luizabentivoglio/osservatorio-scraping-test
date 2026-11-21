@@ -4,52 +4,52 @@
   "sourceId": "il-post",
   "originUrl": "https://www.ilpost.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-21T14:58:25.591446Z",
+  "collectedAt": "2026-11-21T23:38:03.086611Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
-      "title": "È morto Paolo Bulgari, che guidò per molti anni l’azienda di gioielli Bulgari, fondata da suo nonno",
-      "url": "https://www.ilpost.it/2026/11/21/paolo-bulgari-gioielli-morte/?bitPosition=1",
-      "excerpt": "È morto Paolo Bulgari, che guidò per molti anni l’azienda di gioielli Bulgari, fondata da suo nonno È morto a 89 anni Paolo Bulgari, che guidò per molti anni la nota azienda di gioielli Bulgari, fondata da suo nonno Sotirios negli anni Ottanta dell’Ottocento (era greco e il suo nome Sotirios Voulgaris venne poi italian",
-      "publishedAt": "2026-11-21T12:41:12Z",
+      "title": "L’FBI sta indagando su un presunto attacco hacker a una sua banca dati investigativa",
+      "url": "https://www.ilpost.it/2026/11/21/lfbi-sta-indagando-su-un-presunto-attacco-hacker-a-una-sua-banca-dati-investigativa/?bitPosition=1",
+      "excerpt": "L’FBI sta indagando su un presunto attacco hacker a una sua banca dati investigativa L’FBI, agenzia investigativa della polizia federale statunitense, sta indagando su un presunto attacco informatico a una sua banca dati che contiene informazioni relative alla giustizia penale, con dati su latitanti, persone scomparse,",
+      "publishedAt": "2026-11-21T18:50:11Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "Il governo di Haiti si è accordato per costruire nuove prigioni con El Salvador, che sta facendo una campagna militare sull’isola",
-      "url": "https://www.ilpost.it/2026/11/21/haiti-accordo-el-salvador-prigioni/?bitPosition=2",
-      "excerpt": "Il governo di Haiti si è accordato per costruire nuove prigioni con El Salvador, che sta facendo una campagna militare sull’isola Il governo di Haiti si è accordato con quello di El Salvador per costruire tre nuove prigioni sull’isola. L’annuncio segnala una cooperazione ancora più profonda, da quando El Salvador ha av",
-      "publishedAt": "2026-11-21T11:29:13Z",
+      "title": "Di cosa era accusato Gianni De Gennaro",
+      "url": "https://www.ilpost.it/2026/11/21/accuse-indagine-gianni-de-gennaro-via-damelio/?homepagePosition=0",
+      "excerpt": "Per la procura avrebbe cercato di ostacolare le indagini sulla strage di via D'Amelio del 1992, ma in anni molto più recenti",
+      "publishedAt": "2026-11-21T17:16:30Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "In Messico è stato arrestato Fausto Isidro Meza Flores, uno dei più importanti narcotrafficanti del paese",
+      "url": "https://www.ilpost.it/2026/11/21/meza-flores-arresto-messico/?bitPosition=2",
+      "excerpt": "In Messico è stato arrestato Fausto Isidro Meza Flores, uno dei più importanti narcotrafficanti del paese Forze speciali dell’esercito messicano hanno arrestato Fausto Isidro Meza Flores, conosciuto come El Chapo Isidro, uno dei più importanti capi dei cartelli messicani del narcotraffico. Meza Flores era stato inserit",
+      "publishedAt": "2026-11-21T16:56:56Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "Marc Márquez è caduto durante la gara sprint del Gran Premio del Portogallo: gli mancavano pochi giri per vincere la MotoGP",
+      "url": "https://www.ilpost.it/2026/11/21/marc-marquez-caduto-sprint-gran-premio-portogallo-motogp/?bitPosition=3",
+      "excerpt": "Marc Márquez è caduto durante la gara sprint del Gran Premio del Portogallo: gli mancavano pochi giri per vincere la MotoGP Sabato, a due giri dalla fine della gara sprint del Gran Premio del Portogallo, il pilota spagnolo Marc Márquez è caduto. Era a un passo dal vincere il suo ottavo Mondiale in MotoGP, la categoria ",
+      "publishedAt": "2026-11-21T14:19:22Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
       "title": "Gianni De Gennaro si è ucciso",
-      "url": "https://www.ilpost.it/2026/11/21/gianni-de-gennaro-morto-ucciso-via-damelio/?homepagePosition=0",
+      "url": "https://www.ilpost.it/2026/11/21/gianni-de-gennaro-morto-ucciso-via-damelio/?homepagePosition=0.1&referrerPost=3739484",
       "excerpt": "Negli ultimi giorni l'ex capo della polizia era stato accusato di depistaggio nella nuova indagine sulla strage di via D'Amelio",
       "publishedAt": "2026-11-21T08:29:46Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "Tre poliziotti francesi sono stati condannati a cinque anni di carcere per l’aggressione al produttore musicale Michel Zecler",
-      "url": "https://www.ilpost.it/2026/11/21/francia-poliziotti-condannati-carcere-aggressione-michel-zecler/?bitPosition=3",
-      "excerpt": "Tre poliziotti francesi sono stati condannati a cinque anni di carcere per l’aggressione al produttore musicale Michel Zecler Tre poliziotti francesi sono stati condannati a cinque anni di carcere per aver aggredito il produttore musicale Michel Zecler a Parigi nel 2020. Il tribunale ha riconosciuto come aggravante la ",
-      "publishedAt": "2026-11-21T08:03:13Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
       "title": "Chi è stato e chi è oggi Gianni De Gennaro",
-      "url": "https://www.ilpost.it/2026/11/17/chi-e-giovanni-de-gennaro-indagine-via-damelio/?homepagePosition=0.2&referrerPost=3739295",
+      "url": "https://www.ilpost.it/2026/11/17/chi-e-giovanni-de-gennaro-indagine-via-damelio/?homepagePosition=0.2&referrerPost=3739484",
       "excerpt": "Dal lavoro con Giovanni Falcone a quello di capo della polizia, fino all'indagine per presunti depistaggi sulla strage di via D'Amelio",
       "publishedAt": "2026-11-17T10:54:18Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Ci sono nuovi indagati per i depistaggi sulla strage di via D’Amelio del 1992",
-      "url": "https://www.ilpost.it/2026/11/16/gianni-de-gennaro-capo-polizia-depistaggio-indagato/?homepagePosition=0.1&referrerPost=3739295",
-      "excerpt": "L’ex capo della polizia Gianni De Gennaro e alcuni suoi collaboratori: c’entra anche la famosa \"agenda rossa\" di Paolo Borsellino",
-      "publishedAt": "2026-11-16T13:26:35Z",
       "dateEvidence": "jsonld:datePublished"
     }
   ],
@@ -63,27 +63,27 @@
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/21/gianni-de-gennaro-morto-ucciso-via-damelio/?homepagePosition=0",
+      "url": "https://www.ilpost.it/2026/11/21/accuse-indagine-gianni-de-gennaro-via-damelio/?homepagePosition=0",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/16/gianni-de-gennaro-capo-polizia-depistaggio-indagato/?homepagePosition=0.1&referrerPost=3739295",
+      "url": "https://www.ilpost.it/2026/11/21/gianni-de-gennaro-morto-ucciso-via-damelio/?homepagePosition=0.1&referrerPost=3739484",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/17/chi-e-giovanni-de-gennaro-indagine-via-damelio/?homepagePosition=0.2&referrerPost=3739295",
+      "url": "https://www.ilpost.it/2026/11/17/chi-e-giovanni-de-gennaro-indagine-via-damelio/?homepagePosition=0.2&referrerPost=3739484",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/21/paolo-bulgari-gioielli-morte/?bitPosition=1",
+      "url": "https://www.ilpost.it/2026/11/21/lfbi-sta-indagando-su-un-presunto-attacco-hacker-a-una-sua-banca-dati-investigativa/?bitPosition=1",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/21/haiti-accordo-el-salvador-prigioni/?bitPosition=2",
+      "url": "https://www.ilpost.it/2026/11/21/meza-flores-arresto-messico/?bitPosition=2",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/21/francia-poliziotti-condannati-carcere-aggressione-michel-zecler/?bitPosition=3",
+      "url": "https://www.ilpost.it/2026/11/21/marc-marquez-caduto-sprint-gran-premio-portogallo-motogp/?bitPosition=3",
       "status": 200
     }
   ],
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.ilpost.it/",
-  "durationSeconds": 3.59
+  "durationSeconds": 3.61
 }

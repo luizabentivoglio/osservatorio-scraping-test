@@ -4,7 +4,7 @@
   "sourceId": "quirinale",
   "originUrl": "https://www.quirinale.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-21T14:59:00.714834Z",
+  "collectedAt": "2026-11-21T23:38:33.863234Z",
   "status": "blocked",
   "diagnosticCode": "access_restricted",
   "method": "html",
@@ -19,5 +19,5 @@
   "message": "HTTP 403: accesso limitato dalla fonte",
   "httpStatus": 403,
   "failedUrl": "https://www.quirinale.it/robots.txt",
-  "durationSeconds": 0.27
+  "durationSeconds": 0.36
 }

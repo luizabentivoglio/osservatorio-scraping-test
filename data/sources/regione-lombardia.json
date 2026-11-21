@@ -4,7 +4,7 @@
   "sourceId": "regione-lombardia",
   "originUrl": "https://www.regione.lombardia.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-21T14:59:01.550531Z",
+  "collectedAt": "2026-11-21T23:38:34.777513Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
@@ -306,5 +306,5 @@
     }
   ],
   "message": "Feed dichiarato dalla fonte; date di pubblicazione verificate.",
-  "durationSeconds": 5.71
+  "durationSeconds": 4.11
 }

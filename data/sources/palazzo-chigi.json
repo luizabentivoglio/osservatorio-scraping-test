@@ -4,12 +4,19 @@
   "sourceId": "palazzo-chigi",
   "originUrl": "https://www.governo.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-21T14:58:42.886513Z",
+  "collectedAt": "2026-11-21T23:38:20.099440Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.governo.it/feed/rss",
   "items": [
+    {
+      "title": "Nota di Palazzo Chigi",
+      "url": "https://www.governo.it/it/articolo/nota-di-palazzo-chigi/33169",
+      "excerpt": "Piena solidarietà dell'Italia alla Danimarca e alla Polonia. Le Autorità di Copenaghen hanno attribuito ieri ai servizi di intelligence russi il tentato omicidio sul territorio danese di un cittadino ucraino-americano. Lo spazio aereo polacco è stato violato da missili e da un drone durante il massiccio attacco russo c",
+      "publishedAt": "2026-11-21T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "Dichiarazione del Presidente Meloni",
       "url": "https://www.governo.it/it/articolo/dichiarazione-del-presidente-meloni/33168",
@@ -72,13 +79,6 @@
       "excerpt": "Il Consiglio dei Ministri si è riunito mercoledì 18 novembre 2026, alle ore 16.26 a Palazzo Chigi, sotto la presidenza del Presidente Giorgia Meloni. Segretario, il Sottosegretario alla Presidenza Alfredo Mantovano. ٠٠٠٠٠",
       "publishedAt": "2026-11-18T00:00:00Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Il Presidente Meloni riceve Pablo Hernández de Cos",
-      "url": "https://www.governo.it/it/articolo/nota-di-palazzo-chigi/33146",
-      "excerpt": "Il Presidente del Consiglio, Giorgia Meloni, ha ricevuto oggi l’economista Pablo Hernández de Cos, ex Governatore della Banca di Spagna e candidato alla presidenza della Banca Centrale Europea.",
-      "publishedAt": "2026-11-18T00:00:00Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -100,5 +100,5 @@
     }
   ],
   "message": "Feed dichiarato dalla fonte; date di pubblicazione verificate.",
-  "durationSeconds": 30.13
+  "durationSeconds": 30.18
 }
