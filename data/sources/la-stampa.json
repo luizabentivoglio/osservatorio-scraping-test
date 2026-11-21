@@ -4,23 +4,275 @@
   "sourceId": "la-stampa",
   "originUrl": "https://www.lastampa.it/",
   "configuredFeedUrl": "https://www.lastampa.it/rss/copertina.xml",
-  "collectedAt": "2026-11-21T03:31:38.073265Z",
+  "collectedAt": "2026-11-21T14:58:29.187023Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.lastampa.it/rss/copertina.xml",
   "items": [
     {
-      "title": "Mounk: “Gli europei non sono finiti nel menù. Un’intesa giusta tra Kiev e Mosca è ancora possibile”",
-      "url": "https://www.lastampa.it/esteri/2026/11/21/news/yascha_mounk_guerra_russia_ucraina_intervista-15804700/",
-      "excerpt": "Il politologo: “Adesso però serve una riforma ambiziosa dell’Ue, per tornare a contare”",
+      "title": "De Gennaro si è ucciso, si è sparato in casa: l’ex capo della polizia era indagato per depistaggio sulla strage di via D’Amelio",
+      "url": "https://www.lastampa.it/cronaca/2026/11/21/news/gianni_de_gennaro_morto_suicida-15804978/",
+      "excerpt": "Aveva 78 anni. La procura di Grosseto indaga per istigazione al suicidio",
       "publishedAt": "2026-11-21T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Lodi, paga 300 biglietti agli studenti per il film su Giulia Cecchetin: “Voglio piantare un seme”",
-      "url": "https://www.lastampa.it/cronaca/2026/11/21/news/film_giulia_cechettin_imprenditore_lodi_biglietto_studenti-15804689/",
-      "excerpt": "Ll’imprenditore si è seduto tra i ragazzi senza farsi vedere",
+      "title": "De Gennaro, Meloni: profondamente scioccata. Il figlio di Borsellino: sparito un pezzo di verità",
+      "url": "https://www.lastampa.it/cronaca/2026/11/21/news/calenda_de_gennaro_e_stato_un_servitore_della_patria_tradito_dalle_istituzioni_che_ha_servito-15804991/",
+      "excerpt": "Il fratello del giudice ucciso in via D’Amelio: «Istigazione al suicidio da parte della Procura di Caltanissetta». Tajani: «L’ennesimo processo al di fuori dei tribunali». Calenda: «Servitore della Patria, tradito dalle istituzioni che ha servito»",
+      "publishedAt": "2026-11-21T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "I segreti di De Gennaro: l’agenda rossa di Borsellino e i veleni sulla strage di via D’Amelio",
+      "url": "https://www.lastampa.it/cronaca/2026/11/21/news/i_segreti_di_de_gennaro_l_agenda_rossa_di_borsellino_e_i_veleni_sulla_strage_di_via_d_amelio-15805041/",
+      "excerpt": "Dall’inchiesta di Caltanissetta al presunto patto con Arnaldo La Barbera, passando per il pentito Totuccio Contorno: la morte dell’ex capo della polizia lascia aperti molti interrogativi",
+      "publishedAt": "2026-11-21T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "De Gennaro, l’avvocato Coppi: “Mi chiese di difenderlo solo se credevo nella sua innocenza”",
+      "url": "https://www.lastampa.it/cronaca/2026/11/21/news/de_gennaro_l_avvocato_coppi_mi_chiese_di_difenderlo_solo_se_credevo_nella_sua_innocenza-15805102/",
+      "excerpt": "Il legale: «Evidentemente non ha retto al peso di un'accusa che negava tutto quello che lui nella sua vita aveva fatto»",
+      "publishedAt": "2026-11-21T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "\"Il cancro ti cambia\": Kate Middleton racconta la vita dopo la diagnosi",
+      "url": "https://www.lastampa.it/esteri/2026/11/21/video/kate_middleton_heal_trailer_documentario_cancro_chemio_fratello_james-15805109/",
+      "excerpt": "«Non ho mai suonato la campana», racconta Kate Middleton al fratello James. I due sono in montagna e parlano del gesto con cui, in ospedale, si può segnare la fine della chemioterapia. È una scena di Heal, il documentario di cui Kensington Palace ha diffuso il trailer sabato 21 novembre. La macchina da presa segue la p",
+      "publishedAt": "2026-11-21T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Ucciso a calci e pugni Francesco Zangari, titolare del Manhattan Pub a Torino: fermato un dipendente",
+      "url": "https://www.lastampa.it/torino/2026/11/21/news/francesco_zangari_morto_titolare_manhattan_pub-15804984/",
+      "excerpt": "A trovare il corpo nel cortile del locale è stata una vicina di casa: ieri mattina aveva litigato con il suo aggressore",
+      "publishedAt": "2026-11-21T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Schettino lascia il carcere dopo nove anni: va ai servizi sociali",
+      "url": "https://www.lastampa.it/cronaca/2026/11/21/news/schettino_lascia_il_carcere_dopo_nove_anni_va_ai_servizi_sociali-15804915/",
+      "excerpt": "La decisione del Tribunale di Sorveglianza di Roma arriva al termine di un esame rigoroso del percorso rieducativo e della condotta tenuta durante la detenzione",
+      "publishedAt": "2026-11-21T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "La strage nel cinema a luci rosse, i frati massacrati: il mistero di Ludwig",
+      "url": "https://www.lastampa.it/plus/rubriche/coordinate-criminali/2026/11/21/video/ludwig_gruppo_neonazista_strage_cinema_frati_uccisi-15804284/",
+      "excerpt": "Un cinema a luci rosse devastato dalle fiamme, due frati aggrediti a martellate, una serie di delitti che sconvolge il Nord Italia tra la fine degli anni Settanta e i primi anni Ottanta. Episodi apparentemente lontani, luoghi diversi e una firma inquietante che compare nelle rivendicazioni: Ludwig. Chi si nasconde diet",
+      "publishedAt": "2026-11-21T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Catturato in Messico El Chapo Isidro, boss dei narcos tra i dieci più ricercati dall’Fbi",
+      "url": "https://www.lastampa.it/esteri/2026/11/21/news/messico_catturato_el_chapo_isidro_e_il_boss_dei_narcos_fra_i_10_piu_ricercati_dall_fbi-15805124/",
+      "excerpt": "Il suo vero nome è Fausto Isidro Meza Flores. Nello stato di Sinaloa, dopo la cattura, disordini e attacchi alle forze di sicurezza da parte di milizie armate",
+      "publishedAt": "2026-11-21T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Lo Zar bombarda i ponti ma torna a mani vuote dal vertice. E adesso è costretto a trattare",
+      "url": "https://www.lastampa.it/esteri/2026/11/21/news/lo_zar_bombarda_i_ponti_ma_torna_a_mani_vuote_dal_vertice_e_adesso_e_costretto_a_trattare-15804763/",
+      "excerpt": "Vendetta dopo i raid in Crimea. L’allarme arriva da Borsa ed economia",
+      "publishedAt": "2026-11-21T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Con gli Apachi, i dronisti che spazzano le retrovie russe",
+      "url": "https://www.lastampa.it/esteri/2026/11/21/news/con_gli_apachi_i_dronisti_che_spazzano_le_retrovie_russe_musk_ridacci_starlink-15804787/",
+      "excerpt": "I limiti all’uso dei satelliti Usa frenano la controffensiva a Zaporizhzhia",
+      "publishedAt": "2026-11-21T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Corrado Augias, tutti in coda per l’ultimo saluto: in migliaia alla camera ardente in Campidoglio",
+      "url": "https://www.lastampa.it/cronaca/2026/11/21/diretta/corrado_augias_tutti_in_coda_per_l_ultimo_saluto_aperta_la_camera_ardente_in_campidoglio-15805007/",
+      "excerpt": "L'ultimo saluto al giornalista, scrittore e intellettuale sarà possibile dalle ore 10.00 alle ore 18.00 nella sala della Protomoteca",
+      "publishedAt": "2026-11-21T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "È morto Paolo Bulgari, il gioielliere che ha fatto del lusso un’arte",
+      "url": "https://www.lastampa.it/cronaca/2026/11/21/news/paolo_bulgari_morto-15805083/",
+      "excerpt": "Aveva 89 anni. Richard Burton e Liz Taylor facevano pace dopo le loro celebri liti, con gli smeraldi del suo negozio",
+      "publishedAt": "2026-11-21T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Sciopero dei treni, giornata di ritardi e disagi: viaggi a rischio per i pendolari",
+      "url": "https://www.lastampa.it/cronaca/2026/11/21/news/sciopero_a_rischio_il_trasporto_ferroviario_fino_alle_20_di_stasera-15805024/",
+      "excerpt": "Conseguenze sul trasporto ferroviario dopo lo sciopero di ieri venerdì 20 novembre spalmato sulle 23 ore. L’agitazione è stata indetta dai sindacati Cub Trasporti e Sgb Ferrovie. I treni sono a ...",
+      "publishedAt": "2026-11-21T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "La piccola morta a 14 giorni dalla nascita, l’ipotesi della tragica fatalità",
+      "url": "https://www.lastampa.it/torino/2026/11/21/news/la_piccola_morta_a_14_giorni_dalla_nascita_l_ipotesi_della_tragica_fatalita-15804772/",
+      "excerpt": "Mappano, lunedì l’autopsia sulla bambina. Una parente: “Era molto amata”. L’esperta: “L’ideale? Culla attaccata al letto”",
+      "publishedAt": "2026-11-21T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Arrestato 23 anni dopo per femminicidio: “Potrebbe farlo ancora”",
+      "url": "https://www.lastampa.it/cronaca/2026/11/21/news/arrestato_23_anni_dopo_per_femminicidio_potrebbe_farlo_ancora-15804741/",
+      "excerpt": "Colpo di scena nel cold case di Maria Rita Valerio, fermato l’ex Anche l’attuale moglie lo temeva. “Povera me, mi farà a pezzi”",
+      "publishedAt": "2026-11-21T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Manovra, più fondi alla Sanità ma le coperture sono un rebus: ipotesi risparmi del Pnrr",
+      "url": "https://www.lastampa.it/economia/2026/11/21/news/manovra_piu_fondi_alla_sanita_le_coperture_sono_un_rebus-15804704/",
+      "excerpt": "Schillaci preme sul taglio della card anziani di Forza Italia, Tajani respinge le modifiche. Salvini si intesta la sintesi di maggioranza sul condono edilizio: “Ho io la competenza”",
+      "publishedAt": "2026-11-21T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Manovra, Francesco Rocca: “Servono più risorse per la salute. Il governo saprà come reperirle”",
+      "url": "https://www.lastampa.it/economia/2026/11/21/news/manovra_rocca_piu_risorse_per_la_salute_il_governo_sapra_come_reperirle-15804737/",
+      "excerpt": "Il presidente del Lazio: «Da Meloni 20 miliardi, ma a rischio le tutele per tutti»",
+      "publishedAt": "2026-11-21T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Cirio: “La Zes svolta per le imprese del Nord, Roma deciderà insieme con le Regioni”",
+      "url": "https://www.lastampa.it/economia/2026/11/23/news/cirio_la_zes_svolta_per_il_nord_roma_decidera_con_le_regioni-15804774/",
+      "excerpt": "Il governatore del Piemonte: “Oltre agli sgravi e ai benefici fiscali, anche gli investimenti saranno più veloci”",
+      "publishedAt": "2026-11-21T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Stefano De Martino, Sanremo è già pazza: bagno di folla per la targa di Sal Da Vinci",
+      "url": "https://www.lastampa.it/imperia-sanremo/2026/11/21/video/stefano_de_martino_sanremo_e_gia_pazza_bagno_di_folla_per_la_targa_di_sal_da_vinci_video-15805117/",
+      "excerpt": "Bagno di folla e scene di delirio per Stefano De Martino: la prima uscita ufficiale per le vie di Sanremo ha registrato una grande partecipazione di fan che hanno cercato di avvicinarlo per foto e autografi. La posa della targa della canzone vincitrice dello scorso anno \"Per sempre Sì\" di Sal Da Vinci, ha visto il cond",
+      "publishedAt": "2026-11-21T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Un passeggero, nessun pilota: in Giappone decolla il taxi volante",
+      "url": "https://www.lastampa.it/tech/2026/11/21/video/un_passeggero_nessun_pilota_in_giappone_decolla_il_taxi_volante-15805075/",
+      "excerpt": "L’aerotaxi si alza in verticale e dal finestrino l’unico passeggero saluta il pubblico. È successo il 20 novembre alla Japan Aviation Academy di Kai, in Giappone, durante la prima dimostrazione con un passeggero a bordo del modello EH216-S nella prefettura di Yamanashi. Il biposto elettrico dell’azienda cinese EHang ha",
+      "publishedAt": "2026-11-21T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Nel traffico di Roma con la guida assistita, il video con cui Tesla ringrazia l’Italia",
+      "url": "https://www.lastampa.it/tech/2026/11/21/video/tesla_video_roma_guida_assistita_ringrazia_italia_musk_salvini-15805072/",
+      "excerpt": "Una Tesla percorre le strade di Roma e una telecamera riprende il tragitto dall’abitacolo. È il video che Tesla ha pubblicato su X il 20 novembre per ringraziare l’Italia dopo il via libera alla guida assistita, annunciato quel giorno dal ministro dei Trasporti Matteo Salvini. Il sistema può agire sullo sterzo e regola",
+      "publishedAt": "2026-11-21T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Marzia, l’unica rimasta in Ossola ad allevare bachi da seta: i suoi bozzoli diventano gioielli",
+      "url": "https://www.lastampa.it/verbano-cusio-ossola/2026/11/21/news/marzia_tonietti_domodossola_bachi_seta_gioielli-15804835/",
+      "excerpt": "Oggi a Palazzo San Francesco presenta la sua attività: dalla bachicoltura a Mocogna alla nascita dei bijoux",
+      "publishedAt": "2026-11-21T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Finto Parmigiano, giro d’affari da 20 miliardi, dieci volte il valore dell’originale",
+      "url": "https://www.lastampa.it/sapore/2026/11/21/news/italian_sounding_parmigiano_reggiano_vale_20_miliardi_dieci_volte_originale-15805009/",
+      "excerpt": "Anche il Brunello è finito nel mirino dei falsi. Bartolommei (Montalcino): «Fondamentale informare i consumatori». Bertinelli (presidente Consorzio Parmigiano Reggiano): «Difendere il made in Italy e la qualità dei prodotti»",
+      "publishedAt": "2026-11-21T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Marina Berlusconi e i contatti con Renzi. Il fastidio di Meloni: “Lei sogna il pareggio”",
+      "url": "https://www.lastampa.it/politica/2026/11/21/news/marina_berlusconi_e_i_contatti_con_renzi_il_fastidio_di_meloni_lei_sogna_il_pareggio-15804817/",
+      "excerpt": "I forzisti pronti ad aprire il fronte dello stop al reintegro dei medici No vax: «In nome di Silvio»",
+      "publishedAt": "2026-11-21T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Forza Italia non cede sugli e-book a scuola. L’ipotesi della fiducia",
+      "url": "https://www.lastampa.it/politica/2026/11/21/news/forza_italia_non_cede_e-book_scuola_ipotesi_fiducia-15804822/",
+      "excerpt": "Emendamento degli Azzurri per cancellare lo sconto sui libri elettronici. Le contromosse di Fratelli d’Italia e Lega. La strategia per blindare il testo",
+      "publishedAt": "2026-11-21T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Sciopero generale, la frattura tra Cgil e la Generazione Z: “Noi non siamo il sindacato”",
+      "url": "https://www.lastampa.it/cronaca/2026/11/21/news/sciopero_generale_la_frattura_tra_cgil_e_la_generazione_z_noi_non_siamo_il_sindacato-15804791/",
+      "excerpt": "A Torino e Milano percorsi separati degli studenti. Manifesto con le sigle bruciato a Napoli",
+      "publishedAt": "2026-11-21T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "È morta Raffaella Curiel, una delle regine della moda italiana",
+      "url": "https://www.lastampa.it/spettacoli/2026/11/21/news/e_morta_raffaella_curiel_una_delle_regine_della_moda_italiana-15805029/",
+      "excerpt": "La grande stilista, 83 anni, è scomparsa a Milano",
+      "publishedAt": "2026-11-21T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Di Liberatore: “Dispiaciuto per l’incidente a Ballando, lavoro per un ritmo diverso in Rai”",
+      "url": "https://www.lastampa.it/spettacoli/2026/11/21/news/williams_di_liberatore_dispiaciuto_per_l_incidente_a_ballando_lavoro_per_una_rai_con_ritmo_diverso-15804467/",
+      "excerpt": "Il direttore dell’Intrattenimento Prime Time: progetti musicali con Sal Da Vinci e Achille Lauro",
+      "publishedAt": "2026-11-21T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Il ritorno di Tommy Lee Jones, padre imbroglione dell’inflessibile Ethan Hawke",
+      "url": "https://www.lastampa.it/spettacoli/2026/11/21/news/il_ritorno_di_tommy_lee_jones_padre_imbroglione_dell_inflessibile_ethan_hawke-15804457/",
+      "excerpt": "“The Lowdown”, serie noir che scoperchia i segreti di una città Usa, Tulsa in Oklahoma",
+      "publishedAt": "2026-11-21T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Gp Las Vegas: magia Antonelli, ma la pole è di Verstappen. Disastro Ferrari",
+      "url": "https://www.lastampa.it/sport/2026/11/21/news/f1_gp_las_vegas_antonelli_pole_verstappen_disastro_ferrari_leclerc_hamilton-15804876/",
+      "excerpt": "Kimi sfrutta le scie ed è il più veloce, però partirà 6° per la penalità: “Spero di poter lottare per la vittoria”. L’olandese perdonato dagli steward in prima fila con Russell. Leclerc e Hamilton fuori dalla top 10: per la Rossa è notte fonda",
+      "publishedAt": "2026-11-21T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Buio Ferrari, l’ira di Leclerc: “Non ne abbiamo azzeccata una, sono inc…”",
+      "url": "https://www.lastampa.it/sport/2026/11/21/news/f1_las_vegas_buio_ferrari_leclerc_hamilton_vasseur-15804889/",
+      "excerpt": "Rosse fuori dalla top 10 a Las Vegas, non accadeva da 37 Gp: anche le due Racing Bulls e le due Alpine più veloci delle SF-26. Charles: “Perdiamo un secondo in rettilineo, difficile fare qualcosa”. Hamilton: “Fa male ma dobbiamo tenere la testa alta”",
+      "publishedAt": "2026-11-21T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Portogallo, Bezzecchi non molla: pole position davanti a Márquez per tenere vivo il sogno Mondiale",
+      "url": "https://www.lastampa.it/sport/2026/11/21/news/motogp_portogallo_bezzecchi_non_molla_pole_position_davanti_a_marquez_per_tenere_vivo_il_sogno_mondiale-15805079/",
+      "excerpt": "Il Bez ha ritoccato il record della pista (1’37”201 il nuovo riferimento) e ha dato mezzo secondo a Marquez. Ma le speranze per vincere il titolo sono legate a un filo sottilissimo",
+      "publishedAt": "2026-11-21T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Serie gol, quasi 100 reti in più rispetto alla scorsa stagione. Ecco perché",
+      "url": "https://www.lastampa.it/sport/2026/11/21/news/serie_gol_quasi_100_reti_in_piu_rispetto_alla_scorsa_stagione_ecco_perche-15804768/",
+      "excerpt": "Riparte un campionato emozionante e aperto. Le regole contro le perdite di tempo funzionano. Rimesse rapide e meno interruzioni. Cresce il gioco effettivo: +23% di tiri",
+      "publishedAt": "2026-11-21T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Quando l’amore porta il peso del passato: anatomia dell’inizio faticoso di una nuova relazione",
+      "url": "https://www.lastampa.it/speciale/benessere/amore-non-e-solo-amare/2026/11/21/news/peso_passato_amore_nuova_relazione-15804881/",
+      "excerpt": "Nuova puntata della rubrica “Amore non è solo amare” della dott.ssa Valeria Randone (www.valeriarandone.it), psicologo e sessuologo clinico. Se avete domande scrivete a info@valeriarandone.it",
+      "publishedAt": "2026-11-21T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Ginevra Ferri, quasi 16 anni e una lezione per la sinistra che si divide",
+      "url": "https://www.lastampa.it/cronaca/2026/11/21/video/ginevra_laterza_quasi_16_anni_e_una_lezione_per_la_sinistra_che_si_divide-15805026/",
+      "excerpt": "I 16 anni li compirà «a breve». Intanto Ginevra Ferri coordina la Rete degli Studenti Medi del VII Municipio di Roma. Diego Bianchi la incontra per Propaganda Live, su La7, mentre prepara gli striscioni per lo sciopero della scuola di venerdì 20 novembre. Con i collettivi del municipio sta organizzando un corteo per ra",
+      "publishedAt": "2026-11-21T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "A fuoco la centrale elettrica di Hartha in Iraq, le fiamme raggiungono le case",
+      "url": "https://www.lastampa.it/esteri/2026/11/21/video/a_fuoco_la_centrale_elettrica_di_hartha_in_iraq_le_fiamme_raggiungono_le_case-15805129/",
+      "excerpt": "Una palla di fuoco illumina il cielo sopra la centrale elettrica di Hartha, a nord di Bassora, nel sud dell’Iraq. Il video, girato da un’auto in movimento e verificato da Reuters, mostra una nube di fumo nero che si alza dall’impianto. L’incendio è scoppiato intorno alle 6 di sabato 21 novembre e ha raggiunto le case v",
+      "publishedAt": "2026-11-21T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Come conobbe Giovanni Falcone? Gianni De Gennaro lo racconta in aula a Palermo",
+      "url": "https://www.lastampa.it/cronaca/2026/11/21/video/gianni_de_gennaro_primo_incontro_giovanni_falcone_deposizione_processo_trattativa_stato_mafia-15804987/",
+      "excerpt": "Dal banco dei testimoni, Gianni De Gennaro raccontò la prima volta che incontrò Giovanni Falcone. L’ex capo della Polizia si è tolto la vita oggi, sabato 21 novembre. Aveva 78 anni. Il video risale al 9 ottobre 2015, quando De Gennaro depose a Palermo al processo sulla trattativa Stato-mafia. In aula ricordò anche la p",
       "publishedAt": "2026-11-21T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -32,206 +284,10 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Trump spera nella pace entro l’anno: “Ma Kiev e Mosca non sanno come farla”",
-      "url": "https://www.lastampa.it/esteri/2026/11/20/news/trump_iran_cina_asia_russia-15804488/",
-      "excerpt": "Il leader Usa: “Intesa con Xi sull’AI ma gli darà solo chip vecchi. Proibirò alle aziende di costruire data center all’estero”",
-      "publishedAt": "2026-11-20T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Due missili russi in Polonia. Tusk: “Una provocazione”. Putin colpisce i ponti di Kiev",
-      "url": "https://www.lastampa.it/esteri/2026/11/21/diretta/guerra_russia_ucraina_news_oggi-15804851/",
-      "excerpt": "Trump: «Pace entro gennaio, ma Kiev e Mosca non sanno come farla»",
-      "publishedAt": "2026-11-20T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Dopo il trilaterale di Shenzhen, è pioggia di meme sui social: Putin diventa il “bambino escluso”",
-      "url": "https://www.lastampa.it/esteri/2026/11/20/news/shenzhen_meme_putin_bambino_escluso_trump_xi_social-15804206/",
-      "excerpt": "Dall'Happy Meal al tavolo dei bambini, fino al Lego del ponte di Crimea: i fotomontaggi che hanno trasformato il trilaterale in un fenomeno virale sul web",
-      "publishedAt": "2026-11-20T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Sciopero, a Torino bloccato l'accesso all'autostrada. In serata scontri in centro / Video",
-      "url": "https://www.lastampa.it/torino/2026/11/20/diretta/sciopero_generale_corteo_oggi_torino-15803356/",
-      "excerpt": "Vie del centro paralizzate, applauso ai lavoratori negli ospedali. Bloccato l’accesso in autostrada. Nuovo raduno e tensioni con la polizia: idranti e lacrimogeni. Appuntamento per i 30 anni del centro sociale Askatasuna",
-      "publishedAt": "2026-11-20T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Landini: “Un milione e mezzo di persone in piazza”. Tensioni anche a Roma e Bologna Video",
-      "url": "https://www.lastampa.it/cronaca/2026/11/20/diretta/sciopero_generale_20_novembre_2026_notizie_diretta-15803658/",
-      "excerpt": "La Cgil ha organizzato il corteo contro la manovra, con gli studenti e i Cobas. Schlein, Conte e Fratoianni a Roma",
-      "publishedAt": "2026-11-20T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Roma, il ragazzo che ha fatto da scudo ai poliziotti: \"A cosa serve la violenza?\"",
-      "url": "https://www.lastampa.it/cronaca/2026/11/20/video/corteo_roma_poliziotti_confronto_studenti_violenza-15804246/",
-      "excerpt": "«A che serve la violenza?», chiede Andrea, 20 anni, iscritto alla Sapienza. Durante il corteo studentesco del 20 novembre a Roma si è seduto con un amico davanti ai poliziotti schierati al ministero dell’Istruzione, dove sono stati lanciati petardi e bottiglie. Due studenti gli chiedono che cosa si ottenga con le marce",
-      "publishedAt": "2026-11-20T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "A Milano il corteo arriva in Duomo: in fiamme i manichini di Trump e Netanyahu",
-      "url": "https://www.lastampa.it/cronaca/2026/11/20/news/milano_corteo_cgil_meloni_trump-15804156/",
-      "excerpt": "In piazza anche la provocazione contro Trump e Netanyahu e le critiche alla manovra",
-      "publishedAt": "2026-11-20T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Dario Amodei atterra in Puglia, mistero sulla visita del Ceo di Anthropic",
-      "url": "https://www.lastampa.it/cronaca/2026/11/20/news/anthropic_ceo_dario_amodei_puglia-15804270/",
-      "excerpt": "L’imprenditore è atterrato a Brindisi poche ore dopo il debutto record a Wall Street: tra le ipotesi anche quella di una vacanza in una masseria",
-      "publishedAt": "2026-11-20T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Depardieu e Houellebecq accusati di stupro di gruppo sul set di un film: aperta inchiesta a Parigi",
-      "url": "https://www.lastampa.it/esteri/2026/11/20/news/depardieu_houellebecq_denuncia_stupro_gruppo_film_thalasso-15804000/",
-      "excerpt": "Una donna denuncia le violenze che avrebbe subito nel 2018 durante le riprese di \"Thalasso”. Coinvolto anche il regista Guillaume Nicloux, che avrebbe filmato la scena. Nessuno dei tre è stato finora interrogato",
-      "publishedAt": "2026-11-20T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Erika Eleniak, da Baywatch a OnlyFans: “300mila dollari in tre mesi, mi ha salvata dallo sfratto”",
-      "url": "https://www.lastampa.it/spettacoli/2026/11/20/news/baywatch_erika_eleniak_onlyfans-15803993/",
-      "excerpt": "L'ex star della tv ha aperto un profilo sulla piattaforma e ora punta al milione di dollari",
-      "publishedAt": "2026-11-20T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Un pugno lo ha reso tetraplegico. Paolo Sarullo torna a casa dopo 913 giorni di riabilitazione",
-      "url": "https://www.lastampa.it/savona/2026/11/20/news/albenga_paolo_sarullo_casa_913_giorni_riabilitazione-15803964/",
-      "excerpt": "Il dramma dopo un’aggressione subita il 19 maggio 2024. La festa nella sua Albenga tra i parenti e gli amici di sempre. E arriva anche la telefonata di Olly",
-      "publishedAt": "2026-11-20T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Nadir Rossi si suicida in carcere, era accusato di aver ucciso la moglie",
-      "url": "https://www.lastampa.it/cronaca/2026/11/20/news/nadir_rossi_carcere_suicidio_accusa_uccise_moglie_insulina-15804241/",
-      "excerpt": "L’ex infermiere, 35 anni, è stato trovato questa mattina in fin di vita nella sua cella a Verona. Fonti penitenziarie parlano di «morte celebrale». Ieri il rigetto della richiesta di scarcerazione",
-      "publishedAt": "2026-11-20T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Medvedev batte Tiafoe e conquista la semifinale: troverà Zverev",
-      "url": "https://www.lastampa.it/sport/speciali/atp-finals-2026/2026/11/20/news/medvedev_batte_tiafoe_e_conquista_la_semifinale_trovera_zverev-15804759/",
-      "excerpt": "Il russo vince 6-3, 6-4. Sabato si gioca un posto in finale",
-      "publishedAt": "2026-11-20T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Alcaraz liquida Cobolli in due set (6-4,6-1): un’altra sconfitta per l’italiano",
-      "url": "https://www.lastampa.it/sport/speciali/atp-finals-2026/2026/11/20/news/cobolli_alcaraz_atp_finals_risultato-15804282/",
-      "excerpt": "Lo spagnolo non forza e vince in scioltezza",
-      "publishedAt": "2026-11-20T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Eugenio in Via Di Gioia, ecco perché ai concerti il pubblico scuote le chiavi per Giulia Cecchettin",
-      "url": "https://www.lastampa.it/spettacoli/2026/11/20/video/eugenio_in_via_di_gioia_chiavi_giulia_cecchettin_concerti_cerchi-15804527/",
-      "excerpt": "A scuotere le chiavi è lo stesso pubblico di cui faceva parte Giulia Cecchettin, che seguiva gli Eugenio in Via Di Gioia ai concerti in Veneto. Il 16 novembre, all’Estragon di Bologna, quel suono accompagna la dedica della band a Giulia e richiama le parole di sua sorella Elena dopo il femminicidio: «Per mia sorella no",
-      "publishedAt": "2026-11-20T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Li prendono a calci e pugni e li colpiscono con una catena: denunciati quattro minorenni",
-      "url": "https://www.lastampa.it/cronaca/2026/11/20/video/aggressione_calci_pugni_catena_manfredonia-15804014/",
-      "excerpt": "Due ragazzi di 17 anni sono stati aggrediti a calci e pugni e colpiti con una catena e una pietra la sera del 6 novembre a Manfredonia, in provincia di Foggia. Per l'episodio, i carabinieri hanno denunciato quattro minorenni del posto, di età compresa tra i 16 e i 17 anni. Devono rispondere di lesioni personali dolose ",
-      "publishedAt": "2026-11-20T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Casini si commuove in diretta tv: la storia del gettone e di una telefonata da Montecitorio",
-      "url": "https://www.lastampa.it/politica/2026/11/20/video/pier_ferdinando_casini_commosso_diretta_tv_myrta_merlino-15804388/",
-      "excerpt": "Myrta Merlino gli regala un gettone telefonico e Pier Ferdinando Casini si commuove. A Myrta Confidential, su San Marino RTV, l’ex presidente della Camera ricorda il suo primo giorno da deputato, nel 1983. Da una cabina di Montecitorio chiamò il padre e scoppiò a piangere. «Mio padre mi chiese se fosse successo qualcos",
-      "publishedAt": "2026-11-20T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Bambini trans a scuola, tre domande che possono fare la differenza",
-      "url": "https://www.lastampa.it/rubriche/diversity-editor/2026/11/20/video/bimbi_trans_a_scuola_genitori_insegnanti_sabina_pignataro-15803096/",
-      "excerpt": "Che cosa cambia per una bambina o un bambino trans quando a scuola anche i giochi sono divisi tra maschi e femmine? In occasione del Transgender Day of Remembrance (TDoR), la giornata in cui ogni 20 novembre si ricordano le persone trans uccise per odio o pregiudizio verso la loro identità di genere, la rubrica Diversi",
-      "publishedAt": "2026-11-20T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Panettone, quanto costa? Energia e trasporti pesano più delle materie prime. “Assurdo oltre 50 euro”",
-      "url": "https://www.lastampa.it/sapore/2026/11/20/news/caro_panettone_quanto_costa_prezzi_materie_prime_energia_trasporti-15804186/",
-      "excerpt": "Per i pasticceri, il prezzo giusto degli artigianali varia tra i 35 e i 45 euro. Borromeo, ad Galup: «Importante distinguere tra un prodotto caro e uno coerente con la qualità degli ingredienti, il lavoro e le competenze artigianali che richiede la produzione»",
-      "publishedAt": "2026-11-20T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "“Troppo magra e rifatta”, Florence Pugh sbotta e smentisce l’uso di Ozempic",
-      "url": "https://www.lastampa.it/spettacoli/2026/11/20/news/florence_pugh_critiche_fisico_smentisce_ozempic-15804021/",
-      "excerpt": "Dopo le critiche social per il suo aspetto, l'attrice britannica replica: «Non ho mai fatto ritocchi, mi sto solo prendendo cura di me stessa»",
-      "publishedAt": "2026-11-20T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "DiCaprio e la festa trash: un pullman di modelle per regalo di compleanno",
-      "url": "https://www.lastampa.it/spettacoli/2026/11/20/news/dicaprio_festa_52_anni_modelle-15803793/",
-      "excerpt": "L’attore compie 52 anni ma rifiuta di invecchiare. Un Peter Pan con una sola donna nel cuore: sua madre",
-      "publishedAt": "2026-11-20T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Il massacro di Lecce: l’odio che ha trasformato un ragazzo in un killer e l’amore per la filosofia",
-      "url": "https://www.lastampa.it/cronaca/2026/11/20/news/massacro_lecce_antonio_de_marco_laurea_filosofia_carcere-15803739/",
-      "excerpt": "Si è laureato in carcere Antonio De Marco, condannato all’ergastolo per l’omicidio, nel 2020, dei fidanzati Daniele De Santis (arbitro di calcio di 33 anni) ed Eleonora Manta (30 anni) nella loro casa di via Montello",
-      "publishedAt": "2026-11-20T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Un solo indirizzo, 166 società. Perché in Emilia-Romagna la mafia “coperta” si è fatta impresa",
-      "url": "https://www.lastampa.it/cronaca/2026/11/20/news/mafia_nord_emilia-romagna-15803682/",
-      "excerpt": "L’allarme della commissione parlamentare: “Colletti bianchi capitale sociale del crimine”",
-      "publishedAt": "2026-11-20T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Omicidio Willy Monteiro, la Cassazione conferma l'ergastolo per Gabriele Bianchi",
-      "url": "https://www.lastampa.it/cronaca/2026/11/20/news/omicidio_willy_gabriele_bianchi_ergastolo_cassazione-15804328/",
-      "excerpt": "I Supremi giudici avevano già fatto passare in giudicato la pena del carcere a vita per il fratello Marco",
-      "publishedAt": "2026-11-20T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Un’ora di agonia prima di morire: la polemica per un’esecuzione in Texas",
-      "url": "https://www.lastampa.it/esteri/2026/11/20/news/esecuzione_letale_dennes_texas_polemiche-15804484/",
-      "excerpt": "Gli attivitsi parlano di fallimento. L’uomo era stato condannato per un omicidio avvenuto nel 1996",
-      "publishedAt": "2026-11-20T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Di Maio faceva il bibitaro allo stadio? L’ex ministro racconta cosa faceva davvero al San Paolo",
-      "url": "https://www.lastampa.it/politica/2026/11/20/video/luigi_di_maio_smentita_bibitaro_stadio_san_paolo_napoli-15804359/",
-      "excerpt": "«Non ho mai venduto bibite allo stadio, è una leggenda metropolitana». Luigi Di Maio torna sulla storia del «bibitaro» a Myrta Confidential, il programma di Myrta Merlino in onda su San Marino RTV (canale 550). L’ex ministro degli Esteri racconta che al San Paolo di Napoli si occupava dell’accoglienza in tribuna autori",
-      "publishedAt": "2026-11-20T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "\"Se mi consentite, vi leggo le sue parole\": l'addio di Fiorello a Corrado Augias",
-      "url": "https://www.lastampa.it/spettacoli/2026/11/19/video/fiorello_ricordo_corrado_augias_la_pennicanza_radio2-15803066/",
-      "excerpt": "«Se mi consentite, vi leggo le sue parole». A La Pennicanza, su Rai Radio2, Fiorello ricorda così Corrado Augias, morto a 91 anni. Il conduttore sceglie il finale di La vita s’impara, il libro in cui il giornalista e scrittore ripercorre la propria storia. «Ora so che la vita si impara e va un po’ meglio», legge al mic",
-      "publishedAt": "2026-11-19T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Amazzonia, il raro incontro con gli indigeni Awá: perché quelle immagini allarmano",
-      "url": "https://www.lastampa.it/esteri/2026/11/18/video/amazzonia_indigeni_awa_usciti_isolamento-15801455/",
-      "excerpt": "Una ventina di indigeni Awá che vivono in isolamento volontario nella foresta amazzonica brasiliana si sarebbero avvicinati a una comunità chiedendo del cibo. Le rare immagini, diffuse il 17 novembre da Survival International, documenterebbero un incontro avvenuto il giorno precedente nella terra indigena di Arariboia,",
-      "publishedAt": "2026-11-18T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Il Papa a Lima colpito al volto da un rosario lanciato dalla folla",
-      "url": "https://www.lastampa.it/esteri/2026/11/16/video/il_papa_a_lima_colpito_da_un_rosario_al_volto_lanciato_dalla_folla-15800324/",
-      "excerpt": "Piccolo incidente senza conseguenze per il Papa durante il suo giro sulla Papamobile tra la folla della spianata di Las Palmas, prima della Messa, l'ultima in terra peruviana. Un fedele, come capita spesso, ha lanciato verso Leone XIV un rosario. Stavolta però il piccolo oggetto ha raggiunto all'occhio Papa Prevost, un",
-      "publishedAt": "2026-11-16T00:00:00Z",
+      "title": "Mounk: “Gli europei non sono finiti nel menù. Un’intesa giusta tra Kiev e Mosca è ancora possibile”",
+      "url": "https://www.lastampa.it/esteri/2026/11/21/news/yascha_mounk_guerra_russia_ucraina_intervista-15804700/",
+      "excerpt": "Il politologo: “Adesso però serve una riforma ambiziosa dell’Ue, per tornare a contare”",
+      "publishedAt": "2026-11-21T00:00:00Z",
       "dateEvidence": "feed:published"
     }
   ],
@@ -246,5 +302,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 1.19
+  "durationSeconds": 0.74
 }

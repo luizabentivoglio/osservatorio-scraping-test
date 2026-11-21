@@ -4,12 +4,19 @@
   "sourceId": "wwf",
   "originUrl": "https://www.wwf.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-21T03:32:10.855102Z",
+  "collectedAt": "2026-11-21T14:59:08.452895Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "C’era una volta una seppiolina",
+      "url": "https://www.wwf.it/pandanews/animali/cera-una-volta-una-seppiolina/",
+      "excerpt": "Per deporre le uova, le seppie cercano superfici adatte. In mare, però, trovano sempre più spesso qualcosa di diverso: come nasse e cogolli",
+      "publishedAt": "2026-11-21T08:00:00Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
     {
       "title": "Il ritorno del lupo nell’area di Napoli",
       "url": "https://www.wwf.it/pandanews/animali/ritorno-lupo-area-di-napoli/",
@@ -44,13 +51,6 @@
       "excerpt": "L'area protetta deve essere istituita da più di un quarto di secolo e dopo la sentenza del TAR non ci sono più alibi per ulteriori ritardi",
       "publishedAt": "2026-11-19T15:55:03Z",
       "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Contro la PdL Caccia, il 26 novembre a Roma grande mobilitazione",
-      "url": "https://www.wwf.it/pandanews/animali/caccia-26-novembre-mobilitazione/",
-      "excerpt": "Attesi anche esponenti del mondo della cultura, dello spettacolo e delle istituzioni",
-      "publishedAt": "2026-11-19T13:08:35Z",
-      "dateEvidence": "jsonld:datePublished"
     }
   ],
   "attempts": [
@@ -60,6 +60,10 @@
     },
     {
       "url": "https://www.wwf.it/",
+      "status": 200
+    },
+    {
+      "url": "https://www.wwf.it/pandanews/animali/cera-una-volta-una-seppiolina/",
       "status": 200
     },
     {
@@ -81,10 +85,6 @@
     {
       "url": "https://www.wwf.it/pandanews/societa/politica/parco-costa-teatina-wwf-diffida-ministero/",
       "status": 200
-    },
-    {
-      "url": "https://www.wwf.it/pandanews/animali/caccia-26-novembre-mobilitazione/",
-      "status": 200
     }
   ],
   "message": "6 notizie recenti con data verificata; copertura parziale.",
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.wwf.it/",
-  "durationSeconds": 8.66
+  "durationSeconds": 3.72
 }

@@ -4,52 +4,52 @@
   "sourceId": "il-post",
   "originUrl": "https://www.ilpost.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-21T03:31:34.877911Z",
+  "collectedAt": "2026-11-21T14:58:25.591446Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
-      "title": "Disney ha iniziato a sviluppare un sequel del famoso film natalizio “Mamma ho perso l’aereo”",
-      "url": "https://www.ilpost.it/2026/11/20/disney-sequel-mamma-ho-perso-laereo-natale/?bitPosition=1",
-      "excerpt": "Disney ha iniziato a sviluppare un sequel del famoso film natalizio “Mamma ho perso l’aereo” Disney ha avviato le prime fasi di sviluppo di un nuovo sequel di Mamma ho perso l’aereo, uno dei più classici film di Natale. Il film era uscito nel 1990 e il primo sequel, Mamma ho ripreso l’aereo – Mi sono smarrito a New Yor",
-      "publishedAt": "2026-11-20T21:43:15Z",
+      "title": "È morto Paolo Bulgari, che guidò per molti anni l’azienda di gioielli Bulgari, fondata da suo nonno",
+      "url": "https://www.ilpost.it/2026/11/21/paolo-bulgari-gioielli-morte/?bitPosition=1",
+      "excerpt": "È morto Paolo Bulgari, che guidò per molti anni l’azienda di gioielli Bulgari, fondata da suo nonno È morto a 89 anni Paolo Bulgari, che guidò per molti anni la nota azienda di gioielli Bulgari, fondata da suo nonno Sotirios negli anni Ottanta dell’Ottocento (era greco e il suo nome Sotirios Voulgaris venne poi italian",
+      "publishedAt": "2026-11-21T12:41:12Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "È diventata definitiva la condanna all’ergastolo di Gabriele Bianchi, tra i responsabili dell’omicidio di Willy Monteiro Duarte",
-      "url": "https://www.ilpost.it/2026/11/20/corte-cassazione-condanna-definitiva-gabriele-bianchi-willy-monteiro-duarte/?bitPosition=2",
-      "excerpt": "È diventata definitiva la condanna all’ergastolo di Gabriele Bianchi, tra i responsabili dell’omicidio di Willy Monteiro Duarte La Corte di Cassazione ha confermato la condanna all’ergastolo per Gabriele Bianchi, uno dei quattro aggressori di Willy Monteiro Duarte, ucciso con calci e pugni a 21 anni nel settembre del 2",
-      "publishedAt": "2026-11-20T18:14:10Z",
+      "title": "Il governo di Haiti si è accordato per costruire nuove prigioni con El Salvador, che sta facendo una campagna militare sull’isola",
+      "url": "https://www.ilpost.it/2026/11/21/haiti-accordo-el-salvador-prigioni/?bitPosition=2",
+      "excerpt": "Il governo di Haiti si è accordato per costruire nuove prigioni con El Salvador, che sta facendo una campagna militare sull’isola Il governo di Haiti si è accordato con quello di El Salvador per costruire tre nuove prigioni sull’isola. L’annuncio segnala una cooperazione ancora più profonda, da quando El Salvador ha av",
+      "publishedAt": "2026-11-21T11:29:13Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "Nel secondo giorno di quotazione in borsa il prezzo delle azioni di Anthropic è sceso dell’8,5 per cento",
-      "url": "https://www.ilpost.it/2026/11/20/anthropic-azioni-perdita-valore-azioni/?bitPosition=3",
-      "excerpt": "Nel secondo giorno di quotazione in borsa il prezzo delle azioni di Anthropic è sceso dell’8,5 per cento Venerdì, nel secondo giorno di quotazione in borsa negli Stati Uniti, alla chiusura della borsa il prezzo delle azioni di Anthropic è diminuito dell’8,5 per cento rispetto al giorno prima. Anthropic è la società tec",
-      "publishedAt": "2026-11-20T16:29:19Z",
+      "title": "Gianni De Gennaro si è ucciso",
+      "url": "https://www.ilpost.it/2026/11/21/gianni-de-gennaro-morto-ucciso-via-damelio/?homepagePosition=0",
+      "excerpt": "Negli ultimi giorni l'ex capo della polizia era stato accusato di depistaggio nella nuova indagine sulla strage di via D'Amelio",
+      "publishedAt": "2026-11-21T08:29:46Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "I primi accordi concreti tra Regno Unito e Unione Europea su Brexit",
-      "url": "https://www.ilpost.it/2026/11/20/incontro-regno-unito-ue-accordi-brexit/?homepagePosition=0",
-      "excerpt": "Con visti facilitati per i giovani e meno controlli doganali sui prodotti agricoli, ma serviranno altri negoziati sulle rette universitarie",
-      "publishedAt": "2026-11-20T08:50:27Z",
+      "title": "Tre poliziotti francesi sono stati condannati a cinque anni di carcere per l’aggressione al produttore musicale Michel Zecler",
+      "url": "https://www.ilpost.it/2026/11/21/francia-poliziotti-condannati-carcere-aggressione-michel-zecler/?bitPosition=3",
+      "excerpt": "Tre poliziotti francesi sono stati condannati a cinque anni di carcere per l’aggressione al produttore musicale Michel Zecler Tre poliziotti francesi sono stati condannati a cinque anni di carcere per aver aggredito il produttore musicale Michel Zecler a Parigi nel 2020. Il tribunale ha riconosciuto come aggravante la ",
+      "publishedAt": "2026-11-21T08:03:13Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "Cosa vuole fare Burnham con l’Unione Europea?",
-      "url": "https://www.ilpost.it/2026/11/18/obiettivi-burnham-brexit/?homepagePosition=0.1&referrerPost=3738094",
-      "excerpt": "Non siamo alle soglie di un ritorno del Regno Unito nell'Unione o nel mercato unico, ma qualcosa si sta muovendo",
-      "publishedAt": "2026-11-18T15:11:33Z",
+      "title": "Chi è stato e chi è oggi Gianni De Gennaro",
+      "url": "https://www.ilpost.it/2026/11/17/chi-e-giovanni-de-gennaro-indagine-via-damelio/?homepagePosition=0.2&referrerPost=3739295",
+      "excerpt": "Dal lavoro con Giovanni Falcone a quello di capo della polizia, fino all'indagine per presunti depistaggi sulla strage di via D'Amelio",
+      "publishedAt": "2026-11-17T10:54:18Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "Andy Burnham è sempre più critico su Brexit",
-      "url": "https://www.ilpost.it/2026/11/16/burnham-critiche-brexit-2026/?homepagePosition=0.2&referrerPost=3738094",
-      "excerpt": "In un discorso il primo ministro britannico dice che uscendo dall'Unione Europea il Regno Unito ha perso «più di quanto abbiamo guadagnato»",
-      "publishedAt": "2026-11-16T11:29:24Z",
+      "title": "Ci sono nuovi indagati per i depistaggi sulla strage di via D’Amelio del 1992",
+      "url": "https://www.ilpost.it/2026/11/16/gianni-de-gennaro-capo-polizia-depistaggio-indagato/?homepagePosition=0.1&referrerPost=3739295",
+      "excerpt": "L’ex capo della polizia Gianni De Gennaro e alcuni suoi collaboratori: c’entra anche la famosa \"agenda rossa\" di Paolo Borsellino",
+      "publishedAt": "2026-11-16T13:26:35Z",
       "dateEvidence": "jsonld:datePublished"
     }
   ],
@@ -63,27 +63,27 @@
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/20/incontro-regno-unito-ue-accordi-brexit/?homepagePosition=0",
+      "url": "https://www.ilpost.it/2026/11/21/gianni-de-gennaro-morto-ucciso-via-damelio/?homepagePosition=0",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/18/obiettivi-burnham-brexit/?homepagePosition=0.1&referrerPost=3738094",
+      "url": "https://www.ilpost.it/2026/11/16/gianni-de-gennaro-capo-polizia-depistaggio-indagato/?homepagePosition=0.1&referrerPost=3739295",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/16/burnham-critiche-brexit-2026/?homepagePosition=0.2&referrerPost=3738094",
+      "url": "https://www.ilpost.it/2026/11/17/chi-e-giovanni-de-gennaro-indagine-via-damelio/?homepagePosition=0.2&referrerPost=3739295",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/20/disney-sequel-mamma-ho-perso-laereo-natale/?bitPosition=1",
+      "url": "https://www.ilpost.it/2026/11/21/paolo-bulgari-gioielli-morte/?bitPosition=1",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/20/corte-cassazione-condanna-definitiva-gabriele-bianchi-willy-monteiro-duarte/?bitPosition=2",
+      "url": "https://www.ilpost.it/2026/11/21/haiti-accordo-el-salvador-prigioni/?bitPosition=2",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/20/anthropic-azioni-perdita-valore-azioni/?bitPosition=3",
+      "url": "https://www.ilpost.it/2026/11/21/francia-poliziotti-condannati-carcere-aggressione-michel-zecler/?bitPosition=3",
       "status": 200
     }
   ],
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.ilpost.it/",
-  "durationSeconds": 3.56
+  "durationSeconds": 3.59
 }

@@ -4,12 +4,61 @@
   "sourceId": "il-notiziario",
   "originUrl": "https://www.ilnotiziario.net/",
   "configuredFeedUrl": "https://www.ilnotiziario.net/feed/",
-  "collectedAt": "2026-11-21T03:31:34.602486Z",
+  "collectedAt": "2026-11-21T14:58:25.475746Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.ilnotiziario.net/feed/",
   "items": [
+    {
+      "title": "Massimo Bossetti esce dal carcere di Bollate per andare a lavorare a Cormano",
+      "url": "https://www.ilnotiziario.net/massimo-bossetti-esce-dal-carcere-di-bollate-per-andare-a-lavorare-a-cormano/",
+      "excerpt": "Massimo Bossetti esce dal carcere di Bollate tutti i giorni per andare a lavorare in una ditta di Cormano Una nuova routine...",
+      "publishedAt": "2026-11-21T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "La legge della bestia, recensione: fra crime e dilemma etico",
+      "url": "https://www.ilnotiziario.net/la-legge-della-bestia-recensione-fra-crime-e-dilemma-etico/",
+      "excerpt": "di Stefano Di Maria Il caso di un serial killer di bambini riemerge dopo 25 anni come un irrisolto problema giudiziario e...",
+      "publishedAt": "2026-11-21T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Caronno, quasi ultimata la nuova velostazione",
+      "url": "https://www.ilnotiziario.net/caronno-quasi-ultimata-la-nuova-velostazione/",
+      "excerpt": "La velostazione di Caronno Pertusella è a un passo dal traguardo. Si avviano infatti verso la conclusione i lavori del nuovo...",
+      "publishedAt": "2026-11-21T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Paderno, auto devastata a colpi di estintore sotto alla biblioteca",
+      "url": "https://www.ilnotiziario.net/paderno-auto-devastata-a-colpi-di-estintore-sotto-alla-biblioteca/",
+      "excerpt": "Paderno, auto devastata a colpi di estintore sotto alla biblioteca. Il caso della Nissan Micra devastata a colpi di estintore è...",
+      "publishedAt": "2026-11-21T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Garbagnate, donna molestata mentre torna dalla stazione",
+      "url": "https://www.ilnotiziario.net/garbagnate-donna-molestata-mentre-torna-dalla-stazione/",
+      "excerpt": "Garbagnate, donna molestata mentre torna dalla stazione. Due settimane fa scrivevamo del tentativo di aggressione a una ragazzina...",
+      "publishedAt": "2026-11-21T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Giochi Preziosi in concordato, il 25 l’incontro al Ministero",
+      "url": "https://www.ilnotiziario.net/giochi-preziosi-in-concordato-il-25-lincontro-al-ministero/",
+      "excerpt": "Crisi Giochi Preziosi, aperta la procedura di concordato preventivo, attesa per l’incontro al Ministero. Riflettori puntati...",
+      "publishedAt": "2026-11-21T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Incidente in Pedemontana allo svincolo di Lazzate, 3 feriti e Vigili del fuoco in azione",
+      "url": "https://www.ilnotiziario.net/incidente-in-pedemontana-allo-svincolo-di-lazzate-3-feriti-e-vigili-del-fuoco-in-azione/",
+      "excerpt": "Incidente sulla Pedemontana nei pressi di Lazzate, 3 persone ferite, intervento dei Vigili del fuoco Serata di paura e disagi...",
+      "publishedAt": "2026-11-21T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "Eventi week-end: “Cross del Cuore” a Uboldo, rievocazione con laboratori a Villa Arconati di Bollate",
       "url": "https://www.ilnotiziario.net/eventi-week-end-cross-del-cuore-a-uboldo-rievocazione-con-laboratori-a-villa-arconati-di-bollate/",
@@ -65,55 +114,6 @@
       "excerpt": "Per i lavori sulla linea del tram Milano-Limbiate, a Paderno Dugnano disagi sulla Comasina fino alla fine di marzo 2027. Nuovi...",
       "publishedAt": "2026-11-20T00:00:00Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "A Cormano una nuova ciclopedonale per collegare il quartiere Comasina, con i fondi del Pnrr",
-      "url": "https://www.ilnotiziario.net/a-cormano-una-nuova-ciclopedonale-per-collegare-il-quartiere-comasina-con-i-fondi-del-pnrr/",
-      "excerpt": "Il territorio di Cormano avrà una nuova pista ciclopedonale: sarà realizzata tra via Gramsci e via dei Giovi, in modo da...",
-      "publishedAt": "2026-11-20T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Sciopero generale, molte scuole chiuse, disagi a Saronno, Cogliate e Ceriano Laghetto",
-      "url": "https://www.ilnotiziario.net/sciopero-generale-molte-scuole-chiuse-disagi-a-saronno-cogliate-ceriano-laghetto/",
-      "excerpt": "Sciopero generale, molte scuole chiuse per mancanza di personale ausiliario, disagi in diversi comuni, come Saronno. Cogliate e...",
-      "publishedAt": "2026-11-20T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Paderno Dugnano, la Polizia blocca il rock; Saronno e Garbagnate, aggressioni vicino alle stazioni",
-      "url": "https://www.ilnotiziario.net/paderno-dugnano-la-polizia-blocca-il-rock-saronno-e-garbagnate-aggressioni-vicino-alle-stazioni/",
-      "excerpt": "📰 IL NOTIZIARIO È IN EDICOLA E ONLINE! 📰 Torna oggi in edicola e online il nuovo numero del nostro settimanale ) con fatti,...",
-      "publishedAt": "2026-11-20T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Ethos, recensione: la Turchia alla ricerca della felicità",
-      "url": "https://www.ilnotiziario.net/ethos-recensione-la-turchia-alla-ricerca-della-felicita/",
-      "excerpt": "di Stefano Di Maria Il ritorno dopo sei anni di ETHOS è l’occasione di riscoprire questa serie passata inosservata, ma che fin...",
-      "publishedAt": "2026-11-19T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Rho ricorda le donne vittime di violenza",
-      "url": "https://www.ilnotiziario.net/rho-ricorda-le-donne-vittime-di-violenza/",
-      "excerpt": "La città di Rho ricorda le donne vittime di violenza. Lo farà nella serata di mercoledì 25, alle 21, prima dell’inizio del...",
-      "publishedAt": "2026-11-19T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Ospedale Niguarda, torna un servizio storico, nuove navette per spostarsi tra i padiglioni",
-      "url": "https://www.ilnotiziario.net/ospedale-niguarda-torna-un-servizio-storico-nuove-navette-per-spostarsi-tra-i-padiglioni/",
-      "excerpt": "Ospedale Niguarda, torna un servizio storico, nuove navette per spostarsi tra i padiglioni Raggiungere i diversi reparti...",
-      "publishedAt": "2026-11-19T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Scippo violento a Saronno Sud, donna strattonata e scaraventata a terra",
-      "url": "https://www.ilnotiziario.net/scippo-violento-a-saronno-sud-donna-strattonata-e-scaraventata-a-terra/",
-      "excerpt": "Scippo violento a Saronno Sud, donna strattonata e scaraventata a terra Era uscita di casa per una passeggiata con il cane, ma si...",
-      "publishedAt": "2026-11-19T00:00:00Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -127,5 +127,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 1.77
+  "durationSeconds": 1.36
 }

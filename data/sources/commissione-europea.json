@@ -4,12 +4,20 @@
   "sourceId": "commissione-europea",
   "originUrl": "https://commission.europa.eu/news-and-media_en",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-21T03:31:01.900870Z",
-  "status": "blocked",
-  "diagnosticCode": "rate_limited",
-  "method": "html",
+  "collectedAt": "2026-11-21T14:57:54.477672Z",
+  "status": "ok",
+  "diagnosticCode": null,
+  "method": "trafilatura",
   "feedUrl": null,
-  "items": [],
+  "items": [
+    {
+      "title": "Highlighted news",
+      "url": "https://commission.europa.eu/news-and-media/highlighted-news_en",
+      "excerpt": "Stay updated on the latest news from the European Commission, including developments on policies and initiatives, and about important events and milestones",
+      "publishedAt": "2026-11-21T12:00:00Z",
+      "dateEvidence": "html:publication-time"
+    }
+  ],
   "attempts": [
     {
       "url": "https://commission.europa.eu/robots.txt",
@@ -33,16 +41,40 @@
     },
     {
       "url": "https://commission.europa.eu/about/contact/press-services_en",
-      "status": 429
+      "status": 200
     }
   ],
-  "message": "HTTP 429: accesso limitato dalla fonte",
+  "message": "1 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [
     {
       "url": "https://commission.europa.eu/news-and-media/news_en",
       "title": "News from Commission Departments",
       "h1": "News",
       "dates": [
+        {
+          "tag": "time",
+          "class": [],
+          "text": "21 November 2026",
+          "datetime": "2026-11-21T12:00:00Z"
+        },
+        {
+          "tag": "time",
+          "class": [],
+          "text": "20 November 2026",
+          "datetime": "2026-11-20T12:00:00Z"
+        },
+        {
+          "tag": "time",
+          "class": [],
+          "text": "20 November 2026",
+          "datetime": "2026-11-20T12:00:00Z"
+        },
+        {
+          "tag": "time",
+          "class": [],
+          "text": "17 November 2026",
+          "datetime": "2026-11-17T12:00:00Z"
+        },
         {
           "tag": "div",
           "class": [
@@ -107,38 +139,14 @@
         {
           "tag": "time",
           "class": [],
-          "text": "20 November 2026",
-          "datetime": "2026-11-20T12:00:00Z"
+          "text": "21 November 2026",
+          "datetime": "2026-11-21T12:00:00Z"
         },
         {
           "tag": "time",
           "class": [],
-          "text": "20 November 2026",
-          "datetime": "2026-11-20T12:00:00Z"
-        },
-        {
-          "tag": "time",
-          "class": [],
-          "text": "20 November 2026",
-          "datetime": "2026-11-20T12:00:00Z"
-        },
-        {
-          "tag": "time",
-          "class": [],
-          "text": "20 November 2026",
-          "datetime": "2026-11-20T12:00:00Z"
-        },
-        {
-          "tag": "time",
-          "class": [],
-          "text": "20 November 2026",
-          "datetime": "2026-11-20T12:00:00Z"
-        },
-        {
-          "tag": "time",
-          "class": [],
-          "text": "20 November 2026",
-          "datetime": "2026-11-20T12:00:00Z"
+          "text": "21 November 2026",
+          "datetime": "2026-11-21T12:00:00Z"
         },
         {
           "tag": "time",
@@ -153,9 +161,16 @@
       "title": "Visual stories",
       "h1": "Visual stories",
       "dates": []
+    },
+    {
+      "url": "https://commission.europa.eu/about/contact/press-services_en",
+      "title": "Press services",
+      "h1": "Press services and accreditation",
+      "dates": []
     }
   ],
-  "httpStatus": 429,
-  "failedUrl": "https://commission.europa.eu/about/contact/press-services_en",
-  "durationSeconds": 2.69
+  "candidateCount": 4,
+  "datedCount": 1,
+  "listingUrl": "https://commission.europa.eu/news-and-media_en",
+  "durationSeconds": 2.72
 }
