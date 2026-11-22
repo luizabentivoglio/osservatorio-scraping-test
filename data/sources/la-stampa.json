@@ -4,12 +4,82 @@
   "sourceId": "la-stampa",
   "originUrl": "https://www.lastampa.it/",
   "configuredFeedUrl": "https://www.lastampa.it/rss/copertina.xml",
-  "collectedAt": "2026-11-21T23:38:07.212067Z",
+  "collectedAt": "2026-11-22T10:21:49.634281Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.lastampa.it/rss/copertina.xml",
   "items": [
+    {
+      "title": "De Gennaro, il segreto di Totuccio Contorno: “Siamo nelle mani di Dio”. Cosa c’era nell’hard disk",
+      "url": "https://www.lastampa.it/cronaca/2026/11/22/news/de-gennaro-totuccio-contorno-hard-disk-rubato-segreti-inchiesta-15805764/",
+      "excerpt": "L’inchiesta della Procura di Caltanissetta ricostruisce la gestione «opaca» del collaboratore di giustizia. L’hard disk rubato, i documenti compromettenti e il timore che Totuccio potesse rivelare segreti scomodi",
+      "publishedAt": "2026-11-22T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "De Gennaro e quella confidenza fatta a Casini: \"Se non fosse per mia moglie mi sparerei\"",
+      "url": "https://www.lastampa.it/cronaca/2026/11/22/news/de_gennaro_e_quella_confidenza_fatta_a_casini_se_non_fosse_per_mia_moglie_mi_sparerei-15805617/",
+      "excerpt": "I figli adesso vogliono che venga ristabilita la verità e riscattato l’onore del padre",
+      "publishedAt": "2026-11-22T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "De Gennaro, il superpoliziotto dai trionfi con Falcone ai veleni di Palermo",
+      "url": "https://www.lastampa.it/cronaca/2026/11/22/news/de_gennaro_il_superpoliziotto_dai_trionfi_con_falcone_ai_veleni_di_palermo-15805557/",
+      "excerpt": "Contribuì al Maxiprocesso a Cosa nostra. Criticato per i «sistemi sbrigativi»",
+      "publishedAt": "2026-11-22T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Lo sconcerto del governo: “Massacro di media e toghe”. Forza Italia: “Più sanzioni”",
+      "url": "https://www.lastampa.it/cronaca/2026/11/22/news/lo_sconcerto_del_governo_massacro_di_media_e_toghe_forza_italia_piu_sanzioni-15805627/",
+      "excerpt": "Meloni: scioccata. I vicepremier: De Gennaro processato fuori dai tribunali. E il Pd accusa la Commissione Antimafia: ha creato un clima tossico",
+      "publishedAt": "2026-11-22T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Caltanissetta, la Procura e lo scontro con i magistrati antimafia: da Pignatone a Scarpinato",
+      "url": "https://www.lastampa.it/cronaca/2026/11/22/news/caltanissetta_la_procura_e_lo_scontro_con_i_magistrati_antimafia_da_pignatone_a_scarpinato-15805574/",
+      "excerpt": "Le indagini della magistratura nissena sui colleghi palermitani",
+      "publishedAt": "2026-11-22T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Bianco: “Volli De Gennaro a capo della polizia. È stato dipinto come un traditore, ma ha servito lo Stato”",
+      "url": "https://www.lastampa.it/cronaca/2026/11/22/news/bianco_lo_volli_capo_polizia_dipinto_traditore_servito_stato-15805636/",
+      "excerpt": "L’ex ministro dell’Interno: «In Italia la sola notizia dell’indagine rappresenta una condanna»",
+      "publishedAt": "2026-11-22T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Atp Finals, il grande show",
+      "url": "https://www.lastampa.it/sport/2026/11/22/news/atp_finals_il_grande_show-15805601/",
+      "excerpt": "Torino rivendica orgogliosa il clima creato attorno alla manifestazione. Un affetto verace e sentimentale che rispetta i gesti tecnici però va oltre. Perché in questi tempi è il tennis a decidere se essere contaminato dal pop",
+      "publishedAt": "2026-11-22T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Sinner, il mistero del ginocchio e l’ombra dell’operazione. Alcaraz: “Ho imparato a fermarmi”",
+      "url": "https://www.lastampa.it/sport/2026/11/22/news/sinner_il_mistero_del_ginocchio_e_l_ombra_dell_operazione_alcaraz_ho_imparato_a_fermarmi-15805771/",
+      "excerpt": "Poco probabile l’idea di rivedere il campione altoatesino in campo in Australia",
+      "publishedAt": "2026-11-22T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Gp show a Las Vegas: trionfo Verstappen, l’ira di Vasseur su Leclerc: “Errore inaccettabile”",
+      "url": "https://www.lastampa.it/sport/2026/11/22/news/f1_verstappen_vince_il_gran_premio_di_las_vegas_antonelli_quarto-15805698/",
+      "excerpt": "Nuovo scontro tra le Ferrari: Charles (10°) penalizzato di 10 secondi per l’incidente con Lewis (7°). Record di sorpassi, Super Max precede Norris e Piastri: “Una gara folle, mai visto nulla di simile”. Quarto Antonelli, a lungo in corsa per la vittoria",
+      "publishedAt": "2026-11-22T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "“Limiti ai social network sotto i 16 anni, non si lascino sole le famiglie”",
+      "url": "https://www.lastampa.it/cronaca/2026/11/22/news/barbara_berlusconi_social_network_minori_16_anni_famiglie_divieto_regole_adolescenti-15805454/",
+      "excerpt": "La figlia del Cavaliere: «Sostengo la proposta del governo. Servono regole, ma anche educazione nelle scuole»",
+      "publishedAt": "2026-11-22T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "Torino, Franco massacrato di botte dal dipendente: dietro l’omicidio l’ombra degli stipendi non pagati",
       "url": "https://www.lastampa.it/torino/2026/11/22/news/torino-franco-zangari-omicidio-manhattan-pub-dipendente-stipendi-non-pagati-15805519/",
@@ -18,276 +88,206 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Atp, sarà Zverev-Alcaraz: la sfida dei giganti",
-      "url": "https://www.lastampa.it/sport/speciali/atp-finals-2026/2026/11/21/news/atp_finals_torino_finale_zverev_alcaraz-15805588/",
-      "excerpt": "I precedenti dicono 7 a 6 per lo spagnolo, l’ultima volta a Melbourne nel 2026 in semifinale vinse Carlitos al quinto: in palio oltre al titolo di Maestro ci sono oltre cinque milioni di dollari",
-      "publishedAt": "2026-11-21T00:00:00Z",
+      "title": "Gli amici: “Franco faceva suonare anche i più inesperti e diceva: niente pensione, resto al Manhattan”",
+      "url": "https://www.lastampa.it/torino/2026/11/22/news/gli_amici_franco_faceva_suonare_anche_i_piu_inesperti_e_diceva_niente_pensione_resto_qui-15805565/",
+      "excerpt": "Il ricordo di chi ha conosciuto Zangari: “Era un presidio per il quartiere”. Il consigliere regionale Unia: “Un pezzo di Storia, un riferimento”",
+      "publishedAt": "2026-11-22T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Atp Finals: Alcaraz in rimonta batte Shelton e vola in finale: “In Italia sento affetto ed energia”",
-      "url": "https://www.lastampa.it/sport/2026/11/21/news/atp_finals_alcaraz_in_rimonta_batte_shelton_e_vola_in_finale-15805222/",
-      "excerpt": "Lo statunitense sconfitto in tre set",
-      "publishedAt": "2026-11-21T00:00:00Z",
+      "title": "“Mio figlio Giuseppe è morto da eroe, Schettino oggi è solo un vigliacco libero”",
+      "url": "https://www.lastampa.it/cronaca/2026/11/22/news/padre_figlio_morto_costa_concordia_schettino-15805466/",
+      "excerpt": "Parla il padre del musicista che ha ceduto il posto sulla scialuppa a una madre e ai suoi due figli",
+      "publishedAt": "2026-11-22T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "De Gennaro, si indaga per istigazione al suicidio. Nella villa in Toscana documenti e lettere ai famigliari",
-      "url": "https://www.lastampa.it/cronaca/2026/11/21/news/gianni-de-gennaro-morte-inchiesta-istigazione-suicidio-ris-villa-15805268/",
-      "excerpt": "La Procura di Grosseto apre un fascicolo sulla morte dell’ex capo della Polizia. Due reparti del Ris al lavoro nella sua abitazione in Maremma per ricostruire le ultime ore di vita. Nei giorni scorsi la perquisizione nell’ambito dell’inchiesta sui presunti depistaggi della strage di via D’Amelio",
-      "publishedAt": "2026-11-21T00:00:00Z",
+      "title": "Tragedia nella notte: auto s’incendia dopo essere finita fuori strada, morto un ragazzo di 17 anni",
+      "url": "https://www.lastampa.it/vercelli/2026/11/22/news/auto_s_incendia_il_passeggero_di_17_anni_e_morto_altri_quattro_sono_feriti-15805758/",
+      "excerpt": "L’incidente è accaduto intorno alle 3,30 a Lenta. Altri quattro amici biellesi sono rimasti feriti",
+      "publishedAt": "2026-11-22T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "De Gennaro si è sparato in casa: l’ex capo della polizia era indagato per depistaggio sulla strage di via D’Amelio",
-      "url": "https://www.lastampa.it/cronaca/2026/11/21/news/gianni_de_gennaro_morto_suicida-15804978/",
-      "excerpt": "Aveva 78 anni. La procura di Grosseto indaga per istigazione al suicidio",
-      "publishedAt": "2026-11-21T00:00:00Z",
+      "title": "Anni di Cop, zero risultati: il sistema del consenso paralizza la svolta verde",
+      "url": "https://www.lastampa.it/esteri/2026/11/22/news/anni_di_cop_zero_risultati_il_sistema_del_consenso_paralizza_la_svolta_verde-15805475/",
+      "excerpt": "L’idea di Bogotà e Amsterdam: tavoli ristretti per procedere",
+      "publishedAt": "2026-11-22T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Meloni: profondamente scioccata. Il figlio di Borsellino: sparito un pezzo di verità",
-      "url": "https://www.lastampa.it/cronaca/2026/11/21/news/calenda_de_gennaro_e_stato_un_servitore_della_patria_tradito_dalle_istituzioni_che_ha_servito-15804991/",
-      "excerpt": "Il fratello del giudice ucciso in via D’Amelio: «Istigazione al suicidio da parte della Procura di Caltanissetta». Tajani: «L’ennesimo processo al di fuori dei tribunali». Calenda: «Servitore della Patria, tradito dalle istituzioni che ha servito»",
-      "publishedAt": "2026-11-21T00:00:00Z",
+      "title": "Dalla marmotta all’ermellino, così la crisi climatica cambia la vita degli animali selvatici",
+      "url": "https://www.lastampa.it/rubriche/il-respiro-delle-alpi/2026/11/22/news/marmotta_ermellino_cosi_la_crisi_climatica_cambia_la_vita_degli_animali_selvatici-15805667/",
+      "excerpt": "Se ne è parlato sabato 14 novembre alla diciassettesima edizione della rassegna Meteolab al Forte di Bard, organizzata in collaborazione con la Società Meteorologica Italiana, l’Équipe Arc-en-ciel e l’Università di Trieste",
+      "publishedAt": "2026-11-22T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Coppi: “Un uomo distrutto dal sospetto, la sua scelta non mi stupisce. Si sentiva solo e isolato”",
-      "url": "https://www.lastampa.it/cronaca/2026/11/21/news/de_gennaro_l_avvocato_coppi_mi_chiese_di_difenderlo_solo_se_credevo_nella_sua_innocenza-15805102/",
-      "excerpt": "Il legale dell’ex capo della polizia: «Avevo parlato con lui venerdì mattina»",
-      "publishedAt": "2026-11-21T00:00:00Z",
+      "title": "Putin, il mendicante di Shenzhen che tratta con la valigetta atomica mentre l’Europa sabota i negoziati",
+      "url": "https://www.lastampa.it/esteri/2026/11/22/news/putin-shenzhen-valigetta-atomica-europa-negoziati-ucraina-15805540/",
+      "excerpt": "L’imperialismo russo ha portato a una nuova età dell’oro del capitalismo",
+      "publishedAt": "2026-11-22T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "I segreti di De Gennaro: l’agenda rossa di Borsellino e i veleni sulla strage di via D’Amelio",
-      "url": "https://www.lastampa.it/cronaca/2026/11/21/news/i_segreti_di_de_gennaro_l_agenda_rossa_di_borsellino_e_i_veleni_sulla_strage_di_via_d_amelio-15805041/",
-      "excerpt": "Dall’inchiesta di Caltanissetta al presunto patto con Arnaldo La Barbera, passando per il pentito Totuccio Contorno: la morte dell’ex capo della polizia lascia aperti molti interrogativi",
-      "publishedAt": "2026-11-21T00:00:00Z",
+      "title": "Usa, ricercatrice di Princeton arrestata dall'Ice a Washington e portata in un centro di detenzione",
+      "url": "https://www.lastampa.it/esteri/2026/11/22/news/usa_ricercatrice_di_princeton_arrestata_dall_ice_a_washington_e_portata_in_un_centro_di_detenzione-15805702/",
+      "excerpt": "L'arresto è avvenuto giovedì 19 novembre 2026, mentre Eva Yi Xie si preparava a rientrare in New Jersey dopo aver presentato i propri studi al congresso annuale della Society for Neuroscience",
+      "publishedAt": "2026-11-22T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Come conobbe Giovanni Falcone? Gianni De Gennaro lo racconta in aula a Palermo",
-      "url": "https://www.lastampa.it/cronaca/2026/11/21/video/gianni_de_gennaro_primo_incontro_giovanni_falcone_deposizione_processo_trattativa_stato_mafia-15804987/",
-      "excerpt": "Dal banco dei testimoni, Gianni De Gennaro raccontò la prima volta che incontrò Giovanni Falcone. L’ex capo della Polizia si è tolto la vita oggi, sabato 21 novembre. Aveva 78 anni. Il video risale al 9 ottobre 2015, quando De Gennaro depose a Palermo al processo sulla trattativa Stato-mafia. In aula ricordò anche la p",
-      "publishedAt": "2026-11-21T00:00:00Z",
+      "title": "Il reality triste delle monarchie europee",
+      "url": "https://www.lastampa.it/specchio/rubriche/cose-brutte/2026/11/22/news/il_reality_triste_delle_monarchie_europee-15802843/",
+      "excerpt": "Vabbè, io ero per Camilla. Diana aveva la mia età e mi pareva una di quelle belle ragazze bene che avevano più valore sociale di noi nerdone. Camilla girava stropicciata, stava in ...",
+      "publishedAt": "2026-11-22T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Napoli-Torino 1-0, McTominay scaccia la crisi di Allegri. Ma Vergara esce in lacrime",
-      "url": "https://www.lastampa.it/sport/2026/11/21/news/napoli_batte_torino_1-0_decisivo_mctominay-15805610/",
-      "excerpt": "Una prodezza dello scozzese dalla distanza regala agli azzurri la prima vittoria dopo quasi un mese. Lang si riconcilia con i tifosi, mentre il Toro colpisce una traversa con Mandragora. Per Allegri la tegola dell’ennesimo infortunio muscolare",
-      "publishedAt": "2026-11-21T00:00:00Z",
+      "title": "“A 70 anni mi ha lasciata per un’altra, ma ho riscoperto la felicità di essere libera”",
+      "url": "https://www.lastampa.it/specchio/rubriche/amore-moderno/2026/11/22/news/l_amore_moderno-15802916/",
+      "excerpt": "Cara Maria, sento il bisogno di scriverti per mettere ordine nei miei pensieri e sentimenti dopo quello che mi è successo quest’estate. Inizio dalla fine. Ho settant’anni e a luglio, dopo ...",
+      "publishedAt": "2026-11-22T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "La Lazio vola, Noslin e Frattesi stendono il Lecce: è 3-0",
-      "url": "https://www.lastampa.it/sport/2026/11/21/news/lazio_lecce_noslin_frattesi_3-0-15805264/",
-      "excerpt": "L’anno scorso ci vollero 29 giornate per arrivare alla doppia cifra di successi. Biancocelesti solitari in vetta alla classifica",
-      "publishedAt": "2026-11-21T00:00:00Z",
+      "title": "I data center non sono sostenibili",
+      "url": "https://www.lastampa.it/specchio/rubriche/futura/2026/11/22/news/i_data_center_non_sono_sostenibili-15802993/",
+      "excerpt": "C’è una nuova frontiera del greenwashing: dare i voti all’inquinamento dei data center. L’Unione europea ha deciso che, dal 2027, anche i data center dovranno esibire ...",
+      "publishedAt": "2026-11-22T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Roma-Parma 5-1 con un poker di Malen, i giallorossi salgono al secondo posto",
-      "url": "https://www.lastampa.it/sport/2026/11/21/news/roma_parma_5-1_gol_malen-15805419/",
-      "excerpt": "La squadra di Gasperini sorpassa l’Inter al secondo posto, raggiungendo quota 30 punti",
-      "publishedAt": "2026-11-21T00:00:00Z",
+      "title": "La rabbia dei gilet neri: “Il miracolo coreano siamo noi, ma perché tanta povertà?”",
+      "url": "https://www.lastampa.it/specchio/rubriche/il-reportage/2026/11/22/news/la_rabbia_dei_gilet_neri_il_miracolo_coreano_siamo_noi_ma_perche_tanta_poverta-15802983/",
+      "excerpt": "Proteste in Corea del Sud: i lavoratori chiedono una parte degli utili legati all’IA",
+      "publishedAt": "2026-11-22T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Spalletti punge Conte: \"Normale volere Nazionale, United, Juve. Ma io mi muovevo con rispetto\"",
-      "url": "https://www.lastampa.it/sport/2026/11/21/news/spalletti_punge_conte_nazionale_united_juve-15805246/",
-      "excerpt": "Il tecnico bianconero sull’autocandidatura del grande ex: «Non trovo il motivo di questo rumore…». E domani saranno 600 in Serie A: «Emozionato come la prima volta»",
-      "publishedAt": "2026-11-21T00:00:00Z",
+      "title": "L'ultimo saluto a Corrado Augias, oltre 10mila in fila in Campidoglio",
+      "url": "https://www.lastampa.it/cronaca/2026/11/22/news/l_ultimo_saluto_a_corrado_augias_oltre_10mila_in_fila_in_campidoglio-15805744/",
+      "excerpt": "L’omaggio al giornalista. Un flusso ininterrotto di persone, amici e i volti di politica e tv: «Grazie maestro». I funerali laici si svolgeranno in forma privata",
+      "publishedAt": "2026-11-22T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Torino, il cuore spezzato del Manhattan: Franco, ucciso a calci e pugni. “Faceva suonare chiunque”",
-      "url": "https://www.lastampa.it/torino/2026/11/21/news/torino_il_cuore_spezzato_del_manhattan_franco_ucciso_a_calci_e_pugni_faceva_suonare_chiunque-15805342/",
-      "excerpt": "In tanti ricordano il titolare del pub ammazzato da un suo dipendente: “Era un altruista incallito”",
-      "publishedAt": "2026-11-21T00:00:00Z",
+      "title": "Sulla guida semi-autonoma Salvini favorisce Musk: rivolta dei ricercatori italiani",
+      "url": "https://www.lastampa.it/economia/2026/11/22/news/guida_autonoma_salvini_musk_rivolta-15805571/",
+      "excerpt": "La società Niulinx punta a veicoli senza conducente contro Tesla",
+      "publishedAt": "2026-11-22T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Schettino lascia il carcere dopo nove anni: va ai servizi sociali",
-      "url": "https://www.lastampa.it/cronaca/2026/11/21/news/schettino_lascia_il_carcere_dopo_nove_anni_va_ai_servizi_sociali-15804915/",
-      "excerpt": "La decisione del Tribunale di Sorveglianza di Roma arriva al termine di un esame rigoroso del percorso rieducativo e della condotta tenuta durante la detenzione",
-      "publishedAt": "2026-11-21T00:00:00Z",
+      "title": "Le fisiologiche fluttuazioni dell'amore e del desiderio",
+      "url": "https://www.lastampa.it/speciale/benessere/amore-non-e-solo-amare/2026/11/22/video/valeria_randone_fluttuazioni_amore_desiderio_coppia-15805312/",
+      "excerpt": "\"Con mia moglie l'amore è ormai fluttuante: un giorno la desidero, un giorno no. Non è più come vent'anni fa\" scrive un lettore al giornale. Ecco l'analisi della dottoressa Valeria Randone, psicologo e sessuologo clinico a Catania, Milano e online (www.valeriarandone.it), autrice della rubrica \"Amore non è solo amare\" ",
+      "publishedAt": "2026-11-22T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Catturato in Messico El Chapo Isidro, boss dei narcos tra i dieci più ricercati dall’Fbi",
-      "url": "https://www.lastampa.it/esteri/2026/11/21/news/messico_catturato_el_chapo_isidro_e_il_boss_dei_narcos_fra_i_10_piu_ricercati_dall_fbi-15805124/",
-      "excerpt": "Il suo vero nome è Fausto Isidro Meza Flores. Nello stato di Sinaloa, dopo la cattura, disordini e attacchi alle forze di sicurezza da parte di milizie armate",
-      "publishedAt": "2026-11-21T00:00:00Z",
+      "title": "Isabella Rossellini: “Da mio padre Roberto i giovani imparino semplicità e coraggio”",
+      "url": "https://www.lastampa.it/spettacoli/2026/11/22/news/da_mio_padre_roberto_i_giovani_imparino_semplicita_e_coraggio-15805435/",
+      "excerpt": "Il Film Forum di New York inaugura la rassegna Rossellini 120Una grande rassegna per uno degli autori più amati dai cineasti",
+      "publishedAt": "2026-11-22T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Mosca: nave russa attaccata nel Golfo di Finlandia. Zelensky: disponibili a trilaterale entro Natale",
-      "url": "https://www.lastampa.it/esteri/2026/11/22/diretta/guerra_russia_ucraina_news_oggi-15805671/",
-      "excerpt": "Kiev: «Accordo con Londra per la produzione congiunta di droni nel Regno Unito»",
-      "publishedAt": "2026-11-21T00:00:00Z",
+      "title": "Brunello 2022, la nuova annata in dieci assaggi da non perdere",
+      "url": "https://www.lastampa.it/sapore/2026/11/22/news/benvenuto_brunello_nuova_annata_2022_dieci_da_non_perdere-15805663/",
+      "excerpt": "Calda, ma capace di conservare freschezza e tensione : così l’annata emerge dalle analisi dei due due Master of Wine Gabriele Gorelli e Andrea Lonardi. La degustazione in anteprima a Benvenuto Brunello",
+      "publishedAt": "2026-11-22T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Lo Zar bombarda i ponti ma torna a mani vuote dal vertice. E adesso è costretto a trattare",
-      "url": "https://www.lastampa.it/esteri/2026/11/21/news/lo_zar_bombarda_i_ponti_ma_torna_a_mani_vuote_dal_vertice_e_adesso_e_costretto_a_trattare-15804763/",
-      "excerpt": "Vendetta dopo i raid in Crimea. L’allarme arriva da Borsa ed economia",
-      "publishedAt": "2026-11-21T00:00:00Z",
+      "title": "Da una ciocca di George Washington ai milioni per Lincoln: il mercato dei cimeli dei presidenti Usa",
+      "url": "https://www.lastampa.it/esteri/2026/11/22/news/da_una_ciocca_di_george_washington_ai_milioni_per_lincoln_il_mercato_dei_cimeli_dei_presidenti_usa-15805728/",
+      "excerpt": "Un piccolo frammento di storia americana è appena passato di mano per 4mila dollari, riaccendendo i riflettori sul ricco mercato del collezionismo legato alla Casa Bianca",
+      "publishedAt": "2026-11-22T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Con gli Apachi, i dronisti che spazzano le retrovie russe",
-      "url": "https://www.lastampa.it/esteri/2026/11/21/news/con_gli_apachi_i_dronisti_che_spazzano_le_retrovie_russe_musk_ridacci_starlink-15804787/",
-      "excerpt": "I limiti all’uso dei satelliti Usa frenano la controffensiva a Zaporizhzhia",
-      "publishedAt": "2026-11-21T00:00:00Z",
+      "title": "Ariosto difende il nostro senno da un cielo fitto di comete artificiali",
+      "url": "https://www.lastampa.it/cultura/2026/11/22/news/ariosto_difende_ancora_il_nostro_sennoda_un_cielo_fitto_di_comete_artificiali-15805440/",
+      "excerpt": "La poesia e la letteratura come rimedio all’esasperazione della contemporaneità. Ariosto difende ancora il nostro senno da un cielo fitto di comete artificiali",
+      "publishedAt": "2026-11-22T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Augias, 10mila persone per l’ultimo saluto. Gualtieri: “Partecipazione di rara intensità”",
-      "url": "https://www.lastampa.it/cronaca/2026/11/21/diretta/corrado_augias_tutti_in_coda_per_l_ultimo_saluto_aperta_la_camera_ardente_in_campidoglio-15805007/",
-      "excerpt": "Una lunga fila per l’ultimo saluto al giornalista, scrittore e intellettuale nella sala della Protomoteca. I funerali si svolgeranno con rito laico e in forma strettamente privata",
-      "publishedAt": "2026-11-21T00:00:00Z",
+      "title": "È morto Massimo Martelli, noto sceneggiatore e regista tv",
+      "url": "https://www.lastampa.it/spettacoli/2026/11/22/news/e_morto_massimo_martelli_noto_sceneggiatore_e_regista_tv-15805719/",
+      "excerpt": "Era nato a Bologna. Ha lavorato a tanti festival di Sanremo",
+      "publishedAt": "2026-11-22T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Roma saluta Corrado Augias, le rose rosse sul feretro e la dedica “La tua famiglia”",
-      "url": "https://www.lastampa.it/cronaca/2026/11/21/video/roma_saluta_corrado_augias_in_fila_in_silenzio_davanti_alla_camera_ardente_in_campidoglio-15805205/",
-      "excerpt": "Oltre cento persone erano già in fila in Campidoglio quando, alle 10 di sabato 21 novembre, si è aperta la camera ardente di Corrado Augias. Nella Sala della Protomoteca, sul feretro di legno, le rose rosse e la dedica «La tua famiglia». Accanto alla moglie Daniela Pasti, alla figlia Natalia e ai nipoti c’era il sindac",
-      "publishedAt": "2026-11-21T00:00:00Z",
+      "title": "Cannavacciuolo apre un bistrot a Porta Nuova: appuntamento alla vigilia di Natale",
+      "url": "https://www.lastampa.it/torino/2026/11/22/news/cannavacciuolo_apre_un_bistrot_a_porta_nuova_appuntamento_alla_vigilia_di_natale-15805775/",
+      "excerpt": "Nuovo bistrot dello chef stellato all’ingresso principale della stazione: non un ristorante tradizionale ma una gastronomia",
+      "publishedAt": "2026-11-22T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "L’impressionante coda per l’ultimo saluto al giornalista",
-      "url": "https://www.lastampa.it/cronaca/2026/11/21/video/limpressionante_coda_per_lultimo_saluto_a_corrado_augias_attraversa_tutta_piazza_del_campidoglio-15805208/",
-      "excerpt": "Dalla scalinata del Vignola la fila per l’ultimo saluto a Corrado Augias attraversa ormai tutta piazza del Campidoglio. A Roma, sabato 21 novembre, centinaia di persone si sono messe in coda per rendere omaggio al giornalista e scrittore, morto il 19 novembre a 91 anni. Le prime erano già sui gradini un’ora prima dell’",
-      "publishedAt": "2026-11-21T00:00:00Z",
+      "title": "Cercare l’umanità in un mondo disumano. Il desiderio dei giovani, il dovere di noi adulti",
+      "url": "https://www.lastampa.it/de-giovanni-risponde/2026/11/22/news/cercare_l_umanita_in_un_mondo_disumano_il_desiderio_dei_giovani_il_dovere_di_noi_adulti-15805470/",
+      "excerpt": "Le contestazioni e la necessità di un progetto. Ma il confronto con il passato è fuorviante",
+      "publishedAt": "2026-11-22T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Manovra, più fondi alla Sanità ma le coperture sono un rebus: ipotesi risparmi del Pnrr",
-      "url": "https://www.lastampa.it/economia/2026/11/21/news/manovra_piu_fondi_alla_sanita_le_coperture_sono_un_rebus-15804704/",
-      "excerpt": "Schillaci preme sul taglio della card anziani di Forza Italia, Tajani respinge le modifiche. Salvini si intesta la sintesi di maggioranza sul condono edilizio: “Ho io la competenza”",
-      "publishedAt": "2026-11-21T00:00:00Z",
+      "title": "I vandali tornano a colpire il bar Vecchia Torino star di Tik Tok per lo zabaione",
+      "url": "https://www.lastampa.it/torino/2026/11/22/news/i_vandali_tornano_a_colpire_il_bar_vecchia_torino_star_di_tik_tok_per_lo_zabaione-15805545/",
+      "excerpt": "Lo sfogo del titolare Carlo Cocino, 83 anni: “Muri puliti e subito imbrattati”",
+      "publishedAt": "2026-11-22T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Marina Berlusconi e i contatti con Renzi. Il fastidio di Meloni: “Lei sogna il pareggio”",
-      "url": "https://www.lastampa.it/politica/2026/11/21/news/marina_berlusconi_e_i_contatti_con_renzi_il_fastidio_di_meloni_lei_sogna_il_pareggio-15804817/",
-      "excerpt": "I forzisti pronti ad aprire il fronte dello stop al reintegro dei medici No vax: «In nome di Silvio»",
-      "publishedAt": "2026-11-21T00:00:00Z",
+      "title": "Quando il posto fisso va stretto. Sei anni in van per l’Europa a insegnare il vivere green",
+      "url": "https://www.lastampa.it/cuneo/2026/11/22/news/quando_il_posto_fisso_va_stretto-15805482/",
+      "excerpt": "L’avventura di una giovane coppia cuneese iniziata nel 2020 ha dato vita a un’associazione e una mostra che apre oggi a Fossano",
+      "publishedAt": "2026-11-22T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Stefano De Martino, Sanremo è già pazza: bagno di folla per la targa di Sal Da Vinci",
-      "url": "https://www.lastampa.it/imperia-sanremo/2026/11/21/video/stefano_de_martino_sanremo_e_gia_pazza_bagno_di_folla_per_la_targa_di_sal_da_vinci_video-15805117/",
-      "excerpt": "Bagno di folla e scene di delirio per Stefano De Martino: la prima uscita ufficiale per le vie di Sanremo ha registrato una grande partecipazione di fan che hanno cercato di avvicinarlo per foto e autografi. La posa della targa della canzone vincitrice dello scorso anno \"Per sempre Sì\" di Sal Da Vinci, ha visto il cond",
-      "publishedAt": "2026-11-21T00:00:00Z",
+      "title": "Quella lotteria delle pensioni tra calcoli e ritardi: fino a un anno per ricevere il primo assegno",
+      "url": "https://www.lastampa.it/nord-ovest/2026/11/22/news/quella_lotteria_delle_pensioni_tra_calcoli_e_ritardi_fino_a_un_anno_per_ricevere_il_primo_assegno-15805421/",
+      "excerpt": "Nell’80% dei casi l’Inps liquida entro trenta giorni ma per chi ha lavorato nel pubblico o ha cambiato possono volerci mesi",
+      "publishedAt": "2026-11-22T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Un passeggero, nessun pilota: in Giappone decolla il taxi volante",
-      "url": "https://www.lastampa.it/tech/2026/11/21/video/un_passeggero_nessun_pilota_in_giappone_decolla_il_taxi_volante-15805075/",
-      "excerpt": "L’aerotaxi si alza in verticale e dal finestrino l’unico passeggero saluta il pubblico. È successo il 20 novembre alla Japan Aviation Academy di Kai, in Giappone, durante la prima dimostrazione con un passeggero a bordo del modello EH216-S nella prefettura di Yamanashi. Il biposto elettrico dell’azienda cinese EHang ha",
-      "publishedAt": "2026-11-21T00:00:00Z",
+      "title": "Birrificio Sempione, i ricordi di uno degli ultimi dipendenti: “Che dispiacere vederlo ridotto così”",
+      "url": "https://www.lastampa.it/verbano-cusio-ossola/2026/11/22/news/birrificio_sempione_azienda_verbania_ricordi_dipendente_tino_tiozzo-15805646/",
+      "excerpt": "Tino Tiozzo, classe 1937, ricorda l’azienda di Verbania che ha interrotto la produzione nel 1974: “E la nostra birra era definita tra le dieci migliori d’Italia”",
+      "publishedAt": "2026-11-22T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Nel traffico di Roma con la guida assistita, il video con cui Tesla ringrazia l’Italia",
-      "url": "https://www.lastampa.it/tech/2026/11/21/video/tesla_video_roma_guida_assistita_ringrazia_italia_musk_salvini-15805072/",
-      "excerpt": "Una Tesla percorre le strade di Roma e una telecamera riprende il tragitto dall’abitacolo. È il video che Tesla ha pubblicato su X il 20 novembre per ringraziare l’Italia dopo il via libera alla guida assistita, annunciato quel giorno dal ministro dei Trasporti Matteo Salvini. Il sistema può agire sullo sterzo e regola",
-      "publishedAt": "2026-11-21T00:00:00Z",
+      "title": "Nocciole dopo il boom arriva la crisi: scontro sui fondi regionali per sradicare e ripiantare",
+      "url": "https://www.lastampa.it/asti/2026/11/22/news/nocciole_boom_crisi_fondi_regionali-15805305/",
+      "excerpt": "L’associazione Ari: “Spreco di risorse pubbliche, così i contribuenti finiscono per pagare due volte”",
+      "publishedAt": "2026-11-22T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Marzia, l’unica rimasta in Ossola ad allevare bachi da seta: i suoi bozzoli diventano gioielli",
-      "url": "https://www.lastampa.it/verbano-cusio-ossola/2026/11/21/news/marzia_tonietti_domodossola_bachi_seta_gioielli-15804835/",
-      "excerpt": "Oggi a Palazzo San Francesco presenta la sua attività: dalla bachicoltura a Mocogna alla nascita dei bijoux",
-      "publishedAt": "2026-11-21T00:00:00Z",
+      "title": "L’omicidio Fenaroli, il primo a raccontare l’Italia del boom",
+      "url": "https://www.lastampa.it/specchio/rubriche/i-grandi-gialli/2026/11/22/news/l_omicidio_fenaroli_il_primo_a_raccontare_l_italia_del_boom-15802948/",
+      "excerpt": "Nel 1958 la clamorosa vicenda divise il Paese tra innocentisti e colpevolisti",
+      "publishedAt": "2026-11-22T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Finto Parmigiano, giro d’affari da 20 miliardi, dieci volte il valore dell’originale",
-      "url": "https://www.lastampa.it/sapore/2026/11/21/news/italian_sounding_parmigiano_reggiano_vale_20_miliardi_dieci_volte_originale-15805009/",
-      "excerpt": "Anche il Brunello è finito nel mirino dei falsi. Bartolommei (Montalcino): «Fondamentale informare i consumatori». Bertinelli (presidente Consorzio Parmigiano Reggiano): «Difendere il made in Italy e la qualità dei prodotti»",
-      "publishedAt": "2026-11-21T00:00:00Z",
+      "title": "Onori e oneri",
+      "url": "https://www.lastampa.it/specchio/rubriche/strada-facendo/2026/11/22/news/onori_e_oneri-15802847/",
+      "excerpt": "È un po’ il testamento di Spiderman, l’Uomo Ragno dei fumetti, che «da un grande potere derivi anche una grande responsabilità». Anche se il cibo non è il mio sapere preferito, ...",
+      "publishedAt": "2026-11-22T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Mereu, il legno di mare scolpito all’Asinara e l’amicizia con Falcone e Borsellino",
-      "url": "https://www.lastampa.it/spettacoli/2026/11/21/news/enrico_sculture_legno_asinara_falcone_borsellino-15805214/",
-      "excerpt": "L’agente di polizia con la passione per l’arte è protagonista di un documentario che da oggi è su RaiPlay",
-      "publishedAt": "2026-11-21T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "È morta Raffaella Curiel, una delle regine della moda italiana",
-      "url": "https://www.lastampa.it/spettacoli/2026/11/21/news/e_morta_raffaella_curiel_una_delle_regine_della_moda_italiana-15805029/",
-      "excerpt": "La grande stilista, 83 anni, è scomparsa a Milano",
-      "publishedAt": "2026-11-21T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Il ritorno di Tommy Lee Jones, padre imbroglione dell’inflessibile Ethan Hawke",
-      "url": "https://www.lastampa.it/spettacoli/2026/11/21/news/il_ritorno_di_tommy_lee_jones_padre_imbroglione_dell_inflessibile_ethan_hawke-15804457/",
-      "excerpt": "“The Lowdown”, serie noir che scoperchia i segreti di una città Usa, Tulsa in Oklahoma",
-      "publishedAt": "2026-11-21T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Quando l’amore porta il peso del passato: anatomia dell’inizio faticoso di una nuova relazione",
-      "url": "https://www.lastampa.it/speciale/benessere/amore-non-e-solo-amare/2026/11/21/news/peso_passato_amore_nuova_relazione-15804881/",
-      "excerpt": "Nuova puntata della rubrica “Amore non è solo amare” della dott.ssa Valeria Randone (www.valeriarandone.it), psicologo e sessuologo clinico. Se avete domande scrivete a info@valeriarandone.it",
-      "publishedAt": "2026-11-21T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Ginevra Ferri, quasi 16 anni e una lezione per la sinistra che si divide",
-      "url": "https://www.lastampa.it/cronaca/2026/11/21/video/ginevra_laterza_quasi_16_anni_e_una_lezione_per_la_sinistra_che_si_divide-15805026/",
-      "excerpt": "I 16 anni li compirà «a breve». Intanto Ginevra Ferri coordina la Rete degli Studenti Medi del VII Municipio di Roma. Diego Bianchi la incontra per Propaganda Live, su La7, mentre prepara gli striscioni per lo sciopero della scuola di venerdì 20 novembre. Con i collettivi del municipio sta organizzando un corteo per ra",
-      "publishedAt": "2026-11-21T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "A fuoco la centrale elettrica di Hartha in Iraq, le fiamme raggiungono le case",
-      "url": "https://www.lastampa.it/esteri/2026/11/21/video/a_fuoco_la_centrale_elettrica_di_hartha_in_iraq_le_fiamme_raggiungono_le_case-15805129/",
-      "excerpt": "Una palla di fuoco illumina il cielo sopra la centrale elettrica di Hartha, a nord di Bassora, nel sud dell’Iraq. Il video, girato da un’auto in movimento e verificato da Reuters, mostra una nube di fumo nero che si alza dall’impianto. L’incendio è scoppiato intorno alle 6 di sabato 21 novembre e ha raggiunto le case v",
-      "publishedAt": "2026-11-21T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "\"Il cancro ti cambia\": Kate Middleton racconta la vita dopo la diagnosi",
-      "url": "https://www.lastampa.it/esteri/2026/11/21/video/kate_middleton_heal_trailer_documentario_cancro_chemio_fratello_james-15805109/",
-      "excerpt": "«Non ho mai suonato la campana», racconta Kate Middleton al fratello James. I due sono in montagna e parlano del gesto con cui, in ospedale, si può segnare la fine della chemioterapia. È una scena di Heal, il documentario di cui Kensington Palace ha diffuso il trailer sabato 21 novembre. La macchina da presa segue la p",
-      "publishedAt": "2026-11-21T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Chiara Rondolino: \"Mortificata e segnata da quella maestra. Finalmente la mia storia è stata riconosciuta”",
-      "url": "https://www.lastampa.it/torino/2026/11/21/news/chiara_rondolino_ex_alunna_maestra_condannata-15804757/",
-      "excerpt": "Parla l’ex alunna dell’insegnante di Torino condannata per maltrattamenti: “Mi diceva: sei una deficiente”",
-      "publishedAt": "2026-11-21T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Mounk: “Gli europei non sono finiti nel menù. Un’intesa giusta tra Kiev e Mosca è ancora possibile”",
-      "url": "https://www.lastampa.it/esteri/2026/11/21/news/yascha_mounk_guerra_russia_ucraina_intervista-15804700/",
-      "excerpt": "Il politologo: “Adesso però serve una riforma ambiziosa dell’Ue, per tornare a contare”",
-      "publishedAt": "2026-11-21T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Serie gol, quasi 100 reti in più rispetto alla scorsa stagione. Ecco perché",
-      "url": "https://www.lastampa.it/sport/2026/11/21/news/serie_gol_quasi_100_reti_in_piu_rispetto_alla_scorsa_stagione_ecco_perche-15804768/",
-      "excerpt": "Riparte un campionato emozionante e aperto. Le regole contro le perdite di tempo funzionano. Rimesse rapide e meno interruzioni. Cresce il gioco effettivo: +23% di tiri",
-      "publishedAt": "2026-11-21T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Terzo valico: l’Inps non pagherà la cassa integrazione di 13 settimane ai 300 lavoratori",
-      "url": "https://www.lastampa.it/alessandria/2026/11/21/news/terzo_valico_inps_no_cassa-15805218/",
-      "excerpt": "Respinte le domande inoltrate da Seli Overseas: “L’azienda è di proprietà di Webuild come il Cociv”",
-      "publishedAt": "2026-11-21T00:00:00Z",
+      "title": "Clemente Tivioli: “I miei capi non vanno in saldo. Sono come un dipinto: non invecchiano”",
+      "url": "https://www.lastampa.it/specchio/rubriche/domenica-con/2026/11/22/news/i_miei_capi_non_vanno_in_saldo_sono_come_il_dipinto_di_un_artista_non_invecchiano-15802865/",
+      "excerpt": "Clemente Tivioli è il direttore creativo di TIVIOLI, prestigiosa casa milanese di capispalla di lusso fondata come pellicceria di alta gamma da suo padre, Carlo Tivioli, nel 1970. Da quando ha ...",
+      "publishedAt": "2026-11-22T00:00:00Z",
       "dateEvidence": "feed:published"
     }
   ],
@@ -302,5 +302,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 0.72
+  "durationSeconds": 0.77
 }

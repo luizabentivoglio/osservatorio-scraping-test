@@ -4,12 +4,40 @@
   "sourceId": "il-notiziario",
   "originUrl": "https://www.ilnotiziario.net/",
   "configuredFeedUrl": "https://www.ilnotiziario.net/feed/",
-  "collectedAt": "2026-11-21T23:38:03.084853Z",
+  "collectedAt": "2026-11-22T10:21:46.557849Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.ilnotiziario.net/feed/",
   "items": [
+    {
+      "title": "Fermato per un furto in autogrill nel Varesotto, in auto spunta un arsenale",
+      "url": "https://www.ilnotiziario.net/fermato-per-un-furto-in-autogrill-nel-varesotto-in-auto-spunta-un-arsenale/",
+      "excerpt": "Fermato per un furto in autogrill nel Varesotto, in auto spunta un arsenale Un furto di una tazzina da caffè in autogrill ha...",
+      "publishedAt": "2026-11-22T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Senago, 36enne in fuga: fermata e sanzionata dagli agenti",
+      "url": "https://www.ilnotiziario.net/senago-36enne-in-fuga-fermata-e-sanzionata-dagli-agenti/",
+      "excerpt": "Senago, 36enne in fuga: fermata e sanzionata dagli agenti. La Polizia Locale ha intensificato in questi ultimi giorni le attività...",
+      "publishedAt": "2026-11-22T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Rho, le scuole respingono i doni di Vannacci",
+      "url": "https://www.ilnotiziario.net/rho-le-scuole-respingono-i-doni-di-vannacci/",
+      "excerpt": "Rho, le scuole respingono i doni di Vannacci. Un carico di quaderni, penne e materiale di cancelleria pensato per alleggerire la...",
+      "publishedAt": "2026-11-22T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Bollate, ladri in azione: messi in fuga dal proprietario",
+      "url": "https://www.ilnotiziario.net/bollate-ladri-in-azione-messi-in-fuga-dal-proprietario/",
+      "excerpt": "Bollate, ladri in azione a Cascina del Sole: messi in fuga dal proprietario. Nuovo episodio legato alla sicurezza a Cascina del...",
+      "publishedAt": "2026-11-22T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "Paderno, rifiuti: agente accertatore e sacchi",
       "url": "https://www.ilnotiziario.net/paderno-rifiuti-agente-accertatore-e-sacchi/",
@@ -86,34 +114,6 @@
       "excerpt": "Tesla, via libera alla guida assistita in Italia: arriva il sistema da 99 euro al mese La guida assistita di Tesla si prepara ad...",
       "publishedAt": "2026-11-20T00:00:00Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Chirurgia robotica, al Niguarda 10 interventi in meno di 10 ore",
-      "url": "https://www.ilnotiziario.net/chirurgia-robotica-al-niguarda-10-interventi-in-meno-di-10-ore/",
-      "excerpt": "Chirurgia robotica, al Niguarda 10 interventi in meno di 10 ore Dieci procedure in meno di dieci ore, con interventi meno...",
-      "publishedAt": "2026-11-20T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Saronno, cambio in giunta comunale: Licata nuovo vicesindaco, Cattaneo lascia l’incarico",
-      "url": "https://www.ilnotiziario.net/saronno-cambio-in-giunta-comunale-licata-nuovo-vicesindaco-cattaneo-lascia-lincarico/",
-      "excerpt": "Saronno, cambio in giunta comunale: Licata nuovo vicesindaco, Cattaneo lascia l’incarico Nuovo avvicendamento nella giunta...",
-      "publishedAt": "2026-11-20T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Spaccata nella notte al Conad di Vanzago",
-      "url": "https://www.ilnotiziario.net/spaccata-nella-notte-al-conad-di-vanzago/",
-      "excerpt": "Colpo nella notte a Vanzago. Intorno alle 3.18, al supermercato Conad di via Filanda. Secondo le prime ricostruzioni, i...",
-      "publishedAt": "2026-11-20T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Rescaldina: il centro commerciale cambia pelle e punta su oltre 200 nuovi posti di lavoro",
-      "url": "https://www.ilnotiziario.net/rescaldina-il-centro-commerciale-cambia-pelle-e-punta-su-oltre-200-nuovi-posti-di-lavoro/",
-      "excerpt": "L’inaugurazione del primo piano riqualificato, con 25 nuove insegne e un investimento da 20 milioni di euro, rilancia la...",
-      "publishedAt": "2026-11-20T00:00:00Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -127,5 +127,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 1.31
+  "durationSeconds": 1.41
 }

@@ -4,50 +4,50 @@
   "sourceId": "il-post",
   "originUrl": "https://www.ilpost.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-21T23:38:03.086611Z",
+  "collectedAt": "2026-11-22T10:21:46.909869Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
+      "title": "Cosa sappiamo del suicidio di Gianni De Gennaro",
+      "url": "https://www.ilpost.it/2026/11/22/gianni-de-gennaro-suicidio-cosa-sappiamo/?homepagePosition=0",
+      "excerpt": "L'ex capo della polizia aveva detto di voler restare solo nella sua casa di campagna per studiare l'inchiesta in cui era coinvolto",
+      "publishedAt": "2026-11-22T07:19:44Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "Tre persone sono morte e decine sono disperse a causa di un incendio in una fabbrica di dolci in Indonesia",
+      "url": "https://www.ilpost.it/2026/11/22/indonesia-incendio-fabbrica-di-dolci/?bitPosition=1",
+      "excerpt": "Tre persone sono morte e decine sono disperse a causa di un incendio in una fabbrica di dolci in Indonesia Almeno tre persone sono morte e 36 sono disperse a causa di un incendio in una fabbrica di dolci in Indonesia. Altre quattro persone sono rimaste ferite. L’incendio è avvenuto sabato nel distretto di Serang, nella",
+      "publishedAt": "2026-11-22T06:28:42Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
       "title": "L’FBI sta indagando su un presunto attacco hacker a una sua banca dati investigativa",
-      "url": "https://www.ilpost.it/2026/11/21/lfbi-sta-indagando-su-un-presunto-attacco-hacker-a-una-sua-banca-dati-investigativa/?bitPosition=1",
+      "url": "https://www.ilpost.it/2026/11/21/lfbi-sta-indagando-su-un-presunto-attacco-hacker-a-una-sua-banca-dati-investigativa/?bitPosition=2",
       "excerpt": "L’FBI sta indagando su un presunto attacco hacker a una sua banca dati investigativa L’FBI, agenzia investigativa della polizia federale statunitense, sta indagando su un presunto attacco informatico a una sua banca dati che contiene informazioni relative alla giustizia penale, con dati su latitanti, persone scomparse,",
       "publishedAt": "2026-11-21T18:50:11Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
       "title": "Di cosa era accusato Gianni De Gennaro",
-      "url": "https://www.ilpost.it/2026/11/21/accuse-indagine-gianni-de-gennaro-via-damelio/?homepagePosition=0",
+      "url": "https://www.ilpost.it/2026/11/21/accuse-indagine-gianni-de-gennaro-via-damelio/?homepagePosition=2",
       "excerpt": "Per la procura avrebbe cercato di ostacolare le indagini sulla strage di via D'Amelio del 1992, ma in anni molto più recenti",
       "publishedAt": "2026-11-21T17:16:30Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "In Messico è stato arrestato Fausto Isidro Meza Flores, uno dei più importanti narcotrafficanti del paese",
-      "url": "https://www.ilpost.it/2026/11/21/meza-flores-arresto-messico/?bitPosition=2",
-      "excerpt": "In Messico è stato arrestato Fausto Isidro Meza Flores, uno dei più importanti narcotrafficanti del paese Forze speciali dell’esercito messicano hanno arrestato Fausto Isidro Meza Flores, conosciuto come El Chapo Isidro, uno dei più importanti capi dei cartelli messicani del narcotraffico. Meza Flores era stato inserit",
-      "publishedAt": "2026-11-21T16:56:56Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Marc Márquez è caduto durante la gara sprint del Gran Premio del Portogallo: gli mancavano pochi giri per vincere la MotoGP",
-      "url": "https://www.ilpost.it/2026/11/21/marc-marquez-caduto-sprint-gran-premio-portogallo-motogp/?bitPosition=3",
-      "excerpt": "Marc Márquez è caduto durante la gara sprint del Gran Premio del Portogallo: gli mancavano pochi giri per vincere la MotoGP Sabato, a due giri dalla fine della gara sprint del Gran Premio del Portogallo, il pilota spagnolo Marc Márquez è caduto. Era a un passo dal vincere il suo ottavo Mondiale in MotoGP, la categoria ",
-      "publishedAt": "2026-11-21T14:19:22Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
       "title": "Gianni De Gennaro si è ucciso",
-      "url": "https://www.ilpost.it/2026/11/21/gianni-de-gennaro-morto-ucciso-via-damelio/?homepagePosition=0.1&referrerPost=3739484",
+      "url": "https://www.ilpost.it/2026/11/21/gianni-de-gennaro-morto-ucciso-via-damelio/?homepagePosition=0.1&referrerPost=3739633",
       "excerpt": "Negli ultimi giorni l'ex capo della polizia era stato accusato di depistaggio nella nuova indagine sulla strage di via D'Amelio",
       "publishedAt": "2026-11-21T08:29:46Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
       "title": "Chi è stato e chi è oggi Gianni De Gennaro",
-      "url": "https://www.ilpost.it/2026/11/17/chi-e-giovanni-de-gennaro-indagine-via-damelio/?homepagePosition=0.2&referrerPost=3739484",
+      "url": "https://www.ilpost.it/2026/11/17/chi-e-giovanni-de-gennaro-indagine-via-damelio/?homepagePosition=2.1&referrerPost=3739484",
       "excerpt": "Dal lavoro con Giovanni Falcone a quello di capo della polizia, fino all'indagine per presunti depistaggi sulla strage di via D'Amelio",
       "publishedAt": "2026-11-17T10:54:18Z",
       "dateEvidence": "jsonld:datePublished"
@@ -63,27 +63,27 @@
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/21/accuse-indagine-gianni-de-gennaro-via-damelio/?homepagePosition=0",
+      "url": "https://www.ilpost.it/2026/11/22/gianni-de-gennaro-suicidio-cosa-sappiamo/?homepagePosition=0",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/21/gianni-de-gennaro-morto-ucciso-via-damelio/?homepagePosition=0.1&referrerPost=3739484",
+      "url": "https://www.ilpost.it/2026/11/21/gianni-de-gennaro-morto-ucciso-via-damelio/?homepagePosition=0.1&referrerPost=3739633",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/17/chi-e-giovanni-de-gennaro-indagine-via-damelio/?homepagePosition=0.2&referrerPost=3739484",
+      "url": "https://www.ilpost.it/2026/11/21/accuse-indagine-gianni-de-gennaro-via-damelio/?homepagePosition=2",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/21/lfbi-sta-indagando-su-un-presunto-attacco-hacker-a-una-sua-banca-dati-investigativa/?bitPosition=1",
+      "url": "https://www.ilpost.it/2026/11/17/chi-e-giovanni-de-gennaro-indagine-via-damelio/?homepagePosition=2.1&referrerPost=3739484",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/21/meza-flores-arresto-messico/?bitPosition=2",
+      "url": "https://www.ilpost.it/2026/11/22/indonesia-incendio-fabbrica-di-dolci/?bitPosition=1",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/21/marc-marquez-caduto-sprint-gran-premio-portogallo-motogp/?bitPosition=3",
+      "url": "https://www.ilpost.it/2026/11/21/lfbi-sta-indagando-su-un-presunto-attacco-hacker-a-una-sua-banca-dati-investigativa/?bitPosition=2",
       "status": 200
     }
   ],
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.ilpost.it/",
-  "durationSeconds": 3.61
+  "durationSeconds": 3.53
 }

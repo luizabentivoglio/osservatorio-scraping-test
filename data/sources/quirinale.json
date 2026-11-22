@@ -4,7 +4,7 @@
   "sourceId": "quirinale",
   "originUrl": "https://www.quirinale.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-21T23:38:33.863234Z",
+  "collectedAt": "2026-11-22T10:22:12.179570Z",
   "status": "blocked",
   "diagnosticCode": "access_restricted",
   "method": "html",
@@ -13,11 +13,148 @@
   "attempts": [
     {
       "url": "https://www.quirinale.it/robots.txt",
-      "status": 403
+      "status": 404
+    },
+    {
+      "url": "https://www.quirinale.it/",
+      "status": 200
+    },
+    {
+      "url": "https://www.quirinale.it/it/notizie/mattarella-assemblea-nazionale-confederazione-nazionale-artigianato-piccola-media-impresa",
+      "status": 200
+    },
+    {
+      "url": "https://www.quirinale.it/it/notizie/dichiarazione-presidente-mattarella-occasione-giornata-internazionale-diritti-infanzia-adolescenza-6",
+      "status": 200
+    },
+    {
+      "url": "https://www.quirinale.it/it/notizie/consegnati-quirinale-premi-balzan-2026",
+      "status": 200
+    },
+    {
+      "url": "https://www.quirinale.it/it/notizie/cordoglio-presidente-mattarella-per-scomparsa-corrado-augias-1",
+      "status": 200
+    },
+    {
+      "url": "https://www.quirinale.it/it/notizie/mattarella-ha-consegnato-premi-presidente-repubblica-2025",
+      "status": 200
+    },
+    {
+      "url": "https://www.quirinale.it/it/notizie/nostra-repubblica-compie-ottant-anni-1",
+      "status": 200
+    },
+    {
+      "url": "https://www.quirinale.it/it/notizie/mattarella-assemblea-nazionale-confederazione-nazionale-artigianato-piccola-media-impresa",
+      "status": 200
+    },
+    {
+      "url": "https://www.quirinale.it/it/notizie/dichiarazione-presidente-mattarella-occasione-giornata-internazionale-diritti-infanzia-adolescenza-6",
+      "status": 200
     }
   ],
-  "message": "HTTP 403: accesso limitato dalla fonte",
-  "httpStatus": 403,
-  "failedUrl": "https://www.quirinale.it/robots.txt",
-  "durationSeconds": 0.36
+  "message": "Browser HTTP 403",
+  "candidateSamples": [
+    {
+      "url": "https://www.quirinale.it/it/notizie/mattarella-assemblea-nazionale-confederazione-nazionale-artigianato-piccola-media-impresa",
+      "title": "Mattarella all’assemblea nazionale della Confederazione Nazionale dell’Artigianato e della Piccola e Media Impresa Il Presidente della Repubblica, Sergio Mattarella, ha partecipato, alla Nuova Fiera di Roma, all’assemblea nazionale della Confederazione Nazionale dell’Artigianato e della Piccola e Me",
+      "h1": "Mattarella all’assemblea nazionale della Confederazione Nazionale dell’Artigianato e della Piccola e Media Impresa",
+      "dates": [
+        {
+          "tag": "span",
+          "class": [
+            "data-luogo"
+          ],
+          "text": "Roma, 20/11/2026",
+          "datetime": null
+        },
+        {
+          "tag": "p",
+          "class": [
+            "date-label"
+          ],
+          "text": "Roma, 20/11/2026 (II mandato)",
+          "datetime": null
+        }
+      ]
+    },
+    {
+      "url": "https://www.quirinale.it/it/notizie/dichiarazione-presidente-mattarella-occasione-giornata-internazionale-diritti-infanzia-adolescenza-6",
+      "title": "foto d'archivio",
+      "h1": "Dichiarazione del Presidente Mattarella in occasione della Giornata Internazionale dei Diritti dell’Infanzia e dell’Adolescenza",
+      "dates": [
+        {
+          "tag": "p",
+          "class": [
+            "date-label"
+          ],
+          "text": "Roma, 20/11/2026 (II mandato)",
+          "datetime": null
+        }
+      ]
+    },
+    {
+      "url": "https://www.quirinale.it/it/notizie/consegnati-quirinale-premi-balzan-2026",
+      "title": "Il Presidente Sergio Mattarella con i vincitori del Premio Balzan 2026",
+      "h1": "Consegnati al Quirinale i Premi Balzan 2026",
+      "dates": [
+        {
+          "tag": "p",
+          "class": [
+            "date-label"
+          ],
+          "text": "Roma, 19/11/2026 (II mandato)",
+          "datetime": null
+        }
+      ]
+    },
+    {
+      "url": "https://www.quirinale.it/it/notizie/cordoglio-presidente-mattarella-per-scomparsa-corrado-augias-1",
+      "title": "foto d'archivio",
+      "h1": "Il cordoglio del Presidente Mattarella per la scomparsa di Corrado Augias",
+      "dates": [
+        {
+          "tag": "p",
+          "class": [
+            "date-label"
+          ],
+          "text": "Roma, 19/11/2026 (II mandato)",
+          "datetime": null
+        }
+      ]
+    },
+    {
+      "url": "https://www.quirinale.it/it/notizie/mattarella-ha-consegnato-premi-presidente-repubblica-2025",
+      "title": "Il Presidente della Repubblica Sergio Mattarella in occasione della consegna dei Premi “Presidente della Repubblica” per l’anno 2025 dell’Accademia Nazionale dei Lincei, dell’Accademia Nazionale di San Luca e dell’Accademia Nazionale di Santa Cecilia",
+      "h1": "Mattarella ha consegnato i Premi \"Presidente della Repubblica\" 2025",
+      "dates": [
+        {
+          "tag": "p",
+          "class": [
+            "date-label"
+          ],
+          "text": "Roma, 19/11/2026 (II mandato)",
+          "datetime": null
+        }
+      ]
+    },
+    {
+      "url": "https://www.quirinale.it/it/notizie/nostra-repubblica-compie-ottant-anni-1",
+      "title": "I Volti della Repubblica",
+      "h1": "La nostra Repubblica compie Ottant’anni",
+      "dates": [
+        {
+          "tag": "p",
+          "class": [
+            "date-label"
+          ],
+          "text": "Roma, 24/05/2026 (II mandato)",
+          "datetime": null
+        }
+      ]
+    }
+  ],
+  "candidateCount": 12,
+  "datedCount": 0,
+  "listingUrl": "https://www.quirinale.it/",
+  "durationSeconds": 3.77
 }
