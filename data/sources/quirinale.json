@@ -4,7 +4,7 @@
   "sourceId": "quirinale",
   "originUrl": "https://www.quirinale.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-22T18:05:56.910865Z",
+  "collectedAt": "2026-11-22T23:53:35.821581Z",
   "status": "blocked",
   "diagnosticCode": "access_restricted",
   "method": "html",
@@ -42,17 +42,9 @@
     {
       "url": "https://www.quirinale.it/it/notizie/nostra-repubblica-compie-ottant-anni-1",
       "status": 200
-    },
-    {
-      "url": "https://www.quirinale.it/it/notizie/mattarella-assemblea-nazionale-confederazione-nazionale-artigianato-piccola-media-impresa",
-      "status": 200
-    },
-    {
-      "url": "https://www.quirinale.it/it/notizie/dichiarazione-presidente-mattarella-occasione-giornata-internazionale-diritti-infanzia-adolescenza-6",
-      "status": 200
     }
   ],
-  "message": "Browser HTTP 403",
+  "message": "Verifica interattiva richiesta",
   "candidateSamples": [
     {
       "url": "https://www.quirinale.it/it/notizie/mattarella-assemblea-nazionale-confederazione-nazionale-artigianato-piccola-media-impresa",
@@ -156,5 +148,5 @@
   "candidateCount": 12,
   "datedCount": 0,
   "listingUrl": "https://www.quirinale.it/",
-  "durationSeconds": 4.17
+  "durationSeconds": 4.36
 }

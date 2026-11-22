@@ -4,17 +4,17 @@
   "sourceId": "piu-uno",
   "originUrl": "https://piu.uno/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-22T18:05:53.904747Z",
+  "collectedAt": "2026-11-22T23:53:35.793061Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
-      "title": "Appuntamento a Chieti con Franco Gabrielli · Eventi · Più Uno",
-      "url": "https://piu.uno/partecipa/eventi/9-novembre-appuntamento-a-chieti-con-franco-gabrielli",
-      "excerpt": "Appuntamento a Chieti con Franco Gabrielli. Lunedì 9 novembre alle ore 17:30 presso la Sala Consiliare della Provincia di Chieti in Corso Marrucino, 97. Appuntamento a Chieti con Franco Gabrielli. Lunedì 9 novembre alle ore 17:30 presso la Sala Consiliare della Provincia di Chieti in Corso Marrucino, 97.",
-      "publishedAt": "2026-11-09T17:30:00Z",
+      "title": "Presentazione del libro “Cosa sarà” di Ernesto Maria Ruffini · Eventi · Più Uno",
+      "url": "https://piu.uno/partecipa/eventi/21-novembre-presentazione-del-libro-cosa-sara-di-ernesto-maria-ruffini",
+      "excerpt": "Più Uno invita alla presentazione del libro di Ernesto Maria Ruffini «Cosa sarà. Appello per un Paese più uguale», con la prefazione di Romano Prodi (Donzelli editore). Sabato 21 novembre 2026 alle ore 15:30 nella Sala Josef della Casa Kolping, a Bolzano. Modera Mauro Keller, direttore di TV33. Un incontro per pensare ",
+      "publishedAt": "2026-11-21T15:30:00Z",
       "dateEvidence": "html:publication-time"
     }
   ],
@@ -48,7 +48,7 @@
       "status": 200
     },
     {
-      "url": "https://piu.uno/partecipa/eventi/9-novembre-appuntamento-a-chieti-con-franco-gabrielli",
+      "url": "https://piu.uno/partecipa/eventi/21-novembre-presentazione-del-libro-cosa-sara-di-ernesto-maria-ruffini",
       "status": 200
     }
   ],
@@ -57,5 +57,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://piu.uno/",
-  "durationSeconds": 3.7
+  "durationSeconds": 3.72
 }

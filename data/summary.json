@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T18:06:17.981368+00:00",
+  "generatedAt": "2026-11-22T23:53:53.572115+00:00",
   "sourceCount": 67,
-  "ok": 36,
-  "items": 174,
+  "ok": 35,
+  "items": 154,
   "results": [
     {
       "sourceId": "amnesty",
@@ -77,13 +77,13 @@
     },
     {
       "sourceId": "cnr",
-      "status": "ok",
-      "method": "rss",
-      "diagnosticCode": null,
-      "message": "Feed ufficiale letto; date di pubblicazione verificate.",
+      "status": "error",
+      "method": "html",
+      "diagnosticCode": "connection_error",
+      "message": "SSLError",
       "candidateCount": null,
       "datedCount": null,
-      "itemCount": 20
+      "itemCount": 0
     },
     {
       "sourceId": "coldiretti",
@@ -590,7 +590,7 @@
       "status": "blocked",
       "method": "html",
       "diagnosticCode": "access_restricted",
-      "message": "Browser HTTP 403",
+      "message": "Verifica interattiva richiesta",
       "candidateCount": 12,
       "datedCount": 0,
       "itemCount": 0
@@ -631,7 +631,7 @@
       "method": "crawl4ai",
       "diagnosticCode": "parsing_error",
       "message": "Pagina accessibile, ma nessuna notizia con data di pubblicazione verificabile.",
-      "candidateCount": 7,
+      "candidateCount": 0,
       "datedCount": 0,
       "itemCount": 0
     },

@@ -4,24 +4,24 @@
   "sourceId": "amnesty",
   "originUrl": "https://www.amnesty.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-22T18:04:38.956501Z",
+  "collectedAt": "2026-11-22T23:52:26.943204Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
+      "title": "Cop31, fermata la “carta degli inquinatori”",
+      "url": "https://www.amnesty.it/cop31-fermata-la-carta-degli-inquinatori/",
+      "excerpt": "La Cop31 è stata un colossale fallimento, ma respingere la pericolosa ‘decisione quadro’ è stato un importante atto di resistenza.",
+      "publishedAt": "2026-11-22T19:18:01Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
       "title": "Tunisia: cinque anni di carcere per Sihem Ben Sedrine",
       "url": "https://www.amnesty.it/tunisia-cinque-anni-di-carcere-per-sihem-ben-sedrine/",
       "excerpt": "La condanna di Sihem Ben Sedrine rappresenta un evidente tentativo di screditare le conclusioni della Commissione per la verità e la dignità.",
       "publishedAt": "2026-11-20T12:01:53Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Storico verdetto della Corte internazionale di giustizia sul genocidio contro i rohingya in Myanmar",
-      "url": "https://www.amnesty.it/storico-verdetto-della-corte-internazionale-di-giustizia-sul-genocidio-contro-i-rohingya-in-myanmar/",
-      "excerpt": "Una sentenza storica stabilisce che le autorità di Myanmar hanno commesso il crimine di genocidio contro la popolazione rohingya.",
-      "publishedAt": "2026-11-19T12:55:13Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
@@ -58,11 +58,11 @@
       "status": 200
     },
     {
-      "url": "https://www.amnesty.it/tunisia-cinque-anni-di-carcere-per-sihem-ben-sedrine/",
+      "url": "https://www.amnesty.it/cop31-fermata-la-carta-degli-inquinatori/",
       "status": 200
     },
     {
-      "url": "https://www.amnesty.it/storico-verdetto-della-corte-internazionale-di-giustizia-sul-genocidio-contro-i-rohingya-in-myanmar/",
+      "url": "https://www.amnesty.it/tunisia-cinque-anni-di-carcere-per-sihem-ben-sedrine/",
       "status": 200
     }
   ],
@@ -90,5 +90,5 @@
   "candidateCount": 12,
   "datedCount": 3,
   "listingUrl": "https://www.amnesty.it/",
-  "durationSeconds": 6.29
+  "durationSeconds": 6.17
 }

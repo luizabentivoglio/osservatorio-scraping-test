@@ -4,12 +4,19 @@
   "sourceId": "la-stampa",
   "originUrl": "https://www.lastampa.it/",
   "configuredFeedUrl": "https://www.lastampa.it/rss/copertina.xml",
-  "collectedAt": "2026-11-22T18:05:29.272806Z",
+  "collectedAt": "2026-11-22T23:53:12.105598Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.lastampa.it/rss/copertina.xml",
   "items": [
+    {
+      "title": "Alcaraz piega Zverev in due set, è lui il re delle Atp Finals",
+      "url": "https://www.lastampa.it/sport/speciali/atp-finals-2026/2026/11/22/news/alcaraz_batte_zverev_vince_atp_finals_torino-15806128/",
+      "excerpt": "Una battaglia in due set. La serata iniziata con l’inno italiano cantato da Bocelli",
+      "publishedAt": "2026-11-22T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "Dai fischi al poker: la Juventus travolge il Venezia 4-0. Woltemade show/ Le pagelle",
       "url": "https://www.lastampa.it/sport/2026/11/22/news/juventu_venezia_risultato_finale_gol_partita_serie_a-15805879/",
@@ -32,6 +39,34 @@
       "dateEvidence": "feed:published"
     },
     {
+      "title": "De Gennaro, il segreto di Totuccio Contorno: “Siamo nelle mani di Dio”. Cosa c’era nell’hard disk",
+      "url": "https://www.lastampa.it/cronaca/2026/11/22/news/de-gennaro-totuccio-contorno-hard-disk-rubato-segreti-inchiesta-15805764/",
+      "excerpt": "L’inchiesta della Procura di Caltanissetta ricostruisce la gestione «opaca» del collaboratore di giustizia. L’hard disk rubato, i documenti compromettenti e il timore che Totuccio potesse rivelare segreti scomodi",
+      "publishedAt": "2026-11-22T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Caltanissetta, la Procura e lo scontro con i magistrati antimafia: da Pignatone a Scarpinato",
+      "url": "https://www.lastampa.it/cronaca/2026/11/22/news/caltanissetta_la_procura_e_lo_scontro_con_i_magistrati_antimafia_da_pignatone_a_scarpinato-15805574/",
+      "excerpt": "Le indagini della magistratura nissena sui colleghi palermitani",
+      "publishedAt": "2026-11-22T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "De Gennaro, il superpoliziotto dai trionfi con Falcone ai veleni di Palermo",
+      "url": "https://www.lastampa.it/cronaca/2026/11/22/news/de_gennaro_il_superpoliziotto_dai_trionfi_con_falcone_ai_veleni_di_palermo-15805557/",
+      "excerpt": "Contribuì al Maxiprocesso a Cosa nostra. Criticato per i «sistemi sbrigativi»",
+      "publishedAt": "2026-11-22T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "De Gennaro e quella confidenza fatta a Casini: \"Se non fosse per mia moglie mi sparerei\"",
+      "url": "https://www.lastampa.it/cronaca/2026/11/22/news/de_gennaro_e_quella_confidenza_fatta_a_casini_se_non_fosse_per_mia_moglie_mi_sparerei-15805617/",
+      "excerpt": "I figli adesso vogliono che venga ristabilita la verità e riscattato l’onore del padre",
+      "publishedAt": "2026-11-22T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
       "title": "Il disastro della Cop 31: cosa (non) si è deciso e perché il vertice di Antalya è fallito",
       "url": "https://www.lastampa.it/energie/2026/11/22/news/il_disastro_della_cop_31_cosa_non_si_e_deciso_al_vertice_di_antalya-15805841/",
       "excerpt": "La conferenza sul clima si chiude senza accordo: l'Unione europea e altri Paesi respingono la bozza finale, giudicata poco ambiziosa. I negoziati rischiano lo stop fino al prossimo anno in Etiopia. Il precedente è Copenaghen 2009",
@@ -49,55 +84,6 @@
       "title": "La Terra brucia: 145 anni di riscaldamento globale nella macchina del tempo della Nasa",
       "url": "https://www.lastampa.it/esteri/2026/11/22/video/la_cop_31_fallisce_la_terra_brucia_145_anni_di_riscaldamento_globale_nella_macchina_del_tempo_della_nasa-15805929/",
       "excerpt": "La COP31 di Antalya si chiude senza accordo, mentre il pianeta continua a scaldarsi. L'Unione europea e altri Paesi hanno respinto il documento finale, che non conteneva riferimenti ai combustibili fossili. Il fallimento del vertice sul clima arriva mentre la Nasa mostra, attraverso la sua macchina del tempo climatica,",
-      "publishedAt": "2026-11-22T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "De Gennaro, il segreto di Totuccio Contorno: “Siamo nelle mani di Dio”. Cosa c’era nell’hard disk",
-      "url": "https://www.lastampa.it/cronaca/2026/11/22/news/de-gennaro-totuccio-contorno-hard-disk-rubato-segreti-inchiesta-15805764/",
-      "excerpt": "L’inchiesta della Procura di Caltanissetta ricostruisce la gestione «opaca» del collaboratore di giustizia. L’hard disk rubato, i documenti compromettenti e il timore che Totuccio potesse rivelare segreti scomodi",
-      "publishedAt": "2026-11-22T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "De Gennaro e quella confidenza fatta a Casini: \"Se non fosse per mia moglie mi sparerei\"",
-      "url": "https://www.lastampa.it/cronaca/2026/11/22/news/de_gennaro_e_quella_confidenza_fatta_a_casini_se_non_fosse_per_mia_moglie_mi_sparerei-15805617/",
-      "excerpt": "I figli adesso vogliono che venga ristabilita la verità e riscattato l’onore del padre",
-      "publishedAt": "2026-11-22T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "De Gennaro, il superpoliziotto dai trionfi con Falcone ai veleni di Palermo",
-      "url": "https://www.lastampa.it/cronaca/2026/11/22/news/de_gennaro_il_superpoliziotto_dai_trionfi_con_falcone_ai_veleni_di_palermo-15805557/",
-      "excerpt": "Contribuì al Maxiprocesso a Cosa nostra. Criticato per i «sistemi sbrigativi»",
-      "publishedAt": "2026-11-22T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Lo sconcerto del governo: “Massacro di media e toghe”. Forza Italia: “Più sanzioni”",
-      "url": "https://www.lastampa.it/cronaca/2026/11/22/news/lo_sconcerto_del_governo_massacro_di_media_e_toghe_forza_italia_piu_sanzioni-15805627/",
-      "excerpt": "Meloni: scioccata. I vicepremier: De Gennaro processato fuori dai tribunali. E il Pd accusa la Commissione Antimafia: ha creato un clima tossico",
-      "publishedAt": "2026-11-22T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Caltanissetta, la Procura e lo scontro con i magistrati antimafia: da Pignatone a Scarpinato",
-      "url": "https://www.lastampa.it/cronaca/2026/11/22/news/caltanissetta_la_procura_e_lo_scontro_con_i_magistrati_antimafia_da_pignatone_a_scarpinato-15805574/",
-      "excerpt": "Le indagini della magistratura nissena sui colleghi palermitani",
-      "publishedAt": "2026-11-22T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Bianco: “Volli De Gennaro a capo della polizia. È stato dipinto come un traditore, ma ha servito lo Stato”",
-      "url": "https://www.lastampa.it/cronaca/2026/11/22/news/bianco_lo_volli_capo_polizia_dipinto_traditore_servito_stato-15805636/",
-      "excerpt": "L’ex ministro dell’Interno: «In Italia la sola notizia dell’indagine rappresenta una condanna»",
-      "publishedAt": "2026-11-22T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Trump posta foto dell’abbraccio con Putin: “My friend”. E scoppia la polemica",
-      "url": "https://www.lastampa.it/esteri/2026/11/22/news/trump_posta_foto_dell_abbraccio_con_putin_my_friend_e_scoppia_la_polemica-15805933/",
-      "excerpt": "I giornalisti chiedono a Zelensky se è stato mai definito amico dal presidente Usa. La risposta: «Se è successo non me lo ricordo»",
       "publishedAt": "2026-11-22T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -137,6 +123,13 @@
       "dateEvidence": "feed:published"
     },
     {
+      "title": "Nave russa colpita in Libia da un attacco a lungo raggio ucraino. Mosca colpisce Dymer",
+      "url": "https://www.lastampa.it/esteri/2026/11/23/diretta/guerra_russia_ucraina_news_oggi-15806271/",
+      "excerpt": "Una nave russa è stata distrutta, in seguito a una esplosione e a un incendio nel porto di Bengasi: si tratta della corvetta lanciamissili 'Merkury', «forse un'altra unità della Flotta del Mar ...",
+      "publishedAt": "2026-11-22T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
       "title": "Putin, il mendicante di Shenzhen che tratta con la valigetta atomica mentre l’Europa sabota i negoziati",
       "url": "https://www.lastampa.it/esteri/2026/11/22/news/putin-shenzhen-valigetta-atomica-europa-negoziati-ucraina-15805540/",
       "excerpt": "L’imperialismo russo ha portato a una nuova età dell’oro del capitalismo",
@@ -144,16 +137,16 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Il giallo del cargo russo in fiamme nel Baltico, la rotta sulla mappa e i sospetti di Helsinki",
-      "url": "https://www.lastampa.it/esteri/2026/11/22/video/il_giallo_del_cargo_russo_in_fiamme_nel_baltico_la_rotta_sulla_mappa_e_i_sospetti_di_helsinki-15805796/",
-      "excerpt": "Una mappa animata di MarineTraffic ricostruisce la rotta della Sparta II, il cargo russo diretto a Kaliningrad. Le foto della Guardia di frontiera finlandese mostrano il fumo che sale dalla nave e, nella notte, i getti d’acqua di due imbarcazioni impegnate a spegnere le fiamme. Secondo le autorità russe e finlandesi, s",
+      "title": "Trump posta foto dell’abbraccio con Putin: “My friend”. E scoppia la polemica",
+      "url": "https://www.lastampa.it/esteri/2026/11/22/news/trump_posta_foto_dell_abbraccio_con_putin_my_friend_e_scoppia_la_polemica-15805933/",
+      "excerpt": "I giornalisti chiedono a Zelensky se è stato mai definito amico dal presidente Usa. La risposta: «Se è successo non me lo ricordo»",
       "publishedAt": "2026-11-22T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Nel tunnel dei Pasdaran, l'Iran svela il lanciatore per due missili in un colpo solo",
-      "url": "https://www.lastampa.it/esteri/2026/11/22/video/nel_tunnel_dei_pasdaran_liran_svela_il_lanciatore_per_due_missili_in_un_colpo_solo-15805822/",
-      "excerpt": "Due missili affiancati su un’unica rampa. Secondo la tv di Stato iraniana, il nuovo lanciatore dei Guardiani della rivoluzione può trasportare entrambi i missili, a propellente liquido, e farli partire nello stesso istante. Nel servizio diffuso il 21 novembre, il sistema compare in fotografia. Le riprese mostrano invec",
+      "title": "Il giallo del cargo russo in fiamme nel Baltico, la rotta sulla mappa e i sospetti di Helsinki",
+      "url": "https://www.lastampa.it/esteri/2026/11/22/video/il_giallo_del_cargo_russo_in_fiamme_nel_baltico_la_rotta_sulla_mappa_e_i_sospetti_di_helsinki-15805796/",
+      "excerpt": "Una mappa animata di MarineTraffic ricostruisce la rotta della Sparta II, il cargo russo diretto a Kaliningrad. Le foto della Guardia di frontiera finlandese mostrano il fumo che sale dalla nave e, nella notte, i getti d’acqua di due imbarcazioni impegnate a spegnere le fiamme. Secondo le autorità russe e finlandesi, s",
       "publishedAt": "2026-11-22T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -182,6 +175,13 @@
       "title": "Isabella Rossellini: “Da mio padre Roberto i giovani imparino semplicità e coraggio”",
       "url": "https://www.lastampa.it/spettacoli/2026/11/22/news/da_mio_padre_roberto_i_giovani_imparino_semplicita_e_coraggio-15805435/",
       "excerpt": "Il Film Forum di New York inaugura la rassegna Rossellini 120Una grande rassegna per uno degli autori più amati dai cineasti",
+      "publishedAt": "2026-11-22T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Esposito: “Il mio Piedone e il caro affitti”",
+      "url": "https://www.lastampa.it/spettacoli/2026/11/23/news/esposito_il_mio_piedone_e_il_caro_affitti-15806051/",
+      "excerpt": "Da stasera l’erede di Bud Spencer torna su Sky Cinema e su NOW",
       "publishedAt": "2026-11-22T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -270,24 +270,24 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "In moto contro un camion, muore un centauro nell’area industriale di Vercelli",
-      "url": "https://www.lastampa.it/vercelli/2026/11/22/news/scontro_moto_camion_muore_centauro-15806061/",
-      "excerpt": "Un motociclista è morto, questo pomeriggio attorno alle 18, dopo essersi scontrato con frontalmente contro un camion in via Famiglia Iona, zona industriale di ...",
-      "publishedAt": "2026-11-22T00:00:00Z",
+      "title": "Stefano De Martino, Sanremo è già pazza: bagno di folla per la targa di Sal Da Vinci",
+      "url": "https://www.lastampa.it/imperia-sanremo/2026/11/21/video/stefano_de_martino_sanremo_e_gia_pazza_bagno_di_folla_per_la_targa_di_sal_da_vinci_video-15805117/",
+      "excerpt": "Bagno di folla e scene di delirio per Stefano De Martino: la prima uscita ufficiale per le vie di Sanremo ha registrato una grande partecipazione di fan che hanno cercato di avvicinarlo per foto e autografi. La posa della targa della canzone vincitrice dello scorso anno \"Per sempre Sì\" di Sal Da Vinci, ha visto il cond",
+      "publishedAt": "2026-11-21T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Quando il posto fisso va stretto. Sei anni in van per l’Europa a insegnare il vivere green",
-      "url": "https://www.lastampa.it/cuneo/2026/11/22/news/quando_il_posto_fisso_va_stretto-15805482/",
-      "excerpt": "L’avventura di una giovane coppia cuneese iniziata nel 2020 ha dato vita a un’associazione e una mostra che apre oggi a Fossano",
-      "publishedAt": "2026-11-22T00:00:00Z",
+      "title": "Quando l’amore porta il peso del passato: anatomia dell’inizio faticoso di una nuova relazione",
+      "url": "https://www.lastampa.it/speciale/benessere/amore-non-e-solo-amare/2026/11/21/news/peso_passato_amore_nuova_relazione-15804881/",
+      "excerpt": "Nuova puntata della rubrica “Amore non è solo amare” della dott.ssa Valeria Randone (www.valeriarandone.it), psicologo e sessuologo clinico. Se avete domande scrivete a info@valeriarandone.it",
+      "publishedAt": "2026-11-21T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Birrificio Sempione, i ricordi di uno degli ultimi dipendenti: “Che dispiacere vederlo ridotto così”",
-      "url": "https://www.lastampa.it/verbano-cusio-ossola/2026/11/22/news/birrificio_sempione_azienda_verbania_ricordi_dipendente_tino_tiozzo-15805646/",
-      "excerpt": "Tino Tiozzo, classe 1937, ricorda l’azienda di Verbania che ha interrotto la produzione nel 1974: “E la nostra birra era definita tra le dieci migliori d’Italia”",
-      "publishedAt": "2026-11-22T00:00:00Z",
+      "title": "Nel traffico di Roma con la guida assistita, il video con cui Tesla ringrazia l’Italia",
+      "url": "https://www.lastampa.it/tech/2026/11/21/video/tesla_video_roma_guida_assistita_ringrazia_italia_musk_salvini-15805072/",
+      "excerpt": "Una Tesla percorre le strade di Roma e una telecamera riprende il tragitto dall’abitacolo. È il video che Tesla ha pubblicato su X il 20 novembre per ringraziare l’Italia dopo il via libera alla guida assistita, annunciato quel giorno dal ministro dei Trasporti Matteo Salvini. Il sistema può agire sullo sterzo e regola",
+      "publishedAt": "2026-11-21T00:00:00Z",
       "dateEvidence": "feed:published"
     }
   ],
@@ -302,5 +302,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 1.05
+  "durationSeconds": 0.83
 }

@@ -4,15 +4,22 @@
   "sourceId": "il-post",
   "originUrl": "https://www.ilpost.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-22T18:05:25.472766Z",
+  "collectedAt": "2026-11-22T23:53:08.659998Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
+      "title": "Paola Egonu è diventata la miglior realizzatrice di sempre nel campionato italiano femminile di pallavolo",
+      "url": "https://www.ilpost.it/2026/11/22/egonu-realizzatrice-pallavolo/?bitPosition=1",
+      "excerpt": "Paola Egonu è diventata la miglior realizzatrice di sempre nel campionato italiano femminile di pallavolo Paola Egonu, una delle pallavoliste più forti e più vincenti in attività, è diventata domenica la miglior realizzatrice di sempre nel campionato italiano femminile di pallavolo. Durante la partita contro Conegliano",
+      "publishedAt": "2026-11-22T17:47:53Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
       "title": "In Bosnia il figlio di Milorad Dodik è stato nominato primo ministro della Republika Srpska, proseguendo una discussa dinastia politica",
-      "url": "https://www.ilpost.it/2026/11/22/dodik-figlio-bosnia/?bitPosition=1",
+      "url": "https://www.ilpost.it/2026/11/22/dodik-figlio-bosnia/?bitPosition=2",
       "excerpt": "In Bosnia il figlio di Milorad Dodik è stato nominato primo ministro della Republika Srpska, proseguendo una discussa dinastia politica Il figlio del politico nazionalista serbo Milorad Dodik, Igor Dodik, è stato nominato primo ministro della Republika Srpska, una delle due principali entità che costituiscono la Bosnia",
       "publishedAt": "2026-11-22T17:03:10Z",
       "dateEvidence": "jsonld:datePublished"
@@ -25,17 +32,10 @@
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "Il governo della Libia orientale ha detto che una nave russa è stata attaccata nel porto di Bengasi",
-      "url": "https://www.ilpost.it/2026/11/22/libia-bengasi-sospetto-attacco-nave-russa/?bitPosition=2",
-      "excerpt": "Il governo della Libia orientale ha detto che una nave russa è stata attaccata nel porto di Bengasi Il governo di Bengasi, che controlla la parte orientale della Libia, ha fatto sapere che una nave russa ormeggiata nel porto di Bengasi è stata attaccata da alcuni droni: l’attacco ha causato un’esplosione e un incendio ",
+      "title": "Una nave da guerra russa è stata attaccata da droni nel porto di Bengasi",
+      "url": "https://www.ilpost.it/2026/11/22/libia-bengasi-sospetto-attacco-nave-russa/?bitPosition=3",
+      "excerpt": "Una nave da guerra russa è stata attaccata da droni nel porto di Bengasi Il governo di Bengasi, che controlla la parte orientale della Libia, ha fatto sapere che una nave russa ormeggiata nel porto di Bengasi è stata attaccata da alcuni droni: l’attacco ha causato un’esplosione e un incendio che hanno ferito alcune per",
       "publishedAt": "2026-11-22T15:23:16Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "L’ICE ha arrestato due persone che stavano salendo su un aereo all’aeroporto di Seattle",
-      "url": "https://www.ilpost.it/2026/11/22/ice-arresto-due-persone-imbarchi-aeroporto-seattle/?bitPosition=3",
-      "excerpt": "L’ICE ha arrestato due persone che stavano salendo su un aereo all’aeroporto di Seattle Alcuni agenti dell’ICE in borghese hanno arrestato due persone mentre stavano per salire su un volo per Los Angeles all’aeroporto di Seattle-Tacoma, negli Stati Uniti. Contro l’intervento e le sue modalità si sono espressi sia i res",
-      "publishedAt": "2026-11-22T10:32:14Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
@@ -75,15 +75,15 @@
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/22/dodik-figlio-bosnia/?bitPosition=1",
+      "url": "https://www.ilpost.it/2026/11/22/egonu-realizzatrice-pallavolo/?bitPosition=1",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/22/libia-bengasi-sospetto-attacco-nave-russa/?bitPosition=2",
+      "url": "https://www.ilpost.it/2026/11/22/dodik-figlio-bosnia/?bitPosition=2",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/22/ice-arresto-due-persone-imbarchi-aeroporto-seattle/?bitPosition=3",
+      "url": "https://www.ilpost.it/2026/11/22/libia-bengasi-sospetto-attacco-nave-russa/?bitPosition=3",
       "status": 200
     }
   ],
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.ilpost.it/",
-  "durationSeconds": 3.8
+  "durationSeconds": 3.56
 }
