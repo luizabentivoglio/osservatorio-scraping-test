@@ -4,17 +4,31 @@
   "sourceId": "wwf",
   "originUrl": "https://www.wwf.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-22T10:22:22.799771Z",
+  "collectedAt": "2026-11-22T18:06:10.989605Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
+      "title": "COP31 senza accordo, il mondo non può restare ostaggio delle lobby fossili",
+      "url": "https://www.wwf.it/pandanews/clima/cop31-senza-accordo-il-mondo-non-puo-restare-ostaggio-delle-lobby-fossili/",
+      "excerpt": "Le resistenze sulla transizione dai combustibili fossili bloccano il negoziato. Europa e Paesi più ambiziosi guidino una reazione forte",
+      "publishedAt": "2026-11-22T13:43:25Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
       "title": "C’era una volta una seppiolina",
       "url": "https://www.wwf.it/pandanews/animali/cera-una-volta-una-seppiolina/",
       "excerpt": "Per deporre le uova, le seppie cercano superfici adatte. In mare, però, trovano sempre più spesso qualcosa di diverso: come nasse e cogolli",
       "publishedAt": "2026-11-21T08:00:00Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "Giornata nazionale dell’albero, servono città più verdi e più ricche di biodiversità",
+      "url": "https://www.wwf.it/pandanews/ambiente/giornata-nazionale-dellalbero-servono-citta-piu-verdi-e-piu-ricche-di-biodiversita/",
+      "excerpt": "Dalla foresta ecuadoriana alle nostre città: ogni albero è un ecosistema complesso indispensabile contro isole di calore e crisi climatica",
+      "publishedAt": "2026-11-21T07:00:00Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
@@ -37,20 +51,6 @@
       "excerpt": "Nell’ultimo giorno ufficiale della COP3, il WWF Italia esprime preoccupazione per la seconda bozza della decisione finale",
       "publishedAt": "2026-11-20T10:02:51Z",
       "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Insetti impollinatori, avviato a Roma il processo partecipato",
-      "url": "https://www.wwf.it/pandanews/ambiente/insetti-impollinatori-processo-partecipato/",
-      "excerpt": "L’iniziativa, organizzata dall’ISPRA e rientrante nel progetto LIFE PolliNetwork, ha coinvolto circa cento partecipanti",
-      "publishedAt": "2026-11-20T08:50:35Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Parco della Costa Teatina: il WWF diffida il ministero dell’Ambiente",
-      "url": "https://www.wwf.it/pandanews/societa/politica/parco-costa-teatina-wwf-diffida-ministero/",
-      "excerpt": "L'area protetta deve essere istituita da più di un quarto di secolo e dopo la sentenza del TAR non ci sono più alibi per ulteriori ritardi",
-      "publishedAt": "2026-11-19T15:55:03Z",
-      "dateEvidence": "jsonld:datePublished"
     }
   ],
   "attempts": [
@@ -63,7 +63,15 @@
       "status": 200
     },
     {
+      "url": "https://www.wwf.it/pandanews/clima/cop31-senza-accordo-il-mondo-non-puo-restare-ostaggio-delle-lobby-fossili/",
+      "status": 200
+    },
+    {
       "url": "https://www.wwf.it/pandanews/animali/cera-una-volta-una-seppiolina/",
+      "status": 200
+    },
+    {
+      "url": "https://www.wwf.it/pandanews/ambiente/giornata-nazionale-dellalbero-servono-citta-piu-verdi-e-piu-ricche-di-biodiversita/",
       "status": 200
     },
     {
@@ -77,14 +85,6 @@
     {
       "url": "https://www.wwf.it/pandanews/clima/cop31-la-seconda-bozza-della-decisione-finale-fa-passi-indietro-sui-punti-decisivi/",
       "status": 200
-    },
-    {
-      "url": "https://www.wwf.it/pandanews/ambiente/insetti-impollinatori-processo-partecipato/",
-      "status": 200
-    },
-    {
-      "url": "https://www.wwf.it/pandanews/societa/politica/parco-costa-teatina-wwf-diffida-ministero/",
-      "status": 200
     }
   ],
   "message": "6 notizie recenti con data verificata; copertura parziale.",
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.wwf.it/",
-  "durationSeconds": 4.16
+  "durationSeconds": 6.99
 }

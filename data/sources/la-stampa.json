@@ -4,12 +4,54 @@
   "sourceId": "la-stampa",
   "originUrl": "https://www.lastampa.it/",
   "configuredFeedUrl": "https://www.lastampa.it/rss/copertina.xml",
-  "collectedAt": "2026-11-22T10:21:49.634281Z",
+  "collectedAt": "2026-11-22T18:05:29.272806Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.lastampa.it/rss/copertina.xml",
   "items": [
+    {
+      "title": "Dai fischi al poker: la Juventus travolge il Venezia 4-0. Woltemade show/ Le pagelle",
+      "url": "https://www.lastampa.it/sport/2026/11/22/news/juventu_venezia_risultato_finale_gol_partita_serie_a-15805879/",
+      "excerpt": "Nel lunch match della 12ª giornata, i bianconeri si impongono per 4-0 grazie a una ripresa di gol e spettacolo. Spalletti festeggia la seicentesima in A allontanando (un po’) l’ombra di Conte. Oltre al tedesco segnano Koopmeiners, Cabal e Kolo Muani. Ansia per Alajbegovic infortunato",
+      "publishedAt": "2026-11-22T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Leclerc-Hamilton, veleno Ferrari: cosa è accaduto? In arrivo il giro di vite",
+      "url": "https://www.lastampa.it/sport/2026/11/22/news/leclerc-hamilton-lite-ferrari-vasseur-decalogo-qatar-15805910/",
+      "excerpt": "L’ennesimo scontro tra le Rosse ha mandato su tutte le furie i vertici del Cavallino. Vasseur: «Charles non è stato professionale, sono stato piuttosto severo». Dal prossimo Gp in Qatar un decalogo per evitare nuove figuracce",
+      "publishedAt": "2026-11-22T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Motogp Portogallo: primo Bezzecchi, Marquez vince il 10° Mondiale",
+      "url": "https://www.lastampa.it/sport/2026/11/22/news/motogp_portogallo_primo_bezzecchi_marquez_vince_il_10_mondiale-15805919/",
+      "excerpt": "Questa volta non è bastata una tripletta firmata Aprilia (Bezzecchi – Martin - Fernandez) nel Gran Premio del Portogallo per fare rimandare la festa a Marquez. Marquez ...",
+      "publishedAt": "2026-11-22T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Il disastro della Cop 31: cosa (non) si è deciso e perché il vertice di Antalya è fallito",
+      "url": "https://www.lastampa.it/energie/2026/11/22/news/il_disastro_della_cop_31_cosa_non_si_e_deciso_al_vertice_di_antalya-15805841/",
+      "excerpt": "La conferenza sul clima si chiude senza accordo: l'Unione europea e altri Paesi respingono la bozza finale, giudicata poco ambiziosa. I negoziati rischiano lo stop fino al prossimo anno in Etiopia. Il precedente è Copenaghen 2009",
+      "publishedAt": "2026-11-22T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Clima, il fallimento della Cop31: ecco lo scenario che preoccupa gli scienziati e i rischi per l’Italia",
+      "url": "https://www.lastampa.it/cronaca/2026/11/22/news/cop31-fallimento-clima-italia-rischi-alluvioni-siccita-neve-alpi-15805936/",
+      "excerpt": "ll mancato accordo di Antalya riaccende l'allarme sul riscaldamento globale. Il Mediterraneo è tra le regioni più vulnerabili: temperature in aumento, precipitazioni estreme e siccità mettono sotto pressione il territorio italiano. E sulle Alpi gli inverni cambiano volto",
+      "publishedAt": "2026-11-22T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "La Terra brucia: 145 anni di riscaldamento globale nella macchina del tempo della Nasa",
+      "url": "https://www.lastampa.it/esteri/2026/11/22/video/la_cop_31_fallisce_la_terra_brucia_145_anni_di_riscaldamento_globale_nella_macchina_del_tempo_della_nasa-15805929/",
+      "excerpt": "La COP31 di Antalya si chiude senza accordo, mentre il pianeta continua a scaldarsi. L'Unione europea e altri Paesi hanno respinto il documento finale, che non conteneva riferimenti ai combustibili fossili. Il fallimento del vertice sul clima arriva mentre la Nasa mostra, attraverso la sua macchina del tempo climatica,",
+      "publishedAt": "2026-11-22T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "De Gennaro, il segreto di Totuccio Contorno: “Siamo nelle mani di Dio”. Cosa c’era nell’hard disk",
       "url": "https://www.lastampa.it/cronaca/2026/11/22/news/de-gennaro-totuccio-contorno-hard-disk-rubato-segreti-inchiesta-15805764/",
@@ -53,23 +95,9 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Atp Finals, il grande show",
-      "url": "https://www.lastampa.it/sport/2026/11/22/news/atp_finals_il_grande_show-15805601/",
-      "excerpt": "Torino rivendica orgogliosa il clima creato attorno alla manifestazione. Un affetto verace e sentimentale che rispetta i gesti tecnici però va oltre. Perché in questi tempi è il tennis a decidere se essere contaminato dal pop",
-      "publishedAt": "2026-11-22T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Sinner, il mistero del ginocchio e l’ombra dell’operazione. Alcaraz: “Ho imparato a fermarmi”",
-      "url": "https://www.lastampa.it/sport/2026/11/22/news/sinner_il_mistero_del_ginocchio_e_l_ombra_dell_operazione_alcaraz_ho_imparato_a_fermarmi-15805771/",
-      "excerpt": "Poco probabile l’idea di rivedere il campione altoatesino in campo in Australia",
-      "publishedAt": "2026-11-22T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Gp show a Las Vegas: trionfo Verstappen, l’ira di Vasseur su Leclerc: “Errore inaccettabile”",
-      "url": "https://www.lastampa.it/sport/2026/11/22/news/f1_verstappen_vince_il_gran_premio_di_las_vegas_antonelli_quarto-15805698/",
-      "excerpt": "Nuovo scontro tra le Ferrari: Charles (10°) penalizzato di 10 secondi per l’incidente con Lewis (7°). Record di sorpassi, Super Max precede Norris e Piastri: “Una gara folle, mai visto nulla di simile”. Quarto Antonelli, a lungo in corsa per la vittoria",
+      "title": "Trump posta foto dell’abbraccio con Putin: “My friend”. E scoppia la polemica",
+      "url": "https://www.lastampa.it/esteri/2026/11/22/news/trump_posta_foto_dell_abbraccio_con_putin_my_friend_e_scoppia_la_polemica-15805933/",
+      "excerpt": "I giornalisti chiedono a Zelensky se è stato mai definito amico dal presidente Usa. La risposta: «Se è successo non me lo ricordo»",
       "publishedAt": "2026-11-22T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -81,6 +109,20 @@
       "dateEvidence": "feed:published"
     },
     {
+      "title": "Foto dei ministri a testa in giù, Valditara contro la sindacalista Cgil. Lei: teme una studentessa?",
+      "url": "https://www.lastampa.it/politica/2026/11/22/news/foto_ministri_testa_giu_valditara_contro_sindacalista_lara_ghiglione-15805947/",
+      "excerpt": "Il ministro dell’Istruzione ha definito le immagini pubblicate da Lara Ghiglione un «messaggio violento». E ha aggiunto : «Ora risponda del suo gesto e chieda scusa»",
+      "publishedAt": "2026-11-22T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Furti in casa, i ladri 2.0 usano droni e intelligenza artificiale: come agiscono e dove colpiscono",
+      "url": "https://www.lastampa.it/cronaca/2026/11/22/news/furti_in_casa_i_ladri_20_usano_droni_e_intelligenza_artificiale_come_agiscono_e_dove_colpiscono-15805837/",
+      "excerpt": "Metodi sempre più sofisticati quelli dei topi d’appartamento, che hanno appreso alla perfezione le tecniche raffinatissime che ci lasciano a bocca aperta nelle serie tv crime, applicandole alla loro “professione”",
+      "publishedAt": "2026-11-22T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
       "title": "Torino, Franco massacrato di botte dal dipendente: dietro l’omicidio l’ombra degli stipendi non pagati",
       "url": "https://www.lastampa.it/torino/2026/11/22/news/torino-franco-zangari-omicidio-manhattan-pub-dipendente-stipendi-non-pagati-15805519/",
       "excerpt": "Il titolare del Manhattan ucciso a pugni e calci dopo una lite. La polizia arresta il cameriere",
@@ -88,37 +130,9 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Gli amici: “Franco faceva suonare anche i più inesperti e diceva: niente pensione, resto al Manhattan”",
-      "url": "https://www.lastampa.it/torino/2026/11/22/news/gli_amici_franco_faceva_suonare_anche_i_piu_inesperti_e_diceva_niente_pensione_resto_qui-15805565/",
-      "excerpt": "Il ricordo di chi ha conosciuto Zangari: “Era un presidio per il quartiere”. Il consigliere regionale Unia: “Un pezzo di Storia, un riferimento”",
-      "publishedAt": "2026-11-22T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "“Mio figlio Giuseppe è morto da eroe, Schettino oggi è solo un vigliacco libero”",
-      "url": "https://www.lastampa.it/cronaca/2026/11/22/news/padre_figlio_morto_costa_concordia_schettino-15805466/",
-      "excerpt": "Parla il padre del musicista che ha ceduto il posto sulla scialuppa a una madre e ai suoi due figli",
-      "publishedAt": "2026-11-22T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Tragedia nella notte: auto s’incendia dopo essere finita fuori strada, morto un ragazzo di 17 anni",
+      "title": "Auto fuori strada nella notte a Lenta, morto a 17 anni il biellese Giovanni Valenzisi",
       "url": "https://www.lastampa.it/vercelli/2026/11/22/news/auto_s_incendia_il_passeggero_di_17_anni_e_morto_altri_quattro_sono_feriti-15805758/",
-      "excerpt": "L’incidente è accaduto intorno alle 3,30 a Lenta. Altri quattro amici biellesi sono rimasti feriti",
-      "publishedAt": "2026-11-22T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Anni di Cop, zero risultati: il sistema del consenso paralizza la svolta verde",
-      "url": "https://www.lastampa.it/esteri/2026/11/22/news/anni_di_cop_zero_risultati_il_sistema_del_consenso_paralizza_la_svolta_verde-15805475/",
-      "excerpt": "L’idea di Bogotà e Amsterdam: tavoli ristretti per procedere",
-      "publishedAt": "2026-11-22T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Dalla marmotta all’ermellino, così la crisi climatica cambia la vita degli animali selvatici",
-      "url": "https://www.lastampa.it/rubriche/il-respiro-delle-alpi/2026/11/22/news/marmotta_ermellino_cosi_la_crisi_climatica_cambia_la_vita_degli_animali_selvatici-15805667/",
-      "excerpt": "Se ne è parlato sabato 14 novembre alla diciassettesima edizione della rassegna Meteolab al Forte di Bard, organizzata in collaborazione con la Società Meteorologica Italiana, l’Équipe Arc-en-ciel e l’Università di Trieste",
+      "excerpt": "L’incidente è accaduto intorno alle 3,30. Altri quattro amici sono feriti. Il conducente indagato per omicidio stradale",
       "publishedAt": "2026-11-22T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -130,65 +144,23 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Usa, ricercatrice di Princeton arrestata dall'Ice a Washington e portata in un centro di detenzione",
-      "url": "https://www.lastampa.it/esteri/2026/11/22/news/usa_ricercatrice_di_princeton_arrestata_dall_ice_a_washington_e_portata_in_un_centro_di_detenzione-15805702/",
-      "excerpt": "L'arresto è avvenuto giovedì 19 novembre 2026, mentre Eva Yi Xie si preparava a rientrare in New Jersey dopo aver presentato i propri studi al congresso annuale della Society for Neuroscience",
+      "title": "Il giallo del cargo russo in fiamme nel Baltico, la rotta sulla mappa e i sospetti di Helsinki",
+      "url": "https://www.lastampa.it/esteri/2026/11/22/video/il_giallo_del_cargo_russo_in_fiamme_nel_baltico_la_rotta_sulla_mappa_e_i_sospetti_di_helsinki-15805796/",
+      "excerpt": "Una mappa animata di MarineTraffic ricostruisce la rotta della Sparta II, il cargo russo diretto a Kaliningrad. Le foto della Guardia di frontiera finlandese mostrano il fumo che sale dalla nave e, nella notte, i getti d’acqua di due imbarcazioni impegnate a spegnere le fiamme. Secondo le autorità russe e finlandesi, s",
       "publishedAt": "2026-11-22T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Il reality triste delle monarchie europee",
-      "url": "https://www.lastampa.it/specchio/rubriche/cose-brutte/2026/11/22/news/il_reality_triste_delle_monarchie_europee-15802843/",
-      "excerpt": "Vabbè, io ero per Camilla. Diana aveva la mia età e mi pareva una di quelle belle ragazze bene che avevano più valore sociale di noi nerdone. Camilla girava stropicciata, stava in ...",
+      "title": "Nel tunnel dei Pasdaran, l'Iran svela il lanciatore per due missili in un colpo solo",
+      "url": "https://www.lastampa.it/esteri/2026/11/22/video/nel_tunnel_dei_pasdaran_liran_svela_il_lanciatore_per_due_missili_in_un_colpo_solo-15805822/",
+      "excerpt": "Due missili affiancati su un’unica rampa. Secondo la tv di Stato iraniana, il nuovo lanciatore dei Guardiani della rivoluzione può trasportare entrambi i missili, a propellente liquido, e farli partire nello stesso istante. Nel servizio diffuso il 21 novembre, il sistema compare in fotografia. Le riprese mostrano invec",
       "publishedAt": "2026-11-22T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "“A 70 anni mi ha lasciata per un’altra, ma ho riscoperto la felicità di essere libera”",
-      "url": "https://www.lastampa.it/specchio/rubriche/amore-moderno/2026/11/22/news/l_amore_moderno-15802916/",
-      "excerpt": "Cara Maria, sento il bisogno di scriverti per mettere ordine nei miei pensieri e sentimenti dopo quello che mi è successo quest’estate. Inizio dalla fine. Ho settant’anni e a luglio, dopo ...",
-      "publishedAt": "2026-11-22T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "I data center non sono sostenibili",
-      "url": "https://www.lastampa.it/specchio/rubriche/futura/2026/11/22/news/i_data_center_non_sono_sostenibili-15802993/",
-      "excerpt": "C’è una nuova frontiera del greenwashing: dare i voti all’inquinamento dei data center. L’Unione europea ha deciso che, dal 2027, anche i data center dovranno esibire ...",
-      "publishedAt": "2026-11-22T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "La rabbia dei gilet neri: “Il miracolo coreano siamo noi, ma perché tanta povertà?”",
-      "url": "https://www.lastampa.it/specchio/rubriche/il-reportage/2026/11/22/news/la_rabbia_dei_gilet_neri_il_miracolo_coreano_siamo_noi_ma_perche_tanta_poverta-15802983/",
-      "excerpt": "Proteste in Corea del Sud: i lavoratori chiedono una parte degli utili legati all’IA",
-      "publishedAt": "2026-11-22T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "L'ultimo saluto a Corrado Augias, oltre 10mila in fila in Campidoglio",
-      "url": "https://www.lastampa.it/cronaca/2026/11/22/news/l_ultimo_saluto_a_corrado_augias_oltre_10mila_in_fila_in_campidoglio-15805744/",
-      "excerpt": "L’omaggio al giornalista. Un flusso ininterrotto di persone, amici e i volti di politica e tv: «Grazie maestro». I funerali laici si svolgeranno in forma privata",
-      "publishedAt": "2026-11-22T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Sulla guida semi-autonoma Salvini favorisce Musk: rivolta dei ricercatori italiani",
-      "url": "https://www.lastampa.it/economia/2026/11/22/news/guida_autonoma_salvini_musk_rivolta-15805571/",
-      "excerpt": "La società Niulinx punta a veicoli senza conducente contro Tesla",
-      "publishedAt": "2026-11-22T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Le fisiologiche fluttuazioni dell'amore e del desiderio",
-      "url": "https://www.lastampa.it/speciale/benessere/amore-non-e-solo-amare/2026/11/22/video/valeria_randone_fluttuazioni_amore_desiderio_coppia-15805312/",
-      "excerpt": "\"Con mia moglie l'amore è ormai fluttuante: un giorno la desidero, un giorno no. Non è più come vent'anni fa\" scrive un lettore al giornale. Ecco l'analisi della dottoressa Valeria Randone, psicologo e sessuologo clinico a Catania, Milano e online (www.valeriarandone.it), autrice della rubrica \"Amore non è solo amare\" ",
-      "publishedAt": "2026-11-22T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Isabella Rossellini: “Da mio padre Roberto i giovani imparino semplicità e coraggio”",
-      "url": "https://www.lastampa.it/spettacoli/2026/11/22/news/da_mio_padre_roberto_i_giovani_imparino_semplicita_e_coraggio-15805435/",
-      "excerpt": "Il Film Forum di New York inaugura la rassegna Rossellini 120Una grande rassegna per uno degli autori più amati dai cineasti",
+      "title": "Dalla marmotta all’ermellino, così la crisi climatica cambia la vita degli animali selvatici",
+      "url": "https://www.lastampa.it/rubriche/il-respiro-delle-alpi/2026/11/22/news/marmotta_ermellino_cosi_la_crisi_climatica_cambia_la_vita_degli_animali_selvatici-15805667/",
+      "excerpt": "Se ne è parlato sabato 14 novembre alla diciassettesima edizione della rassegna Meteolab al Forte di Bard, organizzata in collaborazione con la Società Meteorologica Italiana, l’Équipe Arc-en-ciel e l’Università di Trieste",
       "publishedAt": "2026-11-22T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -207,9 +179,37 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Ariosto difende il nostro senno da un cielo fitto di comete artificiali",
-      "url": "https://www.lastampa.it/cultura/2026/11/22/news/ariosto_difende_ancora_il_nostro_sennoda_un_cielo_fitto_di_comete_artificiali-15805440/",
-      "excerpt": "La poesia e la letteratura come rimedio all’esasperazione della contemporaneità. Ariosto difende ancora il nostro senno da un cielo fitto di comete artificiali",
+      "title": "Isabella Rossellini: “Da mio padre Roberto i giovani imparino semplicità e coraggio”",
+      "url": "https://www.lastampa.it/spettacoli/2026/11/22/news/da_mio_padre_roberto_i_giovani_imparino_semplicita_e_coraggio-15805435/",
+      "excerpt": "Il Film Forum di New York inaugura la rassegna Rossellini 120Una grande rassegna per uno degli autori più amati dai cineasti",
+      "publishedAt": "2026-11-22T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Fuochi d’artificio e bottiglie dal corteo per Askatasuna: la polizia spara lacrimogeni",
+      "url": "https://www.lastampa.it/torino/2026/11/22/video/askatasuna_corteo_vanchiglia_fuochi_artificio_bottiglie_idranti_lacrimogeni-15805788/",
+      "excerpt": "A Torino, intorno a mezzanotte e mezza di domenica 22 novembre, dal corteo per i 30 anni di Askatasuna sono partiti fuochi d’artificio e alcune persone hanno lanciato bottiglie contro la polizia. Gli agenti hanno risposto con idranti e lacrimogeni. Da piazza Santa Giulia, dove si era tenuta la festa, alcune centinaia d",
+      "publishedAt": "2026-11-22T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "La magia della neve a Sauze d’Oulx: i fiocchi cadono, i passi scricchiolano nel silenzio",
+      "url": "https://www.lastampa.it/torino/2026/11/22/video/neve_oulx_sauze_d_oulx_alta_val_di_susa_passi_neve_fresca-15805893/",
+      "excerpt": "Cadono i fiocchi a Oulx e Sauze d’Oulx, in alta Val di Susa. Nel silenzio si distingue ogni passo di chi cammina sulla neve fresca. Le immagini dai due comuni del Torinese raccontano la nevicata anche attraverso quel suono. Domenica 22 novembre sulle Alpi piemontesi è nevicato a partire da quote comprese tra 1.100 e 1.",
+      "publishedAt": "2026-11-22T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "L'ultimo saluto a Corrado Augias, oltre 10mila in fila in Campidoglio",
+      "url": "https://www.lastampa.it/cronaca/2026/11/22/news/l_ultimo_saluto_a_corrado_augias_oltre_10mila_in_fila_in_campidoglio-15805744/",
+      "excerpt": "L’omaggio al giornalista. Un flusso ininterrotto di persone, amici e i volti di politica e tv: «Grazie maestro». I funerali laici si svolgeranno in forma privata",
+      "publishedAt": "2026-11-22T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Vinicio Capossela a Torino: “Assurdo far passare migliaia di manifestanti per vandali e terroristi”",
+      "url": "https://www.lastampa.it/spettacoli/2026/11/22/video/vinicio_capossela_torino_manifestanti_vandali_terroristi_ordine_pulizia_teatro_colosseo-15805982/",
+      "excerpt": "«Assurdo far passare migliaia di manifestanti per vandali e terroristi». Vinicio Capossela interviene sul racconto delle proteste e sul modo in cui vengono rappresentate, parlando ai microfoni de La Stampa del suo nuovo singolo “Ordine e pulizia”, un brano di denuncia che trova spazio nello spettacolo “E Morte non avrà",
       "publishedAt": "2026-11-22T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -228,6 +228,34 @@
       "dateEvidence": "feed:published"
     },
     {
+      "title": "Finte storie d'amore per costringerle a prostituirsi, la polizia sfonda la porta con l'ariete",
+      "url": "https://www.lastampa.it/esteri/2026/11/22/video/finte_storie_damore_per_costringerle_a_prostituirsi_la_polizia_sfonda_la_porta_con_lariete-15805903/",
+      "excerpt": "Dieci fermi in Romania nell’inchiesta su un gruppo che, secondo l’accusa, avrebbe adescato giovani donne fingendo relazioni sentimentali per poi costringerle a prostituirsi. La polizia ha identificato circa 20 vittime. A formare il gruppo, secondo la procura, sarebbero state cinque persone della stessa famiglia nel 202",
+      "publishedAt": "2026-11-22T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Le fisiologiche fluttuazioni dell'amore e del desiderio",
+      "url": "https://www.lastampa.it/speciale/benessere/amore-non-e-solo-amare/2026/11/22/video/valeria_randone_fluttuazioni_amore_desiderio_coppia-15805312/",
+      "excerpt": "\"Con mia moglie l'amore è ormai fluttuante: un giorno la desidero, un giorno no. Non è più come vent'anni fa\" scrive un lettore al giornale. Ecco l'analisi della dottoressa Valeria Randone, psicologo e sessuologo clinico a Catania, Milano e online (www.valeriarandone.it), autrice della rubrica \"Amore non è solo amare\" ",
+      "publishedAt": "2026-11-22T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Bigfoot, gli Usa aprono gli archivi: nel video del 1967 il mistero è in uno sguardo",
+      "url": "https://www.lastampa.it/esteri/2026/11/22/video/bigfoot_dossier_usa_filmato_1967_patterson_gimlin_fotogramma_352-15805859/",
+      "excerpt": "Orme da gigante. Misuravano 38 centimetri le impronte al centro di uno dei tre fascicoli su Bigfoot che il Servizio forestale americano ha pubblicato il 15 ottobre. Nel 1982 il biologo che le esaminò le giudicò probabilmente artificiali. Il video che ripubblichiamo oggi racconta un altro episodio. È il 20 ottobre 1967.",
+      "publishedAt": "2026-11-22T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Blitz dell'Ice sull'aereo in partenza: gli agenti trascinano via la figlia tra le urla della madre",
+      "url": "https://www.lastampa.it/esteri/2026/11/22/video/seattle_aeroporto_ice_arresti_passeggeri_ponte_imbarco_alaska_airlines-15805875/",
+      "excerpt": "Agenti a volto coperto trascinano via una persona sul ponte d’imbarco. Nel video si sente una donna gridare che stanno portando via sua figlia e che ha un permesso di lavoro. È successo sabato 21 novembre all’aeroporto di Seattle-Tacoma, mentre era in corso l’imbarco per Los Angeles. L’Ice, la polizia federale per l’im",
+      "publishedAt": "2026-11-22T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
       "title": "Cercare l’umanità in un mondo disumano. Il desiderio dei giovani, il dovere di noi adulti",
       "url": "https://www.lastampa.it/de-giovanni-risponde/2026/11/22/news/cercare_l_umanita_in_un_mondo_disumano_il_desiderio_dei_giovani_il_dovere_di_noi_adulti-15805470/",
       "excerpt": "Le contestazioni e la necessità di un progetto. Ma il confronto con il passato è fuorviante",
@@ -242,6 +270,13 @@
       "dateEvidence": "feed:published"
     },
     {
+      "title": "In moto contro un camion, muore un centauro nell’area industriale di Vercelli",
+      "url": "https://www.lastampa.it/vercelli/2026/11/22/news/scontro_moto_camion_muore_centauro-15806061/",
+      "excerpt": "Un motociclista è morto, questo pomeriggio attorno alle 18, dopo essersi scontrato con frontalmente contro un camion in via Famiglia Iona, zona industriale di ...",
+      "publishedAt": "2026-11-22T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
       "title": "Quando il posto fisso va stretto. Sei anni in van per l’Europa a insegnare il vivere green",
       "url": "https://www.lastampa.it/cuneo/2026/11/22/news/quando_il_posto_fisso_va_stretto-15805482/",
       "excerpt": "L’avventura di una giovane coppia cuneese iniziata nel 2020 ha dato vita a un’associazione e una mostra che apre oggi a Fossano",
@@ -249,44 +284,9 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Quella lotteria delle pensioni tra calcoli e ritardi: fino a un anno per ricevere il primo assegno",
-      "url": "https://www.lastampa.it/nord-ovest/2026/11/22/news/quella_lotteria_delle_pensioni_tra_calcoli_e_ritardi_fino_a_un_anno_per_ricevere_il_primo_assegno-15805421/",
-      "excerpt": "Nell’80% dei casi l’Inps liquida entro trenta giorni ma per chi ha lavorato nel pubblico o ha cambiato possono volerci mesi",
-      "publishedAt": "2026-11-22T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
       "title": "Birrificio Sempione, i ricordi di uno degli ultimi dipendenti: “Che dispiacere vederlo ridotto così”",
       "url": "https://www.lastampa.it/verbano-cusio-ossola/2026/11/22/news/birrificio_sempione_azienda_verbania_ricordi_dipendente_tino_tiozzo-15805646/",
       "excerpt": "Tino Tiozzo, classe 1937, ricorda l’azienda di Verbania che ha interrotto la produzione nel 1974: “E la nostra birra era definita tra le dieci migliori d’Italia”",
-      "publishedAt": "2026-11-22T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Nocciole dopo il boom arriva la crisi: scontro sui fondi regionali per sradicare e ripiantare",
-      "url": "https://www.lastampa.it/asti/2026/11/22/news/nocciole_boom_crisi_fondi_regionali-15805305/",
-      "excerpt": "L’associazione Ari: “Spreco di risorse pubbliche, così i contribuenti finiscono per pagare due volte”",
-      "publishedAt": "2026-11-22T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "L’omicidio Fenaroli, il primo a raccontare l’Italia del boom",
-      "url": "https://www.lastampa.it/specchio/rubriche/i-grandi-gialli/2026/11/22/news/l_omicidio_fenaroli_il_primo_a_raccontare_l_italia_del_boom-15802948/",
-      "excerpt": "Nel 1958 la clamorosa vicenda divise il Paese tra innocentisti e colpevolisti",
-      "publishedAt": "2026-11-22T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Onori e oneri",
-      "url": "https://www.lastampa.it/specchio/rubriche/strada-facendo/2026/11/22/news/onori_e_oneri-15802847/",
-      "excerpt": "È un po’ il testamento di Spiderman, l’Uomo Ragno dei fumetti, che «da un grande potere derivi anche una grande responsabilità». Anche se il cibo non è il mio sapere preferito, ...",
-      "publishedAt": "2026-11-22T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Clemente Tivioli: “I miei capi non vanno in saldo. Sono come un dipinto: non invecchiano”",
-      "url": "https://www.lastampa.it/specchio/rubriche/domenica-con/2026/11/22/news/i_miei_capi_non_vanno_in_saldo_sono_come_il_dipinto_di_un_artista_non_invecchiano-15802865/",
-      "excerpt": "Clemente Tivioli è il direttore creativo di TIVIOLI, prestigiosa casa milanese di capispalla di lusso fondata come pellicceria di alta gamma da suo padre, Carlo Tivioli, nel 1970. Da quando ha ...",
       "publishedAt": "2026-11-22T00:00:00Z",
       "dateEvidence": "feed:published"
     }
@@ -302,5 +302,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 0.77
+  "durationSeconds": 1.05
 }

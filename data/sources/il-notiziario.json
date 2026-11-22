@@ -4,12 +4,47 @@
   "sourceId": "il-notiziario",
   "originUrl": "https://www.ilnotiziario.net/",
   "configuredFeedUrl": "https://www.ilnotiziario.net/feed/",
-  "collectedAt": "2026-11-22T10:21:46.557849Z",
+  "collectedAt": "2026-11-22T18:05:25.165365Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.ilnotiziario.net/feed/",
   "items": [
+    {
+      "title": "Seregno, guida dopo la sospensione della patente, fermato di nuovo positivo all’alcoltest",
+      "url": "https://www.ilnotiziario.net/seregno-guida-dopo-la-sospensione-della-patente-fermato-di-nuovo-positivo-allalcoltest/",
+      "excerpt": "Seregno, guida dopo la sospensione della patente, fermato di nuovo positivo all’alcoltest Un automobilista di 50 anni è...",
+      "publishedAt": "2026-11-22T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Notte di violenza nel centro di Saronno, spuntano coltelli, indagano i carabinieri",
+      "url": "https://www.ilnotiziario.net/notte-di-violenza-nel-centro-di-saronno-spuntano-coltelli-indagano-i-carabinieri/",
+      "excerpt": "Notte di violenza nel centro di Saronno, spuntano coltelli, indagano i carabinieri Una notte movimentata nel cuore di Saronno,...",
+      "publishedAt": "2026-11-22T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Melegnano, persona finisce nel Lambro: salvata dall’elicottero dei Vigili del Fuoco",
+      "url": "https://www.ilnotiziario.net/melegnano-persona-finisce-nel-lambro-salvata-dallelicottero-dei-vigili-del-fuoco/",
+      "excerpt": "Intervento di soccorso nella mattinata di domenica 22 novembre nelle acque del fiume Lambro, a Melegnano, all’altezza del ponte...",
+      "publishedAt": "2026-11-22T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Iniziativa di Confcommercio rivolta ai sindaci del Bollatese, Protocollo per riaprire i negozi",
+      "url": "https://www.ilnotiziario.net/iniziativa-di-confcommercio-rivolta-ai-sindaci-del-bollatese-protocollo-per-riaprire-i-negozi/",
+      "excerpt": "Iniziativa di Confcommercio rivolta ai sindaci del Bollatese, un Protocollo per far riaprire i negozi chiusi. Come si può...",
+      "publishedAt": "2026-11-22T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Pogliano, senza assicurazione e con la patente falsa",
+      "url": "https://www.ilnotiziario.net/pogliano-senza-assicurazione-e-con-la-patente-falsa/",
+      "excerpt": "Pogliano, senza assicurazione e con la patente falsa. Posto di blocco sul Sempione: denunciata una donna, verbale dai seimila...",
+      "publishedAt": "2026-11-22T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "Fermato per un furto in autogrill nel Varesotto, in auto spunta un arsenale",
       "url": "https://www.ilnotiziario.net/fermato-per-un-furto-in-autogrill-nel-varesotto-in-auto-spunta-un-arsenale/",
@@ -79,41 +114,6 @@
       "excerpt": "Paderno, auto devastata a colpi di estintore sotto alla biblioteca. Il caso della Nissan Micra devastata a colpi di estintore è...",
       "publishedAt": "2026-11-21T00:00:00Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Garbagnate, donna molestata mentre torna dalla stazione",
-      "url": "https://www.ilnotiziario.net/garbagnate-donna-molestata-mentre-torna-dalla-stazione/",
-      "excerpt": "Garbagnate, donna molestata mentre torna dalla stazione. Due settimane fa scrivevamo del tentativo di aggressione a una ragazzina...",
-      "publishedAt": "2026-11-21T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Giochi Preziosi in concordato, il 25 l’incontro al Ministero",
-      "url": "https://www.ilnotiziario.net/giochi-preziosi-in-concordato-il-25-lincontro-al-ministero/",
-      "excerpt": "Crisi Giochi Preziosi, aperta la procedura di concordato preventivo, attesa per l’incontro al Ministero. Riflettori puntati...",
-      "publishedAt": "2026-11-21T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Incidente in Pedemontana allo svincolo di Lazzate, 3 feriti e Vigili del fuoco in azione",
-      "url": "https://www.ilnotiziario.net/incidente-in-pedemontana-allo-svincolo-di-lazzate-3-feriti-e-vigili-del-fuoco-in-azione/",
-      "excerpt": "Incidente sulla Pedemontana nei pressi di Lazzate, 3 persone ferite, intervento dei Vigili del fuoco Serata di paura e disagi...",
-      "publishedAt": "2026-11-21T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Eventi week-end: “Cross del Cuore” a Uboldo, rievocazione con laboratori a Villa Arconati di Bollate",
-      "url": "https://www.ilnotiziario.net/eventi-week-end-cross-del-cuore-a-uboldo-rievocazione-con-laboratori-a-villa-arconati-di-bollate/",
-      "excerpt": "Questo week-end, dal 20 al 22 novembre 2026, evidenziamo la camminata “Cross del Cuore”, iniziativa sportiva benefica a Uboldo e...",
-      "publishedAt": "2026-11-20T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Tesla, via libera alla guida assistita in Italia: arriva il sistema da 99 euro al mese",
-      "url": "https://www.ilnotiziario.net/tesla-via-libera-alla-guida-assistita-in-italia-arriva-il-sistema-da-99-euro-al-mese/",
-      "excerpt": "Tesla, via libera alla guida assistita in Italia: arriva il sistema da 99 euro al mese La guida assistita di Tesla si prepara ad...",
-      "publishedAt": "2026-11-20T00:00:00Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -127,5 +127,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 1.41
+  "durationSeconds": 2.51
 }

@@ -11,7 +11,7 @@
 | cisl | blocked | html | 0 | robots_disallowed |
 | cnr | ok | rss | 20 | — |
 | coldiretti | ok | trafilatura | 2 | — |
-| commissione-europea | ok | trafilatura | 1 | — |
+| commissione-europea | blocked | html | 0 | rate_limited |
 | comune-bollate | ok | trafilatura | 6 | — |
 | confcommercio | blocked | html | 0 | access_restricted |
 | confindustria | ok | trafilatura | 4 | — |
