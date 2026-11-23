@@ -4,19 +4,12 @@
   "sourceId": "greenpeace",
   "originUrl": "https://www.greenpeace.org/italy/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-22T23:53:03.859310Z",
+  "collectedAt": "2026-11-23T11:18:54.796476Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
-    {
-      "title": "Google ha abbattuto 400mila alberi in Finlandia per costruire due data center - Greenpeace Italia",
-      "url": "https://www.greenpeace.org/italy/storia/32167/google-ha-abbattuto-400mila-alberi-in-finlandia-per-costruire-due-data-center/",
-      "excerpt": "In Finlandia Google ha abbattuto 400mila alberi per fare spazio a due data center. E c’è di più: non aveva neanche i permessi per farlo.",
-      "publishedAt": "2026-11-18T15:41:27Z",
-      "dateEvidence": "html:publication-time"
-    },
     {
       "title": "IKEA produce mobili con legname proveniente da foreste secolari svedesi - Greenpeace Italia",
       "url": "https://www.greenpeace.org/italy/storia/32293/ikea-produce-mobili-con-legname-proveniente-da-foreste-secolari-svedesi/",
@@ -42,6 +35,10 @@
       "status": 200
     },
     {
+      "url": "https://www.greenpeace.org/italy/storia/32231/non-tutti-i-regali-si-accettano-questo-natale-restituisci-al-mittente-i-disastri-ambientali/",
+      "status": 200
+    },
+    {
       "url": "https://www.greenpeace.org/italy/storia/32293/ikea-produce-mobili-con-legname-proveniente-da-foreste-secolari-svedesi/",
       "status": 200
     },
@@ -51,10 +48,6 @@
     },
     {
       "url": "https://www.greenpeace.org/italy/storia/32223/meloni-siamo-alla-canna-del-gas-il-nostro-mega-striscione-sul-gazometro-di-roma/",
-      "status": 200
-    },
-    {
-      "url": "https://www.greenpeace.org/italy/storia/32167/google-ha-abbattuto-400mila-alberi-in-finlandia-per-costruire-due-data-center/",
       "status": 200
     },
     {
@@ -74,7 +67,7 @@
       "status": 200
     }
   ],
-  "message": "3 notizie recenti con data verificata; copertura parziale.",
+  "message": "2 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [
     {
       "url": "https://www.greenpeace.org/italy/cosa-puoi-fare-tu/firma-le-petizioni/",
@@ -86,5 +79,5 @@
   "candidateCount": 12,
   "datedCount": 5,
   "listingUrl": "https://www.greenpeace.org/italy/",
-  "durationSeconds": 4.86
+  "durationSeconds": 4.82
 }

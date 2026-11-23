@@ -4,12 +4,61 @@
   "sourceId": "il-notiziario",
   "originUrl": "https://www.ilnotiziario.net/",
   "configuredFeedUrl": "https://www.ilnotiziario.net/feed/",
-  "collectedAt": "2026-11-22T23:53:08.459223Z",
+  "collectedAt": "2026-11-23T11:19:00.709412Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.ilnotiziario.net/feed/",
   "items": [
+    {
+      "title": "Uboldo e Gerenzano: arrivano le benedizioni collettive",
+      "url": "https://www.ilnotiziario.net/uboldo-e-gerenzano-arrivano-le-benedizioni-collettive/",
+      "excerpt": "C’erano una volta le benedizioni. Un tempo, con l’avvicinarsi del Natale, i sacerdoti riuscivano a raggiungere casa per...",
+      "publishedAt": "2026-11-23T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Treni in tempo reale su Google Maps: cosa cambia per chi viaggia con Trenord",
+      "url": "https://www.ilnotiziario.net/treni-in-tempo-reale-su-google-maps-cosa-cambia-per-chi-viaggia-con-trenord/",
+      "excerpt": "Treni in tempo reale, integrazione con Google Maps per Trenord, ecco cosa cambia per chi viaggia. Seguire l’andamento del...",
+      "publishedAt": "2026-11-23T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Senago, scontro tra auto e moto: due feriti in ospedale",
+      "url": "https://www.ilnotiziario.net/senago-scontro-tra-auto-e-moto-due-feriti-in-ospedale/",
+      "excerpt": "A Senago, lo scontro tra auto e moto ha provocato il ferimento di due persone, portate in ospedale in codice giallo. Mattinata...",
+      "publishedAt": "2026-11-23T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Oltre 300 kg di rifiuti raccolti a Garbagnate Milanese in occasione della tappa di “Insieme a te per l’ambiente” di McDonald’s patrocinata dal Comune",
+      "url": "https://www.ilnotiziario.net/oltre-300-kg-di-rifiuti-raccolti-a-garbagnate-milanese-in-occasione-della-tappa-di-insieme-a-te-per-lambiente-di-mcdonalds-patrocinata-dal-comune/",
+      "excerpt": "Ben 30 sacchi per oltre 300 kg di rifiuti raccolti da 48 volontari. Ecco i numeri della tappa di “Insieme a te per l’ambiente” di...",
+      "publishedAt": "2026-11-23T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Cesate, bronzo per Yuri Massidda di Gold Academy Boxing Team",
+      "url": "https://www.ilnotiziario.net/cesate-bronzo-per-yuri-massidda-di-gold-academy-boxing-team/",
+      "excerpt": "Cesate, meritato bronzo per il giovanissimo Yuri Massidda di Gold Academy Boxing Team. I Campionati Italiani under 15 di boxe,...",
+      "publishedAt": "2026-11-23T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Alcol al volante: due denunce della Polizia Locale",
+      "url": "https://www.ilnotiziario.net/alcol-al-volante-due-denunce-della-polizia-locale/",
+      "excerpt": "Due interventi in meno di ventiquattro ore per gli agenti del Comando Unico della Polizia Locale di Nerviano – Pogliano,...",
+      "publishedAt": "2026-11-23T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Garbagnate, l’ex ospedale candidato tra i Luoghi del cuore Fai",
+      "url": "https://www.ilnotiziario.net/garbagnate-lex-ospedale-candidato-tra-i-luoghi-del-cuore-fai/",
+      "excerpt": "Garbagnate, l’ex ospedale candidato tra i “Luoghi del cuore Fai. L’ex ospedale di Garbagnate torna al centro...",
+      "publishedAt": "2026-11-23T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "Seregno, guida dopo la sospensione della patente, fermato di nuovo positivo all’alcoltest",
       "url": "https://www.ilnotiziario.net/seregno-guida-dopo-la-sospensione-della-patente-fermato-di-nuovo-positivo-allalcoltest/",
@@ -65,55 +114,6 @@
       "excerpt": "Rho, le scuole respingono i doni di Vannacci. Un carico di quaderni, penne e materiale di cancelleria pensato per alleggerire la...",
       "publishedAt": "2026-11-22T00:00:00Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Bollate, ladri in azione: messi in fuga dal proprietario",
-      "url": "https://www.ilnotiziario.net/bollate-ladri-in-azione-messi-in-fuga-dal-proprietario/",
-      "excerpt": "Bollate, ladri in azione a Cascina del Sole: messi in fuga dal proprietario. Nuovo episodio legato alla sicurezza a Cascina del...",
-      "publishedAt": "2026-11-22T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Paderno, rifiuti: agente accertatore e sacchi",
-      "url": "https://www.ilnotiziario.net/paderno-rifiuti-agente-accertatore-e-sacchi/",
-      "excerpt": "Paderno, rifiuti: agente accertatore e sacchi. “In una prima fase l’agente accertatore si occuperà soltanto di sensibilizzazione,...",
-      "publishedAt": "2026-11-21T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Rho, sessanta euro di multa per le feci del cane",
-      "url": "https://www.ilnotiziario.net/rho-sessanta-euro-di-multa-per-le-feci-del-cane/",
-      "excerpt": "Rho, sessanta euro di multa per le feci del cane. Non raccoglie gli escrementi del cane e viene multato con 61 euro. È quanto...",
-      "publishedAt": "2026-11-21T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Massimo Bossetti esce dal carcere di Bollate per andare a lavorare a Cormano",
-      "url": "https://www.ilnotiziario.net/massimo-bossetti-esce-dal-carcere-di-bollate-per-andare-a-lavorare-a-cormano/",
-      "excerpt": "Massimo Bossetti esce dal carcere di Bollate tutti i giorni per andare a lavorare in una ditta di Cormano Una nuova routine...",
-      "publishedAt": "2026-11-21T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "La legge della bestia, recensione: fra crime e dilemma etico",
-      "url": "https://www.ilnotiziario.net/la-legge-della-bestia-recensione-fra-crime-e-dilemma-etico/",
-      "excerpt": "di Stefano Di Maria Il caso di un serial killer di bambini riemerge dopo 25 anni come un irrisolto problema giudiziario e...",
-      "publishedAt": "2026-11-21T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Caronno, quasi ultimata la nuova velostazione",
-      "url": "https://www.ilnotiziario.net/caronno-quasi-ultimata-la-nuova-velostazione/",
-      "excerpt": "La velostazione di Caronno Pertusella è a un passo dal traguardo. Si avviano infatti verso la conclusione i lavori del nuovo...",
-      "publishedAt": "2026-11-21T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Paderno, auto devastata a colpi di estintore sotto alla biblioteca",
-      "url": "https://www.ilnotiziario.net/paderno-auto-devastata-a-colpi-di-estintore-sotto-alla-biblioteca/",
-      "excerpt": "Paderno, auto devastata a colpi di estintore sotto alla biblioteca. Il caso della Nissan Micra devastata a colpi di estintore è...",
-      "publishedAt": "2026-11-21T00:00:00Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -127,5 +127,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 2.15
+  "durationSeconds": 1.43
 }

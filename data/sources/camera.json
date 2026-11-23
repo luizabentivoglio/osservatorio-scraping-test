@@ -4,17 +4,17 @@
   "sourceId": "camera",
   "originUrl": "https://www.camera.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-22T23:52:28.954446Z",
+  "collectedAt": "2026-11-23T11:18:24.203333Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
-      "title": "Giornata internazionale per l’eliminazione violenza contro le donne",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64364",
-      "excerpt": "La Camera è convocata lunedì 23 novembre alle ore 14 per la discussione generale delle mozioni Gh...",
-      "publishedAt": "2026-11-20T00:00:00Z",
+      "title": "Giornata internazionale per l’eliminazione della violenza contro le donne - Mercoledì Montecitorio si illumina di arancione",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64391",
+      "excerpt": "La Camera dei deputati aderisce alla campagna dell’Onu per la Giornata internazionale per l'elimin...",
+      "publishedAt": "2026-11-23T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
     {
@@ -63,7 +63,7 @@
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64364",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64391",
       "status": 200
     },
     {
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://comunicazione.camera.it/archivio-prima-pagina",
-  "durationSeconds": 4.29
+  "durationSeconds": 4.71
 }

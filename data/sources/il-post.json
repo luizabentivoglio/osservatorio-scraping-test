@@ -4,52 +4,38 @@
   "sourceId": "il-post",
   "originUrl": "https://www.ilpost.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-22T23:53:08.659998Z",
+  "collectedAt": "2026-11-23T11:19:00.776352Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
-      "title": "Paola Egonu è diventata la miglior realizzatrice di sempre nel campionato italiano femminile di pallavolo",
-      "url": "https://www.ilpost.it/2026/11/22/egonu-realizzatrice-pallavolo/?bitPosition=1",
-      "excerpt": "Paola Egonu è diventata la miglior realizzatrice di sempre nel campionato italiano femminile di pallavolo Paola Egonu, una delle pallavoliste più forti e più vincenti in attività, è diventata domenica la miglior realizzatrice di sempre nel campionato italiano femminile di pallavolo. Durante la partita contro Conegliano",
-      "publishedAt": "2026-11-22T17:47:53Z",
+      "title": "L’India ha annunciato aiuti da 1,5 miliardi di euro per sostenere il Nepal dopo le recenti alluvioni",
+      "url": "https://www.ilpost.it/2026/11/23/lindia-pacchetto-aiuti-nepal-esondazioni-alluvioni/?bitPosition=1",
+      "excerpt": "L’India ha annunciato aiuti da 1,5 miliardi di euro per sostenere il Nepal dopo le recenti alluvioni Lunedì il primo ministro dell’India Narendra Modi ha annunciato un pacchetto di aiuti economici da 1,5 miliardi di euro per sostenere il Nepal nella ricostruzione delle aree devastate dalle recenti alluvioni. Gli aiuti ",
+      "publishedAt": "2026-11-23T09:11:09Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "In Bosnia il figlio di Milorad Dodik è stato nominato primo ministro della Republika Srpska, proseguendo una discussa dinastia politica",
-      "url": "https://www.ilpost.it/2026/11/22/dodik-figlio-bosnia/?bitPosition=2",
-      "excerpt": "In Bosnia il figlio di Milorad Dodik è stato nominato primo ministro della Republika Srpska, proseguendo una discussa dinastia politica Il figlio del politico nazionalista serbo Milorad Dodik, Igor Dodik, è stato nominato primo ministro della Republika Srpska, una delle due principali entità che costituiscono la Bosnia",
-      "publishedAt": "2026-11-22T17:03:10Z",
+      "title": "“Ambiente svenduto” e le altre inchieste giudiziarie sull’ex Ilva di Taranto",
+      "url": "https://www.ilpost.it/2026/11/23/a-che-punto-sono-inchieste-ex-ilva-ambiente-svenduto/?homepagePosition=0",
+      "excerpt": "A che punto sono e chi riguardano: ce n'è anche una su un incidente avvenuto quando c'erano già i commissari del governo",
+      "publishedAt": "2026-11-23T09:07:45Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "Per la destra il suicidio di Gianni De Gennaro ha un colpevole",
-      "url": "https://www.ilpost.it/2026/11/22/reazioni-politici-suicidio-gianni-de-gennaro/?homepagePosition=0",
-      "excerpt": "Salvini, Tajani, La Russa, Crosetto e non solo lo hanno attribuito esplicitamente alle pressioni giudiziarie e mediatiche",
-      "publishedAt": "2026-11-22T16:34:24Z",
+      "title": "Almeno 24 persone sono morte nell’incendio di una fabbrica di dolci in Indonesia",
+      "url": "https://www.ilpost.it/2026/11/23/morti-fabbrica-dolci-indonesia-serang/?bitPosition=2",
+      "excerpt": "Almeno 24 persone sono morte nell’incendio di una fabbrica di dolci in Indonesia Il governo dell’Indonesia ha detto che almeno 24 persone sono morte nell’incendio di una fabbrica di dolci avvenuto sabato nel distretto di Serang, circa 50 chilometri a ovest della capitale Giacarta. Le operazioni di soccorso sono andate ",
+      "publishedAt": "2026-11-23T07:20:42Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "Una nave da guerra russa è stata attaccata da droni nel porto di Bengasi",
-      "url": "https://www.ilpost.it/2026/11/22/libia-bengasi-sospetto-attacco-nave-russa/?bitPosition=3",
-      "excerpt": "Una nave da guerra russa è stata attaccata da droni nel porto di Bengasi Il governo di Bengasi, che controlla la parte orientale della Libia, ha fatto sapere che una nave russa ormeggiata nel porto di Bengasi è stata attaccata da alcuni droni: l’attacco ha causato un’esplosione e un incendio che hanno ferito alcune per",
-      "publishedAt": "2026-11-22T15:23:16Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Cosa sappiamo del suicidio di Gianni De Gennaro",
-      "url": "https://www.ilpost.it/2026/11/22/gianni-de-gennaro-suicidio-cosa-sappiamo/?homepagePosition=0.1&referrerPost=3739777",
-      "excerpt": "L'ex capo della polizia aveva detto di voler restare solo nella sua casa di campagna per studiare l'inchiesta in cui era coinvolto",
-      "publishedAt": "2026-11-22T07:19:44Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Di cosa era accusato Gianni De Gennaro",
-      "url": "https://www.ilpost.it/2026/11/21/accuse-indagine-gianni-de-gennaro-via-damelio/?homepagePosition=0.2&referrerPost=3739777",
-      "excerpt": "Per la procura avrebbe cercato di ostacolare le indagini sulla strage di via D'Amelio del 1992, ma in anni molto più recenti",
-      "publishedAt": "2026-11-21T17:16:30Z",
+      "title": "Un palazzetto di Manchester è stato evacuato durante un concerto per il rilascio di una sostanza sconosciuta tra il pubblico",
+      "url": "https://www.ilpost.it/2026/11/23/arena-manchester-evacuata-concerto-sospetto-gas-lacrimogeni/?bitPosition=3",
+      "excerpt": "Un palazzetto di Manchester è stato evacuato durante un concerto per il rilascio di una sostanza sconosciuta tra il pubblico Domenica sera il palazzetto Co-op Live di Manchester, nel Regno Unito, è stato evacuato durante il concerto del rapper statunitense Don Toliver per il rilascio di una sostanza sconosciuta tra il ",
+      "publishedAt": "2026-11-23T07:05:51Z",
       "dateEvidence": "jsonld:datePublished"
     }
   ],
@@ -63,34 +49,34 @@
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/22/reazioni-politici-suicidio-gianni-de-gennaro/?homepagePosition=0",
+      "url": "https://www.ilpost.it/2026/11/23/a-che-punto-sono-inchieste-ex-ilva-ambiente-svenduto/?homepagePosition=0",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/22/gianni-de-gennaro-suicidio-cosa-sappiamo/?homepagePosition=0.1&referrerPost=3739777",
+      "url": "https://www.ilpost.it/2026/10/30/arcelormittal-ilva-commissari-straordinari-fallimento/?homepagePosition=0.1&referrerPost=3737266",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/21/accuse-indagine-gianni-de-gennaro-via-damelio/?homepagePosition=0.2&referrerPost=3739777",
+      "url": "https://www.ilpost.it/2026/10/18/ex-ilva-storia/?homepagePosition=0.2&referrerPost=3737266",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/22/egonu-realizzatrice-pallavolo/?bitPosition=1",
+      "url": "https://www.ilpost.it/2026/11/23/lindia-pacchetto-aiuti-nepal-esondazioni-alluvioni/?bitPosition=1",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/22/dodik-figlio-bosnia/?bitPosition=2",
+      "url": "https://www.ilpost.it/2026/11/23/morti-fabbrica-dolci-indonesia-serang/?bitPosition=2",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/22/libia-bengasi-sospetto-attacco-nave-russa/?bitPosition=3",
+      "url": "https://www.ilpost.it/2026/11/23/arena-manchester-evacuata-concerto-sospetto-gas-lacrimogeni/?bitPosition=3",
       "status": 200
     }
   ],
-  "message": "6 notizie recenti con data verificata; copertura parziale.",
+  "message": "4 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [],
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.ilpost.it/",
-  "durationSeconds": 3.56
+  "durationSeconds": 3.69
 }

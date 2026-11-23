@@ -4,12 +4,19 @@
   "sourceId": "ingv",
   "originUrl": "https://www.ingv.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-22T23:53:04.780032Z",
+  "collectedAt": "2026-11-23T11:18:58.439810Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.ingv.it/stampa-urp/ufficio-stampa/comunicati-stampa?format=feed&type=rss",
   "items": [
+    {
+      "title": "GEONEUTRINI | Un nuovo modello 3D della crosta terrestre per interpretare le misure dell’esperimento Borexino",
+      "url": "https://www.ingv.it/stampa-urp/ufficio-stampa/comunicati-stampa/geoneutrini-un-nuovo-modello-3d-della-crosta-terrestre-per-interpretare-le-misure-dell-esperimento-borexino",
+      "excerpt": "",
+      "publishedAt": "2026-11-23T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "Il traffico di Firenze “scritto” sulle foglie degli alberi: le piante come sentinelle dell'inquinamento urbano",
       "url": "https://www.ingv.it/stampa-urp/ufficio-stampa/comunicati-stampa/il-traffico-di-firenze-scritto-sulle-foglie-degli-alberi-le-piante-come-sentinelle-dellinquinamento-urbano",
@@ -61,5 +68,5 @@
     }
   ],
   "message": "Feed dichiarato dalla fonte; date di pubblicazione verificate.",
-  "durationSeconds": 1.89
+  "durationSeconds": 1.43
 }

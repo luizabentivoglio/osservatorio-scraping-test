@@ -9,12 +9,12 @@
 | breaking-italy | ok | trafilatura | 1 | — |
 | camera | ok | trafilatura | 6 | — |
 | cisl | blocked | html | 0 | robots_disallowed |
-| cnr | error | html | 0 | connection_error |
+| cnr | ok | rss | 19 | — |
 | coldiretti | ok | trafilatura | 2 | — |
-| commissione-europea | blocked | html | 0 | rate_limited |
+| commissione-europea | ok | trafilatura | 1 | — |
 | comune-bollate | ok | trafilatura | 6 | — |
 | confcommercio | blocked | html | 0 | access_restricted |
-| confindustria | ok | trafilatura | 4 | — |
+| confindustria | ok | trafilatura | 3 | — |
 | consiglio-ue | blocked | html | 0 | access_restricted |
 | copernicus | no_feed | crawl4ai | 0 | parsing_error |
 | coraggio-italia | no_feed | crawl4ai | 0 | parsing_error |
@@ -27,21 +27,21 @@
 | factanza | blocked | html | 0 | access_restricted |
 | fanpage | blocked | html | 0 | access_restricted |
 | forza-italia | ok | trafilatura | 0 | — |
-| futuro-nazionale | ok | rss | 0 | — |
+| futuro-nazionale | error | html | 0 | robots_unavailable |
 | good-morning-italia | blocked | html | 0 | access_restricted |
-| greenpeace | ok | trafilatura | 3 | — |
+| greenpeace | ok | trafilatura | 2 | — |
 | hrw | blocked | html | 0 | access_restricted |
 | iai | ok | trafilatura | 1 | — |
 | il-fatto | blocked | html | 0 | robots_disallowed |
 | il-notiziario | ok | rss | 15 | — |
-| il-post | ok | trafilatura | 6 | — |
-| ingv | ok | rss | 5 | — |
+| il-post | ok | trafilatura | 4 | — |
+| ingv | ok | rss | 6 | — |
 | ispi | blocked | html | 0 | robots_disallowed |
 | ispra | ok | rss | 0 | — |
 | iss | error | html | 0 | connection_error |
 | istat | ok | rss | 10 | — |
 | istituto-bruno-leoni | ok | trafilatura | 5 | — |
-| italia-domani-rizzo | ok | trafilatura | 3 | — |
+| italia-domani-rizzo | ok | trafilatura | 2 | — |
 | italia-viva | blocked | html | 0 | access_restricted |
 | la-stampa | ok | rss | 40 | — |
 | legambiente | ok | trafilatura | 0 | — |
@@ -49,7 +49,7 @@
 | mef | ok | trafilatura | 3 | — |
 | msf | ok | trafilatura | 6 | — |
 | osservatorio-cpi | ok | trafilatura | 5 | — |
-| oxfam | ok | trafilatura | 5 | — |
+| oxfam | ok | trafilatura | 6 | — |
 | pagella-politica | ok | trafilatura | 6 | — |
 | palazzo-chigi | ok | rss | 10 | — |
 | parlamento-europeo | blocked | html | 0 | access_restricted |
@@ -67,7 +67,7 @@
 | senato | no_feed | crawl4ai | 0 | parsing_error |
 | sud-chiama-nord | blocked | html | 0 | access_restricted |
 | svp | ok | trafilatura | 0 | — |
-| tgr-lombardia | no_feed | crawl4ai | 0 | parsing_error |
+| tgr-lombardia | ok | crawl4ai | 1 | — |
 | wwf | ok | trafilatura | 6 | — |
 
 Le date sono verificate nei feed o nei metadati di pubblicazione dei singoli articoli. Nessun dato personale dell’archivio è letto o pubblicato.

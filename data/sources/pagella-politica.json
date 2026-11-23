@@ -4,7 +4,7 @@
   "sourceId": "pagella-politica",
   "originUrl": "https://pagellapolitica.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-22T23:53:21.717403Z",
+  "collectedAt": "2026-11-23T11:19:14.193782Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -14,6 +14,20 @@
       "title": "Conti in tasca diventa anche un podcast",
       "url": "https://pagellapolitica.it/articoli/conti-in-tasca-podcast-economia",
       "excerpt": "Una volta ogni due settimane analizzeremo i problemi della politica e dell’attualità attraverso la lente...",
+      "publishedAt": "2026-11-19T00:00:00Z",
+      "dateEvidence": "html:post-date"
+    },
+    {
+      "title": "Forza Italia ha votato contro un emendamento di Fratelli d’Italia che danneggia la famiglia Berlusconi",
+      "url": "https://pagellapolitica.it/articoli/forza-italia-emendamento-berlusconi",
+      "excerpt": "La proposta prevede nuovi obblighi per gli editori di testi scolastici come Mondadori, guidata da Marina...",
+      "publishedAt": "2026-11-19T00:00:00Z",
+      "dateEvidence": "html:post-date"
+    },
+    {
+      "title": "Più Europa esagera gli effetti della legalizzazione della cannabis in Germania",
+      "url": "https://pagellapolitica.it/articoli/piu-europa-legalizzazione-cannabis-germania",
+      "excerpt": "Il calo dei reati è documentato, ma il partito semplifica troppo i risultati delle ricerche sui consumi e sulle...",
       "publishedAt": "2026-11-19T00:00:00Z",
       "dateEvidence": "html:post-date"
     },
@@ -37,20 +51,6 @@
       "excerpt": "Un deputato di Fratelli d’Italia e Luigi Marattin hanno citato un dato pubblicato dall’autorità palestinese per...",
       "publishedAt": "2026-11-18T00:00:00Z",
       "dateEvidence": "html:post-date"
-    },
-    {
-      "title": "Le nuove norme contro l’antisemitismo sono ancora tutte da scrivere",
-      "url": "https://pagellapolitica.it/articoli/legge-antisemitismo-approvata",
-      "excerpt": "Ieri la Camera ha approvato definitivamente il disegno di legge promosso dalla maggioranza, ma ora spetta al...",
-      "publishedAt": "2026-11-18T00:00:00Z",
-      "dateEvidence": "html:post-date"
-    },
-    {
-      "title": "A che punto è il riavvicinamento tra UE e Regno Unito",
-      "url": "https://pagellapolitica.it/articoli/vertice-ue-regno-unito-brexit",
-      "excerpt": "Il vertice del 20 novembre tra le autorità britanniche ed europee servirà a fare il punto sui negoziati su...",
-      "publishedAt": "2026-11-17T00:00:00Z",
-      "dateEvidence": "html:post-date"
     }
   ],
   "attempts": [
@@ -67,6 +67,14 @@
       "status": 200
     },
     {
+      "url": "https://pagellapolitica.it/articoli/forza-italia-emendamento-berlusconi",
+      "status": 200
+    },
+    {
+      "url": "https://pagellapolitica.it/articoli/piu-europa-legalizzazione-cannabis-germania",
+      "status": 200
+    },
+    {
       "url": "https://pagellapolitica.it/articoli/condono-edilizio-forza-italia",
       "status": 200
     },
@@ -77,14 +85,6 @@
     {
       "url": "https://pagellapolitica.it/articoli/nascite-gaza-ddl-antisemitismo",
       "status": 200
-    },
-    {
-      "url": "https://pagellapolitica.it/articoli/legge-antisemitismo-approvata",
-      "status": 200
-    },
-    {
-      "url": "https://pagellapolitica.it/articoli/vertice-ue-regno-unito-brexit",
-      "status": 200
     }
   ],
   "message": "6 notizie recenti con data verificata; copertura parziale.",
@@ -92,5 +92,5 @@
   "candidateCount": 6,
   "datedCount": 6,
   "listingUrl": "https://pagellapolitica.it/articoli",
-  "durationSeconds": 6.61
+  "durationSeconds": 5.66
 }

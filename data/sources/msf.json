@@ -4,12 +4,19 @@
   "sourceId": "msf",
   "originUrl": "https://www.medicisenzafrontiere.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-22T23:53:15.116259Z",
+  "collectedAt": "2026-11-23T11:19:06.337316Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "RDC, attacco con droni vicino a un ospedale a Bunyakiri, Sud Kivu. MSF: “proteggere civili e strutture sanitarie”",
+      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/rdc-attacco-droni-vicino-ospedale-bunyakiri-sud-kivu-msf-proteggere-civili-strutture-sanitarie/",
+      "excerpt": "Con l’intensificarsi delle violenze nella zona sanitaria di Bunyakiri, nel Sud Kivu, Medici Senza Frontiere chiede a tutte le parti in conflitto di rispettare e proteggere i civili, le strutture sanitarie e il personale umanitario. L’escalation del conflitto a Bunyakiri mette a rischio cure e civili Dal 6 novembre 2026",
+      "publishedAt": "2026-11-20T10:38:12Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
     {
       "title": "Guerra in Ucraina: quando è iniziata e cosa sta succedendo oggi",
       "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/guerra-in-ucraina/",
@@ -44,13 +51,6 @@
       "excerpt": "Il naufragio di Cutro del 26 febbraio 2023: cos'è successo, il numero delle vittime, i processi e le politiche migratorie che ne sono seguite. La posizione di MSF.",
       "publishedAt": "2026-11-18T18:05:46Z",
       "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Rohingya, MSF: “sentenza della Corte internazionale di giustizia sarà momento storico, ma servono soluzioni durature”",
-      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/rohingya-msf-sentenza-corte-internazionale-giustizia-sara-momento-storico-servono-soluzioni-durature/",
-      "excerpt": "Il 19 novembre 2026 la Corte internazionale di giustizia pronuncerà la sentenza nell'ambito del procedimento avviato dal Gambia contro il Myanmar nel 2019, per presunte violazioni della Convenzione per la prevenzione e la repressione del crimine di genocidio. Questa sentenza sarà la prima occasione in cui un organo giu",
-      "publishedAt": "2026-11-18T16:06:00Z",
-      "dateEvidence": "jsonld:datePublished"
     }
   ],
   "attempts": [
@@ -60,6 +60,10 @@
     },
     {
       "url": "https://www.medicisenzafrontiere.it/",
+      "status": 200
+    },
+    {
+      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/rdc-attacco-droni-vicino-ospedale-bunyakiri-sud-kivu-msf-proteggere-civili-strutture-sanitarie/",
       "status": 200
     },
     {
@@ -80,10 +84,6 @@
     },
     {
       "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/naufragio-cutro/",
-      "status": 200
-    },
-    {
-      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/rohingya-msf-sentenza-corte-internazionale-giustizia-sara-momento-storico-servono-soluzioni-durature/",
       "status": 200
     }
   ],

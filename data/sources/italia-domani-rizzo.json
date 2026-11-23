@@ -4,7 +4,7 @@
   "sourceId": "italia-domani-rizzo",
   "originUrl": "https://www.italiadomanirizzo.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-22T23:53:10.924297Z",
+  "collectedAt": "2026-11-23T11:19:02.844378Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -22,13 +22,6 @@
       "url": "https://www.italiadomanirizzo.it/carburanti-la-slovenia-taglia-le-accise-e-la-benzina-scende/",
       "excerpt": "Mentre in Italia il costo dei carburanti pesa su famiglie e lavoratori, la Slovenia interviene con un taglio alle accise portando la benzina a 1,50 euro al litro.",
       "publishedAt": "2026-11-10T00:00:00Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Carburanti: il gasolio torna a salire dopo lo stop al taglio delle accise - Italia Domani",
-      "url": "https://www.italiadomanirizzo.it/carburanti-il-gasolio-torna-a-salire-dopo-lo-stop-al-taglio/",
-      "excerpt": "I dati aggiornati sui prezzi dei carburanti registrano un rincaro per il diesel a causa della fine del taglio delle accise, mentre la benzina si mantiene stabile.",
-      "publishedAt": "2026-11-09T00:00:00Z",
       "dateEvidence": "jsonld:datePublished"
     }
   ],
@@ -70,7 +63,7 @@
       "status": 200
     }
   ],
-  "message": "3 notizie recenti con data verificata; copertura parziale.",
+  "message": "2 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [
     {
       "url": "https://www.italiadomanirizzo.it/congresso/",
@@ -94,5 +87,5 @@
   "candidateCount": 8,
   "datedCount": 3,
   "listingUrl": "https://www.italiadomanirizzo.it/",
-  "durationSeconds": 7.12
+  "durationSeconds": 5.36
 }

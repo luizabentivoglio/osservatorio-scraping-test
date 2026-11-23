@@ -4,17 +4,17 @@
   "sourceId": "breaking-italy",
   "originUrl": "https://breakingitaly.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-22T23:52:27.562576Z",
+  "collectedAt": "2026-11-23T11:18:23.502338Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
-      "title": "Oggi c’è sciopero generale",
-      "url": "https://breakingitaly.it/newsletter/oggi-ce-sciopero-generale",
-      "excerpt": "Oggi c’è sciopero generale",
-      "publishedAt": "2026-11-20T00:00:00Z",
+      "title": "La Cop31 sul clima si chiude senza accordi",
+      "url": "https://breakingitaly.it/newsletter/la-cop31-sul-clima-si-chiude-senza-accordi",
+      "excerpt": "La Cop31 sul clima si chiude senza accordi",
+      "publishedAt": "2026-11-23T00:00:00Z",
       "dateEvidence": "html:newsletter-publication"
     }
   ],
@@ -32,7 +32,7 @@
       "status": 200
     },
     {
-      "url": "https://breakingitaly.it/newsletter/oggi-ce-sciopero-generale",
+      "url": "https://breakingitaly.it/newsletter/la-cop31-sul-clima-si-chiude-senza-accordi",
       "status": 200
     },
     {
@@ -96,5 +96,5 @@
   "candidateCount": 12,
   "datedCount": 1,
   "listingUrl": "https://breakingitaly.it/",
-  "durationSeconds": 5.31
+  "durationSeconds": 5.23
 }

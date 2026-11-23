@@ -4,12 +4,19 @@
   "sourceId": "oxfam",
   "originUrl": "https://www.oxfamitalia.org/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-22T23:53:18.997501Z",
+  "collectedAt": "2026-11-23T11:19:10.352929Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "GAZA AVVELENATA: LA GUERRA HA CONTAMINATO IL 99% DEL TERRITORIO",
+      "url": "https://www.oxfamitalia.org/gaza-avvelenata-la-guerra-ha-contaminato-il-99-del-territorio/",
+      "excerpt": "A Gaza la distruzione non finisce quando cessano i bombardamenti. Resta nell’acqua che si beve, nella terra da coltivare, nell’aria che si respira e nelle",
+      "publishedAt": "2026-11-20T10:01:03Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
     {
       "title": "20 NOVEMBRE, IN PIAZZA A FIRENZE CONTRO IL RIARMO",
       "url": "https://www.oxfamitalia.org/20-novembre-in-piazza-a-firenze-contro-il-riarmo/",
@@ -56,6 +63,10 @@
       "status": 200
     },
     {
+      "url": "https://www.oxfamitalia.org/gaza-avvelenata-la-guerra-ha-contaminato-il-99-del-territorio/",
+      "status": 200
+    },
+    {
       "url": "https://www.oxfamitalia.org/20-novembre-in-piazza-a-firenze-contro-il-riarmo/",
       "status": 200
     },
@@ -74,16 +85,12 @@
     {
       "url": "https://www.oxfamitalia.org/webinar-contrastare-le-disuguaglianze-a-partire-dalla-scuola/",
       "status": 200
-    },
-    {
-      "url": "https://www.oxfamitalia.org/il-bilancio-sociale-2025-26-il-cambiamento-e-un-lavoro-collettivo/",
-      "status": 200
     }
   ],
-  "message": "5 notizie recenti con data verificata; copertura parziale.",
+  "message": "6 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [],
   "candidateCount": 8,
   "datedCount": 6,
   "listingUrl": "https://www.oxfamitalia.org/news/",
-  "durationSeconds": 4.13
+  "durationSeconds": 3.84
 }

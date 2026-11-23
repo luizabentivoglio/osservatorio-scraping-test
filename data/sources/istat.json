@@ -4,12 +4,26 @@
   "sourceId": "istat",
   "originUrl": "https://www.istat.it/",
   "configuredFeedUrl": "https://www.istat.it/feed/",
-  "collectedAt": "2026-11-22T23:53:07.637788Z",
+  "collectedAt": "2026-11-23T11:19:00.368886Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.istat.it/feed/",
   "items": [
+    {
+      "title": "CIG BC512A73AA – Percorso formativo di sviluppo delle competenze sul benessere",
+      "url": "https://www.istat.it/bando-di-gara/cig-bc512a73aa-percorso-formativo-di-sviluppo-delle-competenze-sul-benessere/",
+      "excerpt": "Online la delibera di affidamento",
+      "publishedAt": "2026-11-23T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Flussi turistici – III trimestre 2026",
+      "url": "https://www.istat.it/comunicato-stampa/flussi-turistici-iii-trimestre-2026/",
+      "excerpt": "Nel terzo trimestre 2026 gli esercizi ricettivi in Italia hanno registrato più di 60 milioni di arrivi e 249 milioni di presenze",
+      "publishedAt": "2026-11-23T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "Concorso pubblico a 54 posti di ricercatore di III livello professionale a tempo indeterminato (cod",
       "url": "https://www.istat.it/concorso-o-selezione/concorso-pubblico-a-54-posti-di-ricercatore-di-iii-livello-professionale-a-tempo-indeterminato-cod-ric-iii-2025/",
@@ -25,7 +39,7 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "CIG BDB61C3889 – Servizi di produzione di n",
+      "title": "CIG BDB61C3889 – Servizi di produzione di n 10 episodi della serie di podcast autoriali “Dati alla mano”",
       "url": "https://www.istat.it/bando-di-gara/cig-bdb61c3889-servizi-di-produzione-di-n-10-episodi-della-serie-di-podcast-autoriali-dati-alla-mano/",
       "excerpt": "Online la delibera di affidamento",
       "publishedAt": "2026-11-19T00:00:00Z",
@@ -48,7 +62,7 @@
     {
       "title": "I diritti dei bambini e degli adolescenti",
       "url": "https://www.istat.it/produzione-editoriale/bambini/",
-      "excerpt": "La storia dell’Italia unita è caratterizzata da una progressiva riduzione della consistenza numerica di bambini ed adolescenti e dal notevole miglioramento delle condizioni educative e di salute",
+      "excerpt": "La storia dell’Italia unita è caratterizzata da una progressiva riduzione della consistenza numerica di bambini e adolescenti e dal notevole miglioramento delle condizioni educative e di salute",
       "publishedAt": "2026-11-19T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -62,22 +76,8 @@
     {
       "title": "Sedicesima Giornata italiana della statistica (GIS 2026)",
       "url": "https://www.istat.it/evento/sedicesima-giornata-italiana-statistica/",
-      "excerpt": "Promossa dall’Istituto nazionale di statistica (Istat) e dalla Società italiana di statistica (SIS). Si celebra su tutto il territorio nazionale con numerose iniziative",
+      "excerpt": "Promossa dall’Istituto nazionale di statistica (Istat) e dalla Società italiana di statistica (SIS)., si celebra su tutto il territorio nazionale con numerose iniziative",
       "publishedAt": "2026-11-19T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Posti vacanti nelle imprese dell’industria e dei servizi – stime preliminari III trimestre 2026",
-      "url": "https://www.istat.it/sistema-informativo-6/posti-vacanti-nelle-imprese-dellindustria-e-dei-servizi-stime-preliminari-iii-trimestre-2026/",
-      "excerpt": "L’Istat rende disponibili online le stime preliminari del tasso di posti vacanti riferite al primo trimestre 2026, per tutte le imprese con dipendenti dell’industria e dei servizi",
-      "publishedAt": "2026-11-18T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Incidenti stradali – Stima preliminare – Gennaio-giugno 2026",
-      "url": "https://www.istat.it/comunicato-stampa/incidenti-stradali-stima-preliminare-gennaio-giugno-2026/",
-      "excerpt": "Tra gennaio e giugno 2026 si registrano 89.754 incidenti con lesioni a persone, +7,5% sullo stesso periodo del 2025",
-      "publishedAt": "2026-11-18T00:00:00Z",
       "dateEvidence": "feed:published"
     }
   ],
@@ -92,5 +92,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 3.28
+  "durationSeconds": 2.62
 }
