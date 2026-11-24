@@ -4,12 +4,47 @@
   "sourceId": "il-notiziario",
   "originUrl": "https://www.ilnotiziario.net/",
   "configuredFeedUrl": "https://www.ilnotiziario.net/feed/",
-  "collectedAt": "2026-11-24T01:56:04.377069Z",
+  "collectedAt": "2026-11-24T12:58:21.044040Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.ilnotiziario.net/feed/",
   "items": [
+    {
+      "title": "Senago, uomo di 58 anni trovato morto all’interno del suo camper",
+      "url": "https://www.ilnotiziario.net/senago-uomo-di-58-anni-trovato-morto-allinterno-del-suo-camper/",
+      "excerpt": "Un uomo di 58 anni è stato trovato senza vita all’interno del proprio camper nella tarda mattinata di oggi, martedì 24 novembre,...",
+      "publishedAt": "2026-11-24T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "A Cormano la celebrazione della Virgo Fidelis con i carabinieri della Compagnia di Sesto San Giovanni",
+      "url": "https://www.ilnotiziario.net/a-cormano-la-celebrazione-della-virgo-fidelis-con-i-carabinieri-della-compagnia-di-sesto-san-giovanni/",
+      "excerpt": "E’ stata la chiesa parrocchiale “San Vincenzo” di via Comasinella, nel quartiere di Brusuglio, a ospitare l’annuale...",
+      "publishedAt": "2026-11-24T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Ricette false per ottenere potenti oppioidi ai fini di spaccio: arrestato in farmacia a Lentate, colpita anche Lazzate",
+      "url": "https://www.ilnotiziario.net/ricette-false-per-ottenere-potenti-oppioidi-ai-fini-di-spaccio-arrestato-in-farmacia-a-lentate-colpita-anche-lazzate/",
+      "excerpt": "Ricette false per avere oppiodi da destinare quasi certamente allo spaccio, un arresto e una denuncia a Lentate. Si presentavano...",
+      "publishedAt": "2026-11-24T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Rubano auto da oltre 300mila euro, due uomini fermati a Milano",
+      "url": "https://www.ilnotiziario.net/rubano-auto-da-oltre-300mila-euro-due-uomini-fermati-a-milano/",
+      "excerpt": "Rubano auto da oltre 300mila euro, due uomini fermati a Milano Un laboratorio attrezzato per clonare chiavi e manomettere i...",
+      "publishedAt": "2026-11-24T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Saronno, furti di carte di credito ai parcometri, l’allarme dei gestori: occhio ai raggiri",
+      "url": "https://www.ilnotiziario.net/saronno-furti-di-carte-di-credito-ai-parcometri-lallarme-dei-gestori-occhio-ai-raggiri/",
+      "excerpt": "A Saronno furti di carte di credito ai parcometri, l’allarme lanciato dai gestori. Attenzione massima quando si paga il...",
+      "publishedAt": "2026-11-24T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "Nord Sud Ovest Est, recensione: il nostalgico addio agli 883",
       "url": "https://www.ilnotiziario.net/nord-sud-ovest-est-recensione-il-nostalgico-addio-agli-883/",
@@ -79,41 +114,6 @@
       "excerpt": "Due interventi in meno di ventiquattro ore per gli agenti del Comando Unico della Polizia Locale di Nerviano – Pogliano,...",
       "publishedAt": "2026-11-23T00:00:00Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Garbagnate, l’ex ospedale candidato tra i Luoghi del cuore Fai",
-      "url": "https://www.ilnotiziario.net/garbagnate-lex-ospedale-candidato-tra-i-luoghi-del-cuore-fai/",
-      "excerpt": "Garbagnate, l’ex ospedale candidato tra i “Luoghi del cuore Fai. L’ex ospedale di Garbagnate torna al centro...",
-      "publishedAt": "2026-11-23T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Seregno, guida dopo la sospensione della patente, fermato di nuovo positivo all’alcoltest",
-      "url": "https://www.ilnotiziario.net/seregno-guida-dopo-la-sospensione-della-patente-fermato-di-nuovo-positivo-allalcoltest/",
-      "excerpt": "Seregno, guida dopo la sospensione della patente, fermato di nuovo positivo all’alcoltest Un automobilista di 50 anni è...",
-      "publishedAt": "2026-11-22T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Notte di violenza nel centro di Saronno, spuntano coltelli, indagano i carabinieri",
-      "url": "https://www.ilnotiziario.net/notte-di-violenza-nel-centro-di-saronno-spuntano-coltelli-indagano-i-carabinieri/",
-      "excerpt": "Notte di violenza nel centro di Saronno, spuntano coltelli, indagano i carabinieri Una notte movimentata nel cuore di Saronno,...",
-      "publishedAt": "2026-11-22T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Melegnano, persona finisce nel Lambro: salvata dall’elicottero dei Vigili del Fuoco",
-      "url": "https://www.ilnotiziario.net/melegnano-persona-finisce-nel-lambro-salvata-dallelicottero-dei-vigili-del-fuoco/",
-      "excerpt": "Intervento di soccorso nella mattinata di domenica 22 novembre nelle acque del fiume Lambro, a Melegnano, all’altezza del ponte...",
-      "publishedAt": "2026-11-22T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Iniziativa di Confcommercio rivolta ai sindaci del Bollatese, Protocollo per riaprire i negozi",
-      "url": "https://www.ilnotiziario.net/iniziativa-di-confcommercio-rivolta-ai-sindaci-del-bollatese-protocollo-per-riaprire-i-negozi/",
-      "excerpt": "Iniziativa di Confcommercio rivolta ai sindaci del Bollatese, un Protocollo per far riaprire i negozi chiusi. Come si può...",
-      "publishedAt": "2026-11-22T00:00:00Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -127,5 +127,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 1.78
+  "durationSeconds": 2.59
 }

@@ -4,7 +4,7 @@
   "sourceId": "istituto-bruno-leoni",
   "originUrl": "https://www.brunoleoni.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-24T01:56:05.213059Z",
+  "collectedAt": "2026-11-24T12:58:23.051808Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -60,11 +60,11 @@
       "status": 200
     },
     {
-      "url": "https://www.brunoleoni.it/patrimoniale-no-grazie/",
+      "url": "https://www.brunoleoni.it/la-patrimoniale-e-il-primo-mattone/",
       "status": 200
     },
     {
-      "url": "https://www.brunoleoni.it/la-patrimoniale-e-il-primo-mattone/",
+      "url": "https://www.brunoleoni.it/patrimoniale-no-grazie/",
       "status": 200
     },
     {
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 5,
   "listingUrl": "https://www.brunoleoni.it/",
-  "durationSeconds": 5.29
+  "durationSeconds": 6.19
 }

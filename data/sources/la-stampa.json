@@ -4,107 +4,247 @@
   "sourceId": "la-stampa",
   "originUrl": "https://www.lastampa.it/",
   "configuredFeedUrl": "https://www.lastampa.it/rss/copertina.xml",
-  "collectedAt": "2026-11-24T01:56:07.408630Z",
+  "collectedAt": "2026-11-24T12:58:25.118478Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.lastampa.it/rss/copertina.xml",
   "items": [
     {
-      "title": "Le basi di Putin nel mar Mediterraneo e i carichi d’armi per l’ex Gruppo Wagner nel Sahel",
-      "url": "https://www.lastampa.it/esteri/2026/11/24/news/le_navi_e_le_basi_russe_in_libia_e_siria_e_i_carichi_d_armi_all_ex_gruppo_wagner_in_africa_centrale-15807052/",
-      "excerpt": "La guerra russa dalla Libia (a 800 km dall’Italia) e dalla Siria spediscono in Mali, Burkina Faso e Repubblica Centrafricana. Le navi colpite dagli ucraini, i porti e un traffico di droni e munizioni che era perfettamente visibile e a due passi da casa nostra: la “Angara” ha a lungo trasportato armi nordcoreane in Russ",
+      "title": "Di Giacomo, il medico Atp: “Sinner? Guarigione più veloce, giusta un’altra strategia”",
+      "url": "https://www.lastampa.it/sport/2026/11/24/news/sinner_operazione_intervista_medico_atp-15807250/",
+      "excerpt": "Giovanni Di Giacomo, responsabile sanitario per l’Italia dell’associazione dei tennisti: “Hanno capito che i trattamenti conservativi non potevano bastare”",
       "publishedAt": "2026-11-24T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Libia, fonti dell’est: il raid contro le navi russe col sostegno dell’intelligence inglese",
+      "title": "Iran, l’avvertimento Usa: “Trump è pronto a colpire ancora”",
+      "url": "https://www.lastampa.it/esteri/2026/11/24/news/iran_trump_huckabee_condizioni_usa_accordo_teheran_hormuz-15807462/",
+      "excerpt": "Da Israele, l’ambasciatore americano Mike Huckabee detta le tre condizioni per un accordo con Teheran: niente atomica, niente uranio arricchito e libertà di navigazione a Hormuz",
+      "publishedAt": "2026-11-24T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Il diario di Papa Francesco: “Ho visto il Diavolo, l’ho guardato negli occhi”",
+      "url": "https://www.lastampa.it/cultura/2026/11/24/news/il_diario_di_papa_francescoho_visto_il_diavolol_ho_guardato_negli_occhi-15807115/",
+      "excerpt": "Pubblicate dalla Libreria Editrice Vaticana le carte private di Bergoglio, nelle quali racconta le visioni del maligno e della porta dell’Inferno",
+      "publishedAt": "2026-11-24T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "L’avventura unica di un Pontefice che racconta la sua crisi spirituale",
+      "url": "https://www.lastampa.it/cronaca/2026/11/24/news/papa_francesco_satana_crisi_spirituale-15807082/",
+      "excerpt": "Tra il 2021 e il 2022 Bergoglio parlò di «aridità e desolazione»",
+      "publishedAt": "2026-11-24T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "L’Anticristo e il suo regno sono vicini",
+      "url": "https://www.lastampa.it/cultura/2026/11/24/news/l_anticristo_all_opera_ovunque_senza_contrasto_minaccia_il_futuro_stesso_dell_umanita-15807128/",
+      "excerpt": "Le visioni del Papa lette attraverso gli eventi che ci circondano",
+      "publishedAt": "2026-11-24T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Torino, la panchina rossa diventa un caso: gli avvocati penalisti non la vogliono nel giardino del tribunale",
+      "url": "https://www.lastampa.it/torino/2026/11/24/news/panchina_rossa_rifiuto_avvocati_camera_penale_violenza_donne_fuori_palagiustizia-15807331/",
+      "excerpt": "I penalisti: «Il Palazzo di Giustizia deve garantire a tutti, anche sul piano simbolico»",
+      "publishedAt": "2026-11-24T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Gisele Pelicot, stupri messi in dubbio e foto intime diffuse: in Francia il libro dello scandalo",
+      "url": "https://www.lastampa.it/esteri/2026/11/24/news/gisele_pelicot_denuncia_editore_saggio_stupri_foto_intime-15807468/",
+      "excerpt": "Un saggio parla di «responsabilità di dominante e dominato», anche se non in modo simmetrico. L’indignazione della donna dopo le condanne del marito e degli uomini che l’hanno abusata per anni: denuncerà la casa editrice",
+      "publishedAt": "2026-11-24T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Caselli: “De Gennaro salvò il Paese dall’abisso mafioso. Senza senso la richiesta dei domiciliari”",
+      "url": "https://www.lastampa.it/cronaca/2026/11/24/news/caselli_de_gennaro_salvato_paese_abisso_mafioso_senza_senso_richiesta_domiciliari-15807229/",
+      "excerpt": "L’ex procuratore di Palermo: «La tesi che le stragi siano legate al filone mafia-appalti è infondata»",
+      "publishedAt": "2026-11-24T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Dall’Antimafia al Covid: il centrodestra e il cortocircuito delle Commissioni d’inchiesta",
+      "url": "https://www.lastampa.it/politica/2026/11/24/news/antimafia_covid_commissioni_inchiesta_centrodestra_diviso-15807474/",
+      "excerpt": "I dossier irrisolti riaprono lo scontro tra maggioranza e opposizioni. E la riunione dell'ufficio di presidenza rischia di diventare un regolamento di conti su Chiara Colosimo",
+      "publishedAt": "2026-11-24T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Le basi di Putin nel mar Mediterraneo e i carichi d’armi per l’ex Gruppo Wagner nel Sahel",
+      "url": "https://www.lastampa.it/esteri/2026/11/24/news/le_navi_e_le_basi_russe_in_libia_e_siria_e_i_carichi_d_armi_all_ex_gruppo_wagner_in_africa_centrale-15807052/",
+      "excerpt": "La guerra russa nel mare Nostrum: dalla Libia (a 800 km dall’Italia) e dalla Siria i russi spediscono in Mali, Burkina Faso e Repubblica Centrafricana. Le navi colpite dagli ucraini, i porti e un traffico di droni e munizioni che era perfettamente visibile e a due passi da casa nostra: la “Angara” ha a lungo trasportat",
+      "publishedAt": "2026-11-24T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Stasi e il desiderio di diventare padre: a mio figlio dovrò spiegare Garlasco",
+      "url": "https://www.lastampa.it/cronaca/2026/11/24/news/garlasco_alberto_stasi_diventare_padre-15807451/",
+      "excerpt": "L’uomo condannato a 16 anni per il delitto di Chiara Poggi ripercorre la sua storia: “Ho la coscienza a posto, sono innocente”",
+      "publishedAt": "2026-11-24T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "“Per diciotto volte si è scagliato sulla vittima”: così Leo ha ucciso il titolare del Manhattan di Torino",
+      "url": "https://www.lastampa.it/torino/2026/11/23/news/francesco_zangari_daniele_leo_come_e_morto-15807141/",
+      "excerpt": "Il dipendente del pub fermato per aver ammazzato di botte il suo datore di lavoro: per il giudice è «incapace di autocontrollo»",
+      "publishedAt": "2026-11-24T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "In tenda per protesta davanti alla Sapienza: studente 58enne muore durante lo sciopero della fame",
+      "url": "https://www.lastampa.it/cronaca/2026/11/24/news/in_tenda_per_protesta_davanti_alla_sapienza_studente_58enne_muore_durante_lo_sciopero_della_fame-15807302/",
+      "excerpt": "Roma, si era unito alla mobilitazione per il diritto alla casa. La rettrice: «Profondo cordoglio»",
+      "publishedAt": "2026-11-24T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Le immagini satellitari dopo l'attacco ucraino nel porto di Bengasi",
+      "url": "https://www.lastampa.it/esteri/2026/11/24/video/attacco_ucraina_porto_bengasi_immagini_satellitari-15807385/",
+      "excerpt": "La Merkury appare capovolta nell’acqua, mentre poco distante si trova il mercantile Angara danneggiato: le immagini satellitari di Vantor, scattate il 23 novembre, mostrano le conseguenze dell’attacco nel porto libico di Bengasi. Zelensky ha rivendicato l’operazione condotta il giorno precedente con droni navali, dichi",
+      "publishedAt": "2026-11-24T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Tutti esperti di privacy, tutti giudici: il processo social alla figlia di Bruce Willis per una foto",
+      "url": "https://www.lastampa.it/plus/rubriche/polemicamente/2026/11/24/news/figlia_bruce_willis_foto_polemica_social_privacy-15806871/",
+      "excerpt": "Tallulah, travolta dalle critiche, rimuove lo scatto: è polemica sulla spettacolarizzazione della fragilità e il consenso",
+      "publishedAt": "2026-11-24T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "La Superluna del Castoro illumina il cielo: stasera lo spettacolo più grande e luminoso",
+      "url": "https://www.lastampa.it/cronaca/2026/11/24/news/la_superluna_del_castoro_illumina_il_cielo_stasera_lo_spettacolo_piu_grande_e_luminoso-15807317/",
+      "excerpt": "Il satellite si trova a 360 mila chilometri, la distanza minima dalla Terra. Tutti i consigli per godersi lo show",
+      "publishedAt": "2026-11-24T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Elisa Confortola e il rumore del ghiaccio",
+      "url": "https://www.lastampa.it/sport/2026/11/24/news/confortola_shorttrack_indovinachi-15807263/",
+      "excerpt": "Due vittorie consecutive nei 1500 metri nel World Tour dello short track. Oro in squadra ai Giochi di Milano Cortina, ma e ora è tutta un’altra pista",
+      "publishedAt": "2026-11-24T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Belle e belli a tutti i costi",
+      "url": "https://www.lastampa.it/plus/rubriche/society/2026/11/24/news/skyglass_skincare_corea_moda-15806794/",
+      "excerpt": "Dalla Corea del Sud arriva la “glass skin”, estrema e perfetta per i social",
+      "publishedAt": "2026-11-24T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Oggi il red carpet e le stelle al Torino Film Festival. John Travolta: “Emozionato di essere qui”",
+      "url": "https://www.lastampa.it/torino/2026/11/24/news/torino_film_festival_programma_inaugurazione_oggi-15807156/",
+      "excerpt": "Comincia la kermesse del cinema in città: la festa al Regio a partire dalle 17 e la consegna delle prime Stelle della Mole",
+      "publishedAt": "2026-11-24T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Tarantino, terzo figlio a 63 anni: “Prima solo cinema”, poi l'incontro che gli ha cambiato la vita",
+      "url": "https://www.lastampa.it/spettacoli/2026/11/24/news/quentin_tarantino_terzo_figlio_63_anni-15807458/",
+      "excerpt": "Il regista diventa padre per la terza volta con la moglie Daniella Pick, sposata nel 2018. L'incontro con la cantante israeliana gli ha cambiato la vita",
+      "publishedAt": "2026-11-24T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "“Ho cambiato vita tre volte, oggi faccio la pizza in Svizzera accanto alla mia famiglia”",
+      "url": "https://www.lastampa.it/sapore/2026/11/24/news/francesco_pone_pizza_svizzera_cambio_vita_storia-15807300/",
+      "excerpt": "Da Napoli a Neuchâtel, da garzone al successo, Francesco Pone si è reinventato, da solo, al di là delle Alpi: «Credevo di aver fatto venti passi indietro, invece ho guadagnato la libertà»",
+      "publishedAt": "2026-11-24T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "La protesta dei ragazzi mi emoziona, a scuola va insegnata la fiducia",
+      "url": "https://www.lastampa.it/cultura/2026/11/24/news/daniel_pennac_mi_emoziona_la_protesta_dei_ragazzi_a_scuola_va_insegnata_la_fiducia-15807166/",
+      "excerpt": "Lo scrittore: «I bambini non sono cambiati: siamo stati noi a trasformarli in consumatori»",
+      "publishedAt": "2026-11-24T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Rapinano un passante ma la fuga finisce male: si gettano in mare e restano bloccati sullo scoglio",
+      "url": "https://www.lastampa.it/video/dai-social/2026/11/24/video/rapina_passante_fuga_mare_bloccati_scoglio-15807497/",
+      "excerpt": "La fuga finisce sulla spiaggia, con due arresti. A El Quisco, sulla costa cilena, due uomini accusati di aver rubato un cellulare a un passante si sono gettati in mare per sottrarsi ai Carabineros e agli agenti della sicurezza municipale. Secondo la ricostruzione di BioBioChile, uno è tornato poco dopo a riva, dove è s",
+      "publishedAt": "2026-11-24T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Strozzano il tassista mentre l'auto è in corsa: l'auto sbanda e i ladri finiscono male",
+      "url": "https://www.lastampa.it/video/dai-social/2026/11/24/video/rapina_tassista_auto_in_corsa_video-15807443/",
+      "excerpt": "Uno dei passeggeri si sporge dal sedile posteriore e stringe il collo del tassista, mentre il complice gli ruba il denaro. Le immagini della telecamera di bordo documentano l’aggressione avvenuta il 28 aprile a Carlton, vicino a Nottingham, dopo una discussione sul prezzo della corsa. Quando il conducente tenta di ripa",
+      "publishedAt": "2026-11-24T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Gorgonzola e Champagne, gli Usa all’assalto delle etichette geografiche",
+      "url": "https://www.lastampa.it/economia/2026/11/24/news/gorgonzola_champagne_usa_assalto_etichette_geografiche-15807176/",
+      "excerpt": "Una serie di norme di Washington punta a “liberalizzare” le denominazioni. Iniziativa italiana con la Ue per tutelare i marchi dell’agroalimentare",
+      "publishedAt": "2026-11-24T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Volkswagen, Dieselgate: al via l’ultimo maxi processo per frode in Germania",
+      "url": "https://www.lastampa.it/economia/2026/11/24/news/volkswagen_dieselgate_ultimo_processo_frode_germania-15807448/",
+      "excerpt": "Agli imputati viene contestato di non aver impedito la prosecuzione della produzione e della commercializzazione di veicoli dotati di un dispositivo illegale di manipolazione delle emissioni, pur essendo a conoscenza della sua esistenza",
+      "publishedAt": "2026-11-24T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Torino, i salesiani lasciano la Crocetta dopo 103 anni: addio alla scuola di Teologia, basket a rischio",
+      "url": "https://www.lastampa.it/torino/2026/11/24/news/salesiani_lasciano_isolato_crocetta_basket_scout_universita_pontificia_sacerdoti-15807369/",
+      "excerpt": "In vendita il complesso sede anche dell’oratorio, del collegio e del gruppo scout. L’Università pontificia sarà trasferita a Roma entro il 2029. I vertici della società con circa 600 tesserati vogliono un dialogo con la nuova proprietà e si appellano alla città",
+      "publishedAt": "2026-11-24T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Terme chiuse, alberghi in crisi: ad Acqui è l’autunno più duro di sempre",
+      "url": "https://www.lastampa.it/alessandria/2026/11/24/news/crisi_acqui_terme_chiuse_alberghi_senza_clienti-15807023/",
+      "excerpt": "Le strutture ricettive sprangate in anticipo per l’assenza di clienti: ora in gioco c’è la loro sopravvivenza. Palazzo Levi chiede ristori alla Regione in attesa della ripartenza. De Angelis: “Si usino i soldi delle feste”",
+      "publishedAt": "2026-11-24T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Non aprite quella mail",
+      "url": "https://www.lastampa.it/speciale/cultura/fuoriclasse/2026/11/24/news/non_aprite_quella_mail-15806466/",
+      "excerpt": "«Ma hanno fatto evacuare anche voi? Il preside ci ha mandati a casa… hanno detto che c’era una bomba. Ho paura, tu come stai?”. Sono queste le parole, appesantite da un denso tono spaventato, ...",
+      "publishedAt": "2026-11-24T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Nati con lo smartphone ma ancora impreparati a tutti i rischi nascosti in rete",
+      "url": "https://www.lastampa.it/speciale/cultura/fuoriclasse/2026/11/24/news/nati_con_lo_smartphone_ma_ancora_impreparati_a_tutti_i_rischi_nascosti_in_rete-15806488/",
+      "excerpt": "Se hai diciassette anni, il tuo mondo passa attraverso uno schermo. Tra appunti sul cloud, registro elettronico e vite sociali su Instagram e TikTok, siamo la generazione ...",
+      "publishedAt": "2026-11-24T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Il prezzo nascosto dei vestiti low cost che durano un attimo",
+      "url": "https://www.lastampa.it/speciale/cultura/fuoriclasse/2026/11/24/news/il_prezzo_nascosto_dei_vestiti_low_cost_che_durano_un_attimo-15806548/",
+      "excerpt": "Ormai la fast fashion è ovunque. Apriamo TikTok o Instagram e veniamo sommersi da video di haul con pacchi enormi, che arrivano a raffica ogni settimana con all’interno vestiti ...",
+      "publishedAt": "2026-11-24T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Quando una voce sembra sincera, ma dietro si nasconde la trappola",
+      "url": "https://www.lastampa.it/speciale/cultura/fuoriclasse/2026/11/24/news/quando_una_voce_sembra_sincera_ma_dietro_si_nasconde_la_trappola-15806553/",
+      "excerpt": "È successo alla cugina di una delle nostre nonne. Squilla il telefono. Dall’altra parte, la voce di una figlia che piange e racconta di aver investito una bambina. Subito dopo interviene ...",
+      "publishedAt": "2026-11-24T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Uve sane e un territorio da scoprire: l’Erbaluce resiste alla prova del caldo e rilancia il Canavese",
+      "url": "https://www.lastampa.it/sapore/2026/11/24/news/erbaluce_canavese_uve_resistono_caldo-15807376/",
+      "excerpt": "Nell’anno della vendemmia più precoce del secolo, il vitigno passa l’esame delle temperature estreme. Dagli spumanti al passito, il bianco piemontese scende in campo nell’enoturismo",
+      "publishedAt": "2026-11-24T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Hegseth blocca i missili per i Patriot a Kiev. 700 mila soldati russi morti da inizio guerra",
       "url": "https://www.lastampa.it/esteri/2026/11/24/diretta/guerra_russia_ucraina_news_oggi-15807272/",
-      "excerpt": "Guardian: «Quasi 500mila russi morti dall'inizio della guerra»",
-      "publishedAt": "2026-11-23T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "De Gennaro, i dubbi e i misteri di 30 anni di silenzi: cosa nascondono i documenti distrutti?",
-      "url": "https://www.lastampa.it/cronaca/2026/11/23/news/de_gennaro_i_dubbi_e_i_misteri_di_30_anni_di_silenzi_cosa_nascondono_i_documenti_distrutti-15806301/",
-      "excerpt": "Le tesi dei magistrati di Caltanissetta: dalle contestazioni al no all’arresto",
-      "publishedAt": "2026-11-23T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Fisco, Mattarella: “Contribuire tutti per contribuire meno”",
-      "url": "https://www.lastampa.it/politica/2026/11/23/news/fisco_tasse_mattarella_contribuire_tutti_meno-15806970/",
-      "excerpt": "Il presidente della Repubblica ha incontrato i nuovi magistrati tributari",
-      "publishedAt": "2026-11-23T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Trump fa pressioni su Nvidia e ottiene il ritorno di Jensen Huang. Il presidente americano: “Decisione giusta”",
-      "url": "https://www.lastampa.it/economia/2026/11/23/news/nvidia_annuncio_ritorno_huang-15806733/",
-      "excerpt": "Il reintegro «con effetto immediato» è stato comunicato a pochi minuti dall’apertura di Wall Street, dove l’azienda schizza del 30%. L’ad: «Onorato di tornare»",
-      "publishedAt": "2026-11-23T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Nvidia, Alice Huang in contatto con le spie cinesi durante la relazione con Jensen. Trump sapeva",
-      "url": "https://www.lastampa.it/esteri/2026/11/23/news/alice_huang_jensen_intelligence_cinese_trump_nyt-15806455/",
-      "excerpt": "Il New York Times: l’intelligence Usa monitorava la donna da oltre un anno. Il presidente Usa fu informato almeno due volte ma minimizzò",
-      "publishedAt": "2026-11-23T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Sinner in Finlandia, si va verso l’operazione al ginocchio e uno stop di altri 3-4 mesi",
-      "url": "https://www.lastampa.it/sport/2026/11/23/news/jannik_sinner_operazione_ginocchio-15806645/",
-      "excerpt": "L’intervento chirurgico sarebbe affidato a Lasse Lempainen già domani",
-      "publishedAt": "2026-11-23T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Lasse Lempainen il “salva campioni”, chi è il chirurgo che opererà Sinner",
-      "url": "https://www.lastampa.it/sport/tennis/2026/11/23/news/lasse_lempainen_chi_e_chirurgo_finlandese_che_opera_sinner-15806904/",
-      "excerpt": "Quarantotto anni, finlandese, specializzato nel trattamento di lesioni al ginocchio: in passato si è preso cura di sportivi e calciatori",
-      "publishedAt": "2026-11-23T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "C’è anche Mina nel nuovo album dei Maneskin",
-      "url": "https://www.lastampa.it/spettacoli/2026/11/23/news/c_e_anche_mina_nel_nuovo_album_dei_maneskin-15807036/",
-      "excerpt": "Il gruppo guidato da Damiano David avrebbe voluto coinvolgere anche Patty Smith, ma l’operazione non sarebbe andata in porto",
-      "publishedAt": "2026-11-23T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Totti: “Non riesco a perdonare Ilary e non ho mai detto ti voglio bene a papà”",
-      "url": "https://www.lastampa.it/spettacoli/2026/11/23/news/francesco_totti_belve_ilary_blasi_intervista-15806838/",
-      "excerpt": "L’ex capitano della Roma si racconta nella prima puntata di Belve: «Sul mio successo hanno mangiato in tanti, anche i parenti»",
-      "publishedAt": "2026-11-23T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Chiara Ferragni, quante macerie sotto la perfezione: “la relazione tossica” con Fedez, i tradimenti, la depressione",
-      "url": "https://www.lastampa.it/spettacoli/2026/11/23/news/chiara_ferragni_documentario_netflix_chiara-15806540/",
-      "excerpt": "Dallo scandalo Pandoro al divorzio con Fedez: su Netflix l'imprenditrice si toglie la maschera e mostra le ferite dietro il personaggio",
-      "publishedAt": "2026-11-23T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Miley Cyrus e Maxx Morando, dall’appuntamento al buio alle nozze da sogno in California",
-      "url": "https://www.lastampa.it/spettacoli/2026/11/23/news/miley_cyrus_maxx_morando_nozze_california-15806436/",
-      "excerpt": "La pop star 33enne ha sposato il musicista 28enne il 21 novembre a Palm Springs, con una cerimonia intima celebrata da Wayne Coyne dei Flaming Lips. La loro storia è iniziata cinque anni fa grazie a un incontro organizzato da amici comuni",
-      "publishedAt": "2026-11-23T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Il nuovo concorso per i prof per quasi 14mila posti: tutto quello che c’è da sapere",
-      "url": "https://www.lastampa.it/cronaca/2026/11/23/news/scuola_nuovo_concorso_prof_14mila_cattedre-15807032/",
-      "excerpt": "Nel prossimo anno scolastico si stimano almeno 37mila cattedre da coprire. Le nuove selezioni per le materie in cui le graduatorie si sono svuotate",
-      "publishedAt": "2026-11-23T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Garlasco, Pappalardo su Sempio: “Avevamo 111mila fascicoli, devo per forza conoscere tutti?”",
-      "url": "https://www.lastampa.it/cronaca/2026/11/23/video/garlasco_pappalardo_sempio_111mila_fascicoli-15806407/",
-      "excerpt": "L’ex maggiore dei carabinieri Maurizio Pappalardo risponde alle domande dell’inviata di Lo Stato delle Cose sulle sue dichiarazioni agli inquirenti nell’ambito del caso Garlasco. Sentito lo scorso febbraio, aveva affermato di non sapere chi fosse Andrea Sempio, nonostante nel suo reparto fosse stato trovato un fascicol",
+      "excerpt": "Il Ft: Hegseth sta bloccando la consegna di 60 missili per Patriot all'Ucraina",
       "publishedAt": "2026-11-23T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -116,135 +256,9 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Littizzetto, la letterina ai caregiver: \"Chi si prende cura di chi cura?\"",
-      "url": "https://www.lastampa.it/spettacoli/2026/11/23/video/littizzetto_caregiver_letterina_che_tempo_che_fa-15806874/",
-      "excerpt": "«La cura di un familiare non è un hobby». Nella sua letterina, Luciana Littizzetto dà voce alle difficoltà di chi assiste ogni giorno una persona della propria famiglia e attacca il governo per le risorse destinate ai caregiver. Nel mirino della comica torinese finiscono la ministra Alessandra Locatelli e il contributo",
-      "publishedAt": "2026-11-23T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Manovra, la fiera degli emendamenti da Padre Pio ai preservativi a scuola",
-      "url": "https://www.lastampa.it/economia/2026/11/23/news/la_fiera_degli_emendamenti_da_padre_pio_ai_preservativi_a_scuola-15806500/",
-      "excerpt": "Oggi l’ammissibilità della commissione Bilancio darà una sforbiciata alle 7mila proposte dei deputati alla legge di bilancio. Tra i micro interventi multe sui bisogni dei cani, fondi per lo studio dei dialetti e restyling del parco di Pinocchio",
-      "publishedAt": "2026-11-23T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Gara di cattivisti sui cortei tra Lega e FdI. Garantisti contro la sospensione delle borse di studio",
-      "url": "https://www.lastampa.it/politica/2026/11/23/news/gara_di_cattivisti_sui_cortei_tra_lega_e_fdi_garantisti_contro_la_sospensione_delle_borse_di_studio-15807109/",
-      "excerpt": "Ieri il Carroccio ha lanciato l’idea di un nuovo reato: lo «squadrismo eversivo di piazza»",
-      "publishedAt": "2026-11-23T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "L’affollata corsa per il Comune di Milano: da Majorino a Burgio, tutti vogliono un posto a Palazzo",
-      "url": "https://www.lastampa.it/milano/2026/11/23/news/milano_elezioni_comunali_corsa_nomi_centrodestra_centrosinistra-15807148/",
-      "excerpt": "Alla Triennale, Italia Direzione Nord offre una prima fotografia della sfida del 2027",
-      "publishedAt": "2026-11-23T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Perché la Coca-Cola è finita nel mirino dell’Ue e Bruxelles ha aperto un’indagine",
-      "url": "https://www.lastampa.it/economia/2026/11/23/news/coca_cola_indagine_ue_antitrust_concorrenza_sleale-15806662/",
-      "excerpt": "L’Antitrust sospetta che il gruppo abbia abusato della propria posizione dominante per ostacolare la circolazione di bibite tra Paesi e veicolando i prezzi",
-      "publishedAt": "2026-11-23T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Nasce la Guida Michelin delle Uve: la prima selezione italiana sarà dedicata al Piemonte",
-      "url": "https://www.lastampa.it/sapore/2026/11/23/news/guida_michelin_uve_piemonte_prima_selezione_italiana-15806798/",
-      "excerpt": "La Rossa ha scelto «un territorio conosciuto a livello internazionale per la qualità e la varietà dei suoi vitigni autoctoni, a partire dal Nebbiolo»",
-      "publishedAt": "2026-11-23T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Troppi convocati nelle nazionali, così la serie A paga la presenza dei troppi giocatori stranieri",
-      "url": "https://www.lastampa.it/sport/calcio/2026/11/23/news/nazionali_serie_a_record_convocazioni-15806946/",
-      "excerpt": "I club italiani fronteggiano molte più partenze rispetto a Bundesliga, Liga e Ligue 1. Così aumentano stanchezza e usura fisica. Un problema in più oltre alle poche alternative in azzurro. Davanti solo la Premier League che, però, compra i migliori del mondo",
-      "publishedAt": "2026-11-23T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Woltemade e Kolo Muani in versione Blues Brothers, Osmaijc canta “Crazy Train”",
-      "url": "https://www.lastampa.it/sport/calcio/2026/11/23/news/serie_a_pagellone_12_giornata-15806470/",
-      "excerpt": "Mentre Spalletti invoca una punta di peso, i due bianconeri segnano con dedica: “Everybody Needs Somebody to Love”. L’attaccante del Genoa viaggia spedito, dai morsi alle doppiette: è un Ozzy Osbourne rossoblù. Allegri con i dreddlock per un Napoli che non trova il giusto mood. Malen? Poker face. Ecco i voti, i protago",
-      "publishedAt": "2026-11-23T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Ebola in Congo, distese di tombe raccontano un’emergenza più grave dei bilanci ufficiali",
-      "url": "https://www.lastampa.it/esteri/2026/11/23/video/ebola_congo_tombe_emergenza_bilanci_ufficiali-15806380/",
-      "excerpt": "Dall’alto, le sepolture si susseguono nel cimitero CECA di Mongbwalu, città mineraria nell’est della Repubblica Democratica del Congo. Le immagini, girate da Reuters a luglio, mostrano l’estensione delle tombe accumulate durante l’epidemia di Ebola. Analizzando immagini satellitari e confrontando le nuove sepolture con",
-      "publishedAt": "2026-11-23T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Gianni De Gennaro, l’ultimo pranzo in Maremma: “Era diverso, sembrava preoccupato”",
-      "url": "https://www.lastampa.it/cronaca/2026/11/23/video/gianni_de_gennaro_ultimo_pranzo_maremma_ristoratore_testimonianza_morte-15806931/",
-      "excerpt": "Mercoledì scorso, alla trattoria Il Bracconiere dov’era solito andare a pranzo con la famiglia o con la scorta durante i suoi weekend nella Maremma, Gianni De Gennaro sembrava turbato. «Era diverso. Non la stessa persona di sempre». Gianfranco Ricci, il titolare della trattoria a Fonteblanda, frazione di Orbetello, in ",
-      "publishedAt": "2026-11-23T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
       "title": "\"È un rettiliano\": lo strano movimento degli occhi dietro Mamdani scatena le teorie del complotto",
       "url": "https://www.lastampa.it/video/socialnews/2026/11/23/video/mamdani_jordan_wright_occhi_rettiliano_virale_new_york-15807016/",
       "excerpt": "Un movimento insolito degli occhi, pochi secondi di video e una teoria del complotto che esplode sui social. Durante una conferenza stampa del sindaco di New York, Zohran Mamdani, venerdì 20 novembre, il deputato democratico Jordan J.G. Wright, alle sue spalle, ruota gli occhi all’indietro. Le immagini diventano virali",
-      "publishedAt": "2026-11-23T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "De Villepin, l’ultimo gollista contro l’ondata rossobruna. Il suo slogan: “E se ci amassimo ancora?”",
-      "url": "https://www.lastampa.it/esteri/2026/11/23/news/de_villepin_francia_elezioni_presidenziali_macron-15806245/",
-      "excerpt": "Per lui Macron è una «stella nera che diffonde i suoi raggi oscuri»",
-      "publishedAt": "2026-11-23T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Tumori pediatrici: il modello Piemonte e le sfide ancora aperte",
-      "url": "https://www.lastampa.it/torino/rubriche/un-mondo-di-salute/2026/11/23/news/tumori_pediatrici_il_modello_piemonte_e_le_sfide_ancora_aperte-15805143/",
-      "excerpt": "Tumori pediatrici, malattia e bambini: un connubio da brivido, al quale non ci si può rassegnare. Eppure, è una realtà. E l'oncologia pediatrica continua a confrontarsi con ...",
-      "publishedAt": "2026-11-23T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Piazza Affari, dividendi fuori stagione: dalle banche oltre 10 miliardi ai soci",
-      "url": "https://www.lastampa.it/economia/2026/11/23/news/piazza_affari_dividendi_banche_10_miliardi-15806182/",
-      "excerpt": "I risultati sopra le attese degli ultimi trimestri premiano gli azionisti con ricchi acconti sulle cedole dell’anno",
-      "publishedAt": "2026-11-23T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Travolto e ucciso in moto a Larizzate, arrestato il camionista che guidava in stato di ebbrezza",
-      "url": "https://www.lastampa.it/vercelli/2026/11/23/news/auto_moto_tir_incidente_area_industriale-15806959/",
-      "excerpt": "Vercelli, cordoglio per il ventinovenne vittima dell’incidente. Ed è sotto accusa la scarsa illuminazione dell’area industriale",
-      "publishedAt": "2026-11-23T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Assegni circolari falsi per truffare le banche, sei misure cautelari: blitz della Finanza di Imperia",
-      "url": "https://www.lastampa.it/imperia-sanremo/2026/11/23/news/assegni_circolari_falsi_arresti_della_finanza_di_imperia_per_truffa_e_blitz_in_tutta_italia-15806534/",
-      "excerpt": "L’operazione “Diogene”: perquisizioni in tutta Italia. Sgominata una banda che utilizzava “teste di legno”",
-      "publishedAt": "2026-11-23T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "“Mi porti sfortuna”. Perde 200 euro alle slot e aggredisce la fidanzata",
-      "url": "https://www.lastampa.it/verbano-cusio-ossola/2026/11/23/news/verbania_picchia_compagna_perdita_slota-15806631/",
-      "excerpt": "L’uomo, ubriaco, ha accusato la donna di avergli portato sfortuna e l’ha aggredita",
-      "publishedAt": "2026-11-23T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Delitto al Manhattan pub, fermo convalidato. Veglia per Franco: “Eri il nostro porto sicuro”",
-      "url": "https://www.lastampa.it/torino/2026/11/23/news/delitto_manhattan_fermo_convalidato_veglia_franco_zangari-15806166/",
-      "excerpt": "Fiori e lumini in via Giachino 46, dove il titolare del locale è stato ucciso. I dubbi dei conoscenti su Leo: «Da tempo era nei guai»",
-      "publishedAt": "2026-11-23T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Allarme bomba a scuola: la paura di noi ragazzi per il nemico senza volto",
-      "url": "https://www.lastampa.it/speciale/cultura/fuoriclasse/2026/11/23/news/allarme_bomba_a_scuola_la_paura_di_noi_ragazzi_per_il_nemico_senza_volto-15806137/",
-      "excerpt": "Domani con La Stampa l’inserto Fuoriclasse, il giornale scritto dagli studenti delle superiori che esce ogni martedì. Molti i temi di questo numero: gli attacchi hacker nelle scuole, se la moda è espressione di sé o omologazione, come gli adolescenti si difendono dalle truffe o ne sono vittime. Anticipiamo l’inserto co",
       "publishedAt": "2026-11-23T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -263,13 +277,6 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Gaffe di Tajani, stringe la mano a tutti tranne che a Olimpia Abbate: \"Guardi che sono il Questore\"",
-      "url": "https://www.lastampa.it/politica/2026/11/23/video/tajani-salerno-gaffe-stretta-mano-questora-olimpia-abbate-15806305/",
-      "excerpt": "Una stretta di mano mancata, poi la battuta davanti alle autorità. Durante la visita a Salerno, il 19 novembre, per il Salerno Export Hub 2026, il vicepremier e ministro degli Esteri Antonio Tajani saluta le persone presenti, ma non Olimpia Abbate, questora della città. È lei a richiamarlo: «Guardi che esiste anche la ",
-      "publishedAt": "2026-11-23T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
       "title": "Bigfoot, gli Usa aprono gli archivi: nel video del 1967 il mistero è in uno sguardo",
       "url": "https://www.lastampa.it/esteri/2026/11/22/video/bigfoot_dossier_usa_filmato_1967_patterson_gimlin_fotogramma_352-15805859/",
       "excerpt": "Orme da gigante. Misuravano 38 centimetri le impronte al centro di uno dei tre fascicoli su Bigfoot che il Servizio forestale americano ha pubblicato il 15 ottobre. Nel 1982 il biologo che le esaminò le giudicò probabilmente artificiali. Il video che ripubblichiamo oggi racconta un altro episodio. È il 20 ottobre 1967.",
@@ -280,13 +287,6 @@
       "title": "Blitz dell'Ice sull'aereo in partenza: gli agenti trascinano via la figlia tra le urla della madre",
       "url": "https://www.lastampa.it/esteri/2026/11/22/video/seattle_aeroporto_ice_arresti_passeggeri_ponte_imbarco_alaska_airlines-15805875/",
       "excerpt": "Agenti a volto coperto trascinano via una persona sul ponte d’imbarco. Nel video si sente una donna gridare che stanno portando via sua figlia e che ha un permesso di lavoro. È successo sabato 21 novembre all’aeroporto di Seattle-Tacoma, mentre era in corso l’imbarco per Los Angeles. L’Ice, la polizia federale per l’im",
-      "publishedAt": "2026-11-22T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Finte storie d'amore per costringerle a prostituirsi, la polizia sfonda la porta con l'ariete",
-      "url": "https://www.lastampa.it/esteri/2026/11/22/video/finte_storie_damore_per_costringerle_a_prostituirsi_la_polizia_sfonda_la_porta_con_lariete-15805903/",
-      "excerpt": "Dieci fermi in Romania nell’inchiesta su un gruppo che, secondo l’accusa, avrebbe adescato giovani donne fingendo relazioni sentimentali per poi costringerle a prostituirsi. La polizia ha identificato circa 20 vittime. A formare il gruppo, secondo la procura, sarebbero state cinque persone della stessa famiglia nel 202",
       "publishedAt": "2026-11-22T00:00:00Z",
       "dateEvidence": "feed:published"
     }
@@ -302,5 +302,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 0.66
+  "durationSeconds": 1.1
 }

@@ -19,7 +19,7 @@
 | copernicus | no_feed | crawl4ai | 0 | parsing_error |
 | coraggio-italia | no_feed | crawl4ai | 0 | parsing_error |
 | corte-conti | no_feed | crawl4ai | 0 | parsing_error |
-| dc-rotondi | ok | rss | 1 | — |
+| dc-rotondi | ok | rss | 2 | — |
 | demos-media | ok | trafilatura | 0 | — |
 | demos-partito | ok | rss | 1 | — |
 | emergency | ok | trafilatura | 1 | — |
@@ -35,7 +35,7 @@
 | il-fatto | blocked | html | 0 | robots_disallowed |
 | il-notiziario | ok | rss | 15 | — |
 | il-post | ok | trafilatura | 6 | — |
-| ingv | ok | rss | 6 | — |
+| ingv | ok | rss | 7 | — |
 | ispi | blocked | html | 0 | robots_disallowed |
 | ispra | ok | rss | 0 | — |
 | iss | error | html | 0 | connection_error |

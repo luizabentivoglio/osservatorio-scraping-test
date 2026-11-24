@@ -4,7 +4,7 @@
   "sourceId": "wwf",
   "originUrl": "https://www.wwf.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-24T01:56:44.935320Z",
+  "collectedAt": "2026-11-24T12:59:00.456983Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -32,6 +32,13 @@
       "dateEvidence": "jsonld:datePublished"
     },
     {
+      "title": "Contro la PdL Caccia, il 26 novembre a Roma grande mobilitazione",
+      "url": "https://www.wwf.it/pandanews/animali/caccia-26-novembre-mobilitazione/",
+      "excerpt": "Attesi anche esponenti del mondo della cultura, dello spettacolo e delle istituzioni",
+      "publishedAt": "2026-11-22T13:08:35Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
       "title": "C’era una volta una seppiolina",
       "url": "https://www.wwf.it/pandanews/animali/cera-una-volta-una-seppiolina/",
       "excerpt": "Per deporre le uova, le seppie cercano superfici adatte. In mare, però, trovano sempre più spesso qualcosa di diverso: come nasse e cogolli",
@@ -43,13 +50,6 @@
       "url": "https://www.wwf.it/pandanews/ambiente/giornata-nazionale-dellalbero-servono-citta-piu-verdi-e-piu-ricche-di-biodiversita/",
       "excerpt": "Dalla foresta ecuadoriana alle nostre città: ogni albero è un ecosistema complesso indispensabile contro isole di calore e crisi climatica",
       "publishedAt": "2026-11-21T07:00:00Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Il ritorno del lupo nell’area di Napoli",
-      "url": "https://www.wwf.it/pandanews/animali/ritorno-lupo-area-di-napoli/",
-      "excerpt": "Il WWF dedica il fine settimana del 21 e 22 novembre al predatore, tante le iniziative nelle Oasi",
-      "publishedAt": "2026-11-20T14:53:55Z",
       "dateEvidence": "jsonld:datePublished"
     }
   ],
@@ -75,15 +75,15 @@
       "status": 200
     },
     {
+      "url": "https://www.wwf.it/pandanews/animali/caccia-26-novembre-mobilitazione/",
+      "status": 200
+    },
+    {
       "url": "https://www.wwf.it/pandanews/animali/cera-una-volta-una-seppiolina/",
       "status": 200
     },
     {
       "url": "https://www.wwf.it/pandanews/ambiente/giornata-nazionale-dellalbero-servono-citta-piu-verdi-e-piu-ricche-di-biodiversita/",
-      "status": 200
-    },
-    {
-      "url": "https://www.wwf.it/pandanews/animali/ritorno-lupo-area-di-napoli/",
       "status": 200
     }
   ],
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.wwf.it/",
-  "durationSeconds": 6.65
+  "durationSeconds": 4.4
 }

@@ -4,7 +4,7 @@
   "sourceId": "amnesty",
   "originUrl": "https://www.amnesty.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-24T01:55:28.476307Z",
+  "collectedAt": "2026-11-24T12:57:41.014785Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -25,10 +25,10 @@
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "Italia: approvata legge che introduce definizione repressiva di antisemitismo",
-      "url": "https://www.amnesty.it/italia-approvata-legge-che-introduce-definizione-repressiva-di-antisemitismo/",
-      "excerpt": "Una giornata buia per la libertà d’espressione: resa giuridicamente vincolante la definizione operativa di antisemitismo dell’Ihra.",
-      "publishedAt": "2026-11-17T18:38:26Z",
+      "title": "Storico verdetto della Corte internazionale di giustizia sul genocidio contro i rohingya in Myanmar",
+      "url": "https://www.amnesty.it/storico-verdetto-della-corte-internazionale-di-giustizia-sul-genocidio-contro-i-rohingya-in-myanmar/",
+      "excerpt": "Una sentenza storica stabilisce che le autorità di Myanmar hanno commesso il crimine di genocidio contro la popolazione rohingya.",
+      "publishedAt": "2026-11-19T12:55:13Z",
       "dateEvidence": "jsonld:datePublished"
     }
   ],
@@ -39,10 +39,6 @@
     },
     {
       "url": "https://www.amnesty.it/",
-      "status": 200
-    },
-    {
-      "url": "https://www.amnesty.it/italia-approvata-legge-che-introduce-definizione-repressiva-di-antisemitismo/",
       "status": 200
     },
     {
@@ -63,6 +59,10 @@
     },
     {
       "url": "https://www.amnesty.it/tunisia-cinque-anni-di-carcere-per-sihem-ben-sedrine/",
+      "status": 200
+    },
+    {
+      "url": "https://www.amnesty.it/storico-verdetto-della-corte-internazionale-di-giustizia-sul-genocidio-contro-i-rohingya-in-myanmar/",
       "status": 200
     }
   ],
@@ -90,5 +90,5 @@
   "candidateCount": 12,
   "datedCount": 3,
   "listingUrl": "https://www.amnesty.it/",
-  "durationSeconds": 5.68
+  "durationSeconds": 6.74
 }

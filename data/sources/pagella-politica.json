@@ -4,12 +4,19 @@
   "sourceId": "pagella-politica",
   "originUrl": "https://pagellapolitica.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-24T01:56:18.756935Z",
+  "collectedAt": "2026-11-24T12:58:34.415885Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "Un sindaco può introdurre multe stradali legate al reddito?",
+      "url": "https://pagellapolitica.it/articoli/sindaco-multe-stradali-reddito",
+      "excerpt": "Lo propone Lorenzo Pacini, candidato alle primarie del centrosinistra a Milano, sulla scia di alcuni Paesi nordici....",
+      "publishedAt": "2026-11-23T00:00:00Z",
+      "dateEvidence": "html:post-date"
+    },
     {
       "title": "Non si sa come il “campo largo” voglia ripristinare il reddito di cittadinanza",
       "url": "https://pagellapolitica.it/articoli/reddito-di-cittadinanza-campo-largo",
@@ -44,13 +51,6 @@
       "excerpt": "La proposta prevede nuovi obblighi per gli editori di testi scolastici come Mondadori, guidata da Marina...",
       "publishedAt": "2026-11-19T00:00:00Z",
       "dateEvidence": "html:post-date"
-    },
-    {
-      "title": "Più Europa esagera gli effetti della legalizzazione della cannabis in Germania",
-      "url": "https://pagellapolitica.it/articoli/piu-europa-legalizzazione-cannabis-germania",
-      "excerpt": "Il calo dei reati è documentato, ma il partito semplifica troppo i risultati delle ricerche sui consumi e sulle...",
-      "publishedAt": "2026-11-19T00:00:00Z",
-      "dateEvidence": "html:post-date"
     }
   ],
   "attempts": [
@@ -60,6 +60,10 @@
     },
     {
       "url": "https://pagellapolitica.it/articoli",
+      "status": 200
+    },
+    {
+      "url": "https://pagellapolitica.it/articoli/sindaco-multe-stradali-reddito",
       "status": 200
     },
     {
@@ -81,10 +85,6 @@
     {
       "url": "https://pagellapolitica.it/articoli/forza-italia-emendamento-berlusconi",
       "status": 200
-    },
-    {
-      "url": "https://pagellapolitica.it/articoli/piu-europa-legalizzazione-cannabis-germania",
-      "status": 200
     }
   ],
   "message": "6 notizie recenti con data verificata; copertura parziale.",
@@ -92,5 +92,5 @@
   "candidateCount": 6,
   "datedCount": 6,
   "listingUrl": "https://pagellapolitica.it/articoli",
-  "durationSeconds": 5.27
+  "durationSeconds": 7.05
 }

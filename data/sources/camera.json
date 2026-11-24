@@ -4,16 +4,30 @@
   "sourceId": "camera",
   "originUrl": "https://www.camera.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-24T01:55:29.779287Z",
+  "collectedAt": "2026-11-24T12:57:42.532187Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
+      "title": "Svolgimento di interrogazioni",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64428",
+      "excerpt": "Nella parte antimeridiana della seduta di martedì 24 novembre ha avuto luogo lo svolgimento di inte...",
+      "publishedAt": "2026-11-24T00:00:00Z",
+      "dateEvidence": "html:publication-label"
+    },
+    {
       "title": "Giornata internazionale per l’eliminazione della violenza contro le donne - Mercoledì Montecitorio si illumina di arancione",
       "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64391",
       "excerpt": "La Camera dei deputati aderisce alla campagna dell’Onu per la Giornata internazionale per l'elimin...",
+      "publishedAt": "2026-11-23T00:00:00Z",
+      "dateEvidence": "html:publication-label"
+    },
+    {
+      "title": "Decreto scuola",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64411",
+      "excerpt": "Alle 11.30 la discussione generale del disegno di legge di conversione, con modificazioni, del dec...",
       "publishedAt": "2026-11-23T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
@@ -37,20 +51,6 @@
       "excerpt": "Martedì 24 novembre, alle ore 10.50, la Commissione Ambiente svolge le seguenti audizioni nell’am...",
       "publishedAt": "2026-11-23T00:00:00Z",
       "dateEvidence": "html:publication-label"
-    },
-    {
-      "title": "Calendario 2027 Polizia penitenziaria - Martedì alle 11 diretta webtv - Saluto di Mulè",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64379",
-      "excerpt": "Martedì 24 novembre, alle ore 11, presso l'Aula dei Gruppi parlamentari si svolge la presentazione ...",
-      "publishedAt": "2026-11-23T00:00:00Z",
-      "dateEvidence": "html:publication-label"
-    },
-    {
-      "title": "Progetto Mimosa: dalla rete al sistema - Martedì alle 11 diretta webtv - Saluto di Mulè",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64380",
-      "excerpt": "Martedì 24 novembre, alle ore 11, presso la Sala Matteotti di Palazzo Theodoli - Bianchelli si svol...",
-      "publishedAt": "2026-11-23T00:00:00Z",
-      "dateEvidence": "html:publication-label"
     }
   ],
   "attempts": [
@@ -63,7 +63,15 @@
       "status": 200
     },
     {
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64428",
+      "status": 200
+    },
+    {
       "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64391",
+      "status": 200
+    },
+    {
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64411",
       "status": 200
     },
     {
@@ -77,14 +85,6 @@
     {
       "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64376",
       "status": 200
-    },
-    {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64379",
-      "status": 200
-    },
-    {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64380",
-      "status": 200
     }
   ],
   "message": "6 notizie recenti con data verificata; copertura parziale.",
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://comunicazione.camera.it/archivio-prima-pagina",
-  "durationSeconds": 3.87
+  "durationSeconds": 6.29
 }

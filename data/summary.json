@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-24T01:56:51.586817+00:00",
+  "generatedAt": "2026-11-24T12:59:06.337861+00:00",
   "sourceCount": 67,
   "ok": 37,
-  "items": 153,
+  "items": 155,
   "results": [
     {
       "sourceId": "amnesty",
@@ -183,7 +183,7 @@
       "message": "Feed dichiarato dalla fonte; date di pubblicazione verificate.",
       "candidateCount": null,
       "datedCount": null,
-      "itemCount": 1
+      "itemCount": 2
     },
     {
       "sourceId": "demos-media",
@@ -343,7 +343,7 @@
       "message": "Feed dichiarato dalla fonte; date di pubblicazione verificate.",
       "candidateCount": null,
       "datedCount": null,
-      "itemCount": 6
+      "itemCount": 7
     },
     {
       "sourceId": "ispi",

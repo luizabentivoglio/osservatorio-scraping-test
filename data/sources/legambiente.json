@@ -4,7 +4,7 @@
   "sourceId": "legambiente",
   "originUrl": "https://www.legambiente.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-24T01:56:08.069454Z",
+  "collectedAt": "2026-11-24T12:58:25.578897Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -74,5 +74,5 @@
   "candidateCount": 12,
   "datedCount": 2,
   "listingUrl": "https://www.legambiente.it/",
-  "durationSeconds": 12.9
+  "durationSeconds": 7.0
 }

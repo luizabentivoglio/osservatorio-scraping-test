@@ -4,7 +4,7 @@
   "sourceId": "quirinale",
   "originUrl": "https://www.quirinale.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-24T01:56:34.269728Z",
+  "collectedAt": "2026-11-24T12:58:47.067282Z",
   "status": "blocked",
   "diagnosticCode": "access_restricted",
   "method": "html",
@@ -244,5 +244,5 @@
   "candidateCount": 12,
   "datedCount": 0,
   "listingUrl": "https://www.quirinale.it/",
-  "durationSeconds": 3.85
+  "durationSeconds": 4.42
 }

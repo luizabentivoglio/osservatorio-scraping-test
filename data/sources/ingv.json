@@ -4,12 +4,19 @@
   "sourceId": "ingv",
   "originUrl": "https://www.ingv.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-24T01:56:01.861960Z",
+  "collectedAt": "2026-11-24T12:58:18.935754Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.ingv.it/stampa-urp/ufficio-stampa/comunicati-stampa?format=feed&type=rss",
   "items": [
+    {
+      "title": "VULCANI | Rilevata dallo spazio una massiccia emissione di metano dal Fentale, in Etiopia",
+      "url": "https://www.ingv.it/stampa-urp/ufficio-stampa/comunicati-stampa/vulcani-rilevata-dallo-spazio-una-massiccia-emissione-di-metano-dal-fentale-in-etiopia",
+      "excerpt": "",
+      "publishedAt": "2026-11-24T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "GEONEUTRINI | Un nuovo modello 3D della crosta terrestre per interpretare le misure dell’esperimento Borexino",
       "url": "https://www.ingv.it/stampa-urp/ufficio-stampa/comunicati-stampa/geoneutrini-un-nuovo-modello-3d-della-crosta-terrestre-per-interpretare-le-misure-dell-esperimento-borexino",
@@ -68,5 +75,5 @@
     }
   ],
   "message": "Feed dichiarato dalla fonte; date di pubblicazione verificate.",
-  "durationSeconds": 1.09
+  "durationSeconds": 1.44
 }
