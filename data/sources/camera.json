@@ -4,52 +4,52 @@
   "sourceId": "camera",
   "originUrl": "https://www.camera.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-24T12:57:42.532187Z",
+  "collectedAt": "2026-11-24T23:39:33.177244Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
-      "title": "Svolgimento di interrogazioni",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64428",
-      "excerpt": "Nella parte antimeridiana della seduta di martedì 24 novembre ha avuto luogo lo svolgimento di inte...",
+      "title": "Confesercenti: verso una proposta di legge che garantisca più servizi, più imprese, città più sicure e più ricche - Mercoledì alle 10.30 diretta webtv",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64441",
+      "excerpt": "Mercoledì 25 novembre, alle ore 10.30, presso la Sala del Refettorio di Palazzo San Macuto si svolg...",
       "publishedAt": "2026-11-24T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "Giornata internazionale per l’eliminazione della violenza contro le donne - Mercoledì Montecitorio si illumina di arancione",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64391",
-      "excerpt": "La Camera dei deputati aderisce alla campagna dell’Onu per la Giornata internazionale per l'elimin...",
-      "publishedAt": "2026-11-23T00:00:00Z",
+      "title": "David Rossi, mercoledì audizione alle 10.30 - Diretta webtv",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64440",
+      "excerpt": "Mercoledì 25 novembre, alle ore 10.30, presso l'Aula del VI piano di Palazzo San Macuto, la Commiss...",
+      "publishedAt": "2026-11-24T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "Decreto scuola",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64411",
-      "excerpt": "Alle 11.30 la discussione generale del disegno di legge di conversione, con modificazioni, del dec...",
-      "publishedAt": "2026-11-23T00:00:00Z",
+      "title": "La tutela ambientale come strumento di prevenzione oncologica - Mercoledì alle 11 diretta webtv",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64433",
+      "excerpt": "Mercoledì 25 novembre, alle ore 11, presso la Sala Matteotti di Palazzo Theodoli - Bianchelli si sv...",
+      "publishedAt": "2026-11-24T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "Stati generali dell'energia - Martedì alle 9 diretta webtv",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64374",
-      "excerpt": "Martedì 24 novembre, alle ore 9, presso la Sala della Regina di Montecitorio si svolge il convegno ...",
-      "publishedAt": "2026-11-23T00:00:00Z",
+      "title": "SustArt - Sustainable Art - Mercoledì alle 11 diretta webtv",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64431",
+      "excerpt": "Mercoledì 25 novembre, alle ore 11, presso l'Aula dei Gruppi parlamentari si svolge il convegno \"Su...",
+      "publishedAt": "2026-11-24T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "Master Treccani - Martedì alle 10 diretta webtv",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64375",
-      "excerpt": "Martedì 24 novembre, alle ore 10, presso la Sala del Refettorio di palazzo San Macuto si svolge la ...",
-      "publishedAt": "2026-11-23T00:00:00Z",
+      "title": "Patto migrazione asilo, audizione prefetta Rabuano - Mercoledì alle 13.30 diretta webtv",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64432",
+      "excerpt": "Mercoledì 25 novembre, alle ore 13.30, presso l'Aula del III piano di Palazzo San Macuto, il Comita...",
+      "publishedAt": "2026-11-24T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "Campi Flegrei, audizioni martedì e mercoledì - Diretta webtv",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64376",
-      "excerpt": "Martedì 24 novembre, alle ore 10.50, la Commissione Ambiente svolge le seguenti audizioni nell’am...",
-      "publishedAt": "2026-11-23T00:00:00Z",
+      "title": "Politiche Ue, audizioni sindacati su appalti e concessioni – Mercoledì alle 12 diretta webtv",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64437",
+      "excerpt": "Mercoledì 25 novembre la Commissione Politiche Ue svolge le seguenti audizioni nell’ambito dell...",
+      "publishedAt": "2026-11-24T00:00:00Z",
       "dateEvidence": "html:publication-label"
     }
   ],
@@ -63,27 +63,27 @@
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64428",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64441",
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64391",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64440",
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64411",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64433",
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64374",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64431",
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64375",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64432",
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64376",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64437",
       "status": 200
     }
   ],
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://comunicazione.camera.it/archivio-prima-pagina",
-  "durationSeconds": 6.29
+  "durationSeconds": 4.28
 }

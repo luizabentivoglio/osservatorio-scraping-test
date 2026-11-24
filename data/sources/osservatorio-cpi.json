@@ -4,7 +4,7 @@
   "sourceId": "osservatorio-cpi",
   "originUrl": "https://osservatoriocpi.unicatt.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-24T12:58:31.384623Z",
+  "collectedAt": "2026-11-24T23:40:24.838158Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -78,5 +78,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://osservatoriocpi.unicatt.it/pubblicazioni.html",
-  "durationSeconds": 7.12
+  "durationSeconds": 7.84
 }

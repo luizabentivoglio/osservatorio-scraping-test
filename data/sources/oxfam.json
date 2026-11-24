@@ -4,12 +4,19 @@
   "sourceId": "oxfam",
   "originUrl": "https://www.oxfamitalia.org/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-24T12:58:32.585128Z",
+  "collectedAt": "2026-11-24T23:40:26.368778Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "Alluvioni a Gaza: migliaia di famiglie senza riparo",
+      "url": "https://www.oxfamitalia.org/alluvioni-a-gaza-migliaia-di-famiglie-senza-riparo/",
+      "excerpt": "Le forti piogge e gli allagamenti a Gaza hanno colpito migliaia di famiglie palestinesi sfollate, già costrette a vivere in tende e rifugi di fortuna.",
+      "publishedAt": "2026-11-24T11:43:20Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
     {
       "title": "GAZA AVVELENATA: LA GUERRA HA CONTAMINATO IL 99% DEL TERRITORIO",
       "url": "https://www.oxfamitalia.org/gaza-avvelenata-la-guerra-ha-contaminato-il-99-del-territorio/",
@@ -37,13 +44,6 @@
       "excerpt": "Il nostro nuovo rapporto “STATUS-QUOla. Contrastare le disuguaglianze per una scuola motore di equità sociale” fotografa una scuola che fatica a essere",
       "publishedAt": "2026-11-13T10:37:58Z",
       "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Pace nel mondo: sogno utopico o responsabilità collettiva?",
-      "url": "https://www.oxfamitalia.org/pace-nel-mondo/",
-      "excerpt": "Cosa significa pace oggi, perché l’ONU fatica a garantirla e cosa possono fare governi e cittadini. Il punto di vista di Oxfam.",
-      "publishedAt": "2026-11-10T17:09:38Z",
-      "dateEvidence": "jsonld:datePublished"
     }
   ],
   "attempts": [
@@ -53,6 +53,10 @@
     },
     {
       "url": "https://www.oxfamitalia.org/news/",
+      "status": 200
+    },
+    {
+      "url": "https://www.oxfamitalia.org/alluvioni-a-gaza-migliaia-di-famiglie-senza-riparo/",
       "status": 200
     },
     {
@@ -74,10 +78,6 @@
     {
       "url": "https://www.oxfamitalia.org/pace-nel-mondo/",
       "status": 200
-    },
-    {
-      "url": "https://www.oxfamitalia.org/webinar-contrastare-le-disuguaglianze-a-partire-dalla-scuola/",
-      "status": 200
     }
   ],
   "message": "5 notizie recenti con data verificata; copertura parziale.",
@@ -85,5 +85,5 @@
   "candidateCount": 8,
   "datedCount": 6,
   "listingUrl": "https://www.oxfamitalia.org/news/",
-  "durationSeconds": 4.06
+  "durationSeconds": 3.97
 }

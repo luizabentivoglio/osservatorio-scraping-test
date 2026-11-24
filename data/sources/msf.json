@@ -4,7 +4,7 @@
   "sourceId": "msf",
   "originUrl": "https://www.medicisenzafrontiere.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-24T12:58:29.238643Z",
+  "collectedAt": "2026-11-24T23:40:22.583447Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -20,7 +20,7 @@
     {
       "title": "Mali, colpita una struttura sanitaria a Niono: ucciso un operatore sanitario. MSF: “Le strutture sanitarie non sono bersagli”",
       "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/mali-colpita-struttura-sanitaria-niono-ucciso-operatore-sanitario-msf-strutture-sanitarie-non-sono-bersagli/",
-      "excerpt": "2 attacchi hanno colpito il villaggio di Arabebe, vicino a Niafounké, nel nord del Mali, e Niono, nella regione di Ségou, nel centro del paese, il 21 novembre. 2 persone hanno perso la vita, tra cui un operatore sanitario. All'interno dell'ospedale di Niono sono rimasti feriti anche 2 operatori sanitari, 2 persone che ",
+      "excerpt": "Due attacchi hanno colpito il villaggio di Arabebe, vicino a Niafounké, nel nord del Mali, e Niono, nella regione di Ségou, nel centro del paese, il 21 novembre. 2 persone hanno perso la vita, tra cui un operatore sanitario. All'interno dell'ospedale di Niono sono rimasti feriti anche 2 operatori sanitari, 2 persone ch",
       "publishedAt": "2026-11-23T13:45:19Z",
       "dateEvidence": "jsonld:datePublished"
     },
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.medicisenzafrontiere.it/",
-  "durationSeconds": 3.94
+  "durationSeconds": 3.78
 }

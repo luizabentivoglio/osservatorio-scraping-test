@@ -4,23 +4,100 @@
   "sourceId": "la-stampa",
   "originUrl": "https://www.lastampa.it/",
   "configuredFeedUrl": "https://www.lastampa.it/rss/copertina.xml",
-  "collectedAt": "2026-11-24T12:58:25.118478Z",
+  "collectedAt": "2026-11-24T23:40:17.023209Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.lastampa.it/rss/copertina.xml",
   "items": [
     {
-      "title": "Di Giacomo, il medico Atp: “Sinner? Guarigione più veloce, giusta un’altra strategia”",
-      "url": "https://www.lastampa.it/sport/2026/11/24/news/sinner_operazione_intervista_medico_atp-15807250/",
-      "excerpt": "Giovanni Di Giacomo, responsabile sanitario per l’Italia dell’associazione dei tennisti: “Hanno capito che i trattamenti conservativi non potevano bastare”",
+      "title": "Huang si scusa: “Ora vado in terapia. Non è stato Trump a farmi tornare”. E spunta il trader che ha guadagnato 312 milioni",
+      "url": "https://www.lastampa.it/esteri/2026/11/24/news/nvidia_huang_ritorno_trump-15808283/",
+      "excerpt": "Il ritorno del ceo scatena polemiche bipartisan e accuse di insider trading. Hillary Clinton parla di scandalo di sicurezza nazionale, mentre il Congresso chiede a Huang di testimoniare",
       "publishedAt": "2026-11-24T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Iran, l’avvertimento Usa: “Trump è pronto a colpire ancora”",
-      "url": "https://www.lastampa.it/esteri/2026/11/24/news/iran_trump_huckabee_condizioni_usa_accordo_teheran_hormuz-15807462/",
-      "excerpt": "Da Israele, l’ambasciatore americano Mike Huckabee detta le tre condizioni per un accordo con Teheran: niente atomica, niente uranio arricchito e libertà di navigazione a Hormuz",
+      "title": "Il Napoli frena il City sul 2-2, il Como batte l'Aek e vola a 12 punti",
+      "url": "https://www.lastampa.it/sport/2026/11/24/news/il_napoli_frena_il_city_sul_2-2_il_como_batte_l_aek_e_vola_a_12_punti-15808396/",
+      "excerpt": "La squadra di Allegri si fa raggiungere due volte dagli inglesi e sale a quota 4 punti, ancora fuori dalla zona playoff. I lariani di Fabregas vincono 1-0 grazie a Milla, nonostante il rigore fallito da Da Cunha",
+      "publishedAt": "2026-11-24T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Sinner è stato operato al ginocchio, intervento riuscito. In campo fra 3 mesi",
+      "url": "https://www.lastampa.it/sport/2026/11/24/news/sinner_operazione_ginocchio_intervento_riuscito-15807630/",
+      "excerpt": "L’intervento effettuato in Finlandia è riuscito, riparte il conto alla rovescia per il suo rientro. Si apre l’ipotesi del ranking protetto",
+      "publishedAt": "2026-11-24T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Di Giacomo, il medico Atp: “Sinner? Guarigione più veloce, giusta un’altra strategia”",
+      "url": "https://www.lastampa.it/sport/2026/11/24/news/sinner_operazione_intervista_medico_atp-15807250/",
+      "excerpt": "Il responsabile sanitario per l’Italia dell’associazione dei tennisti: «Hanno capito che i trattamenti conservativi non potevano bastare»",
+      "publishedAt": "2026-11-24T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Sindrome e allungamento della bandelletta ileotibiale: in cosa consiste l'intervento al ginocchio di Sinner",
+      "url": "https://www.lastampa.it/sport/2026/11/24/news/sinner_intervento_ginocchio_allungamento_bandelletta_ileotibiale-15807654/",
+      "excerpt": "Intervento riuscito in Finlandia, dove il campione azzurro si è affidato al chirurgo Lasse Lempainen. La tecnica per ridurre la tensione della fascia fibrosa e scongiurare nuove infiammazioni. Almeno tre mesi prima del possibile ritorno alle competizioni",
+      "publishedAt": "2026-11-24T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Federica Brignone, ritorno sugli sci a Cervinia con vista sui Mondiali: “Sono contenta”",
+      "url": "https://www.lastampa.it/sport/2026/11/24/news/federica_brignone_ritorno_post_infortunio_cervinia-15807696/",
+      "excerpt": "Riecco la campionessa in pista 91 giorni dopo la rimozione di placca e viti dal ginocchio sinistro",
+      "publishedAt": "2026-11-24T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Via libera Ue alla manovra italiana: \"Ma ora serve prudenza sui conti\". Germania nei guai",
+      "url": "https://www.lastampa.it/politica/2026/11/24/news/unione_europea_manovra_italia_commissione_bilancio-15807806/",
+      "excerpt": "La Commissione promuove la legge di Bilancio: «Possibile chiudere la procedura in primavera»",
+      "publishedAt": "2026-11-24T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Manovra, in Aula il 18 dicembre. Salvini: “C’è la copertura per Quota 64, si parte nel 2027”",
+      "url": "https://www.lastampa.it/economia/2026/11/24/news/manovra_aula_18_dicembre_salvini_pensioni_quota_64-15807714/",
+      "excerpt": "Il leader della Lega: «Per le pensioni stanziati 850 milioni». Sul condono atteso un emendamento della maggioranza. In arrivo il condono edilizio",
+      "publishedAt": "2026-11-24T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Palazzo Chigi serra i ranghi, domani maggioranza e Giorgetti a rapporto da Mantovano",
+      "url": "https://www.lastampa.it/politica/2026/11/24/news/palazzo_chigi_serra_i_ranghi_domani_maggioranza_e_giorgetti_a_rapporto_da_mantovano-15807951/",
+      "excerpt": "Sul tavolo i nodi da sciogliere: da sanità a pensioni. Nel pomeriggio possibile nuovo incontro tra i leader a margine del Cdm",
+      "publishedAt": "2026-11-24T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Dazi, il Wsj: “Trump pronto ad applicare nuove tariffe a Europa e Cina”",
+      "url": "https://www.lastampa.it/economia/2026/11/24/news/dazi_trump_pronto_a_nuove_tariffe_a_europa_e_cina-15807772/",
+      "excerpt": "Le misure riguarderebbero altri 14 Paesi, per l’Ue è possibile un ritorno ad aliquote del 15%",
+      "publishedAt": "2026-11-24T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "De Gennaro, venerdì l’autopsia: cosa cercano i magistrati e il mistero delle ultime lettere",
+      "url": "https://www.lastampa.it/cronaca/2026/11/24/news/venerdi_sara_eseguita_l_autopsia_su_de_gennaro-15807521/",
+      "excerpt": "L’esame sarà eseguito dalla dottoressa Beatrice Defraia dell'Istituto di Medicina Legale dell'ospedale Careggi di Firenze e dalla dottoressa Andrea Paterna dell'Istituto di Medicina Legale di Siena",
+      "publishedAt": "2026-11-24T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Le lettere di De Gennaro all’Antimafia. E la destra prende tempo per la relazione sulle stragi",
+      "url": "https://www.lastampa.it/politica/2026/11/24/news/de_gennaro_lettere_antimafia_relazione_stragi_mafia_appalti-15807861/",
+      "excerpt": "La commissione avvierà i contatti con le procure per acquisire lettere e documenti dell’ex capo della Polizia. Ma sulla relazione mafia e appalti la maggioranza frena e considera il lavoro già concluso",
+      "publishedAt": "2026-11-24T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Dall’Antimafia al Covid: il centrodestra e il cortocircuito delle Commissioni d’inchiesta",
+      "url": "https://www.lastampa.it/politica/2026/11/24/news/antimafia_covid_commissioni_inchiesta_centrodestra_diviso-15807474/",
+      "excerpt": "I dossier irrisolti riaprono lo scontro tra maggioranza e opposizioni. E la riunione dell'ufficio di presidenza rischia di diventare un regolamento di conti su Chiara Colosimo",
       "publishedAt": "2026-11-24T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -46,37 +123,51 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Torino, la panchina rossa diventa un caso: gli avvocati penalisti non la vogliono nel giardino del tribunale",
-      "url": "https://www.lastampa.it/torino/2026/11/24/news/panchina_rossa_rifiuto_avvocati_camera_penale_violenza_donne_fuori_palagiustizia-15807331/",
-      "excerpt": "I penalisti: «Il Palazzo di Giustizia deve garantire a tutti, anche sul piano simbolico»",
+      "title": "Strozzano il tassista mentre l'auto è in corsa: l'auto sbanda e i ladri finiscono male",
+      "url": "https://www.lastampa.it/video/dai-social/2026/11/24/video/rapina_tassista_auto_in_corsa_video-15807443/",
+      "excerpt": "Uno dei passeggeri si sporge dal sedile posteriore e stringe il collo del tassista, mentre il complice gli ruba il denaro. Le immagini della telecamera di bordo documentano l’aggressione avvenuta il 28 aprile a Carlton, vicino a Nottingham, dopo una discussione sul prezzo della corsa. Quando il conducente tenta di ripa",
       "publishedAt": "2026-11-24T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Gisele Pelicot, stupri messi in dubbio e foto intime diffuse: in Francia il libro dello scandalo",
-      "url": "https://www.lastampa.it/esteri/2026/11/24/news/gisele_pelicot_denuncia_editore_saggio_stupri_foto_intime-15807468/",
-      "excerpt": "Un saggio parla di «responsabilità di dominante e dominato», anche se non in modo simmetrico. L’indignazione della donna dopo le condanne del marito e degli uomini che l’hanno abusata per anni: denuncerà la casa editrice",
+      "title": "Le immagini satellitari dopo l'attacco ucraino nel porto di Bengasi",
+      "url": "https://www.lastampa.it/esteri/2026/11/24/video/attacco_ucraina_porto_bengasi_immagini_satellitari-15807385/",
+      "excerpt": "La Merkury appare capovolta nell’acqua, mentre poco distante si trova il mercantile Angara danneggiato: le immagini satellitari di Vantor, scattate il 23 novembre, mostrano le conseguenze dell’attacco nel porto libico di Bengasi. Zelensky ha rivendicato l’operazione condotta il giorno precedente con droni navali, dichi",
       "publishedAt": "2026-11-24T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Caselli: “De Gennaro salvò il Paese dall’abisso mafioso. Senza senso la richiesta dei domiciliari”",
-      "url": "https://www.lastampa.it/cronaca/2026/11/24/news/caselli_de_gennaro_salvato_paese_abisso_mafioso_senza_senso_richiesta_domiciliari-15807229/",
-      "excerpt": "L’ex procuratore di Palermo: «La tesi che le stragi siano legate al filone mafia-appalti è infondata»",
+      "title": "Federico Ferri: \"Del Piero presidente della Juve come Boniperti? Ecco perché Sarebbe perfetto\"",
+      "url": "https://www.lastampa.it/sport/2026/11/24/video/federico_ferri_del_piero_presidente_della_juve_come_boniperti_sarebbe_perfetto_ma_noi_lo_vogliamo_a_sky-15807693/",
+      "excerpt": "Giampiero Boniperti - L'unica cosa che conta è il titolo del documentario che Sky Sport ha realizzato per raccontare la vita dell'icona della Juve, prima calciatore e poi presidente del club più titolato d'Italia. Il giornalista de La Stampa, Roberto Pavanello ne ha parlato con il direttore di Sky Sport, Federico Ferri",
       "publishedAt": "2026-11-24T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Dall’Antimafia al Covid: il centrodestra e il cortocircuito delle Commissioni d’inchiesta",
-      "url": "https://www.lastampa.it/politica/2026/11/24/news/antimafia_covid_commissioni_inchiesta_centrodestra_diviso-15807474/",
-      "excerpt": "I dossier irrisolti riaprono lo scontro tra maggioranza e opposizioni. E la riunione dell'ufficio di presidenza rischia di diventare un regolamento di conti su Chiara Colosimo",
+      "title": "Sarkozy e Carla Bruni rinviati a giudizio nel caso dei fondi libici",
+      "url": "https://www.lastampa.it/esteri/2026/11/24/news/sarkozy_e_carla_bruni_rinviati_a_giudizio_nel_caso_dei_fondi_libici-15807949/",
+      "excerpt": "I due, insieme ad altri indagati, accusati per la ritrattazione di un testimone chiave",
       "publishedAt": "2026-11-24T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Le basi di Putin nel mar Mediterraneo e i carichi d’armi per l’ex Gruppo Wagner nel Sahel",
-      "url": "https://www.lastampa.it/esteri/2026/11/24/news/le_navi_e_le_basi_russe_in_libia_e_siria_e_i_carichi_d_armi_all_ex_gruppo_wagner_in_africa_centrale-15807052/",
-      "excerpt": "La guerra russa nel mare Nostrum: dalla Libia (a 800 km dall’Italia) e dalla Siria i russi spediscono in Mali, Burkina Faso e Repubblica Centrafricana. Le navi colpite dagli ucraini, i porti e un traffico di droni e munizioni che era perfettamente visibile e a due passi da casa nostra: la “Angara” ha a lungo trasportat",
+      "title": "Gli Usa frenano sulla consegna di Patriot a Kiev. Zelensky accusa: “Scelta allineata con Putin”",
+      "url": "https://www.lastampa.it/esteri/2026/11/25/diretta/guerra_russia_ucraina_news_oggi-15808402/",
+      "excerpt": "Il leader ucraino: «Nostro l'attacco con drone alla nave russa nel Golfo di Finlandia». Nyt: «700mila vittime tra i soldati russi dall'inizio del conflitto»",
+      "publishedAt": "2026-11-24T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Tragedia a Cervinia, muore in un incidente con il parapendio nella zona del Plateau Rosa",
+      "url": "https://www.lastampa.it/aosta/2026/11/24/news/tragedia_a_cervinia_muore_in_un_incidente_con_il_parapendio_nella_zona_del_plateau_rosa-15807905/",
+      "excerpt": "Le squadre del soccorso alpino e della Finanza impegnate a recuperare il corpo",
+      "publishedAt": "2026-11-24T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Il papà di Ramy: “Dopo due anni il dolore non passa, uso il suo profumo per averlo sempre con me”",
+      "url": "https://www.lastampa.it/cronaca/2026/11/24/news/ramy_elgaml_padre_intervista_due_anni_morte_inseguimento-15807787/",
+      "excerpt": "Il 19enne morì durante l’inseguimento dei carabinieri. Yehia Elgaml: «Mia moglie ricorda quei momenti e si è ammalata»",
       "publishedAt": "2026-11-24T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -88,23 +179,9 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "“Per diciotto volte si è scagliato sulla vittima”: così Leo ha ucciso il titolare del Manhattan di Torino",
-      "url": "https://www.lastampa.it/torino/2026/11/23/news/francesco_zangari_daniele_leo_come_e_morto-15807141/",
-      "excerpt": "Il dipendente del pub fermato per aver ammazzato di botte il suo datore di lavoro: per il giudice è «incapace di autocontrollo»",
-      "publishedAt": "2026-11-24T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
       "title": "In tenda per protesta davanti alla Sapienza: studente 58enne muore durante lo sciopero della fame",
       "url": "https://www.lastampa.it/cronaca/2026/11/24/news/in_tenda_per_protesta_davanti_alla_sapienza_studente_58enne_muore_durante_lo_sciopero_della_fame-15807302/",
       "excerpt": "Roma, si era unito alla mobilitazione per il diritto alla casa. La rettrice: «Profondo cordoglio»",
-      "publishedAt": "2026-11-24T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Le immagini satellitari dopo l'attacco ucraino nel porto di Bengasi",
-      "url": "https://www.lastampa.it/esteri/2026/11/24/video/attacco_ucraina_porto_bengasi_immagini_satellitari-15807385/",
-      "excerpt": "La Merkury appare capovolta nell’acqua, mentre poco distante si trova il mercantile Angara danneggiato: le immagini satellitari di Vantor, scattate il 23 novembre, mostrano le conseguenze dell’attacco nel porto libico di Bengasi. Zelensky ha rivendicato l’operazione condotta il giorno precedente con droni navali, dichi",
       "publishedAt": "2026-11-24T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -123,9 +200,9 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Elisa Confortola e il rumore del ghiaccio",
-      "url": "https://www.lastampa.it/sport/2026/11/24/news/confortola_shorttrack_indovinachi-15807263/",
-      "excerpt": "Due vittorie consecutive nei 1500 metri nel World Tour dello short track. Oro in squadra ai Giochi di Milano Cortina, ma e ora è tutta un’altra pista",
+      "title": "Mostra sugli estremismi in Spagna, ordinata la rimozione dei riferimenti a Vox",
+      "url": "https://www.lastampa.it/esteri/2026/11/24/news/spagna_mostra_estremismi_almeria_rimozione_riferimenti_vox-15807710/",
+      "excerpt": "Decisione della Commissione elettorale: via sette pannelli. L’esposizione organizzata dall’università di Almerìa: «Siamo tornati alla censura». Le didascalie descrivevano il partito di Abascal «il miglior esempio di partito di estrema destra in Spagna»",
       "publishedAt": "2026-11-24T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -137,23 +214,9 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Oggi il red carpet e le stelle al Torino Film Festival. John Travolta: “Emozionato di essere qui”",
-      "url": "https://www.lastampa.it/torino/2026/11/24/news/torino_film_festival_programma_inaugurazione_oggi-15807156/",
-      "excerpt": "Comincia la kermesse del cinema in città: la festa al Regio a partire dalle 17 e la consegna delle prime Stelle della Mole",
-      "publishedAt": "2026-11-24T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Tarantino, terzo figlio a 63 anni: “Prima solo cinema”, poi l'incontro che gli ha cambiato la vita",
-      "url": "https://www.lastampa.it/spettacoli/2026/11/24/news/quentin_tarantino_terzo_figlio_63_anni-15807458/",
-      "excerpt": "Il regista diventa padre per la terza volta con la moglie Daniella Pick, sposata nel 2018. L'incontro con la cantante israeliana gli ha cambiato la vita",
-      "publishedAt": "2026-11-24T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "“Ho cambiato vita tre volte, oggi faccio la pizza in Svizzera accanto alla mia famiglia”",
-      "url": "https://www.lastampa.it/sapore/2026/11/24/news/francesco_pone_pizza_svizzera_cambio_vita_storia-15807300/",
-      "excerpt": "Da Napoli a Neuchâtel, da garzone al successo, Francesco Pone si è reinventato, da solo, al di là delle Alpi: «Credevo di aver fatto venti passi indietro, invece ho guadagnato la libertà»",
+      "title": "Hollywood sbarca a Torino, John Travolta infiamma il red carpet. Al Tff è la notte delle stelle",
+      "url": "https://www.lastampa.it/torino/2026/11/24/news/hollywood_torino_john_travolta_red_carpet_tff-15808072/",
+      "excerpt": "I sassolini nelle scarpe di Bose: «Visto? Non sono venuto a rovinare la kermesse». Al suo fianco Ambra Angiolini",
       "publishedAt": "2026-11-24T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -165,16 +228,44 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Rapinano un passante ma la fuga finisce male: si gettano in mare e restano bloccati sullo scoglio",
-      "url": "https://www.lastampa.it/video/dai-social/2026/11/24/video/rapina_passante_fuga_mare_bloccati_scoglio-15807497/",
-      "excerpt": "La fuga finisce sulla spiaggia, con due arresti. A El Quisco, sulla costa cilena, due uomini accusati di aver rubato un cellulare a un passante si sono gettati in mare per sottrarsi ai Carabineros e agli agenti della sicurezza municipale. Secondo la ricostruzione di BioBioChile, uno è tornato poco dopo a riva, dove è s",
+      "title": "Fieg, Riffeser Monti confermato. A Leonardis la delega a finanziamento e sviluppo associativo",
+      "url": "https://www.lastampa.it/economia/2026/11/24/news/fieg_riffeser_monti_confermato_presidente_leonardis_delega_finanziamento_sviluppo-15807731/",
+      "excerpt": "Rafforzare la federazione, investire nella tecnologia proteggere il copyright e difendere la qualità dell’informazione fra gli obiettivi del nuovo mandato",
       "publishedAt": "2026-11-24T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Strozzano il tassista mentre l'auto è in corsa: l'auto sbanda e i ladri finiscono male",
-      "url": "https://www.lastampa.it/video/dai-social/2026/11/24/video/rapina_tassista_auto_in_corsa_video-15807443/",
-      "excerpt": "Uno dei passeggeri si sporge dal sedile posteriore e stringe il collo del tassista, mentre il complice gli ruba il denaro. Le immagini della telecamera di bordo documentano l’aggressione avvenuta il 28 aprile a Carlton, vicino a Nottingham, dopo una discussione sul prezzo della corsa. Quando il conducente tenta di ripa",
+      "title": "Lombardia, bufera in Consiglio regionale: Zamperini (FdI) a Bocci (Pd): \"Stai zitta\"",
+      "url": "https://www.lastampa.it/milano/2026/11/24/video/lombardia_bufera_in_consiglio_regionale_zamperini_fdi_a_bocci_pd_stai_zitta-15807964/",
+      "excerpt": "«Stai zitta quando parlo io». È la frase del consigliere regionale lombardo di Fratelli d'Italia Giacomo Zamperini rivolta alla collega del Partito Democratico Paola Bocci. Frase che ha scatenato un putiferio al Pirellone. L'episodio è nato dopo la comunicazione del presidente dell'Assemblea, Federico Romani, sul rinvi",
+      "publishedAt": "2026-11-24T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Tensione nei cieli del Giappone: bombardieri strategici russi si alzano in volo",
+      "url": "https://www.lastampa.it/esteri/2026/11/24/video/russia_bombardieri_strategici_tu_160_mar_giappone_corea_sud-15808203/",
+      "excerpt": "Tensione nei cieli dell’Asia orientale. Il 24 novembre i bombardieri strategici russi Tupolev Tu-160, capaci di trasportare armamenti nucleari, hanno sorvolato le acque internazionali del Mar del Giappone. Secondo il ministero della Difesa russo, che ha diffuso le immagini, la missione era programmata ed è durata circa",
+      "publishedAt": "2026-11-24T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Sette serpenti vivi nel pacco postale, erano stati spediti senza nessuna protezione: la scoperta",
+      "url": "https://www.lastampa.it/cronaca/2026/11/24/video/napoli_aprono_un_pacco_postale_e_dentro_trovano_sette_serpenti_vivi-15808140/",
+      "excerpt": "Spediti come merce qualsiasi, senza protezione dal freddo. Il 23 novembre, nell’ufficio di smistamento postale di Napoli, i carabinieri forestali hanno scoperto sette giovanissimi serpenti del grano, una specie non velenosa originaria del Nord America. I rettili, in grave stato di ipotermia, sono stati affidati al Cent",
+      "publishedAt": "2026-11-24T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Torino, la panchina rossa diventa un caso: gli avvocati penalisti non la vogliono nel giardino del tribunale",
+      "url": "https://www.lastampa.it/torino/2026/11/24/news/panchina_rossa_rifiuto_avvocati_camera_penale_violenza_donne_fuori_palagiustizia-15807331/",
+      "excerpt": "La polemica a Torino da parte della Camera penale Vittorio Chiusano: «Il Palazzo di Giustizia deve garantire allo stesso modo tutti, anche sul piano simbolico. Questo luogo appartiene a tutti: a chi denuncia e a chi è denunciato, a chi cerca tutela e a chi deve difendersi»",
+      "publishedAt": "2026-11-24T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Femminicidio di Martina Carbonaro, il padre in lacrime: “Non so come ho fatto a fidarmi di loro”",
+      "url": "https://www.lastampa.it/cronaca/2026/11/24/news/femminicidio-martina-carbonaro-padre-deposizione-processo-alessio-tucci-15807586/",
+      "excerpt": "Marcello Carbonaro, padre della 14enne uccisa dall’ex fidanzato Alessio Tucci il 26 maggio 2025 ad Afragola, ripercorre in aula i giorni più drammatici della sua vita: «Ne ho viste di tutti i colori, l’unico che non ho visto è il nero»",
       "publishedAt": "2026-11-24T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -186,108 +277,17 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Volkswagen, Dieselgate: al via l’ultimo maxi processo per frode in Germania",
-      "url": "https://www.lastampa.it/economia/2026/11/24/news/volkswagen_dieselgate_ultimo_processo_frode_germania-15807448/",
-      "excerpt": "Agli imputati viene contestato di non aver impedito la prosecuzione della produzione e della commercializzazione di veicoli dotati di un dispositivo illegale di manipolazione delle emissioni, pur essendo a conoscenza della sua esistenza",
+      "title": "Il Toro avrà per 90 anni lo stadio Olimpico: via libera anche ai progetti sul Robaldo",
+      "url": "https://www.lastampa.it/torino/2026/11/24/news/toro_stadio_olimpico_robaldo_90_anni_progetto_riqualificazione-15807583/",
+      "excerpt": "Il Toro farà gli investimenti necessari alla riqualificazione e all'adeguamento degli impianti e si farà carico degli oneri di manutenzione e gestione.",
       "publishedAt": "2026-11-24T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Torino, i salesiani lasciano la Crocetta dopo 103 anni: addio alla scuola di Teologia, basket a rischio",
-      "url": "https://www.lastampa.it/torino/2026/11/24/news/salesiani_lasciano_isolato_crocetta_basket_scout_universita_pontificia_sacerdoti-15807369/",
-      "excerpt": "In vendita il complesso sede anche dell’oratorio, del collegio e del gruppo scout. L’Università pontificia sarà trasferita a Roma entro il 2029. I vertici della società con circa 600 tesserati vogliono un dialogo con la nuova proprietà e si appellano alla città",
+      "title": "“Per diciotto volte si è scagliato sulla vittima”: così Leo ha ucciso il titolare del Manhattan di Torino",
+      "url": "https://www.lastampa.it/torino/2026/11/23/news/francesco_zangari_daniele_leo_come_e_morto-15807141/",
+      "excerpt": "Il dipendente del pub fermato per aver ammazzato di botte il suo datore di lavoro: per il giudice è «incapace di autocontrollo»",
       "publishedAt": "2026-11-24T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Terme chiuse, alberghi in crisi: ad Acqui è l’autunno più duro di sempre",
-      "url": "https://www.lastampa.it/alessandria/2026/11/24/news/crisi_acqui_terme_chiuse_alberghi_senza_clienti-15807023/",
-      "excerpt": "Le strutture ricettive sprangate in anticipo per l’assenza di clienti: ora in gioco c’è la loro sopravvivenza. Palazzo Levi chiede ristori alla Regione in attesa della ripartenza. De Angelis: “Si usino i soldi delle feste”",
-      "publishedAt": "2026-11-24T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Non aprite quella mail",
-      "url": "https://www.lastampa.it/speciale/cultura/fuoriclasse/2026/11/24/news/non_aprite_quella_mail-15806466/",
-      "excerpt": "«Ma hanno fatto evacuare anche voi? Il preside ci ha mandati a casa… hanno detto che c’era una bomba. Ho paura, tu come stai?”. Sono queste le parole, appesantite da un denso tono spaventato, ...",
-      "publishedAt": "2026-11-24T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Nati con lo smartphone ma ancora impreparati a tutti i rischi nascosti in rete",
-      "url": "https://www.lastampa.it/speciale/cultura/fuoriclasse/2026/11/24/news/nati_con_lo_smartphone_ma_ancora_impreparati_a_tutti_i_rischi_nascosti_in_rete-15806488/",
-      "excerpt": "Se hai diciassette anni, il tuo mondo passa attraverso uno schermo. Tra appunti sul cloud, registro elettronico e vite sociali su Instagram e TikTok, siamo la generazione ...",
-      "publishedAt": "2026-11-24T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Il prezzo nascosto dei vestiti low cost che durano un attimo",
-      "url": "https://www.lastampa.it/speciale/cultura/fuoriclasse/2026/11/24/news/il_prezzo_nascosto_dei_vestiti_low_cost_che_durano_un_attimo-15806548/",
-      "excerpt": "Ormai la fast fashion è ovunque. Apriamo TikTok o Instagram e veniamo sommersi da video di haul con pacchi enormi, che arrivano a raffica ogni settimana con all’interno vestiti ...",
-      "publishedAt": "2026-11-24T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Quando una voce sembra sincera, ma dietro si nasconde la trappola",
-      "url": "https://www.lastampa.it/speciale/cultura/fuoriclasse/2026/11/24/news/quando_una_voce_sembra_sincera_ma_dietro_si_nasconde_la_trappola-15806553/",
-      "excerpt": "È successo alla cugina di una delle nostre nonne. Squilla il telefono. Dall’altra parte, la voce di una figlia che piange e racconta di aver investito una bambina. Subito dopo interviene ...",
-      "publishedAt": "2026-11-24T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Uve sane e un territorio da scoprire: l’Erbaluce resiste alla prova del caldo e rilancia il Canavese",
-      "url": "https://www.lastampa.it/sapore/2026/11/24/news/erbaluce_canavese_uve_resistono_caldo-15807376/",
-      "excerpt": "Nell’anno della vendemmia più precoce del secolo, il vitigno passa l’esame delle temperature estreme. Dagli spumanti al passito, il bianco piemontese scende in campo nell’enoturismo",
-      "publishedAt": "2026-11-24T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Hegseth blocca i missili per i Patriot a Kiev. 700 mila soldati russi morti da inizio guerra",
-      "url": "https://www.lastampa.it/esteri/2026/11/24/diretta/guerra_russia_ucraina_news_oggi-15807272/",
-      "excerpt": "Il Ft: Hegseth sta bloccando la consegna di 60 missili per Patriot all'Ucraina",
-      "publishedAt": "2026-11-23T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Muri di neve sul Monte Bianco: il lavoro dei funiviari per aprire un passaggio in quota",
-      "url": "https://www.lastampa.it/aosta/2026/11/23/video/monte_bianco_neve_lavoro_funiviari_passaggio-15806784/",
-      "excerpt": "Oltre due metri di neve hanno sommerso gli accessi alla stazione di Punta Helbronner, sul Monte Bianco, a 3.466 metri di altitudine. Dopo le abbondanti nevicate accompagnate da forti venti, i funiviari della Skyway Monte Bianco sono al lavoro tra enormi muri bianchi per liberare gli ingressi e scavare passaggi nella ne",
-      "publishedAt": "2026-11-23T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "\"È un rettiliano\": lo strano movimento degli occhi dietro Mamdani scatena le teorie del complotto",
-      "url": "https://www.lastampa.it/video/socialnews/2026/11/23/video/mamdani_jordan_wright_occhi_rettiliano_virale_new_york-15807016/",
-      "excerpt": "Un movimento insolito degli occhi, pochi secondi di video e una teoria del complotto che esplode sui social. Durante una conferenza stampa del sindaco di New York, Zohran Mamdani, venerdì 20 novembre, il deputato democratico Jordan J.G. Wright, alle sue spalle, ruota gli occhi all’indietro. Le immagini diventano virali",
-      "publishedAt": "2026-11-23T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Sparone, la Poitiers del Piemonte: simbolo dell’indipendenza canavesana e non solo",
-      "url": "https://www.lastampa.it/torino/2026/11/23/news/sparone_poitiers_piemonte_canavese_arduino-15806584/",
-      "excerpt": "Un lembo di terra alpina che ha tenuto in scacco il Sacro romano Impero e la resistenza di Arduino, ultimo re di stirpe italica prima di otto secoli di corona tedesca",
-      "publishedAt": "2026-11-23T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Madaski: \"Torino negli anni 90 era più creativa, oggi siamo forse un po' più soli\"",
-      "url": "https://www.lastampa.it/torino/2026/11/23/video/madaski_torino_negli_anni_90_era_piu_creativa_oggi_siamo_forse_un_po_piu_soli-15806730/",
-      "excerpt": "Il 26 novembre Madaski torna all’Hiroshima Mon Amour di Torino con Diagnostica 1996_2026. Proprio dal locale di via Bossoli parte il suo ricordo della scena musicale torinese degli anni Novanta, fatta di luoghi fisici, incontri e collaborazioni tra artisti come Luca Morino, Max Casacci, Africa Unite, Persiana Jones e F",
-      "publishedAt": "2026-11-23T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Bigfoot, gli Usa aprono gli archivi: nel video del 1967 il mistero è in uno sguardo",
-      "url": "https://www.lastampa.it/esteri/2026/11/22/video/bigfoot_dossier_usa_filmato_1967_patterson_gimlin_fotogramma_352-15805859/",
-      "excerpt": "Orme da gigante. Misuravano 38 centimetri le impronte al centro di uno dei tre fascicoli su Bigfoot che il Servizio forestale americano ha pubblicato il 15 ottobre. Nel 1982 il biologo che le esaminò le giudicò probabilmente artificiali. Il video che ripubblichiamo oggi racconta un altro episodio. È il 20 ottobre 1967.",
-      "publishedAt": "2026-11-22T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Blitz dell'Ice sull'aereo in partenza: gli agenti trascinano via la figlia tra le urla della madre",
-      "url": "https://www.lastampa.it/esteri/2026/11/22/video/seattle_aeroporto_ice_arresti_passeggeri_ponte_imbarco_alaska_airlines-15805875/",
-      "excerpt": "Agenti a volto coperto trascinano via una persona sul ponte d’imbarco. Nel video si sente una donna gridare che stanno portando via sua figlia e che ha un permesso di lavoro. È successo sabato 21 novembre all’aeroporto di Seattle-Tacoma, mentre era in corso l’imbarco per Los Angeles. L’Ice, la polizia federale per l’im",
-      "publishedAt": "2026-11-22T00:00:00Z",
       "dateEvidence": "feed:published"
     }
   ],
@@ -302,5 +302,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 1.1
+  "durationSeconds": 0.89
 }

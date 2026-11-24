@@ -4,12 +4,19 @@
   "sourceId": "mef",
   "originUrl": "https://www.mef.gov.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-24T12:58:29.242158Z",
+  "collectedAt": "2026-11-24T23:40:23.014044Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "Giornata della legalità finanziaria, il ministro Giorgetti a Siena per la terza edizione",
+      "url": "https://www.mef.gov.it/inevidenza/Giornata-della-legalita-finanziaria-il-ministro-Giorgetti-a-Siena-per-la-terza-edizione/",
+      "excerpt": "All’evento premiati i progetti di tre istituti superiori",
+      "publishedAt": "2026-11-24T20:21:08Z",
+      "dateEvidence": "meta:datepublished"
+    },
     {
       "title": "S&P, Giorgetti: in tempi difficili una conferma è un successo",
       "url": "https://www.mef.gov.it/inevidenza/SP-Giorgetti-in-tempi-difficili-una-conferma-e-un-successo/",
@@ -39,15 +46,15 @@
       "status": 200
     },
     {
+      "url": "https://www.mef.gov.it/inevidenza/Giornata-della-legalita-finanziaria-il-ministro-Giorgetti-a-Siena-per-la-terza-edizione/",
+      "status": 200
+    },
+    {
       "url": "https://www.mef.gov.it/inevidenza/SP-Giorgetti-in-tempi-difficili-una-conferma-e-un-successo/",
       "status": 200
     },
     {
       "url": "https://www.mef.gov.it/inevidenza/Giorgetti-rivendico-approccio-asburgico-manovra-investe-sui-giovani-sostiene-lavoro-famiglie-e-imprese/",
-      "status": 200
-    },
-    {
-      "url": "https://www.mef.gov.it/inevidenza/Giorgetti-salutiamo-con-soddisfazione-attivazione-Nec-Italia/",
       "status": 200
     },
     {
@@ -63,10 +70,10 @@
       "status": 200
     }
   ],
-  "message": "2 notizie recenti con data verificata; copertura parziale.",
+  "message": "3 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [],
   "candidateCount": 11,
   "datedCount": 6,
   "listingUrl": "https://www.mef.gov.it/",
-  "durationSeconds": 5.0
+  "durationSeconds": 5.28
 }

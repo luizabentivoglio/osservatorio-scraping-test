@@ -4,52 +4,52 @@
   "sourceId": "il-post",
   "originUrl": "https://www.ilpost.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-24T12:58:21.753501Z",
+  "collectedAt": "2026-11-24T23:40:11.894259Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
-      "title": "Cosa dicono gli ultimi sondaggi per le elezioni spagnole",
-      "url": "https://www.ilpost.it/2026/11/24/sondaggi-spagna-finali/?homepagePosition=0",
-      "excerpt": "I Socialisti del primo ministro Pedro Sánchez stanno recuperando, ma non abbastanza per vincere contro le destre: si vota domenica",
-      "publishedAt": "2026-11-24T10:42:00Z",
+      "title": "Due agenzie di intelligence statunitensi hanno subito un attacco informatico",
+      "url": "https://www.ilpost.it/2026/11/24/cia-attacco-informatico/?bitPosition=1",
+      "excerpt": "Due agenzie di intelligence statunitensi hanno subito un attacco informatico Secondo alcune fonti che hanno parlato in forma anonima con il New York Times, la CIA e la National Intelligence, l’agenzia che si occupa di coordinare il lavoro di 18 agenzie di intelligence e di sicurezza degli Stati Uniti, hanno subito un a",
+      "publishedAt": "2026-11-24T21:29:40Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "Per la prima volta un astronauta non cinese visiterà la stazione spaziale della Cina",
-      "url": "https://www.ilpost.it/2026/11/24/astronauta-straniero-stazione-spaziale-cinese-prima-volta/?bitPosition=1",
-      "excerpt": "Per la prima volta un astronauta non cinese visiterà la stazione spaziale della Cina Mercoledì inizierà la prima missione spaziale della Cina che include un astronauta non cinese, il pakistano Muhammad Zeeshan Ali. La missione, annunciata dall’Agenzia spaziale cinese, si chiama Shenzhou-24 e porterà tre astronauti alla",
-      "publishedAt": "2026-11-24T09:59:57Z",
+      "title": "Un tribunale statunitense ha dichiarato Huawei colpevole di frode bancaria e furto di segreti industriali",
+      "url": "https://www.ilpost.it/2026/11/24/huawei-colpevole/?bitPosition=2",
+      "excerpt": "Un tribunale statunitense ha dichiarato Huawei colpevole di frode bancaria e furto di segreti industriali Martedì un tribunale di New York ha dichiarato l’azienda tecnologica cinese Huawei colpevole di dieci capi d’accusa, tra cui frode bancaria, furto di segreti industriali e aggiramento delle sanzioni imposte all’Ira",
+      "publishedAt": "2026-11-24T20:52:39Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "La Malaysia rimpatrierà migliaia di rifugiati e richiedenti asilo in Myanmar",
-      "url": "https://www.ilpost.it/2026/11/24/malaysia-rimpatrio-rifugiati-migranti-myanmar/?bitPosition=2",
-      "excerpt": "La Malaysia rimpatrierà migliaia di rifugiati e richiedenti asilo in Myanmar Il primo ministro della Malaysia, Anwar Ibrahim, ha detto che rimpatrierà in Myanmar migliaia di persone migranti rifugiate o richiedenti asilo. Pochi giorni fa la Corte internazionale di giustizia ha stabilito che il Myanmar è responsabile di",
-      "publishedAt": "2026-11-24T09:53:13Z",
+      "title": "Il servizio di streaming musicale Tidal eliminerà tutte le canzoni generate con l’AI presenti sulla piattaforma",
+      "url": "https://www.ilpost.it/2026/11/24/tidal-elimina-canzoni-ai/?bitPosition=3",
+      "excerpt": "Il servizio di streaming musicale Tidal eliminerà tutte le canzoni generate con l’AI presenti sulla piattaforma Dal 9 dicembre il servizio di streaming musicale Tidal comincerà a rimuovere tutte le canzoni generate interamente con l’intelligenza artificiale (AI) presenti sulla sua piattaforma: il responsabile Robert An",
+      "publishedAt": "2026-11-24T19:53:09Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "È scaduto lo sconto sulle accise del gasolio",
-      "url": "https://www.ilpost.it/2026/11/24/scaduto-sconto-accise-gasolio/?bitPosition=3",
-      "excerpt": "È scaduto lo sconto sulle accise del gasolio Lunedì 23 novembre è scaduto lo sconto sulle accise del gasolio reintrodotto dal governo il 10 novembre. Lo sconto era pari a 4,9 centesimi al litro tra accise e IVA, ed era già stato applicato tra la fine di ottobre e l’inizio di novembre. Continuano invece a esserci i limi",
-      "publishedAt": "2026-11-24T08:31:57Z",
+      "title": "21 persone sono tenute in ostaggio in un supermercato di Cartagena, in Colombia",
+      "url": "https://www.ilpost.it/2026/11/24/ostaggi-supermercato-cartagena/?bitPosition=4",
+      "excerpt": "21 persone sono tenute in ostaggio in un supermercato di Cartagena, in Colombia Martedì un gruppo di uomini armati e con il volto coperto ha preso in ostaggio 21 persone in un supermercato di Cartagena, in Colombia. Il presidente Abelardo de la Espriella ha detto che gli uomini si sono rifugiati nel supermercato dopo a",
+      "publishedAt": "2026-11-24T18:44:44Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "Vox è soprattutto Santiago Abascal",
-      "url": "https://www.ilpost.it/2026/11/23/vox-santiago-abascal-potere/?homepagePosition=0.1&referrerPost=3741074",
-      "excerpt": "È di gran lunga il politico più potente e carismatico del partito di estrema destra spagnolo, e per questo è un po' ovunque in campagna elettorale",
-      "publishedAt": "2026-11-23T15:02:02Z",
+      "title": "Anche quest’anno non poteva mancare un condono edilizio",
+      "url": "https://www.ilpost.it/2026/11/24/condono-legge-di-bilancio-2027-emendamenti/?homepagePosition=0",
+      "excerpt": "La destra sta provando a inserirlo in legge di bilancio e i partiti al governo si stanno rincorrendo per intestarselo",
+      "publishedAt": "2026-11-24T16:53:02Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "Chi protesta contro Pedro Sánchez arriva sempre in questa strada",
-      "url": "https://www.ilpost.it/2026/11/21/ferraz-madrid-manifestazioni/?homepagePosition=0.2&referrerPost=3741074",
-      "excerpt": "È calle de Ferraz, la sede del Partito Socialista, dove venerdì sera si sono visti i nostalgici del franchismo",
-      "publishedAt": "2026-11-21T08:57:27Z",
+      "title": "Come funziona la tassa sui ricchi che se ne vanno dall’Italia proposta dal governo",
+      "url": "https://www.ilpost.it/2026/11/11/come-funziona-exit-tax-governo/?homepagePosition=0.1&referrerPost=3741160",
+      "excerpt": "E di cui forse si è già pentito",
+      "publishedAt": "2026-11-11T10:37:25Z",
       "dateEvidence": "jsonld:datePublished"
     }
   ],
@@ -63,27 +63,27 @@
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/24/sondaggi-spagna-finali/?homepagePosition=0",
+      "url": "https://www.ilpost.it/2026/11/24/condono-legge-di-bilancio-2027-emendamenti/?homepagePosition=0",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/23/vox-santiago-abascal-potere/?homepagePosition=0.1&referrerPost=3741074",
+      "url": "https://www.ilpost.it/2026/11/11/come-funziona-exit-tax-governo/?homepagePosition=0.1&referrerPost=3741160",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/21/ferraz-madrid-manifestazioni/?homepagePosition=0.2&referrerPost=3741074",
+      "url": "https://www.ilpost.it/2026/11/24/cia-attacco-informatico/?bitPosition=1",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/24/astronauta-straniero-stazione-spaziale-cinese-prima-volta/?bitPosition=1",
+      "url": "https://www.ilpost.it/2026/11/24/huawei-colpevole/?bitPosition=2",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/24/malaysia-rimpatrio-rifugiati-migranti-myanmar/?bitPosition=2",
+      "url": "https://www.ilpost.it/2026/11/24/tidal-elimina-canzoni-ai/?bitPosition=3",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/24/scaduto-sconto-accise-gasolio/?bitPosition=3",
+      "url": "https://www.ilpost.it/2026/11/24/ostaggi-supermercato-cartagena/?bitPosition=4",
       "status": 200
     }
   ],
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.ilpost.it/",
-  "durationSeconds": 3.82
+  "durationSeconds": 3.56
 }

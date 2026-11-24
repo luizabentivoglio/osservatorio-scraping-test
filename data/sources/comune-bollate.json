@@ -4,7 +4,7 @@
   "sourceId": "comune-bollate",
   "originUrl": "https://comune.bollate.mi.it/it/news",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-24T12:57:48.828305Z",
+  "collectedAt": "2026-11-24T23:39:39.111751Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -27,13 +27,6 @@
     {
       "title": "Civil week. Un incontro per preparare l'edizione 2027",
       "url": "https://comune.bollate.mi.it/it/news/civil-week-2088743",
-      "excerpt": "Sito ufficiale Comune di Bollate",
-      "publishedAt": "2026-11-20T00:00:00Z",
-      "dateEvidence": "html:news-date-label"
-    },
-    {
-      "title": "Convocazione Commissioni",
-      "url": "https://comune.bollate.mi.it/it/news/commissione-2020529-2041932-2088614",
       "excerpt": "Sito ufficiale Comune di Bollate",
       "publishedAt": "2026-11-20T00:00:00Z",
       "dateEvidence": "html:news-date-label"
@@ -75,22 +68,22 @@
       "status": 200
     },
     {
-      "url": "https://comune.bollate.mi.it/it/news/commissione-2020529-2041932-2088614",
-      "status": 200
-    },
-    {
       "url": "https://comune.bollate.mi.it/it/news/inverso",
       "status": 200
     },
     {
       "url": "https://comune.bollate.mi.it/it/news/tari-2026-promemoria-scadenza",
       "status": 200
+    },
+    {
+      "url": "https://comune.bollate.mi.it/it/news/bollate-contro-la-violenza-sulle-donne",
+      "status": 200
     }
   ],
-  "message": "6 notizie recenti con data verificata; copertura parziale.",
+  "message": "5 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [],
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://comune.bollate.mi.it/it/news",
-  "durationSeconds": 5.28
+  "durationSeconds": 4.79
 }

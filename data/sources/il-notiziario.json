@@ -4,12 +4,40 @@
   "sourceId": "il-notiziario",
   "originUrl": "https://www.ilnotiziario.net/",
   "configuredFeedUrl": "https://www.ilnotiziario.net/feed/",
-  "collectedAt": "2026-11-24T12:58:21.044040Z",
+  "collectedAt": "2026-11-24T23:40:11.219269Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.ilnotiziario.net/feed/",
   "items": [
+    {
+      "title": "Sicurezza nelle stazioni, Ferrovienord mette le telecamere a disposizione dei comuni, Cormano e Cusano tra i primi",
+      "url": "https://www.ilnotiziario.net/sicurezza-nelle-stazioni-ferrovienord-mette-le-telecamere-a-disposizione-dei-comuni-cormano-e-cusano-tra-i-primi/",
+      "excerpt": "Cormano e Cusano Milanino figurano tra le prime quindici realtà territoriali che, tramite una convenzione con Ferrovie, ottengono...",
+      "publishedAt": "2026-11-24T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Incidente sulla Comasina a Cormano: auto finisce sui binari, ferita una donna",
+      "url": "https://www.ilnotiziario.net/incidente-sulla-comasina-a-cormano-auto-finisce-sui-binari-ferita-una-donna-di-37-anni/",
+      "excerpt": "Incidente in Comasina a Cormano, auto sui binari, donna 37enne ferita. Pomeriggio di traffico difficile e disagi lungo la strada...",
+      "publishedAt": "2026-11-24T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Caro energia, non solo le famiglie: nel Milanese bollette alle stelle frenano le imprese",
+      "url": "https://www.ilnotiziario.net/caro-energia-non-solo-le-famiglie-nel-milanese-bollette-alle-stelle-frenano-le-imprese/",
+      "excerpt": "Energia, i costi fuori controllo colpiscono famiglie e imprese. Il caro bollette non mette in ginocchio soltanto i bilanci delle...",
+      "publishedAt": "2026-11-24T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Nove gatti rischiano di restare senza casa: “Il Comune intervenga”",
+      "url": "https://www.ilnotiziario.net/nove-gatti-rischiano-di-restare-senza-casa-il-comune-intervenga/",
+      "excerpt": "Impegnati nella tutela dei gatti liberi sul territorio e nella gestione delle colonie feline, da mesi i volontari...",
+      "publishedAt": "2026-11-24T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "Senago, uomo di 58 anni trovato morto all’interno del suo camper",
       "url": "https://www.ilnotiziario.net/senago-uomo-di-58-anni-trovato-morto-allinterno-del-suo-camper/",
@@ -86,34 +114,6 @@
       "excerpt": "Treni in tempo reale, integrazione con Google Maps per Trenord, ecco cosa cambia per chi viaggia. Seguire l’andamento del...",
       "publishedAt": "2026-11-23T00:00:00Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Senago, scontro tra auto e moto: due feriti in ospedale",
-      "url": "https://www.ilnotiziario.net/senago-scontro-tra-auto-e-moto-due-feriti-in-ospedale/",
-      "excerpt": "A Senago, lo scontro tra auto e moto ha provocato il ferimento di due persone, portate in ospedale in codice giallo. Mattinata...",
-      "publishedAt": "2026-11-23T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Oltre 300 kg di rifiuti raccolti a Garbagnate Milanese in occasione della tappa di “Insieme a te per l’ambiente” di McDonald’s patrocinata dal Comune",
-      "url": "https://www.ilnotiziario.net/oltre-300-kg-di-rifiuti-raccolti-a-garbagnate-milanese-in-occasione-della-tappa-di-insieme-a-te-per-lambiente-di-mcdonalds-patrocinata-dal-comune/",
-      "excerpt": "Ben 30 sacchi per oltre 300 kg di rifiuti raccolti da 48 volontari. Ecco i numeri della tappa di “Insieme a te per l’ambiente” di...",
-      "publishedAt": "2026-11-23T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Cesate, bronzo per Yuri Massidda di Gold Academy Boxing Team",
-      "url": "https://www.ilnotiziario.net/cesate-bronzo-per-yuri-massidda-di-gold-academy-boxing-team/",
-      "excerpt": "Cesate, meritato bronzo per il giovanissimo Yuri Massidda di Gold Academy Boxing Team. I Campionati Italiani under 15 di boxe,...",
-      "publishedAt": "2026-11-23T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Alcol al volante: due denunce della Polizia Locale",
-      "url": "https://www.ilnotiziario.net/alcol-al-volante-due-denunce-della-polizia-locale/",
-      "excerpt": "Due interventi in meno di ventiquattro ore per gli agenti del Comando Unico della Polizia Locale di Nerviano – Pogliano,...",
-      "publishedAt": "2026-11-23T00:00:00Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -127,5 +127,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 2.59
+  "durationSeconds": 2.23
 }

@@ -4,12 +4,26 @@
   "sourceId": "palazzo-chigi",
   "originUrl": "https://www.governo.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-24T12:58:36.169460Z",
+  "collectedAt": "2026-11-24T23:40:30.750485Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.governo.it/feed/rss",
   "items": [
+    {
+      "title": "Conversazione telefonica con il Presidente della Repubblica del Congo",
+      "url": "https://www.governo.it/it/articolo/conversazione-telefonica-con-il-presidente-della-repubblica-del-congo/33178",
+      "excerpt": "Il Presidente del Consiglio, Giorgia Meloni, ha avuto una conversazione telefonica con il Presidente della Repubblica del Congo, Denis Sassou N’Guesso. Il Presidente Meloni ha voluto ringraziare il Presidente Sassou N’Guesso per la positiva conclusione della vicenda relativa ai nove minori in adozione da parte di famig",
+      "publishedAt": "2026-11-24T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Riunione straordinaria della Conferenza Stato-Città e autonomie locali presieduta dal Presidente Meloni",
+      "url": "https://www.governo.it/it/articolo/riunione-straordinaria-della-conferenza-stato-citt-e-autonomie-locali-presieduta-dal",
+      "excerpt": "Si è svolta oggi a Palazzo Chigi la riunione straordinaria della Conferenza Stato-Città e autonomie locali, dedicata al confronto con i Sindaci e i Presidenti di Provincia sulle principali questioni che interessano i territori. L’incontro fa seguito alla disponibilità espressa dal Presidente del Consiglio Giorgia Melon",
+      "publishedAt": "2026-11-24T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "Nota di Palazzo Chigi",
       "url": "https://www.governo.it/it/articolo/nota-di-palazzo-chigi/33169",
@@ -64,20 +78,6 @@
       "url": "https://www.governo.it/it/articolo/consiglio-dei-ministri-n-199/33149",
       "excerpt": "Si è svolta, a Palazzo Chigi, la riunione del Consiglio dei Ministri. Nel comunicato stampa i provvedimenti approvati.",
       "publishedAt": "2026-11-19T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Convocazione del Consiglio dei Ministri n. 199",
-      "url": "https://www.governo.it/it/articolo/convocazione-del-consiglio-dei-ministri-n-199/33148",
-      "excerpt": "Il Consiglio dei Ministri è convocato per giovedì 19 novembre 2026, alle ore 12:30 a Palazzo Chigi, per l'esame del seguente ordine del giorno: LEGGI REGIONALI.",
-      "publishedAt": "2026-11-18T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Comunicato stampa del Consiglio dei Ministri n. 198",
-      "url": "https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-198/33147",
-      "excerpt": "Il Consiglio dei Ministri si è riunito mercoledì 18 novembre 2026, alle ore 16.26 a Palazzo Chigi, sotto la presidenza del Presidente Giorgia Meloni. Segretario, il Sottosegretario alla Presidenza Alfredo Mantovano. ٠٠٠٠٠",
-      "publishedAt": "2026-11-18T00:00:00Z",
       "dateEvidence": "feed:published"
     }
   ],
