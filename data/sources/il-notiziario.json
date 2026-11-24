@@ -4,16 +4,44 @@
   "sourceId": "il-notiziario",
   "originUrl": "https://www.ilnotiziario.net/",
   "configuredFeedUrl": "https://www.ilnotiziario.net/feed/",
-  "collectedAt": "2026-11-23T11:19:00.709412Z",
+  "collectedAt": "2026-11-24T01:56:04.377069Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.ilnotiziario.net/feed/",
   "items": [
     {
+      "title": "Nord Sud Ovest Est, recensione: il nostalgico addio agli 883",
+      "url": "https://www.ilnotiziario.net/nord-sud-ovest-est-recensione-il-nostalgico-addio-agli-883/",
+      "excerpt": "di Stefano Di Maria Si è conclusa nei giorni scorsi la serie NORD SUD OVEST EST, seguito del sorprendente HANNO UCCISO L’UOMO...",
+      "publishedAt": "2026-11-23T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Dai tour con Gloria Gaynor alla lotta al bullismo: Ludovico Aldasio nella scuola di Gerenzano",
+      "url": "https://www.ilnotiziario.net/dai-tour-con-gloria-gaynor-alla-lotta-al-bullismo-ludovico-aldasio-nella-scuola-di-gerenzano/",
+      "excerpt": "Dalle esperienze nel panorama musicale internazionale all’impegno contro bullismo e cyberbullismo: Ludovico Aldasio incontra gli...",
+      "publishedAt": "2026-11-23T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Incidente a Caronno, auto si schianta contro un albero e si ribalta",
+      "url": "https://www.ilnotiziario.net/incidente-a-caronno-auto-si-schianta-contro-un-albero-e-si-ribalta/",
+      "excerpt": "Incidente in corso della Vittoria a Caronno Pertusella: un ragazzo si è ribaltato con l’auto, ma per fortuna non si è ferito...",
+      "publishedAt": "2026-11-23T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Finti finanzieri rapinano spacciatori a Novedrate, banda arrestata dopo il blitz a Lentate sul Seveso",
+      "url": "https://www.ilnotiziario.net/finti-finanzieri-rapinano-spacciatori-a-novedrate-banda-arrestata-dopo-il-blitz-a-lentate-sul-seveso/",
+      "excerpt": "Finti finanzieri con passamontagna e pettorine rapinano spacciatori a Novedrate, dopo il blitz a Lentate sul Seveso sgominata...",
+      "publishedAt": "2026-11-23T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
       "title": "Uboldo e Gerenzano: arrivano le benedizioni collettive",
       "url": "https://www.ilnotiziario.net/uboldo-e-gerenzano-arrivano-le-benedizioni-collettive/",
-      "excerpt": "C’erano una volta le benedizioni. Un tempo, con l’avvicinarsi del Natale, i sacerdoti riuscivano a raggiungere casa per...",
+      "excerpt": "Benedizioni collettive per Natale a Uboldo e Gerenzano. C’erano una volta le benedizioni. Un tempo, con...",
       "publishedAt": "2026-11-23T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -86,34 +114,6 @@
       "excerpt": "Iniziativa di Confcommercio rivolta ai sindaci del Bollatese, un Protocollo per far riaprire i negozi chiusi. Come si può...",
       "publishedAt": "2026-11-22T00:00:00Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Pogliano, senza assicurazione e con la patente falsa",
-      "url": "https://www.ilnotiziario.net/pogliano-senza-assicurazione-e-con-la-patente-falsa/",
-      "excerpt": "Pogliano, senza assicurazione e con la patente falsa. Posto di blocco sul Sempione: denunciata una donna, verbale dai seimila...",
-      "publishedAt": "2026-11-22T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Fermato per un furto in autogrill nel Varesotto, in auto spunta un arsenale",
-      "url": "https://www.ilnotiziario.net/fermato-per-un-furto-in-autogrill-nel-varesotto-in-auto-spunta-un-arsenale/",
-      "excerpt": "Fermato per un furto in autogrill nel Varesotto, in auto spunta un arsenale Un furto di una tazzina da caffè in autogrill ha...",
-      "publishedAt": "2026-11-22T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Senago, 36enne in fuga: fermata e sanzionata dagli agenti",
-      "url": "https://www.ilnotiziario.net/senago-36enne-in-fuga-fermata-e-sanzionata-dagli-agenti/",
-      "excerpt": "Senago, 36enne in fuga: fermata e sanzionata dagli agenti. La Polizia Locale ha intensificato in questi ultimi giorni le attività...",
-      "publishedAt": "2026-11-22T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Rho, le scuole respingono i doni di Vannacci",
-      "url": "https://www.ilnotiziario.net/rho-le-scuole-respingono-i-doni-di-vannacci/",
-      "excerpt": "Rho, le scuole respingono i doni di Vannacci. Un carico di quaderni, penne e materiale di cancelleria pensato per alleggerire la...",
-      "publishedAt": "2026-11-22T00:00:00Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -127,5 +127,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 1.43
+  "durationSeconds": 1.78
 }

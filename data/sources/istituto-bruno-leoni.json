@@ -4,12 +4,33 @@
   "sourceId": "istituto-bruno-leoni",
   "originUrl": "https://www.brunoleoni.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-23T11:19:01.069241Z",
+  "collectedAt": "2026-11-24T01:56:05.213059Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "La patrimoniale è il primo mattone di un muro fatto di tasse, regole e burocrazia",
+      "url": "https://www.brunoleoni.it/la-patrimoniale-e-il-primo-mattone/",
+      "excerpt": "Le imposte patrimoniali raramente funzionano, generano un gettito molto inferiore alle attese e sono controproducenti",
+      "publishedAt": "2026-11-23T21:00:00Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "Grande educatore della Giovane Italia",
+      "url": "https://www.brunoleoni.it/grande-educatore-della-giovane-italia/",
+      "excerpt": "I principi del liberalismo risorgimentale fanno da sfondo alla storia del burattino di Collodi",
+      "publishedAt": "2026-11-23T11:41:33Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "Il paradosso: professori “accusati” di fare lezione",
+      "url": "https://www.brunoleoni.it/il-paradosso-professori-accusati-di-fare-lezione/",
+      "excerpt": "L’università italiana è ormai un mondo a testa in giù, nel quale chi difende un minimo di buonsenso finisce sotto accusa",
+      "publishedAt": "2026-11-23T11:41:12Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
     {
       "title": "La patrimoniale che toglie ai ricchi per dare allo Stato piace ai dogmatici della spesa pubblica",
       "url": "https://www.brunoleoni.it/la-patrimoniale-che-toglie-ai-ricchi-per-dare-allo-stato-piace-ai-dogmatici-della-spesa-pubblica/",
@@ -18,31 +39,10 @@
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "Idroelettrico, quelle gare che Giorgia dovrebbe benedire",
-      "url": "https://www.brunoleoni.it/idroelettrico-quelle-gare-che-giorgia-dovrebbe-benedire/",
-      "excerpt": "Per la premier è l'occasione giusta per cambiare rotta, attirando investimenti e maggiori risorse",
-      "publishedAt": "2026-11-19T13:18:33Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Nicola Rossi e i conservatori innovativi",
-      "url": "https://www.brunoleoni.it/nicola-rossi-e-i-conservatori-innovativi/",
-      "excerpt": "Nicola Rossi si schiera contro l’ipotesi di patrimoniale «Quando è stata tentata ha dato esiti deludenti, si pensi alle pensioni dei giovani»",
-      "publishedAt": "2026-11-17T12:38:37Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
       "title": "Patrimoniale? No, grazie",
       "url": "https://www.brunoleoni.it/patrimoniale-no-grazie/",
       "excerpt": "In Italia ci sono pochi miliardari da tassare e molti piccoli risparmiatori da spennare",
       "publishedAt": "2026-11-16T21:00:00Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Liberalizzazione elettrica: vale più la concorrenza di qualsiasi tutela",
-      "url": "https://www.brunoleoni.it/liberalizzazione-elettrica-vale-piu-la-concorrenza-di-qualsiasi-tutela/",
-      "excerpt": "L’unico effetto è che sull’altare di regole incerte saranno sacrificati i consumatori",
-      "publishedAt": "2026-11-11T06:37:59Z",
       "dateEvidence": "jsonld:datePublished"
     }
   ],
@@ -64,19 +64,19 @@
       "status": 200
     },
     {
-      "url": "https://www.brunoleoni.it/liberalizzazione-elettrica-vale-piu-la-concorrenza-di-qualsiasi-tutela/",
+      "url": "https://www.brunoleoni.it/la-patrimoniale-e-il-primo-mattone/",
+      "status": 200
+    },
+    {
+      "url": "https://www.brunoleoni.it/grande-educatore-della-giovane-italia/",
+      "status": 200
+    },
+    {
+      "url": "https://www.brunoleoni.it/il-paradosso-professori-accusati-di-fare-lezione/",
       "status": 200
     },
     {
       "url": "https://www.brunoleoni.it/la-patrimoniale-che-toglie-ai-ricchi-per-dare-allo-stato-piace-ai-dogmatici-della-spesa-pubblica/",
-      "status": 200
-    },
-    {
-      "url": "https://www.brunoleoni.it/idroelettrico-quelle-gare-che-giorgia-dovrebbe-benedire/",
-      "status": 200
-    },
-    {
-      "url": "https://www.brunoleoni.it/nicola-rossi-e-i-conservatori-innovativi/",
       "status": 200
     }
   ],
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 5,
   "listingUrl": "https://www.brunoleoni.it/",
-  "durationSeconds": 5.27
+  "durationSeconds": 5.29
 }

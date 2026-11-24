@@ -4,12 +4,20 @@
   "sourceId": "emergency",
   "originUrl": "https://www.emergency.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-23T11:18:49.905998Z",
+  "collectedAt": "2026-11-24T01:55:53.167773Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
-  "items": [],
+  "items": [
+    {
+      "title": "Uganda: inaugurato “Building Joy”, un nuovo parco giochi per i pazienti del nostro ospedale",
+      "url": "https://www.emergency.it/blog/articoli/uganda-inaugurato-building-joy-un-nuovo-parco-giochi-per-i-pazienti-del-nostro-ospedale/",
+      "excerpt": "Uganda: inaugurato “Building Joy”, un nuovo parco giochi per i pazienti del nostro ospedale Uno scivolo, delle altalene, una casetta di legno e uno spazio protetto in cui i bambini e le bambine possano muoversi e giocare all’aria aperta. È stato inaugurato il 20 novembre “Building Joy”, il progetto di un parco giochi f",
+      "publishedAt": "2026-11-23T14:03:12Z",
+      "dateEvidence": "jsonld:datePublished"
+    }
+  ],
   "attempts": [
     {
       "url": "https://www.emergency.it/robots.txt",
@@ -17,6 +25,10 @@
     },
     {
       "url": "https://www.emergency.it/",
+      "status": 200
+    },
+    {
+      "url": "https://www.emergency.it/blog/articoli/uganda-inaugurato-building-joy-un-nuovo-parco-giochi-per-i-pazienti-del-nostro-ospedale/",
       "status": 200
     },
     {
@@ -32,10 +44,6 @@
       "status": 200
     },
     {
-      "url": "https://www.emergency.it/blog/dai-progetti/ucraina-la-ristrutturazione-della-nostra-clinica-di-husarivka-kharkiv-attraverso-gli-occhi-di-liudmyla-e-dmytro/",
-      "status": 200
-    },
-    {
       "url": "https://www.emergency.it/blog/dai-progetti/gaza-un-anno-dal-cessate-il-fuoco/",
       "status": 200
     },
@@ -44,7 +52,7 @@
       "status": 200
     }
   ],
-  "message": "0 notizie recenti con data verificata; copertura parziale.",
+  "message": "1 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [
     {
       "url": "https://www.emergency.it/comunicati-stampa/life-support-seguita-da-imbarcazione-non-identificata-trovato-il-corpo-di-una-donna-alla-deriva/",
@@ -107,5 +115,5 @@
   "candidateCount": 8,
   "datedCount": 2,
   "listingUrl": "https://www.emergency.it/",
-  "durationSeconds": 6.83
+  "durationSeconds": 7.25
 }

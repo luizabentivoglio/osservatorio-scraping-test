@@ -4,7 +4,7 @@
   "sourceId": "camera",
   "originUrl": "https://www.camera.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-23T11:18:24.203333Z",
+  "collectedAt": "2026-11-24T01:55:29.779287Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -18,38 +18,38 @@
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "Riconoscimento al merito per le eccellenze italiane per la pace e lo sviluppo economico - Lunedì alle 10 diretta webtv",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64359",
-      "excerpt": "Lunedì 23 novembre, alle ore 10, presso la Sala della Regina di Montecitorio si svolge il convegno ...",
-      "publishedAt": "2026-11-20T00:00:00Z",
+      "title": "Stati generali dell'energia - Martedì alle 9 diretta webtv",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64374",
+      "excerpt": "Martedì 24 novembre, alle ore 9, presso la Sala della Regina di Montecitorio si svolge il convegno ...",
+      "publishedAt": "2026-11-23T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "Manifesti 1944 - 1946 - Caivano nel dopoguerra: tra occupazione militare e rinascita civile - Lunedì alle 10.30 diretta webtv",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64357",
-      "excerpt": "Lunedì 23 novembre, alle ore 10.30, presso la Sala del Refettorio di Palazzo San Macuto si svolge l...",
-      "publishedAt": "2026-11-20T00:00:00Z",
+      "title": "Master Treccani - Martedì alle 10 diretta webtv",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64375",
+      "excerpt": "Martedì 24 novembre, alle ore 10, presso la Sala del Refettorio di palazzo San Macuto si svolge la ...",
+      "publishedAt": "2026-11-23T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "Covid, lunedì audizione Conte – giovedì Mackinson – Diretta webtv",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64358",
-      "excerpt": "Lunedì 23 novembre, alle ore 10.30, presso l’aula del II piano di Palazzo San Macuto, la Commissi...",
-      "publishedAt": "2026-11-20T00:00:00Z",
+      "title": "Campi Flegrei, audizioni martedì e mercoledì - Diretta webtv",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64376",
+      "excerpt": "Martedì 24 novembre, alle ore 10.50, la Commissione Ambiente svolge le seguenti audizioni nell’am...",
+      "publishedAt": "2026-11-23T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "Per mano 6 - Lunedì alle 15 diretta webtv - Saluto di Mulè",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64356",
-      "excerpt": "Lunedì 23 novembre, alle ore 15, presso la Sala del Refettorio di Palazzo San Macuto si svolge il c...",
-      "publishedAt": "2026-11-20T00:00:00Z",
+      "title": "Calendario 2027 Polizia penitenziaria - Martedì alle 11 diretta webtv - Saluto di Mulè",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64379",
+      "excerpt": "Martedì 24 novembre, alle ore 11, presso l'Aula dei Gruppi parlamentari si svolge la presentazione ...",
+      "publishedAt": "2026-11-23T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "Copasir, audizione Vittorio Pisani – Martedì alle 14.30",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64371",
-      "excerpt": "Martedì 24 novembre, alle ore 14.30, presso l’aula del VI piano di Palazzo San Macuto, il Comitat...",
-      "publishedAt": "2026-11-20T00:00:00Z",
+      "title": "Progetto Mimosa: dalla rete al sistema - Martedì alle 11 diretta webtv - Saluto di Mulè",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64380",
+      "excerpt": "Martedì 24 novembre, alle ore 11, presso la Sala Matteotti di Palazzo Theodoli - Bianchelli si svol...",
+      "publishedAt": "2026-11-23T00:00:00Z",
       "dateEvidence": "html:publication-label"
     }
   ],
@@ -67,23 +67,23 @@
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64359",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64374",
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64357",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64375",
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64358",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64376",
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64356",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64379",
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64371",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64380",
       "status": 200
     }
   ],
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://comunicazione.camera.it/archivio-prima-pagina",
-  "durationSeconds": 4.71
+  "durationSeconds": 3.87
 }

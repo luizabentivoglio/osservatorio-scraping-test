@@ -4,12 +4,26 @@
   "sourceId": "wwf",
   "originUrl": "https://www.wwf.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-23T11:19:44.699948Z",
+  "collectedAt": "2026-11-24T01:56:44.935320Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "Tartarughe marine, foca monaca e cambiamento climatico",
+      "url": "https://www.wwf.it/pandanews/animali/tartarughe-marine-foca-monaca-clima/",
+      "excerpt": "Si è svolta in Grewcia la tavola rotonda del progetto europeo LIFE ADAPTS, Climate Change ADAptations to Protect Turtles and Monk Seals",
+      "publishedAt": "2026-11-23T16:12:59Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "La Terra chiamò: da Elisa a Pistoletto, artisti e oltre 100 realtà in piazza per il clima",
+      "url": "https://www.wwf.it/pandanews/clima/la-terra-chiamo-da-elisa-a-pistoletto-artisti-e-oltre-100-realta-in-piazza-per-il-clima/",
+      "excerpt": "Appuntamento a Piazza del Popolo, a Roma, sabato 5 dicembre per la manifestazione nazionale contro la crisi climatica",
+      "publishedAt": "2026-11-23T11:11:51Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
     {
       "title": "COP31 senza accordo, il mondo non può restare ostaggio delle lobby fossili",
       "url": "https://www.wwf.it/pandanews/clima/cop31-senza-accordo-il-mondo-non-puo-restare-ostaggio-delle-lobby-fossili/",
@@ -37,20 +51,6 @@
       "excerpt": "Il WWF dedica il fine settimana del 21 e 22 novembre al predatore, tante le iniziative nelle Oasi",
       "publishedAt": "2026-11-20T14:53:55Z",
       "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Cosa accade alla COP31 giorno per giorno",
-      "url": "https://www.wwf.it/pandanews/clima/cosa-accade-alla-cop31-giorno-per-giorno/",
-      "excerpt": "Dal 9 al 21 novembre è in corso ad Antalya il più importante evento per la lotta alla crisi climatica. Qui il nostro racconto giornaliero",
-      "publishedAt": "2026-11-20T10:24:00Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "COP31, la seconda bozza della decisione finale fa passi indietro sui punti decisivi",
-      "url": "https://www.wwf.it/pandanews/clima/cop31-la-seconda-bozza-della-decisione-finale-fa-passi-indietro-sui-punti-decisivi/",
-      "excerpt": "Nell’ultimo giorno ufficiale della COP3, il WWF Italia esprime preoccupazione per la seconda bozza della decisione finale",
-      "publishedAt": "2026-11-20T10:02:51Z",
-      "dateEvidence": "jsonld:datePublished"
     }
   ],
   "attempts": [
@@ -60,6 +60,14 @@
     },
     {
       "url": "https://www.wwf.it/",
+      "status": 200
+    },
+    {
+      "url": "https://www.wwf.it/pandanews/animali/tartarughe-marine-foca-monaca-clima/",
+      "status": 200
+    },
+    {
+      "url": "https://www.wwf.it/pandanews/clima/la-terra-chiamo-da-elisa-a-pistoletto-artisti-e-oltre-100-realta-in-piazza-per-il-clima/",
       "status": 200
     },
     {
@@ -77,14 +85,6 @@
     {
       "url": "https://www.wwf.it/pandanews/animali/ritorno-lupo-area-di-napoli/",
       "status": 200
-    },
-    {
-      "url": "https://www.wwf.it/pandanews/clima/cosa-accade-alla-cop31-giorno-per-giorno/",
-      "status": 200
-    },
-    {
-      "url": "https://www.wwf.it/pandanews/clima/cop31-la-seconda-bozza-della-decisione-finale-fa-passi-indietro-sui-punti-decisivi/",
-      "status": 200
     }
   ],
   "message": "6 notizie recenti con data verificata; copertura parziale.",
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.wwf.it/",
-  "durationSeconds": 5.72
+  "durationSeconds": 6.65
 }

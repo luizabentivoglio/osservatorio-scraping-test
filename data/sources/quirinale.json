@@ -4,7 +4,7 @@
   "sourceId": "quirinale",
   "originUrl": "https://www.quirinale.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-23T11:19:29.423530Z",
+  "collectedAt": "2026-11-24T01:56:34.269728Z",
   "status": "blocked",
   "diagnosticCode": "access_restricted",
   "method": "html",
@@ -20,6 +20,14 @@
       "status": 200
     },
     {
+      "url": "https://www.quirinale.it/it/notizie/presidente-repubblica-riceve-primi-magistrati-tributari-tirocinio",
+      "status": 200
+    },
+    {
+      "url": "https://www.quirinale.it/it/notizie/progetto-dopo-noi-mattarella-visita-casale-falcognana",
+      "status": 200
+    },
+    {
       "url": "https://www.quirinale.it/it/notizie/mattarella-riceve-delegazione-unicef-italia-per-80-anniversario-sua-fondazione",
       "status": 200
     },
@@ -32,23 +40,61 @@
       "status": 200
     },
     {
-      "url": "https://www.quirinale.it/it/notizie/consegnati-quirinale-premi-balzan-2026",
-      "status": 200
-    },
-    {
-      "url": "https://www.quirinale.it/it/notizie/cordoglio-presidente-mattarella-per-scomparsa-corrado-augias-1",
-      "status": 200
-    },
-    {
       "url": "https://www.quirinale.it/it/notizie/nostra-repubblica-compie-ottant-anni-1",
+      "status": 200
+    },
+    {
+      "url": "https://www.quirinale.it/it/notizie/presidente-repubblica-riceve-primi-magistrati-tributari-tirocinio",
+      "status": 200
+    },
+    {
+      "url": "https://www.quirinale.it/it/notizie/progetto-dopo-noi-mattarella-visita-casale-falcognana",
       "status": 200
     }
   ],
-  "message": "Verifica interattiva richiesta",
+  "message": "Browser HTTP 403",
   "candidateSamples": [
     {
+      "url": "https://www.quirinale.it/it/notizie/presidente-repubblica-riceve-primi-magistrati-tributari-tirocinio",
+      "title": "Il Presidente della Repubblica riceve i primi magistrati tributari in tirocinio Il Presidente della Repubblica, Sergio Mattarella, ha ricevuto al Quirinale i primi magistrati tributari attualmente in tirocinio.",
+      "h1": "Il Presidente della Repubblica riceve i primi magistrati tributari in tirocinio",
+      "dates": [
+        {
+          "tag": "span",
+          "class": [
+            "data-luogo"
+          ],
+          "text": "Palazzo del Quirinale, 23/11/2026",
+          "datetime": null
+        },
+        {
+          "tag": "p",
+          "class": [
+            "date-label"
+          ],
+          "text": "Palazzo del Quirinale, 23/11/2026 (II mandato)",
+          "datetime": null
+        }
+      ]
+    },
+    {
+      "url": "https://www.quirinale.it/it/notizie/progetto-dopo-noi-mattarella-visita-casale-falcognana",
+      "title": "Il Presidente della Repubblica Sergio Mattarella visita la realtà sociale e al “Dopo di noi” per persone con disabilità della Falcognana",
+      "h1": "Progetto \"Dopo di noi\": Mattarella visita il casale della Falcognana",
+      "dates": [
+        {
+          "tag": "p",
+          "class": [
+            "date-label"
+          ],
+          "text": "Roma, 23/11/2026 (II mandato)",
+          "datetime": null
+        }
+      ]
+    },
+    {
       "url": "https://www.quirinale.it/it/notizie/mattarella-riceve-delegazione-unicef-italia-per-80-anniversario-sua-fondazione",
-      "title": "Mattarella riceve una delegazione di Unicef Italia per l'80° anniversario della sua fondazione Il Presidente della Repubblica, Sergio Mattarella, in occasione dell'80° anniversario di fondazione, ha ricevuto al Quirinale una delegazione dell'Unicef guidata dalla Direttrice dell'Office of Strategy an",
+      "title": "Il Presidente della Repubblica, Sergio Mattarella, incontra una delegazione di Unicef Italia, in occasione dell'80° anniversario di fondazione",
       "h1": "Mattarella riceve una delegazione di Unicef Italia per l'80° anniversario della sua fondazione",
       "dates": [
         {
@@ -175,36 +221,6 @@
             "date-label"
           ],
           "text": "Roma, 20/11/2026 (II mandato)",
-          "datetime": null
-        }
-      ]
-    },
-    {
-      "url": "https://www.quirinale.it/it/notizie/consegnati-quirinale-premi-balzan-2026",
-      "title": "Il Presidente Sergio Mattarella con i vincitori del Premio Balzan 2026",
-      "h1": "Consegnati al Quirinale i Premi Balzan 2026",
-      "dates": [
-        {
-          "tag": "p",
-          "class": [
-            "date-label"
-          ],
-          "text": "Roma, 19/11/2026 (II mandato)",
-          "datetime": null
-        }
-      ]
-    },
-    {
-      "url": "https://www.quirinale.it/it/notizie/cordoglio-presidente-mattarella-per-scomparsa-corrado-augias-1",
-      "title": "foto d'archivio",
-      "h1": "Il cordoglio del Presidente Mattarella per la scomparsa di Corrado Augias",
-      "dates": [
-        {
-          "tag": "p",
-          "class": [
-            "date-label"
-          ],
-          "text": "Roma, 19/11/2026 (II mandato)",
           "datetime": null
         }
       ]

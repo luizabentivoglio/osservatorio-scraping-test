@@ -4,7 +4,7 @@
   "sourceId": "osservatorio-cpi",
   "originUrl": "https://osservatoriocpi.unicatt.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-23T11:19:08.209913Z",
+  "collectedAt": "2026-11-24T01:56:12.720225Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -36,13 +36,6 @@
       "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/il-fascino-discreto-delle-agevolazioni-per-mobili-ed-elettrodomestici.html",
       "excerpt": "La Legge di Bilancio 2027 conferma, per il quattordicesimo anno consecutivo, le agevolazioni per mobili ed elettrodomestici. Il rinnovo del bonus mobili e la riproposizione del voucher elettrodomestici presentano costi e benefici che non sembrano giustificare il loro finanziamento, se non nell’efficacia delle lobby che",
       "publishedAt": "2026-11-13T00:00:00Z",
-      "dateEvidence": "html:article-header"
-    },
-    {
-      "title": "Le differenze territoriali nell’istruzione, seppur ancora presenti, si sono ridotte negli anni",
-      "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/le-differenze-territoriali-nell-istruzione-seppur-ancora-presenti-si-sono-ridotte-negli-anni.html",
-      "excerpt": "Il Rapporto sul benessere equo e sostenibile dell’Istat permette di valutare se il divario tra macroaree nel livello di benessere si stia riducendo. Per l’istruzione, il divario territoriale si è ridotto per 7 indicatori su 14 tra il 2005 e il 2025 e per 10 dal 2020. Il calo è dovuto soprattutto a una riduzione delle d",
-      "publishedAt": "2026-11-10T00:00:00Z",
       "dateEvidence": "html:article-header"
     }
   ],
@@ -80,10 +73,10 @@
       "status": 200
     }
   ],
-  "message": "5 notizie recenti con data verificata; copertura parziale.",
+  "message": "4 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [],
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://osservatoriocpi.unicatt.it/pubblicazioni.html",
-  "durationSeconds": 6.35
+  "durationSeconds": 6.36
 }

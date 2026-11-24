@@ -4,12 +4,40 @@
   "sourceId": "msf",
   "originUrl": "https://www.medicisenzafrontiere.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-23T11:19:06.337316Z",
+  "collectedAt": "2026-11-24T01:56:10.510119Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "Sud Sudan: MSF sospende attività a Yei River dopo il rapimento di 2 operatori sanitari ora rilasciati",
+      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/sud-sudan-msf-sospende-attivita-yei-river-dopo-rapimento-2-operatori-sanitari-ora-rilasciati/",
+      "excerpt": "In Sud Sudan, MSF sospende temporaneamente le attività nella contea di Yei River, nello stato dell’Equatoria Centrale, per almeno tre mesi dopo che uomini armati hanno rapito un membro del team di MSF e un’ostetrica del ministero della Salute, poi rilasciati illesi il 14 novembre, due giorni dopo il sequestro. L’episod",
+      "publishedAt": "2026-11-23T15:26:11Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "Mali, colpita una struttura sanitaria a Niono: ucciso un operatore sanitario. MSF: “Le strutture sanitarie non sono bersagli”",
+      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/mali-colpita-struttura-sanitaria-niono-ucciso-operatore-sanitario-msf-strutture-sanitarie-non-sono-bersagli/",
+      "excerpt": "2 attacchi hanno colpito il villaggio di Arabebe, vicino a Niafounké, nel nord del Mali, e Niono, nella regione di Ségou, nel centro del paese, il 21 novembre. 2 persone hanno perso la vita, tra cui un operatore sanitario. All'interno dell'ospedale di Niono sono rimasti feriti anche 2 operatori sanitari, 2 persone che ",
+      "publishedAt": "2026-11-23T13:45:19Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "Situazione a Gaza oggi: la crisi umanitaria e il lavoro di MSF",
+      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/situazione-striscia-gaza/",
+      "excerpt": "La situazione nella Striscia di Gaza: cronaca aggiornata della crisi umanitaria, l'impatto sulla popolazione e il lavoro di Medici Senza Frontiere sul campo.",
+      "publishedAt": "2026-11-23T10:24:29Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "RDC/Nord Kivu: ragazzo di 15 anni muore in attesa di evacuazione medica a causa degli scontri a Nyabiondo",
+      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/rdc-nord-kivu-ragazzo-15-anni-muore-attesa-evacuazione-medica-causa-scontri-nyabiondo/",
+      "excerpt": "L'intensificarsi degli scontri armati a Nyabiondo, nel territorio di Masisi, Nord Kivu, hanno causato la tragica morte di un ragazzo di 15 anni, ferito da colpi d’arma da fuoco, mentre attendeva un trasferimento medico urgente. Le ostilità interrompono l'accesso alle cure a Nyabiondo Il trasferimento è stato reso impos",
+      "publishedAt": "2026-11-21T11:56:00Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
     {
       "title": "RDC, attacco con droni vicino a un ospedale a Bunyakiri, Sud Kivu. MSF: “proteggere civili e strutture sanitarie”",
       "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/rdc-attacco-droni-vicino-ospedale-bunyakiri-sud-kivu-msf-proteggere-civili-strutture-sanitarie/",
@@ -23,34 +51,6 @@
       "excerpt": "La guerra in Ucraina: dall'inizio del conflitto nel 2014 all'escalation del 2022, la crisi umanitaria attuale e la risposta di Medici Senza Frontiere",
       "publishedAt": "2026-11-20T10:07:26Z",
       "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Rohingya, per la CIG Myanmar responsabile di genocidio. MSF: “Un importante riconoscimento delle sofferenze subite”",
-      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/rohingya-per-cig-myanmar-responsabile-genocidio-msf-importante-riconoscimento-sofferenze-subite/",
-      "excerpt": "Questa mattina, 19 novembre, la Corte internazionale di giustizia ha stabilito che il Myanmar è responsabile di genocidio nei confronti della popolazione Rohingya. La sentenza rientra nell'ambito del procedimento avviato nel 2019 dal Gambia contro il Myanmar, relativo alle violazioni della Convenzione per la prevenzion",
-      "publishedAt": "2026-11-19T15:58:03Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Cisgiordania/Rapporto MSF: “Aumentano i bisogni di salute mentale per esposizione prolungata e ripetuta a violenza e incertezza”",
-      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/cisgiordania-rapporto-msf-aumentano-bisogni-salute-mentale-esposizione-prolungata-ripetuta-violenza-incertezza/",
-      "excerpt": "In Cisgiordania, i palestinesi vivono da anni in condizioni di violenza e insicurezza, con conseguenze sempre più gravi sulla loro salute mentale. Il nuovo rapporto di Medici Senza Frontiere - Il peso dell’occupazione - documenta l’impatto psicologico dell’occupazione israeliana in Cisgiordania e delle sue pratiche sem",
-      "publishedAt": "2026-11-19T15:33:37Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "X Factor e Medici Senza Frontiere: la partnership edizione per edizione",
-      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/xfactor/",
-      "excerpt": "Dal 2024 MSF è Official Partner di X Factor: i brani del Peace Factor, gli appelli di Giorgia e i video di ogni edizione. Scopri come donare.",
-      "publishedAt": "2026-11-19T08:20:59Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Naufragio di Cutro: cosa è successo, le vittime e cosa è cambiato",
-      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/naufragio-cutro/",
-      "excerpt": "Il naufragio di Cutro del 26 febbraio 2023: cos'è successo, il numero delle vittime, i processi e le politiche migratorie che ne sono seguite. La posizione di MSF.",
-      "publishedAt": "2026-11-18T18:05:46Z",
-      "dateEvidence": "jsonld:datePublished"
     }
   ],
   "attempts": [
@@ -63,27 +63,27 @@
       "status": 200
     },
     {
+      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/sud-sudan-msf-sospende-attivita-yei-river-dopo-rapimento-2-operatori-sanitari-ora-rilasciati/",
+      "status": 200
+    },
+    {
+      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/mali-colpita-struttura-sanitaria-niono-ucciso-operatore-sanitario-msf-strutture-sanitarie-non-sono-bersagli/",
+      "status": 200
+    },
+    {
+      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/situazione-striscia-gaza/",
+      "status": 200
+    },
+    {
+      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/rdc-nord-kivu-ragazzo-15-anni-muore-attesa-evacuazione-medica-causa-scontri-nyabiondo/",
+      "status": 200
+    },
+    {
       "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/rdc-attacco-droni-vicino-ospedale-bunyakiri-sud-kivu-msf-proteggere-civili-strutture-sanitarie/",
       "status": 200
     },
     {
       "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/guerra-in-ucraina/",
-      "status": 200
-    },
-    {
-      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/rohingya-per-cig-myanmar-responsabile-genocidio-msf-importante-riconoscimento-sofferenze-subite/",
-      "status": 200
-    },
-    {
-      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/cisgiordania-rapporto-msf-aumentano-bisogni-salute-mentale-esposizione-prolungata-ripetuta-violenza-incertezza/",
-      "status": 200
-    },
-    {
-      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/xfactor/",
-      "status": 200
-    },
-    {
-      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/naufragio-cutro/",
       "status": 200
     }
   ],
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.medicisenzafrontiere.it/",
-  "durationSeconds": 3.88
+  "durationSeconds": 3.8
 }

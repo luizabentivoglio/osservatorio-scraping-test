@@ -4,12 +4,26 @@
   "sourceId": "istat",
   "originUrl": "https://www.istat.it/",
   "configuredFeedUrl": "https://www.istat.it/feed/",
-  "collectedAt": "2026-11-23T11:19:00.368886Z",
+  "collectedAt": "2026-11-24T01:56:02.956072Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.istat.it/feed/",
   "items": [
+    {
+      "title": "Indicatori territoriali per le politiche di sviluppo",
+      "url": "https://www.istat.it/sistema-informativo-6/banca-dati-territoriale-per-le-politiche-di-sviluppo/",
+      "excerpt": "Online l'aggiornamento del sistema informativo territoriale",
+      "publishedAt": "2026-11-23T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "#IstatNewsletter",
+      "url": "https://www.istat.it/newsletter/online-istatnewsletter-la-newsletter-dellistat/",
+      "excerpt": "Online il numero 43 del 2026. Lascia la tua email e riceverai ogni lunedì tutti gli aggiornamenti del sito Istat",
+      "publishedAt": "2026-11-23T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "CIG BC512A73AA – Percorso formativo di sviluppo delle competenze sul benessere",
       "url": "https://www.istat.it/bando-di-gara/cig-bc512a73aa-percorso-formativo-di-sviluppo-delle-competenze-sul-benessere/",
@@ -65,20 +79,6 @@
       "excerpt": "La storia dell’Italia unita è caratterizzata da una progressiva riduzione della consistenza numerica di bambini e adolescenti e dal notevole miglioramento delle condizioni educative e di salute",
       "publishedAt": "2026-11-19T00:00:00Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Bilancio demografico mensile – agosto 2026",
-      "url": "https://www.istat.it/sistema-informativo-6/bilancio-demografico-mensile-agosto-2026/",
-      "excerpt": "Al 31 agosto 2026, la popolazione residente in Italia ammonta a 58.946.570 unità, in aumento di 4mila unità rispetto all’inizio dell’anno",
-      "publishedAt": "2026-11-19T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Sedicesima Giornata italiana della statistica (GIS 2026)",
-      "url": "https://www.istat.it/evento/sedicesima-giornata-italiana-statistica/",
-      "excerpt": "Promossa dall’Istituto nazionale di statistica (Istat) e dalla Società italiana di statistica (SIS)., si celebra su tutto il territorio nazionale con numerose iniziative",
-      "publishedAt": "2026-11-19T00:00:00Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -92,5 +92,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 2.62
+  "durationSeconds": 3.08
 }

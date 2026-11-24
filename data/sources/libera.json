@@ -4,12 +4,20 @@
   "sourceId": "libera",
   "originUrl": "https://www.libera.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-23T11:19:04.467268Z",
+  "collectedAt": "2026-11-24T01:56:08.749432Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "html",
   "feedUrl": null,
-  "items": [],
+  "items": [
+    {
+      "title": "Decreto Cortei: «No a norme che colpiscono dissenso e partecipazione.",
+      "url": "https://www.libera.it/it-schede-2880-decreto_cortei_no_a_norme_che_colpiscono_studenti_dissenso_e_partecipazione_rimettere_al_centro",
+      "excerpt": "Dalla revoca delle borse di studio agli studenti indagati alle sanzioni per i sindacati: le proposte al centro del nuovo decreto Cortei",
+      "publishedAt": "2026-11-23T00:00:00Z",
+      "dateEvidence": "html:dated-news-card"
+    }
+  ],
   "attempts": [
     {
       "url": "https://www.libera.it/robots.txt",
@@ -23,5 +31,5 @@
   "message": "Titoli, link e date di pubblicazione verificati nelle schede ufficiali delle notizie.",
   "datedCount": 4,
   "listingUrl": "https://www.libera.it/",
-  "durationSeconds": 2.67
+  "durationSeconds": 2.06
 }
