@@ -4,12 +4,33 @@
   "sourceId": "istat",
   "originUrl": "https://www.istat.it/",
   "configuredFeedUrl": "https://www.istat.it/feed/",
-  "collectedAt": "2026-11-24T23:40:10.543665Z",
+  "collectedAt": "2026-11-25T11:46:37.832490Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.istat.it/feed/",
   "items": [
+    {
+      "title": "Le disuguaglianze sociali nelle cause di morte in Italia",
+      "url": "https://www.istat.it/produzione-editoriale/le-disuguaglianze-sociali-nelle-cause-di-morte-in-italia/",
+      "excerpt": "Questo ebook analizza le disuguaglianze sociali nella mortalità in Italia e il ruolo chiave dell’istruzione come determinante della salute.",
+      "publishedAt": "2026-11-25T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "CIG BDD8B46E3E – Fornitura di prodotti minuti a supporto delle attività divulgative sul territorio",
+      "url": "https://www.istat.it/bando-di-gara/cig-bdd8b46e3e-fornitura-di-prodotti-minuti-a-supporto-delle-attivita-divulgative-sul-territorio/",
+      "excerpt": "Online la delibera di affidamento",
+      "publishedAt": "2026-11-25T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "La violenza contro le donne dentro e fuori la famiglia – Anno 2025",
+      "url": "https://www.istat.it/comunicato-stampa/la-violenza-contro-le-donne-dentro-e-fuori-la-famiglia-2025/",
+      "excerpt": "Sono circa 7 milioni (il 31,5%) le donne dai 16 ai 75 anni che hanno subìto almeno una violenza fisica o sessuale nel corso della vita (a partire dai 16 anni)",
+      "publishedAt": "2026-11-25T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "Indicatori territoriali per le politiche di sviluppo",
       "url": "https://www.istat.it/sistema-informativo-6/banca-dati-territoriale-per-le-politiche-di-sviluppo/",
@@ -58,27 +79,6 @@
       "excerpt": "Online la delibera di affidamento",
       "publishedAt": "2026-11-19T00:00:00Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Infografiche storie di dati: I prezzi al consumo",
-      "url": "https://www.istat.it/infografiche/infografiche-storie-di-dati-i-prezzi-al-consumo/",
-      "excerpt": "Online le infografiche su: I prezzi al consumo",
-      "publishedAt": "2026-11-19T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Ragazzi e giovani adulti",
-      "url": "https://www.istat.it/news-dati-alla-mano/ragazzi-e-giovani-adulti/",
-      "excerpt": "Un podcast per capire stili di vita e condizioni di chi ha fra i 14 e i 35 anni",
-      "publishedAt": "2026-11-19T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "I diritti dei bambini e degli adolescenti",
-      "url": "https://www.istat.it/produzione-editoriale/bambini/",
-      "excerpt": "La storia dell’Italia unita è caratterizzata da una progressiva riduzione della consistenza numerica di bambini e adolescenti e dal notevole miglioramento delle condizioni educative e di salute",
-      "publishedAt": "2026-11-19T00:00:00Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -92,5 +92,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 5.4
+  "durationSeconds": 3.08
 }

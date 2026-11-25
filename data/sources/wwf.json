@@ -4,12 +4,19 @@
   "sourceId": "wwf",
   "originUrl": "https://www.wwf.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-24T23:40:56.297470Z",
+  "collectedAt": "2026-11-25T11:47:15.105171Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "Black friday, il WWF accende i riflettori sul black trade",
+      "url": "https://www.wwf.it/pandanews/animali/black-friday-wwf-denuncia-black-trade/",
+      "excerpt": "Il WWF chiede di trasformare la spesa d’impulso in un’adozione simbolica, per contribuire a salvare le specie a rischio",
+      "publishedAt": "2026-11-25T11:17:26Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
     {
       "title": "Tartarughe marine, foca monaca e cambiamento climatico",
       "url": "https://www.wwf.it/pandanews/animali/tartarughe-marine-foca-monaca-clima/",
@@ -44,13 +51,6 @@
       "excerpt": "Per deporre le uova, le seppie cercano superfici adatte. In mare, però, trovano sempre più spesso qualcosa di diverso: come nasse e cogolli",
       "publishedAt": "2026-11-21T08:00:00Z",
       "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Giornata nazionale dell’albero, servono città più verdi e più ricche di biodiversità",
-      "url": "https://www.wwf.it/pandanews/ambiente/giornata-nazionale-dellalbero-servono-citta-piu-verdi-e-piu-ricche-di-biodiversita/",
-      "excerpt": "Dalla foresta ecuadoriana alle nostre città: ogni albero è un ecosistema complesso indispensabile contro isole di calore e crisi climatica",
-      "publishedAt": "2026-11-21T07:00:00Z",
-      "dateEvidence": "jsonld:datePublished"
     }
   ],
   "attempts": [
@@ -60,6 +60,10 @@
     },
     {
       "url": "https://www.wwf.it/",
+      "status": 200
+    },
+    {
+      "url": "https://www.wwf.it/pandanews/animali/black-friday-wwf-denuncia-black-trade/",
       "status": 200
     },
     {
@@ -81,10 +85,6 @@
     {
       "url": "https://www.wwf.it/pandanews/animali/cera-una-volta-una-seppiolina/",
       "status": 200
-    },
-    {
-      "url": "https://www.wwf.it/pandanews/ambiente/giornata-nazionale-dellalbero-servono-citta-piu-verdi-e-piu-ricche-di-biodiversita/",
-      "status": 200
     }
   ],
   "message": "6 notizie recenti con data verificata; copertura parziale.",
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.wwf.it/",
-  "durationSeconds": 6.34
+  "durationSeconds": 5.83
 }

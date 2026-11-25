@@ -4,12 +4,26 @@
   "sourceId": "camera",
   "originUrl": "https://www.camera.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-24T23:39:33.177244Z",
+  "collectedAt": "2026-11-25T11:46:02.937054Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "Decreto scuola, oggi il voto di fiducia",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64476",
+      "excerpt": "In Aula alle ore 12.30 l'esame delle mozioni Ghio, Ascari, Zanella, Boschi, Magi ed altri n. 1-00611...",
+      "publishedAt": "2026-11-25T00:00:00Z",
+      "dateEvidence": "html:publication-label"
+    },
+    {
+      "title": "Oggi question time con i ministri Nordio, Roccella e Calderone",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64470",
+      "excerpt": "Si svolge oggi, mercoledì 25 novembre, alle 15, il question time trasmesso dalla Rai in diretta tel...",
+      "publishedAt": "2026-11-24T00:00:00Z",
+      "dateEvidence": "html:publication-label"
+    },
     {
       "title": "Confesercenti: verso una proposta di legge che garantisca più servizi, più imprese, città più sicure e più ricche - Mercoledì alle 10.30 diretta webtv",
       "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64441",
@@ -18,7 +32,7 @@
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "David Rossi, mercoledì audizione alle 10.30 - Diretta webtv",
+      "title": "David Rossi, audizioni",
       "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64440",
       "excerpt": "Mercoledì 25 novembre, alle ore 10.30, presso l'Aula del VI piano di Palazzo San Macuto, la Commiss...",
       "publishedAt": "2026-11-24T00:00:00Z",
@@ -37,20 +51,6 @@
       "excerpt": "Mercoledì 25 novembre, alle ore 11, presso l'Aula dei Gruppi parlamentari si svolge il convegno \"Su...",
       "publishedAt": "2026-11-24T00:00:00Z",
       "dateEvidence": "html:publication-label"
-    },
-    {
-      "title": "Patto migrazione asilo, audizione prefetta Rabuano - Mercoledì alle 13.30 diretta webtv",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64432",
-      "excerpt": "Mercoledì 25 novembre, alle ore 13.30, presso l'Aula del III piano di Palazzo San Macuto, il Comita...",
-      "publishedAt": "2026-11-24T00:00:00Z",
-      "dateEvidence": "html:publication-label"
-    },
-    {
-      "title": "Politiche Ue, audizioni sindacati su appalti e concessioni – Mercoledì alle 12 diretta webtv",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64437",
-      "excerpt": "Mercoledì 25 novembre la Commissione Politiche Ue svolge le seguenti audizioni nell’ambito dell...",
-      "publishedAt": "2026-11-24T00:00:00Z",
-      "dateEvidence": "html:publication-label"
     }
   ],
   "attempts": [
@@ -60,6 +60,14 @@
     },
     {
       "url": "https://comunicazione.camera.it/archivio-prima-pagina",
+      "status": 200
+    },
+    {
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64476",
+      "status": 200
+    },
+    {
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64470",
       "status": 200
     },
     {
@@ -77,14 +85,6 @@
     {
       "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64431",
       "status": 200
-    },
-    {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64432",
-      "status": 200
-    },
-    {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64437",
-      "status": 200
     }
   ],
   "message": "6 notizie recenti con data verificata; copertura parziale.",
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://comunicazione.camera.it/archivio-prima-pagina",
-  "durationSeconds": 4.28
+  "durationSeconds": 4.75
 }

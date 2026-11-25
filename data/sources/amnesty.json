@@ -4,12 +4,19 @@
   "sourceId": "amnesty",
   "originUrl": "https://www.amnesty.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-24T23:39:31.611770Z",
+  "collectedAt": "2026-11-25T11:46:01.369116Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "Gaza: il prezzo del genocidio lo pagano le donne",
+      "url": "https://www.amnesty.it/gaza-il-prezzo-del-genocidio-lo-pagano-le-donne/",
+      "excerpt": "Sono le donne e le ragazze a pagare il prezzo più alto del perdurante genocidio israeliano nella Striscia di Gaza.",
+      "publishedAt": "2026-11-25T05:58:29Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
     {
       "title": "Cop31, fermata la “carta degli inquinatori”",
       "url": "https://www.amnesty.it/cop31-fermata-la-carta-degli-inquinatori/",
@@ -23,13 +30,6 @@
       "excerpt": "La condanna di Sihem Ben Sedrine rappresenta un evidente tentativo di screditare le conclusioni della Commissione per la verità e la dignità.",
       "publishedAt": "2026-11-20T12:01:53Z",
       "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Storico verdetto della Corte internazionale di giustizia sul genocidio contro i rohingya in Myanmar",
-      "url": "https://www.amnesty.it/storico-verdetto-della-corte-internazionale-di-giustizia-sul-genocidio-contro-i-rohingya-in-myanmar/",
-      "excerpt": "Una sentenza storica stabilisce che le autorità di Myanmar hanno commesso il crimine di genocidio contro la popolazione rohingya.",
-      "publishedAt": "2026-11-19T12:55:13Z",
-      "dateEvidence": "jsonld:datePublished"
     }
   ],
   "attempts": [
@@ -39,6 +39,10 @@
     },
     {
       "url": "https://www.amnesty.it/",
+      "status": 200
+    },
+    {
+      "url": "https://www.amnesty.it/gaza-il-prezzo-del-genocidio-lo-pagano-le-donne/",
       "status": 200
     },
     {
@@ -59,10 +63,6 @@
     },
     {
       "url": "https://www.amnesty.it/tunisia-cinque-anni-di-carcere-per-sihem-ben-sedrine/",
-      "status": 200
-    },
-    {
-      "url": "https://www.amnesty.it/storico-verdetto-della-corte-internazionale-di-giustizia-sul-genocidio-contro-i-rohingya-in-myanmar/",
       "status": 200
     }
   ],
@@ -90,5 +90,5 @@
   "candidateCount": 12,
   "datedCount": 3,
   "listingUrl": "https://www.amnesty.it/",
-  "durationSeconds": 7.5
+  "durationSeconds": 6.83
 }

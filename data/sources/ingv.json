@@ -4,12 +4,19 @@
   "sourceId": "ingv",
   "originUrl": "https://www.ingv.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-24T23:40:07.356509Z",
+  "collectedAt": "2026-11-25T11:46:34.215294Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.ingv.it/stampa-urp/ufficio-stampa/comunicati-stampa?format=feed&type=rss",
   "items": [
+    {
+      "title": "TSUNAMI | Operativo nel Mediterraneo il nuovo sistema INGV per la previsione probabilistica degli tsunami: arriva anche il premio HPCwire",
+      "url": "https://www.ingv.it/stampa-urp/ufficio-stampa/comunicati-stampa/tsunami-operativo-nel-mediterraneo-il-nuovo-sistema-ingv-per-la-previsione-probabilistica-degli-tsunami-arriva-anche-il-premio-hpcwire",
+      "excerpt": "",
+      "publishedAt": "2026-11-25T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "VULCANI | Rilevata dallo spazio una massiccia emissione di metano dal Fentale, in Etiopia",
       "url": "https://www.ingv.it/stampa-urp/ufficio-stampa/comunicati-stampa/vulcani-rilevata-dallo-spazio-una-massiccia-emissione-di-metano-dal-fentale-in-etiopia",
@@ -51,13 +58,6 @@
       "excerpt": "",
       "publishedAt": "2026-11-12T00:00:00Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "CLIMA E AVIAZIONE | TurboMeter integra previsioni meteorologiche e analisi climatica per studiare la turbolenza aerea e gli impatti su aeroporti e traffico aereo",
-      "url": "https://www.ingv.it/stampa-urp/ufficio-stampa/comunicati-stampa/clima-e-aviazione-turbometer-integra-previsioni-meteorologiche-e-analisi-climatica-per-studiare-la-turbolenza-aerea-e-gli-impatti-su-aeroporti-e-traffico-aereo",
-      "excerpt": "",
-      "publishedAt": "2026-11-11T00:00:00Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -75,5 +75,5 @@
     }
   ],
   "message": "Feed dichiarato dalla fonte; date di pubblicazione verificate.",
-  "durationSeconds": 1.61
+  "durationSeconds": 1.41
 }

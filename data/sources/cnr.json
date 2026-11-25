@@ -4,7 +4,7 @@
   "sourceId": "cnr",
   "originUrl": "https://www.cnr.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-24T23:39:43.853571Z",
+  "collectedAt": "2026-11-25T11:46:12.907664Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
@@ -107,27 +107,6 @@
       "excerpt": "12/11/2026 . Si è conclusa la campagna oceanografica HYDROSENSE 2026, che dal 30 ottobre al 12 novembre ha studiato il vulcano sottomarino Kolumbo, 7 km a nord-est di Santorini, e la caldera di Santorini. La spedizione, a bordo della nave da ricerca Gaia Blu del CNR, è stata guidata dall’Istituto di Scienze Marine del ",
       "publishedAt": "2026-11-12T00:00:00Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Parkinson e Alzheimer: individuati nel sangue nuovi segnali per comprendere le differenze tra i pazienti",
-      "url": "https://www.cnr.it/it/news/14805/parkinson-e-alzheimer-individuati-nel-sangue-nuovi-segnali-per-comprendere-le-differenze-tra-i-pazienti",
-      "excerpt": "11/11/2026 . Uno studio realizzato in collaborazione tra l’Università degli Studi di Roma Tor Vergata, LIFE - Santa Lucia IRCCS e l’Istituto di Farmacologia Traslazionale del CNR ha identificato una specifica firma immunometabolica nei pazienti con Parkinson in fase iniziale che presentano anche indicatori biologici de",
-      "publishedAt": "2026-11-11T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Accordo di cooperazione tra CNR e NEH per la ricerca nelle scienze umane",
-      "url": "https://www.cnr.it/it/news/14797/accordo-di-cooperazione-tra-cnr-e-neh-per-la-ricerca-nelle-scienze-umane",
-      "excerpt": "11/11/2026 . Il Consiglio Nazionale delle Ricerche (CNR) e il National Endowment for the Humanities (NEH), agenzia dell'esecutivo degli Stati Uniti d'America, hanno sottoscritto oggi a Roma un Memorandum di Intesa per la cooperazione nella promozione della ricerca scientifica nelle scienze umane. L'accordo, firmato dal",
-      "publishedAt": "2026-11-11T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Inaugurato il nuovo laboratorio Cryo-EM del CNR a Caserta",
-      "url": "https://www.cnr.it/it/news/14803/inaugurato-il-nuovo-laboratorio-cryo-em-del-cnr-a-caserta",
-      "excerpt": "11/11/2026 . Presso la sede di Caserta dell’Istituto di Cristallografia del Cnr è stato inaugurato il nuovo laboratorio di microscopia elettronica criogenica (Cryo-EM), realizzato nell’ambito del progetto ITACA.SB, finanziato dall’Unione Europea attraverso il programma NextGenerationEU – PNRR",
-      "publishedAt": "2026-11-11T00:00:00Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -141,5 +120,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 10.22
+  "durationSeconds": 10.24
 }

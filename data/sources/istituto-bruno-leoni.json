@@ -4,12 +4,26 @@
   "sourceId": "istituto-bruno-leoni",
   "originUrl": "https://www.brunoleoni.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-24T23:40:13.453845Z",
+  "collectedAt": "2026-11-25T11:46:39.450228Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "Un payback sui farmaci che frena l’innovazione",
+      "url": "https://www.brunoleoni.it/un-payback-sui-farmaci-che-frena-linnovazione/",
+      "excerpt": "Se non eliminato del tutto, il payback andrebbe almeno reso meno gravoso, più prevedibile e più selettivo",
+      "publishedAt": "2026-11-25T07:19:16Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "Payback, la tassa senza fine che minaccia la ricerca italiana",
+      "url": "https://www.brunoleoni.it/payback-la-tassa-senza-fine-che-minaccia-la-ricerca-italiana/",
+      "excerpt": "La proposta IBL è fissare un massimale, introdurre accordi pluriennali ed esentare i nuovi farmaci",
+      "publishedAt": "2026-11-25T07:19:00Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
     {
       "title": "La patrimoniale è il primo mattone di un muro fatto di tasse, regole e burocrazia",
       "url": "https://www.brunoleoni.it/la-patrimoniale-e-il-primo-mattone/",
@@ -22,20 +36,6 @@
       "url": "https://www.brunoleoni.it/grande-educatore-della-giovane-italia/",
       "excerpt": "I principi del liberalismo risorgimentale fanno da sfondo alla storia del burattino di Collodi",
       "publishedAt": "2026-11-23T11:41:33Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Il paradosso: professori “accusati” di fare lezione",
-      "url": "https://www.brunoleoni.it/il-paradosso-professori-accusati-di-fare-lezione/",
-      "excerpt": "L’università italiana è ormai un mondo a testa in giù, nel quale chi difende un minimo di buonsenso finisce sotto accusa",
-      "publishedAt": "2026-11-23T11:41:12Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "La patrimoniale che toglie ai ricchi per dare allo Stato piace ai dogmatici della spesa pubblica",
-      "url": "https://www.brunoleoni.it/la-patrimoniale-che-toglie-ai-ricchi-per-dare-allo-stato-piace-ai-dogmatici-della-spesa-pubblica/",
-      "excerpt": "Si vuol fare dello Stato una religione e della spesa pubblica il suo dogma",
-      "publishedAt": "2026-11-20T10:30:17Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
@@ -68,15 +68,15 @@
       "status": 200
     },
     {
+      "url": "https://www.brunoleoni.it/un-payback-sui-farmaci-che-frena-linnovazione/",
+      "status": 200
+    },
+    {
+      "url": "https://www.brunoleoni.it/payback-la-tassa-senza-fine-che-minaccia-la-ricerca-italiana/",
+      "status": 200
+    },
+    {
       "url": "https://www.brunoleoni.it/grande-educatore-della-giovane-italia/",
-      "status": 200
-    },
-    {
-      "url": "https://www.brunoleoni.it/il-paradosso-professori-accusati-di-fare-lezione/",
-      "status": 200
-    },
-    {
-      "url": "https://www.brunoleoni.it/la-patrimoniale-che-toglie-ai-ricchi-per-dare-allo-stato-piace-ai-dogmatici-della-spesa-pubblica/",
       "status": 200
     }
   ],
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 5,
   "listingUrl": "https://www.brunoleoni.it/",
-  "durationSeconds": 6.24
+  "durationSeconds": 6.35
 }

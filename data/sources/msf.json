@@ -4,12 +4,19 @@
   "sourceId": "msf",
   "originUrl": "https://www.medicisenzafrontiere.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-24T23:40:22.583447Z",
+  "collectedAt": "2026-11-25T11:46:45.679299Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "MSF aderisce alle manifestazioni per la Giornata contro la violenza sulle donne",
+      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/msf-aderisce-manifestazioni-giornata-contro-violenza-donne/",
+      "excerpt": "Medici Senza Frontiere aderisce alle manifestazioni che si terranno in occasione della Giornata internazionale per l’eliminazione della violenza contro le donne, per condannare ogni forma di violenza e ribadire che alle sopravvissute devono essere garantiti protezione, ascolto e accesso alle cure. La violenza di genere",
+      "publishedAt": "2026-11-25T11:29:59Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
     {
       "title": "Sud Sudan: MSF sospende attività a Yei River dopo il rapimento di 2 operatori sanitari ora rilasciati",
       "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/sud-sudan-msf-sospende-attivita-yei-river-dopo-rapimento-2-operatori-sanitari-ora-rilasciati/",
@@ -44,13 +51,6 @@
       "excerpt": "Con l’intensificarsi delle violenze nella zona sanitaria di Bunyakiri, nel Sud Kivu, Medici Senza Frontiere chiede a tutte le parti in conflitto di rispettare e proteggere i civili, le strutture sanitarie e il personale umanitario. L’escalation del conflitto a Bunyakiri mette a rischio cure e civili Dal 6 novembre 2026",
       "publishedAt": "2026-11-20T10:38:12Z",
       "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Guerra in Ucraina: quando è iniziata e cosa sta succedendo oggi",
-      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/guerra-in-ucraina/",
-      "excerpt": "La guerra in Ucraina: dall'inizio del conflitto nel 2014 all'escalation del 2022, la crisi umanitaria attuale e la risposta di Medici Senza Frontiere",
-      "publishedAt": "2026-11-20T10:07:26Z",
-      "dateEvidence": "jsonld:datePublished"
     }
   ],
   "attempts": [
@@ -60,6 +60,10 @@
     },
     {
       "url": "https://www.medicisenzafrontiere.it/",
+      "status": 200
+    },
+    {
+      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/msf-aderisce-manifestazioni-giornata-contro-violenza-donne/",
       "status": 200
     },
     {
@@ -81,10 +85,6 @@
     {
       "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/rdc-attacco-droni-vicino-ospedale-bunyakiri-sud-kivu-msf-proteggere-civili-strutture-sanitarie/",
       "status": 200
-    },
-    {
-      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/guerra-in-ucraina/",
-      "status": 200
     }
   ],
   "message": "6 notizie recenti con data verificata; copertura parziale.",
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.medicisenzafrontiere.it/",
-  "durationSeconds": 3.78
+  "durationSeconds": 3.93
 }

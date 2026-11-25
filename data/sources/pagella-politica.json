@@ -4,12 +4,19 @@
   "sourceId": "pagella-politica",
   "originUrl": "https://pagellapolitica.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-24T23:40:30.339204Z",
+  "collectedAt": "2026-11-25T11:46:53.508328Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "Per l’ultimo pacchetto di aiuti militari all’Ucraina c’è voluto un anno",
+      "url": "https://pagellapolitica.it/articoli/ultimo-pacchetto-aiuti-militari-ucraina",
+      "excerpt": "È l’intervallo più lungo dall’inizio dell’invasione russa nel 2022. Abbiamo ricostruito come è cambiata la...",
+      "publishedAt": "2026-11-25T00:00:00Z",
+      "dateEvidence": "html:post-date"
+    },
     {
       "title": "La sentenza sul senegalese poligamo con undici figli non è una “follia”, come dice Salvini",
       "url": "https://pagellapolitica.it/articoli/senegalese-undici-figli-salvini",
@@ -44,13 +51,6 @@
       "excerpt": "I partiti di centrosinistra hanno raggiunto un accordo, ma restano da chiarire i destinatari della misura e le...",
       "publishedAt": "2026-11-20T00:00:00Z",
       "dateEvidence": "html:post-date"
-    },
-    {
-      "title": "La classifica dei governi con cui abbiamo avuto più scioperi generali",
-      "url": "https://pagellapolitica.it/articoli/classifica-governi-scioperi-generali",
-      "excerpt": "Durante il governo Meloni si è registrato il maggior numero di scioperi generali nazionali, ma è durante il governo...",
-      "publishedAt": "2026-11-20T00:00:00Z",
-      "dateEvidence": "html:post-date"
     }
   ],
   "attempts": [
@@ -60,6 +60,10 @@
     },
     {
       "url": "https://pagellapolitica.it/articoli",
+      "status": 200
+    },
+    {
+      "url": "https://pagellapolitica.it/articoli/ultimo-pacchetto-aiuti-militari-ucraina",
       "status": 200
     },
     {
@@ -81,10 +85,6 @@
     {
       "url": "https://pagellapolitica.it/articoli/reddito-di-cittadinanza-campo-largo",
       "status": 200
-    },
-    {
-      "url": "https://pagellapolitica.it/articoli/classifica-governi-scioperi-generali",
-      "status": 200
     }
   ],
   "message": "6 notizie recenti con data verificata; copertura parziale.",
@@ -92,5 +92,5 @@
   "candidateCount": 6,
   "datedCount": 6,
   "listingUrl": "https://pagellapolitica.it/articoli",
-  "durationSeconds": 6.56
+  "durationSeconds": 6.95
 }

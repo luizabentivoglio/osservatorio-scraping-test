@@ -4,7 +4,7 @@
   "sourceId": "patt",
   "originUrl": "https://patt.tn.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-24T23:40:28.534613Z",
+  "collectedAt": "2026-11-25T11:46:50.827143Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
@@ -25,5 +25,5 @@
     }
   ],
   "message": "Feed dichiarato dalla fonte; date di pubblicazione verificate.",
-  "durationSeconds": 2.21
+  "durationSeconds": 5.91
 }

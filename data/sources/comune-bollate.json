@@ -4,12 +4,19 @@
   "sourceId": "comune-bollate",
   "originUrl": "https://comune.bollate.mi.it/it/news",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-24T23:39:39.111751Z",
+  "collectedAt": "2026-11-25T11:46:08.203459Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "Convocazione Consiglio comunale",
+      "url": "https://comune.bollate.mi.it/it/news/convocazione-consiglio-comunale-2090449",
+      "excerpt": "Sito ufficiale Comune di Bollate",
+      "publishedAt": "2026-11-25T00:00:00Z",
+      "dateEvidence": "html:news-date-label"
+    },
     {
       "title": "Il Consiglio Comunale delle Ragazze e dei Ragazzi si rinnova",
       "url": "https://comune.bollate.mi.it/it/news/consiglio-ragazzi-2089302",
@@ -56,6 +63,10 @@
       "status": 200
     },
     {
+      "url": "https://comune.bollate.mi.it/it/news/convocazione-consiglio-comunale-2090449",
+      "status": 200
+    },
+    {
       "url": "https://comune.bollate.mi.it/it/news/consiglio-ragazzi-2089302",
       "status": 200
     },
@@ -74,16 +85,12 @@
     {
       "url": "https://comune.bollate.mi.it/it/news/tari-2026-promemoria-scadenza",
       "status": 200
-    },
-    {
-      "url": "https://comune.bollate.mi.it/it/news/bollate-contro-la-violenza-sulle-donne",
-      "status": 200
     }
   ],
-  "message": "5 notizie recenti con data verificata; copertura parziale.",
+  "message": "6 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [],
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://comune.bollate.mi.it/it/news",
-  "durationSeconds": 4.79
+  "durationSeconds": 4.7
 }

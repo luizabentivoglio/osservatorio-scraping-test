@@ -4,12 +4,19 @@
   "sourceId": "oxfam",
   "originUrl": "https://www.oxfamitalia.org/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-24T23:40:26.368778Z",
+  "collectedAt": "2026-11-25T11:46:49.616550Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "RENDIAMO VISIBILI LE DISUGUAGLIANZE CHE ALIMENTANO LA VIOLENZA DI GENERE",
+      "url": "https://www.oxfamitalia.org/rendiamo-visibili-le-disuguaglianze-che-alimentano-la-violenza-di-genere/",
+      "excerpt": "In occasione del 25 novembre, Oxfam accende una luce sul legame tra lavoro di cura e prevenzione della violenza di genere.",
+      "publishedAt": "2026-11-25T08:40:33Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
     {
       "title": "Alluvioni a Gaza: migliaia di famiglie senza riparo",
       "url": "https://www.oxfamitalia.org/alluvioni-a-gaza-migliaia-di-famiglie-senza-riparo/",
@@ -56,6 +63,10 @@
       "status": 200
     },
     {
+      "url": "https://www.oxfamitalia.org/rendiamo-visibili-le-disuguaglianze-che-alimentano-la-violenza-di-genere/",
+      "status": 200
+    },
+    {
       "url": "https://www.oxfamitalia.org/alluvioni-a-gaza-migliaia-di-famiglie-senza-riparo/",
       "status": 200
     },
@@ -74,16 +85,12 @@
     {
       "url": "https://www.oxfamitalia.org/scuola-di-disuguaglianze/",
       "status": 200
-    },
-    {
-      "url": "https://www.oxfamitalia.org/pace-nel-mondo/",
-      "status": 200
     }
   ],
-  "message": "5 notizie recenti con data verificata; copertura parziale.",
+  "message": "6 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [],
   "candidateCount": 8,
   "datedCount": 6,
   "listingUrl": "https://www.oxfamitalia.org/news/",
-  "durationSeconds": 3.97
+  "durationSeconds": 3.89
 }

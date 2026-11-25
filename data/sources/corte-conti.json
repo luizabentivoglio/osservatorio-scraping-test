@@ -4,7 +4,7 @@
   "sourceId": "corte-conti",
   "originUrl": "https://www.corteconti.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-24T23:39:49.194146Z",
+  "collectedAt": "2026-11-25T11:46:16.873335Z",
   "status": "no_feed",
   "diagnosticCode": "parsing_error",
   "method": "crawl4ai",
@@ -40,7 +40,7 @@
       "status": 200
     },
     {
-      "url": "https://www.corteconti.it/HOME/StampaMedia/Notizie/DettaglioNotizia?Id=a0021587-42c0-4a1a-a01e-3bc1691b53bb",
+      "url": "https://www.corteconti.it/HOME/StampaMedia/Notizie/DettaglioNotizia?Id=d2b0a261-59e7-4ae2-9ebe-60e696ea1cc0",
       "status": 200
     },
     {
@@ -64,7 +64,7 @@
       "status": 200
     },
     {
-      "url": "https://www.corteconti.it/HOME/StampaMedia/Notizie/DettaglioNotizia?Id=a0021587-42c0-4a1a-a01e-3bc1691b53bb",
+      "url": "https://www.corteconti.it/HOME/StampaMedia/Notizie/DettaglioNotizia?Id=d2b0a261-59e7-4ae2-9ebe-60e696ea1cc0",
       "status": 200
     }
   ],
@@ -101,8 +101,8 @@
       "dates": []
     },
     {
-      "url": "https://www.corteconti.it/HOME/StampaMedia/Notizie/DettaglioNotizia?Id=a0021587-42c0-4a1a-a01e-3bc1691b53bb",
-      "title": "CORTE CONTI: LA FINANZA DI REGIONI E PROVINCE AUTONOME TRA EQUILIBRI DI BILANCIO, SANITA’ E INVESTIMENTI Leggi di più",
+      "url": "https://www.corteconti.it/HOME/StampaMedia/Notizie/DettaglioNotizia?Id=d2b0a261-59e7-4ae2-9ebe-60e696ea1cc0",
+      "title": "CONCORSO PUBBLICO, PER TITOLI ED ESAMI, A N. 32 UNITA’ DI PERSONALE NON DIRIGENZIALE DA INQUADRARE NELL’AREA DELLE ELEVATE PROFESSIONALITA’ DELLA CORTE DEI CONTI E DELL’AVVOCATURA DELLO STATO Leggi di più",
       "h1": "Corte dei conti",
       "dates": []
     }
@@ -110,5 +110,5 @@
   "candidateCount": 12,
   "datedCount": 0,
   "listingUrl": "https://www.corteconti.it/",
-  "durationSeconds": 5.09
+  "durationSeconds": 4.78
 }

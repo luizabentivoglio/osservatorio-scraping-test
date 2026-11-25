@@ -4,7 +4,7 @@
   "sourceId": "demos-partito",
   "originUrl": "https://www.democraziasolidale.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-24T23:39:56.447700Z",
+  "collectedAt": "2026-11-25T11:46:25.394425Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
@@ -33,5 +33,5 @@
     }
   ],
   "message": "Feed dichiarato dalla fonte; date di pubblicazione verificate.",
-  "durationSeconds": 2.4
+  "durationSeconds": 2.46
 }

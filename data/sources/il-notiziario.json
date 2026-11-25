@@ -4,12 +4,75 @@
   "sourceId": "il-notiziario",
   "originUrl": "https://www.ilnotiziario.net/",
   "configuredFeedUrl": "https://www.ilnotiziario.net/feed/",
-  "collectedAt": "2026-11-24T23:40:11.219269Z",
+  "collectedAt": "2026-11-25T11:46:38.644813Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.ilnotiziario.net/feed/",
   "items": [
+    {
+      "title": "Stazione di Saronno, ritarda il presidio della Polfer, lavori ancora in corso",
+      "url": "https://www.ilnotiziario.net/stazione-di-saronno-ritarda-il-presidio-della-polfer-lavori-ancora-in-corso/",
+      "excerpt": "Stazione di Saronno, ritarda il presidio della Polfer, lavori ancora in corso Il nuovo presidio della Polizia ferroviaria alla...",
+      "publishedAt": "2026-11-25T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Quarto Oggiaro, scatta il blitz delle forze dell’ordine, controlli a tappeto nel quartiere",
+      "url": "https://www.ilnotiziario.net/quarto-oggiaro-scatta-il-blitz-delle-forze-dellordine-controlli-a-tappeto-nel-quartiere/",
+      "excerpt": "Quarto Oggiaro, scatta il blitz delle forze dell’ordine, controlli a tappeto nel quartiere Un servizio straordinario di controllo...",
+      "publishedAt": "2026-11-25T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Combattente mercenario in Ucraina con arsenale da guerra in casa, divieto di espatrio per un brianzolo",
+      "url": "https://www.ilnotiziario.net/combattente-mercenario-in-ucraina-con-arsenale-da-guerra-in-casa-divieto-di-espatrio-per-un-brianzolo/",
+      "excerpt": "Combattente mercenario in Ucraina con arsenale da guerra in casa, divieto di espatrio per un brianzolo Un 45enne residente in...",
+      "publishedAt": "2026-11-25T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Sassi contro l’auto da una baby gang tra Saronno e Gerenzano, la denuncia di una donna",
+      "url": "https://www.ilnotiziario.net/sassi-contro-lauto-da-una-baby-gang-tra-saronno-e-gerenzano-la-denuncia-di-una-donna/",
+      "excerpt": "Sassi contro l’auto da una baby gang tra Saronno e Gerenzano, la denuncia di una donna Un episodio di inciviltà e violenza...",
+      "publishedAt": "2026-11-25T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Saronno, venti vie coinvolte nella campagna contro la violenza sulle donne, ecco l’iniziativa",
+      "url": "https://www.ilnotiziario.net/saronno-venti-vie-coinvolte-nella-campagna-contro-la-violenza-sulle-donne-ecco-liniziativa/",
+      "excerpt": "Saronno, venti vie coinvolte nella campagna contro la violenza sulle donne, ecco l’iniziativa A Saronno la prevenzione...",
+      "publishedAt": "2026-11-25T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "A Bollate, la celebrazione della Virgo Fidelis con l’Associazione nazionale carabinieri",
+      "url": "https://www.ilnotiziario.net/a-bollate-la-celebrazione-della-virgo-fidelis-con-lassociazione-nazionale-carabinieri/",
+      "excerpt": "Nella chiesa parrocchiale di San Martino a Bollate, si è celebrata sabato la messa dedicata alla Virgo Fidelis, patrona dell’Arma...",
+      "publishedAt": "2026-11-25T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Logistica e poli produttivi: la manutenzione continua che sostiene il tessuto economico locale",
+      "url": "https://www.ilnotiziario.net/logistica-e-poli-produttivi-la-manutenzione-continua-che-sostiene-il-tessuto-economico-locale/",
+      "excerpt": "La manutenzione dei poli logistici e produttivi rappresenta un elemento fondamentale per garantire la continuità delle attività...",
+      "publishedAt": "2026-11-25T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Milano, Torre Branca in rosso contro la violenza sulle donne: l’iniziativa del fotografo di Bollate Roman Conte",
+      "url": "https://www.ilnotiziario.net/milano-torre-branca-in-rosso-contro-la-violenza-sulle-donne-liniziativa-del-fotografo-di-bollate-roman-conte/",
+      "excerpt": "A Milano la Torre Branca in rosso contro la violenza sulle donne per iniziativa del fotografo di Bollate, Roman Conte. Un simbolo...",
+      "publishedAt": "2026-11-25T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Nerviano: Accoltellato entra in un bar per chiedere aiuto",
+      "url": "https://www.ilnotiziario.net/nerviano-accoltellato-entra-in-un-bar-per-chiedere-aiuto/",
+      "excerpt": "Ferito con una coltellata entra in un bar per chiedere aiuto e viene soccorso, prima dai gestori del locale e successivamente...",
+      "publishedAt": "2026-11-25T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "Sicurezza nelle stazioni, Ferrovienord mette le telecamere a disposizione dei comuni, Cormano e Cusano tra i primi",
       "url": "https://www.ilnotiziario.net/sicurezza-nelle-stazioni-ferrovienord-mette-le-telecamere-a-disposizione-dei-comuni-cormano-e-cusano-tra-i-primi/",
@@ -51,69 +114,6 @@
       "excerpt": "E’ stata la chiesa parrocchiale “San Vincenzo” di via Comasinella, nel quartiere di Brusuglio, a ospitare l’annuale...",
       "publishedAt": "2026-11-24T00:00:00Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Ricette false per ottenere potenti oppioidi ai fini di spaccio: arrestato in farmacia a Lentate, colpita anche Lazzate",
-      "url": "https://www.ilnotiziario.net/ricette-false-per-ottenere-potenti-oppioidi-ai-fini-di-spaccio-arrestato-in-farmacia-a-lentate-colpita-anche-lazzate/",
-      "excerpt": "Ricette false per avere oppiodi da destinare quasi certamente allo spaccio, un arresto e una denuncia a Lentate. Si presentavano...",
-      "publishedAt": "2026-11-24T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Rubano auto da oltre 300mila euro, due uomini fermati a Milano",
-      "url": "https://www.ilnotiziario.net/rubano-auto-da-oltre-300mila-euro-due-uomini-fermati-a-milano/",
-      "excerpt": "Rubano auto da oltre 300mila euro, due uomini fermati a Milano Un laboratorio attrezzato per clonare chiavi e manomettere i...",
-      "publishedAt": "2026-11-24T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Saronno, furti di carte di credito ai parcometri, l’allarme dei gestori: occhio ai raggiri",
-      "url": "https://www.ilnotiziario.net/saronno-furti-di-carte-di-credito-ai-parcometri-lallarme-dei-gestori-occhio-ai-raggiri/",
-      "excerpt": "A Saronno furti di carte di credito ai parcometri, l’allarme lanciato dai gestori. Attenzione massima quando si paga il...",
-      "publishedAt": "2026-11-24T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Nord Sud Ovest Est, recensione: il nostalgico addio agli 883",
-      "url": "https://www.ilnotiziario.net/nord-sud-ovest-est-recensione-il-nostalgico-addio-agli-883/",
-      "excerpt": "di Stefano Di Maria Si è conclusa nei giorni scorsi la serie NORD SUD OVEST EST, seguito del sorprendente HANNO UCCISO L’UOMO...",
-      "publishedAt": "2026-11-23T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Dai tour con Gloria Gaynor alla lotta al bullismo: Ludovico Aldasio nella scuola di Gerenzano",
-      "url": "https://www.ilnotiziario.net/dai-tour-con-gloria-gaynor-alla-lotta-al-bullismo-ludovico-aldasio-nella-scuola-di-gerenzano/",
-      "excerpt": "Dalle esperienze nel panorama musicale internazionale all’impegno contro bullismo e cyberbullismo: Ludovico Aldasio incontra gli...",
-      "publishedAt": "2026-11-23T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Incidente a Caronno, auto si schianta contro un albero e si ribalta",
-      "url": "https://www.ilnotiziario.net/incidente-a-caronno-auto-si-schianta-contro-un-albero-e-si-ribalta/",
-      "excerpt": "Incidente in corso della Vittoria a Caronno Pertusella: un ragazzo si è ribaltato con l’auto, ma per fortuna non si è ferito...",
-      "publishedAt": "2026-11-23T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Finti finanzieri rapinano spacciatori a Novedrate, banda arrestata dopo il blitz a Lentate sul Seveso",
-      "url": "https://www.ilnotiziario.net/finti-finanzieri-rapinano-spacciatori-a-novedrate-banda-arrestata-dopo-il-blitz-a-lentate-sul-seveso/",
-      "excerpt": "Finti finanzieri con passamontagna e pettorine rapinano spacciatori a Novedrate, dopo il blitz a Lentate sul Seveso sgominata...",
-      "publishedAt": "2026-11-23T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Uboldo e Gerenzano: arrivano le benedizioni collettive",
-      "url": "https://www.ilnotiziario.net/uboldo-e-gerenzano-arrivano-le-benedizioni-collettive/",
-      "excerpt": "Benedizioni collettive per Natale a Uboldo e Gerenzano. C’erano una volta le benedizioni. Un tempo, con...",
-      "publishedAt": "2026-11-23T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Treni in tempo reale su Google Maps: cosa cambia per chi viaggia con Trenord",
-      "url": "https://www.ilnotiziario.net/treni-in-tempo-reale-su-google-maps-cosa-cambia-per-chi-viaggia-con-trenord/",
-      "excerpt": "Treni in tempo reale, integrazione con Google Maps per Trenord, ecco cosa cambia per chi viaggia. Seguire l’andamento del...",
-      "publishedAt": "2026-11-23T00:00:00Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -127,5 +127,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 2.23
+  "durationSeconds": 3.37
 }

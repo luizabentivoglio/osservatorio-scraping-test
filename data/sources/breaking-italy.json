@@ -4,17 +4,17 @@
   "sourceId": "breaking-italy",
   "originUrl": "https://breakingitaly.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-24T23:39:32.361101Z",
+  "collectedAt": "2026-11-25T11:46:01.926548Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
-      "title": "Jensen Huang CEO di Nvidia: il ritorno",
-      "url": "https://breakingitaly.it/newsletter/jensen-huang-ceo-di-nvidia-il-ritorno",
-      "excerpt": "Jensen Huang CEO di Nvidia: il ritorno",
-      "publishedAt": "2026-11-24T00:00:00Z",
+      "title": "Donald Trump e i guadagni dalle azioni di Nvidia, ci risiamo",
+      "url": "https://breakingitaly.it/newsletter/donald-trump-e-i-guadagni-dalle-azioni-di-nvidia-ci-risiamo",
+      "excerpt": "Donald Trump e i guadagni dalle azioni di Nvidia, ci risiamo",
+      "publishedAt": "2026-11-25T00:00:00Z",
       "dateEvidence": "html:newsletter-publication"
     }
   ],
@@ -32,7 +32,7 @@
       "status": 200
     },
     {
-      "url": "https://breakingitaly.it/newsletter/jensen-huang-ceo-di-nvidia-il-ritorno",
+      "url": "https://breakingitaly.it/newsletter/donald-trump-e-i-guadagni-dalle-azioni-di-nvidia-ci-risiamo",
       "status": 200
     },
     {
@@ -96,5 +96,5 @@
   "candidateCount": 12,
   "datedCount": 1,
   "listingUrl": "https://breakingitaly.it/",
-  "durationSeconds": 5.28
+  "durationSeconds": 5.35
 }
