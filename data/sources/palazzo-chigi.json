@@ -4,16 +4,23 @@
   "sourceId": "palazzo-chigi",
   "originUrl": "https://www.governo.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-25T11:46:54.587620Z",
+  "collectedAt": "2026-11-25T23:22:07.360193Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.governo.it/feed/rss",
   "items": [
     {
+      "title": "Comunicato stampa del Consiglio dei Ministri n. 200",
+      "url": "https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-200/33190",
+      "excerpt": "Il Consiglio dei Ministri si è riunito mercoledì 25 novembre 2026, alle ore 15.47 a Palazzo Chigi, sotto la presidenza del Presidente Giorgia Meloni. Segretario, il Sottosegretario alla Presidenza Alfredo Mantovano. ٠٠٠٠٠",
+      "publishedAt": "2026-11-25T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
       "title": "Consiglio dei Ministri n. 200",
       "url": "https://www.governo.it/it/articolo/consiglio-dei-ministri-n-200/33184",
-      "excerpt": "Il Consiglio dei Ministri è convocato oggi, mercoledì 25 novembre 2026, alle ore 15.30 a Palazzo Chigi.",
+      "excerpt": "Si è svolta, a Palazzo Chigi, la riunione del Consiglio dei Ministri. Nel comunicato stampa i provvedimenti approvati.",
       "publishedAt": "2026-11-25T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -72,13 +79,6 @@
       "excerpt": "Il Presidente del Consiglio, Giorgia Meloni, ha presenziato oggi alla prima ufficiale de “La Traviata” di Giuseppe Verdi, in occasione della riapertura del Teatro Comunale dell’Aquila.",
       "publishedAt": "2026-11-20T00:00:00Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Riunione della Coalizione dei Volenterosi",
-      "url": "https://www.governo.it/it/articolo/riunione-della-coalizione-dei-volenterosi/33156",
-      "excerpt": "Il Presidente del Consiglio, Giorgia Meloni, ha partecipato a Berlino alla riunione della Coalizione dei Volenterosi.",
-      "publishedAt": "2026-11-19T00:00:00Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -100,5 +100,5 @@
     }
   ],
   "message": "Feed dichiarato dalla fonte; date di pubblicazione verificate.",
-  "durationSeconds": 30.15
+  "durationSeconds": 30.13
 }

@@ -4,20 +4,303 @@
   "sourceId": "la-stampa",
   "originUrl": "https://www.lastampa.it/",
   "configuredFeedUrl": "https://www.lastampa.it/rss/copertina.xml",
-  "collectedAt": "2026-11-25T11:46:42.692651Z",
-  "status": "blocked",
-  "diagnosticCode": "access_restricted",
-  "method": "html",
-  "feedUrl": null,
-  "items": [],
+  "collectedAt": "2026-11-25T23:21:56.988092Z",
+  "status": "ok",
+  "diagnosticCode": null,
+  "method": "rss",
+  "feedUrl": "https://www.lastampa.it/rss/copertina.xml",
+  "items": [
+    {
+      "title": "L’Inter infila la terza vittoria di fila. Sucic e Lautaro stendono lo Stoccarda",
+      "url": "https://www.lastampa.it/sport/2026/11/25/news/inter_stoccarda_champions_gol_highlights-15809547/",
+      "excerpt": "Cancellati i ko delle prime due giornate, il gruppo di Chivu a -1 dalla zona qualificazione diretta",
+      "publishedAt": "2026-11-25T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Malen signore del gol anche a Parigi, la Roma ferma i campioni d’Europa del Psg",
+      "url": "https://www.lastampa.it/sport/2026/11/25/news/psg_roma_champions_gol_highlights-15809557/",
+      "excerpt": "Hermoso apre le marcature, l’olandese le chiude su rigore. Per i parigini in gol Zabarniy e Dembele dagli 11 metri",
+      "publishedAt": "2026-11-25T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Coppa Davis, la vittoria nel doppio porta l’Italia in semifinale. “Siamo felicissimi”",
+      "url": "https://www.lastampa.it/sport/2026/11/25/news/coppa_davis_italia_corea_sud-15809196/",
+      "excerpt": "Contro la Corea Musetti bene, Cobolli beffato. Berrettini e Vavassori decisivi",
+      "publishedAt": "2026-11-25T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Trump rilancia i dazi contro Europa e Asia. “Troppi danni agli Usa”",
+      "url": "https://www.lastampa.it/esteri/2026/11/25/news/dazi_trump_nuove_tariffe_per_cina_ue_e_altri_12_paesi-15808908/",
+      "excerpt": "La Casa Bianca: le tariffe potrebbero scattare a gennaio L’Ue: il tetto al 15% non si tocca. Pechino: manovre politiche",
+      "publishedAt": "2026-11-25T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Crescono i timori per l'Ai. Wall Strett in altalena. L'Europa chiude in rosso",
+      "url": "https://www.lastampa.it/economia/2026/11/25/news/borse_crollo_europa_dazi_paura_milano_nasdaq_trump-15809279/",
+      "excerpt": "A pesare sui conti dell’intelligenza artificiale resta il costo del denaro, mentre il Pil Usa vola a +4,3% nel terzo trimestre, meglio delle stime",
+      "publishedAt": "2026-11-25T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Se i green bond Ue non finanziano la transizione: l’allarme della Corte dei conti europea",
+      "url": "https://www.lastampa.it/economia/2026/11/25/news/green_bond_corte_conti_europea_rischio_transizione_greenwashing-15809145/",
+      "excerpt": "I giudici contabili bacchettano la Commissione: «Mancano i controlli e la spesa rendicontata dagli Stati è sovrastimata»",
+      "publishedAt": "2026-11-25T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Federica Brignone dà l’addio allo sci: “Ci ho provato ma la gamba fa troppo male”",
+      "url": "https://www.lastampa.it/sport/2026/11/25/news/federica_brignone_si_ritira_sci-15808962/",
+      "excerpt": "La campionessa annuncia lo stop ma anche l’idea di una ultima gara per salutare tutti: “Una decisione difficile. Il mio incidente è stato molto grave, è qualcosa che mi condizionerà tutta la vita”",
+      "publishedAt": "2026-11-25T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "L'annuncio in un video: \"Basta gare, vorrei fare solo un'ultima discesa\"",
+      "url": "https://www.lastampa.it/sport/2026/11/25/video/federica_brignone_ritiro_sci_annuncio-15809022/",
+      "excerpt": "Federica Brignone ha annunciato il ritiro dalle competizioni. La campionessa azzurra ha comunicato la sua decisione attraverso un video di 30 secondi, dopo essere tornata sulla neve per verificare le condizioni della gamba sinistra, ancora dolorante a causa del grave infortunio subito nell'aprile 2025. «Dopo questi due",
+      "publishedAt": "2026-11-25T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Federica Brignone, dalle prime sciate con la mamma ai trionfi: una carriera da regina delle nevi",
+      "url": "https://www.lastampa.it/sport/2026/11/25/news/federica_brignone_ritiro_fuoriclasse_sci-15809082/",
+      "excerpt": "Ha vinto tutto, in gigante, supergigante, discesa libera e combinata. Titoli in Coppa del Mondo, Olimpiadi e Mondiali",
+      "publishedAt": "2026-11-25T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Province, torna l’elezione diretta: i partiti esultano, Giorgetti frena. Idea election day nel 2029",
+      "url": "https://www.lastampa.it/politica/2026/11/25/news/province_elezione_diretta_presidenti_cosa_cambia_novita-15808782/",
+      "excerpt": "Il Consiglio dei ministri approva il ddl. Il ministro: bisognerà trovare i soldi",
+      "publishedAt": "2026-11-25T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Mattarella a Verona per l’Anci: “I Comuni sono essenziali per l’identità della Repubblica”",
+      "url": "https://www.lastampa.it/cronaca/2026/11/25/news/mattarella_verona_anci_salis_ferdinandi_25_novembre-15809204/",
+      "excerpt": "Dopo le polemiche sulla scaletta al maschile, apre i lavori la sindaca di Perugia Ferdinandi: «Chiediamo alla Repubblica di assumersi la responsabilità di educare le nuove generazioni in ogni scuola»",
+      "publishedAt": "2026-11-25T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "“Gli assenti non saranno ricandidati”, Meloni striglia i parlamentari",
+      "url": "https://www.lastampa.it/politica/2026/11/25/news/gli_assenti_non_saranno_ricandidati_meloni_striglia_i_parlamentari-15809268/",
+      "excerpt": "Poi la premier aumenta il tesoretto di 30 milioni",
+      "publishedAt": "2026-11-25T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Bruno Ceretto: “L’Asta del Tartufo nacque con Spielberg. Così ho portato i nostri vini a New York”",
+      "url": "https://www.lastampa.it/cuneo/2026/11/26/news/bruno_ceretto_asta_tartufo_spielberg_portato_nostri_vini_new_york-15809505/",
+      "excerpt": "Alba, il patriarca del Barolo si racconta: «L’America era il mio sogno, la Grande Mela la mia seconda casa»",
+      "publishedAt": "2026-11-25T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Caso Orlandi, una cassetta con la voce del telefonista ritrovata a casa dello zio di Emanuela",
+      "url": "https://www.lastampa.it/cronaca/2026/11/25/news/caso_orlandi_una_cassetta_con_la_voce_del_telefonista_ritrovata_a_casa_dello_zio_di_emanuela-15809566/",
+      "excerpt": "La rivelazione del Tg1. L’uomo è morto più di 10 anni fa",
+      "publishedAt": "2026-11-25T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Morta dopo lo scippo a 92 anni: fermato il responsabile, lo hanno incastrato le telecamere",
+      "url": "https://www.lastampa.it/torino/2026/11/25/news/scippo_adalgisa_lariccia_morta_fermato_aggressore-15808743/",
+      "excerpt": "Spinta a terra dall’aggressore tra corso Francia e via Schina, l’anziana donna ha battuto la testa contro il marciapiede. Il rapinatore era uscito dal carcere ad aprile",
+      "publishedAt": "2026-11-25T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Capotreno ucciso, Marin Jelenic condannato all'ergastolo",
+      "url": "https://www.lastampa.it/cronaca/2026/11/25/news/capotreno_ucciso_marin_jelenic_alessandro_ambrosio_stazione_bologna_ergastolo-15809067/",
+      "excerpt": "Il 5 gennaio scorso aveva aggredito il 34enne Alessandro Ambrosio fuori dalla stazione di Bologna",
+      "publishedAt": "2026-11-25T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Zelensky: “Aerei e navi della Russia obiettivi legittimi sempre”. L’esercito di Haftar: risponderemo",
+      "url": "https://www.lastampa.it/esteri/2026/11/26/diretta/guerra_russia_ucraina_news_oggi-15809568/",
+      "excerpt": "In serata un nuovo attacco missilistico su Kiev. Polonia: no-fly zone al confine con Ucraina",
+      "publishedAt": "2026-11-25T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Droni Shahed e missili cruise: ecco tutti i chip Nvidia trovati sulle armi di Putin in Ucraina",
+      "url": "https://www.lastampa.it/esteri/2026/11/25/news/droni_shahed_e_missili_cruise_ecco_tutti_i_chip_nvidia_trovati_sulle_armi_di_putin_in_ucraina-15808588/",
+      "excerpt": "Abbiamo avuto accesso agli archivi del GUR: i chip di Jensen Huang, processori al centro di diverse inchieste (a Singapore, Taiwan e negli Usa) perché finiti illegalmente in Cina, sono stati trovati sopra droni Shahed 136. Droni Klyn. Missili cruise S-71M. Droni Zala T20. “Barrage munitions”. Droni Lancet-3",
+      "publishedAt": "2026-11-25T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Usa, genitori e studenti protestano contro l’AI di Google. “Big Tech non decidano per noi”",
+      "url": "https://www.lastampa.it/esteri/2026/11/25/news/usa_protesta_scuola_ai_google_studenti_genitori_big_tech-15809052/",
+      "excerpt": "Gli insegnanti temono che l’intelligenza artificiale rallenti lo sviluppo del pensiero critico degli studenti. Ma per il colosso non è separabile dal motore di ricerca in sé",
+      "publishedAt": "2026-11-25T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Re Carlo rinuncia a un privilegio della Corona: pagherà la nuova tassa sulle case di lusso",
+      "url": "https://www.lastampa.it/esteri/2026/11/25/news/carlo_terzo_tassa_ville_lusso_immunita_fiscale_monarchia_britannica-15808861/",
+      "excerpt": "L’imposta sulle abitazioni da oltre 2 milioni di sterline scatterà nel 2028. Proprio quest'anno il palazzo ha pubblicato per la prima volta la dichiarazione dei redditi dettagliata del monarca, evento senza precedenti",
+      "publishedAt": "2026-11-25T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Mattarella: \"Violenza sulle donne, uscirne è possibile: agire sulle cause culturali\"",
+      "url": "https://www.lastampa.it/cronaca/2026/11/25/news/25_novembre_violenza_sulle_donne_mattarella_cause_culturali_sociali-15808592/",
+      "excerpt": "Il presidente della Repubblica: «Uscire dalla violenza è un compito che riguarda l'intera società, non può dipendere soltanto dal coraggio di una donna»",
+      "publishedAt": "2026-11-25T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Perché dovremmo occuparci della questione maschile",
+      "url": "https://www.lastampa.it/editoriali/lettere-e-idee/2026/11/25/news/perche_dovremmo_occuparci_della_questione_maschile-15809405/",
+      "excerpt": "È tempo di dare un nome al problema che i dati sulla violenza contro le donne ci mostrano da anni: siamo di fronte a una gigantesca questione maschile. Suonano strane le due parole accostate: ...",
+      "publishedAt": "2026-11-25T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Le lacrime di Ulisse e l’importanza di educare i maschi alle emozioni",
+      "url": "https://www.lastampa.it/cultura/2026/11/25/news/violenza_contro_donne_carofiglio_ulisse-15808388/",
+      "excerpt": "L’Odissea dimostra che mostrarsi impassibile non è una costante della nostra storia. Una società non cambia solo punendo: bisogna offrire figure alternative in cui riconoscersi",
+      "publishedAt": "2026-11-25T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "“Mi prometteva una carriera da attrice, la violenza dopo il pranzo”",
+      "url": "https://www.lastampa.it/torino/2026/11/24/news/violenza_sessuale_canavese-15808313/",
+      "excerpt": "Il trauma di una 40enne: “Ricordo dei bicchieri di vino, poi niente. Ha approfittato di un periodo difficile”",
+      "publishedAt": "2026-11-25T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "La puntata più straziante di sempre di Jessica Fletcher e i veri misteri irrisolti",
+      "url": "https://www.lastampa.it/rubriche/2026/11/25/news/la_puntata_piu_straziante_di_sempre_di_jessica_fletcher_e_i_veri_misteri_irrisolti-15807980/",
+      "excerpt": "La Signora in Giallo va in onda tutti i giorni da quasi quarant’anni: eppure Angela Lansbury sa ancora sorprenderci",
+      "publishedAt": "2026-11-25T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Emmy Awards, c’è anche l’Italia tra i vincitori: chi è Davide Serino",
+      "url": "https://www.lastampa.it/spettacoli/2026/11/25/news/emmy_awards_davide_serino_vince_miglior_serie_drammatica_italia-15808780/",
+      "excerpt": "Lo sceneggiatore si è aggiudicato una statuetta per Miglior serie drammatica con “Careme”. In carriera ha contribuito anche alle produzioni di “M. Il figlio del secolo” e “The Bad Guy”",
+      "publishedAt": "2026-11-25T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Dalla notte al museo alle star di Hollywood, cinque consigli per il weekend",
+      "url": "https://www.lastampa.it/torino/rubriche/fuori-programma/2026/11/25/news/dalla_notte_al_museo_alle_star_di_hollywood_cinque_consigli_per_il_weekend-15808357/",
+      "excerpt": "Per scovare il lato più vivo e meno scontato della città, tendiamo le orecchie, chiediamo agli amici (e agli amici degli amici), scandagliamo i social, passiamo al setaccio inviti e ...",
+      "publishedAt": "2026-11-25T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Muhammad Zeeshan Ali, primo astronauta pakistano (grazie ai cinesi): “Lassù con me i sogni di un popolo”",
+      "url": "https://www.lastampa.it/esteri/2026/11/25/news/cina_razzo_decollato_astronauta_pakistano-15808502/",
+      "excerpt": "Decollato il razzo “Lunga Marcia”. L’emozione del primo cittadino straniero a salire sulla stazione spaziale di Pechino",
+      "publishedAt": "2026-11-25T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Perché rispetto ai boomer le nuove generazioni rischiano di invecchiare prima e peggio",
+      "url": "https://www.lastampa.it/cronaca/2026/11/25/news/giovani_invecchiamento_precoce_salute_allarme_geriatri_cause-15808984/",
+      "excerpt": "A lanciare l’allarme è la Società italiana di gerontologia e geriatria: «Tanti gli indicatori, dall’obesità al disagio psicologico»",
+      "publishedAt": "2026-11-25T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Jolie e Pitt, accordo sulla vendita di Château Miraval: chiusa la lunga disputa tra gli ex coniugi",
+      "url": "https://www.lastampa.it/sapore/2026/11/25/news/jolie_pitt_accordo_vendita_tenuta_provenza_chateau_miraval-15809545/",
+      "excerpt": "Le due star hanno chiesto il ritiro delle rispettive azioni legali sulla tenuta in Provenza dove si erano sposati. L'intesa, raggiunta «nell'interesse della famiglia», non mette fine alla causa di Pitt contro l'imprenditore Yuri Shefler, che aveva acquisito la metà dell’attrice",
+      "publishedAt": "2026-11-25T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Morto l’ex chitarrista dei Duran Duran, Andy Taylor. Aveva 65 anni",
+      "url": "https://www.lastampa.it/spettacoli/2026/11/25/news/andy_taylor_duran_duran_ex_chitarrista_morto-15809508/",
+      "excerpt": "Il musicista è morto di cancro alla prostata lunedì",
+      "publishedAt": "2026-11-25T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "“Se l’è cercata”, “Perché non hai urlato?”, “Aveva gli slip rossi”: cos’è il victim blaming",
+      "url": "https://www.lastampa.it/torino/2026/11/25/video/se_le_cercata_perche_non_hai_urlato_aveva_gli_slip_rossi_cose_il_victim_blaming-15808818/",
+      "excerpt": "“Perché non hai reagito?”, “Perché non hai denunciato subito?”: domande che spostano l’attenzione da chi agisce la violenza a chi la subisce. Anna Ronfani, avvocata penalista e vicepresidente di Telefono Rosa Piemonte, spiega il victim blaming e il pregiudizio della “vittima ideale”. Con Joëlle Long, docente dell’Unive",
+      "publishedAt": "2026-11-25T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "La casa è circondata dagli alligatori: il salvataggio di un neonato e un bimbo in carrozzina",
+      "url": "https://www.lastampa.it/video/socialnews/2026/11/25/video/casa_allagata_alligatori_salvataggio_neonato_bambino-15808522/",
+      "excerpt": "Una famiglia bloccata in casa dall’alluvione, con alligatori segnalati nell’acqua circostante. Gli agenti della contea di Volusia intervengono a Stone Island, vicino a Deltona, per evacuare anche un neonato di sei mesi e un bambino in carrozzina. Nel filmato un agente riferisce di aver visto due alligatori; la propriet",
+      "publishedAt": "2026-11-25T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Accoltella un collega per una bicicletta e si nasconde tra i cespugli: fermato un rider",
+      "url": "https://www.lastampa.it/cronaca/2026/11/25/video/milano_rider_accoltella_collega_arrestato-15809094/",
+      "excerpt": "Sarebbe una lite per una bicicletta all'origine dell'accoltellamento di un rider peruviano di 46 anni, avvenuto nella serata del 24 novembre all'interno di un'attività commerciale in via Carpi, a Milano. Per l'aggressione, la polizia ha fermato un connazionale di 34 anni, anche lui rider, con l'accusa di tentato omicid",
+      "publishedAt": "2026-11-25T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Fatevi un regalo, guardate Marilyn al cinema",
+      "url": "https://www.lastampa.it/torino/speciali/torino-film-festival/2026/11/25/news/fatevi_un_regalo_guardate_marilyn_al_cinema-15808579/",
+      "excerpt": "«Del mondo antico e del mondo futuro / era rimasta solo la bellezza, e tu, / povera sorellina minore». Questi versi di Pier Paolo Pasolini, dedicati a Marilyn Monroe e letti da Giorgio Bassani, ...",
+      "publishedAt": "2026-11-25T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Travolta incanta Torino: “Grazie per avermi fatto volare”",
+      "url": "https://www.lastampa.it/torino/2026/11/25/news/travolta_incanta_torino_grazie_per_avermi_fatto_volare-15808231/",
+      "excerpt": "Inaugurazione del Tff al Teatro Regio, premiati Von Trotta, Newell, Frears, De Medeiros",
+      "publishedAt": "2026-11-25T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Jfk, una ferita aperta: “Novembre ’63” con John Travolta, apre il Tff",
+      "url": "https://www.lastampa.it/spettacoli/2026/11/25/news/jfk_una_ferita_aperta-15808112/",
+      "excerpt": "L’assassinio del presidente dal punto di vista della mafia nel film di Roland Joffè",
+      "publishedAt": "2026-11-25T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Apre la porta dell’hotel e trova un muro di neve: scava un varco con la pala per liberarsi",
+      "url": "https://www.lastampa.it/video/socialnews/2026/11/25/video/muro_di_neve_porta_hotel_varco_pala_video-15808602/",
+      "excerpt": "La porta si apre appena, oltre il vetro c’è una parete di neve: un dipendente del Raicho Onsen Raichoso, sulle montagne di Tateyama, in Giappone, deve scavare un passaggio per uscire. Poi i colleghi lo aiutano a liberare l’ingresso con pale e slitte. Il video, pubblicato dalla struttura, è stato girato il 20 novembre c",
+      "publishedAt": "2026-11-25T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Vannacci canta \"Jingle Bells\" al Parlamento europeo: \"Von der Leyen regala 45 miliardi a Kiev\"",
+      "url": "https://www.lastampa.it/politica/2026/11/25/video/vannacci_canta_jingle_bells_al_parlamento_europeo_von_der_leyen_regala_45_miliardi_a_kiev-15808850/",
+      "excerpt": "“Jingle bells, jingle bells, jingle all the way”: Roberto Vannacci apre così il suo intervento al Parlamento europeo di Strasburgo durante il dibattito sulla guerra in Ucraina. Poi attacca Ursula von der Leyen, descrivendo i finanziamenti a Kiev come un regalo natalizio a spese dei cittadini europei. L’eurodeputato di ",
+      "publishedAt": "2026-11-25T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Zelensky e Magyar sotto rete: la partita di pallavolo dei due premier con gli studenti in Ucraina",
+      "url": "https://www.lastampa.it/esteri/2026/11/25/video/zelensky_magyar_partita_pallavolo_studenti_ucraina-15808534/",
+      "excerpt": "La visita al liceo diventa una partita di pallavolo: il presidente ucraino Volodymyr Zelensky e il premier ungherese Péter Magyar si uniscono agli studenti nella palestra del Lajos Kossuth di Berehove, in Transcarpazia. Il video, pubblicato da Magyar, racconta un momento dell’incontro del 24 novembre nella scuola frequ",
+      "publishedAt": "2026-11-25T00:00:00Z",
+      "dateEvidence": "feed:published"
+    }
+  ],
   "attempts": [
     {
       "url": "https://www.lastampa.it/robots.txt",
-      "status": 403
+      "status": 200
+    },
+    {
+      "url": "https://www.lastampa.it/rss/copertina.xml",
+      "status": 200
     }
   ],
-  "message": "HTTP 403: accesso limitato dalla fonte",
-  "httpStatus": 403,
-  "failedUrl": "https://www.lastampa.it/robots.txt",
-  "durationSeconds": 0.28
+  "message": "Feed ufficiale letto; date di pubblicazione verificate.",
+  "durationSeconds": 0.67
 }

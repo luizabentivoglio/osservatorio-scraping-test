@@ -4,12 +4,26 @@
   "sourceId": "istituto-bruno-leoni",
   "originUrl": "https://www.brunoleoni.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-25T11:46:39.450228Z",
+  "collectedAt": "2026-11-25T23:21:54.435749Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "La patrimoniale in Italia c’è già",
+      "url": "https://www.brunoleoni.it/la-patrimoniale-in-italia-ce-gia/",
+      "excerpt": "Intervista a Nicola Rossi. Il problema dell’Italia è che cresce poco",
+      "publishedAt": "2026-11-25T15:51:32Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "L’ergastolo come deterrente non riduce i femminicidi",
+      "url": "https://www.brunoleoni.it/lergastolo-come-deterrente-non-riduce-i-femminicidi/",
+      "excerpt": "La sfida? Fuori dal codice penale",
+      "publishedAt": "2026-11-25T15:51:11Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
     {
       "title": "Un payback sui farmaci che frena l’innovazione",
       "url": "https://www.brunoleoni.it/un-payback-sui-farmaci-che-frena-linnovazione/",
@@ -18,24 +32,10 @@
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "Payback, la tassa senza fine che minaccia la ricerca italiana",
-      "url": "https://www.brunoleoni.it/payback-la-tassa-senza-fine-che-minaccia-la-ricerca-italiana/",
-      "excerpt": "La proposta IBL è fissare un massimale, introdurre accordi pluriennali ed esentare i nuovi farmaci",
-      "publishedAt": "2026-11-25T07:19:00Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
       "title": "La patrimoniale è il primo mattone di un muro fatto di tasse, regole e burocrazia",
       "url": "https://www.brunoleoni.it/la-patrimoniale-e-il-primo-mattone/",
       "excerpt": "Le imposte patrimoniali raramente funzionano, generano un gettito molto inferiore alle attese e sono controproducenti",
       "publishedAt": "2026-11-23T21:00:00Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Grande educatore della Giovane Italia",
-      "url": "https://www.brunoleoni.it/grande-educatore-della-giovane-italia/",
-      "excerpt": "I principi del liberalismo risorgimentale fanno da sfondo alla storia del burattino di Collodi",
-      "publishedAt": "2026-11-23T11:41:33Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
@@ -68,15 +68,15 @@
       "status": 200
     },
     {
+      "url": "https://www.brunoleoni.it/la-patrimoniale-in-italia-ce-gia/",
+      "status": 200
+    },
+    {
+      "url": "https://www.brunoleoni.it/lergastolo-come-deterrente-non-riduce-i-femminicidi/",
+      "status": 200
+    },
+    {
       "url": "https://www.brunoleoni.it/un-payback-sui-farmaci-che-frena-linnovazione/",
-      "status": 200
-    },
-    {
-      "url": "https://www.brunoleoni.it/payback-la-tassa-senza-fine-che-minaccia-la-ricerca-italiana/",
-      "status": 200
-    },
-    {
-      "url": "https://www.brunoleoni.it/grande-educatore-della-giovane-italia/",
       "status": 200
     }
   ],
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 5,
   "listingUrl": "https://www.brunoleoni.it/",
-  "durationSeconds": 6.35
+  "durationSeconds": 6.07
 }

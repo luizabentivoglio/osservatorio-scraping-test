@@ -4,52 +4,52 @@
   "sourceId": "camera",
   "originUrl": "https://www.camera.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-25T11:46:02.937054Z",
+  "collectedAt": "2026-11-25T23:21:16.225766Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
-      "title": "Decreto scuola, oggi il voto di fiducia",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64476",
-      "excerpt": "In Aula alle ore 12.30 l'esame delle mozioni Ghio, Ascari, Zanella, Boschi, Magi ed altri n. 1-00611...",
+      "title": "Settore previdenziale allargato, audizione periti industriali - Giovedì alle 8.30 diretta webtv",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64480",
+      "excerpt": "Giovedì 26 novembre, alle ore 8.30, presso l'Aula del III piano di Palazzo San Macuto, la Commissio...",
       "publishedAt": "2026-11-25T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "Oggi question time con i ministri Nordio, Roccella e Calderone",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64470",
-      "excerpt": "Si svolge oggi, mercoledì 25 novembre, alle 15, il question time trasmesso dalla Rai in diretta tel...",
-      "publishedAt": "2026-11-24T00:00:00Z",
+      "title": "Femminicidio, audizioni su violenza e salute - Giovedì alle 8.30 e alle 13.30 diretta webtv",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64481",
+      "excerpt": "Giovedì 26 novembre, alle ore 8.30, presso l'Aula del I piano di Palazzo San Macuto, la Commissione...",
+      "publishedAt": "2026-11-25T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "Confesercenti: verso una proposta di legge che garantisca più servizi, più imprese, città più sicure e più ricche - Mercoledì alle 10.30 diretta webtv",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64441",
-      "excerpt": "Mercoledì 25 novembre, alle ore 10.30, presso la Sala del Refettorio di Palazzo San Macuto si svolg...",
-      "publishedAt": "2026-11-24T00:00:00Z",
+      "title": "Semplificazione amministrativa, audizione Quadri, Presidenza Consiglio - Giovedì alle 8.30 diretta webtv",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64482",
+      "excerpt": "Giovedì 26 novembre, alle ore 8.30, presso l'Aula del II piano di Palazzo San Macuto, la Commission...",
+      "publishedAt": "2026-11-25T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "David Rossi, audizioni",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64440",
-      "excerpt": "Mercoledì 25 novembre, alle ore 10.30, presso l'Aula del VI piano di Palazzo San Macuto, la Commiss...",
-      "publishedAt": "2026-11-24T00:00:00Z",
+      "title": "Emissioni metano, audizione Donazzan - Giovedì alle 9 diretta webtv",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64483",
+      "excerpt": "Giovedì 26 novembre, alle ore 9, la Commissione Politiche Ue svolge l'audizione di Elena Donazzan...",
+      "publishedAt": "2026-11-25T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "La tutela ambientale come strumento di prevenzione oncologica - Mercoledì alle 11 diretta webtv",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64433",
-      "excerpt": "Mercoledì 25 novembre, alle ore 11, presso la Sala Matteotti di Palazzo Theodoli - Bianchelli si sv...",
-      "publishedAt": "2026-11-24T00:00:00Z",
+      "title": "Territorio e infrastrutture - Tra visione, pianificazione e sicurezza - Giovedì alle 9.30 diretta webtv - Saluto di Mulè",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64484",
+      "excerpt": "Giovedì 26 novembre, alle ore 9.30, presso l'Aula dei Gruppi parlamentari si svolge il convegno \"Te...",
+      "publishedAt": "2026-11-25T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "SustArt - Sustainable Art - Mercoledì alle 11 diretta webtv",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64431",
-      "excerpt": "Mercoledì 25 novembre, alle ore 11, presso l'Aula dei Gruppi parlamentari si svolge il convegno \"Su...",
-      "publishedAt": "2026-11-24T00:00:00Z",
+      "title": "Gianni Cervetti - Un comunista italiano - Giovedì alle 10 diretta webtv - Saluto di Ascani",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64485",
+      "excerpt": "Giovedì 26 novembre, alle ore 10, presso la Sala Matteotti di Palazzo Theodoli - Bianchelli si svol...",
+      "publishedAt": "2026-11-25T00:00:00Z",
       "dateEvidence": "html:publication-label"
     }
   ],
@@ -63,27 +63,27 @@
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64476",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64480",
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64470",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64481",
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64441",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64482",
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64440",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64483",
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64433",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64484",
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64431",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64485",
       "status": 200
     }
   ],
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://comunicazione.camera.it/archivio-prima-pagina",
-  "durationSeconds": 4.75
+  "durationSeconds": 4.01
 }

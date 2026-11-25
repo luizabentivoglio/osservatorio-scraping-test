@@ -4,7 +4,7 @@
   "sourceId": "commissione-europea",
   "originUrl": "https://commission.europa.eu/news-and-media_en",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-25T11:46:07.688241Z",
+  "collectedAt": "2026-11-25T23:21:20.643185Z",
   "status": "blocked",
   "diagnosticCode": "rate_limited",
   "method": "html",
@@ -17,11 +17,16 @@
     },
     {
       "url": "https://commission.europa.eu/news-and-media_en",
+      "status": 200
+    },
+    {
+      "url": "https://commission.europa.eu/news-and-media/highlighted-news_en",
       "status": 429
     }
   ],
   "message": "HTTP 429: accesso limitato dalla fonte",
+  "candidateSamples": [],
   "httpStatus": 429,
-  "failedUrl": "https://commission.europa.eu/news-and-media_en",
-  "durationSeconds": 0.68
+  "failedUrl": "https://commission.europa.eu/news-and-media/highlighted-news_en",
+  "durationSeconds": 1.13
 }

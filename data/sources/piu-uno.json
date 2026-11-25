@@ -4,20 +4,12 @@
   "sourceId": "piu-uno",
   "originUrl": "https://piu.uno/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-25T11:47:07.495905Z",
+  "collectedAt": "2026-11-25T23:22:17.275680Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
-  "items": [
-    {
-      "title": "Presentazione del libro “Cosa sarà” di Ernesto Maria Ruffini · Eventi · Più Uno",
-      "url": "https://piu.uno/partecipa/eventi/21-novembre-presentazione-del-libro-cosa-sara-di-ernesto-maria-ruffini",
-      "excerpt": "Più Uno invita alla presentazione del libro di Ernesto Maria Ruffini «Cosa sarà. Appello per un Paese più uguale», con la prefazione di Romano Prodi (Donzelli editore). Sabato 21 novembre 2026 alle ore 15:30 nella Sala Josef della Casa Kolping, a Bolzano. Modera Mauro Keller, direttore di TV33. Un incontro per pensare ",
-      "publishedAt": "2026-11-21T15:30:00Z",
-      "dateEvidence": "html:publication-time"
-    }
-  ],
+  "items": [],
   "attempts": [
     {
       "url": "https://piu.uno/robots.txt",
@@ -48,14 +40,14 @@
       "status": 200
     },
     {
-      "url": "https://piu.uno/partecipa/eventi/21-novembre-presentazione-del-libro-cosa-sara-di-ernesto-maria-ruffini",
+      "url": "https://piu.uno/partecipa/eventi/10-dicembre-presentazione-del-libro-cosa-sara-di-ernesto-maria-ruffini-a-prato",
       "status": 200
     }
   ],
-  "message": "1 notizie recenti con data verificata; copertura parziale.",
+  "message": "0 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [],
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://piu.uno/",
-  "durationSeconds": 3.62
+  "durationSeconds": 3.6
 }

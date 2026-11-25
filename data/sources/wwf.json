@@ -4,7 +4,7 @@
   "sourceId": "wwf",
   "originUrl": "https://www.wwf.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-25T11:47:15.105171Z",
+  "collectedAt": "2026-11-25T23:22:25.360048Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -41,7 +41,7 @@
     {
       "title": "Contro la PdL Caccia, il 26 novembre a Roma grande mobilitazione",
       "url": "https://www.wwf.it/pandanews/animali/caccia-26-novembre-mobilitazione/",
-      "excerpt": "Attesi anche esponenti del mondo della cultura, dello spettacolo e delle istituzioni",
+      "excerpt": "L'appuntamento è stato spostato in Piazza dei Santi Apostoli. Attesi anche esponenti del mondo della cultura e delle istituzioni",
       "publishedAt": "2026-11-22T13:08:35Z",
       "dateEvidence": "jsonld:datePublished"
     },
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.wwf.it/",
-  "durationSeconds": 5.83
+  "durationSeconds": 6.81
 }

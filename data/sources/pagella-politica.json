@@ -4,17 +4,24 @@
   "sourceId": "pagella-politica",
   "originUrl": "https://pagellapolitica.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-25T11:46:53.508328Z",
+  "collectedAt": "2026-11-25T23:22:05.779848Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
-      "title": "Per l’ultimo pacchetto di aiuti militari all’Ucraina c’è voluto un anno",
-      "url": "https://pagellapolitica.it/articoli/ultimo-pacchetto-aiuti-militari-ucraina",
-      "excerpt": "È l’intervallo più lungo dall’inizio dell’invasione russa nel 2022. Abbiamo ricostruito come è cambiata la...",
-      "publishedAt": "2026-11-25T00:00:00Z",
+      "title": "Perché il fallimento della COP31 potrebbe essere una buona notizia",
+      "url": "https://pagellapolitica.it/articoli/cop31-fallimento-buona-notizia",
+      "excerpt": "I governi non sono riusciti a trovare un’intesa, ma non è necessariamente un passo indietro nella lotta al...",
+      "publishedAt": "2026-11-24T00:00:00Z",
+      "dateEvidence": "html:post-date"
+    },
+    {
+      "title": "Perché Gianni De Gennaro era indagato per depistaggio sulla strage di via D’Amelio",
+      "url": "https://pagellapolitica.it/articoli/de-gennaro-indagine-motivi",
+      "excerpt": "La procura aveva chiesto gli arresti domiciliari per l’ex capo della polizia ma per la giudice gli elementi erano...",
+      "publishedAt": "2026-11-23T00:00:00Z",
       "dateEvidence": "html:post-date"
     },
     {
@@ -44,13 +51,6 @@
       "excerpt": "Lo propone Lorenzo Pacini, candidato alle primarie del centrosinistra a Milano, sulla scia di alcuni Paesi nordici....",
       "publishedAt": "2026-11-23T00:00:00Z",
       "dateEvidence": "html:post-date"
-    },
-    {
-      "title": "Non si sa come il “campo largo” voglia ripristinare il reddito di cittadinanza",
-      "url": "https://pagellapolitica.it/articoli/reddito-di-cittadinanza-campo-largo",
-      "excerpt": "I partiti di centrosinistra hanno raggiunto un accordo, ma restano da chiarire i destinatari della misura e le...",
-      "publishedAt": "2026-11-20T00:00:00Z",
-      "dateEvidence": "html:post-date"
     }
   ],
   "attempts": [
@@ -63,7 +63,11 @@
       "status": 200
     },
     {
-      "url": "https://pagellapolitica.it/articoli/ultimo-pacchetto-aiuti-militari-ucraina",
+      "url": "https://pagellapolitica.it/articoli/cop31-fallimento-buona-notizia",
+      "status": 200
+    },
+    {
+      "url": "https://pagellapolitica.it/articoli/de-gennaro-indagine-motivi",
       "status": 200
     },
     {
@@ -81,10 +85,6 @@
     {
       "url": "https://pagellapolitica.it/articoli/sindaco-multe-stradali-reddito",
       "status": 200
-    },
-    {
-      "url": "https://pagellapolitica.it/articoli/reddito-di-cittadinanza-campo-largo",
-      "status": 200
     }
   ],
   "message": "6 notizie recenti con data verificata; copertura parziale.",
@@ -92,5 +92,5 @@
   "candidateCount": 6,
   "datedCount": 6,
   "listingUrl": "https://pagellapolitica.it/articoli",
-  "durationSeconds": 6.95
+  "durationSeconds": 5.97
 }

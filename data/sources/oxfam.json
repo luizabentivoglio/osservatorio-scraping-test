@@ -4,12 +4,19 @@
   "sourceId": "oxfam",
   "originUrl": "https://www.oxfamitalia.org/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-25T11:46:49.616550Z",
+  "collectedAt": "2026-11-25T23:22:04.266891Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "Violenza di genere: perché è una questione globale",
+      "url": "https://www.oxfamitalia.org/violenza-di-genere/",
+      "excerpt": "Cos’è la violenza di genere, quali forme assume e quanto è diffusa nel mondo e in Italia. Le leggi, i dati e cosa serve per fermarla.",
+      "publishedAt": "2026-11-25T11:51:19Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
     {
       "title": "RENDIAMO VISIBILI LE DISUGUAGLIANZE CHE ALIMENTANO LA VIOLENZA DI GENERE",
       "url": "https://www.oxfamitalia.org/rendiamo-visibili-le-disuguaglianze-che-alimentano-la-violenza-di-genere/",
@@ -44,13 +51,6 @@
       "excerpt": "Nel 2025 l'ONU ha verificato 6.607 casi di reclutamento di minori nei conflitti. Chi sono i bambini soldato, dove e perché.",
       "publishedAt": "2026-11-17T07:00:04Z",
       "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "SCUOLA DI DISUGUAGLIANZE",
-      "url": "https://www.oxfamitalia.org/scuola-di-disuguaglianze/",
-      "excerpt": "Il nostro nuovo rapporto “STATUS-QUOla. Contrastare le disuguaglianze per una scuola motore di equità sociale” fotografa una scuola che fatica a essere",
-      "publishedAt": "2026-11-13T10:37:58Z",
-      "dateEvidence": "jsonld:datePublished"
     }
   ],
   "attempts": [
@@ -60,6 +60,10 @@
     },
     {
       "url": "https://www.oxfamitalia.org/news/",
+      "status": 200
+    },
+    {
+      "url": "https://www.oxfamitalia.org/violenza-di-genere/",
       "status": 200
     },
     {
@@ -81,10 +85,6 @@
     {
       "url": "https://www.oxfamitalia.org/bambini-soldato/",
       "status": 200
-    },
-    {
-      "url": "https://www.oxfamitalia.org/scuola-di-disuguaglianze/",
-      "status": 200
     }
   ],
   "message": "6 notizie recenti con data verificata; copertura parziale.",
@@ -92,5 +92,5 @@
   "candidateCount": 8,
   "datedCount": 6,
   "listingUrl": "https://www.oxfamitalia.org/news/",
-  "durationSeconds": 3.89
+  "durationSeconds": 3.95
 }

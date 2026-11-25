@@ -4,12 +4,40 @@
   "sourceId": "il-notiziario",
   "originUrl": "https://www.ilnotiziario.net/",
   "configuredFeedUrl": "https://www.ilnotiziario.net/feed/",
-  "collectedAt": "2026-11-25T11:46:38.644813Z",
+  "collectedAt": "2026-11-25T23:21:53.765512Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.ilnotiziario.net/feed/",
   "items": [
+    {
+      "title": "Casa di Comunità di Senago dedicata a Giulia Tramontano, “un significato che va oltre il ricordo” – VIDEO",
+      "url": "https://www.ilnotiziario.net/casa-di-comunita-di-senago-dedicata-a-giulia-tramontano-i-genitori-ha-un-significato-che-va-oltre-il-ricordo/",
+      "excerpt": "La Casa di Comunità di Senago è dedicata a Giulia Tramontano e Thiago. È stata inaugurata questa mattina, mercoledì 25 novembre,...",
+      "publishedAt": "2026-11-25T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Accoltella collega rider durante una lite, arrestato dalla Polizia a Desio – VIDEO",
+      "url": "https://www.ilnotiziario.net/accoltella-collega-rider-durante-una-lite-arrestato-dalla-polizia-a-desio-video/",
+      "excerpt": "Accoltella collega rider durante una lite, arrestato dalla Polizia a Desio Un litigio per questioni economiche, poi...",
+      "publishedAt": "2026-11-25T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Tram Milano-Limbiate, il cantiere a Cormano, restringimenti carreggiata e disagi al traffico",
+      "url": "https://www.ilnotiziario.net/tram-milano-limbiate-il-cantiere-a-cormano-restringimenti-carreggiata-e-disagi-al-traffico/",
+      "excerpt": "Tram Milano-Limbiate, il cantiere arriva a Cormano. Cantieri aperti, restringimenti della carreggiata e disagi nell’ultimo tratto...",
+      "publishedAt": "2026-11-25T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Dalla Liberazione alla Costituente, Saronno ripercorre le origini della Repubblica",
+      "url": "https://www.ilnotiziario.net/dalla-liberazione-alla-costituente-saronno-ripercorre-le-origini-della-repubblica/",
+      "excerpt": "Dalla Liberazione alla Costituente, Saronno ripercorre le origini della Repubblica Saronno celebra gli 80 anni della Repubblica...",
+      "publishedAt": "2026-11-25T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "Stazione di Saronno, ritarda il presidio della Polfer, lavori ancora in corso",
       "url": "https://www.ilnotiziario.net/stazione-di-saronno-ritarda-il-presidio-della-polfer-lavori-ancora-in-corso/",
@@ -86,34 +114,6 @@
       "excerpt": "Incidente in Comasina a Cormano, auto sui binari, donna 37enne ferita. Pomeriggio di traffico difficile e disagi lungo la strada...",
       "publishedAt": "2026-11-24T00:00:00Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Caro energia, non solo le famiglie: nel Milanese bollette alle stelle frenano le imprese",
-      "url": "https://www.ilnotiziario.net/caro-energia-non-solo-le-famiglie-nel-milanese-bollette-alle-stelle-frenano-le-imprese/",
-      "excerpt": "Energia, i costi fuori controllo colpiscono famiglie e imprese. Il caro bollette non mette in ginocchio soltanto i bilanci delle...",
-      "publishedAt": "2026-11-24T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Nove gatti rischiano di restare senza casa: “Il Comune intervenga”",
-      "url": "https://www.ilnotiziario.net/nove-gatti-rischiano-di-restare-senza-casa-il-comune-intervenga/",
-      "excerpt": "Impegnati nella tutela dei gatti liberi sul territorio e nella gestione delle colonie feline, da mesi i volontari...",
-      "publishedAt": "2026-11-24T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Senago, uomo di 58 anni trovato morto all’interno del suo camper",
-      "url": "https://www.ilnotiziario.net/senago-uomo-di-58-anni-trovato-morto-allinterno-del-suo-camper/",
-      "excerpt": "Un uomo di 58 anni è stato trovato senza vita all’interno del proprio camper nella tarda mattinata di oggi, martedì 24 novembre,...",
-      "publishedAt": "2026-11-24T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "A Cormano la celebrazione della Virgo Fidelis con i carabinieri della Compagnia di Sesto San Giovanni",
-      "url": "https://www.ilnotiziario.net/a-cormano-la-celebrazione-della-virgo-fidelis-con-i-carabinieri-della-compagnia-di-sesto-san-giovanni/",
-      "excerpt": "E’ stata la chiesa parrocchiale “San Vincenzo” di via Comasinella, nel quartiere di Brusuglio, a ospitare l’annuale...",
-      "publishedAt": "2026-11-24T00:00:00Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -127,5 +127,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 3.37
+  "durationSeconds": 1.9
 }

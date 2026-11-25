@@ -4,12 +4,33 @@
   "sourceId": "istat",
   "originUrl": "https://www.istat.it/",
   "configuredFeedUrl": "https://www.istat.it/feed/",
-  "collectedAt": "2026-11-25T11:46:37.832490Z",
+  "collectedAt": "2026-11-25T23:21:52.864796Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.istat.it/feed/",
   "items": [
+    {
+      "title": "La violenza sulle donne: nuovi dati Istat – Novembre 2026",
+      "url": "https://www.istat.it/notizia/la-violenza-sulle-donne-nuovi-dati-istat-novembre-2026/",
+      "excerpt": "L’Istat come ogni anno rilascia nuovi prodotti per la stampa sul tema della violenza sulle donne",
+      "publishedAt": "2026-11-25T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Infografiche: Giornata internazionale per l’eliminazione della violenza – 2026",
+      "url": "https://www.istat.it/infografiche/infografiche-giornata-internazionale-per-leliminazione-della-violenza-2026/",
+      "excerpt": "Online le infografiche per la Giornata internazionale per l'eliminazione della violenza 2026",
+      "publishedAt": "2026-11-25T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Concorso pubblico a 46 posti di tecnologo di III livello professionale a tempo indeterminato (cod",
+      "url": "https://www.istat.it/concorso-o-selezione/concorso-pubblico-a-46-posti-di-tecnologo-di-iii-livello-professionale-a-tempo-indeterminato-cod-tec-iii-2025/",
+      "excerpt": "Online su InPA l'avviso di pubblicazione dell'esito delle prove orali relative al concorso TEC-III-2025, Area D",
+      "publishedAt": "2026-11-25T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "Le disuguaglianze sociali nelle cause di morte in Italia",
       "url": "https://www.istat.it/produzione-editoriale/le-disuguaglianze-sociali-nelle-cause-di-morte-in-italia/",
@@ -58,27 +79,6 @@
       "excerpt": "Nel terzo trimestre 2026 gli esercizi ricettivi in Italia hanno registrato più di 60 milioni di arrivi e 249 milioni di presenze",
       "publishedAt": "2026-11-23T00:00:00Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Concorso pubblico a 54 posti di ricercatore di III livello professionale a tempo indeterminato (cod",
-      "url": "https://www.istat.it/concorso-o-selezione/concorso-pubblico-a-54-posti-di-ricercatore-di-iii-livello-professionale-a-tempo-indeterminato-cod-ric-iii-2025/",
-      "excerpt": "Online l'esito della prova orale dell'area D e il diario della prova orale dell'area E del concorso RIC-III-2025",
-      "publishedAt": "2026-11-20T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Produzione nelle costruzioni – Settembre 2026",
-      "url": "https://www.istat.it/comunicato-stampa/produzione-nelle-costruzioni-settembre-2026/",
-      "excerpt": "A settembre 2026 l’indice della produzione nelle costruzioni aumenta del 3,9% su agosto e diminuisce dello 0,1% su base annua",
-      "publishedAt": "2026-11-20T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "CIG BDB61C3889 – Servizi di produzione di n 10 episodi della serie di podcast autoriali “Dati alla mano”",
-      "url": "https://www.istat.it/bando-di-gara/cig-bdb61c3889-servizi-di-produzione-di-n-10-episodi-della-serie-di-podcast-autoriali-dati-alla-mano/",
-      "excerpt": "Online la delibera di affidamento",
-      "publishedAt": "2026-11-19T00:00:00Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -92,5 +92,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 3.08
+  "durationSeconds": 3.18
 }

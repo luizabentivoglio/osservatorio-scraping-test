@@ -4,7 +4,7 @@
   "sourceId": "iss",
   "originUrl": "https://www.iss.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-25T11:46:40.914363Z",
+  "collectedAt": "2026-11-25T23:21:55.662212Z",
   "status": "error",
   "diagnosticCode": "connection_error",
   "method": "html",
@@ -19,5 +19,5 @@
   "message": "ConnectionError",
   "httpStatus": null,
   "failedUrl": "https://www.iss.it/comunicati-stampa",
-  "durationSeconds": 1.04
+  "durationSeconds": 0.8
 }

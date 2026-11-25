@@ -4,19 +4,12 @@
   "sourceId": "osservatorio-cpi",
   "originUrl": "https://osservatoriocpi.unicatt.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-25T11:46:49.103629Z",
+  "collectedAt": "2026-11-25T23:22:02.807715Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
-    {
-      "title": "Il reddito dei giovani è diminuito del 17% rispetto agli anni ’80",
-      "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/il-reddito-dei-giovani-e-diminuito-del-17-per-cento-rispetto-agli-anni-80.html",
-      "excerpt": "Trovare un lavoro è meno difficile che negli anni ’80, ma è più probabile che questo sia precario e meno pagato di un tempo. I redditi da lavoro dipendente sono diminuiti, in termini reali e al netto dell’inflazione, per tutte le fasce d’età. Il calo è stato maggiore per i giovani fino a 30 anni, che hanno perso il 17%",
-      "publishedAt": "2026-11-20T00:00:00Z",
-      "dateEvidence": "html:article-header"
-    },
     {
       "title": "Banca Mondiale: la posizione dell’Italia nel nuovo rapporto B-Ready è meno positiva di quanto sembri",
       "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/banca-mondiale-la-posizione-dell-italia-nel-nuovo-rapporto-b-ready-e-meno-positiva-di-quanto-sembri.html",
@@ -49,10 +42,6 @@
       "status": 200
     },
     {
-      "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/il-reddito-dei-giovani-e-diminuito-del-17-per-cento-rispetto-agli-anni-80.html",
-      "status": 200
-    },
-    {
       "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/banca-mondiale-la-posizione-dell-italia-nel-nuovo-rapporto-b-ready-e-meno-positiva-di-quanto-sembri.html",
       "status": 200
     },
@@ -73,10 +62,16 @@
       "status": 200
     }
   ],
-  "message": "4 notizie recenti con data verificata; copertura parziale.",
+  "message": "3 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [],
   "candidateCount": 12,
-  "datedCount": 6,
+  "datedCount": 5,
   "listingUrl": "https://osservatoriocpi.unicatt.it/pubblicazioni.html",
-  "durationSeconds": 5.48
+  "durationSeconds": 5.91,
+  "attemptErrors": [
+    {
+      "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/il-reddito-dei-giovani-e-diminuito-del-17-per-cento-rispetto-agli-anni-80.html",
+      "code": "connection_error"
+    }
+  ]
 }

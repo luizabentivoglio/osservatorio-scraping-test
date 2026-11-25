@@ -4,12 +4,68 @@
   "sourceId": "cnr",
   "originUrl": "https://www.cnr.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-25T11:46:12.907664Z",
+  "collectedAt": "2026-11-25T23:21:26.608797Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.cnr.it/it/news/rss",
   "items": [
+    {
+      "title": "25° Congresso Nazionale Associazione italiana di telemedicina e informatica medica",
+      "url": "https://www.cnr.it/it/news/14847/25-congresso-nazionale-associazione-italiana-di-telemedicina-e-informatica-medica",
+      "excerpt": "27/11/2026 . Il 25° Congresso AITIM apre a Pisa il 27 novembre prossimo. Per due giorni si discuterà di IA e Robotica. Tecnologie, persone società per una sanità più umana. Si confronteranno ricercatori ed esperti sull’uso delle tecnologie innovative nella ricerca e nella pratica clinica in discipline quali la neurolog",
+      "publishedAt": "2026-11-25T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "In collaborazione con il CNR nasce la rete ISTALAMTU della Biblioteca Nazionale del Qatar per rafforzare la condivisione delle risorse nella regione MENA (Middle East and North Africa)",
+      "url": "https://www.cnr.it/it/news/14815/in-collaborazione-con-il-cnr-nasce-la-rete-istalamtu-della-biblioteca-nazionale-del-qatar-per-rafforzare-la-condivisione-delle-risorse-nella-regione-mena-middle-east-and-north-africa",
+      "excerpt": "25/11/2026 . Sostenuta dal Fondo per l’impatto e l’innovazione dell’IFLA, l’iniziativa mira a promuovere la collaborazione, sviluppare capacità professionali ed espandere l’accesso equo all’informazione accademica. Per raggiungere questo obiettivo, ISTALAMTU opera in stretta collaborazione con l'Area Territoriale di Ri",
+      "publishedAt": "2026-11-25T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Il Presidente Andrea Lenzi al Convegno di presentazione del Rapporto SA-IA \"Salute & Sanità nell'era dell'Intelligenza Artificiale\"",
+      "url": "https://www.cnr.it/it/news/14845/il-presidente-andrea-lenzi-al-convegno-di-presentazione-del-rapporto-sa-ia-salute-sanita-nell-era-dell-intelligenza-artificiale",
+      "excerpt": "25/11/2026 . Il Presidente Andrea Lenzi è intervenuto con una Keynote Speech al Convegno di presentazione del Rapporto SA-IA – Salute & Sanità nell’era dell’Intelligenza Artificiale svolto mercoledì 25 novembre presso l’Auditorium del Ministero della Salute “Cosimo Piccinno” a Roma",
+      "publishedAt": "2026-11-25T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "IL CUG-CNR ricorda la Giornata internazionale per l'eliminazione della violenza contro le donne",
+      "url": "https://www.cnr.it/it/news/14848/il-cug-cnr-ricorda-la-giornata-internazionale-per-l-eliminazione-della-violenza-contro-le-donne",
+      "excerpt": "25/11/2026 . Il 25 novembre ricorre la Giornata internazionale per l’eliminazione della violenza contro le donne, istituita dalle Nazioni Unite nel 1999. La Convenzione di Istanbul riconosce questa violenza come una violazione dei diritti umani. Il Comitato Unico di Garanzia del CNR è impegnato nel promuovere un cambia",
+      "publishedAt": "2026-11-25T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Al Cnr di Monterotondo il Council EMBL",
+      "url": "https://www.cnr.it/it/news/14844/al-cnr-di-monterotondo-il-council-embl",
+      "excerpt": "25/11/2026 . Nell'ambito dei lavori del Council EMBL -svolto quest'anno nella sede italiana dell'Infrastruttura istituita presso il Cnr di Monterotondo- è stata organizzata una visita al Campus e agli spazi EMBL attualmente in via di riqualificazione da parte dei 29 rappresentanti dei Paesi aderenti. Presente il Dirett",
+      "publishedAt": "2026-11-25T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Workshop Italia-Corea sui semiconduttori ad ampia banda proibita",
+      "url": "https://www.cnr.it/it/news/14842/workshop-italia-corea-sui-semiconduttori-ad-ampia-banda-proibita",
+      "excerpt": "25/11/2026 . Si è svolto il 24 novembre 2026, presso la Kwangwoon University di Seul (Corea del Sud), il First Italo-Korean Workshop on (U)WBG Semiconductors, organizzato in modalità ibrida con la partecipazione del CNR-Istituto di Microelettronica e Microsistemi (CNR-IMM) di Catania. L'iniziativa si inserisce nell'amb",
+      "publishedAt": "2026-11-25T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Lanciata una Call for Chapters per l'edizione 2027 di Mediterranean Economies",
+      "url": "https://www.cnr.it/it/news/14843/lanciata-una-call-for-chapters-per-l-edizione-2027-di-mediterranean-economies",
+      "excerpt": "25/11/2026 .",
+      "publishedAt": "2026-11-25T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Il contributo di CNR-IBBA per lo sviluppo di cibi più sicuri",
+      "url": "https://www.cnr.it/it/news/14825/il-contributo-di-cnr-ibba-per-lo-sviluppo-di-cibi-piu-sicuri",
+      "excerpt": "25/11/2026 . Nei prodotti alimentari a base di cereali, la concentrazione di asparagina libera nelle farine rappresenta il fattore chiave per la formazione di acrilammide durante la cottura. Una review coordinata da CNR-IBBA nell’ambito del consorzio internazionale ACRYRED riporta le strategie per selezionare genotipi ",
+      "publishedAt": "2026-11-25T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "Bando AriSLA 2026: i progetti del CNR premiati",
       "url": "https://www.cnr.it/it/news/14839/bando-arisla-2026-i-progetti-del-cnr-premiati",
@@ -25,16 +81,16 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Conferenza annuale Istituto per i Sistemi Agricoli e Forestali del Mediterraneo - ISAFoM \"L'Innovazione nella Ricerca dei sistemi Agricoli e Forestali del Mediterraneo\"",
-      "url": "https://www.cnr.it/it/news/14832/conferenza-annuale-istituto-per-i-sistemi-agricoli-e-forestali-del-mediterraneo-isafom-l-innovazione-nella-ricerca-dei-sistemi-agricoli-e-forestali-del-mediterraneo",
-      "excerpt": "20/11/2026 . Si è svolta il 17 e 18 novembre 2026 presso la sala conferenze della Sede Centrale di Portici (NA) la Conferenza Annuale d'Istituto del CNR-ISAFoM, appuntamento che ha riunito i ricercatori delle quattro sedi di Portici, Rende, Catania e Perugia intorno a 25 relazioni scientifiche suddivise in cinque sessi",
+      "title": "Al via il progetto AURORA per studiare i misteri della circolazione abissale",
+      "url": "https://www.cnr.it/it/news/14829/al-via-il-progetto-aurora-per-studiare-i-misteri-della-circolazione-abissale",
+      "excerpt": "20/11/2026 . Il Cnr-Ismar è partner dell’iniziativa internazionale per indagare le complesse dinamiche di risalita delle acque profonde. Guidato dall’OGS e finanziato dal MUR, il progetto AURORA parte dagli abissi del Mar Ionio per osservare fenomeni globali attraverso strumenti innovativi e metodi all’avanguardia",
       "publishedAt": "2026-11-20T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Al via il progetto AURORA per studiare i misteri della circolazione abissale",
-      "url": "https://www.cnr.it/it/news/14829/al-via-il-progetto-aurora-per-studiare-i-misteri-della-circolazione-abissale",
-      "excerpt": "20/11/2026 . Il Cnr-Ismar è partner dell’iniziativa internazionale per indagare le complesse dinamiche di risalita delle acque profonde. Guidato dall’OGS e finanziato dal MUR, il progetto AURORA parte dagli abissi del Mar Ionio per osservare fenomeni globali attraverso strumenti innovativi e metodi all’avanguardia",
+      "title": "Conferenza annuale Istituto per i Sistemi Agricoli e Forestali del Mediterraneo - ISAFoM \"L'Innovazione nella Ricerca dei sistemi Agricoli e Forestali del Mediterraneo\"",
+      "url": "https://www.cnr.it/it/news/14832/conferenza-annuale-istituto-per-i-sistemi-agricoli-e-forestali-del-mediterraneo-isafom-l-innovazione-nella-ricerca-dei-sistemi-agricoli-e-forestali-del-mediterraneo",
+      "excerpt": "20/11/2026 . Si è svolta il 17 e 18 novembre 2026 presso la sala conferenze della Sede Centrale di Portici (NA) la Conferenza Annuale d'Istituto del CNR-ISAFoM, appuntamento che ha riunito i ricercatori delle quattro sedi di Portici, Rende, Catania e Perugia intorno a 25 relazioni scientifiche suddivise in cinque sessi",
       "publishedAt": "2026-11-20T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -74,13 +130,6 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Nature-based Solutions e governance per l'azione climatica: il CNR-IRET alla COP31 di Antalya",
-      "url": "https://www.cnr.it/it/news/14822/nature-based-solutions-e-governance-per-l-azione-climatica-il-cnr-iret-alla-cop31-di-antalya",
-      "excerpt": "11/11/2026 . Lo scorso 11 novembre, presso il Padiglione Italia della COP31 di Antalya, il CNR-IRET ha partecipato al side event “Tackling the Climate and Biodiversity Crisis: From Knowledge to Action” , presentando il ruolo del NbS Italy Hub nel rafforzare il dialogo tra ricerca, amministrazioni, imprese e società civ",
-      "publishedAt": "2026-11-17T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
       "title": "Primo Review Meeting del progetto europeo Chips JU - WBG Pilot Line",
       "url": "https://www.cnr.it/it/news/14813/primo-review-meeting-del-progetto-europeo-chips-ju-wbg-pilot-line",
       "excerpt": "16/11/2026 . Il 3 e 4 novembre 2026 si è tenuto ad Erlangen, in Germania, il primo Review Meeting del progetto Wide-Bandgap Pilot Line . Questo evento ha riunito tutti i partner del progetto, la Project Officer e agli esperti indipendenti per un proficuo scambio sui risultati raggiunti, sugli obiettivi intermedi e sull",
@@ -100,13 +149,6 @@
       "excerpt": "13/11/2026 . Dopo quattro edizioni svolte presso il Rifugio Galassi, sull'Antelao nelle Dolomiti Bellunesi, il workshop“Risorsa Acqua” giunge alla sua quinta edizione e approda a Venezia, città simbolo del rapporto tra acqua, territorio, clima e attività umane. L’appuntamento è fissato per il 18 e 19 novembre 2026 pres",
       "publishedAt": "2026-11-13T00:00:00Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Kolumbo, il vulcano sommerso di Santorini, osservato da vicino: si conclude la campagna HYDROSENSE",
-      "url": "https://www.cnr.it/it/news/14807/kolumbo-il-vulcano-sommerso-di-santorini-osservato-da-vicino-si-conclude-la-campagna-hydrosense",
-      "excerpt": "12/11/2026 . Si è conclusa la campagna oceanografica HYDROSENSE 2026, che dal 30 ottobre al 12 novembre ha studiato il vulcano sottomarino Kolumbo, 7 km a nord-est di Santorini, e la caldera di Santorini. La spedizione, a bordo della nave da ricerca Gaia Blu del CNR, è stata guidata dall’Istituto di Scienze Marine del ",
-      "publishedAt": "2026-11-12T00:00:00Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -120,5 +162,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 10.24
+  "durationSeconds": 10.23
 }
