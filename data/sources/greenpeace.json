@@ -4,7 +4,7 @@
   "sourceId": "greenpeace",
   "originUrl": "https://www.greenpeace.org/italy/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-26T11:31:26.380335Z",
+  "collectedAt": "2026-11-26T23:21:12.891466Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -35,6 +35,10 @@
       "status": 200
     },
     {
+      "url": "https://www.greenpeace.org/italy/storia/32383/gli-allevamenti-intensivi-sono-una-merda-in-azione/",
+      "status": 200
+    },
+    {
       "url": "https://www.greenpeace.org/italy/storia/32347/antibiotici-allevamenti-intensivi-italia/",
       "status": 200
     },
@@ -44,10 +48,6 @@
     },
     {
       "url": "https://www.greenpeace.org/italy/storia/32293/ikea-produce-mobili-con-legname-proveniente-da-foreste-secolari-svedesi/",
-      "status": 200
-    },
-    {
-      "url": "https://www.greenpeace.org/italy/storia/32244/in-azione-a-roma-per-dire-stop-al-ddl-caccia/",
       "status": 200
     },
     {
@@ -79,5 +79,5 @@
   "candidateCount": 12,
   "datedCount": 5,
   "listingUrl": "https://www.greenpeace.org/italy/",
-  "durationSeconds": 4.88
+  "durationSeconds": 4.7
 }

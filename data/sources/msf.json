@@ -4,12 +4,19 @@
   "sourceId": "msf",
   "originUrl": "https://www.medicisenzafrontiere.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-26T11:31:39.354290Z",
+  "collectedAt": "2026-11-26T23:21:25.534028Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "Haiti, MSF: “livelli allarmanti di violenza sessuale contro le donne”",
+      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/haiti-msf-livelli-allarmanti-violenza-sessuale-contro-donne/",
+      "excerpt": "Il numero di sopravvissute alla violenza sessuale che cercano assistenza nelle strutture di Medici Senza Frontiere a Port-au-Prince, Haiti, rimane allarmante anche nel 2026. Migliaia di sopravvissute cercano assistenza a Port-au-Prince Tra gennaio e ottobre 2026, 5.635 sopravvissute sono state assistite nelle nostre st",
+      "publishedAt": "2026-11-26T13:57:40Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
     {
       "title": "MSF aderisce alle manifestazioni per la Giornata contro la violenza sulle donne",
       "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/msf-aderisce-manifestazioni-giornata-contro-violenza-donne/",
@@ -44,13 +51,6 @@
       "excerpt": "L'intensificarsi degli scontri armati a Nyabiondo, nel territorio di Masisi, Nord Kivu, hanno causato la tragica morte di un ragazzo di 15 anni, ferito da colpi d’arma da fuoco, mentre attendeva un trasferimento medico urgente. Le ostilità interrompono l'accesso alle cure a Nyabiondo Il trasferimento è stato reso impos",
       "publishedAt": "2026-11-21T11:56:00Z",
       "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "RDC, attacco con droni vicino a un ospedale a Bunyakiri, Sud Kivu. MSF: “proteggere civili e strutture sanitarie”",
-      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/rdc-attacco-droni-vicino-ospedale-bunyakiri-sud-kivu-msf-proteggere-civili-strutture-sanitarie/",
-      "excerpt": "Con l’intensificarsi delle violenze nella zona sanitaria di Bunyakiri, nel Sud Kivu, Medici Senza Frontiere chiede a tutte le parti in conflitto di rispettare e proteggere i civili, le strutture sanitarie e il personale umanitario. L’escalation del conflitto a Bunyakiri mette a rischio cure e civili Dal 6 novembre 2026",
-      "publishedAt": "2026-11-20T10:38:12Z",
-      "dateEvidence": "jsonld:datePublished"
     }
   ],
   "attempts": [
@@ -60,6 +60,10 @@
     },
     {
       "url": "https://www.medicisenzafrontiere.it/",
+      "status": 200
+    },
+    {
+      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/haiti-msf-livelli-allarmanti-violenza-sessuale-contro-donne/",
       "status": 200
     },
     {
@@ -81,10 +85,6 @@
     {
       "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/rdc-nord-kivu-ragazzo-15-anni-muore-attesa-evacuazione-medica-causa-scontri-nyabiondo/",
       "status": 200
-    },
-    {
-      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/rdc-attacco-droni-vicino-ospedale-bunyakiri-sud-kivu-msf-proteggere-civili-strutture-sanitarie/",
-      "status": 200
     }
   ],
   "message": "6 notizie recenti con data verificata; copertura parziale.",
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.medicisenzafrontiere.it/",
-  "durationSeconds": 3.93
+  "durationSeconds": 3.78
 }

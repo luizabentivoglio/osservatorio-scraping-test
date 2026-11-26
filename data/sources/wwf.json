@@ -4,12 +4,19 @@
   "sourceId": "wwf",
   "originUrl": "https://www.wwf.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-26T11:32:12.455605Z",
+  "collectedAt": "2026-11-26T23:21:55.985396Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "Caccia: centinaia di cittadini in piazza a Roma contro la legge Sparatutto",
+      "url": "https://www.wwf.it/pandanews/animali/caccia-centinaia-di-cittadini-in-piazza-a-roma-contro-la-legge-sparatutto/",
+      "excerpt": "Le associazioni: “Fermare subito le norme che attaccano fauna, biodiversità e aree protette\"",
+      "publishedAt": "2026-11-26T16:02:20Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
     {
       "title": "Accordo fra WWF e dipartimento One Health del Ministero della Salute",
       "url": "https://www.wwf.it/pandanews/ambiente/accordo-fra-wwf-e-dipartimento-one-health-del-ministero-della-salute/",
@@ -44,13 +51,6 @@
       "excerpt": "Le resistenze sulla transizione dai combustibili fossili bloccano il negoziato. Europa e Paesi più ambiziosi guidino una reazione forte",
       "publishedAt": "2026-11-22T13:43:25Z",
       "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Contro la PdL Caccia, il 26 novembre a Roma grande mobilitazione",
-      "url": "https://www.wwf.it/pandanews/animali/caccia-26-novembre-mobilitazione/",
-      "excerpt": "L'appuntamento è stato spostato in Piazza dei Santi Apostoli. Attesi anche esponenti del mondo della cultura e delle istituzioni",
-      "publishedAt": "2026-11-22T13:08:35Z",
-      "dateEvidence": "jsonld:datePublished"
     }
   ],
   "attempts": [
@@ -60,6 +60,10 @@
     },
     {
       "url": "https://www.wwf.it/",
+      "status": 200
+    },
+    {
+      "url": "https://www.wwf.it/pandanews/animali/caccia-centinaia-di-cittadini-in-piazza-a-roma-contro-la-legge-sparatutto/",
       "status": 200
     },
     {
@@ -81,10 +85,6 @@
     {
       "url": "https://www.wwf.it/pandanews/clima/cop31-senza-accordo-il-mondo-non-puo-restare-ostaggio-delle-lobby-fossili/",
       "status": 200
-    },
-    {
-      "url": "https://www.wwf.it/pandanews/animali/caccia-26-novembre-mobilitazione/",
-      "status": 200
     }
   ],
   "message": "6 notizie recenti con data verificata; copertura parziale.",
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.wwf.it/",
-  "durationSeconds": 5.62
+  "durationSeconds": 4.19
 }

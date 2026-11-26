@@ -4,12 +4,19 @@
   "sourceId": "pagella-politica",
   "originUrl": "https://pagellapolitica.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-26T11:31:44.795893Z",
+  "collectedAt": "2026-11-26T23:21:32.192674Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "La riforma del reato di violenza sessuale è finita nel nulla",
+      "url": "https://pagellapolitica.it/articoli/ddl-reato-violenza-sessuale",
+      "excerpt": "Un anno fa era stata approvata dalla Camera grazie a un accordo tra Schlein e Meloni, ma poi si è bloccata al...",
+      "publishedAt": "2026-11-24T00:00:00Z",
+      "dateEvidence": "html:post-date"
+    },
     {
       "title": "Il nuovo bonus da 300 euro per gli anziani vale più delle principali misure per i giovani nella manovra",
       "url": "https://pagellapolitica.it/articoli/bonus-anziani-misure-giovani-legge-bilancio-2027",
@@ -44,13 +51,6 @@
       "excerpt": "Il leader della Lega ha criticato la decisione dei giudici sul riconoscimento degli assegni familiari, che però si...",
       "publishedAt": "2026-11-23T00:00:00Z",
       "dateEvidence": "html:post-date"
-    },
-    {
-      "title": "Lo studio da 139 mila euro di fondi pubblici per rilanciare l’immagine del ponte sullo Stretto",
-      "url": "https://pagellapolitica.it/articoli/ponte-stretto-messina-studio",
-      "excerpt": "Lo ha commissionato la società Stretto di Messina S.p.A. a TEHA Group, che ogni anno organizza il Forum di...",
-      "publishedAt": "2026-11-23T00:00:00Z",
-      "dateEvidence": "html:post-date"
     }
   ],
   "attempts": [
@@ -60,6 +60,10 @@
     },
     {
       "url": "https://pagellapolitica.it/articoli",
+      "status": 200
+    },
+    {
+      "url": "https://pagellapolitica.it/articoli/ddl-reato-violenza-sessuale",
       "status": 200
     },
     {
@@ -81,10 +85,6 @@
     {
       "url": "https://pagellapolitica.it/articoli/senegalese-undici-figli-salvini",
       "status": 200
-    },
-    {
-      "url": "https://pagellapolitica.it/articoli/ponte-stretto-messina-studio",
-      "status": 200
     }
   ],
   "message": "6 notizie recenti con data verificata; copertura parziale.",
@@ -92,5 +92,5 @@
   "candidateCount": 6,
   "datedCount": 6,
   "listingUrl": "https://pagellapolitica.it/articoli",
-  "durationSeconds": 10.8
+  "durationSeconds": 6.98
 }

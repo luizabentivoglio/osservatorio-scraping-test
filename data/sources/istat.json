@@ -4,23 +4,37 @@
   "sourceId": "istat",
   "originUrl": "https://www.istat.it/",
   "configuredFeedUrl": "https://www.istat.it/feed/",
-  "collectedAt": "2026-11-26T11:31:31.263285Z",
+  "collectedAt": "2026-11-26T23:21:17.589774Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.istat.it/feed/",
   "items": [
     {
-      "title": "Conti fisici dell’ambiente – I conti delle emissioni atmosferiche (AEA) – Anni 2008-2025",
-      "url": "https://www.istat.it/sistema-informativo-6/conti-fisici-dellambiente-i-conti-delle-emissioni-atmosferiche-aea-anni-2008-2025/",
-      "excerpt": "Disponibili l’aggiornamento al 2024 della serie storica dei Conti delle emissioni atmosferiche (AEA) e la prima stima delle emissioni di gas climalteranti per attività economica per l’anno 2025",
+      "title": "Flussi fisici di energia (Pefa) - Anni 2008-2021",
+      "url": "https://www.istat.it/sistema-informativo-6/flussi-fisici-di-energia-pefa-anni-2008-2024-2/",
+      "excerpt": "Aggiornata la serie storica 2008-2024 dei Conti dei flussi fisici di energia (Pefa)",
       "publishedAt": "2026-11-26T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Profili economici e finanziari dei piccoli comuni: un’analisi esplorativa multivariata dei principali indicatori statistici",
-      "url": "https://www.istat.it/produzione-editoriale/profili-economici-e-finanziari-dei-piccoli-comuni-unanalisi-esplorativa-multivariata-dei-principali-indicatori-statistici/",
-      "excerpt": "Profili economici e finanziari dei piccoli comuni: un’analisi esplorativa multivariata dei principali indicatori statistici",
+      "title": "Profili economici e finanziari dei piccoli comuni",
+      "url": "https://www.istat.it/produzione-editoriale/profili-economici-e-finanziari-dei-piccoli-comuni/",
+      "excerpt": "Disponibile un’analisi esplorativa multivariata dei principali indicatori statistici",
+      "publishedAt": "2026-11-26T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "CIG BCEE5AB889 – Fornitura quadriennale di prodotti di reintegro per cassette di pronto soccorso",
+      "url": "https://www.istat.it/bando-di-gara/cig-bcee5ab889-fornitura-quadriennale-di-prodotti-di-reintegro-per-cassette-di-pronto-soccorso/",
+      "excerpt": "Online la delibera di affidamento",
+      "publishedAt": "2026-11-26T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Conti fisici dell’ambiente – I conti delle emissioni atmosferiche (AEA) – Anni 2008-2025",
+      "url": "https://www.istat.it/sistema-informativo-6/conti-fisici-dellambiente-i-conti-delle-emissioni-atmosferiche-aea-anni-2008-2025/",
+      "excerpt": "Disponibili l’aggiornamento al 2024 della serie storica dei Conti delle emissioni atmosferiche (AEA) e la prima stima delle emissioni di gas climalteranti per attività economica per l’anno 2025",
       "publishedAt": "2026-11-26T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -65,20 +79,6 @@
       "excerpt": "Online la delibera di affidamento",
       "publishedAt": "2026-11-25T00:00:00Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "La violenza contro le donne dentro e fuori la famiglia – Anno 2025",
-      "url": "https://www.istat.it/comunicato-stampa/la-violenza-contro-le-donne-dentro-e-fuori-la-famiglia-2025/",
-      "excerpt": "Sono circa 7 milioni (il 31,5%) le donne dai 16 ai 75 anni che hanno subìto almeno una violenza fisica o sessuale nel corso della vita (a partire dai 16 anni)",
-      "publishedAt": "2026-11-25T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Indicatori territoriali per le politiche di sviluppo",
-      "url": "https://www.istat.it/sistema-informativo-6/banca-dati-territoriale-per-le-politiche-di-sviluppo/",
-      "excerpt": "Online l'aggiornamento del sistema informativo territoriale",
-      "publishedAt": "2026-11-23T00:00:00Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -92,5 +92,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 3.02
+  "durationSeconds": 3.58
 }

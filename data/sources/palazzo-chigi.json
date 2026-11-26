@@ -4,12 +4,19 @@
   "sourceId": "palazzo-chigi",
   "originUrl": "https://www.governo.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-26T11:31:47.402511Z",
+  "collectedAt": "2026-11-26T23:21:33.187233Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.governo.it/feed/rss",
   "items": [
+    {
+      "title": "Kuwait, il cordoglio del Presidente Meloni per i due cittadini italiani vittime dell'attacco",
+      "url": "https://www.governo.it/it/articolo/kuwait-il-cordoglio-del-presidente-meloni-i-due-cittadini-italiani-vittime-dellattacco",
+      "excerpt": "Il Presidente del Consiglio, Giorgia Meloni, ha appreso nel corso dei lavori del Consiglio europeo la notizia della tragica morte dei due cittadini italiani nell’attacco avvenuto in Kuwait. Esprime, a nome proprio e del Governo, profondo cordoglio e rivolge le più sentite condoglianze ai familiari delle vittime, manife",
+      "publishedAt": "2026-11-26T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "Riunione dei Leader del gruppo “Amici della Coesione”",
       "url": "https://www.governo.it/it/articolo/riunione-dei-leader-del-gruppo-amici-della-coesione-nota-di-palazzo-chigi/33193",
@@ -20,7 +27,7 @@
     {
       "title": "Riunione straordinaria del Consiglio europeo",
       "url": "https://www.governo.it/it/articolo/riunione-straordinaria-del-consiglio-europeo/33191",
-      "excerpt": "Il Presidente del Consiglio, Giorgia Meloni, è a Bruxelles per parteciapre alla riunione straordinaria del Consiglio europeo. Questa mattina a margine dei lavori il Presidente ha tenuto un punto stampa.",
+      "excerpt": "Il Presidente del Consiglio, Giorgia Meloni, è a Bruxelles per partecipare alla riunione straordinaria del Consiglio europeo.",
       "publishedAt": "2026-11-26T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -71,13 +78,6 @@
       "url": "https://www.governo.it/it/articolo/riunione-straordinaria-della-conferenza-stato-citt-e-autonomie-locali-presieduta-dal",
       "excerpt": "Si è svolta oggi a Palazzo Chigi la riunione straordinaria della Conferenza Stato-Città e autonomie locali, dedicata al confronto con i Sindaci e i Presidenti di Provincia sulle principali questioni che interessano i territori. L’incontro fa seguito alla disponibilità espressa dal Presidente del Consiglio Giorgia Melon",
       "publishedAt": "2026-11-24T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Nota di Palazzo Chigi",
-      "url": "https://www.governo.it/it/articolo/nota-di-palazzo-chigi/33169",
-      "excerpt": "Piena solidarietà dell'Italia alla Danimarca e alla Polonia. Le Autorità di Copenaghen hanno attribuito ieri ai servizi di intelligence russi il tentato omicidio sul territorio danese di un cittadino ucraino-americano. Lo spazio aereo polacco è stato violato da missili e da un drone durante il massiccio attacco russo c",
-      "publishedAt": "2026-11-21T00:00:00Z",
       "dateEvidence": "feed:published"
     }
   ],

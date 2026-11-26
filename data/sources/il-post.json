@@ -4,52 +4,52 @@
   "sourceId": "il-post",
   "originUrl": "https://www.ilpost.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-26T11:31:32.552238Z",
+  "collectedAt": "2026-11-26T23:21:18.869952Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
-      "title": "La potentissima rete di Gianni De Gennaro",
-      "url": "https://www.ilpost.it/2026/11/26/la-potentissima-rete-di-gianni-de-gennaro/?homepagePosition=0",
-      "excerpt": "Aveva amici stretti in politica, sia a destra che a sinistra, nei servizi segreti, nella Polizia, tra manager e diplomatici e persino negli Stati Uniti",
-      "publishedAt": "2026-11-26T10:19:48Z",
+      "title": "L’Italia del basket ha vinto contro la Turchia nelle qualificazioni per i Mondiali",
+      "url": "https://www.ilpost.it/2026/11/26/italia-basket-turchia-mondiali/?bitPosition=1",
+      "excerpt": "L’Italia del basket ha vinto contro la Turchia nelle qualificazioni per i Mondiali L’Italia ha battuto 86-72 la Turchia nelle qualificazioni per i Mondiali di basket, che si terranno a Doha, in Qatar, la prossima estate. La partita si giocava al PalaEur di Roma, fra gli spettatori c’era anche il presidente della Repubb",
+      "publishedAt": "2026-11-26T20:54:14Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "Una nave cisterna carica di gasolio è affondata al largo di Ibiza: si teme una fuoriuscita",
-      "url": "https://www.ilpost.it/2026/11/26/nave-cisterna-gasolio-affondata-ibiza/?bitPosition=1",
-      "excerpt": "Una nave cisterna carica di gasolio è affondata al largo di Ibiza: si teme una fuoriuscita Nella notte tra mercoledì e giovedì la nave cisterna maltese Med Emre è affondata al largo di Ibiza, nelle isole Baleari, a circa 46 chilometri dall’isola. Il governo delle Baleari ha detto che era «carica di gasolio» e ha stimat",
-      "publishedAt": "2026-11-26T08:48:19Z",
+      "title": "Un tribunale di Parigi ha rinviato a giudizio Gerard Depardieu per un’accusa di stupro, e ne ha archiviata un’altra",
+      "url": "https://www.ilpost.it/2026/11/26/gerard-depardieu-rinvio-giudizio-stupro/?bitPosition=2",
+      "excerpt": "Un tribunale di Parigi ha rinviato a giudizio Gerard Depardieu per un’accusa di stupro, e ne ha archiviata un’altra La Corte d’appello di Parigi ha confermato il rinvio a giudizio del celebre attore Gerard Depardieu per un’accusa di stupro, ma ha deciso il non luogo a procedere per un’altra presentata dalla stessa donn",
+      "publishedAt": "2026-11-26T17:17:39Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "Gli Stati Uniti hanno autorizzato SpaceX a lanciare fino a un milione di satelliti per portare data center nello Spazio",
-      "url": "https://www.ilpost.it/2026/11/26/space-x-data-center-nello-spazio-autorizzazione/?bitPosition=2",
-      "excerpt": "Gli Stati Uniti hanno autorizzato SpaceX a lanciare fino a un milione di satelliti per portare data center nello Spazio Mercoledì gli Stati Uniti hanno autorizzato SpaceX, l’azienda aerospaziale fondata da Elon Musk, a lanciare fino a un milione di satelliti per il nuovo progetto chiamato Starmind, che prevede di utili",
-      "publishedAt": "2026-11-26T07:27:57Z",
+      "title": "La Biennale di arte di Venezia del 2028 sarà curata da Hoor al Qasimi",
+      "url": "https://www.ilpost.it/2026/11/26/hoor-al-qasimi-biennale-venezia-arte-2028/?bitPosition=3",
+      "excerpt": "La Biennale di arte di Venezia del 2028 sarà curata da Hoor al Qasimi Hoor al Qasimi, una delle persone di maggiore influenza nel mondo dell’arte contemporanea, è stata scelta per curare la Biennale di arte di Venezia del 2028: avrà il compito di definirne aspetti come il tema e gli artisti invitati. Oltre che un’appre",
+      "publishedAt": "2026-11-26T15:46:36Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "Per la prima volta nella sua storia la parata del Ringraziamento di Macy’s a New York è stata posticipata per maltempo",
-      "url": "https://www.ilpost.it/2026/11/26/per-la-prima-volta-nella-sua-storia-la-parata-di-macys-del-ringraziamento-a-new-york-e-stata-posticipata-per-maltempo/?bitPosition=3",
-      "excerpt": "Per la prima volta nella sua storia la parata del Ringraziamento di Macy’s a New York è stata posticipata per maltempo Da più di 100 anni nel giorno del Ringraziamento decine di carri con palloni aerostatici che raffigurano personaggi dei cartoni animati e dei fumetti sfilano per le strade di Manhattan, in centro a New",
-      "publishedAt": "2026-11-26T06:28:36Z",
+      "title": "Nel Regno Unito l’immigrazione si è fortemente ridotta: il saldo migratorio è il più basso in 30 anni",
+      "url": "https://www.ilpost.it/2026/11/26/immigrazione-ridotta-regno-unito/?bitPosition=4",
+      "excerpt": "Nel Regno Unito l’immigrazione si è fortemente ridotta: il saldo migratorio è il più basso in 30 anni Nei 12 mesi precedenti a giugno 2026 il saldo migratorio del Regno Unito è stato il più basso dal 1997, escluso il periodo della pandemia. Il saldo migratorio misura la differenza tra il numero di persone che si trasfe",
+      "publishedAt": "2026-11-26T13:14:40Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "Il testo della lettera di Gianni De Gennaro",
-      "url": "https://www.ilpost.it/2026/11/26/de-gennaro-lettera/?homepagePosition=0.1&referrerPost=3742411",
-      "excerpt": "In cui si difende dalle accuse senza fare grandi rivelazioni: l'ha pubblicato il Corriere della Sera",
-      "publishedAt": "2026-11-26T05:33:34Z",
+      "title": "L’attacco di droni iraniani che ha ucciso due italiani in Kuwait",
+      "url": "https://www.ilpost.it/2026/11/26/kuwait-droni-italiani-uccisi/?homepagePosition=0",
+      "excerpt": "Erano tecnici dell'azienda di armi Rheinmetall e sono stati coinvolti in un'esplosione mentre lavoravano",
+      "publishedAt": "2026-11-26T13:06:55Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "Il discusso ruolo della commissione Antimafia nell’inchiesta su De Gennaro",
-      "url": "https://www.ilpost.it/2026/11/24/commissione-antimafia-gianni-de-gennaro-indagine/?homepagePosition=0.2&referrerPost=3742411",
-      "excerpt": "La maggioranza di destra aveva appoggiato e dato risalto alle indagini della procura di Caltanissetta, anche per convenienza politica",
-      "publishedAt": "2026-11-24T08:44:50Z",
+      "title": "In provincia di Pistoia una donna è stata uccisa: secondo la procura è stato il compagno, che poi si è ucciso lanciandosi da un viadotto",
+      "url": "https://www.ilpost.it/2026/11/26/femminicidio-pistoia-viadotto/?bitPosition=5",
+      "excerpt": "In provincia di Pistoia una donna è stata uccisa: secondo la procura è stato il compagno, che poi si è ucciso lanciandosi da un viadotto Una donna di 23 anni di origine rumena, Ionela Miruna Garneata, è stata uccisa nella sua casa a Ponte Buggianese, in provincia di Pistoia: secondo la ricostruzione della procura, ha c",
+      "publishedAt": "2026-11-26T11:33:24Z",
       "dateEvidence": "jsonld:datePublished"
     }
   ],
@@ -63,27 +63,27 @@
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/26/la-potentissima-rete-di-gianni-de-gennaro/?homepagePosition=0",
+      "url": "https://www.ilpost.it/2026/11/26/kuwait-droni-italiani-uccisi/?homepagePosition=0",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/26/de-gennaro-lettera/?homepagePosition=0.1&referrerPost=3742411",
+      "url": "https://www.ilpost.it/2026/11/26/italia-basket-turchia-mondiali/?bitPosition=1",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/24/commissione-antimafia-gianni-de-gennaro-indagine/?homepagePosition=0.2&referrerPost=3742411",
+      "url": "https://www.ilpost.it/2026/11/26/gerard-depardieu-rinvio-giudizio-stupro/?bitPosition=2",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/26/nave-cisterna-gasolio-affondata-ibiza/?bitPosition=1",
+      "url": "https://www.ilpost.it/2026/11/26/hoor-al-qasimi-biennale-venezia-arte-2028/?bitPosition=3",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/26/space-x-data-center-nello-spazio-autorizzazione/?bitPosition=2",
+      "url": "https://www.ilpost.it/2026/11/26/immigrazione-ridotta-regno-unito/?bitPosition=4",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/26/per-la-prima-volta-nella-sua-storia-la-parata-di-macys-del-ringraziamento-a-new-york-e-stata-posticipata-per-maltempo/?bitPosition=3",
+      "url": "https://www.ilpost.it/2026/11/26/femminicidio-pistoia-viadotto/?bitPosition=5",
       "status": 200
     }
   ],

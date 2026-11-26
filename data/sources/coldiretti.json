@@ -4,7 +4,7 @@
   "sourceId": "coldiretti",
   "originUrl": "https://www.coldiretti.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-26T11:30:59.282273Z",
+  "collectedAt": "2026-11-26T23:20:48.666669Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -15,13 +15,6 @@
       "url": "https://www.coldiretti.it/economia/ue-da-mercati-contadini-e-fattorie-sociali-multifunzionalita-vale-14-miliardi",
       "excerpt": "Serve riconoscimento nel prossimo bilancio dell’Unione con spazio riservato nella nuova Pac. La rete di Campagna Amica simbolo di prossimità",
       "publishedAt": "2026-11-18T09:49:39Z",
-      "dateEvidence": "meta:article:published_time"
-    },
-    {
-      "title": "Giornata Dieta Mediterranea, cibo sano negli ospedali con nuovi mercati contadini da Nord a Sud",
-      "url": "https://www.coldiretti.it/economia/giornata-dieta-mediterranea-cibo-sano-negli-ospedali-con-nuovi-mercati-contadini-da-nord-a-sud",
-      "excerpt": "Da Bari e Varese, nuovi appuntamenti. Si rafforza il patto tra medici e agricoltori per la prevenzione contro il cibo che ammala",
-      "publishedAt": "2026-11-12T13:56:57Z",
       "dateEvidence": "meta:article:published_time"
     }
   ],
@@ -59,10 +52,10 @@
       "status": 200
     }
   ],
-  "message": "2 notizie recenti con data verificata; copertura parziale.",
+  "message": "1 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [],
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.coldiretti.it/",
-  "durationSeconds": 10.97
+  "durationSeconds": 8.33
 }

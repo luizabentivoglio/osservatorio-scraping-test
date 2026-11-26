@@ -4,12 +4,19 @@
   "sourceId": "osservatorio-cpi",
   "originUrl": "https://osservatoriocpi.unicatt.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-26T11:31:40.605864Z",
+  "collectedAt": "2026-11-26T23:21:27.438023Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "ZES: incentivi territoriali, semplificazioni per tutti?",
+      "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/zes-incentivi-terriitoriali-semplificazioni-per-tutti.html",
+      "excerpt": "A quasi tre anni dalla sua introduzione, il perimetro della ZES Unica si è notevolmente ampliato. Per valutarne l’efficacia occorre però stabilire quanti investimenti siano effettivamente aggiuntivi rispetto a quelli che sarebbero stati realizzati comunque e distinguere tra incentivi e semplificazioni.",
+      "publishedAt": "2026-11-26T00:00:00Z",
+      "dateEvidence": "html:article-header"
+    },
     {
       "title": "Il reddito dei giovani è diminuito del 17% rispetto agli anni ’80",
       "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/il-reddito-dei-giovani-e-diminuito-del-17-per-cento-rispetto-agli-anni-80.html",
@@ -49,6 +56,10 @@
       "status": 200
     },
     {
+      "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/zes-incentivi-terriitoriali-semplificazioni-per-tutti.html",
+      "status": 200
+    },
+    {
       "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/il-reddito-dei-giovani-e-diminuito-del-17-per-cento-rispetto-agli-anni-80.html",
       "status": 200
     },
@@ -67,16 +78,12 @@
     {
       "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/le-differenze-territoriali-nell-istruzione-seppur-ancora-presenti-si-sono-ridotte-negli-anni.html",
       "status": 200
-    },
-    {
-      "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/l-ulteriore-espansione-del-regime-forfettario-a-100000-euro.html",
-      "status": 200
     }
   ],
-  "message": "4 notizie recenti con data verificata; copertura parziale.",
+  "message": "5 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [],
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://osservatoriocpi.unicatt.it/pubblicazioni.html",
-  "durationSeconds": 7.45
+  "durationSeconds": 6.22
 }

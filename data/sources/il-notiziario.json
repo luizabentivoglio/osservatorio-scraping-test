@@ -4,12 +4,40 @@
   "sourceId": "il-notiziario",
   "originUrl": "https://www.ilnotiziario.net/",
   "configuredFeedUrl": "https://www.ilnotiziario.net/feed/",
-  "collectedAt": "2026-11-26T11:31:31.875354Z",
+  "collectedAt": "2026-11-26T23:21:18.703198Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.ilnotiziario.net/feed/",
   "items": [
+    {
+      "title": "Le mamme dei pinguini 2, recensione: la disabilità in una serie tv",
+      "url": "https://www.ilnotiziario.net/le-mamme-dei-pinguini-2-recensione-la-disabilita-in-una-serie-tv/",
+      "excerpt": "di Stefano Di Maria Oggi parliamo di una serie molto particolare, che in un certo senso è una prova di coraggio produttivo...",
+      "publishedAt": "2026-11-26T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Monza, auto in fiamme in un parcheggio, un uomo trovato morto nell’abitacolo",
+      "url": "https://www.ilnotiziario.net/monza-auto-in-fiamme-in-un-parcheggio-un-uomo-trovato-morto-nellabitacolo/",
+      "excerpt": "Monza, auto in fiamme in un parcheggio, un uomo trovato morto nell’abitacolo Tragedia nella mattinata di oggi, giovedì 26...",
+      "publishedAt": "2026-11-26T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Milano, cocaina nascosta anche nell’ascensore, arrestato un 45enne",
+      "url": "https://www.ilnotiziario.net/milano-cocaina-nascosta-anche-nellascensore-arrestato-un-45enne/",
+      "excerpt": "Milano, cocaina nascosta anche nell’ascensore, arrestato un 45enne La droga non era nascosta soltanto nell’appartamento, ma...",
+      "publishedAt": "2026-11-26T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Saronno, 520mila euro dalla Regione per il commercio, il progetto entra tra le eccellenze",
+      "url": "https://www.ilnotiziario.net/saronno-520mila-euro-dalla-regione-per-il-commercio-il-progetto-entra-tra-le-eccellenze/",
+      "excerpt": "Saronno, 520mila euro dalla Regione per il commercio, il progetto entra tra le eccellenze Il Distretto urbano del commercio di...",
+      "publishedAt": "2026-11-26T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "Milano, vandalizzata la campagna del Niguarda contro la violenza sulle donne",
       "url": "https://www.ilnotiziario.net/milano-vandalizzata-la-campagna-del-niguarda-contro-la-violenza-sulle-donne/",
@@ -86,34 +114,6 @@
       "excerpt": "Tram Milano-Limbiate, il cantiere arriva a Cormano. Cantieri aperti, restringimenti della carreggiata e disagi nell’ultimo tratto...",
       "publishedAt": "2026-11-25T00:00:00Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Dalla Liberazione alla Costituente, Saronno ripercorre le origini della Repubblica",
-      "url": "https://www.ilnotiziario.net/dalla-liberazione-alla-costituente-saronno-ripercorre-le-origini-della-repubblica/",
-      "excerpt": "Dalla Liberazione alla Costituente, Saronno ripercorre le origini della Repubblica Saronno celebra gli 80 anni della Repubblica...",
-      "publishedAt": "2026-11-25T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Stazione di Saronno, ritarda il presidio della Polfer, lavori ancora in corso",
-      "url": "https://www.ilnotiziario.net/stazione-di-saronno-ritarda-il-presidio-della-polfer-lavori-ancora-in-corso/",
-      "excerpt": "Stazione di Saronno, ritarda il presidio della Polfer, lavori ancora in corso Il nuovo presidio della Polizia ferroviaria alla...",
-      "publishedAt": "2026-11-25T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Quarto Oggiaro, scatta il blitz delle forze dell’ordine, controlli a tappeto nel quartiere",
-      "url": "https://www.ilnotiziario.net/quarto-oggiaro-scatta-il-blitz-delle-forze-dellordine-controlli-a-tappeto-nel-quartiere/",
-      "excerpt": "Quarto Oggiaro, scatta il blitz delle forze dell’ordine, controlli a tappeto nel quartiere Un servizio straordinario di controllo...",
-      "publishedAt": "2026-11-25T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Combattente mercenario in Ucraina con arsenale da guerra in casa, divieto di espatrio per un brianzolo",
-      "url": "https://www.ilnotiziario.net/combattente-mercenario-in-ucraina-con-arsenale-da-guerra-in-casa-divieto-di-espatrio-per-un-brianzolo/",
-      "excerpt": "Combattente mercenario in Ucraina con arsenale da guerra in casa, divieto di espatrio per un brianzolo Un 45enne residente in...",
-      "publishedAt": "2026-11-25T00:00:00Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -127,5 +127,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 1.6
+  "durationSeconds": 2.21
 }

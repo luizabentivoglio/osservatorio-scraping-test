@@ -4,12 +4,19 @@
   "sourceId": "italia-domani-rizzo",
   "originUrl": "https://www.italiadomanirizzo.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-26T11:31:34.289694Z",
+  "collectedAt": "2026-11-26T23:21:21.170979Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "Popoli contro élite - Bollate - 27/11/2026 - Italia Domani",
+      "url": "https://www.italiadomanirizzo.it/popoli-contro-elite-bollate-27-11-2026/",
+      "excerpt": "Ogni contributo serve a garantire la presenza del Progetto nelle piazze, nei mercati e nei territori di tutta Italia.",
+      "publishedAt": "2026-11-26T17:21:31Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
     {
       "title": "Italia Domani fa tappa in Toscana: il 2 dicembre grande incontro a Campi Bisenzio - Italia Domani",
       "url": "https://www.italiadomanirizzo.it/italia-domani-fa-tappa-in-toscana-il-2-dicembre-grande-incon/",
@@ -42,6 +49,10 @@
       "status": 200
     },
     {
+      "url": "https://www.italiadomanirizzo.it/popoli-contro-elite-bollate-27-11-2026/",
+      "status": 200
+    },
+    {
       "url": "https://www.italiadomanirizzo.it/italia-domani-fa-tappa-in-toscana-il-2-dicembre-grande-incon/",
       "status": 200
     },
@@ -64,13 +75,9 @@
     {
       "url": "https://www.italiadomanirizzo.it/il-partito/",
       "status": 200
-    },
-    {
-      "url": "https://www.italiadomanirizzo.it/diventa-tesserato/",
-      "status": 200
     }
   ],
-  "message": "3 notizie recenti con data verificata; copertura parziale.",
+  "message": "4 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [
     {
       "url": "https://www.italiadomanirizzo.it/congresso/",
@@ -83,16 +90,10 @@
       "title": "Vai alla pagina \"Il partito\"",
       "h1": "Il partito",
       "dates": []
-    },
-    {
-      "url": "https://www.italiadomanirizzo.it/diventa-tesserato/",
-      "title": "Diventa un tesserato",
-      "h1": "Diventa tesserato",
-      "dates": []
     }
   ],
-  "candidateCount": 8,
-  "datedCount": 3,
+  "candidateCount": 9,
+  "datedCount": 4,
   "listingUrl": "https://www.italiadomanirizzo.it/",
-  "durationSeconds": 6.31
+  "durationSeconds": 6.27
 }

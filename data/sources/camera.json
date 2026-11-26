@@ -4,12 +4,40 @@
   "sourceId": "camera",
   "originUrl": "https://www.camera.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-26T11:30:55.032298Z",
+  "collectedAt": "2026-11-26T23:20:44.663783Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "Cambiare per vincere insieme - Lo sport contro la violenza sulle donne - Venerdì alle 10 diretta webtv - Saluto di Mulè",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64534",
+      "excerpt": "Venerdì 27 novembre, alle ore 10, presso la Sala del Refettorio di Palazzo San Macuto si svolge il ...",
+      "publishedAt": "2026-11-26T00:00:00Z",
+      "dateEvidence": "html:publication-label"
+    },
+    {
+      "title": "Premio Prisma - Premio alle imprese che creano valore condiviso - Venerdì alle 11 diretta webtv - Saluto di Costa",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64529",
+      "excerpt": "Venerdì 27 novembre, alle ore 11, presso la Sala della Regina di Montecitorio si svolge la presenta...",
+      "publishedAt": "2026-11-26T00:00:00Z",
+      "dateEvidence": "html:publication-label"
+    },
+    {
+      "title": "Il valore di rappresentare l'Italia - Il diritto di essere rappresentati - Venerdì alle 11 diretta webtv - Saluto di Ascani, Mulè e Rampelli",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64533",
+      "excerpt": "Venerdì 27 novembre, alle ore 11, presso l'Aula dei Gruppi parlamentari si svolge la Conferenza naz...",
+      "publishedAt": "2026-11-26T00:00:00Z",
+      "dateEvidence": "html:publication-label"
+    },
+    {
+      "title": "Responsabili Leadership - Il valore della reputazione nell'economia che cambia - Venerdì alle 17.30 diretta webtv - Saluto di Ascani",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64527",
+      "excerpt": "Venerdì 27 novembre, alle ore 17.30, presso la Sala della Regina di Montecitorio si svolge il conve...",
+      "publishedAt": "2026-11-26T00:00:00Z",
+      "dateEvidence": "html:publication-label"
+    },
     {
       "title": "Decreto scuola, approvazione definitiva",
       "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64525",
@@ -18,38 +46,10 @@
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "Settore previdenziale allargato, audizione periti industriali",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64480",
-      "excerpt": "Giovedì 26 novembre, alle ore 8.30, presso l'Aula del III piano di Palazzo San Macuto, la Commissio...",
-      "publishedAt": "2026-11-25T00:00:00Z",
-      "dateEvidence": "html:publication-label"
-    },
-    {
-      "title": "Femminicidio, audizioni su violenza e salute - Oggi alle 13.30 diretta webtv",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64481",
-      "excerpt": "Giovedì 26 novembre, alle ore 8.30, presso l'Aula del I piano di Palazzo San Macuto, la Commissione...",
-      "publishedAt": "2026-11-25T00:00:00Z",
-      "dateEvidence": "html:publication-label"
-    },
-    {
-      "title": "Semplificazione amministrativa, audizione Quadri, Presidenza Consiglio",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64482",
-      "excerpt": "Giovedì 26 novembre, alle ore 8.30, presso l'Aula del II piano di Palazzo San Macuto, la Commission...",
-      "publishedAt": "2026-11-25T00:00:00Z",
-      "dateEvidence": "html:publication-label"
-    },
-    {
-      "title": "Emissioni metano, audizione Donazzan",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64483",
-      "excerpt": "Giovedì 26 novembre, alle ore 9, la Commissione Politiche Ue ha svolto l'audizione di Elena Donazza...",
-      "publishedAt": "2026-11-25T00:00:00Z",
-      "dateEvidence": "html:publication-label"
-    },
-    {
-      "title": "Territorio e infrastrutture - Tra visione, pianificazione e sicurezza - Giovedì alle 9.30 diretta webtv - Saluto di Mulè",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64484",
-      "excerpt": "Giovedì 26 novembre, alle ore 9.30, presso l'Aula dei Gruppi parlamentari si svolge il convegno \"Te...",
-      "publishedAt": "2026-11-25T00:00:00Z",
+      "title": "Il volontariato e le pubbliche assistenze - Alle 14.30 diretta webtv - Saluto di Fontana",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64540",
+      "excerpt": "Giovedì 26 novembre, alle ore 14.30, presso la Sala della Regina di Montecitorio si è svolto il co...",
+      "publishedAt": "2026-11-26T00:00:00Z",
       "dateEvidence": "html:publication-label"
     }
   ],
@@ -63,27 +63,27 @@
       "status": 200
     },
     {
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64534",
+      "status": 200
+    },
+    {
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64529",
+      "status": 200
+    },
+    {
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64533",
+      "status": 200
+    },
+    {
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64527",
+      "status": 200
+    },
+    {
       "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64525",
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64480",
-      "status": 200
-    },
-    {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64481",
-      "status": 200
-    },
-    {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64482",
-      "status": 200
-    },
-    {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64483",
-      "status": 200
-    },
-    {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64484",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64540",
       "status": 200
     }
   ],
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://comunicazione.camera.it/archivio-prima-pagina",
-  "durationSeconds": 4.96
+  "durationSeconds": 4.0
 }

@@ -4,12 +4,19 @@
   "sourceId": "libera",
   "originUrl": "https://www.libera.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-26T11:31:36.712846Z",
+  "collectedAt": "2026-11-26T23:21:23.268232Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "html",
   "feedUrl": null,
   "items": [
+    {
+      "title": "Marsiglia, dove l’Europa prova a non lasciare soli i suoi quartieri",
+      "url": "https://www.libera.it/it-schede-2881-marsiglia_dove_l_europa_prova_a_non_lasciare_soli_i_suoi_quartieri",
+      "excerpt": "La seconda edizione del CHANCE Forum, l'incontro annuale della rete europea impegnata contro la criminalità organizzata e la corruzione",
+      "publishedAt": "2026-11-26T00:00:00Z",
+      "dateEvidence": "html:dated-news-card"
+    },
     {
       "title": "Decreto Cortei: «No a norme che colpiscono dissenso e partecipazione.",
       "url": "https://www.libera.it/it-schede-2880-decreto_cortei_no_a_norme_che_colpiscono_studenti_dissenso_e_partecipazione_rimettere_al_centro",
@@ -31,5 +38,5 @@
   "message": "Titoli, link e date di pubblicazione verificati nelle schede ufficiali delle notizie.",
   "datedCount": 4,
   "listingUrl": "https://www.libera.it/",
-  "durationSeconds": 3.05
+  "durationSeconds": 2.26
 }

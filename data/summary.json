@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-26T11:32:18.079691+00:00",
+  "generatedAt": "2026-11-26T23:22:03.351903+00:00",
   "sourceCount": 67,
   "ok": 37,
-  "items": 174,
+  "items": 209,
   "results": [
     {
       "sourceId": "amnesty",
@@ -77,33 +77,33 @@
     },
     {
       "sourceId": "cnr",
-      "status": "ok",
-      "method": "rss",
-      "diagnosticCode": null,
-      "message": "Feed ufficiale letto; date di pubblicazione verificate.",
+      "status": "error",
+      "method": "html",
+      "diagnosticCode": "connection_error",
+      "message": "SSLError",
       "candidateCount": null,
       "datedCount": null,
-      "itemCount": 20
+      "itemCount": 0
     },
     {
       "sourceId": "coldiretti",
       "status": "ok",
       "method": "trafilatura",
       "diagnosticCode": null,
-      "message": "2 notizie recenti con data verificata; copertura parziale.",
+      "message": "1 notizie recenti con data verificata; copertura parziale.",
       "candidateCount": 12,
       "datedCount": 6,
-      "itemCount": 2
+      "itemCount": 1
     },
     {
       "sourceId": "commissione-europea",
-      "status": "ok",
-      "method": "trafilatura",
-      "diagnosticCode": null,
-      "message": "1 notizie recenti con data verificata; copertura parziale.",
-      "candidateCount": 4,
-      "datedCount": 1,
-      "itemCount": 1
+      "status": "blocked",
+      "method": "html",
+      "diagnosticCode": "rate_limited",
+      "message": "HTTP 429: accesso limitato dalla fonte",
+      "candidateCount": null,
+      "datedCount": null,
+      "itemCount": 0
     },
     {
       "sourceId": "comune-bollate",
@@ -161,7 +161,7 @@
       "method": "crawl4ai",
       "diagnosticCode": "parsing_error",
       "message": "Pagina accessibile, ma nessuna notizia con data di pubblicazione verificabile.",
-      "candidateCount": 1,
+      "candidateCount": 2,
       "datedCount": 0,
       "itemCount": 0
     },
@@ -207,13 +207,13 @@
     },
     {
       "sourceId": "emergency",
-      "status": "ok",
-      "method": "trafilatura",
-      "diagnosticCode": null,
-      "message": "1 notizie recenti con data verificata; copertura parziale.",
-      "candidateCount": 8,
-      "datedCount": 2,
-      "itemCount": 1
+      "status": "error",
+      "method": "html",
+      "diagnosticCode": "http_error",
+      "message": "HTTP 415",
+      "candidateCount": null,
+      "datedCount": null,
+      "itemCount": 0
     },
     {
       "sourceId": "eurostat",
@@ -227,13 +227,13 @@
     },
     {
       "sourceId": "factanza",
-      "status": "blocked",
-      "method": "html",
-      "diagnosticCode": "access_restricted",
-      "message": "HTTP 403: accesso limitato dalla fonte",
+      "status": "ok",
+      "method": "rss",
+      "diagnosticCode": null,
+      "message": "Feed ufficiale letto; date di pubblicazione verificate.",
       "candidateCount": null,
       "datedCount": null,
-      "itemCount": 0
+      "itemCount": 2
     },
     {
       "sourceId": "fanpage",
@@ -257,23 +257,23 @@
     },
     {
       "sourceId": "futuro-nazionale",
-      "status": "ok",
-      "method": "rss",
-      "diagnosticCode": null,
-      "message": "Feed dichiarato dalla fonte; date di pubblicazione verificate.",
+      "status": "error",
+      "method": "html",
+      "diagnosticCode": "robots_unavailable",
+      "message": "robots.txt non verificabile",
       "candidateCount": null,
       "datedCount": null,
       "itemCount": 0
     },
     {
       "sourceId": "good-morning-italia",
-      "status": "blocked",
-      "method": "html",
-      "diagnosticCode": "access_restricted",
-      "message": "HTTP 403: accesso limitato dalla fonte",
+      "status": "ok",
+      "method": "rss",
+      "diagnosticCode": null,
+      "message": "Feed ufficiale letto; date di pubblicazione verificate.",
       "candidateCount": null,
       "datedCount": null,
-      "itemCount": 0
+      "itemCount": 2
     },
     {
       "sourceId": "greenpeace",
@@ -400,10 +400,10 @@
       "status": "ok",
       "method": "trafilatura",
       "diagnosticCode": null,
-      "message": "3 notizie recenti con data verificata; copertura parziale.",
-      "candidateCount": 8,
-      "datedCount": 3,
-      "itemCount": 3
+      "message": "4 notizie recenti con data verificata; copertura parziale.",
+      "candidateCount": 9,
+      "datedCount": 4,
+      "itemCount": 4
     },
     {
       "sourceId": "italia-viva",
@@ -443,17 +443,17 @@
       "message": "Titoli, link e date di pubblicazione verificati nelle schede ufficiali delle notizie.",
       "candidateCount": null,
       "datedCount": 4,
-      "itemCount": 1
+      "itemCount": 2
     },
     {
       "sourceId": "mef",
       "status": "ok",
       "method": "trafilatura",
       "diagnosticCode": null,
-      "message": "3 notizie recenti con data verificata; copertura parziale.",
+      "message": "2 notizie recenti con data verificata; copertura parziale.",
       "candidateCount": 11,
       "datedCount": 6,
-      "itemCount": 3
+      "itemCount": 2
     },
     {
       "sourceId": "msf",
@@ -470,10 +470,10 @@
       "status": "ok",
       "method": "trafilatura",
       "diagnosticCode": null,
-      "message": "4 notizie recenti con data verificata; copertura parziale.",
+      "message": "5 notizie recenti con data verificata; copertura parziale.",
       "candidateCount": 12,
       "datedCount": 6,
-      "itemCount": 4
+      "itemCount": 5
     },
     {
       "sourceId": "oxfam",
@@ -527,10 +527,10 @@
     },
     {
       "sourceId": "patt",
-      "status": "ok",
-      "method": "rss",
-      "diagnosticCode": null,
-      "message": "Feed dichiarato dalla fonte; date di pubblicazione verificate.",
+      "status": "error",
+      "method": "html",
+      "diagnosticCode": "http_error",
+      "message": "HTTP 415",
       "candidateCount": null,
       "datedCount": null,
       "itemCount": 0
@@ -547,10 +547,10 @@
     },
     {
       "sourceId": "pillole-economia",
-      "status": "blocked",
-      "method": "html",
-      "diagnosticCode": "access_restricted",
-      "message": "HTTP 403: accesso limitato dalla fonte",
+      "status": "ok",
+      "method": "rss",
+      "diagnosticCode": null,
+      "message": "Feed ufficiale letto; date di pubblicazione verificate.",
       "candidateCount": null,
       "datedCount": null,
       "itemCount": 0
@@ -590,30 +590,30 @@
       "status": "blocked",
       "method": "html",
       "diagnosticCode": "access_restricted",
-      "message": "Browser HTTP 403",
-      "candidateCount": 12,
-      "datedCount": 0,
+      "message": "HTTP 403: accesso limitato dalla fonte",
+      "candidateCount": null,
+      "datedCount": null,
       "itemCount": 0
     },
     {
       "sourceId": "rassegnally",
-      "status": "blocked",
-      "method": "html",
-      "diagnosticCode": "access_restricted",
-      "message": "HTTP 403: accesso limitato dalla fonte",
+      "status": "ok",
+      "method": "rss",
+      "diagnosticCode": null,
+      "message": "Feed ufficiale letto; date di pubblicazione verificate.",
       "candidateCount": null,
       "datedCount": null,
-      "itemCount": 0
+      "itemCount": 12
     },
     {
       "sourceId": "regione-lombardia",
-      "status": "blocked",
-      "method": "html",
-      "diagnosticCode": "access_restricted",
-      "message": "HTTP 403: accesso limitato dalla fonte",
+      "status": "ok",
+      "method": "rss",
+      "diagnosticCode": null,
+      "message": "Feed dichiarato dalla fonte; date di pubblicazione verificate.",
       "candidateCount": null,
       "datedCount": null,
-      "itemCount": 0
+      "itemCount": 40
     },
     {
       "sourceId": "reuters",
