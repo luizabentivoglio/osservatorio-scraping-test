@@ -4,12 +4,33 @@
   "sourceId": "istat",
   "originUrl": "https://www.istat.it/",
   "configuredFeedUrl": "https://www.istat.it/feed/",
-  "collectedAt": "2026-11-25T23:21:52.864796Z",
+  "collectedAt": "2026-11-26T11:31:31.263285Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.istat.it/feed/",
   "items": [
+    {
+      "title": "Conti fisici dell’ambiente – I conti delle emissioni atmosferiche (AEA) – Anni 2008-2025",
+      "url": "https://www.istat.it/sistema-informativo-6/conti-fisici-dellambiente-i-conti-delle-emissioni-atmosferiche-aea-anni-2008-2025/",
+      "excerpt": "Disponibili l’aggiornamento al 2024 della serie storica dei Conti delle emissioni atmosferiche (AEA) e la prima stima delle emissioni di gas climalteranti per attività economica per l’anno 2025",
+      "publishedAt": "2026-11-26T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Profili economici e finanziari dei piccoli comuni: un’analisi esplorativa multivariata dei principali indicatori statistici",
+      "url": "https://www.istat.it/produzione-editoriale/profili-economici-e-finanziari-dei-piccoli-comuni-unanalisi-esplorativa-multivariata-dei-principali-indicatori-statistici/",
+      "excerpt": "Profili economici e finanziari dei piccoli comuni: un’analisi esplorativa multivariata dei principali indicatori statistici",
+      "publishedAt": "2026-11-26T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Il numero di pubblica utilità 1522: chi chiama, perché e cosa racconta. Primi tre trimestri 2026",
+      "url": "https://www.istat.it/tavole-di-dati/il-numero-di-pubblica-utilita-1522-chi-chiama-perche-e-cosa-racconta-primi-tre-trimestri-2026/",
+      "excerpt": "Nei primi tre trimestri del 2026 le vittime che si rivolgono al 1522 sono 16.809. Diminuiscono ulteriormente le chiamate non valide, che scendono al 5% del totale.",
+      "publishedAt": "2026-11-26T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "La violenza sulle donne: nuovi dati Istat – Novembre 2026",
       "url": "https://www.istat.it/notizia/la-violenza-sulle-donne-nuovi-dati-istat-novembre-2026/",
@@ -58,27 +79,6 @@
       "excerpt": "Online l'aggiornamento del sistema informativo territoriale",
       "publishedAt": "2026-11-23T00:00:00Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "#IstatNewsletter",
-      "url": "https://www.istat.it/newsletter/online-istatnewsletter-la-newsletter-dellistat/",
-      "excerpt": "Online il numero 43 del 2026. Lascia la tua email e riceverai ogni lunedì tutti gli aggiornamenti del sito Istat",
-      "publishedAt": "2026-11-23T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "CIG BC512A73AA – Percorso formativo di sviluppo delle competenze sul benessere",
-      "url": "https://www.istat.it/bando-di-gara/cig-bc512a73aa-percorso-formativo-di-sviluppo-delle-competenze-sul-benessere/",
-      "excerpt": "Online la delibera di affidamento",
-      "publishedAt": "2026-11-23T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Flussi turistici – III trimestre 2026",
-      "url": "https://www.istat.it/comunicato-stampa/flussi-turistici-iii-trimestre-2026/",
-      "excerpt": "Nel terzo trimestre 2026 gli esercizi ricettivi in Italia hanno registrato più di 60 milioni di arrivi e 249 milioni di presenze",
-      "publishedAt": "2026-11-23T00:00:00Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -92,5 +92,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 3.18
+  "durationSeconds": 3.02
 }

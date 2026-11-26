@@ -4,31 +4,31 @@
   "sourceId": "istituto-bruno-leoni",
   "originUrl": "https://www.brunoleoni.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-25T23:21:54.435749Z",
+  "collectedAt": "2026-11-26T11:31:33.481258Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
+      "title": "Guido Piovene, il conservatore che non aveva niente da conservare",
+      "url": "https://www.brunoleoni.it/guido-piovene-il-conservatore-che-non-aveva-niente-da-conservare/",
+      "excerpt": "Torna «Idoli e ragione», un manuale contro i dogmi di ieri che sembra scritto per quelli di oggi",
+      "publishedAt": "2026-11-26T09:13:50Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "Nuovi dazi di Trump ma è presto per tremare",
+      "url": "https://www.brunoleoni.it/nuovi-dazi-di-trump-ma-e-presto-per-tremare/",
+      "excerpt": "Washington vara nuove tariffe nei confronti di Cina, Europa e altri 12 Paesi. Bruxelles traccia la sua linea rossa",
+      "publishedAt": "2026-11-26T09:12:10Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
       "title": "La patrimoniale in Italia c’è già",
       "url": "https://www.brunoleoni.it/la-patrimoniale-in-italia-ce-gia/",
       "excerpt": "Intervista a Nicola Rossi. Il problema dell’Italia è che cresce poco",
       "publishedAt": "2026-11-25T15:51:32Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "L’ergastolo come deterrente non riduce i femminicidi",
-      "url": "https://www.brunoleoni.it/lergastolo-come-deterrente-non-riduce-i-femminicidi/",
-      "excerpt": "La sfida? Fuori dal codice penale",
-      "publishedAt": "2026-11-25T15:51:11Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Un payback sui farmaci che frena l’innovazione",
-      "url": "https://www.brunoleoni.it/un-payback-sui-farmaci-che-frena-linnovazione/",
-      "excerpt": "Se non eliminato del tutto, il payback andrebbe almeno reso meno gravoso, più prevedibile e più selettivo",
-      "publishedAt": "2026-11-25T07:19:16Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
@@ -68,15 +68,15 @@
       "status": 200
     },
     {
+      "url": "https://www.brunoleoni.it/guido-piovene-il-conservatore-che-non-aveva-niente-da-conservare/",
+      "status": 200
+    },
+    {
+      "url": "https://www.brunoleoni.it/nuovi-dazi-di-trump-ma-e-presto-per-tremare/",
+      "status": 200
+    },
+    {
       "url": "https://www.brunoleoni.it/la-patrimoniale-in-italia-ce-gia/",
-      "status": 200
-    },
-    {
-      "url": "https://www.brunoleoni.it/lergastolo-come-deterrente-non-riduce-i-femminicidi/",
-      "status": 200
-    },
-    {
-      "url": "https://www.brunoleoni.it/un-payback-sui-farmaci-che-frena-linnovazione/",
       "status": 200
     }
   ],
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 5,
   "listingUrl": "https://www.brunoleoni.it/",
-  "durationSeconds": 6.07
+  "durationSeconds": 5.87
 }

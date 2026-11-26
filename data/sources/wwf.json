@@ -4,12 +4,19 @@
   "sourceId": "wwf",
   "originUrl": "https://www.wwf.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-25T23:22:25.360048Z",
+  "collectedAt": "2026-11-26T11:32:12.455605Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "Accordo fra WWF e dipartimento One Health del Ministero della Salute",
+      "url": "https://www.wwf.it/pandanews/ambiente/accordo-fra-wwf-e-dipartimento-one-health-del-ministero-della-salute/",
+      "excerpt": "Un'intesa triennale per promuovere la conoscenza del legame tra biodiversità e salute, informare e favorire scelte alimentari consapevoli",
+      "publishedAt": "2026-11-26T08:53:26Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
     {
       "title": "Black friday, il WWF accende i riflettori sul black trade",
       "url": "https://www.wwf.it/pandanews/animali/black-friday-wwf-denuncia-black-trade/",
@@ -44,13 +51,6 @@
       "excerpt": "L'appuntamento è stato spostato in Piazza dei Santi Apostoli. Attesi anche esponenti del mondo della cultura e delle istituzioni",
       "publishedAt": "2026-11-22T13:08:35Z",
       "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "C’era una volta una seppiolina",
-      "url": "https://www.wwf.it/pandanews/animali/cera-una-volta-una-seppiolina/",
-      "excerpt": "Per deporre le uova, le seppie cercano superfici adatte. In mare, però, trovano sempre più spesso qualcosa di diverso: come nasse e cogolli",
-      "publishedAt": "2026-11-21T08:00:00Z",
-      "dateEvidence": "jsonld:datePublished"
     }
   ],
   "attempts": [
@@ -60,6 +60,10 @@
     },
     {
       "url": "https://www.wwf.it/",
+      "status": 200
+    },
+    {
+      "url": "https://www.wwf.it/pandanews/ambiente/accordo-fra-wwf-e-dipartimento-one-health-del-ministero-della-salute/",
       "status": 200
     },
     {
@@ -81,10 +85,6 @@
     {
       "url": "https://www.wwf.it/pandanews/animali/caccia-26-novembre-mobilitazione/",
       "status": 200
-    },
-    {
-      "url": "https://www.wwf.it/pandanews/animali/cera-una-volta-una-seppiolina/",
-      "status": 200
     }
   ],
   "message": "6 notizie recenti con data verificata; copertura parziale.",
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.wwf.it/",
-  "durationSeconds": 6.81
+  "durationSeconds": 5.62
 }

@@ -4,7 +4,7 @@
   "sourceId": "confindustria",
   "originUrl": "https://www.confindustria.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-25T23:21:22.861333Z",
+  "collectedAt": "2026-11-26T11:31:03.514137Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -22,13 +22,6 @@
       "url": "https://www.confindustria.it/comunicati-stampa/dl-scuola-somma-confindustria-difendere-la-lettura-e-gli-investimenti-delleditoria-italiana",
       "excerpt": "Roma, 18 novembre 2026 – “C’è una contraddizione profonda, prima ancora che economica, nell’emendamento sui libri di testo scolastici e universitari. Da una parte cerchiamo, giustamente, di proteggere i minori dall’uso eccessivo dei social e dall’esposizione continua agli schermi. Dall’altra introduciamo una misura che",
       "publishedAt": "2026-11-18T00:00:00Z",
-      "dateEvidence": "html:press-release-header"
-    },
-    {
-      "title": "INTESA IMPRESE-SINDACATI, MARCHESINI (CONFINDUSTRIA): “UN RISULTATO DI GRANDE RESPONSABILITÀ, RAFFORZIAMO CONTRATTAZIONE E RELAZIONI INDUSTRIALI”",
-      "url": "https://www.confindustria.it/comunicati-stampa/intesa-imprese-sindacati-marchesini-confindustria-un-risultato-di-grande-responsabilita-rafforziamo-contrattazione-e-relazioni-industriali",
-      "excerpt": "Roma, 12 novembre 2026 – “L’intesa sull’Accordo quadro è un risultato di grande responsabilità, maturato al termine di un confronto lungo e complesso, che conferma la capacità delle parti sociali di trovare autonomamente soluzioni condivise sulle grandi questioni del lavoro”, ha dichiarato Maurizio Marchesini, Vice Pre",
-      "publishedAt": "2026-11-12T00:00:00Z",
       "dateEvidence": "html:press-release-header"
     }
   ],
@@ -66,10 +59,10 @@
       "status": 200
     }
   ],
-  "message": "3 notizie recenti con data verificata; copertura parziale.",
+  "message": "2 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [],
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.confindustria.it/comunicati-stampa",
-  "durationSeconds": 3.99
+  "durationSeconds": 3.77
 }

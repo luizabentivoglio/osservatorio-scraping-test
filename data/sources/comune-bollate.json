@@ -4,7 +4,7 @@
   "sourceId": "comune-bollate",
   "originUrl": "https://comune.bollate.mi.it/it/news",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-25T23:21:21.773671Z",
+  "collectedAt": "2026-11-26T11:30:59.990267Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -15,6 +15,13 @@
       "url": "https://comune.bollate.mi.it/it/news/convocazione-consiglio-comunale-2090449",
       "excerpt": "Sito ufficiale Comune di Bollate",
       "publishedAt": "2026-11-25T00:00:00Z",
+      "dateEvidence": "html:news-date-label"
+    },
+    {
+      "title": "Il Consiglio Comunale delle Ragazze e dei Ragazzi si rinnova",
+      "url": "https://comune.bollate.mi.it/it/news/consiglio-ragazzi-2089302",
+      "excerpt": "Sito ufficiale Comune di Bollate",
+      "publishedAt": "2026-11-23T00:00:00Z",
       "dateEvidence": "html:news-date-label"
     },
     {
@@ -32,10 +39,10 @@
       "dateEvidence": "html:news-date-label"
     },
     {
-      "title": "TARI 2026: promemoria scadenza",
-      "url": "https://comune.bollate.mi.it/it/news/tari-2026-promemoria-scadenza",
+      "title": "Nuova sede per lo sportello per l’inclusione lavorativa",
+      "url": "https://comune.bollate.mi.it/it/news/inverso",
       "excerpt": "Sito ufficiale Comune di Bollate",
-      "publishedAt": "2026-11-12T00:00:00Z",
+      "publishedAt": "2026-11-16T00:00:00Z",
       "dateEvidence": "html:news-date-label"
     }
   ],
@@ -54,7 +61,7 @@
     },
     {
       "url": "https://comune.bollate.mi.it/it/news/consiglio-ragazzi-2089302",
-      "status": 410
+      "status": 200
     },
     {
       "url": "https://comune.bollate.mi.it/it/news/censimento-2044015-2059439-2088777",
@@ -66,27 +73,17 @@
     },
     {
       "url": "https://comune.bollate.mi.it/it/news/inverso",
-      "status": 504
+      "status": 200
     },
     {
       "url": "https://comune.bollate.mi.it/it/news/tari-2026-promemoria-scadenza",
       "status": 200
     }
   ],
-  "message": "4 notizie recenti con data verificata; copertura parziale.",
+  "message": "5 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [],
   "candidateCount": 12,
-  "datedCount": 4,
+  "datedCount": 6,
   "listingUrl": "https://comune.bollate.mi.it/it/news",
-  "durationSeconds": 5.55,
-  "attemptErrors": [
-    {
-      "url": "https://comune.bollate.mi.it/it/news/consiglio-ragazzi-2089302",
-      "code": "invalid_url"
-    },
-    {
-      "url": "https://comune.bollate.mi.it/it/news/inverso",
-      "code": "http_error"
-    }
-  ]
+  "durationSeconds": 4.79
 }

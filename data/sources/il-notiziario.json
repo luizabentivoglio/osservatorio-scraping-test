@@ -4,12 +4,68 @@
   "sourceId": "il-notiziario",
   "originUrl": "https://www.ilnotiziario.net/",
   "configuredFeedUrl": "https://www.ilnotiziario.net/feed/",
-  "collectedAt": "2026-11-25T23:21:53.765512Z",
+  "collectedAt": "2026-11-26T11:31:31.875354Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.ilnotiziario.net/feed/",
   "items": [
+    {
+      "title": "Milano, vandalizzata la campagna del Niguarda contro la violenza sulle donne",
+      "url": "https://www.ilnotiziario.net/milano-vandalizzata-la-campagna-del-niguarda-contro-la-violenza-sulle-donne/",
+      "excerpt": "Milano, vandalizzata la campagna del Niguarda contro la violenza sulle donne È durata meno di 24 ore l’installazione...",
+      "publishedAt": "2026-11-26T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Milano, minacce all’ex compagna durante un viaggio in treno, arrestato un 44enne",
+      "url": "https://www.ilnotiziario.net/milano-minacce-allex-compagna-durante-un-viaggio-in-treno-arrestato-un-44enne/",
+      "excerpt": "Milano, minacce all’ex compagna durante un viaggio in treno, arrestato un 44enne Una telefonata dai toni minacciosi a bordo...",
+      "publishedAt": "2026-11-26T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Rho: Natale e San Silvestro sul ghiaccio con la pista di pattinaggio",
+      "url": "https://www.ilnotiziario.net/natale-e-san-silvestro-sul-ghiaccio-con-la-pista-di-pattinaggio/",
+      "excerpt": "Lo scorso anno la novità era legata ai Giochi Olimpici Invernali Milano Cortina 2026 e alla presenza dei cerchi olimpici....",
+      "publishedAt": "2026-11-26T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Milano, anziana morta nell’incendio in casa, arrestato 52enne per omicidio",
+      "url": "https://www.ilnotiziario.net/milano-anziana-morta-nellincendio-in-casa-arrestato-52enne-per-omicidio/",
+      "excerpt": "Milano, anziana morta nell’incendio in casa, arrestato 52enne per omicidio Un incendio divampato in un appartamento ha...",
+      "publishedAt": "2026-11-26T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Senago, Casa di Comunità Giulia e Thiago Tramontano, le interviste – VIDEO",
+      "url": "https://www.ilnotiziario.net/senago-casa-di-comunita-giulia-e-thiago-tramontano-le-interviste-video/",
+      "excerpt": "All’inaugurazione della Casa di Comunità di Senago il dg Marco Bosio, l’assessore regionale Guido Bertolaso e il vicepresidente...",
+      "publishedAt": "2026-11-26T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Sicurezza ferroviaria a Saronno, la sindaca: «L’obiettivo è garantire una presenza stabile della Polfer»",
+      "url": "https://www.ilnotiziario.net/sicurezza-ferroviaria-a-saronno-la-sindaca-lobiettivo-e-garantire-una-presenza-stabile-della-polfer/",
+      "excerpt": "Sicurezza ferroviaria a Saronno, la sindaca: «L’obiettivo è garantire una presenza stabile della Polfer» La sicurezza della...",
+      "publishedAt": "2026-11-26T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Foglie e marciapiedi scivolosi, Saronno corre ai ripari, rafforzata la pulizia autunnale",
+      "url": "https://www.ilnotiziario.net/foglie-e-marciapiedi-scivolosi-saronno-corre-ai-ripari-rafforzata-la-pulizia-autunnale/",
+      "excerpt": "Foglie e marciapiedi scivolosi, Saronno corre ai ripari, rafforzata la pulizia autunnale L’autunno porta colore nei viali...",
+      "publishedAt": "2026-11-26T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Incidente sulla Varesina tra Bollate e Arese, 4 feriti e traffico in tilt",
+      "url": "https://www.ilnotiziario.net/incidente-sulla-varesina-tra-bollate-e-arese-4-feriti-e-traffico-in-tilt/",
+      "excerpt": "Un incidente sulla Varesina tra Bollate e Arese ha provocato 4 feriti e causato gravissimi disagi al traffico dei pendolari....",
+      "publishedAt": "2026-11-26T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "Casa di Comunità di Senago dedicata a Giulia Tramontano, “un significato che va oltre il ricordo” – VIDEO",
       "url": "https://www.ilnotiziario.net/casa-di-comunita-di-senago-dedicata-a-giulia-tramontano-i-genitori-ha-un-significato-che-va-oltre-il-ricordo/",
@@ -58,62 +114,6 @@
       "excerpt": "Combattente mercenario in Ucraina con arsenale da guerra in casa, divieto di espatrio per un brianzolo Un 45enne residente in...",
       "publishedAt": "2026-11-25T00:00:00Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Sassi contro l’auto da una baby gang tra Saronno e Gerenzano, la denuncia di una donna",
-      "url": "https://www.ilnotiziario.net/sassi-contro-lauto-da-una-baby-gang-tra-saronno-e-gerenzano-la-denuncia-di-una-donna/",
-      "excerpt": "Sassi contro l’auto da una baby gang tra Saronno e Gerenzano, la denuncia di una donna Un episodio di inciviltà e violenza...",
-      "publishedAt": "2026-11-25T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Saronno, venti vie coinvolte nella campagna contro la violenza sulle donne, ecco l’iniziativa",
-      "url": "https://www.ilnotiziario.net/saronno-venti-vie-coinvolte-nella-campagna-contro-la-violenza-sulle-donne-ecco-liniziativa/",
-      "excerpt": "Saronno, venti vie coinvolte nella campagna contro la violenza sulle donne, ecco l’iniziativa A Saronno la prevenzione...",
-      "publishedAt": "2026-11-25T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "A Bollate, la celebrazione della Virgo Fidelis con l’Associazione nazionale carabinieri",
-      "url": "https://www.ilnotiziario.net/a-bollate-la-celebrazione-della-virgo-fidelis-con-lassociazione-nazionale-carabinieri/",
-      "excerpt": "Nella chiesa parrocchiale di San Martino a Bollate, si è celebrata sabato la messa dedicata alla Virgo Fidelis, patrona dell’Arma...",
-      "publishedAt": "2026-11-25T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Logistica e poli produttivi: la manutenzione continua che sostiene il tessuto economico locale",
-      "url": "https://www.ilnotiziario.net/logistica-e-poli-produttivi-la-manutenzione-continua-che-sostiene-il-tessuto-economico-locale/",
-      "excerpt": "La manutenzione dei poli logistici e produttivi rappresenta un elemento fondamentale per garantire la continuità delle attività...",
-      "publishedAt": "2026-11-25T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Milano, Torre Branca in rosso contro la violenza sulle donne: l’iniziativa del fotografo di Bollate Roman Conte",
-      "url": "https://www.ilnotiziario.net/milano-torre-branca-in-rosso-contro-la-violenza-sulle-donne-liniziativa-del-fotografo-di-bollate-roman-conte/",
-      "excerpt": "A Milano la Torre Branca in rosso contro la violenza sulle donne per iniziativa del fotografo di Bollate, Roman Conte. Un simbolo...",
-      "publishedAt": "2026-11-25T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Nerviano: Accoltellato entra in un bar per chiedere aiuto",
-      "url": "https://www.ilnotiziario.net/nerviano-accoltellato-entra-in-un-bar-per-chiedere-aiuto/",
-      "excerpt": "Ferito con una coltellata entra in un bar per chiedere aiuto e viene soccorso, prima dai gestori del locale e successivamente...",
-      "publishedAt": "2026-11-25T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Sicurezza nelle stazioni, Ferrovienord mette le telecamere a disposizione dei comuni, Cormano e Cusano tra i primi",
-      "url": "https://www.ilnotiziario.net/sicurezza-nelle-stazioni-ferrovienord-mette-le-telecamere-a-disposizione-dei-comuni-cormano-e-cusano-tra-i-primi/",
-      "excerpt": "Cormano e Cusano Milanino figurano tra le prime quindici realtà territoriali che, tramite una convenzione con Ferrovie, ottengono...",
-      "publishedAt": "2026-11-24T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Incidente sulla Comasina a Cormano: auto finisce sui binari, ferita una donna",
-      "url": "https://www.ilnotiziario.net/incidente-sulla-comasina-a-cormano-auto-finisce-sui-binari-ferita-una-donna-di-37-anni/",
-      "excerpt": "Incidente in Comasina a Cormano, auto sui binari, donna 37enne ferita. Pomeriggio di traffico difficile e disagi lungo la strada...",
-      "publishedAt": "2026-11-24T00:00:00Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -127,5 +127,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 1.9
+  "durationSeconds": 1.6
 }

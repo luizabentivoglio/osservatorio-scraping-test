@@ -4,12 +4,20 @@
   "sourceId": "svp",
   "originUrl": "https://www.svp.eu/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-25T23:22:24.529599Z",
+  "collectedAt": "2026-11-26T11:32:07.669639Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
-  "items": [],
+  "items": [
+    {
+      "title": "SVP-Ortsausschüsse als „Seismographen“ der...",
+      "url": "https://www.svp.eu/de/svp-ortsausschuesse-als-seismographen-der-suedtiroler-gesellschaft--1-5509.html",
+      "excerpt": "Mit einer Wahlbeteiligung von 63 Prozent haben die Mitglieder der Südtiroler Volkspartei ein starkes Zeichen gesetzt. Die Neuwahl der Ortsausschüsse unterstreicht, wie tief die Partei in der Bevölkerung verwurzelt ist und wie lebendig ihre Basis ist.",
+      "publishedAt": "2026-11-25T00:00:00Z",
+      "dateEvidence": "html:publication-time"
+    }
+  ],
   "attempts": [
     {
       "url": "https://www.svp.eu/robots.txt",
@@ -48,11 +56,11 @@
       "status": 200
     },
     {
-      "url": "https://www.svp.eu/de/stauder-haende-weg-von-unseren-traditionen--1-5473.html",
+      "url": "https://www.svp.eu/de/svp-ortsausschuesse-als-seismographen-der-suedtiroler-gesellschaft--1-5509.html",
       "status": 200
     }
   ],
-  "message": "0 notizie recenti con data verificata; copertura parziale.",
+  "message": "1 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [
     {
       "url": "https://www.svp.eu/de/partei/organisation-943.html",
@@ -88,5 +96,5 @@
   "candidateCount": 12,
   "datedCount": 1,
   "listingUrl": "https://www.svp.eu/de/wilkommen-bei-uns-1.html",
-  "durationSeconds": 4.72
+  "durationSeconds": 4.78
 }

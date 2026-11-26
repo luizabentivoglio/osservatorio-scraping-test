@@ -4,12 +4,26 @@
   "sourceId": "palazzo-chigi",
   "originUrl": "https://www.governo.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-25T23:22:07.360193Z",
+  "collectedAt": "2026-11-26T11:31:47.402511Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.governo.it/feed/rss",
   "items": [
+    {
+      "title": "Riunione dei Leader del gruppo “Amici della Coesione”",
+      "url": "https://www.governo.it/it/articolo/riunione-dei-leader-del-gruppo-amici-della-coesione-nota-di-palazzo-chigi/33193",
+      "excerpt": "Il Presidente del Consiglio, Giorgia Meloni, e il Presidente della Romania, Nicușor Dan, hanno co-presieduto questa mattina a Bruxelles, prima dell’avvio dei lavori del Consiglio europeo straordinario, una nuova riunione dei Leader del gruppo “Amici della Coesione”, dedicata al negoziato sul Quadro finanziario plurienn",
+      "publishedAt": "2026-11-26T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Riunione straordinaria del Consiglio europeo",
+      "url": "https://www.governo.it/it/articolo/riunione-straordinaria-del-consiglio-europeo/33191",
+      "excerpt": "Il Presidente del Consiglio, Giorgia Meloni, è a Bruxelles per parteciapre alla riunione straordinaria del Consiglio europeo. Questa mattina a margine dei lavori il Presidente ha tenuto un punto stampa.",
+      "publishedAt": "2026-11-26T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "Comunicato stampa del Consiglio dei Ministri n. 200",
       "url": "https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-200/33190",
@@ -65,20 +79,6 @@
       "excerpt": "Piena solidarietà dell'Italia alla Danimarca e alla Polonia. Le Autorità di Copenaghen hanno attribuito ieri ai servizi di intelligence russi il tentato omicidio sul territorio danese di un cittadino ucraino-americano. Lo spazio aereo polacco è stato violato da missili e da un drone durante il massiccio attacco russo c",
       "publishedAt": "2026-11-21T00:00:00Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Dichiarazione del Presidente Meloni",
-      "url": "https://www.governo.it/it/articolo/dichiarazione-del-presidente-meloni/33168",
-      "excerpt": "Sono profondamente scioccata dalla tragica scomparsa di Gianni De Gennaro. Esprimo il mio cordoglio e la mia vicinanza al fratello, Comandante Generale della Guardia di Finanza, e a tutti i familiari in questo momento di dolore.",
-      "publishedAt": "2026-11-21T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Il Presidente Meloni alla riapertura del Teatro Comunale dell’Aquila “Nazzareno De Angelis”",
-      "url": "https://www.governo.it/it/articolo/il-presidente-meloni-alla-riapertura-del-teatro-comunale-dell-aquila-nazzareno-de-angelis",
-      "excerpt": "Il Presidente del Consiglio, Giorgia Meloni, ha presenziato oggi alla prima ufficiale de “La Traviata” di Giuseppe Verdi, in occasione della riapertura del Teatro Comunale dell’Aquila.",
-      "publishedAt": "2026-11-20T00:00:00Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -100,5 +100,5 @@
     }
   ],
   "message": "Feed dichiarato dalla fonte; date di pubblicazione verificate.",
-  "durationSeconds": 30.13
+  "durationSeconds": 30.16
 }

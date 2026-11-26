@@ -4,7 +4,7 @@
   "sourceId": "quirinale",
   "originUrl": "https://www.quirinale.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-25T23:22:18.186781Z",
+  "collectedAt": "2026-11-26T11:32:00.443183Z",
   "status": "blocked",
   "diagnosticCode": "access_restricted",
   "method": "html",
@@ -42,9 +42,13 @@
     {
       "url": "https://www.quirinale.it/it/notizie/nostra-repubblica-compie-ottant-anni-1",
       "status": 200
+    },
+    {
+      "url": "https://www.quirinale.it/it/notizie/mattarella-43esima-assemblea-anci-veronafiere",
+      "status": 200
     }
   ],
-  "message": "Verifica interattiva richiesta",
+  "message": "Browser HTTP 403",
   "candidateSamples": [
     {
       "url": "https://www.quirinale.it/it/notizie/mattarella-43esima-assemblea-anci-veronafiere",
@@ -228,5 +232,5 @@
   "candidateCount": 12,
   "datedCount": 0,
   "listingUrl": "https://www.quirinale.it/",
-  "durationSeconds": 3.8
+  "durationSeconds": 3.95
 }

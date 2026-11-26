@@ -4,17 +4,17 @@
   "sourceId": "breaking-italy",
   "originUrl": "https://breakingitaly.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-25T23:21:15.328012Z",
+  "collectedAt": "2026-11-26T11:30:54.017445Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
-      "title": "Donald Trump e i guadagni dalle azioni di Nvidia, ci risiamo",
-      "url": "https://breakingitaly.it/newsletter/donald-trump-e-i-guadagni-dalle-azioni-di-nvidia-ci-risiamo",
-      "excerpt": "Donald Trump e i guadagni dalle azioni di Nvidia, ci risiamo",
-      "publishedAt": "2026-11-25T00:00:00Z",
+      "title": "La lettera d’addio di De Gennaro è stata resa pubblica",
+      "url": "https://breakingitaly.it/newsletter/la-lettera-daddio-di-de-gennaro-e-stata-resa-pubblica",
+      "excerpt": "La lettera d’addio di De Gennaro è stata resa pubblica",
+      "publishedAt": "2026-11-26T00:00:00Z",
       "dateEvidence": "html:newsletter-publication"
     }
   ],
@@ -32,7 +32,7 @@
       "status": 200
     },
     {
-      "url": "https://breakingitaly.it/newsletter/donald-trump-e-i-guadagni-dalle-azioni-di-nvidia-ci-risiamo",
+      "url": "https://breakingitaly.it/newsletter/la-lettera-daddio-di-de-gennaro-e-stata-resa-pubblica",
       "status": 200
     },
     {
@@ -96,5 +96,5 @@
   "candidateCount": 12,
   "datedCount": 1,
   "listingUrl": "https://breakingitaly.it/",
-  "durationSeconds": 5.31
+  "durationSeconds": 5.26
 }
