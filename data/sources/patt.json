@@ -4,7 +4,7 @@
   "sourceId": "patt",
   "originUrl": "https://patt.tn.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-26T23:21:31.358600Z",
+  "collectedAt": "2026-11-27T11:28:03.023347Z",
   "status": "error",
   "diagnosticCode": "http_error",
   "method": "html",
@@ -19,5 +19,5 @@
   "message": "HTTP 415",
   "httpStatus": 415,
   "failedUrl": "https://patt.tn.it/robots.txt",
-  "durationSeconds": 0.83
+  "durationSeconds": 0.69
 }

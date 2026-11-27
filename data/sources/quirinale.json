@@ -4,7 +4,7 @@
   "sourceId": "quirinale",
   "originUrl": "https://www.quirinale.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-26T23:21:48.397765Z",
+  "collectedAt": "2026-11-27T11:28:14.226513Z",
   "status": "blocked",
   "diagnosticCode": "access_restricted",
   "method": "html",
@@ -13,11 +13,268 @@
   "attempts": [
     {
       "url": "https://www.quirinale.it/robots.txt",
-      "status": 403
+      "status": 404
+    },
+    {
+      "url": "https://www.quirinale.it/",
+      "status": 200
+    },
+    {
+      "url": "https://www.quirinale.it/it/notizie/presentato-mattarella-libro-bianco-ricerca-1",
+      "status": 200
+    },
+    {
+      "url": "https://www.quirinale.it/it/notizie/mattarella-promulga-legge-recante-misure-consolidamento-sviluppo-settore-agricolo-invia-lettera-presidenti-camere-presidente-consiglio-ministri",
+      "status": 200
+    },
+    {
+      "url": "https://www.quirinale.it/it/notizie/mattarella-ha-ricevuto-gino-cecchettin-presidente-fondazione-giulia-cecchettin",
+      "status": 200
+    },
+    {
+      "url": "https://www.quirinale.it/it/notizie/mattarella-partita-pallacanestro-italia-turchia",
+      "status": 200
+    },
+    {
+      "url": "https://www.quirinale.it/it/notizie/mattarella-inaugurazione-anno-accademico-2026-2027-pontificia-universita-lateranense",
+      "status": 200
+    },
+    {
+      "url": "https://www.quirinale.it/it/notizie/nostra-repubblica-compie-ottant-anni-1",
+      "status": 200
     }
   ],
-  "message": "HTTP 403: accesso limitato dalla fonte",
-  "httpStatus": 403,
-  "failedUrl": "https://www.quirinale.it/robots.txt",
-  "durationSeconds": 0.47
+  "message": "Verifica interattiva richiesta",
+  "candidateSamples": [
+    {
+      "url": "https://www.quirinale.it/it/notizie/presentato-mattarella-libro-bianco-ricerca-1",
+      "title": "Presentato a Mattarella il Libro Bianco sulla Ricerca Il Presidente della Repubblica, Sergio Mattarella, in occasione della presentazione del Libro Bianco sulla Ricerca, ha ricevuto al Quirinale una delegazione guidata dalla Vice Presidente del Senato, Maria Domenica Castellone.",
+      "h1": "Presentato a Mattarella il Libro Bianco sulla Ricerca",
+      "dates": [
+        {
+          "tag": "span",
+          "class": [
+            "data-luogo"
+          ],
+          "text": "Palazzo del Quirinale, 27/11/2026 (II mandato)",
+          "datetime": null
+        },
+        {
+          "tag": "span",
+          "class": [
+            "data-luogo"
+          ],
+          "text": "Palazzo del Quirinale, 27/11/2026 (II mandato)",
+          "datetime": null
+        },
+        {
+          "tag": "span",
+          "class": [
+            "data-luogo"
+          ],
+          "text": "Palazzo del Quirinale, 27/11/2026 (II mandato)",
+          "datetime": null
+        },
+        {
+          "tag": "span",
+          "class": [
+            "data-luogo"
+          ],
+          "text": "Palazzo del Quirinale, 27/11/2026 (II mandato)",
+          "datetime": null
+        },
+        {
+          "tag": "span",
+          "class": [
+            "data-luogo"
+          ],
+          "text": "Palazzo del Quirinale, 27/11/2026 (II mandato)",
+          "datetime": null
+        },
+        {
+          "tag": "span",
+          "class": [
+            "data-luogo"
+          ],
+          "text": "Palazzo del Quirinale, 27/11/2026 (II mandato)",
+          "datetime": null
+        },
+        {
+          "tag": "p",
+          "class": [
+            "date-label"
+          ],
+          "text": "Roma, 27/11/2026 (II mandato)",
+          "datetime": null
+        }
+      ]
+    },
+    {
+      "url": "https://www.quirinale.it/it/notizie/mattarella-promulga-legge-recante-misure-consolidamento-sviluppo-settore-agricolo-invia-lettera-presidenti-camere-presidente-consiglio-ministri",
+      "title": "discorso scrivania",
+      "h1": "Mattarella promulga la legge recante “Misure di consolidamento e sviluppo del settore agricolo” e invia una lettera ai Presidenti delle Camere e al Pr",
+      "dates": [
+        {
+          "tag": "p",
+          "class": [
+            "date-label"
+          ],
+          "text": "Roma, 27/11/2026 (II mandato)",
+          "datetime": null
+        }
+      ]
+    },
+    {
+      "url": "https://www.quirinale.it/it/notizie/mattarella-ha-ricevuto-gino-cecchettin-presidente-fondazione-giulia-cecchettin",
+      "title": "Il Presidente Sergio Mattarella nel corso dellì'incontro con una delegazione della Fondazione Giulia Cecchettin, guidata dal Presidente Gino Cecchettin, padre di Giulia",
+      "h1": "Mattarella ha ricevuto Gino Cecchettin, Presidente della Fondazione Giulia Cecchettin",
+      "dates": [
+        {
+          "tag": "p",
+          "class": [
+            "date-label"
+          ],
+          "text": "Roma, 26/11/2026 (II mandato)",
+          "datetime": null
+        }
+      ]
+    },
+    {
+      "url": "https://www.quirinale.it/it/notizie/mattarella-partita-pallacanestro-italia-turchia",
+      "title": "Il Presidente Sergio Mattarella all'incontro di pallacanestro Italia - Turchia per la qualificazione alla FIBA World Cup 2027",
+      "h1": "Mattarella alla partita di pallacanestro Italia-Turchia",
+      "dates": [
+        {
+          "tag": "p",
+          "class": [
+            "date-label"
+          ],
+          "text": "Roma, 26/11/2026 (II mandato)",
+          "datetime": null
+        }
+      ]
+    },
+    {
+      "url": "https://www.quirinale.it/it/notizie/mattarella-inaugurazione-anno-accademico-2026-2027-pontificia-universita-lateranense",
+      "title": "Il Presidente della Repubblica Sergio Mattarella rivolge il suo indirizzo di saluto in occasione dell’inaugurazione dell’Anno Accademico 2026/2027 della Pontificia Università Lateranense",
+      "h1": "Mattarella all’inaugurazione dell’Anno Accademico 2026/2027 della Pontificia Università Lateranense",
+      "dates": [
+        {
+          "tag": "span",
+          "class": [
+            "data-luogo"
+          ],
+          "text": "Roma, 26/11/2026 (II mandato)",
+          "datetime": null
+        },
+        {
+          "tag": "span",
+          "class": [
+            "data-luogo"
+          ],
+          "text": "Roma, 26/11/2026 (II mandato)",
+          "datetime": null
+        },
+        {
+          "tag": "span",
+          "class": [
+            "data-luogo"
+          ],
+          "text": "Roma, 26/11/2026 (II mandato)",
+          "datetime": null
+        },
+        {
+          "tag": "span",
+          "class": [
+            "data-luogo"
+          ],
+          "text": "Roma, 26/11/2026 (II mandato)",
+          "datetime": null
+        },
+        {
+          "tag": "span",
+          "class": [
+            "data-luogo"
+          ],
+          "text": "Roma, 26/11/2026 (II mandato)",
+          "datetime": null
+        },
+        {
+          "tag": "span",
+          "class": [
+            "data-luogo"
+          ],
+          "text": "Roma, 26/11/2026 (II mandato)",
+          "datetime": null
+        },
+        {
+          "tag": "span",
+          "class": [
+            "data-luogo"
+          ],
+          "text": "Roma, 26/11/2026 (II mandato)",
+          "datetime": null
+        },
+        {
+          "tag": "span",
+          "class": [
+            "data-luogo"
+          ],
+          "text": "Roma, 26/11/2026 (II mandato)",
+          "datetime": null
+        },
+        {
+          "tag": "span",
+          "class": [
+            "data-luogo"
+          ],
+          "text": "Roma, 26/11/2026 (II mandato)",
+          "datetime": null
+        },
+        {
+          "tag": "span",
+          "class": [
+            "data-luogo"
+          ],
+          "text": "Roma, 26/11/2026 (II mandato)",
+          "datetime": null
+        },
+        {
+          "tag": "span",
+          "class": [
+            "data-luogo"
+          ],
+          "text": "Roma, 26/11/2026 (II mandato)",
+          "datetime": null
+        },
+        {
+          "tag": "span",
+          "class": [
+            "data-luogo"
+          ],
+          "text": "Roma, 26/11/2026 (II mandato)",
+          "datetime": null
+        }
+      ]
+    },
+    {
+      "url": "https://www.quirinale.it/it/notizie/nostra-repubblica-compie-ottant-anni-1",
+      "title": "I Volti della Repubblica",
+      "h1": "La nostra Repubblica compie Ottant’anni",
+      "dates": [
+        {
+          "tag": "p",
+          "class": [
+            "date-label"
+          ],
+          "text": "Roma, 24/05/2026 (II mandato)",
+          "datetime": null
+        }
+      ]
+    }
+  ],
+  "candidateCount": 12,
+  "datedCount": 0,
+  "listingUrl": "https://www.quirinale.it/",
+  "durationSeconds": 4.13
 }

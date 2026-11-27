@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-26T23:22:03.351903+00:00",
+  "generatedAt": "2026-11-27T11:28:33.825632+00:00",
   "sourceCount": 67,
-  "ok": 37,
-  "items": 209,
+  "ok": 34,
+  "items": 171,
   "results": [
     {
       "sourceId": "amnesty",
@@ -77,13 +77,13 @@
     },
     {
       "sourceId": "cnr",
-      "status": "error",
-      "method": "html",
-      "diagnosticCode": "connection_error",
-      "message": "SSLError",
+      "status": "ok",
+      "method": "rss",
+      "diagnosticCode": null,
+      "message": "Feed ufficiale letto; date di pubblicazione verificate.",
       "candidateCount": null,
       "datedCount": null,
-      "itemCount": 0
+      "itemCount": 20
     },
     {
       "sourceId": "coldiretti",
@@ -183,7 +183,7 @@
       "message": "Feed dichiarato dalla fonte; date di pubblicazione verificate.",
       "candidateCount": null,
       "datedCount": null,
-      "itemCount": 2
+      "itemCount": 1
     },
     {
       "sourceId": "demos-media",
@@ -227,13 +227,13 @@
     },
     {
       "sourceId": "factanza",
-      "status": "ok",
-      "method": "rss",
-      "diagnosticCode": null,
-      "message": "Feed ufficiale letto; date di pubblicazione verificate.",
+      "status": "blocked",
+      "method": "html",
+      "diagnosticCode": "access_restricted",
+      "message": "HTTP 403: accesso limitato dalla fonte",
       "candidateCount": null,
       "datedCount": null,
-      "itemCount": 2
+      "itemCount": 0
     },
     {
       "sourceId": "fanpage",
@@ -257,23 +257,23 @@
     },
     {
       "sourceId": "futuro-nazionale",
-      "status": "error",
-      "method": "html",
-      "diagnosticCode": "robots_unavailable",
-      "message": "robots.txt non verificabile",
+      "status": "ok",
+      "method": "rss",
+      "diagnosticCode": null,
+      "message": "Feed dichiarato dalla fonte; date di pubblicazione verificate.",
       "candidateCount": null,
       "datedCount": null,
       "itemCount": 0
     },
     {
       "sourceId": "good-morning-italia",
-      "status": "ok",
-      "method": "rss",
-      "diagnosticCode": null,
-      "message": "Feed ufficiale letto; date di pubblicazione verificate.",
+      "status": "blocked",
+      "method": "html",
+      "diagnosticCode": "access_restricted",
+      "message": "HTTP 403: accesso limitato dalla fonte",
       "candidateCount": null,
       "datedCount": null,
-      "itemCount": 2
+      "itemCount": 0
     },
     {
       "sourceId": "greenpeace",
@@ -300,10 +300,10 @@
       "status": "ok",
       "method": "trafilatura",
       "diagnosticCode": null,
-      "message": "1 notizie recenti con data verificata; copertura parziale.",
+      "message": "2 notizie recenti con data verificata; copertura parziale.",
       "candidateCount": 12,
       "datedCount": 6,
-      "itemCount": 1
+      "itemCount": 2
     },
     {
       "sourceId": "il-fatto",
@@ -369,8 +369,8 @@
       "sourceId": "iss",
       "status": "error",
       "method": "html",
-      "diagnosticCode": "connection_error",
-      "message": "ConnectionError",
+      "diagnosticCode": "robots_unavailable",
+      "message": "robots.txt non verificabile",
       "candidateCount": null,
       "datedCount": null,
       "itemCount": 0
@@ -400,10 +400,10 @@
       "status": "ok",
       "method": "trafilatura",
       "diagnosticCode": null,
-      "message": "4 notizie recenti con data verificata; copertura parziale.",
-      "candidateCount": 9,
-      "datedCount": 4,
-      "itemCount": 4
+      "message": "3 notizie recenti con data verificata; copertura parziale.",
+      "candidateCount": 8,
+      "datedCount": 3,
+      "itemCount": 3
     },
     {
       "sourceId": "italia-viva",
@@ -450,10 +450,10 @@
       "status": "ok",
       "method": "trafilatura",
       "diagnosticCode": null,
-      "message": "2 notizie recenti con data verificata; copertura parziale.",
+      "message": "1 notizie recenti con data verificata; copertura parziale.",
       "candidateCount": 11,
       "datedCount": 6,
-      "itemCount": 2
+      "itemCount": 1
     },
     {
       "sourceId": "msf",
@@ -547,10 +547,10 @@
     },
     {
       "sourceId": "pillole-economia",
-      "status": "ok",
-      "method": "rss",
-      "diagnosticCode": null,
-      "message": "Feed ufficiale letto; date di pubblicazione verificate.",
+      "status": "blocked",
+      "method": "html",
+      "diagnosticCode": "access_restricted",
+      "message": "HTTP 403: accesso limitato dalla fonte",
       "candidateCount": null,
       "datedCount": null,
       "itemCount": 0
@@ -590,30 +590,30 @@
       "status": "blocked",
       "method": "html",
       "diagnosticCode": "access_restricted",
+      "message": "Verifica interattiva richiesta",
+      "candidateCount": 12,
+      "datedCount": 0,
+      "itemCount": 0
+    },
+    {
+      "sourceId": "rassegnally",
+      "status": "blocked",
+      "method": "html",
+      "diagnosticCode": "access_restricted",
       "message": "HTTP 403: accesso limitato dalla fonte",
       "candidateCount": null,
       "datedCount": null,
       "itemCount": 0
     },
     {
-      "sourceId": "rassegnally",
-      "status": "ok",
-      "method": "rss",
-      "diagnosticCode": null,
-      "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-      "candidateCount": null,
-      "datedCount": null,
-      "itemCount": 12
-    },
-    {
       "sourceId": "regione-lombardia",
-      "status": "ok",
-      "method": "rss",
-      "diagnosticCode": null,
-      "message": "Feed dichiarato dalla fonte; date di pubblicazione verificate.",
+      "status": "blocked",
+      "method": "html",
+      "diagnosticCode": "access_restricted",
+      "message": "HTTP 403: accesso limitato dalla fonte",
       "candidateCount": null,
       "datedCount": null,
-      "itemCount": 40
+      "itemCount": 0
     },
     {
       "sourceId": "reuters",

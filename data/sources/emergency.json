@@ -4,7 +4,7 @@
   "sourceId": "emergency",
   "originUrl": "https://www.emergency.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-26T23:21:10.698843Z",
+  "collectedAt": "2026-11-27T11:27:40.405772Z",
   "status": "error",
   "diagnosticCode": "http_error",
   "method": "html",
@@ -19,5 +19,5 @@
   "message": "HTTP 415",
   "httpStatus": 415,
   "failedUrl": "https://www.emergency.it/robots.txt",
-  "durationSeconds": 0.62
+  "durationSeconds": 0.55
 }

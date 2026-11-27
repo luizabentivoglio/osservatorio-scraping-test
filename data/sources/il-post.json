@@ -4,52 +4,52 @@
   "sourceId": "il-post",
   "originUrl": "https://www.ilpost.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-26T23:21:18.869952Z",
+  "collectedAt": "2026-11-27T11:27:50.644475Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
-      "title": "L’Italia del basket ha vinto contro la Turchia nelle qualificazioni per i Mondiali",
-      "url": "https://www.ilpost.it/2026/11/26/italia-basket-turchia-mondiali/?bitPosition=1",
-      "excerpt": "L’Italia del basket ha vinto contro la Turchia nelle qualificazioni per i Mondiali L’Italia ha battuto 86-72 la Turchia nelle qualificazioni per i Mondiali di basket, che si terranno a Doha, in Qatar, la prossima estate. La partita si giocava al PalaEur di Roma, fra gli spettatori c’era anche il presidente della Repubb",
-      "publishedAt": "2026-11-26T20:54:14Z",
+      "title": "Il parlamento argentino ha vietato alla Banca centrale di stampare moneta per finanziare le attività del governo",
+      "url": "https://www.ilpost.it/2026/11/27/argentina-vieta-banca-centrale-stampare-moneta/?bitPosition=1",
+      "excerpt": "Il parlamento argentino ha vietato alla Banca centrale di stampare moneta per finanziare le attività del governo In Argentina il parlamento ha approvato un nuovo statuto per la Banca centrale del paese, che vieta all’istituto di stampare moneta per finanziare le attività del governo. È una proposta centrale nel program",
+      "publishedAt": "2026-11-27T10:23:43Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "Un tribunale di Parigi ha rinviato a giudizio Gerard Depardieu per un’accusa di stupro, e ne ha archiviata un’altra",
-      "url": "https://www.ilpost.it/2026/11/26/gerard-depardieu-rinvio-giudizio-stupro/?bitPosition=2",
-      "excerpt": "Un tribunale di Parigi ha rinviato a giudizio Gerard Depardieu per un’accusa di stupro, e ne ha archiviata un’altra La Corte d’appello di Parigi ha confermato il rinvio a giudizio del celebre attore Gerard Depardieu per un’accusa di stupro, ma ha deciso il non luogo a procedere per un’altra presentata dalla stessa donn",
-      "publishedAt": "2026-11-26T17:17:39Z",
+      "title": "L’assemblea dei giornalisti del Corriere della Sera ha indetto lo stato di agitazione",
+      "url": "https://www.ilpost.it/2026/11/27/corriere-della-sera-stato-agitazione-nuovo-direttore/?bitPosition=2",
+      "excerpt": "L’assemblea dei giornalisti del Corriere della Sera ha indetto lo stato di agitazione L’assemblea dei giornalisti del Corriere della Sera ha proclamato lo stato di agitazione, ossia una forma di mobilitazione sindacale per dimostrare disaccordo con alcune scelte aziendali, che a volte può portare allo sciopero. Il comi",
+      "publishedAt": "2026-11-27T09:23:42Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "La Biennale di arte di Venezia del 2028 sarà curata da Hoor al Qasimi",
-      "url": "https://www.ilpost.it/2026/11/26/hoor-al-qasimi-biennale-venezia-arte-2028/?bitPosition=3",
-      "excerpt": "La Biennale di arte di Venezia del 2028 sarà curata da Hoor al Qasimi Hoor al Qasimi, una delle persone di maggiore influenza nel mondo dell’arte contemporanea, è stata scelta per curare la Biennale di arte di Venezia del 2028: avrà il compito di definirne aspetti come il tema e gli artisti invitati. Oltre che un’appre",
-      "publishedAt": "2026-11-26T15:46:36Z",
+      "title": "È in corso uno sciopero di 24 ore dei giornalisti dell’ANSA",
+      "url": "https://www.ilpost.it/2026/11/27/sciopero-ansa/?bitPosition=3",
+      "excerpt": "È in corso uno sciopero di 24 ore dei giornalisti dell’ANSA Venerdì i giornalisti dell’agenzia di stampa ANSA hanno iniziato uno sciopero di 24 ore, dalle 7 di venerdì alle 7 di sabato. È il primo dei cinque giorni di sciopero che l’assemblea dei giornalisti ha chiesto di indire al comitato di redazione, che lunedì 23 ",
+      "publishedAt": "2026-11-27T09:15:39Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "Nel Regno Unito l’immigrazione si è fortemente ridotta: il saldo migratorio è il più basso in 30 anni",
-      "url": "https://www.ilpost.it/2026/11/26/immigrazione-ridotta-regno-unito/?bitPosition=4",
-      "excerpt": "Nel Regno Unito l’immigrazione si è fortemente ridotta: il saldo migratorio è il più basso in 30 anni Nei 12 mesi precedenti a giugno 2026 il saldo migratorio del Regno Unito è stato il più basso dal 1997, escluso il periodo della pandemia. Il saldo migratorio misura la differenza tra il numero di persone che si trasfe",
-      "publishedAt": "2026-11-26T13:14:40Z",
+      "title": "Vita e morte ad Haiti, in una foto",
+      "url": "https://www.ilpost.it/2026/11/27/foto-haiti-cadavere/?homepagePosition=0",
+      "excerpt": "Una donna riconosce il cadavere del figlio a lato di una strada dove i corpi vengono gettati ogni giorno, e i passanti non si fermano più",
+      "publishedAt": "2026-11-27T08:40:13Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "L’attacco di droni iraniani che ha ucciso due italiani in Kuwait",
-      "url": "https://www.ilpost.it/2026/11/26/kuwait-droni-italiani-uccisi/?homepagePosition=0",
-      "excerpt": "Erano tecnici dell'azienda di armi Rheinmetall e sono stati coinvolti in un'esplosione mentre lavoravano",
-      "publishedAt": "2026-11-26T13:06:55Z",
+      "title": "Gli haitiani stanno con Bukele",
+      "url": "https://www.ilpost.it/2026/11/23/haiti-bukele-el-salvador-gang/?homepagePosition=0.1&referrerPost=3744056",
+      "excerpt": "Il presidente del Salvador ha mandato l’esercito a combattere le gang, dopo la scomparsa di quattro militari che chiede di liberare: ma al Post risulta siano stati uccisi",
+      "publishedAt": "2026-11-23T10:58:14Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "In provincia di Pistoia una donna è stata uccisa: secondo la procura è stato il compagno, che poi si è ucciso lanciandosi da un viadotto",
-      "url": "https://www.ilpost.it/2026/11/26/femminicidio-pistoia-viadotto/?bitPosition=5",
-      "excerpt": "In provincia di Pistoia una donna è stata uccisa: secondo la procura è stato il compagno, che poi si è ucciso lanciandosi da un viadotto Una donna di 23 anni di origine rumena, Ionela Miruna Garneata, è stata uccisa nella sua casa a Ponte Buggianese, in provincia di Pistoia: secondo la ricostruzione della procura, ha c",
-      "publishedAt": "2026-11-26T11:33:24Z",
+      "title": "Com’è fatta la lettera di una gang di Haiti alle Nazioni Unite",
+      "url": "https://www.ilpost.it/2026/11/23/lettera-gang-haiti-onu/?homepagePosition=0.2&referrerPost=3744056",
+      "excerpt": "L’ha ottenuta il Post, è firmata da Wilson Joseph, capo di “400 Mawozo”, e chiede ipocritamente di proteggere i civili",
+      "publishedAt": "2026-11-23T10:57:48Z",
       "dateEvidence": "jsonld:datePublished"
     }
   ],
@@ -63,27 +63,27 @@
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/26/kuwait-droni-italiani-uccisi/?homepagePosition=0",
+      "url": "https://www.ilpost.it/2026/11/27/foto-haiti-cadavere/?homepagePosition=0",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/26/italia-basket-turchia-mondiali/?bitPosition=1",
+      "url": "https://www.ilpost.it/2026/11/23/haiti-bukele-el-salvador-gang/?homepagePosition=0.1&referrerPost=3744056",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/26/gerard-depardieu-rinvio-giudizio-stupro/?bitPosition=2",
+      "url": "https://www.ilpost.it/2026/11/23/lettera-gang-haiti-onu/?homepagePosition=0.2&referrerPost=3744056",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/26/hoor-al-qasimi-biennale-venezia-arte-2028/?bitPosition=3",
+      "url": "https://www.ilpost.it/2026/11/27/argentina-vieta-banca-centrale-stampare-moneta/?bitPosition=1",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/26/immigrazione-ridotta-regno-unito/?bitPosition=4",
+      "url": "https://www.ilpost.it/2026/11/27/corriere-della-sera-stato-agitazione-nuovo-direttore/?bitPosition=2",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/26/femminicidio-pistoia-viadotto/?bitPosition=5",
+      "url": "https://www.ilpost.it/2026/11/27/sciopero-ansa/?bitPosition=3",
       "status": 200
     }
   ],
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.ilpost.it/",
-  "durationSeconds": 3.56
+  "durationSeconds": 3.78
 }

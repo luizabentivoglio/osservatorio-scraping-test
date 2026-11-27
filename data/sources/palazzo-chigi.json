@@ -4,7 +4,7 @@
   "sourceId": "palazzo-chigi",
   "originUrl": "https://www.governo.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-26T23:21:33.187233Z",
+  "collectedAt": "2026-11-27T11:28:03.711373Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
@@ -27,7 +27,7 @@
     {
       "title": "Riunione straordinaria del Consiglio europeo",
       "url": "https://www.governo.it/it/articolo/riunione-straordinaria-del-consiglio-europeo/33191",
-      "excerpt": "Il Presidente del Consiglio, Giorgia Meloni, è a Bruxelles per partecipare alla riunione straordinaria del Consiglio europeo.",
+      "excerpt": "Il Presidente del Consiglio, Giorgia Meloni, ha partecipato a Bruxelles alla riunione straordinaria del Consiglio europeo. Questa mattina, insieme al Presidente della Romania, Nicușor Dan, ha co-presieduto un incontro dei Leader del gruppo degli \"Amici della Coesione\". Successivamente, il Presidente Meloni ha tenuto un",
       "publishedAt": "2026-11-26T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -100,5 +100,5 @@
     }
   ],
   "message": "Feed dichiarato dalla fonte; date di pubblicazione verificate.",
-  "durationSeconds": 30.16
+  "durationSeconds": 30.11
 }

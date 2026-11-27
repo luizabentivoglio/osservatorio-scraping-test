@@ -4,9 +4,9 @@
   "sourceId": "iss",
   "originUrl": "https://www.iss.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-26T23:21:20.916697Z",
+  "collectedAt": "2026-11-27T11:27:52.334793Z",
   "status": "error",
-  "diagnosticCode": "connection_error",
+  "diagnosticCode": "robots_unavailable",
   "method": "html",
   "feedUrl": null,
   "items": [],
@@ -16,8 +16,8 @@
       "status": 200
     }
   ],
-  "message": "ConnectionError",
+  "message": "robots.txt non verificabile",
   "httpStatus": null,
   "failedUrl": "https://www.iss.it/comunicati-stampa",
-  "durationSeconds": 1.04
+  "durationSeconds": 0.67
 }

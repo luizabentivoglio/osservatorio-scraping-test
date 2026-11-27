@@ -4,12 +4,19 @@
   "sourceId": "osservatorio-cpi",
   "originUrl": "https://osservatoriocpi.unicatt.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-26T23:21:27.438023Z",
+  "collectedAt": "2026-11-27T11:27:58.736207Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "Le novità della cedolare secca",
+      "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/le-novita-della-cedolare-secca.html",
+      "excerpt": "Introdotta nel 2011, la cedolare secca per i redditi da locazione era nata soprattutto per combattere l’evasione fiscale. A distanza di quindici anni, è innegabile il successo tra i proprietari di immobili, ma gli obiettivi di fondo non sembrano essere stati raggiunti.",
+      "publishedAt": "2026-11-27T00:00:00Z",
+      "dateEvidence": "html:article-header"
+    },
     {
       "title": "ZES: incentivi territoriali, semplificazioni per tutti?",
       "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/zes-incentivi-terriitoriali-semplificazioni-per-tutti.html",
@@ -37,13 +44,6 @@
       "excerpt": "Il disegno di legge di bilancio 2027 anticipa gli aumenti delle imposte sulle sigarette previsti per il 2028. Nonostante l’aumento del peso del fisco sul prezzo delle sigarette del 13,8% tra il 2008 e il 2025, la contrazione dei consumi riflette principalmente le campagne antifumo, i cambiamenti nelle preferenze dei co",
       "publishedAt": "2026-11-20T00:00:00Z",
       "dateEvidence": "html:article-header"
-    },
-    {
-      "title": "Il fascino discreto delle agevolazioni per mobili ed elettrodomestici",
-      "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/il-fascino-discreto-delle-agevolazioni-per-mobili-ed-elettrodomestici.html",
-      "excerpt": "La Legge di Bilancio 2027 conferma, per il quattordicesimo anno consecutivo, le agevolazioni per mobili ed elettrodomestici. Il rinnovo del bonus mobili e la riproposizione del voucher elettrodomestici presentano costi e benefici che non sembrano giustificare il loro finanziamento, se non nell’efficacia delle lobby che",
-      "publishedAt": "2026-11-13T00:00:00Z",
-      "dateEvidence": "html:article-header"
     }
   ],
   "attempts": [
@@ -53,6 +53,10 @@
     },
     {
       "url": "https://osservatoriocpi.unicatt.it/pubblicazioni.html",
+      "status": 200
+    },
+    {
+      "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/le-novita-della-cedolare-secca.html",
       "status": 200
     },
     {
@@ -74,10 +78,6 @@
     {
       "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/il-fascino-discreto-delle-agevolazioni-per-mobili-ed-elettrodomestici.html",
       "status": 200
-    },
-    {
-      "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/le-differenze-territoriali-nell-istruzione-seppur-ancora-presenti-si-sono-ridotte-negli-anni.html",
-      "status": 200
     }
   ],
   "message": "5 notizie recenti con data verificata; copertura parziale.",
@@ -85,5 +85,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://osservatoriocpi.unicatt.it/pubblicazioni.html",
-  "durationSeconds": 6.22
+  "durationSeconds": 6.02
 }

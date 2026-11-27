@@ -4,17 +4,17 @@
   "sourceId": "breaking-italy",
   "originUrl": "https://breakingitaly.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-26T23:20:43.579600Z",
+  "collectedAt": "2026-11-27T11:27:16.077424Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
-      "title": "La lettera d’addio di De Gennaro è stata resa pubblica",
-      "url": "https://breakingitaly.it/newsletter/la-lettera-daddio-di-de-gennaro-e-stata-resa-pubblica",
-      "excerpt": "La lettera d’addio di De Gennaro è stata resa pubblica",
-      "publishedAt": "2026-11-26T00:00:00Z",
+      "title": "L’Italia viene coinvolta nell’attacco con droni in Kuwait",
+      "url": "https://breakingitaly.it/newsletter/litalia-viene-coinvolta-nellattacco-con-droni-in-kuwait",
+      "excerpt": "L’Italia viene coinvolta nell’attacco con droni in Kuwait",
+      "publishedAt": "2026-11-27T00:00:00Z",
       "dateEvidence": "html:newsletter-publication"
     }
   ],
@@ -32,7 +32,7 @@
       "status": 200
     },
     {
-      "url": "https://breakingitaly.it/newsletter/la-lettera-daddio-di-de-gennaro-e-stata-resa-pubblica",
+      "url": "https://breakingitaly.it/newsletter/litalia-viene-coinvolta-nellattacco-con-droni-in-kuwait",
       "status": 200
     },
     {

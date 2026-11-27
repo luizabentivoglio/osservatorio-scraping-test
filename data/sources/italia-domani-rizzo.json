@@ -4,17 +4,17 @@
   "sourceId": "italia-domani-rizzo",
   "originUrl": "https://www.italiadomanirizzo.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-26T23:21:21.170979Z",
+  "collectedAt": "2026-11-27T11:27:53.007228Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
-      "title": "Popoli contro élite - Bollate - 27/11/2026 - Italia Domani",
-      "url": "https://www.italiadomanirizzo.it/popoli-contro-elite-bollate-27-11-2026/",
-      "excerpt": "Ogni contributo serve a garantire la presenza del Progetto nelle piazze, nei mercati e nei territori di tutta Italia.",
-      "publishedAt": "2026-11-26T17:21:31Z",
+      "title": "Scafati allagata: Italia Domani di Marco Rizzo contro l'incuria dell'amministrazione - Italia Domani",
+      "url": "https://www.italiadomanirizzo.it/scafati-sott-acqua-italia-domani-denuncia-l-incuria-dell-amm/",
+      "excerpt": "Italia Domani di Marco Rizzo al fianco dei cittadini di Scafati: Sorrentino denuncia l'incuria delle infrastrutture e l'inefficacia dell'amministrazione locale dopo i gravi allagamenti.",
+      "publishedAt": "2026-11-27T00:00:00Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
@@ -30,13 +30,6 @@
       "excerpt": "Marco Rizzo chiude le porte alla sinistra e guarda oltre con determinazione: «Sarei molto più efficace di Salvini, io». Una presa di posizione netta e pragmatica.",
       "publishedAt": "2026-11-19T00:00:00Z",
       "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Famiglia nel bosco, Rizzo: \"Rigetto ricongiungimento vergognoso, troppa discrezionalità\" - Italia",
-      "url": "https://www.italiadomanirizzo.it/famiglia-nel-bosco-rizzo-rigetto-ricongiungimento-vergognoso/",
-      "excerpt": "Marco Rizzo interviene sul caso della famiglia nel bosco dopo la decisione della Corte d’Appello dell'Aquila, denunciando disparità di trattamento nella giustizia.",
-      "publishedAt": "2026-11-14T00:00:00Z",
-      "dateEvidence": "jsonld:datePublished"
     }
   ],
   "attempts": [
@@ -49,7 +42,7 @@
       "status": 200
     },
     {
-      "url": "https://www.italiadomanirizzo.it/popoli-contro-elite-bollate-27-11-2026/",
+      "url": "https://www.italiadomanirizzo.it/scafati-sott-acqua-italia-domani-denuncia-l-incuria-dell-amm/",
       "status": 200
     },
     {
@@ -58,10 +51,6 @@
     },
     {
       "url": "https://www.italiadomanirizzo.it/marco-rizzo-chiusura-alla-sinistra-e-sfida-sulla-reale-effic/",
-      "status": 200
-    },
-    {
-      "url": "https://www.italiadomanirizzo.it/famiglia-nel-bosco-rizzo-rigetto-ricongiungimento-vergognoso/",
       "status": 200
     },
     {
@@ -75,9 +64,13 @@
     {
       "url": "https://www.italiadomanirizzo.it/il-partito/",
       "status": 200
+    },
+    {
+      "url": "https://www.italiadomanirizzo.it/diventa-tesserato/",
+      "status": 200
     }
   ],
-  "message": "4 notizie recenti con data verificata; copertura parziale.",
+  "message": "3 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [
     {
       "url": "https://www.italiadomanirizzo.it/congresso/",
@@ -90,10 +83,16 @@
       "title": "Vai alla pagina \"Il partito\"",
       "h1": "Il partito",
       "dates": []
+    },
+    {
+      "url": "https://www.italiadomanirizzo.it/diventa-tesserato/",
+      "title": "Diventa un tesserato",
+      "h1": "Diventa tesserato",
+      "dates": []
     }
   ],
-  "candidateCount": 9,
-  "datedCount": 4,
+  "candidateCount": 8,
+  "datedCount": 3,
   "listingUrl": "https://www.italiadomanirizzo.it/",
-  "durationSeconds": 6.27
+  "durationSeconds": 5.73
 }

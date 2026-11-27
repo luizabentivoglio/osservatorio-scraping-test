@@ -4,12 +4,54 @@
   "sourceId": "il-notiziario",
   "originUrl": "https://www.ilnotiziario.net/",
   "configuredFeedUrl": "https://www.ilnotiziario.net/feed/",
-  "collectedAt": "2026-11-26T23:21:18.703198Z",
+  "collectedAt": "2026-11-27T11:27:50.522639Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.ilnotiziario.net/feed/",
   "items": [
+    {
+      "title": "Saronno, i residenti del centro si organizzano: nasce un comitato per la sicurezza",
+      "url": "https://www.ilnotiziario.net/saronno-i-residenti-del-centro-si-organizzano-nasce-un-comitato-per-la-sicurezza/",
+      "excerpt": "Saronno, i residenti del centro si organizzano: nasce un comitato per la sicurezza A Saronno cresce la preoccupazione per la...",
+      "publishedAt": "2026-11-27T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Trenord, crescono i passeggeri in Lombardia",
+      "url": "https://www.ilnotiziario.net/trenord-crescono-i-passeggeri-in-lombardia/",
+      "excerpt": "Trenord, crescono i passeggeri in Lombardia Il trasporto ferroviario lombardo continua a registrare una crescita, con un aumento...",
+      "publishedAt": "2026-11-27T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Intercettato sulla Milano-Meda e pedinato a distanza: quando si ferma i carabinieri trovano 27 kg di droga",
+      "url": "https://www.ilnotiziario.net/intercettato-sulla-milano-meda-e-pedinato-a-distanza-quando-si-ferma-i-carabinieri-trovano-27-kg-di-droga/",
+      "excerpt": "Intercettato sulla Milano-Meda e pedinato a distanza, i carabinieri trovano 27 kg di droga. Un pedinamento discreto lungo la...",
+      "publishedAt": "2026-11-27T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Lainate, aiutò a morire, chiesta archiviazione; Saronno, folle rissa in pieno centro – ANTEPRIMA",
+      "url": "https://www.ilnotiziario.net/lainate-aiuto-a-morire-chiesta-archiviazione-saronno-folle-rissa-in-pieno-centro-anteprima/",
+      "excerpt": "📰 IL NOTIZIARIO È IN EDICOLA E ONLINE! 📰 Torna oggi in edicola e online il nuovo numero del nostro settimanale con fatti, notizie...",
+      "publishedAt": "2026-11-27T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Cusano Milanino, tre auto a fuoco nella notte, paura tra i residenti",
+      "url": "https://www.ilnotiziario.net/cusano-milanino-tre-auto-a-fuoco-nella-notte-paura-tra-i-residenti/",
+      "excerpt": "A Cusano Milanino 3 auto hanno preso fuoco nella notte. Notte di paura e risveglio tra fumo e fiamme a Cusano Milanino per un...",
+      "publishedAt": "2026-11-27T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Paderno, ladri in stazione: assaltato il distributore automatico dei biglietti di Trenord",
+      "url": "https://www.ilnotiziario.net/paderno-ladri-in-stazione-assaltato-il-distributore-automatico-dei-biglietti-di-trenord/",
+      "excerpt": "A Paderno Dugnano, ladri nella notte in stazione, assalto al distributore di biglietti. Distributore automatico dei biglietti...",
+      "publishedAt": "2026-11-27T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "Le mamme dei pinguini 2, recensione: la disabilità in una serie tv",
       "url": "https://www.ilnotiziario.net/le-mamme-dei-pinguini-2-recensione-la-disabilita-in-una-serie-tv/",
@@ -72,48 +114,6 @@
       "excerpt": "All’inaugurazione della Casa di Comunità di Senago il dg Marco Bosio, l’assessore regionale Guido Bertolaso e il vicepresidente...",
       "publishedAt": "2026-11-26T00:00:00Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Sicurezza ferroviaria a Saronno, la sindaca: «L’obiettivo è garantire una presenza stabile della Polfer»",
-      "url": "https://www.ilnotiziario.net/sicurezza-ferroviaria-a-saronno-la-sindaca-lobiettivo-e-garantire-una-presenza-stabile-della-polfer/",
-      "excerpt": "Sicurezza ferroviaria a Saronno, la sindaca: «L’obiettivo è garantire una presenza stabile della Polfer» La sicurezza della...",
-      "publishedAt": "2026-11-26T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Foglie e marciapiedi scivolosi, Saronno corre ai ripari, rafforzata la pulizia autunnale",
-      "url": "https://www.ilnotiziario.net/foglie-e-marciapiedi-scivolosi-saronno-corre-ai-ripari-rafforzata-la-pulizia-autunnale/",
-      "excerpt": "Foglie e marciapiedi scivolosi, Saronno corre ai ripari, rafforzata la pulizia autunnale L’autunno porta colore nei viali...",
-      "publishedAt": "2026-11-26T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Incidente sulla Varesina tra Bollate e Arese, 4 feriti e traffico in tilt",
-      "url": "https://www.ilnotiziario.net/incidente-sulla-varesina-tra-bollate-e-arese-4-feriti-e-traffico-in-tilt/",
-      "excerpt": "Un incidente sulla Varesina tra Bollate e Arese ha provocato 4 feriti e causato gravissimi disagi al traffico dei pendolari....",
-      "publishedAt": "2026-11-26T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Casa di Comunità di Senago dedicata a Giulia Tramontano, “un significato che va oltre il ricordo” – VIDEO",
-      "url": "https://www.ilnotiziario.net/casa-di-comunita-di-senago-dedicata-a-giulia-tramontano-i-genitori-ha-un-significato-che-va-oltre-il-ricordo/",
-      "excerpt": "La Casa di Comunità di Senago è dedicata a Giulia Tramontano e Thiago. È stata inaugurata questa mattina, mercoledì 25 novembre,...",
-      "publishedAt": "2026-11-25T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Accoltella collega rider durante una lite, arrestato dalla Polizia a Desio – VIDEO",
-      "url": "https://www.ilnotiziario.net/accoltella-collega-rider-durante-una-lite-arrestato-dalla-polizia-a-desio-video/",
-      "excerpt": "Accoltella collega rider durante una lite, arrestato dalla Polizia a Desio Un litigio per questioni economiche, poi...",
-      "publishedAt": "2026-11-25T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Tram Milano-Limbiate, il cantiere a Cormano, restringimenti carreggiata e disagi al traffico",
-      "url": "https://www.ilnotiziario.net/tram-milano-limbiate-il-cantiere-a-cormano-restringimenti-carreggiata-e-disagi-al-traffico/",
-      "excerpt": "Tram Milano-Limbiate, il cantiere arriva a Cormano. Cantieri aperti, restringimenti della carreggiata e disagi nell’ultimo tratto...",
-      "publishedAt": "2026-11-25T00:00:00Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -127,5 +127,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 2.21
+  "durationSeconds": 1.72
 }

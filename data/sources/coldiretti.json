@@ -4,7 +4,7 @@
   "sourceId": "coldiretti",
   "originUrl": "https://www.coldiretti.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-26T23:20:48.666669Z",
+  "collectedAt": "2026-11-27T11:27:21.270540Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -40,15 +40,15 @@
       "status": 200
     },
     {
-      "url": "https://www.coldiretti.it/economia/attacchi-hacker-gesmundo-ue-investa-sui-mercati-contadini-i-soldi-del-riarmo",
-      "status": 200
-    },
-    {
       "url": "https://www.coldiretti.it/economia/coltivaitalia-ok-senato-e-passo-avanti-per-sovranita-alimentare-filiere-semplificazione-e-salute-cittadini",
       "status": 200
     },
     {
-      "url": "https://www.coldiretti.it/economia/forum-coldiretti-arriva-farmcraft-con-minecraft-leducazione-al-cibo-sano-entra-nel-mondo-dei-ragazzi",
+      "url": "https://www.coldiretti.it/economia/salute-al-forum-lo-scaffale-del-vero-made-in-italy-e-la-fabbrica-dei-malati",
+      "status": 200
+    },
+    {
+      "url": "https://www.coldiretti.it/economia/salute-non-fermare-i-cibi-ultraformulati-e-un-crimine-contro-lumanita",
       "status": 200
     }
   ],
@@ -57,5 +57,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.coldiretti.it/",
-  "durationSeconds": 8.33
+  "durationSeconds": 8.93
 }

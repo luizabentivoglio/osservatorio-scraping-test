@@ -4,31 +4,31 @@
   "sourceId": "istituto-bruno-leoni",
   "originUrl": "https://www.brunoleoni.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-26T23:21:19.378350Z",
+  "collectedAt": "2026-11-27T11:27:51.558869Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
+      "title": "Payback sui farmaci, il governo doveva osare di più",
+      "url": "https://www.brunoleoni.it/payback-sui-farmaci-il-governo-doveva-osare-di-piu/",
+      "excerpt": "Una vicenda che spiega bene che cosa si intende quando si parla di incertezza regolatoria e di freno alla crescita",
+      "publishedAt": "2026-11-27T11:14:00Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "Debenedetti: “Più tasse ai ricchi non assicurano una società equa”",
+      "url": "https://www.brunoleoni.it/debenedetti-piu-tasse-ai-ricchi-non-assicurano-una-societa-equa/",
+      "excerpt": "La patrimoniale è come il mostro di Loch Ness: ogni tanto riemerge",
+      "publishedAt": "2026-11-27T11:13:38Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
       "title": "Guido Piovene, il conservatore che non aveva niente da conservare",
       "url": "https://www.brunoleoni.it/guido-piovene-il-conservatore-che-non-aveva-niente-da-conservare/",
       "excerpt": "Torna «Idoli e ragione», un manuale contro i dogmi di ieri che sembra scritto per quelli di oggi",
       "publishedAt": "2026-11-26T09:13:50Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Nuovi dazi di Trump ma è presto per tremare",
-      "url": "https://www.brunoleoni.it/nuovi-dazi-di-trump-ma-e-presto-per-tremare/",
-      "excerpt": "Washington vara nuove tariffe nei confronti di Cina, Europa e altri 12 Paesi. Bruxelles traccia la sua linea rossa",
-      "publishedAt": "2026-11-26T09:12:10Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "La patrimoniale in Italia c’è già",
-      "url": "https://www.brunoleoni.it/la-patrimoniale-in-italia-ce-gia/",
-      "excerpt": "Intervista a Nicola Rossi. Il problema dell’Italia è che cresce poco",
-      "publishedAt": "2026-11-25T15:51:32Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
@@ -68,15 +68,15 @@
       "status": 200
     },
     {
+      "url": "https://www.brunoleoni.it/payback-sui-farmaci-il-governo-doveva-osare-di-piu/",
+      "status": 200
+    },
+    {
+      "url": "https://www.brunoleoni.it/debenedetti-piu-tasse-ai-ricchi-non-assicurano-una-societa-equa/",
+      "status": 200
+    },
+    {
       "url": "https://www.brunoleoni.it/guido-piovene-il-conservatore-che-non-aveva-niente-da-conservare/",
-      "status": 200
-    },
-    {
-      "url": "https://www.brunoleoni.it/nuovi-dazi-di-trump-ma-e-presto-per-tremare/",
-      "status": 200
-    },
-    {
-      "url": "https://www.brunoleoni.it/la-patrimoniale-in-italia-ce-gia/",
       "status": 200
     }
   ],
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 5,
   "listingUrl": "https://www.brunoleoni.it/",
-  "durationSeconds": 7.02
+  "durationSeconds": 5.57
 }

@@ -4,12 +4,19 @@
   "sourceId": "wwf",
   "originUrl": "https://www.wwf.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-26T23:21:55.985396Z",
+  "collectedAt": "2026-11-27T11:28:23.188613Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "Legge sulla caccia, clamorosa bocciatura della Commissione Politiche dell’Ue",
+      "url": "https://www.wwf.it/pandanews/animali/legge-sulla-caccia-clamorosa-bocciatura-della-commissione-politiche-dellue/",
+      "excerpt": "Le associazioni: \"Il cuore della proposta di legge salta. Impossibile che Governo e Parlamento non ne tengano conto\"",
+      "publishedAt": "2026-11-27T10:16:23Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
     {
       "title": "Caccia: centinaia di cittadini in piazza a Roma contro la legge Sparatutto",
       "url": "https://www.wwf.it/pandanews/animali/caccia-centinaia-di-cittadini-in-piazza-a-roma-contro-la-legge-sparatutto/",
@@ -44,13 +51,6 @@
       "excerpt": "Appuntamento a Piazza del Popolo, a Roma, sabato 5 dicembre per la manifestazione nazionale contro la crisi climatica",
       "publishedAt": "2026-11-23T11:11:51Z",
       "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "COP31 senza accordo, il mondo non può restare ostaggio delle lobby fossili",
-      "url": "https://www.wwf.it/pandanews/clima/cop31-senza-accordo-il-mondo-non-puo-restare-ostaggio-delle-lobby-fossili/",
-      "excerpt": "Le resistenze sulla transizione dai combustibili fossili bloccano il negoziato. Europa e Paesi più ambiziosi guidino una reazione forte",
-      "publishedAt": "2026-11-22T13:43:25Z",
-      "dateEvidence": "jsonld:datePublished"
     }
   ],
   "attempts": [
@@ -60,6 +60,10 @@
     },
     {
       "url": "https://www.wwf.it/",
+      "status": 200
+    },
+    {
+      "url": "https://www.wwf.it/pandanews/animali/legge-sulla-caccia-clamorosa-bocciatura-della-commissione-politiche-dellue/",
       "status": 200
     },
     {
@@ -81,10 +85,6 @@
     {
       "url": "https://www.wwf.it/pandanews/clima/la-terra-chiamo-da-elisa-a-pistoletto-artisti-e-oltre-100-realta-in-piazza-per-il-clima/",
       "status": 200
-    },
-    {
-      "url": "https://www.wwf.it/pandanews/clima/cop31-senza-accordo-il-mondo-non-puo-restare-ostaggio-delle-lobby-fossili/",
-      "status": 200
     }
   ],
   "message": "6 notizie recenti con data verificata; copertura parziale.",
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.wwf.it/",
-  "durationSeconds": 4.19
+  "durationSeconds": 4.08
 }

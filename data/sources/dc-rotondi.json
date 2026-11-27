@@ -4,7 +4,7 @@
   "sourceId": "dc-rotondi",
   "originUrl": "https://dcconrotondi.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-26T23:20:59.398023Z",
+  "collectedAt": "2026-11-27T11:27:38.053736Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
@@ -15,13 +15,6 @@
       "url": "https://dcconrotondi.it/3482/news/rotondi-presenta-a-napoli-il-libro-il-partito-italiano-dalla-dc-a-berlusconi-a-meloni-con-di-maio-e-sangiuliano/",
       "excerpt": "Dal sito Italpress.com – Leggi l’articolo originale Un confronto sulla storia e sull’evoluzione della cultura politica italiana, dalla Democrazia cristiana all’esperienza di Silvio Berlusconi fino all’attuale stagione del centrodestra. Questo il tema al centro della presentazione del libro di Gianfranco Rotondi “Il par",
       "publishedAt": "2026-11-20T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Rotondi: Luigi Di Maio e Gennaro Sangiuliano a Napoli per la presentazione del nuovo libro del Presidente DC",
-      "url": "https://dcconrotondi.it/3474/news/rotondi-luigi-di-maio-e-gennaro-sangiuliano-a-napoli-per-la-presentazione-del-nuovo-libro-del-presidente-dc/",
-      "excerpt": "Venerdi 20 novembre alle ore 18, presso il Mondadori Bookstore Vomero, in Via Luca Giordano, 73, sarà presentato il libro di Gianfranco Rotondi ‘Il partito italiano dalla Dc a Berlusconi a Meloni’, ne discuteranno Luigi Di Maio e Gennaro Sangiuliano, moderati da Angelo Picariello, del quotidiano “Avvenire”, seguiranno ",
-      "publishedAt": "2026-11-13T00:00:00Z",
       "dateEvidence": "feed:published"
     }
   ],
@@ -40,5 +33,5 @@
     }
   ],
   "message": "Feed dichiarato dalla fonte; date di pubblicazione verificate.",
-  "durationSeconds": 11.98
+  "durationSeconds": 11.52
 }

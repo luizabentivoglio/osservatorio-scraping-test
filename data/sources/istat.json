@@ -4,14 +4,28 @@
   "sourceId": "istat",
   "originUrl": "https://www.istat.it/",
   "configuredFeedUrl": "https://www.istat.it/feed/",
-  "collectedAt": "2026-11-26T23:21:17.589774Z",
+  "collectedAt": "2026-11-27T11:27:49.618207Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.istat.it/feed/",
   "items": [
     {
-      "title": "Flussi fisici di energia (Pefa) - Anni 2008-2021",
+      "title": "Commercio estero extra UE – Ottobre 2026",
+      "url": "https://www.istat.it/comunicato-stampa/commercio-estero-extra-ue-ottobre-2026/",
+      "excerpt": "A ottobre 2026 si stima una riduzione congiunturale per le esportazioni (-1,8%) e un marcato aumento per le importazioni (+10,7%). Il saldo commerciale con i paesi extra Ue27 è pari a +2.337 milioni di euro",
+      "publishedAt": "2026-11-27T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Fatturato dell’industria e dei servizi – Settembre 2026",
+      "url": "https://www.istat.it/comunicato-stampa/fatturato-dellindustria-e-dei-servizi-settembre-2026/",
+      "excerpt": "A settembre 2026, il fatturato dell’industria, corretto per gli effetti di calendario, registra un aumento in valore del 5,6% su settembre 2025. Per il settore dei servizi si registra un incremento del 5,3%",
+      "publishedAt": "2026-11-27T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Flussi fisici di energia (Pefa) – Anni 2008-2024",
       "url": "https://www.istat.it/sistema-informativo-6/flussi-fisici-di-energia-pefa-anni-2008-2024-2/",
       "excerpt": "Aggiornata la serie storica 2008-2024 dei Conti dei flussi fisici di energia (Pefa)",
       "publishedAt": "2026-11-26T00:00:00Z",
@@ -65,20 +79,6 @@
       "excerpt": "Online su InPA l'avviso di pubblicazione dell'esito delle prove orali relative al concorso TEC-III-2025, Area D",
       "publishedAt": "2026-11-25T00:00:00Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Le disuguaglianze sociali nelle cause di morte in Italia",
-      "url": "https://www.istat.it/produzione-editoriale/le-disuguaglianze-sociali-nelle-cause-di-morte-in-italia/",
-      "excerpt": "Questo ebook analizza le disuguaglianze sociali nella mortalità in Italia e il ruolo chiave dell’istruzione come determinante della salute.",
-      "publishedAt": "2026-11-25T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "CIG BDD8B46E3E – Fornitura di prodotti minuti a supporto delle attività divulgative sul territorio",
-      "url": "https://www.istat.it/bando-di-gara/cig-bdd8b46e3e-fornitura-di-prodotti-minuti-a-supporto-delle-attivita-divulgative-sul-territorio/",
-      "excerpt": "Online la delibera di affidamento",
-      "publishedAt": "2026-11-25T00:00:00Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -92,5 +92,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 3.58
+  "durationSeconds": 4.75
 }

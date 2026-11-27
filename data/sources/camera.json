@@ -4,12 +4,26 @@
   "sourceId": "camera",
   "originUrl": "https://www.camera.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-26T23:20:44.663783Z",
+  "collectedAt": "2026-11-27T11:27:16.964301Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "Interpellanze urgenti",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64567",
+      "excerpt": "Nella seduta odierna ha avuto luogo lo svolgimento di interpellanze urgenti sui seguenti argomenti...",
+      "publishedAt": "2026-11-27T00:00:00Z",
+      "dateEvidence": "html:publication-label"
+    },
+    {
+      "title": "Interpellanze e sicurezza piscine",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64542",
+      "excerpt": "In Aula la discussione generale della proposta di legge: Modifiche alla legge 11 febbraio 1992, n. ...",
+      "publishedAt": "2026-11-27T00:00:00Z",
+      "dateEvidence": "html:publication-label"
+    },
     {
       "title": "Cambiare per vincere insieme - Lo sport contro la violenza sulle donne - Venerdì alle 10 diretta webtv - Saluto di Mulè",
       "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64534",
@@ -37,20 +51,6 @@
       "excerpt": "Venerdì 27 novembre, alle ore 17.30, presso la Sala della Regina di Montecitorio si svolge il conve...",
       "publishedAt": "2026-11-26T00:00:00Z",
       "dateEvidence": "html:publication-label"
-    },
-    {
-      "title": "Decreto scuola, approvazione definitiva",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64525",
-      "excerpt": "La Camera è convocata venerdì 27 novembre alle ore 9.30. Nella seduta di giovedì 26 novembre l...",
-      "publishedAt": "2026-11-26T00:00:00Z",
-      "dateEvidence": "html:publication-label"
-    },
-    {
-      "title": "Il volontariato e le pubbliche assistenze - Alle 14.30 diretta webtv - Saluto di Fontana",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64540",
-      "excerpt": "Giovedì 26 novembre, alle ore 14.30, presso la Sala della Regina di Montecitorio si è svolto il co...",
-      "publishedAt": "2026-11-26T00:00:00Z",
-      "dateEvidence": "html:publication-label"
     }
   ],
   "attempts": [
@@ -60,6 +60,14 @@
     },
     {
       "url": "https://comunicazione.camera.it/archivio-prima-pagina",
+      "status": 200
+    },
+    {
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64567",
+      "status": 200
+    },
+    {
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64542",
       "status": 200
     },
     {
@@ -77,14 +85,6 @@
     {
       "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64527",
       "status": 200
-    },
-    {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64525",
-      "status": 200
-    },
-    {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64540",
-      "status": 200
     }
   ],
   "message": "6 notizie recenti con data verificata; copertura parziale.",
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://comunicazione.camera.it/archivio-prima-pagina",
-  "durationSeconds": 4.0
+  "durationSeconds": 4.3
 }

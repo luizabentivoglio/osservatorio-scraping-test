@@ -4,12 +4,19 @@
   "sourceId": "iai",
   "originUrl": "https://www.iai.it/it",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-26T23:21:13.674942Z",
+  "collectedAt": "2026-11-27T11:27:45.994670Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "A Tale of Two Shores: The EU-UK Reset between Brexit and Brejoin",
+      "url": "https://www.iai.it/it/pubblicazioni/c05/tale-two-shores-eu-uk-reset-between-brexit-and-brejoin",
+      "excerpt": "The November EU-UK summit delivered tangible results on border checks, carbon pricing and youth mobility, but also exposed the limits of the current reset.Burnham needs a deeper economic reset to support his domestic growth agenda.",
+      "publishedAt": "2026-11-27T12:00:00Z",
+      "dateEvidence": "html:publication-time"
+    },
     {
       "title": "Blue Tsunami, Same Waters? US Foreign Policy after the Midterms",
       "url": "https://www.iai.it/it/pubblicazioni/c05/blue-tsunami-same-waters-us-foreign-policy-after-midterms",
@@ -25,6 +32,10 @@
     },
     {
       "url": "https://www.iai.it/it/pubblicazioni/lista/iai-commentaries",
+      "status": 200
+    },
+    {
+      "url": "https://www.iai.it/it/pubblicazioni/c05/tale-two-shores-eu-uk-reset-between-brexit-and-brejoin",
       "status": 200
     },
     {
@@ -46,16 +57,12 @@
     {
       "url": "https://www.iai.it/it/pubblicazioni/c05/serbias-second-democratic-transition",
       "status": 200
-    },
-    {
-      "url": "https://www.iai.it/it/pubblicazioni/c05/house-giorgia-built-melonis-chameleonic-middle-east-policy",
-      "status": 200
     }
   ],
-  "message": "1 notizie recenti con data verificata; copertura parziale.",
+  "message": "2 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [],
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.iai.it/it/pubblicazioni/lista/iai-commentaries",
-  "durationSeconds": 5.7
+  "durationSeconds": 5.4
 }
