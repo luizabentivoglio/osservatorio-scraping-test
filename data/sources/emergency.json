@@ -4,20 +4,116 @@
   "sourceId": "emergency",
   "originUrl": "https://www.emergency.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-27T11:27:40.405772Z",
-  "status": "error",
-  "diagnosticCode": "http_error",
-  "method": "html",
+  "collectedAt": "2026-11-27T22:59:26.068156Z",
+  "status": "ok",
+  "diagnosticCode": null,
+  "method": "trafilatura",
   "feedUrl": null,
-  "items": [],
+  "items": [
+    {
+      "title": "Uganda: inaugurato “Building Joy”, un nuovo parco giochi per i pazienti del nostro ospedale",
+      "url": "https://www.emergency.it/blog/articoli/uganda-inaugurato-building-joy-un-nuovo-parco-giochi-per-i-pazienti-del-nostro-ospedale/",
+      "excerpt": "Uganda: inaugurato “Building Joy”, un nuovo parco giochi per i pazienti del nostro ospedale Uno scivolo, delle altalene, una casetta di legno e uno spazio protetto in cui i bambini e le bambine possano muoversi e giocare all’aria aperta. È stato inaugurato il 20 novembre “Building Joy”, il progetto di un parco giochi f",
+      "publishedAt": "2026-11-23T14:03:12Z",
+      "dateEvidence": "jsonld:datePublished"
+    }
+  ],
   "attempts": [
     {
       "url": "https://www.emergency.it/robots.txt",
-      "status": 415
+      "status": 200
+    },
+    {
+      "url": "https://www.emergency.it/",
+      "status": 200
+    },
+    {
+      "url": "https://www.emergency.it/blog/articoli/uganda-inaugurato-building-joy-un-nuovo-parco-giochi-per-i-pazienti-del-nostro-ospedale/",
+      "status": 200
+    },
+    {
+      "url": "https://www.emergency.it/comunicati-stampa/life-support-seguita-da-imbarcazione-non-identificata-trovato-il-corpo-di-una-donna-alla-deriva/",
+      "status": 200
+    },
+    {
+      "url": "https://www.emergency.it/io-obietto/",
+      "status": 200
+    },
+    {
+      "url": "https://www.emergency.it/tessera/",
+      "status": 200
+    },
+    {
+      "url": "https://www.emergency.it/blog/dai-progetti/gaza-un-anno-dal-cessate-il-fuoco/",
+      "status": 200
+    },
+    {
+      "url": "https://www.emergency.it/progetti/gaza-assistenza-sanitaria/",
+      "status": 200
     }
   ],
-  "message": "HTTP 415",
-  "httpStatus": 415,
-  "failedUrl": "https://www.emergency.it/robots.txt",
-  "durationSeconds": 0.55
+  "message": "1 notizie recenti con data verificata; copertura parziale.",
+  "candidateSamples": [
+    {
+      "url": "https://www.emergency.it/comunicati-stampa/life-support-seguita-da-imbarcazione-non-identificata-trovato-il-corpo-di-una-donna-alla-deriva/",
+      "title": "Life Support seguita da imbarcazione non identificata. Trovato il corpo di una donna alla deriva.",
+      "h1": "Life Support seguita da imbarcazione non identificata. Trovato il corpo di una donna alla deriva.",
+      "dates": []
+    },
+    {
+      "url": "https://www.emergency.it/io-obietto/",
+      "title": "“io obietto”: firma la LIP per il diritto all’obiezione di coscienza alla guerra",
+      "h1": null,
+      "dates": []
+    },
+    {
+      "url": "https://www.emergency.it/tessera/",
+      "title": "Fai la Tessera di EMERGENCY",
+      "h1": "Tessera di EMERGENCY",
+      "dates": []
+    },
+    {
+      "url": "https://www.emergency.it/progetti/gaza-assistenza-sanitaria/",
+      "title": "Scopri il nostro lavoro a Gaza",
+      "h1": "Gaza: assistenza sanitaria di base alla popolazione della Striscia",
+      "dates": [
+        {
+          "tag": "p",
+          "class": [
+            "entry-date"
+          ],
+          "text": "26 Novembre 2026",
+          "datetime": null
+        },
+        {
+          "tag": "p",
+          "class": [
+            "entry-date"
+          ],
+          "text": "15 Ottobre 2026",
+          "datetime": null
+        },
+        {
+          "tag": "p",
+          "class": [
+            "entry-date"
+          ],
+          "text": "10 Marzo 2026",
+          "datetime": null
+        },
+        {
+          "tag": "p",
+          "class": [
+            "entry-date"
+          ],
+          "text": "22 Gennaio 2026",
+          "datetime": null
+        }
+      ]
+    }
+  ],
+  "candidateCount": 8,
+  "datedCount": 2,
+  "listingUrl": "https://www.emergency.it/",
+  "durationSeconds": 7.73
 }

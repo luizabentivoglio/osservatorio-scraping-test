@@ -4,52 +4,52 @@
   "sourceId": "camera",
   "originUrl": "https://www.camera.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-27T11:27:16.964301Z",
+  "collectedAt": "2026-11-27T22:59:00.283447Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
-      "title": "Interpellanze urgenti",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64567",
-      "excerpt": "Nella seduta odierna ha avuto luogo lo svolgimento di interpellanze urgenti sui seguenti argomenti...",
+      "title": "Interpellanze e interrogazioni, Registro orfani crimini domestici",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64584",
+      "excerpt": "La Camera è convocata martedì 1 dicembre alle 11.30 per lo svolgimento di interpellanze e interrog...",
       "publishedAt": "2026-11-27T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "Interpellanze e sicurezza piscine",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64542",
-      "excerpt": "In Aula la discussione generale della proposta di legge: Modifiche alla legge 11 febbraio 1992, n. ...",
+      "title": "Giornata Mondiale della lotta contro l'AIDS - Martedì Montecitorio si illumina di rosso",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64570",
+      "excerpt": "La Camera dei deputati aderisce alla Giornata Mondiale della lotta contro l'AIDS prevista per il 1...",
       "publishedAt": "2026-11-27T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "Cambiare per vincere insieme - Lo sport contro la violenza sulle donne - Venerdì alle 10 diretta webtv - Saluto di Mulè",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64534",
-      "excerpt": "Venerdì 27 novembre, alle ore 10, presso la Sala del Refettorio di Palazzo San Macuto si svolge il ...",
-      "publishedAt": "2026-11-26T00:00:00Z",
+      "title": "Italia - Romania 2026 - Economia e investimenti: un rapporto che cresce - Lunedì alle 9.30 diretta webtv - Saluto di Rampelli",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64568",
+      "excerpt": "Lunedì 30 novembre, alle ore 9.30, presso la Sala della Regina di Montecitorio si svolge il convegn...",
+      "publishedAt": "2026-11-27T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "Premio Prisma - Premio alle imprese che creano valore condiviso - Venerdì alle 11 diretta webtv - Saluto di Costa",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64529",
-      "excerpt": "Venerdì 27 novembre, alle ore 11, presso la Sala della Regina di Montecitorio si svolge la presenta...",
-      "publishedAt": "2026-11-26T00:00:00Z",
+      "title": "La conseguenza di un gesto - Bullismo e violenza giovanile: il dopo che non si vede - Lunedì alle 9.45 diretta webtv - Messaggio di Fontana",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64569",
+      "excerpt": "Lunedì 30 novembre, alle ore 9.45, presso la Sala del Refettorio di Palazzo San Macuto si svolge il...",
+      "publishedAt": "2026-11-27T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "Il valore di rappresentare l'Italia - Il diritto di essere rappresentati - Venerdì alle 11 diretta webtv - Saluto di Ascani, Mulè e Rampelli",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64533",
-      "excerpt": "Venerdì 27 novembre, alle ore 11, presso l'Aula dei Gruppi parlamentari si svolge la Conferenza naz...",
-      "publishedAt": "2026-11-26T00:00:00Z",
+      "title": "Quadro finanziario pluriennale Ue, audizione Foti - Martedì alle 11.30 diretta webtv",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64599",
+      "excerpt": "Martedì 1° dicembre, alle ore 11.30, presso l’aula convegni del Senato, le Commissioni Bilancio ...",
+      "publishedAt": "2026-11-27T00:00:00Z",
       "dateEvidence": "html:publication-label"
     },
     {
-      "title": "Responsabili Leadership - Il valore della reputazione nell'economia che cambia - Venerdì alle 17.30 diretta webtv - Saluto di Ascani",
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64527",
-      "excerpt": "Venerdì 27 novembre, alle ore 17.30, presso la Sala della Regina di Montecitorio si svolge il conve...",
-      "publishedAt": "2026-11-26T00:00:00Z",
+      "title": "Audizione per nomina Presidente e componenti Anac - Martedì alle 12.30 diretta webtv",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64603",
+      "excerpt": "Martedì 1° dicembre, alle ore 12.30, le Commissione riunite Affari costituzionali di Camera e Sen...",
+      "publishedAt": "2026-11-27T00:00:00Z",
       "dateEvidence": "html:publication-label"
     }
   ],
@@ -63,27 +63,27 @@
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64567",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64584",
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64542",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64570",
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64534",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64568",
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64529",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64569",
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64533",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64599",
       "status": 200
     },
     {
-      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64527",
+      "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-64603",
       "status": 200
     }
   ],
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://comunicazione.camera.it/archivio-prima-pagina",
-  "durationSeconds": 4.3
+  "durationSeconds": 4.49
 }

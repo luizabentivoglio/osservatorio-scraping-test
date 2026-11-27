@@ -4,12 +4,19 @@
   "sourceId": "pagella-politica",
   "originUrl": "https://pagellapolitica.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-27T11:28:03.077077Z",
+  "collectedAt": "2026-11-27T22:59:51.102321Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "Ponti, piazze e campi da tennis: i deputati usano la manovra come un regolamento comunale",
+      "url": "https://pagellapolitica.it/articoli/legge-di-bilancio-emendamenti-deputati",
+      "excerpt": "Almeno 300 emendamenti alla legge di Bilancio chiedono di assegnare milioni di euro per interventi nei territori di...",
+      "publishedAt": "2026-11-25T00:00:00Z",
+      "dateEvidence": "html:post-date"
+    },
     {
       "title": "Per l’ultimo pacchetto di aiuti militari all’Ucraina c’è voluto un anno",
       "url": "https://pagellapolitica.it/articoli/ultimo-pacchetto-aiuti-militari-ucraina",
@@ -44,13 +51,6 @@
       "excerpt": "I governi non sono riusciti a trovare un’intesa, ma non è necessariamente un passo indietro nella lotta al...",
       "publishedAt": "2026-11-24T00:00:00Z",
       "dateEvidence": "html:post-date"
-    },
-    {
-      "title": "Perché Gianni De Gennaro era indagato per depistaggio sulla strage di via D’Amelio",
-      "url": "https://pagellapolitica.it/articoli/de-gennaro-indagine-motivi",
-      "excerpt": "La procura aveva chiesto gli arresti domiciliari per l’ex capo della polizia ma per la giudice gli elementi erano...",
-      "publishedAt": "2026-11-23T00:00:00Z",
-      "dateEvidence": "html:post-date"
     }
   ],
   "attempts": [
@@ -60,6 +60,10 @@
     },
     {
       "url": "https://pagellapolitica.it/articoli",
+      "status": 200
+    },
+    {
+      "url": "https://pagellapolitica.it/articoli/legge-di-bilancio-emendamenti-deputati",
       "status": 200
     },
     {
@@ -81,10 +85,6 @@
     {
       "url": "https://pagellapolitica.it/articoli/cop31-fallimento-buona-notizia",
       "status": 200
-    },
-    {
-      "url": "https://pagellapolitica.it/articoli/de-gennaro-indagine-motivi",
-      "status": 200
     }
   ],
   "message": "6 notizie recenti con data verificata; copertura parziale.",
@@ -92,5 +92,5 @@
   "candidateCount": 6,
   "datedCount": 6,
   "listingUrl": "https://pagellapolitica.it/articoli",
-  "durationSeconds": 6.14
+  "durationSeconds": 6.84
 }

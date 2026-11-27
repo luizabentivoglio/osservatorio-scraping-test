@@ -4,12 +4,19 @@
   "sourceId": "italia-domani-rizzo",
   "originUrl": "https://www.italiadomanirizzo.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-27T11:27:53.007228Z",
+  "collectedAt": "2026-11-27T22:59:39.047904Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "Italia Domani cresce a Torino: nuovi ingressi, sede a Borgo Vittoria e corsa a sindaco - Italia Domani",
+      "url": "https://www.italiadomanirizzo.it/italia-domani-cresce-a-torino-nuovi-ingressi-sede-a-borgo-vi/",
+      "excerpt": "Grande fermento a Torino per Italia Domani: accolti due consiglieri circoscrizionali, inaugurata la sede a Borgo Vittoria e presentate le proposte del candidato sindaco Salvatore Ippolito.",
+      "publishedAt": "2026-11-27T00:00:00Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
     {
       "title": "Scafati allagata: Italia Domani di Marco Rizzo contro l'incuria dell'amministrazione - Italia Domani",
       "url": "https://www.italiadomanirizzo.it/scafati-sott-acqua-italia-domani-denuncia-l-incuria-dell-amm/",
@@ -23,13 +30,6 @@
       "excerpt": "Mercoledì 2 dicembre all'Hotel 500 di Campi Bisenzio si terrà l'evento regionale di Italia Domani con Marco Rizzo, la dirigenza nazionale e la cena per gli auguri natalizi.",
       "publishedAt": "2026-11-24T00:00:00Z",
       "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Marco Rizzo: chiusura alla sinistra e sfida sulla reale efficacia politica - Italia Domani",
-      "url": "https://www.italiadomanirizzo.it/marco-rizzo-chiusura-alla-sinistra-e-sfida-sulla-reale-effic/",
-      "excerpt": "Marco Rizzo chiude le porte alla sinistra e guarda oltre con determinazione: «Sarei molto più efficace di Salvini, io». Una presa di posizione netta e pragmatica.",
-      "publishedAt": "2026-11-19T00:00:00Z",
-      "dateEvidence": "jsonld:datePublished"
     }
   ],
   "attempts": [
@@ -42,15 +42,15 @@
       "status": 200
     },
     {
+      "url": "https://www.italiadomanirizzo.it/italia-domani-cresce-a-torino-nuovi-ingressi-sede-a-borgo-vi/",
+      "status": 200
+    },
+    {
       "url": "https://www.italiadomanirizzo.it/scafati-sott-acqua-italia-domani-denuncia-l-incuria-dell-amm/",
       "status": 200
     },
     {
       "url": "https://www.italiadomanirizzo.it/italia-domani-fa-tappa-in-toscana-il-2-dicembre-grande-incon/",
-      "status": 200
-    },
-    {
-      "url": "https://www.italiadomanirizzo.it/marco-rizzo-chiusura-alla-sinistra-e-sfida-sulla-reale-effic/",
       "status": 200
     },
     {
@@ -94,5 +94,5 @@
   "candidateCount": 8,
   "datedCount": 3,
   "listingUrl": "https://www.italiadomanirizzo.it/",
-  "durationSeconds": 5.73
+  "durationSeconds": 7.03
 }

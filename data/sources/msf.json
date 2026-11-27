@@ -4,12 +4,19 @@
   "sourceId": "msf",
   "originUrl": "https://www.medicisenzafrontiere.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-27T11:27:57.127095Z",
+  "collectedAt": "2026-11-27T22:59:44.277295Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "Sud del Libano/Rapporto MSF: “Dalle ferite causate dai droni ai soccorritori colpiti, gli attacchi israeliani hanno conseguenze devastanti”",
+      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/sud-libano-rapporto-msf-ferite-causate-droni-soccorritori-colpiti-attacchi-israeliani-hanno-conseguenze-devastanti/",
+      "excerpt": "Nel Libano meridionale, gli attacchi israeliani hanno conseguenze devastanti e durature sulla popolazione civile e sul sistema sanitario. Con l’intensificarsi del conflitto dall’inizio del 2026, le équipe di Medici Senza Frontiere hanno supportato gli ospedali e i soccorritori, assistendo in prima persona alle gravi co",
+      "publishedAt": "2026-11-27T11:40:02Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
     {
       "title": "Haiti, MSF: “livelli allarmanti di violenza sessuale contro le donne”",
       "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/haiti-msf-livelli-allarmanti-violenza-sessuale-contro-donne/",
@@ -44,13 +51,6 @@
       "excerpt": "La situazione nella Striscia di Gaza: cronaca aggiornata della crisi umanitaria, l'impatto sulla popolazione e il lavoro di Medici Senza Frontiere sul campo.",
       "publishedAt": "2026-11-23T10:24:29Z",
       "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "RDC/Nord Kivu: ragazzo di 15 anni muore in attesa di evacuazione medica a causa degli scontri a Nyabiondo",
-      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/rdc-nord-kivu-ragazzo-15-anni-muore-attesa-evacuazione-medica-causa-scontri-nyabiondo/",
-      "excerpt": "L'intensificarsi degli scontri armati a Nyabiondo, nel territorio di Masisi, Nord Kivu, hanno causato la tragica morte di un ragazzo di 15 anni, ferito da colpi d’arma da fuoco, mentre attendeva un trasferimento medico urgente. Le ostilità interrompono l'accesso alle cure a Nyabiondo Il trasferimento è stato reso impos",
-      "publishedAt": "2026-11-21T11:56:00Z",
-      "dateEvidence": "jsonld:datePublished"
     }
   ],
   "attempts": [
@@ -60,6 +60,10 @@
     },
     {
       "url": "https://www.medicisenzafrontiere.it/",
+      "status": 200
+    },
+    {
+      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/sud-libano-rapporto-msf-ferite-causate-droni-soccorritori-colpiti-attacchi-israeliani-hanno-conseguenze-devastanti/",
       "status": 200
     },
     {
@@ -81,10 +85,6 @@
     {
       "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/situazione-striscia-gaza/",
       "status": 200
-    },
-    {
-      "url": "https://www.medicisenzafrontiere.it/news-e-storie/news/rdc-nord-kivu-ragazzo-15-anni-muore-attesa-evacuazione-medica-causa-scontri-nyabiondo/",
-      "status": 200
     }
   ],
   "message": "6 notizie recenti con data verificata; copertura parziale.",
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.medicisenzafrontiere.it/",
-  "durationSeconds": 3.92
+  "durationSeconds": 4.27
 }

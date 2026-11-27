@@ -4,12 +4,26 @@
   "sourceId": "istat",
   "originUrl": "https://www.istat.it/",
   "configuredFeedUrl": "https://www.istat.it/feed/",
-  "collectedAt": "2026-11-27T11:27:49.618207Z",
+  "collectedAt": "2026-11-27T22:59:35.896257Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.istat.it/feed/",
   "items": [
+    {
+      "title": "Sedicesima Conferenza Nazionale di Statistica",
+      "url": "https://www.istat.it/evento/sedicesima-conferenza-nazionale-di-statistica/",
+      "excerpt": "Un’occasione di confronto tra produttori e utilizzatori di dati per dialogare sul ruolo strategico e le prospettive di sviluppo della statistica ufficiale",
+      "publishedAt": "2026-11-27T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Concorso pubblico a 46 posti di tecnologo di III livello professionale a tempo indeterminato (cod",
+      "url": "https://www.istat.it/concorso-o-selezione/concorso-pubblico-a-46-posti-di-tecnologo-di-iii-livello-professionale-a-tempo-indeterminato-cod-tec-iii-2025/",
+      "excerpt": "Online su InPA l'esito della prova orale del concorso pubblico per Tecnologo di III livello area F",
+      "publishedAt": "2026-11-27T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "Commercio estero extra UE – Ottobre 2026",
       "url": "https://www.istat.it/comunicato-stampa/commercio-estero-extra-ue-ottobre-2026/",
@@ -28,6 +42,13 @@
       "title": "Flussi fisici di energia (Pefa) – Anni 2008-2024",
       "url": "https://www.istat.it/sistema-informativo-6/flussi-fisici-di-energia-pefa-anni-2008-2024-2/",
       "excerpt": "Aggiornata la serie storica 2008-2024 dei Conti dei flussi fisici di energia (Pefa)",
+      "publishedAt": "2026-11-26T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Esposizione digitale immersiva",
+      "url": "https://www.istat.it/evento/esposizione-digitale-immersiva/",
+      "excerpt": "Il patrimonio di dati dell’Istat come vera e propria testimonianza della memoria comune: un percorso attraverso cento anni di storia",
       "publishedAt": "2026-11-26T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -58,27 +79,6 @@
       "excerpt": "Nei primi tre trimestri del 2026 le vittime che si rivolgono al 1522 sono 16.809. Diminuiscono ulteriormente le chiamate non valide, che scendono al 5% del totale.",
       "publishedAt": "2026-11-26T00:00:00Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "La violenza sulle donne: nuovi dati Istat – Novembre 2026",
-      "url": "https://www.istat.it/notizia/la-violenza-sulle-donne-nuovi-dati-istat-novembre-2026/",
-      "excerpt": "L’Istat come ogni anno rilascia nuovi prodotti per la stampa sul tema della violenza sulle donne",
-      "publishedAt": "2026-11-25T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Infografiche: Giornata internazionale per l’eliminazione della violenza – 2026",
-      "url": "https://www.istat.it/infografiche/infografiche-giornata-internazionale-per-leliminazione-della-violenza-2026/",
-      "excerpt": "Online le infografiche per la Giornata internazionale per l'eliminazione della violenza 2026",
-      "publishedAt": "2026-11-25T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Concorso pubblico a 46 posti di tecnologo di III livello professionale a tempo indeterminato (cod",
-      "url": "https://www.istat.it/concorso-o-selezione/concorso-pubblico-a-46-posti-di-tecnologo-di-iii-livello-professionale-a-tempo-indeterminato-cod-tec-iii-2025/",
-      "excerpt": "Online su InPA l'avviso di pubblicazione dell'esito delle prove orali relative al concorso TEC-III-2025, Area D",
-      "publishedAt": "2026-11-25T00:00:00Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -92,5 +92,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 4.75
+  "durationSeconds": 2.97
 }

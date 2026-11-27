@@ -4,12 +4,19 @@
   "sourceId": "wwf",
   "originUrl": "https://www.wwf.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-27T11:28:23.188613Z",
+  "collectedAt": "2026-11-27T23:00:15.419696Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "Allarmi richiami vivi, si indebolisce lotta a bracconaggio e traffici illegali",
+      "url": "https://www.wwf.it/pandanews/animali/allarmi-richiami-vivi-si-indebolisce-lotta-a-bracconaggio-e-traffici-illegali/",
+      "excerpt": "Il WWF avverte che le nuove norme contenute nella Pdl Caccia rischiano di portare l'Italia verso una nuova procedura di infrazione con l'UE",
+      "publishedAt": "2026-11-27T14:48:36Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
     {
       "title": "Legge sulla caccia, clamorosa bocciatura della Commissione Politiche dell’Ue",
       "url": "https://www.wwf.it/pandanews/animali/legge-sulla-caccia-clamorosa-bocciatura-della-commissione-politiche-dellue/",
@@ -44,13 +51,6 @@
       "excerpt": "Si è svolta in Grewcia la tavola rotonda del progetto europeo LIFE ADAPTS, Climate Change ADAptations to Protect Turtles and Monk Seals",
       "publishedAt": "2026-11-23T16:12:59Z",
       "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "La Terra chiamò: da Elisa a Pistoletto, artisti e oltre 100 realtà in piazza per il clima",
-      "url": "https://www.wwf.it/pandanews/clima/la-terra-chiamo-da-elisa-a-pistoletto-artisti-e-oltre-100-realta-in-piazza-per-il-clima/",
-      "excerpt": "Appuntamento a Piazza del Popolo, a Roma, sabato 5 dicembre per la manifestazione nazionale contro la crisi climatica",
-      "publishedAt": "2026-11-23T11:11:51Z",
-      "dateEvidence": "jsonld:datePublished"
     }
   ],
   "attempts": [
@@ -60,6 +60,10 @@
     },
     {
       "url": "https://www.wwf.it/",
+      "status": 200
+    },
+    {
+      "url": "https://www.wwf.it/pandanews/animali/allarmi-richiami-vivi-si-indebolisce-lotta-a-bracconaggio-e-traffici-illegali/",
       "status": 200
     },
     {
@@ -81,10 +85,6 @@
     {
       "url": "https://www.wwf.it/pandanews/animali/tartarughe-marine-foca-monaca-clima/",
       "status": 200
-    },
-    {
-      "url": "https://www.wwf.it/pandanews/clima/la-terra-chiamo-da-elisa-a-pistoletto-artisti-e-oltre-100-realta-in-piazza-per-il-clima/",
-      "status": 200
     }
   ],
   "message": "6 notizie recenti con data verificata; copertura parziale.",
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.wwf.it/",
-  "durationSeconds": 4.08
+  "durationSeconds": 4.49
 }

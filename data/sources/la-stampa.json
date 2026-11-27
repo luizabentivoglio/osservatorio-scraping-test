@@ -4,21 +4,21 @@
   "sourceId": "la-stampa",
   "originUrl": "https://www.lastampa.it/",
   "configuredFeedUrl": "https://www.lastampa.it/rss/copertina.xml",
-  "collectedAt": "2026-11-27T11:27:54.421856Z",
+  "collectedAt": "2026-11-27T22:59:40.464065Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.lastampa.it/rss/copertina.xml",
   "items": [
     {
-      "title": "Marc Marquez si ritira: \"Questa sarà la mia ultima gara”. Cosa c'è dietro l'addio",
-      "url": "https://www.lastampa.it/sport/2026/11/27/news/moto_gp_marquez_annuncia_ritiro-15811408/",
-      "excerpt": "Lo spagnolo lo ha fatto sapere con un cartello mostrato alle telecamere durante le prime prove libere del GP di Valencia",
+      "title": "Davis, Italia da brividi: Musetti e Vavassori firmano la rimonta, è finale!",
+      "url": "https://www.lastampa.it/sport/2026/11/27/news/coppa-davis-italia-finale-rimonta-musetti-vavassori-15812107/",
+      "excerpt": "Sconfitta la Repubblica Ceca in tre set",
       "publishedAt": "2026-11-27T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Dai social alla trincea: la truffa dei soldati stranieri reclutati dalla Russia per 100 mila dollari",
+      "title": "Dai social alla trincea: la truffa ai soldati brasiliani reclutati dalla Russia per 100 mila dollari",
       "url": "https://www.lastampa.it/tech/2026/11/27/news/russia_reclutamento_soldati_stranieri_stipendi_esercito-15811435/",
       "excerpt": "Un’inchiesta del New York Times racconta le storie di alcuni cittadini brasiliani arruolati per combattere in Ucraina. Secondo una commissione delle Nazioni Unite, uomini provenienti da 29 Paesi sono stati reclutati con inganni o coercizioni. Kiev ha aperto un’indagine per tratta di esseri umani",
       "publishedAt": "2026-11-27T00:00:00Z",
@@ -32,37 +32,51 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "La ricetta di Chiellini per il calcio italiano: “Incentivi ai giovani e una Juve con più identità”",
-      "url": "https://www.lastampa.it/economia/speciali/la-stampa-per-voi/2026/11/27/news/ricetta_chiellini_calcio_italiano-15811444/",
-      "excerpt": "«Ci vuole energia per fare qualcosa di diverso perché qualcosa negli ultimi vent’anni non ha funzionato». Ospite a La Stampa per voi al Museo nazionale dell’automobile, Giorgio ...",
+      "title": "Legge elettorale, La Russa attacca la Consulta: “Togliere il nome del premier sarebbe un aiuto alla sinistra”",
+      "url": "https://www.lastampa.it/politica/2026/11/27/news/legge-elettorale-la-russa-consulta-nome-premier-sinistra-15812047/",
+      "excerpt": "ll presidente del Senato contesta in anticipo un eventuale intervento della Corte sull'obbligo di indicare il candidato a Palazzo Chigi. Il Pd insorge. Boccia: «Gravità istituzionale inaudita, delegittima i giudici costituzionali»",
       "publishedAt": "2026-11-27T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Quirico, dalle guerre al nuovo ordine mondiale: “Il mondo va a fondo”",
-      "url": "https://www.lastampa.it/economia/speciali/la-stampa-per-voi/2026/11/27/news/domenico_quirico_conflitti_mondiali-15811460/",
-      "excerpt": "Una guerra che entra nella quotidianità. E che, secondo il giornalista ed editorialista de La Stampa Domenico Quirico - in dialogo con la caporedattrice della Cronaca ...",
+      "title": "Anm, Tango: “Non siamo antagonisti di nessun governo”. L’appello a fermare i linciaggi",
+      "url": "https://www.lastampa.it/politica/2026/11/27/news/anm-tango-governo-linciaggi-magistrati-15811710/",
+      "excerpt": "Al congresso di Napoli, davanti a Mattarella, il presidente dell’Anm avverte: delegittimare i magistrati mina la fiducia dei cittadini nella giustizia. E sugli ispettori: «Si possono agevolmente tradurre in uno strumento di indebita pressione»",
       "publishedAt": "2026-11-27T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "“Un miliardo di euro contro i blackout”: il piano Iren di Dal Fabbro per Torino",
-      "url": "https://www.lastampa.it/economia/speciali/la-stampa-per-voi/2026/11/27/news/piano_iren_dal_fabbro_torino_blackout-15811452/",
-      "excerpt": "Energia, attacchi hacker, intelligenza artificiale, futuro. Il presidente di Iren Luca Dal Fabbro, sul palco di La Stampa per voi insieme alla vice capo-redattrice ...",
+      "title": "Torino, il cuore de La Stampa. Il direttore Di Rosa tra segnali di ripresa e la sfida digitale",
+      "url": "https://www.lastampa.it/economia/speciali/la-stampa-per-voi/2026/11/27/video/torino_il_cuore_de_la_stampa_il_direttore_di_rosa_tra_segnali_di_ripresa_e_la_sfida_digitale-15811791/",
+      "excerpt": "Cinque mesi senza respiro. Antonio Di Rosa, direttore de La Stampa dal 1° luglio 2026, traccia un primo bilancio sul palco di «La Stampa per voi», al Museo nazionale dell’Automobile di Torino. In un mercato editoriale in difficoltà, rivendica i primi segnali di ripresa sul fronte delle vendite: «Abbiamo recuperato il 5",
       "publishedAt": "2026-11-27T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "De Gennaro, i misteri dell’uomo di fiducia del sistema che piaceva agli ex comunisti e a Berlusconi",
-      "url": "https://www.lastampa.it/cronaca/2026/11/27/news/de_gennaro_i_misteri_dell_uomo_di_fiducia_del_sistema_che_piaceva_agli_ex_comunisti_e_a_berlusconi-15810839/",
-      "excerpt": "Personaggio-cerniera tra Prima e Seconda Repubblica, è stato scelto dalla sinistra come dalla destra",
+      "title": "L’astronauta Parmitano: “Si torna sulla Luna per fare ricerca a lunga durata”",
+      "url": "https://www.lastampa.it/economia/speciali/la-stampa-per-voi/2026/11/27/news/l_astronauta_parmitano_si_torna_sulla_luna_per_fare_ricerca_a_lunga_durata-15811623/",
+      "excerpt": "Il «ritorno sulla Luna» di Luca Parmitano, astronauta dell’Agenzia spaziale europea, si avvicina sempre di più. Data di partenza di Artemis III, di cui ...",
       "publishedAt": "2026-11-27T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Martelli: “Nelle parole di De Gennaro disgusto e sfida. Parlino gli ex premier che ha citato”",
-      "url": "https://www.lastampa.it/politica/2026/11/27/news/martelli_parole_de_gennaro_disgusto_sfida_parlino_ex_premier-15810824/",
-      "excerpt": "L’ex ministro: «Potrebbero aiutare a chiarire che non è stato un uomo di sfrenata ambizione»",
+      "title": "Chiellini e la crisi del calcio italiano: \"Ecco perché è più facile comprare un giovane straniero\"",
+      "url": "https://www.lastampa.it/economia/speciali/la-stampa-per-voi/2026/11/27/video/calcio_italiano_crisi_chiellini-15811499/",
+      "excerpt": "Ospite di «La Stampa per voi», l'evento organizzato dal nostro quotidiano al Museo Nazionale dell'Automobile di Torino, Giorgio Chiellini, chief club affairs officer della Juventus, ha parlato con Fabio Riva delle difficoltà del calcio italiano e delle possibili soluzioni per rilanciare il movimento. Da qui la proposta",
+      "publishedAt": "2026-11-27T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Luca Mercalli, davanti ai negozi un avviso: “Porta chiusa per risparmio energia e futuro ai figli”",
+      "url": "https://www.lastampa.it/economia/speciali/la-stampa-per-voi/2026/11/27/news/luca_mercalli_davanti_ai_negozi_un_avviso_porta_chiusa_per_risparmio_energia_e_futuro_ai_figli-15811805/",
+      "excerpt": "È stato un 2026 da record per quanto riguarda il cambiamento climatico in Italia. Partendo con la frana a Niscemi, passando per ...",
+      "publishedAt": "2026-11-27T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "De Gennaro, terminata l'autopsia: confermato il suicidio. No segni di violenza da terzi",
+      "url": "https://www.lastampa.it/cronaca/2026/11/27/news/de_gennaro_terminata_autopsia_careggi-15811865/",
+      "excerpt": "Quasi undici ore di analisi: l’obiettivo è stabile l’orario e le circostanze del decesso",
       "publishedAt": "2026-11-27T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -74,30 +88,44 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Due italiani uccisi dai droni in Kuwait: “Armi iraniane”, ma Teheran nega",
-      "url": "https://www.lastampa.it/esteri/2026/11/27/news/due_italiani_uccisi_dai_droni_in_kuwait_armi_iraniane_ma_teheran_nega-15810904/",
-      "excerpt": "I tecnici della Rheinmetall erano nell’emirato per fare manutenzione al sistema antiaereo “Skyguard”. Sono i primi connazionali morti nella guerra che insanguina la regione. Tajani accusa: «I Pasdaran o milizie alleate»",
+      "title": "Nei messaggi di De Gennaro una sfida per lo Stato",
+      "url": "https://www.lastampa.it/editoriali/lettere-e-idee/2026/11/27/news/nei_messaggi_di_de_gennaro_una_sfida_per_lo_stato-15810852/",
+      "excerpt": "In questa nuova notte della Repubblica, che periodicamente accumula misteri sui suoi passaggi cruciali e perennemente priva di un passato condiviso, il “testamento morale” di Gianni De Gennaro, ...",
       "publishedAt": "2026-11-27T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "È morto Juary, allievo di Pelé e idolo dell’Avellino in Serie A",
-      "url": "https://www.lastampa.it/sport/2026/11/27/news/morto_juary_attaccante_brasiliano_ex_inter-15811280/",
-      "excerpt": "Aveva 67 anni, è rimasto uno dei volti più amati della storia biancoverde",
+      "title": "Soldi, risparmio e futuro: a Torino il festival che insegna ai giovani a non farsi ingannare",
+      "url": "https://www.lastampa.it/tuttosoldi/2026/11/27/news/tuttosoldi_festival_educazione_finanziaria_giovani-15811563/",
+      "excerpt": "Due giorni al Collegio Carlo Alberto dedicati alla cultura finanziaria degli under 35. Tra Nobel, imprenditori, economisti e giornalisti, un viaggio per imparare a risparmiare, investire e difendersi dalle truffe",
       "publishedAt": "2026-11-27T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Famiglia del bosco, l’ultimo colpo di scena: sospesa l’assistente sociale",
-      "url": "https://www.lastampa.it/cronaca/2026/11/27/news/famiglia_nel_bosco_sospesa_assistente_sociale-15811314/",
-      "excerpt": "Lo stop di 70 giorni deciso dal Collegio di disciplina dell’ordine professionale regionale: “Non ha fatto nulla per instaurare un rapporto di fiducia con la madre dei bimbi”",
+      "title": "Venezia, sparatoria tra poliziotti e due ricercati: un morto e un uomo in fuga",
+      "url": "https://www.lastampa.it/cronaca/2026/11/27/news/sparatoria-cavarzere-polizia-morto-ricercato-fuga-15811784/",
+      "excerpt": "A San Pietro di Cavarzere gli agenti arrivati dalla Campania dovevano eseguire due arresti. Morto uno dei ricercati, arrestato un terzo uomo. L’altro ricercato è fuggito armato nei campi: ricerche anche con un elicottero",
       "publishedAt": "2026-11-27T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Pianezza si sveglia senz’acqua, il guasto dura sei ore poi l’emergenza finisce",
-      "url": "https://www.lastampa.it/torino/2026/11/27/news/pianezza_guasto_impianto_acqua-15811261/",
-      "excerpt": "Il problema è durato meno del previsto ed è stato risolto intorno alle 11: Smat ha sostituito due pompe",
+      "title": "L’esistenza è nostra, non della burocrazia. E il diritto al fine vita riguarda tutti",
+      "url": "https://www.lastampa.it/cuneo/2026/11/27/news/l_esistenza_e_nostra_non_della_burocrazia_e_il_diritto_al_fine_vita_riguarda_tutti-15811813/",
+      "excerpt": "Conosco la sofferenza, la mia e quella di tante persone che soffrono o hanno sofferto accanto a me",
+      "publishedAt": "2026-11-27T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Firraru 2024 di Feudo Maccari è il miglior vino bianco d’Italia",
+      "url": "https://www.lastampa.it/sapore/2026/11/27/news/firraru_2024_feudo_maccari_miglior_vino_bianco_italia-15811896/",
+      "excerpt": "Il Grillo in purezza della tenuta siciliana della famiglia Moretti Cuseri conquista 110 Cum Laude, il massimo riconoscimento della Guida de L’Espresso 2027",
+      "publishedAt": "2026-11-27T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Raddoppiano le trappole “americane” per catturare i cinghiali",
+      "url": "https://www.lastampa.it/novara/2026/11/27/news/trappole_americane_catture_cinghiali-15810271/",
+      "excerpt": "Nel Novarese la polizia provinciale acquista una nuova maxi rete: attiva da 2027",
       "publishedAt": "2026-11-27T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -116,58 +144,9 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "La falsa famiglia, i riti voodoo e l’agguato in bici: il delitto di Fabio Ravasio",
-      "url": "https://www.lastampa.it/plus/rubriche/coordinate-criminali/2026/11/27/news/la_falsa_famiglia_i_riti_voodoo_e_l_agguato_in_bici_il_delitto_di_fabio_ravasio-15810943/",
-      "excerpt": "Adilma Pereira Carneiro ha orchestrato l’omicidio per intascare il patrimonio da 3 milioni",
-      "publishedAt": "2026-11-27T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Elena Cattaneo: “Per i nostri politici la scienza è scomoda”",
-      "url": "https://www.lastampa.it/speciale/scienza/il-cielo/2026/11/27/news/elena_cattaneo_scienza_politica_giovani_ricercatori-15811458/",
-      "excerpt": "Biologa di fama internazionale e senatrice a vita, ha inaugurato a Torino la nuova stagione di GiovedìScienza. Il suo ultimo libro «Consigli ai giovani ricercatori» attualizza l’insegnamento di Ramon y Cajal, premio Nobel nel 1906",
-      "publishedAt": "2026-11-27T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Vino ed emergenza clima, scalare le Dolomiti in cerca della freschezza",
-      "url": "https://www.lastampa.it/plus/rubriche/fuori-menu/2026/11/27/news/vino_emergenza_clima_vigne_altitudine_dolomiti_siccita_cavit-15810299/",
-      "excerpt": "Vigne a cento metri più in alto e 2 milioni di investimenti per l’irrigazione: così Cavit, la più grande cooperativa di viticoltura del Trentino, combatte il cambiamento climatico tra caldo record, siccità e fiumi aridi",
-      "publishedAt": "2026-11-27T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Angelo Binaghi: “Atp Finals, certezza Torino: è come stare sulla Luna. Italia coraggiosa in Davis”",
-      "url": "https://www.lastampa.it/sport/2026/11/27/news/angelo_binaghi_atp_finals_certezza_torino_e_come_stare_sulla_luna_italia_coraggiosa_in_davis-15810807/",
-      "excerpt": "Il n. 1 Fitp: «Lascio le Coree al calcio, ho fiducia in Cobolli»",
-      "publishedAt": "2026-11-27T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Sánchez, il dibattito e la rimonta possibile: la candidata Colau brilla e gli fa sponda",
-      "url": "https://www.lastampa.it/esteri/2026/11/27/news/elezioni_spagna_dibattito_ada_colau_sanchez_feijoo_abascal_29_novembre_2026-15811140/",
-      "excerpt": "A tre giorni dal voto, l’ex sindaca di Barcellona detta il ritmo del dibattito: apre sulla violenza maschile e incalza anche il premier sugli affitti. Scontro sui tagli di Vox, su Ceuta e sulla parola genocidio per Gaza",
-      "publishedAt": "2026-11-27T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "A Ceuta, dove la paura dei migranti spinge Vox. “Ma noi viviamo in garage”",
-      "url": "https://www.lastampa.it/esteri/2026/11/27/news/a_ceuta_dove_la_paura_dei_migranti_spinge_vox_ma_noi_viviamo_in_garage-15810887/",
-      "excerpt": "Nell’enclave spagnola sono rimasti almeno 10 mila irregolari",
-      "publishedAt": "2026-11-27T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Oltre 50mila ragazzi premiati, poi la resa: chiude dopo 27 anni la fondazione di Lady Diana",
-      "url": "https://www.lastampa.it/esteri/2026/11/27/news/lady_diana_chiude_fondazione_diana_award-15811317/",
-      "excerpt": "L'organizzazione nata per mantenere viva la memoria della principessa del Galles finisce in amministrazione controllata. William: sono profondamente dispiaciuto",
-      "publishedAt": "2026-11-27T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "\"Purtroppo parla di me\": la confessione di Shade sul nuovo singolo e la scelta su Sanremo",
-      "url": "https://www.lastampa.it/spettacoli/2026/11/27/video/shade_nuovo_singolo_volevo_solo_dirti-15811396/",
-      "excerpt": "È un brano che racconta la fine di una relazione, quando l'amore non è ancora svanito ma stare insieme non basta più. Shade torna con Volevo solo dirti, il nuovo singolo disponibile dal 27 novembre, e ne parla durante un'intervista nella redazione de La Stampa. «È autobiografico, purtroppo», confessa il rapper torinese",
+      "title": "“La gente o mi ama o mi odia. Io divido”: la vita senza filtri dello stilista Philipp Plein",
+      "url": "https://www.lastampa.it/spettacoli/2026/11/27/news/designer_philipp_plein_docuserie-15811344/",
+      "excerpt": "In «Plein – Family. Business. Dreams», il personaggio lascia spazio all’uomo: «Per 25 anni c’è stato solo il mio lavoro. Oggi la mia famiglia è diventata la cosa più importante»",
       "publishedAt": "2026-11-27T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -179,16 +158,51 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Via alla stagione invernale: ecco dove sciare (con lo sconto) già questo weekend",
-      "url": "https://www.lastampa.it/montagna/2026/11/27/news/via_alla_stagione_invernale_ecco_dove_sciare_con_lo_sconto_gia_questo_weekend-15811227/",
-      "excerpt": "Dal Piemonte alle Dolomiti, prime piste agibili con tante promozioni. Dal 5 dicembre apriranno poi tutti gli altri comprensori per il Ponte dell’Immacolata",
+      "title": "Elena Cattaneo: “Per i nostri politici la scienza è scomoda”",
+      "url": "https://www.lastampa.it/speciale/scienza/il-cielo/2026/11/27/news/elena_cattaneo_scienza_politica_giovani_ricercatori-15811458/",
+      "excerpt": "Biologa di fama internazionale e senatrice a vita, ha inaugurato a Torino la nuova stagione di GiovedìScienza. Il suo ultimo libro «Consigli ai giovani ricercatori» attualizza l’insegnamento di Ramon y Cajal, premio Nobel nel 1906",
       "publishedAt": "2026-11-27T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "I film italiani più interessanti dei discorsi che li riguardano",
-      "url": "https://www.lastampa.it/torino/speciali/torino-film-festival/2026/11/27/news/i_film_italiani_piu_interessanti_dei_discorsi_che_li_riguardano-15810759/",
-      "excerpt": "Ficarra e Picone hanno portato al Torino Film Festival un curioso problema: il cinema italiano continua a fare film migliori dei discorsi che lo riguardano. Fra le opere di ...",
+      "title": "La falsa famiglia, i riti voodoo e l’agguato in bici: il delitto di Fabio Ravasio",
+      "url": "https://www.lastampa.it/plus/rubriche/coordinate-criminali/2026/11/27/news/la_falsa_famiglia_i_riti_voodoo_e_l_agguato_in_bici_il_delitto_di_fabio_ravasio-15810943/",
+      "excerpt": "Adilma Pereira Carneiro ha orchestrato l’omicidio per intascare il patrimonio da 3 milioni",
+      "publishedAt": "2026-11-27T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Pignataro (ION): “Se Nvidia implode, implodono gli Usa. Il mondo è diventato esponenziale”",
+      "url": "https://www.lastampa.it/economia/2026/11/27/news/pignataro_ion_luiss_anno_accademico-15811505/",
+      "excerpt": "All'inaugurazione dell'anno accademico Luiss, la lezione dell’imprenditore: con l'IA un ragazzo di 24 anni potrà cambiare la storia di un'azienda. E l'Italia può ripetere la crescita degli anni Cinquanta",
+      "publishedAt": "2026-11-27T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "\"Purtroppo parla di me\": la confessione di Shade sul nuovo singolo e la scelta su Sanremo",
+      "url": "https://www.lastampa.it/spettacoli/2026/11/27/video/shade_nuovo_singolo_volevo_solo_dirti-15811396/",
+      "excerpt": "È un brano che racconta la fine di una relazione, quando l'amore non è ancora svanito ma stare insieme non basta più. Shade torna con Volevo solo dirti, il nuovo singolo disponibile dal 27 novembre, e ne parla durante un'intervista nella redazione de La Stampa. «È autobiografico, purtroppo», confessa il rapper torinese",
+      "publishedAt": "2026-11-27T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Don Paglia a Myrta Confidential: \"La sinistra? Ci copi. L’unico che parla per tutti i popoli è il Papa\"",
+      "url": "https://www.lastampa.it/spettacoli/2026/11/27/video/don_paglia_a_myrta_confidential_la_sinistra_ci_copi_lunico_che_parla_per_tutti_i_popoli_e_il_papa-15811688/",
+      "excerpt": "Parlando della crisi delle culture politiche tradizionali e dell'affermarsi dell'individualismo, Don Paglia individua nell'egoismo e nella perdita del senso della comunità alcune delle radici delle tensioni sociali contemporanee. “Oggi è nata una nuova religione che si chiama l'egolatria, il culto di sé. Ti senti un Pa",
+      "publishedAt": "2026-11-27T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Alle Atp Finals di Torino è come stare sulla Luna",
+      "url": "https://www.lastampa.it/sport/2026/11/27/news/angelo_binaghi_atp_finals_certezza_torino_e_come_stare_sulla_luna_italia_coraggiosa_in_davis-15810807/",
+      "excerpt": "Il n. 1 Fitp: «Lascio le Coree al calcio, ho fiducia in Cobolli»",
+      "publishedAt": "2026-11-27T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Celeste Dalla Porta: \"Dopo Sorrentino imparo a ballare in un (quasi) musical\"",
+      "url": "https://www.lastampa.it/spettacoli/2026/11/27/video/celeste_dalla_porta_dopo_sorrentino_imparo_a_ballare_in_un_quasi_musical-15811940/",
+      "excerpt": "Ritorna Celeste Dalla Porta, dopo i fasti de \"Parthenope\" col film dell'esordiente italo-argentino Mauro Diéz Concari \"Costanera\" ed è tutt'altra musica: tra \"La La Land\" e il cinema di Jacques Demy \"Costanera\" è la sfida del suo autore a portare il musical nel cinema italiano contemporaneo. Accanto a Celeste Dalla Por",
       "publishedAt": "2026-11-27T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -200,94 +214,80 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Drone in Lettonia, si alzano i jet Nato",
-      "url": "https://www.lastampa.it/esteri/2026/11/27/diretta/guerra_russia_ucraina_news_oggi-15810908/",
-      "excerpt": "Meloni a Zelensky: «No alla guerra nel Mediterraneo»",
-      "publishedAt": "2026-11-26T00:00:00Z",
+      "title": "I film italiani più interessanti dei discorsi che li riguardano",
+      "url": "https://www.lastampa.it/torino/speciali/torino-film-festival/2026/11/27/news/i_film_italiani_piu_interessanti_dei_discorsi_che_li_riguardano-15810759/",
+      "excerpt": "Ficarra e Picone hanno portato al Torino Film Festival un curioso problema: il cinema italiano continua a fare film migliori dei discorsi che lo riguardano. Fra le opere di ...",
+      "publishedAt": "2026-11-27T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Antonio Saccoccio ed Emanuele Lo Russo, chi sono i due tecnici italiani uccisi in Kuwait",
-      "url": "https://www.lastampa.it/esteri/2026/11/26/news/attacco_con_droni_in_kuwait_chi_sono_i_due_tecnici_rimasti_uccisi-15810490/",
-      "excerpt": "Antonio Saccoccio, di Formia, aveva 65 anni ed era prossimo alla pensione, Emanuele Lo Russo, romano, di anni ne aveva 36",
-      "publishedAt": "2026-11-26T00:00:00Z",
+      "title": "Colau incalza Feijóo, lui replica, Sánchez interviene: cosa si sono detti in tv",
+      "url": "https://www.lastampa.it/esteri/2026/11/27/video/spagna_elezioni_colau_feijoo_sanchez_scontro_dibattito_tv-15811277/",
+      "excerpt": "Scintille durante il dibattito televisivo del 26 novembre tra i candidati alle elezioni politiche spagnole in programma il 29 novembre. Ada Colau, candidata di sinistra del Frente Amplio, incalza il leader del Partito popolare Alberto Núñez Feijóo sulla gestione dell’alluvione che nel 2024 devastò la Comunità Valencian",
+      "publishedAt": "2026-11-27T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Da Netflix a ChatGPT, la spesa digitale di una famiglia italiana supera i 3.000 euro all’anno",
-      "url": "https://www.lastampa.it/tech/2026/11/26/news/costo_vita_digitale_abbonamenti_netflix_chatgpt_spesa_famiglie-15810263/",
-      "excerpt": "Abbiamo calcolato i prezzi dei principali servizi disponibili in Italia: una famiglia di quattro persone può spendere oltre 270 euro al mese in abbonamenti. Ecco a cosa fare attenzione per risparmiare",
-      "publishedAt": "2026-11-26T00:00:00Z",
+      "title": "Puniti prima del processo. Il decreto cortei e quegli emendamenti a rischio incostituzionalità",
+      "url": "https://www.lastampa.it/politica/2026/11/27/news/decreto_cortei_emendamento_rischio_incostituzionalita-15811256/",
+      "excerpt": "Il centrodestra rivendica la linea della fermezza. Ma i giuristi lanciano l’allarme",
+      "publishedAt": "2026-11-27T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Torino, Politecnico occupato: “Stop all'accordo con il colosso che arma Israele”. L’ateneo: “Ripristinare subito la legalità”",
-      "url": "https://www.lastampa.it/torino/2026/11/26/news/politecnico_occupato_mbda_israele-15810820/",
-      "excerpt": "La richiesta di «rescissione immediata degli accordi con Mbda che rifornisce Israele». L’ateneo: «Intervengano le istituzioni»",
-      "publishedAt": "2026-11-26T00:00:00Z",
+      "title": "Lacrimogeni di sangue, 10mila donne in Francia denunciano aborti ed emorragie dopo le proteste",
+      "url": "https://www.lastampa.it/esteri/2026/11/27/news/francia_gas_lacrimogeni_donne_denunce_aborti_emorragie-15811363/",
+      "excerpt": "Un'ondata di testimonianze dopo le proteste del 17 ottobre riaccende i dubbi sugli effetti dei gas lacrimogeni sulla salute riproduttiva",
+      "publishedAt": "2026-11-27T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Gloria Peritore: \"Ho iniziato con la boxe dopo una relazione tossica\". Ora sul ring sfida stereotipi",
-      "url": "https://www.lastampa.it/sport/2026/11/26/news/gloria_peritore_boxe_stereotipi_violenza_donne-15810716/",
-      "excerpt": "L’appello durante il convegno “La centralità sociale della violenza di genere”: «Gli uomini si contaminino a vicenda per disinnescare comportamenti violenti» e la creazione di una rete di sportelli di ascolto nelle palestre «per avvicinare le donne a quel primo passo che io ho rischiato di non compiere»",
-      "publishedAt": "2026-11-26T00:00:00Z",
+      "title": "Autostrade a Natale e Capodanno: al Tavolo tecnico ministeriale la Regione fa il punto sui cantieri",
+      "url": "https://www.lastampa.it/cuneo/2026/11/27/news/autostrade_a_natale_e_capodanno_al_tavolo_tecnico_ministeriale_la_regione_fa_il_punto_sui_cantieri-15811765/",
+      "excerpt": "La situazione tratta per tratta nelle prossime settimane",
+      "publishedAt": "2026-11-27T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Sterling, gas esilarante al volante e incidente con la Lamborghini da 320mila euro: l'arresto",
-      "url": "https://www.lastampa.it/esteri/2026/11/26/video/sterling_condanna_guida_pericolosa_droga_arresto-15809977/",
-      "excerpt": "Raheem Sterling, ex calciatore della nazionale inglese, è stato condannato a 12 mesi di carcere, con pena sospesa per 18 mesi, dopo aver guidato la sua Lamborghini mentre inalava protossido di azoto, conosciuto come gas esilarante. Il 31enne è comparso il 25 novembre davanti al tribunale di Basingstoke, in Inghilterra,",
-      "publishedAt": "2026-11-26T00:00:00Z",
+      "title": "A Torino niente neve dal 2022, ma il piano per le strade costa 3,5 milioni all’anno",
+      "url": "https://www.lastampa.it/torino/2026/11/27/news/piano_neve_comune_arpa_amiat-15810828/",
+      "excerpt": "Arpa non rileva precipitazioni da 4 anni, ma il budget per il piano sulla viabilità non cala. «Sul bilancio pesano gli interventi anti-ghiaccio e il servizio in appalto da garantire»",
+      "publishedAt": "2026-11-27T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Anziano ritrovato vivo dopo 11 giorni nella foresta amazzonica: ecco come è sopravvissuto",
-      "url": "https://www.lastampa.it/esteri/2026/11/26/video/anziano_alzheimer_ritrovato_vivo_11_giorni_foresta_amazzonica-15810305/",
-      "excerpt": "Un uomo di 74 anni affetto da Alzheimer è stato ritrovato vivo dopo aver trascorso 11 giorni disperso nella foresta amazzonica, nello Stato brasiliano di Amapá. Le immagini mostrano il momento in cui una squadra di guardiaparco raggiunge Janarino Ferreira dos Santos, nei pressi di Macapá. Alla vista dell'uomo, i soccor",
-      "publishedAt": "2026-11-26T00:00:00Z",
+      "title": "Più fondi a case rifugio e centri d’accoglienza. La rete del Piemonte contro la violenza sulle donne",
+      "url": "https://www.lastampa.it/nord-ovest/2026/11/27/news/violenza_donne_centri_accoglienza_casa_rifugio_regione_piemonte-15811336/",
+      "excerpt": "Attivati 23 contratti d’affitto per chi ha lasciato il partner",
+      "publishedAt": "2026-11-27T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Perché Trump perde forza, ma il suo metodo condiziona sempre più la politica estera Usa",
-      "url": "https://www.lastampa.it/rubriche/il-capitale/2026/11/26/news/l_impunita_delle_elite-15810618/",
-      "excerpt": "Trump è più debole ma il suo metodo di governo pesa sempre di più sulla politica estera americana",
-      "publishedAt": "2026-11-26T00:00:00Z",
+      "title": "Marc Marquez si ritira: \"Questa sarà la mia ultima gara”. Cosa c'è dietro l'addio",
+      "url": "https://www.lastampa.it/sport/2026/11/27/news/moto_gp_marquez_annuncia_ritiro-15811408/",
+      "excerpt": "Lo spagnolo lo ha fatto sapere con un cartello mostrato alle telecamere durante le prime prove libere del GP di Valencia",
+      "publishedAt": "2026-11-27T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Fazio risponde alle critiche sull’intervista a Grillo: “Ecco perché non ho fatto domande sul figlio”",
-      "url": "https://www.lastampa.it/politica/2026/11/26/video/fazio_critiche_intervista_grillo_figlio_risposta-15809936/",
-      "excerpt": "Fabio Fazio spiega a “Che tempo che fa” la scelta di non affrontare con Beppe Grillo il processo che coinvolge il figlio Ciro, condannato in primo grado per violenza sessuale di gruppo. Rispondendo alle critiche ricevute dopo l’intervista, il conduttore richiama il procedimento d’appello appena iniziato: “Quando c’è un",
-      "publishedAt": "2026-11-26T00:00:00Z",
+      "title": "Marc Márquez: l’annuncio a sorpresa nel box Ducati tra lacrime e applausi",
+      "url": "https://www.lastampa.it/sport/2026/11/27/video/marc_marquez_ritiro_motogp_annuncio_ducati_valencia_ultima_gara-15811545/",
+      "excerpt": "L’addio da campione. A 33 anni Marc Márquez annuncia il ritiro dalle competizioni: il Gran Premio di Valencia, domenica 29 novembre, sarà l’ultimo della sua carriera. Lo spagnolo comunica la decisione mostrando alcuni cartelli alle telecamere nel box Ducati, tra gli applausi della squadra e l’incredulità del pubblico. ",
+      "publishedAt": "2026-11-27T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Gaffe della Real Sociedad: pubblica il meme italiano “Noo, la polizia!” ma il finale è da censurare",
-      "url": "https://www.lastampa.it/sport/2026/11/26/video/real_sociedad_gaffe_social_meme_italiano_no_la_polizia_bestemmia_mascotte-15810616/",
-      "excerpt": "Una disattenzione di troppo. La Real Sociedad, squadra di calcio di San Sebastián, pubblica su Instagram un video della propria mascotte accompagnato da un meme italiano che termina con una bestemmia. Nel filmato il club basco scherza sul finto arresto di Txurdin, già inscenato a Manchester nel marzo 2025. L'audio «Noo",
-      "publishedAt": "2026-11-26T00:00:00Z",
+      "title": "Global Skills Summit: a Torino il confronto internazionale sul futuro del lavoro",
+      "url": "https://www.lastampa.it/torino/speciali/torino-skills-summit-2026/2026/11/27/video/global_skills_summit_a_torino_il_confronto_internazionale_sul_futuro_del_lavoro-15811704/",
+      "excerpt": "Alle OGR per tre giorni, dal 23 al 26 novembre 2026, il Torino Global Skills Summit 2026, l’evento internazionale organizzato dalla Fondazione europea per la formazione (ETF), agenzia dell'Unione europea con sede a Torino che lavora per migliorare i sistemi di istruzione e formazione in quasi 30 Paesi. Oltre 250 partec",
+      "publishedAt": "2026-11-27T00:00:00Z",
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Le immagini mai viste dei funerali di Puccini: il filmato ritrovato dopo un secolo",
-      "url": "https://www.lastampa.it/cronaca/2026/11/26/video/giacomo_puccini_funerali_torre_del_lago_filmato_inedito_ritrovato_1926-15810669/",
-      "excerpt": "Un secolo di storia in pochi fotogrammi. Un filmato inedito documenta l’ultimo omaggio a Giacomo Puccini a Torre del Lago, il 29 novembre 1926, quando le spoglie del compositore furono trasferite nella sua dimora sul lago di Massaciuccoli, a due anni dalla morte. Le immagini restituiscono una preziosa testimonianza cin",
-      "publishedAt": "2026-11-26T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Quattro booster per portare in orbita 36 satelliti di Amazon: come funziona l'Ariane64",
-      "url": "https://www.lastampa.it/tech/2026/11/26/video/razzo_ariane_6_amazon_leo_satelliti-15810256/",
-      "excerpt": "Dalla sala di controllo dello spazioporto europeo di Kourou, nella Guyana francese, il direttore della missione Maël Mattox spiega come funziona Ariane 64, la versione più potente del lanciatore europeo Ariane 6 che il 24 novembre ha portato in orbita 36 satelliti della costellazione Amazon Leo. Con l'aiuto di un model",
-      "publishedAt": "2026-11-26T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Il cane robot ora sopravvive anche un incendio da 1.000 gradi: l'incredibile test in Cina",
-      "url": "https://www.lastampa.it/tech/2026/11/26/video/cane_robot_resistente_fuoco_incendio_mille_gradi_test_cina-15810023/",
-      "excerpt": "Un cane robot a quattro zampe progettato per lavorare durante gli incendi e resistere a temperature fino a 1.000 gradi: è il nuovo dispositivo per la ricognizione antincendio presentato in Cina, durante un'esercitazione sul campo. Il robot è stato sottoposto a due prove: una simulazione di ricognizione in un edificio a",
-      "publishedAt": "2026-11-26T00:00:00Z",
+      "title": "Cinesettimana: Kasia Smutniak conquista con “Mustang”, delude il ritorno di Farhadi",
+      "url": "https://www.lastampa.it/rubriche/cinesettimana/2026/11/27/video/cinesettimana_kasia_smutniak_conquista_con_mustang_delude_il_ritorno_di_farhadi-15811799/",
+      "excerpt": "Due film, due esiti opposti. Convince Kasia Smutniak con “Mustang”, documentario premiato dal pubblico alla Festa del Cinema di Roma, che ripercorre il viaggio in Nepal del 2003 con Pietro Taricone, attraverso i filmati di famiglia e lo sguardo della figlia Sophie. Delude invece “Storie parallele” del regista iraniano ",
+      "publishedAt": "2026-11-27T00:00:00Z",
       "dateEvidence": "feed:published"
     }
   ],
@@ -302,5 +302,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 0.71
+  "durationSeconds": 1.21
 }

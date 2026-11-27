@@ -4,20 +4,26 @@
   "sourceId": "patt",
   "originUrl": "https://patt.tn.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-27T11:28:03.023347Z",
-  "status": "error",
-  "diagnosticCode": "http_error",
-  "method": "html",
-  "feedUrl": null,
+  "collectedAt": "2026-11-27T22:59:49.890434Z",
+  "status": "ok",
+  "diagnosticCode": null,
+  "method": "rss",
+  "feedUrl": "https://patt.tn.it/feed/",
   "items": [],
   "attempts": [
     {
       "url": "https://patt.tn.it/robots.txt",
-      "status": 415
+      "status": 200
+    },
+    {
+      "url": "https://patt.tn.it/",
+      "status": 200
+    },
+    {
+      "url": "https://patt.tn.it/feed/",
+      "status": 200
     }
   ],
-  "message": "HTTP 415",
-  "httpStatus": 415,
-  "failedUrl": "https://patt.tn.it/robots.txt",
-  "durationSeconds": 0.69
+  "message": "Feed dichiarato dalla fonte; date di pubblicazione verificate.",
+  "durationSeconds": 4.17
 }

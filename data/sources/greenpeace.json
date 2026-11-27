@@ -4,7 +4,7 @@
   "sourceId": "greenpeace",
   "originUrl": "https://www.greenpeace.org/italy/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-27T11:27:44.455063Z",
+  "collectedAt": "2026-11-27T22:59:31.210122Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -18,10 +18,10 @@
       "dateEvidence": "html:publication-time"
     },
     {
-      "title": "IKEA produce mobili con legname proveniente da foreste secolari svedesi - Greenpeace Italia",
-      "url": "https://www.greenpeace.org/italy/storia/32293/ikea-produce-mobili-con-legname-proveniente-da-foreste-secolari-svedesi/",
-      "excerpt": "Abbiamo tracciato il percorso di otto alberi abbattuti nelle foreste svedesi e li abbiamo seguiti fino alle segherie che riforniscono IKEA: ecco cosa abbiamo scoperto.",
-      "publishedAt": "2026-11-17T09:22:37Z",
+      "title": "Plastica e pesca: le minacce invisibili che mettono in pericolo tartarughe, delfini e cetacei - Greenpeace Italia",
+      "url": "https://www.greenpeace.org/italy/storia/32432/plastica-e-pesca-minacce-tartarughe-delfini-e-cetacei/",
+      "excerpt": "I ricercatori del Dipartimento di Biomedicina Comparata e Alimentazione dell'Università di Padova ci hanno accompagnato alla scoperta di dati scientifici che raccontano una realtà spesso ignorata.",
+      "publishedAt": "2026-11-16T12:55:50Z",
       "dateEvidence": "html:publication-time"
     }
   ],
@@ -35,6 +35,10 @@
       "status": 200
     },
     {
+      "url": "https://www.greenpeace.org/italy/storia/32432/plastica-e-pesca-minacce-tartarughe-delfini-e-cetacei/",
+      "status": 200
+    },
+    {
       "url": "https://www.greenpeace.org/italy/storia/32383/gli-allevamenti-intensivi-sono-una-merda-in-azione/",
       "status": 200
     },
@@ -44,10 +48,6 @@
     },
     {
       "url": "https://www.greenpeace.org/italy/storia/32231/non-tutti-i-regali-si-accettano-questo-natale-restituisci-al-mittente-i-disastri-ambientali/",
-      "status": 200
-    },
-    {
-      "url": "https://www.greenpeace.org/italy/storia/32293/ikea-produce-mobili-con-legname-proveniente-da-foreste-secolari-svedesi/",
       "status": 200
     },
     {
@@ -79,5 +79,5 @@
   "candidateCount": 12,
   "datedCount": 5,
   "listingUrl": "https://www.greenpeace.org/italy/",
-  "durationSeconds": 4.77
+  "durationSeconds": 4.68
 }

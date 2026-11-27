@@ -4,163 +4,21 @@
   "sourceId": "cnr",
   "originUrl": "https://www.cnr.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-27T11:27:25.977680Z",
-  "status": "ok",
-  "diagnosticCode": null,
-  "method": "rss",
-  "feedUrl": "https://www.cnr.it/it/news/rss",
-  "items": [
-    {
-      "title": "Gemine Vivone nominato IEEE Fellow. Un prestigioso riconoscimento internazionale",
-      "url": "https://www.cnr.it/it/news/14849/gemine-vivone-nominato-ieee-fellow-un-prestigioso-riconoscimento-internazionale",
-      "excerpt": "25/11/2026 . Gemine Vivone, Primo Ricercatore presso il Consiglio Nazionale delle Ricerche - Istituto di Metodologie Integrate per l'Osservazione della Terra (CNR-IMIOT), è stato nominato IEEE Fellow. Il prestigioso riconoscimento conferito dall'Institute of Electrical and Electronics Engineers (IEEE) premia i suoi con",
-      "publishedAt": "2026-11-26T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Gemine Vivone named IEEE Fellow. A prestigious international recognition",
-      "url": "https://www.cnr.it/it/news/14851/gemine-vivone-named-ieee-fellow-a-prestigious-international-recognition",
-      "excerpt": "25/11/2026 . Gemine Vivone, Senior Researcher at the National Research Council of Italy – Institute of Integrated Methodologies for Earth Observation (CNR-IMIOT), has been elevated to the grade of IEEE Fellow. This prestigious recognition, awarded by the Institute of Electrical and Electronics Engineers (IEEE), acknowl",
-      "publishedAt": "2026-11-26T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "25° Congresso Nazionale Associazione italiana di telemedicina e informatica medica",
-      "url": "https://www.cnr.it/it/news/14847/25-congresso-nazionale-associazione-italiana-di-telemedicina-e-informatica-medica",
-      "excerpt": "27/11/2026 . Il 25° Congresso AITIM apre a Pisa il 27 novembre prossimo. Per due giorni si discuterà di IA e Robotica. Tecnologie, persone società per una sanità più umana. Si confronteranno ricercatori ed esperti sull’uso delle tecnologie innovative nella ricerca e nella pratica clinica in discipline quali la neurolog",
-      "publishedAt": "2026-11-25T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "IL CUG-CNR ricorda la Giornata internazionale per l'eliminazione della violenza contro le donne",
-      "url": "https://www.cnr.it/it/news/14848/il-cug-cnr-ricorda-la-giornata-internazionale-per-l-eliminazione-della-violenza-contro-le-donne",
-      "excerpt": "25/11/2026 . Il 25 novembre ricorre la Giornata internazionale per l’eliminazione della violenza contro le donne, istituita dalle Nazioni Unite nel 1999. La Convenzione di Istanbul riconosce questa violenza come una violazione dei diritti umani. Il Comitato Unico di Garanzia del CNR è impegnato nel promuovere un cambia",
-      "publishedAt": "2026-11-25T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "In collaborazione con il CNR nasce la rete ISTALAMTU della Biblioteca Nazionale del Qatar per rafforzare la condivisione delle risorse nella regione MENA (Middle East and North Africa)",
-      "url": "https://www.cnr.it/it/news/14815/in-collaborazione-con-il-cnr-nasce-la-rete-istalamtu-della-biblioteca-nazionale-del-qatar-per-rafforzare-la-condivisione-delle-risorse-nella-regione-mena-middle-east-and-north-africa",
-      "excerpt": "25/11/2026 . Sostenuta dal Fondo per l’impatto e l’innovazione dell’IFLA, l’iniziativa mira a promuovere la collaborazione, sviluppare capacità professionali ed espandere l’accesso equo all’informazione accademica. Per raggiungere questo obiettivo, ISTALAMTU opera in stretta collaborazione con l'Area Territoriale di Ri",
-      "publishedAt": "2026-11-25T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Il Presidente Andrea Lenzi al Convegno di presentazione del Rapporto SA-IA \"Salute & Sanità nell'era dell'Intelligenza Artificiale\"",
-      "url": "https://www.cnr.it/it/news/14845/il-presidente-andrea-lenzi-al-convegno-di-presentazione-del-rapporto-sa-ia-salute-sanita-nell-era-dell-intelligenza-artificiale",
-      "excerpt": "25/11/2026 . Il Presidente Andrea Lenzi è intervenuto con una Keynote Speech al Convegno di presentazione del Rapporto SA-IA – Salute & Sanità nell’era dell’Intelligenza Artificiale svolto mercoledì 25 novembre presso l’Auditorium del Ministero della Salute “Cosimo Piccinno” a Roma",
-      "publishedAt": "2026-11-25T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Workshop Italia-Corea sui semiconduttori ad ampia banda proibita",
-      "url": "https://www.cnr.it/it/news/14842/workshop-italia-corea-sui-semiconduttori-ad-ampia-banda-proibita",
-      "excerpt": "25/11/2026 . Si è svolto il 24 novembre 2026, presso la Kwangwoon University di Seul (Corea del Sud), il First Italo-Korean Workshop on (U)WBG Semiconductors, organizzato in modalità ibrida con la partecipazione del CNR-Istituto di Microelettronica e Microsistemi (CNR-IMM) di Catania. L'iniziativa si inserisce nell'amb",
-      "publishedAt": "2026-11-25T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Il contributo di CNR-IBBA per lo sviluppo di cibi più sicuri",
-      "url": "https://www.cnr.it/it/news/14825/il-contributo-di-cnr-ibba-per-lo-sviluppo-di-cibi-piu-sicuri",
-      "excerpt": "25/11/2026 . Nei prodotti alimentari a base di cereali, la concentrazione di asparagina libera nelle farine rappresenta il fattore chiave per la formazione di acrilammide durante la cottura. Una review coordinata da CNR-IBBA nell’ambito del consorzio internazionale ACRYRED riporta le strategie per selezionare genotipi ",
-      "publishedAt": "2026-11-25T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Al Cnr di Monterotondo il Council EMBL",
-      "url": "https://www.cnr.it/it/news/14844/al-cnr-di-monterotondo-il-council-embl",
-      "excerpt": "25/11/2026 . Nell'ambito dei lavori del Council EMBL -svolto quest'anno nella sede italiana dell'Infrastruttura istituita presso il Cnr di Monterotondo- è stata organizzata una visita al Campus e agli spazi EMBL attualmente in via di riqualificazione da parte dei 29 rappresentanti dei Paesi aderenti. Presente il Dirett",
-      "publishedAt": "2026-11-25T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Lanciata una Call for Chapters per l'edizione 2027 di Mediterranean Economies",
-      "url": "https://www.cnr.it/it/news/14843/lanciata-una-call-for-chapters-per-l-edizione-2027-di-mediterranean-economies",
-      "excerpt": "25/11/2026 .",
-      "publishedAt": "2026-11-25T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Bando AriSLA 2026: i progetti del CNR premiati",
-      "url": "https://www.cnr.it/it/news/14839/bando-arisla-2026-i-progetti-del-cnr-premiati",
-      "excerpt": "24/11/2026 . In occasione del convegno \"Eccellenza e sinergie nella ricerca sulla SLA’\", svolto a Milano lo scorso 19 e 20 novembre, Fondazione AriSLA ha annunciato i sei nuovi progetti selezionati per l'annualità 2026, finalizzati a sostenere la ricerca sulla Sclerosi Laterale Amiotrofica (SLA). Tra i progetti finanzi",
-      "publishedAt": "2026-11-24T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Il presidente Lenzi riceve il \"Premio Roma Capitale della Chimica Italiana\"",
-      "url": "https://www.cnr.it/it/news/14838/il-presidente-lenzi-riceve-il-premio-roma-capitale-della-chimica-italiana",
-      "excerpt": "23/11/2026 . Il presidente Andrea Lenzi, nell’ambito dell’incontro ‘Roma Capitale della Chimica Italiana. La chimica che cura, nutre e innova il Paese’ ospitato nella sede centrale del CNR, ha ricevuto la medaglia “Premio Roma Capitale della Chimica Italiana”, assegnato a personalità e imprese distintesi per il contrib",
-      "publishedAt": "2026-11-23T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Conferenza annuale Istituto per i Sistemi Agricoli e Forestali del Mediterraneo - ISAFoM \"L'Innovazione nella Ricerca dei sistemi Agricoli e Forestali del Mediterraneo\"",
-      "url": "https://www.cnr.it/it/news/14832/conferenza-annuale-istituto-per-i-sistemi-agricoli-e-forestali-del-mediterraneo-isafom-l-innovazione-nella-ricerca-dei-sistemi-agricoli-e-forestali-del-mediterraneo",
-      "excerpt": "20/11/2026 . Si è svolta il 17 e 18 novembre 2026 presso la sala conferenze della Sede Centrale di Portici (NA) la Conferenza Annuale d'Istituto del CNR-ISAFoM, appuntamento che ha riunito i ricercatori delle quattro sedi di Portici, Rende, Catania e Perugia intorno a 25 relazioni scientifiche suddivise in cinque sessi",
-      "publishedAt": "2026-11-20T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Al via il progetto AURORA per studiare i misteri della circolazione abissale",
-      "url": "https://www.cnr.it/it/news/14829/al-via-il-progetto-aurora-per-studiare-i-misteri-della-circolazione-abissale",
-      "excerpt": "20/11/2026 . Il Cnr-Ismar è partner dell’iniziativa internazionale per indagare le complesse dinamiche di risalita delle acque profonde. Guidato dall’OGS e finanziato dal MUR, il progetto AURORA parte dagli abissi del Mar Ionio per osservare fenomeni globali attraverso strumenti innovativi e metodi all’avanguardia",
-      "publishedAt": "2026-11-20T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Giorgio Rossi Co-Chair del 10-Member-Group delle Nazioni Unite per la Scienza, la Tecnologia e l'Innovazione",
-      "url": "https://www.cnr.it/it/news/14827/giorgio-rossi-co-chair-del-10-member-group-delle-nazioni-unite-per-la-scienza-la-tecnologia-e-l-innovazione",
-      "excerpt": "19/11/2026 . Il Prof. Giorgio Rossi, professore presso il Dipartimento di Fisica dell’Università degli Studi di Milano, associato dell’Istituto Officina dei Materiali del CNR, Vice Presidente di Elettra Sincrotrone Trieste, e Coordinatore dell’infrastruttura di ricerca NFFA2050 (ESFRI Roadmap 2026), è stato nominato Co",
-      "publishedAt": "2026-11-19T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Giorgio Rossi appointed Co-Chair of the United Nations 10-Member-Group on Science, Technology and Innovation",
-      "url": "https://www.cnr.it/it/news/14828/giorgio-rossi-appointed-co-chair-of-the-united-nations-10-member-group-on-science-technology-and-innovation",
-      "excerpt": "19/11/2026 . Giorgio Rossi, Professor at the Department of Physics of the University of Milan, Researcher Associate at the CNR-IOM, Vice President of Elettra Sincrotrone Trieste, and Coordinator of the NFFA2050 Research Infrastructure (ESFRI Roadmap 2026) has been appointed Co-Chair of the 10-Member-Group on Science, T",
-      "publishedAt": "2026-11-19T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "A Buenos Aires firmato un accordo di collaborazione tra Università, CNR-IFAC CISC CNR",
-      "url": "https://www.cnr.it/it/news/14824/a-buenos-aires-firmato-un-accordo-di-collaborazione-tra-universita-cnr-ifac-cisc-cnr",
-      "excerpt": "19/11/2026 . Giovedi 19 novembre, a margine del Seminario \"Derecho y ciudades en movimiento. Perfiles de comparación entre Italia y Argentina. El derecho a la ciudad entre los gemelos digitales y los derechos fundamentales\" | Consiglio Nazionale delle Ricerche di presentazione dell'omonimo volume, si è svolta a Buenos ",
-      "publishedAt": "2026-11-18T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Successo per il VI Congresso sulle \"Tecniche Innovative Antalgiche nel trattamento del dolore muscolo-scheletrico in ambito sportivo\"",
-      "url": "https://www.cnr.it/it/news/14819/successo-per-il-vi-congresso-sulle-tecniche-innovative-antalgiche-nel-trattamento-del-dolore-muscolo-scheletrico-in-ambito-sportivo",
-      "excerpt": "17/11/2026 . Lo scorso 10 novembre la sede centrale del CNR di Roma ha ospitato il VI Congresso sulle “Tecniche Innovative Antalgiche nel trattamento del dolore muscolo-scheletrico in ambito sportivo”: avviato un confronto su una disciplina di frontiera che potrà avere ampie ricadute non solo tra gli sportivi, ma in tu",
-      "publishedAt": "2026-11-17T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Giornata Mondiale del Diabete: il fegato, un protagonista spesso trascurato della salute metabolica",
-      "url": "https://www.cnr.it/it/news/14816/giornata-mondiale-del-diabete-il-fegato-un-protagonista-spesso-trascurato-della-salute-metabolica",
-      "excerpt": "16/11/2026 . Il 14 novembre si è celebrato in tutto il mondo il World Diabetes Day, una giornata di sensibilizzazione sulla patologia. Il gruppo di ricerca dell’Istituto di fisiologia clinica del Consiglio nazionale delle ricerche di Pisa coordinato da Amalia Gastaldelli ricorda che il diabete di tipo 2 è strettamente ",
-      "publishedAt": "2026-11-17T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Primo Review Meeting del progetto europeo Chips JU - WBG Pilot Line",
-      "url": "https://www.cnr.it/it/news/14813/primo-review-meeting-del-progetto-europeo-chips-ju-wbg-pilot-line",
-      "excerpt": "16/11/2026 . Il 3 e 4 novembre 2026 si è tenuto ad Erlangen, in Germania, il primo Review Meeting del progetto Wide-Bandgap Pilot Line . Questo evento ha riunito tutti i partner del progetto, la Project Officer e agli esperti indipendenti per un proficuo scambio sui risultati raggiunti, sugli obiettivi intermedi e sull",
-      "publishedAt": "2026-11-16T00:00:00Z",
-      "dateEvidence": "feed:published"
-    }
-  ],
-  "attempts": [
-    {
-      "url": "https://www.cnr.it/robots.txt",
-      "status": 200
-    },
+  "collectedAt": "2026-11-27T22:59:09.983528Z",
+  "status": "error",
+  "diagnosticCode": "connection_error",
+  "method": "html",
+  "feedUrl": null,
+  "items": [],
+  "attempts": [],
+  "message": "SSLError",
+  "httpStatus": null,
+  "failedUrl": "https://www.cnr.it/robots.txt",
+  "durationSeconds": 1.03,
+  "attemptErrors": [
     {
       "url": "https://www.cnr.it/it/news/rss",
-      "status": 200
+      "code": "connection_error"
     }
-  ],
-  "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 10.21
+  ]
 }

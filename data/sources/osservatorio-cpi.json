@@ -4,7 +4,7 @@
   "sourceId": "osservatorio-cpi",
   "originUrl": "https://osservatoriocpi.unicatt.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-27T11:27:58.736207Z",
+  "collectedAt": "2026-11-27T22:59:46.074768Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -14,6 +14,13 @@
       "title": "Le novità della cedolare secca",
       "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/le-novita-della-cedolare-secca.html",
       "excerpt": "Introdotta nel 2011, la cedolare secca per i redditi da locazione era nata soprattutto per combattere l’evasione fiscale. A distanza di quindici anni, è innegabile il successo tra i proprietari di immobili, ma gli obiettivi di fondo non sembrano essere stati raggiunti.",
+      "publishedAt": "2026-11-27T00:00:00Z",
+      "dateEvidence": "html:article-header"
+    },
+    {
+      "title": "Le proposte di imposta patrimoniale a confronto: gettito, criticità e alternative",
+      "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/le-proposte-di-imposta-patrimoniale-a-confronto-gettito-criticita-e-alternative.html",
+      "excerpt": "Le proposte di imposte patrimoniali di AVS, PD, M5S e CGIL presentano caratteristiche e stime di gettito diverse. Le stime sono basate, in alcuni casi, su dati vecchi di 10 anni e presentano un elevato grado di incertezza sulla platea dei contribuenti coinvolti. L’introduzione di una nuova tassa presenta alcune critici",
       "publishedAt": "2026-11-27T00:00:00Z",
       "dateEvidence": "html:article-header"
     },
@@ -60,6 +67,10 @@
       "status": 200
     },
     {
+      "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/le-proposte-di-imposta-patrimoniale-a-confronto-gettito-criticita-e-alternative.html",
+      "status": 200
+    },
+    {
       "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/zes-incentivi-terriitoriali-semplificazioni-per-tutti.html",
       "status": 200
     },
@@ -74,16 +85,12 @@
     {
       "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/cosa-ha-causato-il-calo-tendenziale-nel-consumo-di-sigarette-tassazione-o-cambiamenti-di-comportamento.html",
       "status": 200
-    },
-    {
-      "url": "https://osservatoriocpi.unicatt.it/pubblicazioni/2026/il-fascino-discreto-delle-agevolazioni-per-mobili-ed-elettrodomestici.html",
-      "status": 200
     }
   ],
-  "message": "5 notizie recenti con data verificata; copertura parziale.",
+  "message": "6 notizie recenti con data verificata; copertura parziale.",
   "candidateSamples": [],
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://osservatoriocpi.unicatt.it/pubblicazioni.html",
-  "durationSeconds": 6.02
+  "durationSeconds": 6.49
 }

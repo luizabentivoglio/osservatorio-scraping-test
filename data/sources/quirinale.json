@@ -4,7 +4,7 @@
   "sourceId": "quirinale",
   "originUrl": "https://www.quirinale.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-27T11:28:14.226513Z",
+  "collectedAt": "2026-11-27T23:00:02.057932Z",
   "status": "blocked",
   "diagnosticCode": "access_restricted",
   "method": "html",
@@ -17,6 +17,10 @@
     },
     {
       "url": "https://www.quirinale.it/",
+      "status": 200
+    },
+    {
+      "url": "https://www.quirinale.it/it/notizie/mattarella-apre-napoli-37-congresso-nazionale-anm",
       "status": 200
     },
     {
@@ -36,10 +40,6 @@
       "status": 200
     },
     {
-      "url": "https://www.quirinale.it/it/notizie/mattarella-inaugurazione-anno-accademico-2026-2027-pontificia-universita-lateranense",
-      "status": 200
-    },
-    {
       "url": "https://www.quirinale.it/it/notizie/nostra-repubblica-compie-ottant-anni-1",
       "status": 200
     }
@@ -47,8 +47,23 @@
   "message": "Verifica interattiva richiesta",
   "candidateSamples": [
     {
+      "url": "https://www.quirinale.it/it/notizie/mattarella-apre-napoli-37-congresso-nazionale-anm",
+      "title": "Mattarella apre a Napoli il 37° Congresso Nazionale dell'ANM Il Presidente della Repubblica, Sergio Mattarella, ha preso parte alla cerimonia di apertura del 37esimo Congresso Nazionale dell’Associazione Nazionale Magistrati - ANM, che si è tenuta al Teatro di San Carlo di Napoli.",
+      "h1": "Mattarella apre a Napoli il 37° Congresso Nazionale dell'ANM",
+      "dates": [
+        {
+          "tag": "p",
+          "class": [
+            "date-label"
+          ],
+          "text": "Napoli, 27/11/2026 (II mandato)",
+          "datetime": null
+        }
+      ]
+    },
+    {
       "url": "https://www.quirinale.it/it/notizie/presentato-mattarella-libro-bianco-ricerca-1",
-      "title": "Presentato a Mattarella il Libro Bianco sulla Ricerca Il Presidente della Repubblica, Sergio Mattarella, in occasione della presentazione del Libro Bianco sulla Ricerca, ha ricevuto al Quirinale una delegazione guidata dalla Vice Presidente del Senato, Maria Domenica Castellone.",
+      "title": "Il Presidente Sergio Mattarella con Maria Domenica Castellone, Vice Presidente del Senato, Anna Maria Bernini, Ministro dell’Università e della Ricerca e Orazio Schillaci, Ministro della Salute, in occasione dell'incontro per la presentazione del Libro Bianco sulla Ricerca, unitamente ad una delegaz",
       "h1": "Presentato a Mattarella il Libro Bianco sulla Ricerca",
       "dates": [
         {
@@ -155,109 +170,6 @@
       ]
     },
     {
-      "url": "https://www.quirinale.it/it/notizie/mattarella-inaugurazione-anno-accademico-2026-2027-pontificia-universita-lateranense",
-      "title": "Il Presidente della Repubblica Sergio Mattarella rivolge il suo indirizzo di saluto in occasione dell’inaugurazione dell’Anno Accademico 2026/2027 della Pontificia Università Lateranense",
-      "h1": "Mattarella all’inaugurazione dell’Anno Accademico 2026/2027 della Pontificia Università Lateranense",
-      "dates": [
-        {
-          "tag": "span",
-          "class": [
-            "data-luogo"
-          ],
-          "text": "Roma, 26/11/2026 (II mandato)",
-          "datetime": null
-        },
-        {
-          "tag": "span",
-          "class": [
-            "data-luogo"
-          ],
-          "text": "Roma, 26/11/2026 (II mandato)",
-          "datetime": null
-        },
-        {
-          "tag": "span",
-          "class": [
-            "data-luogo"
-          ],
-          "text": "Roma, 26/11/2026 (II mandato)",
-          "datetime": null
-        },
-        {
-          "tag": "span",
-          "class": [
-            "data-luogo"
-          ],
-          "text": "Roma, 26/11/2026 (II mandato)",
-          "datetime": null
-        },
-        {
-          "tag": "span",
-          "class": [
-            "data-luogo"
-          ],
-          "text": "Roma, 26/11/2026 (II mandato)",
-          "datetime": null
-        },
-        {
-          "tag": "span",
-          "class": [
-            "data-luogo"
-          ],
-          "text": "Roma, 26/11/2026 (II mandato)",
-          "datetime": null
-        },
-        {
-          "tag": "span",
-          "class": [
-            "data-luogo"
-          ],
-          "text": "Roma, 26/11/2026 (II mandato)",
-          "datetime": null
-        },
-        {
-          "tag": "span",
-          "class": [
-            "data-luogo"
-          ],
-          "text": "Roma, 26/11/2026 (II mandato)",
-          "datetime": null
-        },
-        {
-          "tag": "span",
-          "class": [
-            "data-luogo"
-          ],
-          "text": "Roma, 26/11/2026 (II mandato)",
-          "datetime": null
-        },
-        {
-          "tag": "span",
-          "class": [
-            "data-luogo"
-          ],
-          "text": "Roma, 26/11/2026 (II mandato)",
-          "datetime": null
-        },
-        {
-          "tag": "span",
-          "class": [
-            "data-luogo"
-          ],
-          "text": "Roma, 26/11/2026 (II mandato)",
-          "datetime": null
-        },
-        {
-          "tag": "span",
-          "class": [
-            "data-luogo"
-          ],
-          "text": "Roma, 26/11/2026 (II mandato)",
-          "datetime": null
-        }
-      ]
-    },
-    {
       "url": "https://www.quirinale.it/it/notizie/nostra-repubblica-compie-ottant-anni-1",
       "title": "I Volti della Repubblica",
       "h1": "La nostra Repubblica compie Ottant’anni",
@@ -276,5 +188,5 @@
   "candidateCount": 12,
   "datedCount": 0,
   "listingUrl": "https://www.quirinale.it/",
-  "durationSeconds": 4.13
+  "durationSeconds": 3.96
 }

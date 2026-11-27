@@ -4,52 +4,52 @@
   "sourceId": "il-post",
   "originUrl": "https://www.ilpost.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-27T11:27:50.644475Z",
+  "collectedAt": "2026-11-27T22:59:37.114166Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
-      "title": "Il parlamento argentino ha vietato alla Banca centrale di stampare moneta per finanziare le attività del governo",
-      "url": "https://www.ilpost.it/2026/11/27/argentina-vieta-banca-centrale-stampare-moneta/?bitPosition=1",
-      "excerpt": "Il parlamento argentino ha vietato alla Banca centrale di stampare moneta per finanziare le attività del governo In Argentina il parlamento ha approvato un nuovo statuto per la Banca centrale del paese, che vieta all’istituto di stampare moneta per finanziare le attività del governo. È una proposta centrale nel program",
-      "publishedAt": "2026-11-27T10:23:43Z",
+      "title": "Il prezzo delle azioni di Anthropic è tornato sopra il valore della quotazione",
+      "url": "https://www.ilpost.it/2026/11/27/azioni-anthropic-chiusura-27-novembre/?bitPosition=1",
+      "excerpt": "Il prezzo delle azioni di Anthropic è tornato sopra il valore della quotazione Alla chiusura della seduta di venerdì il prezzo delle azioni di Anthropic è infine riuscito a tornare sopra il prezzo della quotazione, avvenuta la scorsa settimana al Nasdaq di New York in un momento di grande caos per le borse statunitensi",
+      "publishedAt": "2026-11-27T21:23:28Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "L’assemblea dei giornalisti del Corriere della Sera ha indetto lo stato di agitazione",
-      "url": "https://www.ilpost.it/2026/11/27/corriere-della-sera-stato-agitazione-nuovo-direttore/?bitPosition=2",
-      "excerpt": "L’assemblea dei giornalisti del Corriere della Sera ha indetto lo stato di agitazione L’assemblea dei giornalisti del Corriere della Sera ha proclamato lo stato di agitazione, ossia una forma di mobilitazione sindacale per dimostrare disaccordo con alcune scelte aziendali, che a volte può portare allo sciopero. Il comi",
-      "publishedAt": "2026-11-27T09:23:42Z",
+      "title": "In una telefonata con Giorgia Meloni, Zelensky si è di fatto scusato per l’attacco alle navi russe in Libia",
+      "url": "https://www.ilpost.it/2026/11/27/zelensky-scusato-giorgia-meloni-attacco-nave-russa-bengasi-libia/?bitPosition=2",
+      "excerpt": "In una telefonata con Giorgia Meloni, Zelensky si è di fatto scusato per l’attacco alle navi russe in Libia In una telefonata con la presidente del Consiglio Giorgia Meloni, il presidente dell’Ucraina Volodymyr Zelensky si è di fatto scusato per l’attacco alle navi russe in Libia. È avvenuto lo scorso fine settimana e ",
+      "publishedAt": "2026-11-27T18:21:58Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "È in corso uno sciopero di 24 ore dei giornalisti dell’ANSA",
-      "url": "https://www.ilpost.it/2026/11/27/sciopero-ansa/?bitPosition=3",
-      "excerpt": "È in corso uno sciopero di 24 ore dei giornalisti dell’ANSA Venerdì i giornalisti dell’agenzia di stampa ANSA hanno iniziato uno sciopero di 24 ore, dalle 7 di venerdì alle 7 di sabato. È il primo dei cinque giorni di sciopero che l’assemblea dei giornalisti ha chiesto di indire al comitato di redazione, che lunedì 23 ",
-      "publishedAt": "2026-11-27T09:15:39Z",
+      "title": "L’Italia è infine riuscita a vincere una partita nel torneo Nations Championship di rugby, contro Fiji",
+      "url": "https://www.ilpost.it/2026/11/27/rugby-nations-championship-italia-fiji/?bitPosition=3",
+      "excerpt": "L’Italia è infine riuscita a vincere una partita nel torneo Nations Championship di rugby, contro Fiji La nazionale italiana maschile di rugby ha vinto contro Fiji l’ultima partita del Nations Championship, un torneo mondiale che però non è il Mondiale, ma un insieme di amichevoli in cui le migliori nazionali europee a",
+      "publishedAt": "2026-11-27T18:06:40Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "Vita e morte ad Haiti, in una foto",
-      "url": "https://www.ilpost.it/2026/11/27/foto-haiti-cadavere/?homepagePosition=0",
-      "excerpt": "Una donna riconosce il cadavere del figlio a lato di una strada dove i corpi vengono gettati ogni giorno, e i passanti non si fermano più",
-      "publishedAt": "2026-11-27T08:40:13Z",
+      "title": "Quattro manifesti elettorali, quattro strategie diverse",
+      "url": "https://www.ilpost.it/2026/11/27/spagna-manifesti-elezioni/?homepagePosition=0",
+      "excerpt": "I messaggi che vogliono dare i partiti politici spagnoli prima delle elezioni di domenica sono molto chiari, ma per certi versi anche sorprendenti",
+      "publishedAt": "2026-11-27T16:20:12Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "Gli haitiani stanno con Bukele",
-      "url": "https://www.ilpost.it/2026/11/23/haiti-bukele-el-salvador-gang/?homepagePosition=0.1&referrerPost=3744056",
-      "excerpt": "Il presidente del Salvador ha mandato l’esercito a combattere le gang, dopo la scomparsa di quattro militari che chiede di liberare: ma al Post risulta siano stati uccisi",
-      "publishedAt": "2026-11-23T10:58:14Z",
+      "title": "Un dibattito televisivo andato bene per Pedro Sánchez",
+      "url": "https://www.ilpost.it/2026/11/27/spagna-dibattito-sanchez-colau/?homepagePosition=0.1&referrerPost=3743783",
+      "excerpt": "L'ultimo prima delle elezioni di domenica: il primo ministro spagnolo ha trovato un'alleata e ha attaccato le destre",
+      "publishedAt": "2026-11-27T08:26:32Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "Com’è fatta la lettera di una gang di Haiti alle Nazioni Unite",
-      "url": "https://www.ilpost.it/2026/11/23/lettera-gang-haiti-onu/?homepagePosition=0.2&referrerPost=3744056",
-      "excerpt": "L’ha ottenuta il Post, è firmata da Wilson Joseph, capo di “400 Mawozo”, e chiede ipocritamente di proteggere i civili",
-      "publishedAt": "2026-11-23T10:57:48Z",
+      "title": "Chi protesta contro Pedro Sánchez arriva sempre in questa strada",
+      "url": "https://www.ilpost.it/2026/11/21/ferraz-madrid-manifestazioni/?homepagePosition=0.2&referrerPost=3743783",
+      "excerpt": "È calle de Ferraz, la sede del Partito Socialista, dove venerdì sera si sono visti i nostalgici del franchismo",
+      "publishedAt": "2026-11-21T08:57:27Z",
       "dateEvidence": "jsonld:datePublished"
     }
   ],
@@ -63,27 +63,27 @@
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/27/foto-haiti-cadavere/?homepagePosition=0",
+      "url": "https://www.ilpost.it/2026/11/27/spagna-manifesti-elezioni/?homepagePosition=0",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/23/haiti-bukele-el-salvador-gang/?homepagePosition=0.1&referrerPost=3744056",
+      "url": "https://www.ilpost.it/2026/11/27/spagna-dibattito-sanchez-colau/?homepagePosition=0.1&referrerPost=3743783",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/23/lettera-gang-haiti-onu/?homepagePosition=0.2&referrerPost=3744056",
+      "url": "https://www.ilpost.it/2026/11/21/ferraz-madrid-manifestazioni/?homepagePosition=0.2&referrerPost=3743783",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/27/argentina-vieta-banca-centrale-stampare-moneta/?bitPosition=1",
+      "url": "https://www.ilpost.it/2026/11/27/azioni-anthropic-chiusura-27-novembre/?bitPosition=1",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/27/corriere-della-sera-stato-agitazione-nuovo-direttore/?bitPosition=2",
+      "url": "https://www.ilpost.it/2026/11/27/zelensky-scusato-giorgia-meloni-attacco-nave-russa-bengasi-libia/?bitPosition=2",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/27/sciopero-ansa/?bitPosition=3",
+      "url": "https://www.ilpost.it/2026/11/27/rugby-nations-championship-italia-fiji/?bitPosition=3",
       "status": 200
     }
   ],
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.ilpost.it/",
-  "durationSeconds": 3.78
+  "durationSeconds": 3.9
 }

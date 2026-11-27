@@ -4,12 +4,33 @@
   "sourceId": "palazzo-chigi",
   "originUrl": "https://www.governo.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-27T11:28:03.711373Z",
+  "collectedAt": "2026-11-27T22:59:52.352857Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.governo.it/feed/rss",
   "items": [
+    {
+      "title": "Telefonata del Presidente Meloni con il Presidente Zelensky",
+      "url": "https://www.governo.it/it/articolo/telefonata-del-presidente-meloni-con-il-presidente-zelensky/33209",
+      "excerpt": "Il Presidente del Consiglio, Giorgia Meloni, ha avuto oggi un colloquio telefonico con il Presidente dell'Ucraina, Volodymyr Zelensky. Il Presidente Meloni ha espresso la preoccupazione del Governo italiano per l'operazione condotta dalle forze ucraine nel porto di Bengasi. L'operazione ha violato la sovranità della Li",
+      "publishedAt": "2026-11-27T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Modifica delle graduatorie definitive della procedura di selezione per lo sviluppo economico all’interno della Categoria A per il personale della PCM indetta con decreto del Capo del Dipartimento per il personale 26 novembre 2025",
+      "url": "https://www.governo.it/it/articolo/modifica-delle-graduatorie-definitive-della-procedura-di-selezione-lo-sviluppo-economico",
+      "excerpt": "Modifica delle graduatorie definitive della procedura di selezione per lo sviluppo economico all’interno della Categoria A per il personale appartenente ai ruoli della Presidenza del Consiglio dei ministri, indetta con decreto del Capo del Dipartimento per il personale 26 novembre 2025. Attribuzione parametri retributi",
+      "publishedAt": "2026-11-27T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Recupero dei detenuti tossicodipendenti, insediata a Palazzo Chigi la Commissione centrale per le linee guida",
+      "url": "https://www.governo.it/it/articolo/recupero-dei-detenuti-tossicodipendenti-insediata-palazzo-chigi-la-commissione-centrale-le",
+      "excerpt": "Si è svolta questa mattina a Palazzo Chigi, alla presenza del Sottosegretario alla Presidenza del Consiglio Alfredo Mantovano, la riunione di insediamento della Commissione centrale per l’elaborazione delle linee guida in materia di accertamento dei presupposti per accedere alla detenzione domiciliare, prevista dalla l",
+      "publishedAt": "2026-11-27T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "Kuwait, il cordoglio del Presidente Meloni per i due cittadini italiani vittime dell'attacco",
       "url": "https://www.governo.it/it/articolo/kuwait-il-cordoglio-del-presidente-meloni-i-due-cittadini-italiani-vittime-dellattacco",
@@ -58,27 +79,6 @@
       "excerpt": "Il 25 novembre ci richiama a una responsabilità precisa: contrastare la violenza contro le donne e fare in modo che nessuna vittima resti sola. Dietro ogni caso di cronaca ci sono storie di sopraffazione, minacce e paura, ed è per questo che la sensibilizzazione, pur fondamentale, da sola non basta: deve accompagnarsi ",
       "publishedAt": "2026-11-25T00:00:00Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Decreto 24 settembre 2026",
-      "url": "https://www.governo.it/it/articolo/decreto-24-settembre-2026/33180",
-      "excerpt": "Il Dipartimento per le politiche in favore delle persone con disabilità ha pubblicato il decreto 24 novembre 2026 il Decreto del Ministro per le disabilità di concerto con il Ministro per la Famiglia, la natalità e le pari opportunità e il Ministro del lavoro e delle politiche sociali che integra e rettifica il precede",
-      "publishedAt": "2026-11-25T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Conversazione telefonica con il Presidente della Repubblica del Congo",
-      "url": "https://www.governo.it/it/articolo/conversazione-telefonica-con-il-presidente-della-repubblica-del-congo/33178",
-      "excerpt": "Il Presidente del Consiglio, Giorgia Meloni, ha avuto una conversazione telefonica con il Presidente della Repubblica del Congo, Denis Sassou N’Guesso. Il Presidente Meloni ha voluto ringraziare il Presidente Sassou N’Guesso per la positiva conclusione della vicenda relativa ai nove minori in adozione da parte di famig",
-      "publishedAt": "2026-11-24T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Riunione straordinaria della Conferenza Stato-Città e autonomie locali presieduta dal Presidente Meloni",
-      "url": "https://www.governo.it/it/articolo/riunione-straordinaria-della-conferenza-stato-citt-e-autonomie-locali-presieduta-dal",
-      "excerpt": "Si è svolta oggi a Palazzo Chigi la riunione straordinaria della Conferenza Stato-Città e autonomie locali, dedicata al confronto con i Sindaci e i Presidenti di Provincia sulle principali questioni che interessano i territori. L’incontro fa seguito alla disponibilità espressa dal Presidente del Consiglio Giorgia Melon",
-      "publishedAt": "2026-11-24T00:00:00Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -100,5 +100,5 @@
     }
   ],
   "message": "Feed dichiarato dalla fonte; date di pubblicazione verificate.",
-  "durationSeconds": 30.11
+  "durationSeconds": 30.16
 }
