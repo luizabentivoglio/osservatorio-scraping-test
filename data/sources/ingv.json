@@ -4,7 +4,7 @@
   "sourceId": "ingv",
   "originUrl": "https://www.ingv.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-27T22:59:33.798633Z",
+  "collectedAt": "2026-11-28T10:56:07.544836Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
@@ -37,13 +37,6 @@
       "excerpt": "",
       "publishedAt": "2026-11-19T00:00:00Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "90 anni dalla fondazione dell’Istituto Nazionale di Geofisica: la visione di Guglielmo Marconi alle origini di una grande storia scientifica",
-      "url": "https://www.ingv.it/stampa-urp/ufficio-stampa/comunicati-stampa/90-anni-dalla-fondazione-dell-istituto-nazionale-di-geofisica-la-visione-di-guglielmo-marconi-alle-origini-di-una-grande-storia-scientifica",
-      "excerpt": "",
-      "publishedAt": "2026-11-14T00:00:00Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -61,5 +54,5 @@
     }
   ],
   "message": "Feed dichiarato dalla fonte; date di pubblicazione verificate.",
-  "durationSeconds": 1.42
+  "durationSeconds": 1.48
 }

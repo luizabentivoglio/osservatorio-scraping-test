@@ -4,20 +4,37 @@
   "sourceId": "factanza",
   "originUrl": "https://weeklypills.substack.com/",
   "configuredFeedUrl": "https://weeklypills.substack.com/feed",
-  "collectedAt": "2026-11-27T22:59:27.340569Z",
-  "status": "blocked",
-  "diagnosticCode": "access_restricted",
-  "method": "html",
-  "feedUrl": null,
-  "items": [],
+  "collectedAt": "2026-11-28T10:56:03.431565Z",
+  "status": "ok",
+  "diagnosticCode": null,
+  "method": "rss",
+  "feedUrl": "https://weeklypills.substack.com/feed",
+  "items": [
+    {
+      "title": "Israele ha avvelenato quasi tutta Gaza",
+      "url": "https://weeklypills.substack.com/p/israele-ha-avvelenato-quasi-tutta",
+      "excerpt": "Tra territori avvelenati, CEO reinseriti, e donne private della libertà, buona settimana con le Weekly Pills!",
+      "publishedAt": "2026-11-28T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "I padroni del potere",
+      "url": "https://weeklypills.substack.com/p/i-padroni-del-potere",
+      "excerpt": "Tra trilaterali storici, nuovi e vecchi genocidi, e maggioranze religiose in mutamento, buona settimana con le Weekly Pills!",
+      "publishedAt": "2026-11-21T00:00:00Z",
+      "dateEvidence": "feed:published"
+    }
+  ],
   "attempts": [
     {
       "url": "https://weeklypills.substack.com/robots.txt",
-      "status": 403
+      "status": 200
+    },
+    {
+      "url": "https://weeklypills.substack.com/feed",
+      "status": 200
     }
   ],
-  "message": "HTTP 403: accesso limitato dalla fonte",
-  "httpStatus": 403,
-  "failedUrl": "https://weeklypills.substack.com/robots.txt",
-  "durationSeconds": 0.13
+  "message": "Feed ufficiale letto; date di pubblicazione verificate.",
+  "durationSeconds": 0.82
 }

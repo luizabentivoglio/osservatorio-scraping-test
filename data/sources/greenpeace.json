@@ -4,7 +4,7 @@
   "sourceId": "greenpeace",
   "originUrl": "https://www.greenpeace.org/italy/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-27T22:59:31.210122Z",
+  "collectedAt": "2026-11-28T10:56:06.782751Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
@@ -79,5 +79,5 @@
   "candidateCount": 12,
   "datedCount": 5,
   "listingUrl": "https://www.greenpeace.org/italy/",
-  "durationSeconds": 4.68
+  "durationSeconds": 4.64
 }

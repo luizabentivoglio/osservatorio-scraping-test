@@ -4,12 +4,26 @@
   "sourceId": "wwf",
   "originUrl": "https://www.wwf.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-27T23:00:15.419696Z",
+  "collectedAt": "2026-11-28T10:56:51.346928Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
+    {
+      "title": "28 novembre, Giornata del Mediterraneo",
+      "url": "https://www.wwf.it/pandanews/animali/28-novembre-giornata-del-mediterraneo/",
+      "excerpt": "WWF italia e Gruppo foca monaca celebrano la rete che svela la presenza della foca monaca nel mare italiano",
+      "publishedAt": "2026-11-28T08:30:00Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
+    {
+      "title": "Effetto farfalla dei combustibili fossili sugli impollinatori",
+      "url": "https://www.wwf.it/pandanews/ambiente/effetto-farfalla-combustibili-fossili/",
+      "excerpt": "Gli impollinatori, api selvatiche, farfalle e sirfidi, dipendono fortemente dalla sincronicità dei loro cicli vitali e dalla fioritura",
+      "publishedAt": "2026-11-28T07:55:00Z",
+      "dateEvidence": "jsonld:datePublished"
+    },
     {
       "title": "Allarmi richiami vivi, si indebolisce lotta a bracconaggio e traffici illegali",
       "url": "https://www.wwf.it/pandanews/animali/allarmi-richiami-vivi-si-indebolisce-lotta-a-bracconaggio-e-traffici-illegali/",
@@ -37,20 +51,6 @@
       "excerpt": "Un'intesa triennale per promuovere la conoscenza del legame tra biodiversità e salute, informare e favorire scelte alimentari consapevoli",
       "publishedAt": "2026-11-26T08:53:26Z",
       "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Black friday, il WWF accende i riflettori sul black trade",
-      "url": "https://www.wwf.it/pandanews/animali/black-friday-wwf-denuncia-black-trade/",
-      "excerpt": "Il WWF chiede di trasformare la spesa d’impulso in un’adozione simbolica, per contribuire a salvare le specie a rischio",
-      "publishedAt": "2026-11-25T11:17:26Z",
-      "dateEvidence": "jsonld:datePublished"
-    },
-    {
-      "title": "Tartarughe marine, foca monaca e cambiamento climatico",
-      "url": "https://www.wwf.it/pandanews/animali/tartarughe-marine-foca-monaca-clima/",
-      "excerpt": "Si è svolta in Grewcia la tavola rotonda del progetto europeo LIFE ADAPTS, Climate Change ADAptations to Protect Turtles and Monk Seals",
-      "publishedAt": "2026-11-23T16:12:59Z",
-      "dateEvidence": "jsonld:datePublished"
     }
   ],
   "attempts": [
@@ -60,6 +60,14 @@
     },
     {
       "url": "https://www.wwf.it/",
+      "status": 200
+    },
+    {
+      "url": "https://www.wwf.it/pandanews/animali/28-novembre-giornata-del-mediterraneo/",
+      "status": 200
+    },
+    {
+      "url": "https://www.wwf.it/pandanews/ambiente/effetto-farfalla-combustibili-fossili/",
       "status": 200
     },
     {
@@ -77,14 +85,6 @@
     {
       "url": "https://www.wwf.it/pandanews/ambiente/accordo-fra-wwf-e-dipartimento-one-health-del-ministero-della-salute/",
       "status": 200
-    },
-    {
-      "url": "https://www.wwf.it/pandanews/animali/black-friday-wwf-denuncia-black-trade/",
-      "status": 200
-    },
-    {
-      "url": "https://www.wwf.it/pandanews/animali/tartarughe-marine-foca-monaca-clima/",
-      "status": 200
     }
   ],
   "message": "6 notizie recenti con data verificata; copertura parziale.",
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.wwf.it/",
-  "durationSeconds": 4.49
+  "durationSeconds": 5.91
 }

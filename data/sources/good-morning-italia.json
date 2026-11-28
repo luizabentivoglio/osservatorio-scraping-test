@@ -4,20 +4,37 @@
   "sourceId": "good-morning-italia",
   "originUrl": "https://goodmorningitalia.substack.com/",
   "configuredFeedUrl": "https://goodmorningitalia.substack.com/feed",
-  "collectedAt": "2026-11-27T22:59:31.122991Z",
-  "status": "blocked",
-  "diagnosticCode": "access_restricted",
-  "method": "html",
-  "feedUrl": null,
-  "items": [],
+  "collectedAt": "2026-11-28T10:56:06.781473Z",
+  "status": "ok",
+  "diagnosticCode": null,
+  "method": "rss",
+  "feedUrl": "https://goodmorningitalia.substack.com/feed",
+  "items": [
+    {
+      "title": "Che settimana! #48/26",
+      "url": "https://goodmorningitalia.substack.com/p/che-settimana-4826",
+      "excerpt": "Ue, nessun accordo su prestito per Kiev e bilancio | Gianni De Gennaro si è tolto la vita | La Cop31 si conclude con un nulla di fatto | Jensen Huang è di nuovo l'ad di Nvidia",
+      "publishedAt": "2026-11-27T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Che settimana! #47/26",
+      "url": "https://goodmorningitalia.substack.com/p/che-settimana-4726",
+      "excerpt": "​​Il trilaterale Usa, Cina, Russia termina con una dichiarazione di pace | Ue verso primo hub di rimpatrio in Ruanda | Myanmar colpevole di genocidio | Addio ad Augias | Anthropic, Ipo da record",
+      "publishedAt": "2026-11-20T00:00:00Z",
+      "dateEvidence": "feed:published"
+    }
+  ],
   "attempts": [
     {
       "url": "https://goodmorningitalia.substack.com/robots.txt",
-      "status": 403
+      "status": 200
+    },
+    {
+      "url": "https://goodmorningitalia.substack.com/feed",
+      "status": 200
     }
   ],
-  "message": "HTTP 403: accesso limitato dalla fonte",
-  "httpStatus": 403,
-  "failedUrl": "https://goodmorningitalia.substack.com/robots.txt",
-  "durationSeconds": 0.09
+  "message": "Feed ufficiale letto; date di pubblicazione verificate.",
+  "durationSeconds": 0.62
 }

@@ -4,52 +4,52 @@
   "sourceId": "il-post",
   "originUrl": "https://www.ilpost.it/",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-27T22:59:37.114166Z",
+  "collectedAt": "2026-11-28T10:56:11.772896Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "trafilatura",
   "feedUrl": null,
   "items": [
     {
-      "title": "Il prezzo delle azioni di Anthropic è tornato sopra il valore della quotazione",
-      "url": "https://www.ilpost.it/2026/11/27/azioni-anthropic-chiusura-27-novembre/?bitPosition=1",
-      "excerpt": "Il prezzo delle azioni di Anthropic è tornato sopra il valore della quotazione Alla chiusura della seduta di venerdì il prezzo delle azioni di Anthropic è infine riuscito a tornare sopra il prezzo della quotazione, avvenuta la scorsa settimana al Nasdaq di New York in un momento di grande caos per le borse statunitensi",
-      "publishedAt": "2026-11-27T21:23:28Z",
+      "title": "Un’esplosione vicino a una scuola in Afghanistan ha ucciso almeno 7 persone e ne ha ferite 97",
+      "url": "https://www.ilpost.it/2026/11/28/esplosione-scuola-afghanistan-esplosivo/?bitPosition=1",
+      "excerpt": "Un’esplosione vicino a una scuola in Afghanistan ha ucciso almeno 7 persone e ne ha ferite 97 Sabato mattina intorno alle 10, le 06:30 in Italia, c’è stata un’esplosione vicino a una scuola media nella periferia di Asadabad, nella provincia orientale di Kunar, in Afghanistan: sono morte 7 persone e ci sono almeno 97 fe",
+      "publishedAt": "2026-11-28T09:47:03Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "In una telefonata con Giorgia Meloni, Zelensky si è di fatto scusato per l’attacco alle navi russe in Libia",
-      "url": "https://www.ilpost.it/2026/11/27/zelensky-scusato-giorgia-meloni-attacco-nave-russa-bengasi-libia/?bitPosition=2",
-      "excerpt": "In una telefonata con Giorgia Meloni, Zelensky si è di fatto scusato per l’attacco alle navi russe in Libia In una telefonata con la presidente del Consiglio Giorgia Meloni, il presidente dell’Ucraina Volodymyr Zelensky si è di fatto scusato per l’attacco alle navi russe in Libia. È avvenuto lo scorso fine settimana e ",
-      "publishedAt": "2026-11-27T18:21:58Z",
+      "title": "Otto militari dell’esercito del Perù sono morti in un incidente in elicottero",
+      "url": "https://www.ilpost.it/2026/11/28/elicottero-peru-morti/?bitPosition=2",
+      "excerpt": "Otto militari dell’esercito del Perù sono morti in un incidente in elicottero Otto militari dell’esercito del Perù sono morti in un incidente in elicottero durante una missione vicino alla città di Sanabamba, in una zona montuosa molto isolata nel centro-sud del paese e nota per la presenza di coltivazioni di coca e il",
+      "publishedAt": "2026-11-28T08:14:29Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "L’Italia è infine riuscita a vincere una partita nel torneo Nations Championship di rugby, contro Fiji",
-      "url": "https://www.ilpost.it/2026/11/27/rugby-nations-championship-italia-fiji/?bitPosition=3",
-      "excerpt": "L’Italia è infine riuscita a vincere una partita nel torneo Nations Championship di rugby, contro Fiji La nazionale italiana maschile di rugby ha vinto contro Fiji l’ultima partita del Nations Championship, un torneo mondiale che però non è il Mondiale, ma un insieme di amichevoli in cui le migliori nazionali europee a",
-      "publishedAt": "2026-11-27T18:06:40Z",
+      "title": "Due membri di Medici Senza Frontiere sono stati uccisi in un attacco israeliano a Gaza",
+      "url": "https://www.ilpost.it/2026/11/28/msf-uccisi-gaza/?bitPosition=3",
+      "excerpt": "Due membri di Medici Senza Frontiere sono stati uccisi in un attacco israeliano a Gaza Due membri dell’ong Medici Senza Frontiere (MSF) sono stati uccisi da un bombardamento israeliano sulla Striscia di Gaza. L’ong ha detto in un comunicato che le due persone uccise lavoravano come addetti alla sicurezza, e che Israele",
+      "publishedAt": "2026-11-28T07:48:12Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "Quattro manifesti elettorali, quattro strategie diverse",
-      "url": "https://www.ilpost.it/2026/11/27/spagna-manifesti-elezioni/?homepagePosition=0",
-      "excerpt": "I messaggi che vogliono dare i partiti politici spagnoli prima delle elezioni di domenica sono molto chiari, ma per certi versi anche sorprendenti",
-      "publishedAt": "2026-11-27T16:20:12Z",
+      "title": "È stato arrestato l’uomo indagato per la morte dei tre cacciatori in provincia di Messina",
+      "url": "https://www.ilpost.it/2026/11/28/arrestato-omicidio-volontario-tre-cacciatori-montagnareale-messina/?bitPosition=4",
+      "excerpt": "È stato arrestato l’uomo indagato per la morte dei tre cacciatori in provincia di Messina È stato arrestato con l’accusa di omicidio volontario Agostino Segreto, l’uomo 50enne indagato nel caso della morte di tre cacciatori nei boschi di Montagnareale, un piccolo comune sui monti Nebrodi, a metà strada tra Messina e Ce",
+      "publishedAt": "2026-11-28T07:27:52Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "Un dibattito televisivo andato bene per Pedro Sánchez",
-      "url": "https://www.ilpost.it/2026/11/27/spagna-dibattito-sanchez-colau/?homepagePosition=0.1&referrerPost=3743783",
-      "excerpt": "L'ultimo prima delle elezioni di domenica: il primo ministro spagnolo ha trovato un'alleata e ha attaccato le destre",
-      "publishedAt": "2026-11-27T08:26:32Z",
+      "title": "Perché Meloni se l’è presa con Zelensky",
+      "url": "https://www.ilpost.it/2026/11/28/meloni-zelensky-polemiche-libia/?homepagePosition=0",
+      "excerpt": "L'attacco dell'Ucraina in Libia ha preoccupato e messo in imbarazzo il governo italiano, e Zelensky si è scusato",
+      "publishedAt": "2026-11-28T07:06:32Z",
       "dateEvidence": "jsonld:datePublished"
     },
     {
-      "title": "Chi protesta contro Pedro Sánchez arriva sempre in questa strada",
-      "url": "https://www.ilpost.it/2026/11/21/ferraz-madrid-manifestazioni/?homepagePosition=0.2&referrerPost=3743783",
-      "excerpt": "È calle de Ferraz, la sede del Partito Socialista, dove venerdì sera si sono visti i nostalgici del franchismo",
-      "publishedAt": "2026-11-21T08:57:27Z",
+      "title": "Cosa significano gli attacchi ucraini alle navi russe in Libia",
+      "url": "https://www.ilpost.it/2026/11/24/conseguenze-attacchi-navi-russe-libia/?homepagePosition=0.1&referrerPost=3745154",
+      "excerpt": "Dimostrano la capacità di colpire gli interessi russi anche a grande distanza dal fronte, e che la guerra si è estesa fino a lì",
+      "publishedAt": "2026-11-24T06:36:17Z",
       "dateEvidence": "jsonld:datePublished"
     }
   ],
@@ -63,27 +63,27 @@
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/27/spagna-manifesti-elezioni/?homepagePosition=0",
+      "url": "https://www.ilpost.it/2026/11/28/meloni-zelensky-polemiche-libia/?homepagePosition=0",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/27/spagna-dibattito-sanchez-colau/?homepagePosition=0.1&referrerPost=3743783",
+      "url": "https://www.ilpost.it/2026/11/24/conseguenze-attacchi-navi-russe-libia/?homepagePosition=0.1&referrerPost=3745154",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/21/ferraz-madrid-manifestazioni/?homepagePosition=0.2&referrerPost=3743783",
+      "url": "https://www.ilpost.it/2026/11/28/esplosione-scuola-afghanistan-esplosivo/?bitPosition=1",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/27/azioni-anthropic-chiusura-27-novembre/?bitPosition=1",
+      "url": "https://www.ilpost.it/2026/11/28/elicottero-peru-morti/?bitPosition=2",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/27/zelensky-scusato-giorgia-meloni-attacco-nave-russa-bengasi-libia/?bitPosition=2",
+      "url": "https://www.ilpost.it/2026/11/28/msf-uccisi-gaza/?bitPosition=3",
       "status": 200
     },
     {
-      "url": "https://www.ilpost.it/2026/11/27/rugby-nations-championship-italia-fiji/?bitPosition=3",
+      "url": "https://www.ilpost.it/2026/11/28/arrestato-omicidio-volontario-tre-cacciatori-montagnareale-messina/?bitPosition=4",
       "status": 200
     }
   ],
@@ -92,5 +92,5 @@
   "candidateCount": 12,
   "datedCount": 6,
   "listingUrl": "https://www.ilpost.it/",
-  "durationSeconds": 3.9
+  "durationSeconds": 3.59
 }

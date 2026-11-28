@@ -4,20 +4,107 @@
   "sourceId": "rassegnally",
   "originUrl": "https://rassegnally.substack.com/",
   "configuredFeedUrl": "https://rassegnally.substack.com/feed",
-  "collectedAt": "2026-11-27T23:00:05.596972Z",
-  "status": "blocked",
-  "diagnosticCode": "access_restricted",
-  "method": "html",
-  "feedUrl": null,
-  "items": [],
+  "collectedAt": "2026-11-28T10:56:44.655381Z",
+  "status": "ok",
+  "diagnosticCode": null,
+  "method": "rss",
+  "feedUrl": "https://rassegnally.substack.com/feed",
+  "items": [
+    {
+      "title": "Comunque, Tajani e Zelensky non sono d'accordo sull'attacco ucraino in Libia",
+      "url": "https://rassegnally.substack.com/p/comunque-tajani-e-zelensky-non-sono",
+      "excerpt": "È una delle 3 notizie di oggi",
+      "publishedAt": "2026-11-27T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Comunque, due tecnici italiani sono morti in Kuwait dopo un attacco di droni attribuito all'Iran",
+      "url": "https://rassegnally.substack.com/p/comunque-due-tecnici-italiani-sono",
+      "excerpt": "È una delle 2 notizie di oggi",
+      "publishedAt": "2026-11-26T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Comunque, Trump ha trovato un'altra strada per i dazi",
+      "url": "https://rassegnally.substack.com/p/comunque-trump-ha-trovato-unaltra",
+      "excerpt": "È una delle 2 notizie di oggi",
+      "publishedAt": "2026-11-25T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Comunque, l'Italia è vicina all'uscita dalla procedura europea per deficit eccessivo",
+      "url": "https://rassegnally.substack.com/p/comunque-litalia-e-vicina-alluscita",
+      "excerpt": "È una delle 2 notizie di oggi",
+      "publishedAt": "2026-11-24T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Comunque, Jensen Huang è tornato a guidare Nvidia",
+      "url": "https://rassegnally.substack.com/p/comunque-jensen-huang-e-tornato-a",
+      "excerpt": "È una delle 2 notizie di oggi",
+      "publishedAt": "2026-11-23T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "L'amico Putin e la COP che non nomina i combustibili fossili",
+      "url": "https://rassegnally.substack.com/p/lamico-putin-e-la-cop-che-non-nomina",
+      "excerpt": "“My friend”, niente “combustibili fossili” alla COP e tante altre parole che sono importanti. Questa Pausa è stata Live",
+      "publishedAt": "2026-11-23T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Comunque, sindacati e studenti sono scesi in piazza contro la manovra",
+      "url": "https://rassegnally.substack.com/p/comunque-sindacati-e-studenti-sono",
+      "excerpt": "È una delle 3 notizie di oggi",
+      "publishedAt": "2026-11-20T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Comunque, Trump, Xi Jinping e Putin hanno firmato una dichiarazione sulla pace",
+      "url": "https://rassegnally.substack.com/p/comunque-trump-xi-jinping-e-putin",
+      "excerpt": "È una delle 2 notizie di oggi",
+      "publishedAt": "2026-11-19T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Comunque, è stata approvata la legge contro l’antisemitismo",
+      "url": "https://rassegnally.substack.com/p/comunque-e-stata-approvata-la-legge",
+      "excerpt": "È una delle 3 notizie di oggi",
+      "publishedAt": "2026-11-18T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Comunque, l’inflazione in Italia è salita al 5,5%",
+      "url": "https://rassegnally.substack.com/p/comunque-linflazione-in-italia-e",
+      "excerpt": "È una delle 3 notizie di oggi",
+      "publishedAt": "2026-11-17T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Comunque, Trump, Xi e Putin si vedranno per la prima volta tutti e tre insieme",
+      "url": "https://rassegnally.substack.com/p/comunque-trump-xi-e-putin-si-vedranno",
+      "excerpt": "È una delle 4 notizie di oggi",
+      "publishedAt": "2026-11-16T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Ma che roba è?",
+      "url": "https://rassegnally.substack.com/p/ma-che-roba-e",
+      "excerpt": "Le mail, i titoli, le dichiarazioni, le spiegazioni... Parliamo di tre storie da tenere separate, ma soprattutto di due parole da maneggiare con cura: hacker e guerra",
+      "publishedAt": "2026-11-16T00:00:00Z",
+      "dateEvidence": "feed:published"
+    }
+  ],
   "attempts": [
     {
       "url": "https://rassegnally.substack.com/robots.txt",
-      "status": 403
+      "status": 200
+    },
+    {
+      "url": "https://rassegnally.substack.com/feed",
+      "status": 200
     }
   ],
-  "message": "HTTP 403: accesso limitato dalla fonte",
-  "httpStatus": 403,
-  "failedUrl": "https://rassegnally.substack.com/robots.txt",
-  "durationSeconds": 0.09
+  "message": "Feed ufficiale letto; date di pubblicazione verificate.",
+  "durationSeconds": 0.63
 }

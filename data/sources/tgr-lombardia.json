@@ -4,12 +4,20 @@
   "sourceId": "tgr-lombardia",
   "originUrl": "https://www.rainews.it/tgr/lombardia",
   "configuredFeedUrl": null,
-  "collectedAt": "2026-11-27T23:00:13.956573Z",
-  "status": "no_feed",
-  "diagnosticCode": "parsing_error",
+  "collectedAt": "2026-11-28T10:56:47.272356Z",
+  "status": "ok",
+  "diagnosticCode": null,
   "method": "crawl4ai",
   "feedUrl": null,
-  "items": [],
+  "items": [
+    {
+      "title": "È morto il giornalista Piero Vigorelli, fu direttore della Tgr",
+      "url": "https://www.rainews.it/tgr/lombardia/articoli/2026/11/e-morto-il-giornalista-piero-vigorelli-fu-direttore-della-tgr-0df9d63f-d5a6-49ef-b739-86b78759a5c6.html",
+      "excerpt": "Il direttore Pacchetti: “Nel suo mandato ha portato le produzioni regionali a una dimensione nazionale e ha valorizzato le minoranze linguistiche”",
+      "publishedAt": "2026-11-19T17:19:00Z",
+      "dateEvidence": "jsonld:datePublished"
+    }
+  ],
   "attempts": [
     {
       "url": "https://www.rainews.it/robots.txt",
@@ -18,12 +26,36 @@
     {
       "url": "https://www.rainews.it/tgr/lombardia/archivio/newsmedia",
       "status": 200
+    },
+    {
+      "url": "https://www.rainews.it/tgr/lombardia/articoli/2026/11/e-morto-il-giornalista-piero-vigorelli-fu-direttore-della-tgr-0df9d63f-d5a6-49ef-b739-86b78759a5c6.html",
+      "status": 200
+    },
+    {
+      "url": "https://www.rainews.it/tgr/lombardia/articoli/2026/06/addio-alleditore-ulrico-carlo-hoepli-7a59212b-3a28-49f5-b66e-c7bb05885e07.html",
+      "status": 200
+    },
+    {
+      "url": "https://www.rainews.it/tgr/lombardia/articoli/2026/05/scuole-di-frontiera-il-nuovo-podcast-della-tgr-b4e6de10-a870-44be-9052-5ce47377f511.html",
+      "status": 200
+    },
+    {
+      "url": "https://www.rainews.it/tgr/lombardia/articoli/2026/03/mattarella-con-i-presidenti-di-camera-e-senato-alla-scala-per-i-150-anni-del-corriere-della-sera-8ba09a4a-fc10-4665-8c1b-b316e36c0e0e.html",
+      "status": 200
+    },
+    {
+      "url": "https://www.rainews.it/tgr/lombardia/articoli/2026/01/leonardo-maria-del-vecchio-nuovo-azionista-di-maggioranza-del-gruppo-editoriale-de-il-giorno-milano-02356c5c-7dd4-49d0-a57a-4f5b0951cc98.html",
+      "status": 200
+    },
+    {
+      "url": "https://www.rainews.it/tgr/lombardia/articoli/2025/12/presentato-il-progetto-della-rai-di-milano-protesta-dei-dipendenti-d7a7390e-a6f1-4048-977b-e634c1b6fa84.html",
+      "status": 200
     }
   ],
-  "message": "Pagina accessibile, ma nessuna notizia con data di pubblicazione verificabile.",
+  "message": "Pagina resa con Crawl4AI; metadati degli articoli e date verificati.",
   "candidateSamples": [],
-  "candidateCount": 0,
-  "datedCount": 0,
+  "candidateCount": 11,
+  "datedCount": 6,
   "listingUrl": "https://www.rainews.it/tgr/lombardia/archivio/newsmedia",
-  "durationSeconds": 1.71
+  "durationSeconds": 0.94
 }

@@ -4,79 +4,254 @@
   "sourceId": "la-stampa",
   "originUrl": "https://www.lastampa.it/",
   "configuredFeedUrl": "https://www.lastampa.it/rss/copertina.xml",
-  "collectedAt": "2026-11-27T22:59:40.464065Z",
+  "collectedAt": "2026-11-28T10:56:14.869205Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.lastampa.it/rss/copertina.xml",
   "items": [
     {
-      "title": "Davis, Italia da brividi: Musetti e Vavassori firmano la rimonta, è finale!",
+      "title": "Nordio ai magistrati: “La sentenza sugli stipendi va eseguita ma si può rateizzare”. No di Gratteri",
+      "url": "https://www.lastampa.it/politica/2026/11/28/news/nordio_prova_a_ricucire_con_i_magistrati_stiamo_superando_i_dissidi_dobbiamo_lavorare_insieme-15812275/",
+      "excerpt": "Il ministro della Giustizia al congresso dell’Anm: «Abbiamo preso atto dei risultati del referendum». Il procuratore di Napoli: «La premier? Al suo posto sarei venuto. Gli aumenti ai magistrati? I soldi per i funzionari di Palazzo Chigi ci sono»",
+      "publishedAt": "2026-11-28T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Quell'apertura di Nordio per interrompere la guerra permanente tra governo e magistrati",
+      "url": "https://www.lastampa.it/politica/2026/11/28/news/quell_apertura_di_nordio_per_interrompere_la_guerra_permanente_tra_governo_e_magistrati-15812317/",
+      "excerpt": "Il Guardasigilli ha scelto una postura diversa rispetto allo scontro che nelle ultime settimane ha caratterizzato il confronto politico sulla giustizia",
+      "publishedAt": "2026-11-28T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "La Russa avverte la Consulta: “Non indicare il premier sarebbe un aiuto alla sinistra”",
+      "url": "https://www.lastampa.it/politica/2026/11/28/news/la_russa_avverte_la_consulta_non_indicare_il_premier_sarebbe_un_aiuto_alla_sinistra-15812184/",
+      "excerpt": "Il presidente del Senato alla Versiliana difende la nuova legge elettorale. Le opposizioni parlano di intimidazione alla Corte: «Parole inaccettabili»",
+      "publishedAt": "2026-11-28T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Pensioni 2027, aumenti o tagli? Chi rischia di perdere fino a 1.723 euro l’anno con le nuove regole",
+      "url": "https://www.lastampa.it/economia/2026/11/28/news/pensioni_2027_aumenti_o_tagli_chi_rischia_di_perdere_fino_a_1723_euro_l_anno_con_le_nuove_regole-15812011/",
+      "excerpt": "Meloni assicura che tutti gli assegni saliranno, Schlein replica: «Mente. Hanno tagliato le pensioni». Il nodo è la rivalutazione: sopra i 2.447 euro lordi il recupero dell’inflazione sarebbe solo parziale",
+      "publishedAt": "2026-11-28T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Raid ucraino in Libia. Italia e Nato all’oscuro, Zelensky chiama Meloni",
+      "url": "https://www.lastampa.it/esteri/2026/11/28/news/raid_ucraino_in_libia_italia_e_nato_all_oscuro_zelensky_chiama_meloni-15812152/",
+      "excerpt": "La premier: «Ha chiarito le sue parole, nessun coordinamento coi partner». La garanzie di Kiev dopo le proteste di Roma: «Daremo sempre comunicazione»",
+      "publishedAt": "2026-11-28T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Kristen Michal: “I blitz di Kiev in Libia servono per difendersi. La responsabilità è soltanto di Putin”",
+      "url": "https://www.lastampa.it/esteri/2026/11/28/news/ucraina-raid-libia-bersagli-russi-kristen-michal-putin-15812026/",
+      "excerpt": "Il premier estone: «La nostra chiusura del confine con Mosca serve a proteggere tutta l'Europa»",
+      "publishedAt": "2026-11-28T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Eshkol Nevo: “Le mie figlie vedranno Israele convivere in pace con uno Stato palestinese”",
+      "url": "https://www.lastampa.it/esteri/2026/11/28/news/eshkol-nevo-israele-stato-palestinese-pace-figlie-15812057/",
+      "excerpt": "Lo scrittore: «Eisenkot il rivale più tosto per Netanyahu, ho speranza e paura»",
+      "publishedAt": "2026-11-28T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Msf: “Due colleghi uccisi in un attacco israeliano a Gaza, siamo indignati”. L’Idf: erano terroristi",
+      "url": "https://www.lastampa.it/esteri/2026/11/28/news/msf_due_colleghi_uccisi_in_un_attacco_israeliano_a_gaza_siamo_indignati_l_idf_erano_terroristi-15812321/",
+      "excerpt": "L’organizzazione sanitaria: già 17 vittime. L’esercito: avevano studiato piani per compiere attacchi contro civili",
+      "publishedAt": "2026-11-28T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Svolta nel giallo dei tre cacciatori uccisi a Messina: dopo 10 mesi arrestato l’unico superstite",
+      "url": "https://www.lastampa.it/cronaca/2026/11/28/news/svolta_nel_giallo_dei_tre_cacciatori_uccisi_a_messina_dopo_10_mesi_arrestato_l_unico_superstite-15812214/",
+      "excerpt": "Secondo gli investigatori un colpo sparato per errore avrebbe innescato una carneficina: ecco la ricostruzione dei fatti",
+      "publishedAt": "2026-11-28T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Il padre di Emanuele, morto in Kuwait: “Dal governo neanche una telefonata. Lasciati soli come cani”",
+      "url": "https://www.lastampa.it/cronaca/2026/11/28/news/padre_emanuele_lo_russo_kuwait_governo_telefonata-15812251/",
+      "excerpt": "Nicola Lo Russo, il padre del tecnico della Rheinmetall di 36 anni ucciso da un drone: «Non abbiamo sentito nessuno, ho dovuto chiamare la Farnesina»",
+      "publishedAt": "2026-11-28T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Crans-Montana un anno dopo: boom di hotel, ma turisti in calo. “Manca la clientela europea”",
+      "url": "https://www.lastampa.it/cronaca/2026/11/28/news/crans_montana_un_anno_dopo_hotel_turisti_in_calo-15812038/",
+      "excerpt": "Il memoriale della strage spostato in posizione defilata. Un commerciante: «Non possiamo demonizzare in eterno questo luogo meraviglioso. Non ci riporterà indietro quei ragazzi»",
+      "publishedAt": "2026-11-28T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "“A casa mia donne vere, in piazza solo sciacquette”. Bufera sul portavoce dell’Osservatorio Ramelli",
+      "url": "https://www.lastampa.it/cronaca/2026/11/28/news/a_casa_mia_donne_vere_in_piazza_solo_sciacquette_bufera_sul_portavoce_dell_osservatorio_ramelli-15812270/",
+      "excerpt": "Il lungo post (poi ritirato) di Mariano Capuano contro il corteo per il 25 novembre. L’ente prende le distanze da lui: «Non ci rappresenta»",
+      "publishedAt": "2026-11-28T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Musetti a cuore aperto: “Ho fatto errori nella vita e in campo, ma sono un nuovo Lorenzo”",
+      "url": "https://www.lastampa.it/sport/tennis/2026/11/28/news/musetti_a_cuore_aperto_ho_fatto_errori_nella_vita_e_in_campo_ma_sono_un_nuovo_lorenzo-15812311/",
+      "excerpt": "L’azzurro trascina l’Italia in finale di Davis: «Sono sempre costretto a dimostrare qualcosa, non so perché. Dopo quel ritiro agli Australian open sono scesi tutti dal carro, mi sono quasi depresso». Il tuffo nelle braccia di Berrettini",
+      "publishedAt": "2026-11-28T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "“Le ricchezze estreme sono esplose, la mia patrimoniale parla alla destra”",
+      "url": "https://www.lastampa.it/economia/2026/11/28/news/gabriel_zucman_le_ricchezze_estreme_esplose_patrimoniale_parla_alla_destra-15812088/",
+      "excerpt": "Il docente: «Difficile estendere la tassa in tutta Europa. Ma introdurla stravolge i miliardari»",
+      "publishedAt": "2026-11-28T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Katy Perry e Trudeau, fuga romantica sull’Orient Express tra vasche dorate e fiumi di champagne",
+      "url": "https://www.lastampa.it/spettacoli/2026/11/28/news/katy_perry_trudeau_orient_express-15812221/",
+      "excerpt": "La coppia ha viaggiato da Parigi a Venezia in una carrozza privata del treno di lusso, con maggiordomo personale, camera da letto e una biblioteca da mille volumi",
+      "publishedAt": "2026-11-28T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Gianni De Gennaro, aperta la camera ardente a Roma. Ai funerali ci sarà La Russa",
+      "url": "https://www.lastampa.it/politica/2026/11/28/news/gianni_de_gennaro_aperta_la_camera_ardente_a_roma_ai_funerali_ci_sara_la_russa-15812297/",
+      "excerpt": "L'esposizione si svolge in forma strettamente privata per volontà della famiglia. Presenti Gianni Letta e Angelino Alfano",
+      "publishedAt": "2026-11-28T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Alfonso Sabella: “De Gennaro suicida per tutelare la sua storia, la legge sui pentiti arrivò dopo”",
+      "url": "https://www.lastampa.it/politica/2026/11/28/news/alfonso_sabella_de_gennaro_suicida_per_tutelare_la_sua_storia_la_legge_sui_pentiti_arrivo_dopo-15812114/",
+      "excerpt": "Il magistrato: «Impossibile agisse di nascosto, Falcone non era uno sciocco»",
+      "publishedAt": "2026-11-28T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Márquez lascia la MotoGP e spiega il perché: \"Ecco cosa mi fa davvero paura\"",
+      "url": "https://www.lastampa.it/sport/2026/11/28/video/marc_marquez_ritiro_motogp_paura_infortuni_visione_doppia-15812239/",
+      "excerpt": "«Sono un combattente, ma ho cominciato ad avere paura. Non della moto, non della velocità». Marc Márquez racconta le ragioni del suo addio alla MotoGP durante una conferenza stampa a Valencia, alla vigilia dell'ultimo Gran Premio della sua carriera. Il campione spagnolo, 33 anni, lascia le competizioni dopo aver conqui",
+      "publishedAt": "2026-11-28T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Viaggio nell’Andalusia delusa dal socialismo. “Troppi errori negli anni”",
+      "url": "https://www.lastampa.it/esteri/2026/11/28/news/andalusia_delusa_socialismo_troppi_errori_sanchez-15812104/",
+      "excerpt": "A Siviglia il rilancio del numero uno dei Popolari: «Sarò il presidente di tutti»",
+      "publishedAt": "2026-11-28T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Pedro Sánchez, il premier che cade e risorge: così ha cambiato il volto della Spagna",
+      "url": "https://www.lastampa.it/esteri/2026/11/28/news/pedro-sanchez-premier-spagna-carriera-politica-rimonte-15812179/",
+      "excerpt": "Dalle sfide interne al PSOE ai governi di coalizione, fino allo scontro con Trump e Netanyahu. Il leader socialista ha costruito la sua carriera politica sulle rimonte e sulla capacità di adattarsi, ma la partita di domenica è la più difficile",
+      "publishedAt": "2026-11-28T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Pablo Maqueda sulle orme di Nanni Moretti",
+      "url": "https://www.lastampa.it/torino/speciali/torino-film-festival/2026/11/28/news/pablo_maqueda_sulle_orme_di_nanni_moretti-15811981/",
+      "excerpt": "Nel film “Caro Nanni” l’autore spagnolo ripercorre in Vespa le strade del regista italiano: “La sua visione e la sua sensibilità hanno avuto un profondo impatto su generazioni di registi”",
+      "publishedAt": "2026-11-28T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "L’immensa Isabelle Huppert e la libertà come metodo",
+      "url": "https://www.lastampa.it/torino/speciali/torino-film-festival/2026/11/28/news/l_immensa_isabelle_huppert_e_la_liberta_come_metodo-15812008/",
+      "excerpt": "Se Isabelle Huppert fosse nata a Los Angeles e avesse costruito la propria carriera a Hollywood, forse sarebbe considerata una delle più grandi attrici del mondo. Per me lo è già, e da ...",
+      "publishedAt": "2026-11-28T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Paolo Zaccagnini: “Nanni trotzkista, io anarchico, quando casa nostra era il set”",
+      "url": "https://www.lastampa.it/spettacoli/2026/11/28/news/paolo_zaccagnini_nanni_trotzkista_io_anarchico_quando_casa_nostra_era_il_set-15811992/",
+      "excerpt": "Cinquant’anni fa usciva “Io sono un autarchico”, esordio del regista",
+      "publishedAt": "2026-11-28T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Tartufi, Mattarella chiede di correggere la legge: il nodo delle multe nelle riserve di caccia",
+      "url": "https://www.lastampa.it/cuneo/2026/11/28/news/tartufi-nuove-regole-aziende-venatorie-mattarella-15812084/",
+      "excerpt": "I rilievi del Capo dello Stato sulla possibilità di introdurre sanzioni",
+      "publishedAt": "2026-11-28T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Guadagnino: “A Venezia fischiarono il mio primo film”",
+      "url": "https://www.lastampa.it/spettacoli/2026/11/28/news/guadagnino_a_venezia_fischiarono_il_mio_primo_film-15812329/",
+      "excerpt": "Dal gelo della Mostra a Melissa P, il regista ripercorre gli esordi difficili e la lezione che gli ha cambiato il modo di fare cinema",
+      "publishedAt": "2026-11-28T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Vino al metanolo, dopo 40 anni arriva il “risarcimento”: 124 euro per una vendemmia mai pagata",
+      "url": "https://www.lastampa.it/sapore/2026/11/28/news/vino_metanolo_risarcimento_124_euro_vendemmia_mai_pagata_fauri_chieti-15812021/",
+      "excerpt": "Il racconto di Valentina Di Camillo, produttrice abruzzese: nel 1986 i genitori, allora poco più che ventenni, avevano venduto una cisterna di vino per circa 80 milioni di lire: «Con quei soldi sognavano un piccolo appartamento al mare». La quota assegnata è appena lo 0,49%",
+      "publishedAt": "2026-11-28T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "“È ora di fare la rivoluzione. Le donne si ribellino all’imbroglio del neutro”",
+      "url": "https://www.lastampa.it/cultura/2026/11/28/news/e_ora_di_fare_la_rivoluzionele_donne_si_ribellinoall_imbroglio_del_neutro-15812001/",
+      "excerpt": "Il confronto: «Gli uomini vivono la nostra libertà come una minaccia»",
+      "publishedAt": "2026-11-28T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Garlasco, cosa serve per ribaltare la condanna di Stasi? La spiegazione del giudice che lo assolse",
+      "url": "https://www.lastampa.it/economia/speciali/la-stampa-per-voi/2026/11/28/video/garlasco_revisione_vitelli_cosa_serve_riaprire_caso-15812256/",
+      "excerpt": "«Per arrivare a dubitare della colpevolezza di un condannato ci vogliono elementi seri e significativi». Stefano Vitelli, magistrato e autore con Giuseppe Legato del libro Il ragionevole dubbio di Garlasco, intervistato da Lodovico Poletto durante La Stampa per voi al Museo Nazionale dell’Automobile di Torino, spiega q",
+      "publishedAt": "2026-11-28T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Uccisi in Kuwait, l’ira dei colleghi: “Troppi pericoli”",
+      "url": "https://www.lastampa.it/cronaca/2026/11/28/news/italiani_uccisi_kuwait_rheinmetall-15812188/",
+      "excerpt": "Passa la proposta Fiom: sciopero di otto ore quando rientreranno le salme",
+      "publishedAt": "2026-11-28T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Legge nazionale sul fine vita. Un questionario ai militanti FdI",
+      "url": "https://www.lastampa.it/politica/2026/11/28/news/legge_nazionale_fine_vita_questionario_militanti_fdi-15812126/",
+      "excerpt": "La mossa del partito a 24 ore dal secco no del Vaticano che insiste sulle cure palliative",
+      "publishedAt": "2026-11-28T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Costretta dal figlio a mendicare: “Le prendeva i soldi anche alla Rsa”. Lui resta in carcere",
+      "url": "https://www.lastampa.it/torino/2026/11/28/news/scarrone_costringe_madre_anziana_elemosina_carcere_rsa-15812191/",
+      "excerpt": "La donna di 81 anni doveva stare in mezzo alla strada tutto il giorno per chiedere l’elemosina: per lei continue umiliazioni e offese",
+      "publishedAt": "2026-11-28T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "“Un’azienda di carta”, “Non si torna indietro”: Regina e Sant’Anna, scontro Regione-medici",
+      "url": "https://www.lastampa.it/torino/2026/11/28/news/ospedali_regina_sant_anna_polemica_regione_medici-15812236/",
+      "excerpt": "A due mesi dallo scorporo del nuovo soggetto dalla Città della Salute è ancora in forse la ripartizione del personale e dei fondi",
+      "publishedAt": "2026-11-28T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "“Adalgisa derubata quando era a terra”, resta in carcere il rapinatore",
+      "url": "https://www.lastampa.it/torino/2026/11/28/news/adalgisa_derubata_quando_era_a_terra_resta_in_carcere_il_rapinatore-15812032/",
+      "excerpt": "Convalidato il fermo del 50enne: la 92enne è morta dopo la rapina",
+      "publishedAt": "2026-11-28T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Gli studenti non mollano e proseguono con l’occupazione, il Politecnico li denuncia",
+      "url": "https://www.lastampa.it/torino/2026/11/28/news/gli_studenti_non_mollano_e_proseguono_con_l_occupazione_il_politecnico_li_denuncia-15812076/",
+      "excerpt": "I collettivi: “Stop agli accordi militari”. In 50 nell’ex centrale termica contro l’accordo con Mbda. L’azienda: “Partnership rispettosa della sensibilità di tutti”",
+      "publishedAt": "2026-11-28T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Davis, Italia da brividi: Musetti e Vavassori firmano la rimonta, azzurri in finale",
       "url": "https://www.lastampa.it/sport/2026/11/27/news/coppa-davis-italia-finale-rimonta-musetti-vavassori-15812107/",
       "excerpt": "Sconfitta la Repubblica Ceca in tre set",
-      "publishedAt": "2026-11-27T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Dai social alla trincea: la truffa ai soldati brasiliani reclutati dalla Russia per 100 mila dollari",
-      "url": "https://www.lastampa.it/tech/2026/11/27/news/russia_reclutamento_soldati_stranieri_stipendi_esercito-15811435/",
-      "excerpt": "Un’inchiesta del New York Times racconta le storie di alcuni cittadini brasiliani arruolati per combattere in Ucraina. Secondo una commissione delle Nazioni Unite, uomini provenienti da 29 Paesi sono stati reclutati con inganni o coercizioni. Kiev ha aperto un’indagine per tratta di esseri umani",
-      "publishedAt": "2026-11-27T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Francesca Albanese respinta in Costa Rica: “Legami con i terroristi”",
-      "url": "https://www.lastampa.it/esteri/2026/11/27/news/francesca_albanese_costa_rica_respinta_onu_scontro_governo_israele-15811307/",
-      "excerpt": "La relatrice Onu attesa per un dottorato honoris causa. L’allerta di San Josè per presunti legami con il terrorismo. Un anno fa la polemica sul trattato di libero commercio con Israele",
-      "publishedAt": "2026-11-27T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Legge elettorale, La Russa attacca la Consulta: “Togliere il nome del premier sarebbe un aiuto alla sinistra”",
-      "url": "https://www.lastampa.it/politica/2026/11/27/news/legge-elettorale-la-russa-consulta-nome-premier-sinistra-15812047/",
-      "excerpt": "ll presidente del Senato contesta in anticipo un eventuale intervento della Corte sull'obbligo di indicare il candidato a Palazzo Chigi. Il Pd insorge. Boccia: «Gravità istituzionale inaudita, delegittima i giudici costituzionali»",
-      "publishedAt": "2026-11-27T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Anm, Tango: “Non siamo antagonisti di nessun governo”. L’appello a fermare i linciaggi",
-      "url": "https://www.lastampa.it/politica/2026/11/27/news/anm-tango-governo-linciaggi-magistrati-15811710/",
-      "excerpt": "Al congresso di Napoli, davanti a Mattarella, il presidente dell’Anm avverte: delegittimare i magistrati mina la fiducia dei cittadini nella giustizia. E sugli ispettori: «Si possono agevolmente tradurre in uno strumento di indebita pressione»",
-      "publishedAt": "2026-11-27T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Torino, il cuore de La Stampa. Il direttore Di Rosa tra segnali di ripresa e la sfida digitale",
-      "url": "https://www.lastampa.it/economia/speciali/la-stampa-per-voi/2026/11/27/video/torino_il_cuore_de_la_stampa_il_direttore_di_rosa_tra_segnali_di_ripresa_e_la_sfida_digitale-15811791/",
-      "excerpt": "Cinque mesi senza respiro. Antonio Di Rosa, direttore de La Stampa dal 1° luglio 2026, traccia un primo bilancio sul palco di «La Stampa per voi», al Museo nazionale dell’Automobile di Torino. In un mercato editoriale in difficoltà, rivendica i primi segnali di ripresa sul fronte delle vendite: «Abbiamo recuperato il 5",
-      "publishedAt": "2026-11-27T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "L’astronauta Parmitano: “Si torna sulla Luna per fare ricerca a lunga durata”",
-      "url": "https://www.lastampa.it/economia/speciali/la-stampa-per-voi/2026/11/27/news/l_astronauta_parmitano_si_torna_sulla_luna_per_fare_ricerca_a_lunga_durata-15811623/",
-      "excerpt": "Il «ritorno sulla Luna» di Luca Parmitano, astronauta dell’Agenzia spaziale europea, si avvicina sempre di più. Data di partenza di Artemis III, di cui ...",
-      "publishedAt": "2026-11-27T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Chiellini e la crisi del calcio italiano: \"Ecco perché è più facile comprare un giovane straniero\"",
-      "url": "https://www.lastampa.it/economia/speciali/la-stampa-per-voi/2026/11/27/video/calcio_italiano_crisi_chiellini-15811499/",
-      "excerpt": "Ospite di «La Stampa per voi», l'evento organizzato dal nostro quotidiano al Museo Nazionale dell'Automobile di Torino, Giorgio Chiellini, chief club affairs officer della Juventus, ha parlato con Fabio Riva delle difficoltà del calcio italiano e delle possibili soluzioni per rilanciare il movimento. Da qui la proposta",
-      "publishedAt": "2026-11-27T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Luca Mercalli, davanti ai negozi un avviso: “Porta chiusa per risparmio energia e futuro ai figli”",
-      "url": "https://www.lastampa.it/economia/speciali/la-stampa-per-voi/2026/11/27/news/luca_mercalli_davanti_ai_negozi_un_avviso_porta_chiusa_per_risparmio_energia_e_futuro_ai_figli-15811805/",
-      "excerpt": "È stato un 2026 da record per quanto riguarda il cambiamento climatico in Italia. Partendo con la frana a Niscemi, passando per ...",
-      "publishedAt": "2026-11-27T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "De Gennaro, terminata l'autopsia: confermato il suicidio. No segni di violenza da terzi",
-      "url": "https://www.lastampa.it/cronaca/2026/11/27/news/de_gennaro_terminata_autopsia_careggi-15811865/",
-      "excerpt": "Quasi undici ore di analisi: l’obiettivo è stabile l’orario e le circostanze del decesso",
       "publishedAt": "2026-11-27T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -88,9 +263,9 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Nei messaggi di De Gennaro una sfida per lo Stato",
-      "url": "https://www.lastampa.it/editoriali/lettere-e-idee/2026/11/27/news/nei_messaggi_di_de_gennaro_una_sfida_per_lo_stato-15810852/",
-      "excerpt": "In questa nuova notte della Repubblica, che periodicamente accumula misteri sui suoi passaggi cruciali e perennemente priva di un passato condiviso, il “testamento morale” di Gianni De Gennaro, ...",
+      "title": "Colau incalza Feijóo, lui replica, Sánchez interviene: cosa si sono detti in tv",
+      "url": "https://www.lastampa.it/esteri/2026/11/27/video/spagna_elezioni_colau_feijoo_sanchez_scontro_dibattito_tv-15811277/",
+      "excerpt": "Scintille durante il dibattito televisivo del 26 novembre tra i candidati alle elezioni politiche spagnole in programma il 29 novembre. Ada Colau, candidata di sinistra del Frente Amplio, incalza il leader del Partito popolare Alberto Núñez Feijóo sulla gestione dell’alluvione che nel 2024 devastò la Comunità Valencian",
       "publishedAt": "2026-11-27T00:00:00Z",
       "dateEvidence": "feed:published"
     },
@@ -102,104 +277,6 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Venezia, sparatoria tra poliziotti e due ricercati: un morto e un uomo in fuga",
-      "url": "https://www.lastampa.it/cronaca/2026/11/27/news/sparatoria-cavarzere-polizia-morto-ricercato-fuga-15811784/",
-      "excerpt": "A San Pietro di Cavarzere gli agenti arrivati dalla Campania dovevano eseguire due arresti. Morto uno dei ricercati, arrestato un terzo uomo. L’altro ricercato è fuggito armato nei campi: ricerche anche con un elicottero",
-      "publishedAt": "2026-11-27T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "L’esistenza è nostra, non della burocrazia. E il diritto al fine vita riguarda tutti",
-      "url": "https://www.lastampa.it/cuneo/2026/11/27/news/l_esistenza_e_nostra_non_della_burocrazia_e_il_diritto_al_fine_vita_riguarda_tutti-15811813/",
-      "excerpt": "Conosco la sofferenza, la mia e quella di tante persone che soffrono o hanno sofferto accanto a me",
-      "publishedAt": "2026-11-27T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Firraru 2024 di Feudo Maccari è il miglior vino bianco d’Italia",
-      "url": "https://www.lastampa.it/sapore/2026/11/27/news/firraru_2024_feudo_maccari_miglior_vino_bianco_italia-15811896/",
-      "excerpt": "Il Grillo in purezza della tenuta siciliana della famiglia Moretti Cuseri conquista 110 Cum Laude, il massimo riconoscimento della Guida de L’Espresso 2027",
-      "publishedAt": "2026-11-27T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Raddoppiano le trappole “americane” per catturare i cinghiali",
-      "url": "https://www.lastampa.it/novara/2026/11/27/news/trappole_americane_catture_cinghiali-15810271/",
-      "excerpt": "Nel Novarese la polizia provinciale acquista una nuova maxi rete: attiva da 2027",
-      "publishedAt": "2026-11-27T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Le 10 cose da controllare in bolletta prima di cambiare offerta della luce",
-      "url": "https://www.lastampa.it/energie/2026/11/27/news/bolletta_luce_come_leggerla_cambio_fornitore_costi_nascosti_tariffe-15811416/",
-      "excerpt": "Dal regime di fornitura ai costi fissi di commercializzazione, fino alle penali per il recesso anticipato: guida pratica alla lettura della fattura elettrica per evitare rincari nascosti e scegliere la tariffa più adatta ai propri consumi reali",
-      "publishedAt": "2026-11-27T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Come consumare meno benzina in auto",
-      "url": "https://www.lastampa.it/motori/2026/11/27/news/caro_benzina_come_risparmiare_auto_ridurre_consumi_carburante_consigli-15811450/",
-      "excerpt": "Secondo la Commissione europea le auto a benzina consumano su strada oltre il 20 per cento in più del dichiarato. La folle, il motore freddo, le gomme sgonfie e il box sul tetto fanno salire i consumi, e per la guida dei ministeri le abitudini giuste possono tagliare i consumi fino al 15 per cento",
-      "publishedAt": "2026-11-27T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "“La gente o mi ama o mi odia. Io divido”: la vita senza filtri dello stilista Philipp Plein",
-      "url": "https://www.lastampa.it/spettacoli/2026/11/27/news/designer_philipp_plein_docuserie-15811344/",
-      "excerpt": "In «Plein – Family. Business. Dreams», il personaggio lascia spazio all’uomo: «Per 25 anni c’è stato solo il mio lavoro. Oggi la mia famiglia è diventata la cosa più importante»",
-      "publishedAt": "2026-11-27T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Il ritorno di Luca Barbarossa: “Dobbiamo credere più nel cambiamento che nel rovesciamento”",
-      "url": "https://www.lastampa.it/spettacoli/musica/2026/11/27/video/luca_barbarossa_intervista_ritorno_nuovo_album_pepita_rivoluzione_jazz-15810583/",
-      "excerpt": "Undici brani inediti, registrati interamente in analogico, tra improvvisazione jazz, canzone d’autore e suggestioni letterarie. Esce il 27 novembre “Pepita e la rivoluzione”, il nuovo album di Luca Barbarossa, con la partecipazione di Paolo Fresu, Danilo Rea e Paolo Buonvino. Il cantautore presenta il disco in anteprim",
-      "publishedAt": "2026-11-27T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Elena Cattaneo: “Per i nostri politici la scienza è scomoda”",
-      "url": "https://www.lastampa.it/speciale/scienza/il-cielo/2026/11/27/news/elena_cattaneo_scienza_politica_giovani_ricercatori-15811458/",
-      "excerpt": "Biologa di fama internazionale e senatrice a vita, ha inaugurato a Torino la nuova stagione di GiovedìScienza. Il suo ultimo libro «Consigli ai giovani ricercatori» attualizza l’insegnamento di Ramon y Cajal, premio Nobel nel 1906",
-      "publishedAt": "2026-11-27T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "La falsa famiglia, i riti voodoo e l’agguato in bici: il delitto di Fabio Ravasio",
-      "url": "https://www.lastampa.it/plus/rubriche/coordinate-criminali/2026/11/27/news/la_falsa_famiglia_i_riti_voodoo_e_l_agguato_in_bici_il_delitto_di_fabio_ravasio-15810943/",
-      "excerpt": "Adilma Pereira Carneiro ha orchestrato l’omicidio per intascare il patrimonio da 3 milioni",
-      "publishedAt": "2026-11-27T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Pignataro (ION): “Se Nvidia implode, implodono gli Usa. Il mondo è diventato esponenziale”",
-      "url": "https://www.lastampa.it/economia/2026/11/27/news/pignataro_ion_luiss_anno_accademico-15811505/",
-      "excerpt": "All'inaugurazione dell'anno accademico Luiss, la lezione dell’imprenditore: con l'IA un ragazzo di 24 anni potrà cambiare la storia di un'azienda. E l'Italia può ripetere la crescita degli anni Cinquanta",
-      "publishedAt": "2026-11-27T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "\"Purtroppo parla di me\": la confessione di Shade sul nuovo singolo e la scelta su Sanremo",
-      "url": "https://www.lastampa.it/spettacoli/2026/11/27/video/shade_nuovo_singolo_volevo_solo_dirti-15811396/",
-      "excerpt": "È un brano che racconta la fine di una relazione, quando l'amore non è ancora svanito ma stare insieme non basta più. Shade torna con Volevo solo dirti, il nuovo singolo disponibile dal 27 novembre, e ne parla durante un'intervista nella redazione de La Stampa. «È autobiografico, purtroppo», confessa il rapper torinese",
-      "publishedAt": "2026-11-27T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Don Paglia a Myrta Confidential: \"La sinistra? Ci copi. L’unico che parla per tutti i popoli è il Papa\"",
-      "url": "https://www.lastampa.it/spettacoli/2026/11/27/video/don_paglia_a_myrta_confidential_la_sinistra_ci_copi_lunico_che_parla_per_tutti_i_popoli_e_il_papa-15811688/",
-      "excerpt": "Parlando della crisi delle culture politiche tradizionali e dell'affermarsi dell'individualismo, Don Paglia individua nell'egoismo e nella perdita del senso della comunità alcune delle radici delle tensioni sociali contemporanee. “Oggi è nata una nuova religione che si chiama l'egolatria, il culto di sé. Ti senti un Pa",
-      "publishedAt": "2026-11-27T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Alle Atp Finals di Torino è come stare sulla Luna",
-      "url": "https://www.lastampa.it/sport/2026/11/27/news/angelo_binaghi_atp_finals_certezza_torino_e_come_stare_sulla_luna_italia_coraggiosa_in_davis-15810807/",
-      "excerpt": "Il n. 1 Fitp: «Lascio le Coree al calcio, ho fiducia in Cobolli»",
-      "publishedAt": "2026-11-27T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
       "title": "Celeste Dalla Porta: \"Dopo Sorrentino imparo a ballare in un (quasi) musical\"",
       "url": "https://www.lastampa.it/spettacoli/2026/11/27/video/celeste_dalla_porta_dopo_sorrentino_imparo_a_ballare_in_un_quasi_musical-15811940/",
       "excerpt": "Ritorna Celeste Dalla Porta, dopo i fasti de \"Parthenope\" col film dell'esordiente italo-argentino Mauro Diéz Concari \"Costanera\" ed è tutt'altra musica: tra \"La La Land\" e il cinema di Jacques Demy \"Costanera\" è la sfida del suo autore a portare il musical nel cinema italiano contemporaneo. Accanto a Celeste Dalla Por",
@@ -207,86 +284,9 @@
       "dateEvidence": "feed:published"
     },
     {
-      "title": "Stephen Frears e Mike Newell, diversamente inglesi",
-      "url": "https://www.lastampa.it/torino/speciali/torino-film-festival/2026/11/27/news/stephen_frears_e_mike_newell_diversamente_inglesi-15810730/",
-      "excerpt": "Due modi opposti di pensare il cinema, ma con uno stile inconfondibilmente British. E uniti da una convinzione: “L’intelligenza artificiale non ci serve, è deprimente”",
-      "publishedAt": "2026-11-27T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "I film italiani più interessanti dei discorsi che li riguardano",
-      "url": "https://www.lastampa.it/torino/speciali/torino-film-festival/2026/11/27/news/i_film_italiani_piu_interessanti_dei_discorsi_che_li_riguardano-15810759/",
-      "excerpt": "Ficarra e Picone hanno portato al Torino Film Festival un curioso problema: il cinema italiano continua a fare film migliori dei discorsi che lo riguardano. Fra le opere di ...",
-      "publishedAt": "2026-11-27T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Colau incalza Feijóo, lui replica, Sánchez interviene: cosa si sono detti in tv",
-      "url": "https://www.lastampa.it/esteri/2026/11/27/video/spagna_elezioni_colau_feijoo_sanchez_scontro_dibattito_tv-15811277/",
-      "excerpt": "Scintille durante il dibattito televisivo del 26 novembre tra i candidati alle elezioni politiche spagnole in programma il 29 novembre. Ada Colau, candidata di sinistra del Frente Amplio, incalza il leader del Partito popolare Alberto Núñez Feijóo sulla gestione dell’alluvione che nel 2024 devastò la Comunità Valencian",
-      "publishedAt": "2026-11-27T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Puniti prima del processo. Il decreto cortei e quegli emendamenti a rischio incostituzionalità",
-      "url": "https://www.lastampa.it/politica/2026/11/27/news/decreto_cortei_emendamento_rischio_incostituzionalita-15811256/",
-      "excerpt": "Il centrodestra rivendica la linea della fermezza. Ma i giuristi lanciano l’allarme",
-      "publishedAt": "2026-11-27T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Lacrimogeni di sangue, 10mila donne in Francia denunciano aborti ed emorragie dopo le proteste",
-      "url": "https://www.lastampa.it/esteri/2026/11/27/news/francia_gas_lacrimogeni_donne_denunce_aborti_emorragie-15811363/",
-      "excerpt": "Un'ondata di testimonianze dopo le proteste del 17 ottobre riaccende i dubbi sugli effetti dei gas lacrimogeni sulla salute riproduttiva",
-      "publishedAt": "2026-11-27T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Autostrade a Natale e Capodanno: al Tavolo tecnico ministeriale la Regione fa il punto sui cantieri",
-      "url": "https://www.lastampa.it/cuneo/2026/11/27/news/autostrade_a_natale_e_capodanno_al_tavolo_tecnico_ministeriale_la_regione_fa_il_punto_sui_cantieri-15811765/",
-      "excerpt": "La situazione tratta per tratta nelle prossime settimane",
-      "publishedAt": "2026-11-27T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "A Torino niente neve dal 2022, ma il piano per le strade costa 3,5 milioni all’anno",
-      "url": "https://www.lastampa.it/torino/2026/11/27/news/piano_neve_comune_arpa_amiat-15810828/",
-      "excerpt": "Arpa non rileva precipitazioni da 4 anni, ma il budget per il piano sulla viabilità non cala. «Sul bilancio pesano gli interventi anti-ghiaccio e il servizio in appalto da garantire»",
-      "publishedAt": "2026-11-27T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Più fondi a case rifugio e centri d’accoglienza. La rete del Piemonte contro la violenza sulle donne",
-      "url": "https://www.lastampa.it/nord-ovest/2026/11/27/news/violenza_donne_centri_accoglienza_casa_rifugio_regione_piemonte-15811336/",
-      "excerpt": "Attivati 23 contratti d’affitto per chi ha lasciato il partner",
-      "publishedAt": "2026-11-27T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Marc Marquez si ritira: \"Questa sarà la mia ultima gara”. Cosa c'è dietro l'addio",
-      "url": "https://www.lastampa.it/sport/2026/11/27/news/moto_gp_marquez_annuncia_ritiro-15811408/",
-      "excerpt": "Lo spagnolo lo ha fatto sapere con un cartello mostrato alle telecamere durante le prime prove libere del GP di Valencia",
-      "publishedAt": "2026-11-27T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Marc Márquez: l’annuncio a sorpresa nel box Ducati tra lacrime e applausi",
-      "url": "https://www.lastampa.it/sport/2026/11/27/video/marc_marquez_ritiro_motogp_annuncio_ducati_valencia_ultima_gara-15811545/",
-      "excerpt": "L’addio da campione. A 33 anni Marc Márquez annuncia il ritiro dalle competizioni: il Gran Premio di Valencia, domenica 29 novembre, sarà l’ultimo della sua carriera. Lo spagnolo comunica la decisione mostrando alcuni cartelli alle telecamere nel box Ducati, tra gli applausi della squadra e l’incredulità del pubblico. ",
-      "publishedAt": "2026-11-27T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Global Skills Summit: a Torino il confronto internazionale sul futuro del lavoro",
-      "url": "https://www.lastampa.it/torino/speciali/torino-skills-summit-2026/2026/11/27/video/global_skills_summit_a_torino_il_confronto_internazionale_sul_futuro_del_lavoro-15811704/",
-      "excerpt": "Alle OGR per tre giorni, dal 23 al 26 novembre 2026, il Torino Global Skills Summit 2026, l’evento internazionale organizzato dalla Fondazione europea per la formazione (ETF), agenzia dell'Unione europea con sede a Torino che lavora per migliorare i sistemi di istruzione e formazione in quasi 30 Paesi. Oltre 250 partec",
-      "publishedAt": "2026-11-27T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Cinesettimana: Kasia Smutniak conquista con “Mustang”, delude il ritorno di Farhadi",
-      "url": "https://www.lastampa.it/rubriche/cinesettimana/2026/11/27/video/cinesettimana_kasia_smutniak_conquista_con_mustang_delude_il_ritorno_di_farhadi-15811799/",
-      "excerpt": "Due film, due esiti opposti. Convince Kasia Smutniak con “Mustang”, documentario premiato dal pubblico alla Festa del Cinema di Roma, che ripercorre il viaggio in Nepal del 2003 con Pietro Taricone, attraverso i filmati di famiglia e lo sguardo della figlia Sophie. Delude invece “Storie parallele” del regista iraniano ",
+      "title": "Torino, il cuore de La Stampa. Il direttore Di Rosa tra segnali di ripresa e la sfida digitale",
+      "url": "https://www.lastampa.it/economia/speciali/la-stampa-per-voi/2026/11/27/video/torino_il_cuore_de_la_stampa_il_direttore_di_rosa_tra_segnali_di_ripresa_e_la_sfida_digitale-15811791/",
+      "excerpt": "Cinque mesi senza respiro. Antonio Di Rosa, direttore de La Stampa dal 1° luglio 2026, traccia un primo bilancio sul palco di «La Stampa per voi», al Museo nazionale dell’Automobile di Torino. In un mercato editoriale in difficoltà, rivendica i primi segnali di ripresa sul fronte delle vendite: «Abbiamo recuperato il 5",
       "publishedAt": "2026-11-27T00:00:00Z",
       "dateEvidence": "feed:published"
     }
@@ -302,5 +302,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 1.21
+  "durationSeconds": 0.75
 }

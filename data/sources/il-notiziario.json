@@ -4,12 +4,54 @@
   "sourceId": "il-notiziario",
   "originUrl": "https://www.ilnotiziario.net/",
   "configuredFeedUrl": "https://www.ilnotiziario.net/feed/",
-  "collectedAt": "2026-11-27T22:59:36.846436Z",
+  "collectedAt": "2026-11-28T10:56:11.724393Z",
   "status": "ok",
   "diagnosticCode": null,
   "method": "rss",
   "feedUrl": "https://www.ilnotiziario.net/feed/",
   "items": [
+    {
+      "title": "Truffa da 32mila euro a una coppia di anziani, fermato un falso perito a Settimo Milanese",
+      "url": "https://www.ilnotiziario.net/truffa-da-32mila-euro-a-una-coppia-di-anziani-fermato-un-falso-perito-a-settimo-milanese/",
+      "excerpt": "Truffa da 32mila euro a una coppia di anziani, fermato un falso perito a Settimo Milanese Un falso controllo giudiziario per...",
+      "publishedAt": "2026-11-28T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Delitto in Galizia, recensione: quando il pericolo per la donna è il sistema",
+      "url": "https://www.ilnotiziario.net/delitto-in-galizia-recensione-quando-il-pericolo-per-la-donna-e-il-sistema/",
+      "excerpt": "di Stefano Di Maria Proprio a ridosso del 25 novembre, giornata contro la violenza sulle donne, Netflix ha rilasciato DELITTO IN...",
+      "publishedAt": "2026-11-28T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Beni confiscati alle mafie, il comune di Solaro aderisce alla campagna di Libera",
+      "url": "https://www.ilnotiziario.net/beni-confiscati-alle-mafie-il-comune-di-solaro-aderisce-alla-campagna-di-libera/",
+      "excerpt": "Beni confiscati alle mafie, il comune di Solaro aderisce alla campagna di Libera Il comune di Solaro aderisce alla campagna...",
+      "publishedAt": "2026-11-28T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Il Distretto del Commercio di Bresso diventa d’Eccellenza e finanzia due nuovi parcheggi pubblici in centro",
+      "url": "https://www.ilnotiziario.net/il-distretto-del-commercio-di-bresso-diventa-deccellenza-e-finanzia-due-nuovi-parcheggi-pubblici-in-centro/",
+      "excerpt": "Il Distretto del Commercio di Bresso diventa d’Eccellenza e finanzia due nuovi parcheggi pubblici in centro Il Distretto del...",
+      "publishedAt": "2026-11-28T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Cesate, tre ladri incappucciati entrano in casa con un piede di porco",
+      "url": "https://www.ilnotiziario.net/cesate-tre-ladri-incappucciati-entrano-in-casa-con-un-piede-di-porco/",
+      "excerpt": "Cesate, tre ladri incappucciati entrano in casa con un piede di porco. Tre individui incappucciati, uno dei quali con quello che...",
+      "publishedAt": "2026-11-28T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
+    {
+      "title": "Giulia Tramontano, il papà Franco in tv a Quarto Grado: “il 25 novembre è tutti i giorni”",
+      "url": "https://www.ilnotiziario.net/giulia-tramontano-il-papa-franco-in-tv-a-quarto-grado-il-25-novembre-e-tutti-i-giorni/",
+      "excerpt": "Giulia Tramontano, in tv parla il papà. Venerdì sera Franco Tramontano, padre di Giulia Tramontano, è intervenuto in collegamento...",
+      "publishedAt": "2026-11-28T00:00:00Z",
+      "dateEvidence": "feed:published"
+    },
     {
       "title": "Addio dissapori, rinasce il Palio di Gerenzano",
       "url": "https://www.ilnotiziario.net/addio-dissapori-rinasce-il-palio-di-gerenzano/",
@@ -72,48 +114,6 @@
       "excerpt": "A Cusano Milanino 3 auto hanno preso fuoco nella notte. Notte di paura e risveglio tra fumo e fiamme a Cusano Milanino per un...",
       "publishedAt": "2026-11-27T00:00:00Z",
       "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Paderno, ladri in stazione: assaltato il distributore automatico dei biglietti di Trenord",
-      "url": "https://www.ilnotiziario.net/paderno-ladri-in-stazione-assaltato-il-distributore-automatico-dei-biglietti-di-trenord/",
-      "excerpt": "A Paderno Dugnano, ladri nella notte in stazione, assalto al distributore di biglietti. Distributore automatico dei biglietti...",
-      "publishedAt": "2026-11-27T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Le mamme dei pinguini 2, recensione: la disabilità in una serie tv",
-      "url": "https://www.ilnotiziario.net/le-mamme-dei-pinguini-2-recensione-la-disabilita-in-una-serie-tv/",
-      "excerpt": "di Stefano Di Maria Oggi parliamo di una serie molto particolare, che in un certo senso è una prova di coraggio produttivo...",
-      "publishedAt": "2026-11-26T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Monza, auto in fiamme in un parcheggio, un uomo trovato morto nell’abitacolo",
-      "url": "https://www.ilnotiziario.net/monza-auto-in-fiamme-in-un-parcheggio-un-uomo-trovato-morto-nellabitacolo/",
-      "excerpt": "Monza, auto in fiamme in un parcheggio, un uomo trovato morto nell’abitacolo Tragedia nella mattinata di oggi, giovedì 26...",
-      "publishedAt": "2026-11-26T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Milano, cocaina nascosta anche nell’ascensore, arrestato un 45enne",
-      "url": "https://www.ilnotiziario.net/milano-cocaina-nascosta-anche-nellascensore-arrestato-un-45enne/",
-      "excerpt": "Milano, cocaina nascosta anche nell’ascensore, arrestato un 45enne La droga non era nascosta soltanto nell’appartamento, ma...",
-      "publishedAt": "2026-11-26T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Saronno, 520mila euro dalla Regione per il commercio, il progetto entra tra le eccellenze",
-      "url": "https://www.ilnotiziario.net/saronno-520mila-euro-dalla-regione-per-il-commercio-il-progetto-entra-tra-le-eccellenze/",
-      "excerpt": "Saronno, 520mila euro dalla Regione per il commercio, il progetto entra tra le eccellenze Il Distretto urbano del commercio di...",
-      "publishedAt": "2026-11-26T00:00:00Z",
-      "dateEvidence": "feed:published"
-    },
-    {
-      "title": "Milano, vandalizzata la campagna del Niguarda contro la violenza sulle donne",
-      "url": "https://www.ilnotiziario.net/milano-vandalizzata-la-campagna-del-niguarda-contro-la-violenza-sulle-donne/",
-      "excerpt": "Milano, vandalizzata la campagna del Niguarda contro la violenza sulle donne È durata meno di 24 ore l’installazione...",
-      "publishedAt": "2026-11-26T00:00:00Z",
-      "dateEvidence": "feed:published"
     }
   ],
   "attempts": [
@@ -127,5 +127,5 @@
     }
   ],
   "message": "Feed ufficiale letto; date di pubblicazione verificate.",
-  "durationSeconds": 2.2
+  "durationSeconds": 1.64
 }
